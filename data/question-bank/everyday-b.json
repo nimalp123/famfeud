@@ -2,47 +2,47 @@
   {
     "id": "everyday-041",
     "category": "Everyday life",
-    "prompt": "Name something in a house that might spring a leak.",
+    "prompt": "Name a household problem you keep promising to fix tomorrow.",
     "answers": [
       {
-        "text": "Faucet",
+        "text": "Dripping faucet",
         "aliases": [
-          "tap"
+          "leaky tap"
         ],
         "points": 30
       },
       {
-        "text": "Water pipe",
+        "text": "Blown light bulb",
         "aliases": [
-          "plumbing pipe"
+          "dead light bulb"
         ],
         "points": 24
       },
       {
-        "text": "Toilet",
+        "text": "Squeaky door",
         "aliases": [
-          "toilet tank"
+          "creaky hinge"
         ],
         "points": 18
       },
       {
-        "text": "Roof",
+        "text": "Running toilet",
         "aliases": [
-          "roofing"
+          "toilet keeps running"
         ],
         "points": 13
       },
       {
-        "text": "Water heater",
+        "text": "Loose door handle",
         "aliases": [
-          "hot water tank"
+          "wobbly handle"
         ],
         "points": 9
       },
       {
-        "text": "Washing machine",
+        "text": "Peeling paint",
         "aliases": [
-          "washer"
+          "flaking paint"
         ],
         "points": 6
       }
@@ -51,47 +51,47 @@
   {
     "id": "everyday-042",
     "category": "Everyday life",
-    "prompt": "Name something you need before painting a room.",
+    "prompt": "Name something people silently judge when they visit a home for the first time.",
     "answers": [
       {
-        "text": "Paint",
+        "text": "Cleanliness",
         "aliases": [
-          "wall paint"
+          "how clean it is"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Paintbrush",
+        "text": "Smell",
         "aliases": [
-          "brush"
+          "odor"
         ],
         "points": 24
       },
       {
-        "text": "Roller",
+        "text": "Decorations",
         "aliases": [
-          "paint roller"
+          "decor"
         ],
         "points": 18
       },
       {
-        "text": "Drop cloth",
+        "text": "Furniture",
         "aliases": [
-          "dust sheet"
+          "sofa"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Painter's tape",
+        "text": "Size",
         "aliases": [
-          "masking tape"
+          "how big it is"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Paint tray",
+        "text": "Pet hair",
         "aliases": [
-          "roller tray"
+          "fur everywhere"
         ],
         "points": 6
       }
@@ -100,47 +100,47 @@
   {
     "id": "everyday-043",
     "category": "Everyday life",
-    "prompt": "Name a home maintenance job people do before winter.",
+    "prompt": "Name something a bossy roommate insists on controlling.",
     "answers": [
       {
-        "text": "Clean the gutters",
+        "text": "Thermostat",
         "aliases": [
-          "clear gutters"
+          "temperature"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Service the furnace",
+        "text": "TV remote",
         "aliases": [
-          "check the heating"
+          "television"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Seal window drafts",
+        "text": "Music",
         "aliases": [
-          "weatherstrip windows"
+          "playlist"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Drain outdoor faucets",
+        "text": "Cleaning schedule",
         "aliases": [
-          "winterize taps"
+          "chore rota"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Inspect the roof",
+        "text": "Parking space",
         "aliases": [
-          "check roof tiles"
+          "parking spot"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Sweep the chimney",
+        "text": "Decorating",
         "aliases": [
-          "clean the chimney"
+          "home decor"
         ],
         "points": 6
       }
@@ -149,96 +149,96 @@
   {
     "id": "everyday-044",
     "category": "Everyday life",
-    "prompt": "Name a home project that might require a ladder.",
+    "prompt": "Name a home repair someone regrets calling a five-minute job.",
     "answers": [
       {
-        "text": "Paint the ceiling",
+        "text": "Fixing a leak",
         "aliases": [
-          "ceiling painting"
+          "plumbing"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Clean the gutters",
+        "text": "Hanging a shelf",
         "aliases": [
-          "clear gutters"
+          "putting up shelves"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Change a light bulb",
+        "text": "Assembling furniture",
         "aliases": [
-          "replace a bulb"
+          "building a dresser"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Hang curtains",
+        "text": "Changing a light fitting",
         "aliases": [
-          "install curtain rods"
+          "installing a light"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Trim a tree",
+        "text": "Fixing a door",
         "aliases": [
-          "prune branches"
+          "repairing a door"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Put up holiday lights",
+        "text": "Unblocking a drain",
         "aliases": [
-          "hang festive lights"
+          "clogged drain"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-045",
     "category": "Everyday life",
-    "prompt": "Name something in a home that might squeak.",
+    "prompt": "Name a household noise that seems ten times louder at three in the morning.",
     "answers": [
       {
-        "text": "Door hinge",
+        "text": "Squeaky floor",
         "aliases": [
-          "hinges"
+          "creaking floorboards"
         ],
         "points": 30
       },
       {
-        "text": "Floorboard",
+        "text": "Toilet flushing",
         "aliases": [
-          "wooden floor"
+          "flush"
         ],
         "points": 24
       },
       {
-        "text": "Bed frame",
+        "text": "Microwave beep",
         "aliases": [
-          "bed"
+          "microwave"
         ],
         "points": 18
       },
       {
-        "text": "Rocking chair",
+        "text": "Door creaking",
         "aliases": [
-          "rocker"
+          "squeaky door"
         ],
         "points": 13
       },
       {
-        "text": "Stair",
+        "text": "Refrigerator hum",
         "aliases": [
-          "stairs"
+          "fridge buzzing"
         ],
         "points": 9
       },
       {
-        "text": "Cabinet door",
+        "text": "Clattering dishes",
         "aliases": [
-          "cupboard door"
+          "pots and pans"
         ],
         "points": 6
       }
@@ -247,47 +247,47 @@
   {
     "id": "everyday-046",
     "category": "Everyday life",
-    "prompt": "Name a reason someone hires a professional for a home project.",
+    "prompt": "Name a clue that someone's do-it-yourself repair has gone wrong.",
     "answers": [
       {
-        "text": "Lack of skills",
+        "text": "Water leaking",
         "aliases": [
-          "do not know how"
+          "flooding"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Lack of time",
+        "text": "No electricity",
         "aliases": [
-          "too busy"
+          "power went out"
         ],
         "points": 24
       },
       {
-        "text": "Safety concerns",
+        "text": "Spare parts left over",
         "aliases": [
-          "dangerous job"
+          "extra screws"
         ],
         "points": 18
       },
       {
-        "text": "Special equipment needed",
+        "text": "A hole in the wall",
         "aliases": [
-          "missing tools"
+          "cracked wall"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Permit requirements",
+        "text": "Something is crooked",
         "aliases": [
-          "building permits"
+          "uneven shelf"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Want a warranty",
+        "text": "Calling a professional",
         "aliases": [
-          "guaranteed work"
+          "calling for help"
         ],
         "points": 6
       }
@@ -296,47 +296,47 @@
   {
     "id": "everyday-047",
     "category": "Everyday life",
-    "prompt": "Name something people consider when choosing a sofa.",
+    "prompt": "Name something you don't want anywhere near a brand-new sofa.",
     "answers": [
       {
-        "text": "Comfort",
+        "text": "A muddy dog",
         "aliases": [
-          "comfortable seating"
+          "muddy pet"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Price",
+        "text": "Red wine",
         "aliases": [
-          "cost"
+          "wine glass"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Size",
+        "text": "Sharp claws",
         "aliases": [
-          "dimensions"
+          "cat claws"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Color",
+        "text": "A lit cigarette",
         "aliases": [
-          "colour"
+          "cigarette"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Fabric",
+        "text": "An uncapped marker",
         "aliases": [
-          "upholstery material"
+          "felt tip pen"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Durability",
+        "text": "Greasy food",
         "aliases": [
-          "how long it lasts"
+          "pizza slice"
         ],
         "points": 6
       }
@@ -492,47 +492,47 @@
   {
     "id": "everyday-051",
     "category": "Everyday life",
-    "prompt": "Name something people cover to protect it while painting a room.",
+    "prompt": "Name something you threaten to throw away during a serious house clean.",
     "answers": [
       {
-        "text": "Floor",
+        "text": "Old clothes",
         "aliases": [
-          "flooring"
+          "clothes nobody wears"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Sofa",
+        "text": "Empty boxes",
         "aliases": [
-          "couch"
+          "cardboard boxes"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Table",
+        "text": "Broken things",
         "aliases": [
-          "dining table"
+          "broken gadgets"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Windows",
+        "text": "Old magazines",
         "aliases": [
-          "window glass"
+          "magazine pile"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Light fixtures",
+        "text": "Expired food",
         "aliases": [
-          "ceiling lights"
+          "out of date food"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Radiator",
+        "text": "Toys nobody uses",
         "aliases": [
-          "heater"
+          "old toys"
         ],
         "points": 6
       }
@@ -541,96 +541,96 @@
   {
     "id": "everyday-052",
     "category": "Everyday life",
-    "prompt": "Name something that can leave a mark on a wooden table.",
+    "prompt": "Name something left on the table that could start a roommate argument.",
     "answers": [
       {
-        "text": "Hot mug",
+        "text": "Dirty dishes",
         "aliases": [
-          "hot cup"
+          "used plates"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Spilled water",
+        "text": "Empty food carton",
         "aliases": [
-          "water ring"
+          "empty milk carton"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Pen",
+        "text": "An unpaid bill",
         "aliases": [
-          "ink"
+          "overdue bill"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Sharp object",
+        "text": "Crumbs",
         "aliases": [
-          "knife"
+          "food crumbs"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Candle wax",
+        "text": "A sticky spill",
         "aliases": [
-          "melted wax"
+          "spilled drink"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Sticky tape",
+        "text": "Dirty shoes",
         "aliases": [
-          "tape residue"
+          "muddy shoes"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-053",
     "category": "Everyday life",
-    "prompt": "Name a reason someone replaces a carpet.",
+    "prompt": "Name a reason someone keeps using a broken household item.",
     "answers": [
       {
-        "text": "Stains",
+        "text": "Too expensive to replace",
         "aliases": [
-          "permanent stains"
+          "can't afford a new one"
         ],
         "points": 30
       },
       {
-        "text": "Worn patches",
+        "text": "It still mostly works",
         "aliases": [
-          "threadbare spots"
+          "works well enough"
         ],
         "points": 24
       },
       {
-        "text": "Bad smell",
+        "text": "Sentimental value",
         "aliases": [
-          "odor"
+          "attached to it"
         ],
         "points": 18
       },
       {
-        "text": "Dated color",
+        "text": "Plans to repair it",
         "aliases": [
-          "outdated style"
+          "will fix it"
         ],
         "points": 13
       },
       {
-        "text": "Allergies",
+        "text": "No time to replace it",
         "aliases": [
-          "dust allergies"
+          "too busy to shop"
         ],
         "points": 9
       },
       {
-        "text": "Water damage",
+        "text": "Doesn't notice the problem",
         "aliases": [
-          "flooding"
+          "hasn't noticed"
         ],
         "points": 6
       }
@@ -639,47 +639,47 @@
   {
     "id": "everyday-054",
     "category": "Everyday life",
-    "prompt": "Name a way to make a small room seem bigger.",
+    "prompt": "Name something a renter might hide before the landlord comes to inspect.",
     "answers": [
       {
-        "text": "Use mirrors",
+        "text": "A pet",
         "aliases": [
-          "add a mirror"
+          "secret dog"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Paint it a light color",
+        "text": "Damage to the wall",
         "aliases": [
-          "pale walls"
+          "holes in the wall"
         ],
         "points": 24
       },
       {
-        "text": "Remove extra furniture",
+        "text": "An extra roommate",
         "aliases": [
-          "less furniture"
+          "unauthorized tenant"
         ],
         "points": 18
       },
       {
-        "text": "Let in daylight",
+        "text": "Cigarette evidence",
         "aliases": [
-          "open the curtains"
+          "ashtray"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Use smaller furniture",
+        "text": "Candles",
         "aliases": [
-          "compact furniture"
+          "banned candles"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Clear the clutter",
+        "text": "An unauthorized appliance",
         "aliases": [
-          "tidy up"
+          "space heater"
         ],
         "points": 6
       }
@@ -688,47 +688,47 @@
   {
     "id": "everyday-055",
     "category": "Everyday life",
-    "prompt": "Name something people add to brighten a dark room.",
+    "prompt": "Name a clue that a bedroom belongs to a teenager.",
     "answers": [
       {
-        "text": "Lamp",
+        "text": "Posters",
         "aliases": [
-          "table lamp"
+          "wall posters"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Light curtains",
+        "text": "Dirty clothes on the floor",
         "aliases": [
-          "sheer curtains"
+          "laundry pile"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Mirror",
+        "text": "Game console",
         "aliases": [
-          "wall mirror"
+          "gaming setup"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "White paint",
+        "text": "Snack wrappers",
         "aliases": [
-          "pale paint"
+          "empty chip bags"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Ceiling light",
+        "text": "Schoolbooks",
         "aliases": [
-          "overhead lighting"
+          "homework"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Skylight",
+        "text": "Trophies",
         "aliases": [
-          "roof window"
+          "sports medals"
         ],
         "points": 6
       }
@@ -737,96 +737,96 @@
   {
     "id": "everyday-056",
     "category": "Everyday life",
-    "prompt": "Name a way to cool a room without air conditioning.",
+    "prompt": "Name something housemates argue about during a heat wave.",
     "answers": [
       {
-        "text": "Use a fan",
+        "text": "Air conditioning setting",
         "aliases": [
-          "electric fan"
+          "thermostat"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Close the blinds",
+        "text": "Leaving windows open",
         "aliases": [
-          "shut curtains"
+          "open windows"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Open windows",
+        "text": "Who gets the fan",
         "aliases": [
-          "let in a breeze"
+          "sharing a fan"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Turn off lights",
+        "text": "Using the oven",
         "aliases": [
-          "switch off lamps"
+          "cooking in the heat"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Use a damp towel",
+        "text": "Keeping curtains closed",
         "aliases": [
-          "hang wet towels"
+          "blinds shut"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Keep the door open",
+        "text": "Taking too long in the shower",
         "aliases": [
-          "open the door"
+          "hogging the shower"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-057",
     "category": "Everyday life",
-    "prompt": "Name something people use to keep a house warm.",
+    "prompt": "Name something people use a blanket for besides keeping themselves warm.",
     "answers": [
       {
-        "text": "Furnace",
+        "text": "Building a fort",
         "aliases": [
-          "central heating"
+          "blanket fort"
         ],
         "points": 30
       },
       {
-        "text": "Fireplace",
+        "text": "Picnic mat",
         "aliases": [
-          "wood fire"
+          "picnic blanket"
         ],
         "points": 24
       },
       {
-        "text": "Space heater",
+        "text": "Covering a sofa",
         "aliases": [
-          "portable heater"
+          "protecting furniture"
         ],
         "points": 18
       },
       {
-        "text": "Insulation",
+        "text": "Pet bedding",
         "aliases": [
-          "loft insulation"
+          "dog bed"
         ],
         "points": 13
       },
       {
-        "text": "Thick curtains",
+        "text": "Covering a window",
         "aliases": [
-          "thermal curtains"
+          "makeshift curtain"
         ],
         "points": 9
       },
       {
-        "text": "Draft stopper",
+        "text": "Dressing as a ghost",
         "aliases": [
-          "door draft excluder"
+          "ghost costume"
         ],
         "points": 6
       }
@@ -835,47 +835,47 @@
   {
     "id": "everyday-058",
     "category": "Everyday life",
-    "prompt": "Name a reason someone opens a window at home.",
+    "prompt": "Name a smell that makes everyone ask you to open a window.",
     "answers": [
       {
-        "text": "Fresh air",
+        "text": "Burnt food",
         "aliases": [
-          "air the room"
+          "burned toast"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Cool the room",
+        "text": "A fart",
         "aliases": [
-          "too hot"
+          "passing gas"
         ],
         "points": 24
       },
       {
-        "text": "Let smoke out",
+        "text": "Cigarette smoke",
         "aliases": [
-          "burned food smoke"
+          "tobacco smoke"
         ],
         "points": 18
       },
       {
-        "text": "Remove a bad smell",
+        "text": "Paint",
         "aliases": [
-          "clear an odor"
+          "paint fumes"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Let steam out",
+        "text": "Wet dog",
         "aliases": [
-          "reduce condensation"
+          "wet pet"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Talk to someone outside",
+        "text": "Rotten garbage",
         "aliases": [
-          "call to a neighbor"
+          "smelly trash"
         ],
         "points": 6
       }
@@ -884,48 +884,47 @@
   {
     "id": "everyday-059",
     "category": "Everyday life",
-    "prompt": "Name a room where someone might hide a surprise gift.",
+    "prompt": "Name a place someone hides a gift where the recipient might accidentally find it.",
     "answers": [
       {
-        "text": "Primary bedroom",
+        "text": "Closet",
         "aliases": [
-          "main bedroom",
-          "master bedroom"
+          "wardrobe"
         ],
-        "points": 28
+        "points": 30
+      },
+      {
+        "text": "Under the bed",
+        "aliases": [
+          "beneath the bed"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Car trunk",
+        "aliases": [
+          "boot of the car"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Garage",
+        "aliases": [
+          "in the garage"
+        ],
+        "points": 13
       },
       {
         "text": "Attic",
         "aliases": [
           "loft"
         ],
-        "points": 23
+        "points": 9
       },
       {
-        "text": "Basement",
+        "text": "Desk drawer",
         "aliases": [
-          "cellar"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Garage",
-        "aliases": [
-          "car garage"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Guest room",
-        "aliases": [
-          "spare bedroom"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Laundry room",
-        "aliases": [
-          "utility room"
+          "office drawer"
         ],
         "points": 6
       }
@@ -934,96 +933,96 @@
   {
     "id": "everyday-060",
     "category": "Everyday life",
-    "prompt": "Name something people turn a spare room into.",
+    "prompt": "Name what a spare bedroom becomes when you rarely have overnight guests.",
     "answers": [
+      {
+        "text": "Storage room",
+        "aliases": [
+          "junk room"
+        ],
+        "points": 30
+      },
       {
         "text": "Home office",
         "aliases": [
           "study"
         ],
-        "points": 35
+        "points": 24
       },
       {
-        "text": "Guest bedroom",
-        "aliases": [
-          "guest room"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Gym",
+        "text": "Home gym",
         "aliases": [
           "exercise room"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Playroom",
+        "text": "Gaming room",
         "aliases": [
-          "toy room"
+          "game room"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Craft room",
+        "text": "Laundry dumping ground",
         "aliases": [
-          "sewing room"
+          "clothes room"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Library",
+        "text": "Pet room",
         "aliases": [
-          "reading room"
+          "room for the cat"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-061",
     "category": "Everyday life",
-    "prompt": "Name a place in a home that is difficult to reach when cleaning.",
+    "prompt": "Name a part of the house people hope nobody looks at closely when they visit.",
     "answers": [
-      {
-        "text": "Behind the refrigerator",
-        "aliases": [
-          "behind the fridge"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Top of cabinets",
-        "aliases": [
-          "cupboard tops"
-        ],
-        "points": 24
-      },
       {
         "text": "Under the bed",
         "aliases": [
           "beneath the bed"
         ],
+        "points": 30
+      },
+      {
+        "text": "Behind the sofa",
+        "aliases": [
+          "behind the couch"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Inside the oven",
+        "aliases": [
+          "oven"
+        ],
         "points": 18
       },
       {
-        "text": "Ceiling fan",
+        "text": "Top of the refrigerator",
         "aliases": [
-          "fan blades"
+          "top of the fridge"
         ],
         "points": 13
       },
       {
-        "text": "Behind the toilet",
+        "text": "Baseboards",
         "aliases": [
-          "back of the toilet"
+          "skirting boards"
         ],
         "points": 9
       },
       {
-        "text": "High windows",
+        "text": "Window blinds",
         "aliases": [
-          "upstairs window glass"
+          "blinds"
         ],
         "points": 6
       }
@@ -1032,47 +1031,47 @@
   {
     "id": "everyday-062",
     "category": "Everyday life",
-    "prompt": "Name something someone needs to mop a floor.",
+    "prompt": "There's no toilet paper. Name something someone might desperately reach for.",
     "answers": [
       {
-        "text": "Mop",
+        "text": "Tissues",
         "aliases": [
-          "floor mop"
+          "facial tissues"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Bucket",
+        "text": "Paper towels",
         "aliases": [
-          "pail"
+          "kitchen roll"
         ],
         "points": 24
       },
       {
-        "text": "Water",
+        "text": "Wet wipes",
         "aliases": [
-          "clean water"
+          "baby wipes"
         ],
         "points": 18
       },
       {
-        "text": "Floor cleaner",
+        "text": "Napkins",
         "aliases": [
-          "mopping solution"
+          "serviettes"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Rubber gloves",
+        "text": "Newspaper",
         "aliases": [
-          "cleaning gloves"
+          "newspaper pages"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Broom",
+        "text": "Shower",
         "aliases": [
-          "sweeping brush"
+          "bidet"
         ],
         "points": 6
       }
@@ -1179,47 +1178,47 @@
   {
     "id": "everyday-065",
     "category": "Everyday life",
-    "prompt": "Name something people often forget to clean in a kitchen.",
+    "prompt": "Name something a guest does that makes you regret inviting them over.",
     "answers": [
       {
-        "text": "Range hood",
+        "text": "Stays too long",
         "aliases": [
-          "extractor hood"
+          "won't leave"
         ],
         "points": 30
       },
       {
-        "text": "Top of refrigerator",
+        "text": "Criticizes your home",
         "aliases": [
-          "fridge top"
+          "insults the house"
         ],
         "points": 24
       },
       {
-        "text": "Behind the stove",
+        "text": "Spills a drink",
         "aliases": [
-          "behind the cooker"
+          "makes a mess"
         ],
         "points": 18
       },
       {
-        "text": "Cabinet handles",
+        "text": "Breaks something",
         "aliases": [
-          "cupboard knobs"
+          "damages something"
         ],
         "points": 13
       },
       {
-        "text": "Garbage disposal",
+        "text": "Brings an uninvited friend",
         "aliases": [
-          "sink disposal"
+          "brings extra people"
         ],
         "points": 9
       },
       {
-        "text": "Dishwasher filter",
+        "text": "Snoops",
         "aliases": [
-          "dishwasher trap"
+          "looks through drawers"
         ],
         "points": 6
       }
@@ -1228,47 +1227,47 @@
   {
     "id": "everyday-066",
     "category": "Everyday life",
-    "prompt": "Name a reason someone rearranges furniture in a room.",
+    "prompt": "Name a reason a couple argues while deciding where the sofa should go.",
     "answers": [
       {
-        "text": "Want a new look",
+        "text": "Can't see the TV",
         "aliases": [
-          "change the style"
+          "bad television view"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Need more space",
+        "text": "Blocks the walkway",
         "aliases": [
-          "free up room"
+          "can't walk past"
         ],
         "points": 24
       },
       {
-        "text": "Improve the television view",
+        "text": "Takes up too much space",
         "aliases": [
-          "see the tv better"
+          "room feels crowded"
         ],
         "points": 18
       },
       {
-        "text": "Make room for guests",
+        "text": "Too far from an outlet",
         "aliases": [
-          "add seating"
+          "no plug nearby"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Reach electrical outlets",
+        "text": "One prefers the old layout",
         "aliases": [
-          "access sockets"
+          "doesn't want to move it"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Get more daylight",
+        "text": "Won't fit",
         "aliases": [
-          "unblock windows"
+          "wrong measurements"
         ],
         "points": 6
       }
@@ -1277,47 +1276,47 @@
   {
     "id": "everyday-067",
     "category": "Everyday life",
-    "prompt": "Name something people use to clean windows.",
+    "prompt": "Name something people wipe with their shirt when they can't find a cloth.",
     "answers": [
       {
-        "text": "Glass cleaner",
+        "text": "Glasses",
         "aliases": [
-          "window spray"
+          "eyeglasses"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Squeegee",
+        "text": "Phone screen",
         "aliases": [
-          "window wiper"
+          "cellphone"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Microfiber cloth",
+        "text": "Camera lens",
         "aliases": [
-          "cleaning cloth"
+          "camera"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Newspaper",
+        "text": "Watch face",
         "aliases": [
-          "old newspaper"
+          "wristwatch"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Paper towels",
+        "text": "A wet seat",
         "aliases": [
-          "kitchen roll"
+          "wet chair"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Soapy water",
+        "text": "A small spill",
         "aliases": [
-          "water and soap"
+          "spilled water"
         ],
         "points": 6
       }
@@ -1326,49 +1325,49 @@
   {
     "id": "everyday-068",
     "category": "Everyday life",
-    "prompt": "Name something that leaves fingerprints around a house.",
+    "prompt": "Name a spot where a toddler leaves sticky fingerprints.",
     "answers": [
       {
         "text": "Window",
         "aliases": [
-          "window glass"
+          "glass door"
         ],
-        "points": 35
+        "points": 30
+      },
+      {
+        "text": "TV screen",
+        "aliases": [
+          "television"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Refrigerator door",
+        "aliases": [
+          "fridge"
+        ],
+        "points": 18
       },
       {
         "text": "Mirror",
         "aliases": [
           "bathroom mirror"
         ],
-        "points": 25
+        "points": 13
       },
       {
-        "text": "Refrigerator door",
+        "text": "Wall",
         "aliases": [
-          "fridge door"
+          "painted wall"
         ],
-        "points": 16
+        "points": 9
       },
       {
-        "text": "Television screen",
+        "text": "Cabinet",
         "aliases": [
-          "tv screen"
+          "cupboard door"
         ],
-        "points": 11
-      },
-      {
-        "text": "Light switch",
-        "aliases": [
-          "switch plate"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Glass table",
-        "aliases": [
-          "glass tabletop"
-        ],
-        "points": 5
+        "points": 6
       }
     ]
   },
@@ -1473,47 +1472,47 @@
   {
     "id": "everyday-071",
     "category": "Everyday life",
-    "prompt": "Name something that makes a washing machine unusually noisy.",
+    "prompt": "Name something that can ruin a white shirt in seconds.",
     "answers": [
       {
-        "text": "Unbalanced load",
+        "text": "Tomato sauce",
         "aliases": [
-          "uneven load"
+          "ketchup"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Coins inside",
+        "text": "Coffee",
         "aliases": [
-          "loose change"
+          "spilled coffee"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Overloading",
+        "text": "Mud",
         "aliases": [
-          "too many clothes"
+          "dirt"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Loose part",
+        "text": "Makeup",
         "aliases": [
-          "loose component"
+          "foundation"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Uneven floor",
+        "text": "Ink",
         "aliases": [
-          "not level"
+          "leaking pen"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Shoes in the drum",
+        "text": "Sweat",
         "aliases": [
-          "washing sneakers"
+          "sweat stain"
         ],
         "points": 6
       }
@@ -1522,96 +1521,96 @@
   {
     "id": "everyday-072",
     "category": "Everyday life",
-    "prompt": "Name something people avoid putting in a clothes dryer.",
+    "prompt": "Name a reason a guest might be reluctant to take their shoes off in your house.",
     "answers": [
       {
-        "text": "Wool sweater",
+        "text": "Dirty floor",
         "aliases": [
-          "wool jumper"
+          "filthy floor"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Silk blouse",
+        "text": "Holes in their socks",
         "aliases": [
-          "silk shirt"
+          "torn socks"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Leather jacket",
+        "text": "Smelly feet",
         "aliases": [
-          "leather clothing"
+          "foot odor"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Running shoes",
+        "text": "Not wearing socks",
         "aliases": [
-          "sneakers"
+          "barefoot inside shoes"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Bra",
+        "text": "Foot injury",
         "aliases": [
-          "bras"
+          "hurt foot"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Rubber bath mat",
+        "text": "Leaving again soon",
         "aliases": [
-          "rubber backed mat"
+          "just stopping in"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-073",
     "category": "Everyday life",
-    "prompt": "Name somewhere people hang clothes to dry.",
+    "prompt": "Name a place clean laundry waits while you avoid folding it.",
     "answers": [
       {
-        "text": "Clothesline",
+        "text": "Laundry basket",
         "aliases": [
-          "washing line"
+          "washing basket"
         ],
         "points": 30
       },
       {
-        "text": "Drying rack",
+        "text": "Bed",
         "aliases": [
-          "clothes horse"
+          "on the bed"
         ],
         "points": 24
       },
       {
-        "text": "Shower rod",
+        "text": "Chair",
         "aliases": [
-          "shower rail"
+          "laundry chair"
         ],
         "points": 18
       },
       {
-        "text": "Balcony railing",
+        "text": "Floor",
         "aliases": [
-          "balcony rail"
+          "on the floor"
         ],
         "points": 13
       },
       {
-        "text": "Back of a chair",
+        "text": "Dryer",
         "aliases": [
-          "chair back"
+          "tumble dryer"
         ],
         "points": 9
       },
       {
-        "text": "Radiator",
+        "text": "Spare room",
         "aliases": [
-          "heater"
+          "guest room"
         ],
         "points": 6
       }
@@ -1669,47 +1668,47 @@
   {
     "id": "everyday-075",
     "category": "Everyday life",
-    "prompt": "Name something people usually wash by hand instead of in a dishwasher.",
+    "prompt": "Name a kitchen rule your roommate somehow keeps forgetting.",
     "answers": [
       {
-        "text": "Wooden spoon",
+        "text": "Wash your dishes",
         "aliases": [
-          "wood utensils"
+          "do the washing up"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Cast iron skillet",
+        "text": "Replace what you finish",
         "aliases": [
-          "cast iron pan"
+          "buy more when empty"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Crystal glass",
+        "text": "Don't eat labeled food",
         "aliases": [
-          "fine crystal"
+          "leave my food alone"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Sharp knife",
+        "text": "Wipe the counters",
         "aliases": [
-          "chef knife"
+          "clean the worktop"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Nonstick pan",
+        "text": "Close the fridge",
         "aliases": [
-          "non stick cookware"
+          "shut refrigerator door"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Insulated travel mug",
+        "text": "Take out the trash",
         "aliases": [
-          "vacuum cup"
+          "empty the bin"
         ],
         "points": 6
       }
@@ -1718,96 +1717,96 @@
   {
     "id": "everyday-076",
     "category": "Everyday life",
-    "prompt": "Name a complaint someone might have about a dishwasher.",
+    "prompt": "Name something people argue about when loading a dishwasher.",
     "answers": [
       {
-        "text": "Dishes still dirty",
+        "text": "Which way plates face",
         "aliases": [
-          "does not clean"
+          "plate direction"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Glasses look cloudy",
+        "text": "Pre-rinsing dishes",
         "aliases": [
-          "cloudy glassware"
+          "rinse first"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Too noisy",
+        "text": "Where cutlery goes",
         "aliases": [
-          "loud machine"
+          "utensil placement"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Water leaks",
+        "text": "Whether it's too full",
         "aliases": [
-          "leaking"
+          "overloading"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Cycle takes too long",
+        "text": "What is dishwasher safe",
         "aliases": [
-          "slow cycle"
+          "what can go inside"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Dishes still wet",
+        "text": "Whose turn it is",
         "aliases": [
-          "does not dry"
+          "who loads it"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-077",
     "category": "Everyday life",
-    "prompt": "Name something people do to get rid of a bad smell in a refrigerator.",
+    "prompt": "Name something a roommate does to cover up a bad smell instead of cleaning the source.",
     "answers": [
       {
-        "text": "Throw out spoiled food",
+        "text": "Sprays air freshener",
         "aliases": [
-          "remove old leftovers"
+          "deodorizing spray"
         ],
         "points": 30
       },
       {
-        "text": "Wipe the shelves",
+        "text": "Lights a candle",
         "aliases": [
-          "clean inside"
+          "scented candle"
         ],
         "points": 24
       },
       {
-        "text": "Add baking soda",
+        "text": "Opens a window",
         "aliases": [
-          "bicarbonate of soda"
+          "lets air in"
         ],
         "points": 18
       },
       {
-        "text": "Wash the drawers",
+        "text": "Turns on a fan",
         "aliases": [
-          "clean crisper drawers"
+          "runs a fan"
         ],
         "points": 13
       },
       {
-        "text": "Clean the drain",
+        "text": "Uses perfume",
         "aliases": [
-          "clear drain hole"
+          "sprays cologne"
         ],
         "points": 9
       },
       {
-        "text": "Replace the filter",
+        "text": "Burns incense",
         "aliases": [
-          "change odor filter"
+          "incense sticks"
         ],
         "points": 6
       }
@@ -1816,47 +1815,47 @@
   {
     "id": "everyday-078",
     "category": "Everyday life",
-    "prompt": "Name something besides food that people keep in a freezer.",
+    "prompt": "Name a clue that a roommate ate the food they swore they hadn't touched.",
     "answers": [
       {
-        "text": "Ice packs",
+        "text": "Empty container",
         "aliases": [
-          "cold packs"
+          "empty tub"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Ice cubes",
+        "text": "Wrapper in their room",
         "aliases": [
-          "ice"
+          "packaging in their trash"
         ],
         "points": 24
       },
       {
-        "text": "Ice cube trays",
+        "text": "Food on their face",
         "aliases": [
-          "ice trays"
+          "crumbs on their mouth"
         ],
         "points": 18
       },
       {
-        "text": "Chilled glasses",
+        "text": "You saw them eating it",
         "aliases": [
-          "frosted mugs"
+          "caught them"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Teething ring",
+        "text": "Their breath gives it away",
         "aliases": [
-          "teething toy"
+          "smells on their breath"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Cooling eye mask",
+        "text": "They suddenly bought a replacement",
         "aliases": [
-          "gel eye mask"
+          "replaced it"
         ],
         "points": 6
       }
@@ -1915,96 +1914,96 @@
   {
     "id": "everyday-080",
     "category": "Everyday life",
-    "prompt": "Name a small kitchen appliance that takes up counter space.",
+    "prompt": "Name a kitchen gadget people buy with big plans and barely use.",
     "answers": [
       {
-        "text": "Toaster",
+        "text": "Bread maker",
         "aliases": [
-          "bread toaster"
+          "bread machine"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Coffee maker",
+        "text": "Juicer",
         "aliases": [
-          "coffee machine"
+          "juice machine"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Blender",
+        "text": "Pasta maker",
         "aliases": [
-          "food blender"
+          "pasta machine"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Air fryer",
+        "text": "Ice cream maker",
         "aliases": [
-          "airfryer"
+          "ice cream machine"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Electric kettle",
+        "text": "Waffle iron",
         "aliases": [
-          "kettle"
+          "waffle maker"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Stand mixer",
+        "text": "Spiralizer",
         "aliases": [
-          "electric mixer"
+          "vegetable spiralizer"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-081",
     "category": "Everyday life",
-    "prompt": "Name something people check when a household appliance will not turn on.",
+    "prompt": "The washing machine breaks. Name something you might try before calling a repair person.",
     "answers": [
       {
-        "text": "Power plug",
+        "text": "Restart it",
         "aliases": [
-          "plugged in"
+          "turn it off and on"
         ],
         "points": 30
       },
       {
-        "text": "Electrical outlet",
+        "text": "Check the plug",
         "aliases": [
-          "wall socket"
+          "plug it in"
         ],
         "points": 24
       },
       {
-        "text": "Circuit breaker",
+        "text": "Search online",
         "aliases": [
-          "fuse box"
+          "watch a tutorial"
         ],
         "points": 18
       },
       {
-        "text": "On switch",
+        "text": "Call a parent",
         "aliases": [
-          "power button"
+          "ask dad"
         ],
         "points": 13
       },
       {
-        "text": "Power cord",
+        "text": "Read the manual",
         "aliases": [
-          "damaged cable"
+          "check instructions"
         ],
         "points": 9
       },
       {
-        "text": "Child lock",
+        "text": "Kick it",
         "aliases": [
-          "control lock"
+          "hit the machine"
         ],
         "points": 6
       }
@@ -2013,47 +2012,47 @@
   {
     "id": "everyday-082",
     "category": "Everyday life",
-    "prompt": "Name something people iron at home.",
+    "prompt": "Name something people smell to decide if it really needs washing.",
     "answers": [
       {
         "text": "Shirt",
         "aliases": [
-          "dress shirt"
+          "t shirt"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Pants",
+        "text": "Socks",
         "aliases": [
-          "trousers"
+          "sock"
         ],
         "points": 24
       },
       {
-        "text": "Dress",
+        "text": "Towel",
         "aliases": [
-          "dresses"
+          "bath towel"
         ],
         "points": 18
       },
       {
-        "text": "Tablecloth",
+        "text": "Underwear",
         "aliases": [
-          "table linen"
+          "underpants"
         ],
-        "points": 12
-      },
-      {
-        "text": "Curtains",
-        "aliases": [
-          "drapes"
-        ],
-        "points": 8
+        "points": 13
       },
       {
         "text": "Bedsheets",
         "aliases": [
-          "bed sheets"
+          "bed linen"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Jeans",
+        "aliases": [
+          "pants"
         ],
         "points": 6
       }
@@ -2062,47 +2061,47 @@
   {
     "id": "everyday-083",
     "category": "Everyday life",
-    "prompt": "Name something people unplug before leaving home for a long trip.",
+    "prompt": "Name something you check repeatedly before leaving your house unattended.",
     "answers": [
+      {
+        "text": "Door locks",
+        "aliases": [
+          "locked doors"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Stove",
+        "aliases": [
+          "oven off"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Windows",
+        "aliases": [
+          "windows shut"
+        ],
+        "points": 18
+      },
       {
         "text": "Iron",
         "aliases": [
-          "clothes iron"
+          "iron unplugged"
         ],
-        "points": 28
+        "points": 13
       },
       {
-        "text": "Coffee maker",
+        "text": "Pets",
         "aliases": [
-          "coffee machine"
+          "pet has food"
         ],
-        "points": 23
+        "points": 9
       },
       {
-        "text": "Toaster",
+        "text": "Lights",
         "aliases": [
-          "bread toaster"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Television",
-        "aliases": [
-          "tv"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Phone charger",
-        "aliases": [
-          "mobile charger"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Computer",
-        "aliases": [
-          "desktop computer"
+          "lights off"
         ],
         "points": 6
       }
@@ -2111,96 +2110,96 @@
   {
     "id": "everyday-084",
     "category": "Everyday life",
-    "prompt": "Name an appliance with a removable part that needs regular cleaning.",
+    "prompt": "Name an excuse someone gives when they don't want a friend sleeping at their place.",
     "answers": [
       {
-        "text": "Vacuum cleaner",
+        "text": "No spare bed",
         "aliases": [
-          "vacuum"
+          "nowhere to sleep"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Dishwasher",
+        "text": "Place is a mess",
         "aliases": [
-          "dish washer"
+          "house is dirty"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Clothes dryer",
+        "text": "Early start tomorrow",
         "aliases": [
-          "tumble dryer"
+          "work early"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Air conditioner",
+        "text": "Roommate won't allow it",
         "aliases": [
-          "ac unit"
+          "roommate objects"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Coffee maker",
+        "text": "Family is visiting",
         "aliases": [
-          "coffee machine"
+          "parents are staying"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Blender",
+        "text": "Pet won't behave",
         "aliases": [
-          "food blender"
+          "dog will bark"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-085",
     "category": "Everyday life",
-    "prompt": "Name a reason someone keeps opening the refrigerator door.",
+    "prompt": "Name something people promise they'll do once they have a bigger home.",
     "answers": [
       {
-        "text": "Looking for a snack",
+        "text": "Host parties",
         "aliases": [
-          "hungry"
+          "entertain friends"
         ],
         "points": 30
       },
       {
-        "text": "Putting groceries away",
+        "text": "Get a pet",
         "aliases": [
-          "unpacking groceries"
+          "get a dog"
         ],
         "points": 24
       },
       {
-        "text": "Getting a drink",
+        "text": "Make a home gym",
         "aliases": [
-          "thirsty"
+          "exercise room"
         ],
         "points": 18
       },
       {
-        "text": "Deciding what to cook",
+        "text": "Have children",
         "aliases": [
-          "planning dinner"
+          "start a family"
         ],
         "points": 13
       },
       {
-        "text": "Checking what is missing",
+        "text": "Buy a huge sofa",
         "aliases": [
-          "making a shopping list"
+          "bigger couch"
         ],
         "points": 9
       },
       {
-        "text": "Cleaning the shelves",
+        "text": "Create a hobby room",
         "aliases": [
-          "cleaning inside"
+          "art studio"
         ],
         "points": 6
       }
@@ -2209,47 +2208,47 @@
   {
     "id": "everyday-086",
     "category": "Everyday life",
-    "prompt": "Name something that might roll underneath a refrigerator.",
+    "prompt": "Name something in your home that vanishes the moment you actually need it.",
     "answers": [
       {
-        "text": "Coin",
+        "text": "Keys",
         "aliases": [
-          "loose change"
+          "house keys"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Grape",
+        "text": "Scissors",
         "aliases": [
-          "grapes"
+          "pair of scissors"
         ],
         "points": 24
       },
       {
-        "text": "Pet toy",
+        "text": "Tape",
         "aliases": [
-          "cat ball"
+          "sticky tape"
         ],
         "points": 18
       },
       {
-        "text": "Bottle cap",
+        "text": "Remote",
         "aliases": [
-          "bottle top"
+          "TV remote"
         ],
-        "points": 12
+        "points": 13
+      },
+      {
+        "text": "Charger",
+        "aliases": [
+          "phone charger"
+        ],
+        "points": 9
       },
       {
         "text": "Pen",
         "aliases": [
-          "pencil"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Marble",
-        "aliases": [
-          "toy marble"
+          "writing pen"
         ],
         "points": 6
       }
@@ -2258,47 +2257,47 @@
   {
     "id": "everyday-087",
     "category": "Everyday life",
-    "prompt": "Name something people attach to the outside of a refrigerator.",
+    "prompt": "Name something a parent keeps on display that embarrasses their grown-up child.",
     "answers": [
       {
-        "text": "Magnet",
+        "text": "Baby photo",
         "aliases": [
-          "fridge magnet"
+          "baby picture"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Shopping list",
+        "text": "Childhood artwork",
         "aliases": [
-          "grocery list"
+          "old drawing"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Photo",
+        "text": "School report",
         "aliases": [
-          "photograph"
+          "report card"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Child's drawing",
+        "text": "Childhood trophy",
         "aliases": [
-          "kids artwork"
+          "old sports trophy"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Calendar",
+        "text": "First pair of shoes",
         "aliases": [
-          "family calendar"
+          "baby shoes"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Takeout menu",
+        "text": "Old love letter",
         "aliases": [
-          "takeaway menu"
+          "childhood love note"
         ],
         "points": 6
       }
@@ -2307,96 +2306,96 @@
   {
     "id": "everyday-088",
     "category": "Everyday life",
-    "prompt": "Name something besides food stored in a kitchen cabinet.",
+    "prompt": "Name something a host can't find after everyone has left the party.",
     "answers": [
       {
-        "text": "Plates",
+        "text": "Drinking glasses",
         "aliases": [
-          "dinner plates"
+          "cups"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Cups",
+        "text": "Bottle opener",
         "aliases": [
-          "mugs"
+          "opener"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Pots",
+        "text": "Serving bowls",
         "aliases": [
-          "saucepans"
+          "salad bowl"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Mixing bowls",
+        "text": "Cutlery",
         "aliases": [
-          "bowls"
+          "forks and spoons"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Food containers",
+        "text": "Lighter",
         "aliases": [
-          "storage containers"
+          "candle lighter"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Baking pans",
+        "text": "Dish towel",
         "aliases": [
-          "cake tins"
+          "tea towel"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-089",
     "category": "Everyday life",
-    "prompt": "Name something people keep under the kitchen sink.",
+    "prompt": "Name an excuse someone uses to avoid hosting the next get-together.",
     "answers": [
       {
-        "text": "Dish soap",
+        "text": "Place is too small",
         "aliases": [
-          "washing up liquid"
+          "not enough room"
         ],
         "points": 30
       },
       {
-        "text": "Trash bags",
+        "text": "Renovating",
         "aliases": [
-          "bin liners"
+          "building work"
         ],
         "points": 24
       },
       {
-        "text": "Sponges",
+        "text": "Neighbors complain",
         "aliases": [
-          "scrub sponge"
+          "noise complaints"
         ],
         "points": 18
       },
       {
-        "text": "Cleaning spray",
+        "text": "Already hosted last time",
         "aliases": [
-          "surface cleaner"
+          "it's someone else's turn"
         ],
         "points": 13
       },
       {
-        "text": "Rubber gloves",
+        "text": "Kids need to sleep",
         "aliases": [
-          "washing up gloves"
+          "children asleep"
         ],
         "points": 9
       },
       {
-        "text": "Bucket",
+        "text": "Place is a mess",
         "aliases": [
-          "pail"
+          "haven't cleaned"
         ],
         "points": 6
       }
@@ -2405,47 +2404,47 @@
   {
     "id": "everyday-090",
     "category": "Everyday life",
-    "prompt": "Name a messy household task people wear rubber gloves for.",
+    "prompt": "Name a bathroom habit that can make a roommate impossible to live with.",
     "answers": [
       {
-        "text": "Scrubbing a toilet",
+        "text": "Uses all the hot water",
         "aliases": [
-          "cleaning the toilet"
+          "long showers"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Washing dishes",
+        "text": "Leaves hair in the drain",
         "aliases": [
-          "washing up"
+          "hair clogging shower"
         ],
         "points": 24
       },
       {
-        "text": "Cleaning an oven",
+        "text": "Never cleans",
         "aliases": [
-          "scrubbing the oven"
+          "leaves it filthy"
         ],
         "points": 18
       },
       {
-        "text": "Handling garbage",
+        "text": "Leaves no toilet paper",
         "aliases": [
-          "taking out trash"
+          "doesn't replace the roll"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Unclogging a drain",
+        "text": "Gets the floor soaked",
         "aliases": [
-          "clearing a drain"
+          "water all over the floor"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Cleaning a litter box",
+        "text": "Leaves the toilet seat up",
         "aliases": [
-          "scooping cat litter"
+          "seat left up"
         ],
         "points": 6
       }
@@ -2454,47 +2453,47 @@
   {
     "id": "everyday-091",
     "category": "Everyday life",
-    "prompt": "Name something in a living room that collects dust.",
+    "prompt": "You hear a crash while home alone. What do you blame first?",
     "answers": [
       {
-        "text": "Bookshelf",
+        "text": "Pet",
         "aliases": [
-          "bookcase"
+          "cat or dog"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Television",
+        "text": "Wind",
         "aliases": [
-          "tv"
+          "open window"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Lampshade",
+        "text": "Something fell off a shelf",
         "aliases": [
-          "lamp shade"
+          "fallen object"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Blinds",
+        "text": "A burglar",
         "aliases": [
-          "window blinds"
+          "intruder"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Picture frames",
+        "text": "Neighbor",
         "aliases": [
-          "photo frames"
+          "someone next door"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Artificial plants",
+        "text": "Ghost",
         "aliases": [
-          "fake plants"
+          "haunted house"
         ],
         "points": 6
       }
@@ -2503,96 +2502,96 @@
   {
     "id": "everyday-092",
     "category": "Everyday life",
-    "prompt": "Name something people use to freshen the smell of a home.",
+    "prompt": "Name a smell that instantly makes a house feel cozy.",
     "answers": [
       {
-        "text": "Scented candle",
+        "text": "Fresh baking",
         "aliases": [
-          "candle"
+          "baking bread"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Air freshener spray",
+        "text": "Coffee",
         "aliases": [
-          "room spray"
+          "fresh coffee"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Open windows",
+        "text": "Clean laundry",
         "aliases": [
-          "fresh air"
+          "fresh linen"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Reed diffuser",
+        "text": "Wood fire",
         "aliases": [
-          "oil diffuser"
+          "fireplace"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Potpourri",
+        "text": "Flowers",
         "aliases": [
-          "dried scented flowers"
+          "fresh flowers"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Baking soda",
+        "text": "Dinner cooking",
         "aliases": [
-          "bicarbonate of soda"
+          "home cooked meal"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-093",
     "category": "Everyday life",
-    "prompt": "Name something people use to remove pet hair from furniture.",
+    "prompt": "Name something a dog steals and turns into a chase around the house.",
     "answers": [
       {
-        "text": "Vacuum cleaner",
+        "text": "Sock",
         "aliases": [
-          "vacuum"
+          "dirty sock"
         ],
         "points": 30
       },
       {
-        "text": "Lint roller",
+        "text": "Shoe",
         "aliases": [
-          "sticky roller"
+          "slipper"
         ],
         "points": 24
       },
       {
-        "text": "Rubber glove",
+        "text": "Food",
         "aliases": [
-          "damp glove"
+          "snack"
         ],
         "points": 18
       },
       {
-        "text": "Pet hair brush",
+        "text": "Remote",
         "aliases": [
-          "upholstery brush"
+          "TV remote"
         ],
         "points": 13
       },
       {
-        "text": "Sticky tape",
+        "text": "Toilet paper",
         "aliases": [
-          "adhesive tape"
+          "toilet roll"
         ],
         "points": 9
       },
       {
-        "text": "Damp sponge",
+        "text": "Underwear",
         "aliases": [
-          "wet sponge"
+          "underpants"
         ],
         "points": 6
       }
@@ -2601,47 +2600,47 @@
   {
     "id": "everyday-094",
     "category": "Everyday life",
-    "prompt": "Name something a puppy might chew in the house.",
+    "prompt": "Name something a dog does that makes a visitor uncomfortable.",
     "answers": [
       {
-        "text": "Shoe",
+        "text": "Jumps on them",
         "aliases": [
-          "slipper"
+          "jumping up"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Furniture leg",
+        "text": "Licks their face",
         "aliases": [
-          "chair leg"
+          "face licking"
         ],
         "points": 24
       },
       {
-        "text": "Electrical cord",
+        "text": "Sniffs their crotch",
         "aliases": [
-          "power cable"
+          "sniffs private areas"
         ],
         "points": 18
       },
       {
-        "text": "Cushion",
+        "text": "Growls",
         "aliases": [
-          "throw pillow"
+          "growling"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Book",
+        "text": "Humps their leg",
         "aliases": [
-          "books"
+          "leg humping"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Rug",
+        "text": "Drools on them",
         "aliases": [
-          "carpet"
+          "slobbers"
         ],
         "points": 6
       }
@@ -2650,47 +2649,47 @@
   {
     "id": "everyday-095",
     "category": "Everyday life",
-    "prompt": "Name a high place a cat likes to sit in a house.",
+    "prompt": "Name something a cat does just as you finally get comfortable.",
     "answers": [
       {
-        "text": "Windowsill",
+        "text": "Sits on your lap",
         "aliases": [
-          "window ledge"
+          "climbs onto you"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Top of a refrigerator",
+        "text": "Scratches the door",
         "aliases": [
-          "fridge top"
+          "wants the door open"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Bookshelf",
+        "text": "Knocks over a drink",
         "aliases": [
-          "bookcase"
+          "spills your cup"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Cat tree",
+        "text": "Walks on your face",
         "aliases": [
-          "cat tower"
+          "steps on your face"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Back of a sofa",
+        "text": "Steals your seat",
         "aliases": [
-          "couch back"
+          "takes your spot"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Top of a wardrobe",
+        "text": "Coughs up a hairball",
         "aliases": [
-          "armoire top"
+          "hairball"
         ],
         "points": 6
       }
@@ -2797,47 +2796,47 @@
   {
     "id": "everyday-098",
     "category": "Everyday life",
-    "prompt": "Name something a pet owner keeps close to the pet's bed.",
+    "prompt": "Name a word that makes a dog think you're talking to it.",
     "answers": [
       {
-        "text": "Water bowl",
+        "text": "Walk",
         "aliases": [
-          "water dish"
+          "walkies"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Toy",
+        "text": "Treat",
         "aliases": [
-          "chew toy"
+          "cookie"
         ],
         "points": 24
       },
       {
-        "text": "Blanket",
+        "text": "Dinner",
         "aliases": [
-          "pet blanket"
+          "food"
         ],
         "points": 18
       },
       {
-        "text": "Food bowl",
+        "text": "Car",
         "aliases": [
-          "food dish"
+          "ride"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Leash",
+        "text": "Park",
         "aliases": [
-          "lead"
+          "dog park"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Treat jar",
+        "text": "Ball",
         "aliases": [
-          "treat container"
+          "fetch"
         ],
         "points": 6
       }
@@ -2846,47 +2845,47 @@
   {
     "id": "everyday-099",
     "category": "Everyday life",
-    "prompt": "Name something people buy before bringing home a new pet.",
+    "prompt": "Name a pet expense that surprises a first-time owner.",
     "answers": [
       {
-        "text": "Food",
+        "text": "Vet bills",
         "aliases": [
-          "pet food"
+          "veterinarian"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Bed",
+        "text": "Grooming",
         "aliases": [
-          "pet bed"
+          "haircuts"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Bowls",
+        "text": "Boarding",
         "aliases": [
-          "food and water bowls"
+          "pet sitter"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Toys",
+        "text": "Damage repairs",
         "aliases": [
-          "pet toys"
+          "chewed furniture"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Collar",
+        "text": "Training",
         "aliases": [
-          "pet collar"
+          "obedience classes"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Carrier",
+        "text": "Insurance",
         "aliases": [
-          "travel crate"
+          "pet insurance"
         ],
         "points": 6
       }
@@ -2944,47 +2943,47 @@
   {
     "id": "everyday-101",
     "category": "Everyday life",
-    "prompt": "Name a reason someone keeps a pet out of one room.",
+    "prompt": "Name a reason someone finally bans the dog from sleeping in their bed.",
     "answers": [
       {
-        "text": "Allergies",
+        "text": "Takes up all the space",
         "aliases": [
-          "allergic person"
+          "hogs the bed"
         ],
         "points": 30
       },
       {
-        "text": "New carpet",
+        "text": "Sheds hair",
         "aliases": [
-          "protect the carpet"
+          "fur everywhere"
         ],
         "points": 24
       },
       {
-        "text": "Food being prepared",
+        "text": "Snores",
         "aliases": [
-          "cooking"
+          "loud snoring"
         ],
         "points": 18
       },
       {
-        "text": "Sleeping baby",
+        "text": "Muddy paws",
         "aliases": [
-          "baby asleep"
+          "dirty paws"
         ],
         "points": 13
       },
       {
-        "text": "Fresh paint",
+        "text": "Licks their face",
         "aliases": [
-          "wet paint"
+          "wakes them licking"
         ],
         "points": 9
       },
       {
-        "text": "Breakable objects",
+        "text": "Gets up too early",
         "aliases": [
-          "fragile decorations"
+          "wakes them early"
         ],
         "points": 6
       }
@@ -3189,47 +3188,47 @@
   {
     "id": "everyday-106",
     "category": "Everyday life",
-    "prompt": "Name a task that goes with keeping an aquarium at home.",
+    "prompt": "Name a sign that the pet is actually in charge of a household.",
     "answers": [
       {
-        "text": "Feed the fish",
+        "text": "Owns the best seat",
         "aliases": [
-          "feeding fish"
+          "gets the sofa"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Change the water",
+        "text": "Gets fed first",
         "aliases": [
-          "water changes"
+          "eats before people"
         ],
         "points": 24
       },
       {
-        "text": "Clean the glass",
+        "text": "Sleeps in the owner's bed",
         "aliases": [
-          "scrub algae"
+          "takes the bed"
         ],
         "points": 18
       },
       {
-        "text": "Clean the filter",
+        "text": "Toys everywhere",
         "aliases": [
-          "wash filter"
+          "pet toys all over"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Check water temperature",
+        "text": "Vacations depend on it",
         "aliases": [
-          "check the thermometer"
+          "plans around pet care"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Trim the plants",
+        "text": "Everyone whispers while it sleeps",
         "aliases": [
-          "prune aquarium plants"
+          "don't wake the pet"
         ],
         "points": 6
       }
@@ -3238,47 +3237,47 @@
   {
     "id": "everyday-107",
     "category": "Everyday life",
-    "prompt": "Name something a houseplant needs to stay healthy.",
+    "prompt": "Name a mistake someone makes with their first houseplant.",
     "answers": [
       {
-        "text": "Water",
+        "text": "Overwaters it",
         "aliases": [
-          "watering"
+          "too much water"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Sunlight",
+        "text": "Forgets to water",
         "aliases": [
-          "light"
+          "lets it dry out"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Good soil",
+        "text": "Not enough light",
         "aliases": [
-          "potting soil"
+          "keeps it in the dark"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Drainage",
+        "text": "Too much direct sun",
         "aliases": [
-          "drainage holes"
+          "burns in sunlight"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Fertilizer",
+        "text": "Wrong pot",
         "aliases": [
-          "plant food"
+          "no drainage"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Enough space",
+        "text": "Leaves it where pets can reach",
         "aliases": [
-          "bigger pot"
+          "cat eats it"
         ],
         "points": 6
       }
@@ -3287,96 +3286,96 @@
   {
     "id": "everyday-108",
     "category": "Everyday life",
-    "prompt": "Name a tool people use in a garden.",
+    "prompt": "Name something in a front yard that makes a house easy to recognize.",
     "answers": [
       {
-        "text": "Shovel",
+        "text": "Giant statue",
         "aliases": [
-          "spade"
+          "big ornament"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Rake",
+        "text": "Pink flamingos",
         "aliases": [
-          "garden rake"
+          "lawn flamingo"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Trowel",
+        "text": "Old car",
         "aliases": [
-          "hand trowel"
+          "rusty car"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Pruning shears",
+        "text": "Bright mailbox",
         "aliases": [
-          "secateurs"
+          "colorful mailbox"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Hoe",
+        "text": "Flag",
         "aliases": [
-          "garden hoe"
+          "flags"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Wheelbarrow",
+        "text": "Holiday lights",
         "aliases": [
-          "garden barrow"
+          "Christmas display"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-109",
     "category": "Everyday life",
-    "prompt": "Name something people grow in a vegetable garden.",
+    "prompt": "Name a reason someone gives up trying to have a nice garden.",
     "answers": [
       {
-        "text": "Tomatoes",
+        "text": "Plants keep dying",
         "aliases": [
-          "tomato"
+          "can't keep plants alive"
         ],
         "points": 30
       },
       {
-        "text": "Carrots",
+        "text": "Too many weeds",
         "aliases": [
-          "carrot"
+          "weeding"
         ],
         "points": 24
       },
       {
-        "text": "Lettuce",
+        "text": "Bugs",
         "aliases": [
-          "salad greens"
+          "insects"
         ],
         "points": 18
       },
       {
-        "text": "Peppers",
+        "text": "No time",
         "aliases": [
-          "bell peppers"
+          "too busy"
         ],
         "points": 13
       },
       {
-        "text": "Cucumbers",
+        "text": "Too much work in the heat",
         "aliases": [
-          "cucumber"
+          "too hot"
         ],
         "points": 9
       },
       {
-        "text": "Zucchini",
+        "text": "Costs too much",
         "aliases": [
-          "courgettes"
+          "expensive supplies"
         ],
         "points": 6
       }
@@ -3385,47 +3384,47 @@
   {
     "id": "everyday-110",
     "category": "Everyday life",
-    "prompt": "Name a garden job that makes someone get dirt on their hands.",
+    "prompt": "Name something people pretend to do outside to avoid talking to a neighbor.",
     "answers": [
       {
-        "text": "Sowing seeds",
+        "text": "Look at their phone",
         "aliases": [
-          "planting seeds"
+          "pretend to text"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Pulling weeds",
+        "text": "Water plants",
         "aliases": [
-          "weeding"
+          "use the hose"
         ],
         "points": 24
       },
       {
-        "text": "Repotting",
+        "text": "Carry bags inside",
         "aliases": [
-          "changing plant pots"
+          "unload groceries"
         ],
         "points": 18
       },
       {
-        "text": "Digging",
+        "text": "Walk the dog",
         "aliases": [
-          "turning the soil"
+          "take dog out"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Spreading compost",
+        "text": "Check the mailbox",
         "aliases": [
-          "adding compost"
+          "get the mail"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Harvesting potatoes",
+        "text": "Mow the lawn",
         "aliases": [
-          "digging up potatoes"
+          "cut the grass"
         ],
         "points": 6
       }
@@ -3434,47 +3433,47 @@
   {
     "id": "everyday-111",
     "category": "Everyday life",
-    "prompt": "Name an unwanted visitor that can damage a garden.",
+    "prompt": "Name something that can spoil a backyard get-together.",
     "answers": [
       {
-        "text": "Slug",
+        "text": "Rain",
         "aliases": [
-          "slugs"
+          "bad weather"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Rabbit",
+        "text": "Mosquitoes",
         "aliases": [
-          "rabbits"
+          "biting bugs"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Deer",
+        "text": "A loud neighbor",
         "aliases": [
-          "deers"
+          "noise next door"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Aphid",
+        "text": "Smoke",
         "aliases": [
-          "aphids"
+          "grill smoke"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Snail",
+        "text": "Dog poop",
         "aliases": [
-          "snails"
+          "stepping in pet mess"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Squirrel",
+        "text": "Extreme heat",
         "aliases": [
-          "squirrels"
+          "too hot"
         ],
         "points": 6
       }
@@ -3483,96 +3482,96 @@
   {
     "id": "everyday-112",
     "category": "Everyday life",
-    "prompt": "Name something people use to water a garden.",
+    "prompt": "Name something you want to know before agreeing to live with someone.",
     "answers": [
       {
-        "text": "Garden hose",
+        "text": "Cleaning habits",
         "aliases": [
-          "hosepipe"
+          "how tidy they are"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Watering can",
+        "text": "Rent budget",
         "aliases": [
-          "watering pot"
+          "what they can afford"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Sprinkler",
+        "text": "Whether they smoke",
         "aliases": [
-          "lawn sprinkler"
+          "smoking habits"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Drip irrigation",
+        "text": "Sleep schedule",
         "aliases": [
-          "drip line"
+          "when they go to bed"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Bucket",
+        "text": "Pets",
         "aliases": [
-          "pail"
+          "whether they have animals"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Rain barrel",
+        "text": "Visitors",
         "aliases": [
-          "water butt"
+          "how often they have guests"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-113",
     "category": "Everyday life",
-    "prompt": "Name something on a patio people secure before a big storm.",
+    "prompt": "Name something you might have to chase down the street on a windy day.",
     "answers": [
+      {
+        "text": "Trash can",
+        "aliases": [
+          "garbage bin"
+        ],
+        "points": 30
+      },
       {
         "text": "Umbrella",
         "aliases": [
           "parasol"
         ],
-        "points": 30
-      },
-      {
-        "text": "Chairs",
-        "aliases": [
-          "patio chairs"
-        ],
         "points": 24
       },
       {
-        "text": "Plant pots",
+        "text": "Hat",
         "aliases": [
-          "flowerpots"
+          "cap"
         ],
         "points": 18
       },
       {
-        "text": "Table",
+        "text": "Garden cushion",
         "aliases": [
-          "patio table"
+          "patio cushion"
         ],
         "points": 13
       },
       {
-        "text": "Cushions",
+        "text": "Washing",
         "aliases": [
-          "outdoor pillows"
+          "clothes off the line"
         ],
         "points": 9
       },
       {
-        "text": "Grill",
+        "text": "Newspaper",
         "aliases": [
-          "barbecue"
+          "loose newspaper"
         ],
         "points": 6
       }
@@ -3581,47 +3580,47 @@
   {
     "id": "everyday-114",
     "category": "Everyday life",
-    "prompt": "Name something that provides shade in a backyard.",
+    "prompt": "Name something a nosy neighbor always has an opinion about.",
     "answers": [
       {
-        "text": "Tree",
+        "text": "Your yard",
         "aliases": [
-          "shade tree"
+          "lawn"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Patio umbrella",
+        "text": "Your car",
         "aliases": [
-          "parasol"
+          "what you drive"
         ],
         "points": 24
       },
       {
-        "text": "Awning",
+        "text": "Your visitors",
         "aliases": [
-          "retractable awning"
+          "who comes over"
         ],
         "points": 18
       },
       {
-        "text": "Pergola",
+        "text": "Your clothes",
         "aliases": [
-          "arbor"
+          "what you wear"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Gazebo",
+        "text": "Your children",
         "aliases": [
-          "garden pavilion"
+          "your kids"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Shade sail",
+        "text": "Your deliveries",
         "aliases": [
-          "sun sail"
+          "packages"
         ],
         "points": 6
       }
@@ -3630,47 +3629,47 @@
   {
     "id": "everyday-115",
     "category": "Everyday life",
-    "prompt": "Name something people keep beside a backyard swimming pool.",
+    "prompt": "Name something a guest might forget they're holding before jumping into a pool.",
     "answers": [
       {
-        "text": "Lounge chair",
+        "text": "Phone",
         "aliases": [
-          "sun lounger"
+          "cellphone"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Towel",
+        "text": "Sunglasses",
         "aliases": [
-          "pool towel"
+          "glasses"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Pool net",
+        "text": "Drink",
         "aliases": [
-          "skimmer net"
+          "cup"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Life ring",
+        "text": "Keys",
         "aliases": [
-          "lifebuoy"
+          "car keys"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Pool toys",
+        "text": "Wallet",
         "aliases": [
-          "floats"
+          "purse"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Umbrella",
+        "text": "Camera",
         "aliases": [
-          "parasol"
+          "digital camera"
         ],
         "points": 6
       }
@@ -3679,96 +3678,96 @@
   {
     "id": "everyday-116",
     "category": "Everyday life",
-    "prompt": "Name something from a garden people put in a compost pile.",
+    "prompt": "Name something neighbors watch through the curtains while pretending they aren't curious.",
     "answers": [
       {
-        "text": "Grass clippings",
+        "text": "Moving truck",
         "aliases": [
-          "mown grass"
+          "new neighbors moving in"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Fallen leaves",
+        "text": "Police car",
         "aliases": [
-          "dead leaves"
+          "police arriving"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Dead flowers",
+        "text": "An argument",
         "aliases": [
-          "spent flowers"
+          "people fighting"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Small twigs",
+        "text": "A new date",
         "aliases": [
-          "twigs"
+          "romantic visitor"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Fruit peels",
+        "text": "Construction",
         "aliases": [
-          "apple peel"
+          "renovations"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Vegetable scraps",
+        "text": "A big delivery",
         "aliases": [
-          "vegetable peelings"
+          "new furniture delivery"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-117",
     "category": "Everyday life",
-    "prompt": "Name a place weeds appear around a home.",
+    "prompt": "Name an excuse someone gives for their lawn looking terrible.",
     "answers": [
       {
-        "text": "Lawn",
+        "text": "No time",
         "aliases": [
-          "grass"
+          "too busy"
         ],
         "points": 30
       },
       {
-        "text": "Flower bed",
+        "text": "No rain",
         "aliases": [
-          "garden bed"
+          "drought"
         ],
         "points": 24
       },
       {
-        "text": "Driveway cracks",
+        "text": "Broken mower",
         "aliases": [
-          "cracked driveway"
+          "mower won't start"
         ],
         "points": 18
       },
       {
-        "text": "Between paving stones",
+        "text": "Dog ruined it",
         "aliases": [
-          "patio cracks"
+          "pet damage"
         ],
         "points": 13
       },
       {
-        "text": "Vegetable patch",
+        "text": "Pests",
         "aliases": [
-          "vegetable garden"
+          "bugs in the grass"
         ],
         "points": 9
       },
       {
-        "text": "Gravel path",
+        "text": "Saving water",
         "aliases": [
-          "gravel walkway"
+          "water restrictions"
         ],
         "points": 6
       }
@@ -3777,47 +3776,47 @@
   {
     "id": "everyday-118",
     "category": "Everyday life",
-    "prompt": "Name something people reuse as a plant container.",
+    "prompt": "Name something a nosy neighbor might figure out by looking at someone's trash.",
     "answers": [
       {
-        "text": "Bucket",
+        "text": "Favorite takeout",
         "aliases": [
-          "pail"
+          "what they order"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Tin can",
+        "text": "How much they drink",
         "aliases": [
-          "food can"
+          "empty alcohol bottles"
         ],
         "points": 24
       },
       {
-        "text": "Teacup",
+        "text": "They have a baby",
         "aliases": [
-          "cup"
+          "diapers"
         ],
         "points": 18
       },
       {
-        "text": "Wooden crate",
+        "text": "They're moving",
         "aliases": [
-          "fruit crate"
+          "packing waste"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Old boot",
+        "text": "Bought a new TV",
         "aliases": [
-          "worn boot"
+          "television box"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Plastic bottle",
+        "text": "Had a party",
         "aliases": [
-          "drink bottle"
+          "party rubbish"
         ],
         "points": 6
       }
@@ -3826,47 +3825,47 @@
   {
     "id": "everyday-119",
     "category": "Everyday life",
-    "prompt": "Name a reason someone puts up a backyard fence.",
+    "prompt": "Name a reason someone wants a much taller backyard fence.",
     "answers": [
       {
-        "text": "Privacy",
+        "text": "Nosy neighbor",
         "aliases": [
-          "stop people looking in"
+          "neighbor looking over"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Keep a dog in",
+        "text": "Escaping dog",
         "aliases": [
-          "contain pets"
+          "dog jumps fence"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Keep animals out",
+        "text": "Balls flying over",
         "aliases": [
-          "stop wildlife"
+          "kids kicking balls"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Protect children",
+        "text": "Ugly view",
         "aliases": [
-          "keep kids inside"
+          "eyesore next door"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Mark the property line",
+        "text": "Neighborhood animals",
         "aliases": [
-          "show the boundary"
+          "stray animals"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Reduce noise",
+        "text": "Noisy traffic",
         "aliases": [
-          "block street noise"
+          "road noise"
         ],
         "points": 6
       }
@@ -3875,49 +3874,49 @@
   {
     "id": "everyday-120",
     "category": "Everyday life",
-    "prompt": "Name something besides birds that might visit a bird feeder.",
+    "prompt": "Name something someone accuses a neighbor of taking.",
     "answers": [
       {
-        "text": "Squirrel",
+        "text": "Parking spot",
         "aliases": [
-          "squirrels"
+          "parking space"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Raccoon",
+        "text": "Package",
         "aliases": [
-          "raccoons"
+          "parcel"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Mouse",
+        "text": "Newspaper",
         "aliases": [
-          "mice"
+          "paper delivery"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Rat",
+        "text": "Tools",
         "aliases": [
-          "rats"
+          "borrowed tools"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Chipmunk",
+        "text": "Ball",
         "aliases": [
-          "chipmunks"
+          "child's ball"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Ant",
+        "text": "Flowers",
         "aliases": [
-          "ants"
+          "picked flowers"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
@@ -3973,47 +3972,47 @@
   {
     "id": "everyday-122",
     "category": "Everyday life",
-    "prompt": "Name a household favor neighbors do for each other.",
+    "prompt": "Name something neighbors quietly compete to have the best of.",
     "answers": [
       {
-        "text": "Collect mail",
+        "text": "Lawn",
         "aliases": [
-          "bring in the post"
+          "greenest grass"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Water plants",
+        "text": "Holiday display",
         "aliases": [
-          "water the garden"
+          "Christmas decorations"
         ],
         "points": 24
       },
       {
-        "text": "Feed pets",
+        "text": "Car",
         "aliases": [
-          "pet sitting"
+          "nicest vehicle"
         ],
         "points": 18
       },
       {
-        "text": "Take out bins",
+        "text": "Barbecue",
         "aliases": [
-          "put out trash cans"
+          "best cookout"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Shovel snow",
+        "text": "House price",
         "aliases": [
-          "clear snow"
+          "property value"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Accept a package",
+        "text": "Garden flowers",
         "aliases": [
-          "take a delivery"
+          "flower beds"
         ],
         "points": 6
       }
@@ -4022,47 +4021,47 @@
   {
     "id": "everyday-123",
     "category": "Everyday life",
-    "prompt": "Name a sign that someone next door is moving.",
+    "prompt": "Name a clue that the party next door is about to get loud.",
     "answers": [
       {
-        "text": "Moving truck",
+        "text": "Big speakers",
         "aliases": [
-          "removal van"
+          "sound system"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Boxes everywhere",
+        "text": "Lots of cars",
         "aliases": [
-          "packing boxes"
+          "street full of cars"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "For sale sign",
+        "text": "Crates of drinks",
         "aliases": [
-          "for rent sign"
+          "coolers arriving"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Furniture outside",
+        "text": "A DJ",
         "aliases": [
-          "furniture being loaded"
+          "DJ setting up"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Empty rooms",
+        "text": "People already shouting",
         "aliases": [
-          "bare windows"
+          "loud guests"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Garage sale",
+        "text": "Outdoor lights",
         "aliases": [
-          "yard sale"
+          "party lights"
         ],
         "points": 6
       }
@@ -4071,49 +4070,50 @@
   {
     "id": "everyday-124",
     "category": "Everyday life",
-    "prompt": "Name something a neighbor might leave on your doorstep.",
+    "prompt": "Name a clue that your neighbor has a lot more money than you.",
     "answers": [
       {
-        "text": "Misdelivered package",
+        "text": "Luxury cars",
         "aliases": [
-          "wrong delivery"
+          "expensive cars"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Note",
+        "text": "Constant vacations",
         "aliases": [
-          "written message"
+          "frequent holidays"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Baked treats",
+        "text": "A huge renovation",
         "aliases": [
-          "cookies"
+          "expensive remodeling"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Borrowed tools",
+        "text": "A boat",
         "aliases": [
-          "returned tools"
+          "yacht"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Garden produce",
+        "text": "Designer clothes",
         "aliases": [
-          "homegrown vegetables"
+          "expensive outfits"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Lost toy",
+        "text": "Household staff",
         "aliases": [
-          "found toy"
+          "butler",
+          "personal chef"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
@@ -4169,47 +4169,47 @@
   {
     "id": "everyday-126",
     "category": "Everyday life",
-    "prompt": "Name something that can make a front door difficult to open.",
+    "prompt": "Name someone you call after locking yourself out of your house.",
     "answers": [
       {
-        "text": "Wrong key",
+        "text": "Roommate",
         "aliases": [
-          "incorrect key"
+          "housemate"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Swollen wood",
+        "text": "Partner",
         "aliases": [
-          "warped door"
+          "spouse"
         ],
         "points": 24
       },
       {
-        "text": "Loose hinge",
+        "text": "Locksmith",
         "aliases": [
-          "sagging hinge"
+          "lock service"
         ],
         "points": 18
       },
       {
-        "text": "Ice",
+        "text": "Landlord",
         "aliases": [
-          "frozen door"
+          "property manager"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Object behind it",
+        "text": "Parent",
         "aliases": [
-          "blocked doorway"
+          "mom or dad"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Key broken inside",
+        "text": "Neighbor",
         "aliases": [
-          "broken key"
+          "person next door"
         ],
         "points": 6
       }
@@ -4218,47 +4218,47 @@
   {
     "id": "everyday-127",
     "category": "Everyday life",
-    "prompt": "Name a clue that nobody has lived in a house for a while.",
+    "prompt": "Name something a nosy guest might inspect in your bathroom.",
     "answers": [
       {
-        "text": "Overgrown lawn",
+        "text": "Medicine cabinet",
         "aliases": [
-          "long grass"
+          "medications"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Piled up mail",
+        "text": "Drawers",
         "aliases": [
-          "uncollected post"
+          "bathroom drawers"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Boarded windows",
+        "text": "Beauty products",
         "aliases": [
-          "covered windows"
+          "skincare"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Peeling paint",
+        "text": "Scales",
         "aliases": [
-          "flaking paint"
+          "bathroom scale"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Cobwebs",
+        "text": "Trash can",
         "aliases": [
-          "spiderwebs"
+          "bathroom bin"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "No furniture",
+        "text": "Towels",
         "aliases": [
-          "empty rooms"
+          "bath towels"
         ],
         "points": 6
       }
@@ -4267,96 +4267,96 @@
   {
     "id": "everyday-128",
     "category": "Everyday life",
-    "prompt": "Name something outside a house people clean with a pressure washer.",
+    "prompt": "Name something about your home you secretly hope visitors compliment.",
     "answers": [
       {
-        "text": "Driveway",
+        "text": "Decorating",
         "aliases": [
-          "concrete driveway"
+          "decor"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Deck",
+        "text": "Garden",
         "aliases": [
-          "wooden deck"
+          "yard"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Patio",
+        "text": "Cooking",
         "aliases": [
-          "paving stones"
+          "food"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "House siding",
+        "text": "Cleanliness",
         "aliases": [
-          "exterior walls"
+          "how clean it is"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Fence",
+        "text": "Furniture",
         "aliases": [
-          "garden fence"
+          "sofa"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Trash cans",
+        "text": "View",
         "aliases": [
-          "garbage bins"
+          "view from the window"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-129",
     "category": "Everyday life",
-    "prompt": "Name something people use to stop mud being tracked through the house.",
+    "prompt": "Name something a guest does that makes you glad you invited them.",
     "answers": [
       {
-        "text": "Doormat",
+        "text": "Helps clean up",
         "aliases": [
-          "welcome mat"
+          "washes dishes"
         ],
         "points": 30
       },
       {
-        "text": "Boot scraper",
+        "text": "Thanks the host",
         "aliases": [
-          "shoe scraper"
+          "says thank you"
         ],
         "points": 24
       },
       {
-        "text": "Shoe rack",
+        "text": "Brings a gift",
         "aliases": [
-          "boot rack"
+          "brings flowers"
         ],
         "points": 18
       },
       {
-        "text": "Shoe covers",
+        "text": "Leaves at a sensible time",
         "aliases": [
-          "protective overshoes"
+          "doesn't overstay"
         ],
         "points": 13
       },
       {
-        "text": "Indoor slippers",
+        "text": "Makes everyone laugh",
         "aliases": [
-          "house shoes"
+          "tells funny stories"
         ],
         "points": 9
       },
       {
-        "text": "Pet towel",
+        "text": "Includes the quiet person",
         "aliases": [
-          "paw towel"
+          "talks to everyone"
         ],
         "points": 6
       }

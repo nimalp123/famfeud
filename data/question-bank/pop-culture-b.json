@@ -2,47 +2,47 @@
   {
     "id": "culture-041",
     "category": "Pop culture",
-    "prompt": "Name something that helps you recognize an old Western movie.",
+    "prompt": "Name something that makes an old movie unintentionally funny today.",
     "answers": [
       {
-        "text": "Cowboy hat",
+        "text": "Special effects",
         "aliases": [
-          "stetson"
+          "bad effects"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Horse",
+        "text": "Outfits",
         "aliases": [
-          "horses"
+          "dated clothes"
         ],
         "points": 24
       },
       {
-        "text": "Saloon",
+        "text": "Slang",
         "aliases": [
-          "tavern"
+          "old expressions"
         ],
         "points": 18
       },
       {
-        "text": "Six-shooter",
+        "text": "Overacting",
         "aliases": [
-          "revolver"
+          "dramatic acting"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Sheriff's badge",
+        "text": "Hairstyles",
         "aliases": [
-          "sheriff badge"
+          "dated hair"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Tumbleweed",
+        "text": "Technology",
         "aliases": [
-          "tumbleweeds"
+          "old gadgets"
         ],
         "points": 6
       }
@@ -51,47 +51,47 @@
   {
     "id": "culture-042",
     "category": "Pop culture",
-    "prompt": "Name an ordinary job a superhero might have while hiding their identity.",
+    "prompt": "Name something you would hate your favorite actor to discover in your search history.",
     "answers": [
       {
-        "text": "Reporter",
+        "text": "Their dating life",
         "aliases": [
-          "journalist"
+          "who they date"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Scientist",
+        "text": "Revealing photos",
         "aliases": [
-          "researcher"
+          "shirtless photos"
         ],
         "points": 24
       },
       {
-        "text": "Photographer",
+        "text": "Plastic surgery rumors",
         "aliases": [
-          "photography"
+          "cosmetic surgery"
         ],
         "points": 18
       },
       {
-        "text": "Student",
+        "text": "Their age",
         "aliases": [
-          "school student"
+          "how old they are"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Lawyer",
+        "text": "Their net worth",
         "aliases": [
-          "attorney"
+          "how rich they are"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Business owner",
+        "text": "Their worst reviews",
         "aliases": [
-          "businessperson"
+          "bad reviews"
         ],
         "points": 6
       }
@@ -100,47 +100,47 @@
   {
     "id": "culture-043",
     "category": "Pop culture",
-    "prompt": "Name something you might see aboard a pirate ship in a movie.",
+    "prompt": "Name something a historical-movie actor should hide before the camera starts rolling.",
     "answers": [
       {
-        "text": "Treasure chest",
+        "text": "Phone",
         "aliases": [
-          "chest of gold"
+          "cell phone"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Cannon",
+        "text": "Wristwatch",
         "aliases": [
-          "cannons"
+          "modern watch"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Pirate flag",
+        "text": "Sneakers",
         "aliases": [
-          "jolly roger"
+          "trainers"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Compass",
+        "text": "Plastic water bottle",
         "aliases": [
-          "navigation compass"
+          "water bottle"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Coiled rope",
+        "text": "Modern tattoo",
         "aliases": [
-          "rope"
+          "tattoo"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Ship's wheel",
+        "text": "Zipper",
         "aliases": [
-          "steering wheel"
+          "modern fastener"
         ],
         "points": 6
       }
@@ -149,47 +149,47 @@
   {
     "id": "culture-044",
     "category": "Pop culture",
-    "prompt": "Name a character you would expect in a hospital drama.",
+    "prompt": "Name a TV hospital storyline you can see coming a mile away.",
     "answers": [
       {
-        "text": "Doctor",
+        "text": "Doctors dating",
         "aliases": [
-          "physician"
+          "workplace romance"
         ],
         "points": 35
       },
       {
-        "text": "Nurse",
+        "text": "Patient related to doctor",
         "aliases": [
-          "nurses"
+          "secret relative"
         ],
         "points": 25
       },
       {
-        "text": "Patient",
+        "text": "Rare illness",
         "aliases": [
-          "patients"
+          "mystery disease"
         ],
         "points": 16
       },
       {
-        "text": "Paramedic",
+        "text": "Disease outbreak",
         "aliases": [
-          "emergency medical technician"
+          "epidemic"
         ],
         "points": 11
       },
       {
-        "text": "Receptionist",
+        "text": "Surprise pregnancy",
         "aliases": [
-          "front desk worker"
+          "unexpected baby"
         ],
         "points": 8
       },
       {
-        "text": "Hospital administrator",
+        "text": "Doctor becomes a patient",
         "aliases": [
-          "hospital manager"
+          "sick doctor"
         ],
         "points": 5
       }
@@ -198,47 +198,47 @@
   {
     "id": "culture-045",
     "category": "Pop culture",
-    "prompt": "Name a place where scenes in a high-school movie often happen.",
+    "prompt": "Name something movie teenagers get away with that you never could.",
     "answers": [
       {
-        "text": "Classroom",
+        "text": "Throwing huge parties",
         "aliases": [
-          "class room"
+          "house party"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Cafeteria",
+        "text": "Skipping school",
         "aliases": [
-          "lunchroom"
+          "playing hooky"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Gym",
+        "text": "Staying out all night",
         "aliases": [
-          "gymnasium"
+          "no curfew"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Locker hallway",
+        "text": "Talking back to teachers",
         "aliases": [
-          "school hallway"
+          "disrespect"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Principal's office",
+        "text": "Driving expensive cars",
         "aliases": [
-          "principal office"
+          "fancy car"
         ],
-        "points": 9
+        "points": 10
       },
       {
-        "text": "Football field",
+        "text": "Sneaking people into bedrooms",
         "aliases": [
-          "sports field"
+          "secret boyfriend"
         ],
         "points": 6
       }
@@ -247,47 +247,49 @@
   {
     "id": "culture-046",
     "category": "Pop culture",
-    "prompt": "Name a natural threat that could be the main danger in a disaster movie.",
+    "prompt": "Name something people try to save first in a disaster movie.",
     "answers": [
       {
-        "text": "Earthquake",
+        "text": "Their family",
         "aliases": [
-          "quake"
+          "children",
+          "loved ones"
         ],
         "points": 32
       },
       {
-        "text": "Tornado",
+        "text": "Pets",
         "aliases": [
-          "twister"
+          "dog",
+          "cat"
         ],
         "points": 24
       },
       {
-        "text": "Flood",
+        "text": "Phone",
         "aliases": [
-          "flooding"
+          "cell phone"
         ],
         "points": 18
       },
       {
-        "text": "Volcanic eruption",
+        "text": "Important documents",
         "aliases": [
-          "volcano"
+          "passport"
         ],
         "points": 12
       },
       {
-        "text": "Asteroid",
+        "text": "Money",
         "aliases": [
-          "meteor"
+          "cash"
         ],
         "points": 8
       },
       {
-        "text": "Avalanche",
+        "text": "Family photos",
         "aliases": [
-          "snow slide"
+          "photo album"
         ],
         "points": 6
       }
@@ -296,47 +298,47 @@
   {
     "id": "culture-047",
     "category": "Pop culture",
-    "prompt": "Name a gadget a movie spy might carry on a mission.",
+    "prompt": "Name a movie prop people would love to borrow for a costume party.",
     "answers": [
       {
-        "text": "Hidden camera",
+        "text": "Lightsaber",
         "aliases": [
-          "spy camera"
+          "laser sword"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Tracking device",
+        "text": "Magic wand",
         "aliases": [
-          "tracker"
+          "wizard wand"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Disguised microphone",
+        "text": "Superhero cape",
         "aliases": [
-          "hidden microphone"
+          "hero cape"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Laser watch",
+        "text": "Horror mask",
         "aliases": [
-          "watch laser"
+          "scary mask"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Grappling hook",
+        "text": "Crown",
         "aliases": [
-          "grapnel"
+          "royal crown"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Fingerprint scanner",
+        "text": "Cowboy hat",
         "aliases": [
-          "fingerprint reader"
+          "western hat"
         ],
         "points": 6
       }
@@ -345,145 +347,146 @@
   {
     "id": "culture-048",
     "category": "Pop culture",
-    "prompt": "Name someone you might see in a courtroom drama scene.",
+    "prompt": "Name something TV lawyers do that makes every conversation dramatic.",
     "answers": [
       {
-        "text": "Judge",
+        "text": "Shout objections",
         "aliases": [
-          "justice"
+          "object"
         ],
-        "points": 35
+        "points": 34
       },
       {
-        "text": "Lawyer",
+        "text": "Pace around",
         "aliases": [
-          "attorney"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Defendant",
-        "aliases": [
-          "accused person"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Jury",
-        "aliases": [
-          "jurors"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Witness",
-        "aliases": [
-          "witnesses"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Bailiff",
-        "aliases": [
-          "court officer"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "culture-049",
-    "category": "Pop culture",
-    "prompt": "Name a problem that can derail a road trip in a comedy movie.",
-    "answers": [
-      {
-        "text": "Flat tire",
-        "aliases": [
-          "puncture"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Getting lost",
-        "aliases": [
-          "lost"
+          "walk around"
         ],
         "points": 24
       },
       {
-        "text": "Running out of gas",
+        "text": "Ask loaded questions",
         "aliases": [
-          "empty gas tank"
+          "trick questions"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Car breakdown",
+        "text": "Give speeches",
         "aliases": [
-          "broken car"
+          "long monologues"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Bad weather",
+        "text": "Slam papers down",
         "aliases": [
-          "storm"
+          "bang the table"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Family argument",
+        "text": "Pause before a reveal",
         "aliases": [
-          "family fight"
+          "dramatic pause"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "culture-050",
+    "id": "culture-049",
     "category": "Pop culture",
-    "prompt": "Name an obstacle that might keep a movie family apart for the holidays.",
+    "prompt": "Name something every movie road trip seems to include.",
     "answers": [
       {
-        "text": "Snowstorm",
+        "text": "Flat tire",
         "aliases": [
-          "blizzard"
+          "puncture",
+          "blown tire"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Missed flight",
+        "text": "Getting lost",
         "aliases": [
-          "missing a flight"
+          "wrong turn"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Family argument",
+        "text": "Friends arguing",
         "aliases": [
-          "family feud"
+          "family fight"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Work deadline",
+        "text": "Weird roadside stop",
         "aliases": [
-          "working late"
+          "strange diner"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Car trouble",
+        "text": "Running out of gas",
         "aliases": [
-          "car breakdown"
+          "empty tank"
         ],
         "points": 8
       },
       {
-        "text": "Power outage",
+        "text": "Someone getting carsick",
         "aliases": [
-          "blackout"
+          "vomiting"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-050",
+    "category": "Pop culture",
+    "prompt": "Name something a holiday movie convinces people will solve their problems.",
+    "answers": [
+      {
+        "text": "Falling in love",
+        "aliases": [
+          "romance"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Going home",
+        "aliases": [
+          "return to hometown"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Christmas magic",
+        "aliases": [
+          "holiday spirit"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Quitting their job",
+        "aliases": [
+          "leave the city job"
+        ],
+        "points": 14
+      },
+      {
+        "text": "A family reunion",
+        "aliases": [
+          "reconcile with family"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Saving a small business",
+        "aliases": [
+          "save local shop"
         ],
         "points": 6
       }
@@ -492,47 +495,47 @@
   {
     "id": "culture-051",
     "category": "Pop culture",
-    "prompt": "Name something a suspect does in a detective movie that makes them look guilty.",
+    "prompt": "Name a sign a movie character is secretly the bad guy.",
     "answers": [
       {
-        "text": "Contradicts their story",
+        "text": "Too helpful",
         "aliases": [
-          "changes their story"
+          "overly friendly"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Hides evidence",
+        "text": "Ominous music",
         "aliases": [
-          "conceals evidence"
+          "scary music"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Leaves town",
+        "text": "Always wears black",
         "aliases": [
-          "flees town"
+          "dark clothes"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Refuses to answer questions",
+        "text": "Never gives a straight answer",
         "aliases": [
-          "stays silent"
+          "vague answers"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Blames someone else",
+        "text": "Shows up everywhere",
         "aliases": [
-          "points the finger"
+          "always nearby"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Fidgets nervously",
+        "text": "Has a suspicious scar",
         "aliases": [
-          "nervous fidgeting"
+          "creepy scar"
         ],
         "points": 6
       }
@@ -541,96 +544,97 @@
   {
     "id": "culture-052",
     "category": "Pop culture",
-    "prompt": "Name a crew role you might hear mentioned in a spaceship movie.",
+    "prompt": "Name something that instantly makes a sci-fi movie look low-budget.",
     "answers": [
       {
-        "text": "Captain",
+        "text": "Rubbery aliens",
         "aliases": [
-          "commander"
+          "rubber monster"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Pilot",
+        "text": "Cheap costumes",
         "aliases": [
-          "ship pilot"
+          "bad outfits"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Engineer",
+        "text": "Bad green screen",
         "aliases": [
-          "mechanic"
+          "fake background"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Medic",
+        "text": "Reused sets",
         "aliases": [
-          "doctor"
+          "same room"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Scientist",
+        "text": "Visible wires",
         "aliases": [
-          "researcher"
+          "hanging wires"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Navigator",
+        "text": "Plastic weapons",
         "aliases": [
-          "navigation officer"
+          "toy guns"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "culture-053",
     "category": "Pop culture",
-    "prompt": "Name an exercise you might see in a sports movie's training montage.",
+    "prompt": "Name something a training montage makes look suspiciously easy.",
     "answers": [
       {
-        "text": "Running",
+        "text": "Building muscles",
         "aliases": [
-          "jogging"
+          "getting stronger",
+          "gaining muscle"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Lifting weights",
+        "text": "Learning to fight",
         "aliases": [
-          "weightlifting"
+          "martial arts"
         ],
         "points": 24
       },
       {
-        "text": "Practicing drills",
+        "text": "Losing weight",
         "aliases": [
-          "sports drills"
+          "weight loss"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Climbing stairs",
+        "text": "Running for miles",
         "aliases": [
-          "running stairs"
+          "long run"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Jumping rope",
+        "text": "Learning an instrument",
         "aliases": [
-          "skipping rope"
+          "playing music"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Hitting a punching bag",
+        "text": "Winning over a coach",
         "aliases": [
-          "punching bag"
+          "impressing coach"
         ],
         "points": 6
       }
@@ -639,96 +643,97 @@
   {
     "id": "culture-054",
     "category": "Pop culture",
-    "prompt": "Name something animated animals do that real animals usually do not.",
+    "prompt": "Name something that makes you realize a cartoon was meant for adults.",
     "answers": [
       {
-        "text": "Talk",
+        "text": "Dirty jokes",
         "aliases": [
-          "speak"
+          "sexual jokes"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Wear clothes",
+        "text": "Swearing",
         "aliases": [
-          "get dressed"
+          "profanity"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Drive cars",
+        "text": "Graphic violence",
         "aliases": [
-          "drive"
+          "gore"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Go to work",
+        "text": "Drinking",
         "aliases": [
-          "have jobs"
+          "alcohol"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Cook meals",
+        "text": "Work problems",
         "aliases": [
-          "cook"
+          "office jokes"
         ],
         "points": 8
       },
       {
-        "text": "Play instruments",
+        "text": "Dark ending",
         "aliases": [
-          "make music"
+          "tragic ending"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-055",
     "category": "Pop culture",
-    "prompt": "Name a mess that might happen while movie parents leave their children home alone.",
+    "prompt": "Name something movie kids try to hide before their parents get home.",
     "answers": [
       {
-        "text": "Spilled paint",
+        "text": "Broken furniture",
         "aliases": [
-          "paint spill"
+          "damage"
         ],
         "points": 28
       },
       {
-        "text": "Escaped pet",
+        "text": "A party",
         "aliases": [
-          "pet gets out"
+          "friends everywhere"
         ],
         "points": 23
       },
       {
-        "text": "Flooded kitchen",
+        "text": "A pet",
         "aliases": [
-          "kitchen flood"
+          "secret animal"
         ],
         "points": 19
       },
       {
-        "text": "Collapsed cake",
+        "text": "Food all over the floor",
         "aliases": [
-          "ruined cake"
+          "food fight",
+          "spilled food"
         ],
         "points": 14
       },
       {
-        "text": "Broken furniture",
+        "text": "A stranger",
         "aliases": [
-          "smashed furniture"
+          "unexpected guest"
         ],
         "points": 10
       },
       {
-        "text": "Food on the walls",
+        "text": "Bad grades",
         "aliases": [
-          "food fight"
+          "report card"
         ],
         "points": 6
       }
@@ -737,97 +742,97 @@
   {
     "id": "culture-056",
     "category": "Pop culture",
-    "prompt": "Name a place where two characters might first meet in a romantic movie.",
+    "prompt": "Name a place where movie couples meet that rarely works for flirting in real life.",
     "answers": [
       {
-        "text": "Coffee shop",
+        "text": "Grocery store",
         "aliases": [
-          "cafe"
+          "supermarket"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Bookstore",
+        "text": "Public transport",
         "aliases": [
-          "book shop"
+          "train",
+          "bus"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Airport",
+        "text": "Work",
         "aliases": [
-          "air terminal"
+          "office"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Wedding",
+        "text": "Gym",
         "aliases": [
-          "wedding reception"
+          "fitness center"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Office",
+        "text": "Library",
         "aliases": [
-          "workplace"
+          "bookstore"
         ],
         "points": 8
       },
       {
-        "text": "Dog park",
+        "text": "Doctor's waiting room",
         "aliases": [
-          "dog run"
+          "hospital"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "culture-057",
     "category": "Pop culture",
-    "prompt": "Name something that can go wrong at a wedding in a movie.",
+    "prompt": "Name a wedding guest who could turn a romantic comedy into a horror movie.",
     "answers": [
       {
-        "text": "An ex shows up",
+        "text": "An ex",
         "aliases": [
-          "former partner arrives"
+          "former partner"
         ],
         "points": 30
       },
       {
-        "text": "The rings get lost",
+        "text": "Drunk relative",
         "aliases": [
-          "missing rings"
+          "drunk uncle"
         ],
         "points": 24
       },
       {
-        "text": "It starts raining",
+        "text": "Disapproving parent",
         "aliases": [
-          "rain"
+          "angry in law"
         ],
         "points": 18
       },
       {
-        "text": "The couple arrives late",
+        "text": "Uninvited stranger",
         "aliases": [
-          "late couple"
+          "wedding crasher"
         ],
         "points": 13
       },
       {
-        "text": "The microphone fails",
+        "text": "Jealous friend",
         "aliases": [
-          "broken microphone"
+          "bitter bridesmaid"
         ],
         "points": 9
       },
       {
-        "text": "Wedding cake collapses",
+        "text": "Crying baby",
         "aliases": [
-          "cake falls over",
-          "collapsed wedding cake"
+          "screaming child"
         ],
         "points": 6
       }
@@ -836,47 +841,47 @@
   {
     "id": "culture-058",
     "category": "Pop culture",
-    "prompt": "Name a danger people face in a movie about being stranded at sea.",
+    "prompt": "Name something movies get wrong about life on a tight budget.",
     "answers": [
       {
-        "text": "Storm",
+        "text": "Huge apartment",
         "aliases": [
-          "rough weather"
+          "big house"
         ],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Shark",
+        "text": "Nice car",
         "aliases": [
-          "sharks"
+          "expensive car"
         ],
         "points": 24
       },
       {
-        "text": "Leaking boat",
+        "text": "Constant restaurant meals",
         "aliases": [
-          "leak"
+          "eating out"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Getting lost",
+        "text": "Endless free time",
         "aliases": [
-          "lost at sea"
+          "never working"
         ],
         "points": 12
       },
       {
-        "text": "No drinking water",
+        "text": "Easy medical care",
         "aliases": [
-          "thirst"
+          "hospital bills ignored"
         ],
         "points": 8
       },
       {
-        "text": "Engine failure",
+        "text": "Expensive hobbies",
         "aliases": [
-          "broken engine"
+          "costly activities"
         ],
         "points": 6
       }
@@ -885,145 +890,145 @@
   {
     "id": "culture-059",
     "category": "Pop culture",
-    "prompt": "Name an obstacle an adventurer might encounter in a jungle movie.",
+    "prompt": "Name something a movie adventurer touches even though it is obviously a trap.",
     "answers": [
       {
-        "text": "Quicksand",
+        "text": "Glowing jewel",
         "aliases": [
-          "sinking sand"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Snake",
-        "aliases": [
-          "snakes"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Thick vines",
-        "aliases": [
-          "dense vines"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Raging river",
-        "aliases": [
-          "river rapids"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Broken rope bridge",
-        "aliases": [
-          "unsafe bridge"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Swarming insects",
-        "aliases": [
-          "insect swarm"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "culture-060",
-    "category": "Pop culture",
-    "prompt": "Name a time period a movie time traveler might visit.",
-    "answers": [
-      {
-        "text": "Age of dinosaurs",
-        "aliases": [
-          "prehistoric times"
+          "gem"
         ],
         "points": 35
       },
       {
-        "text": "Medieval times",
+        "text": "Golden idol",
         "aliases": [
-          "middle ages"
+          "statue"
         ],
         "points": 25
       },
       {
-        "text": "Ancient Egypt",
+        "text": "Treasure chest",
         "aliases": [
-          "egyptian times"
+          "chest"
         ],
         "points": 16
       },
       {
-        "text": "Wild West",
+        "text": "Strange button",
         "aliases": [
-          "old west"
+          "switch"
         ],
         "points": 11
       },
       {
-        "text": "The 1950s",
+        "text": "Ancient book",
         "aliases": [
-          "fifties"
+          "forbidden book"
         ],
         "points": 8
       },
       {
-        "text": "Distant future",
+        "text": "Mysterious door",
         "aliases": [
-          "far future"
+          "sealed door"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "culture-061",
+    "id": "culture-060",
     "category": "Pop culture",
-    "prompt": "Name a part of a haunted house that characters are afraid to explore.",
+    "prompt": "Name a clue an actor is much older than the teenager they are playing.",
     "answers": [
       {
-        "text": "Attic",
+        "text": "Wrinkles",
         "aliases": [
-          "loft"
+          "lines on face"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Basement",
+        "text": "Deep voice",
         "aliases": [
-          "cellar"
+          "mature voice"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Receding hairline",
+        "aliases": [
+          "balding"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Beard shadow",
+        "aliases": [
+          "stubble"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Famous earlier roles",
+        "aliases": [
+          "old movies"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Mature mannerisms",
+        "aliases": [
+          "adult behavior"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-061",
+    "category": "Pop culture",
+    "prompt": "Name something a horror movie does right before a jump scare.",
+    "answers": [
+      {
+        "text": "Music stops",
+        "aliases": [
+          "sudden silence"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Shows a mirror",
+        "aliases": [
+          "mirror shot"
         ],
         "points": 24
       },
       {
-        "text": "Dark hallway",
+        "text": "Leaves someone alone",
         "aliases": [
-          "corridor"
+          "isolates character"
         ],
         "points": 18
       },
       {
-        "text": "Child's bedroom",
+        "text": "Lights flicker",
         "aliases": [
-          "nursery"
+          "power flickers"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Locked room",
+        "text": "Door opens slowly",
         "aliases": [
-          "sealed room"
+          "creaking door"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Staircase",
+        "text": "Camera creeps forward",
         "aliases": [
-          "stairs"
+          "slow zoom"
         ],
         "points": 6
       }
@@ -1032,47 +1037,47 @@
   {
     "id": "culture-062",
     "category": "Pop culture",
-    "prompt": "Name a kind of monster that often appears in movies.",
+    "prompt": "Name a horror-movie scene where you already know someone is about to die.",
     "answers": [
       {
-        "text": "Vampire",
+        "text": "Couple making out",
         "aliases": [
-          "vampires"
+          "kissing couple"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Werewolf",
+        "text": "Bathroom break alone",
         "aliases": [
-          "werewolves"
+          "using the toilet"
         ],
         "points": 24
       },
       {
-        "text": "Zombie",
+        "text": "Guard investigates a noise",
         "aliases": [
-          "zombies"
+          "hears strange noise"
         ],
         "points": 18
       },
       {
-        "text": "Giant lizard",
+        "text": "Someone brags they are safe",
         "aliases": [
-          "giant reptile"
+          "nothing can hurt me"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Mummy",
+        "text": "Car refuses to start",
         "aliases": [
-          "mummies"
+          "broken down car"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Sea monster",
+        "text": "Group splits up",
         "aliases": [
-          "sea creature"
+          "go separate ways"
         ],
         "points": 6
       }
@@ -1081,47 +1086,47 @@
   {
     "id": "culture-063",
     "category": "Pop culture",
-    "prompt": "Name a special ability a helpful movie robot might have.",
+    "prompt": "Name a movie robot trait that makes it more lovable than the humans.",
     "answers": [
       {
-        "text": "Super strength",
+        "text": "Loyalty",
         "aliases": [
-          "great strength"
+          "devotion"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Translate languages",
+        "text": "Dry humor",
         "aliases": [
-          "translation"
+          "funny remarks"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Instant calculations",
+        "text": "Awkward voice",
         "aliases": [
-          "fast calculations"
+          "funny voice"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Scan objects",
+        "text": "Cute appearance",
         "aliases": [
-          "scanning"
+          "small and cute"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Repair machines",
+        "text": "Kindness",
         "aliases": [
-          "fix machinery"
+          "compassion"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Fly",
+        "text": "Clumsiness",
         "aliases": [
-          "flying"
+          "awkward movements"
         ],
         "points": 6
       }
@@ -1130,47 +1135,47 @@
   {
     "id": "culture-064",
     "category": "Pop culture",
-    "prompt": "Name something ordinary that becomes dangerous to a character who shrinks in a movie.",
+    "prompt": "Name something actors do when they try too hard to look tough.",
     "answers": [
       {
-        "text": "House cat",
+        "text": "Lower their voice",
         "aliases": [
-          "cat"
+          "deep voice"
         ],
         "points": 35
       },
       {
-        "text": "Vacuum cleaner",
+        "text": "Squint",
         "aliases": [
-          "vacuum"
+          "narrow eyes"
         ],
         "points": 25
       },
       {
-        "text": "Raindrop",
+        "text": "Strut",
         "aliases": [
-          "rain drops"
+          "swagger"
         ],
         "points": 16
       },
       {
-        "text": "Ant",
+        "text": "Flex muscles",
         "aliases": [
-          "ants"
+          "show muscles"
         ],
         "points": 11
       },
       {
-        "text": "Someone's foot",
+        "text": "Chew gum",
         "aliases": [
-          "footstep"
+          "chew slowly"
         ],
         "points": 8
       },
       {
-        "text": "Sink drain",
+        "text": "Clench their jaw",
         "aliases": [
-          "drain"
+          "grit teeth"
         ],
         "points": 5
       }
@@ -1179,47 +1184,48 @@
   {
     "id": "culture-065",
     "category": "Pop culture",
-    "prompt": "Name something that becomes difficult for characters who swap bodies in a movie.",
+    "prompt": "Name a sign two actors hated filming a romantic scene together.",
     "answers": [
       {
-        "text": "Signing their name",
+        "text": "No eye contact",
         "aliases": [
-          "signature"
+          "avoid looking"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Driving",
+        "text": "Stiff bodies",
         "aliases": [
-          "drive a car"
+          "awkward posture"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Getting dressed",
+        "text": "Nervous laughter",
         "aliases": [
-          "choosing clothes"
+          "giggling"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Using a different voice",
+        "text": "Pulling away",
         "aliases": [
-          "new voice"
+          "leaning back"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Doing the other person's job",
+        "text": "Refusing to promote it together",
         "aliases": [
-          "new job"
+          "separate interviews",
+          "avoid press together"
         ],
-        "points": 9
+        "points": 10
       },
       {
-        "text": "Convincing their friends",
+        "text": "Awkward interviews",
         "aliases": [
-          "explaining the swap"
+          "uncomfortable press tour"
         ],
         "points": 6
       }
@@ -1228,47 +1234,47 @@
   {
     "id": "culture-066",
     "category": "Pop culture",
-    "prompt": "Name something that might reveal where an invisible movie character is standing.",
+    "prompt": "Name something you secretly hope happens at a boring award show.",
     "answers": [
       {
-        "text": "Footprints",
+        "text": "Wrong winner announced",
         "aliases": [
-          "tracks"
+          "wrong envelope"
         ],
         "points": 32
       },
       {
-        "text": "Floating objects",
+        "text": "Someone trips",
         "aliases": [
-          "objects moving in air"
+          "falls onstage"
         ],
         "points": 24
       },
       {
-        "text": "Creaking floorboards",
+        "text": "Awkward speech",
         "aliases": [
-          "floor creaks"
+          "embarrassing speech"
         ],
         "points": 18
       },
       {
-        "text": "Spilled paint",
+        "text": "Surprise guest",
         "aliases": [
-          "paint on them"
+          "unexpected celebrity"
         ],
         "points": 12
       },
       {
-        "text": "Bumping into people",
+        "text": "An argument",
         "aliases": [
-          "collision"
+          "live fight"
         ],
         "points": 8
       },
       {
-        "text": "Their voice",
+        "text": "Wardrobe malfunction",
         "aliases": [
-          "speaking"
+          "outfit rips"
         ],
         "points": 6
       }
@@ -1277,47 +1283,47 @@
   {
     "id": "culture-067",
     "category": "Pop culture",
-    "prompt": "Name something that might be a superhero's weakness in a movie.",
+    "prompt": "Name a complaint fans make about a superhero movie costume.",
     "answers": [
       {
-        "text": "Rare mineral",
+        "text": "Too tight",
         "aliases": [
-          "special crystal"
+          "skin tight"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Magic",
+        "text": "Too dark",
         "aliases": [
-          "sorcery"
+          "cannot see it"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Loved ones in danger",
+        "text": "Fake muscles",
         "aliases": [
-          "family in danger"
+          "padded suit"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Loud noise",
+        "text": "Wrong color",
         "aliases": [
-          "high pitched sound"
+          "bad colors"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Water",
+        "text": "Missing cape",
         "aliases": [
-          "getting wet"
+          "no cape"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Fire",
+        "text": "Ridiculous helmet",
         "aliases": [
-          "flames"
+          "ugly mask"
         ],
         "points": 6
       }
@@ -1326,145 +1332,145 @@
   {
     "id": "culture-068",
     "category": "Pop culture",
-    "prompt": "Name a character type you would expect in a movie adventure team.",
+    "prompt": "Name someone every movie group should leave out of the dangerous mission.",
     "answers": [
       {
-        "text": "Leader",
+        "text": "Coward",
         "aliases": [
-          "captain"
+          "scared person"
         ],
-        "points": 35
+        "points": 34
       },
       {
-        "text": "Comic relief",
+        "text": "Show-off",
         "aliases": [
-          "funny one"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Brainy one",
-        "aliases": [
-          "the brains"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Strong one",
-        "aliases": [
-          "muscle"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Healer",
-        "aliases": [
-          "medic"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Scout",
-        "aliases": [
-          "lookout"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "culture-069",
-    "category": "Pop culture",
-    "prompt": "Name something television siblings often argue about.",
-    "answers": [
-      {
-        "text": "Borrowing clothes",
-        "aliases": [
-          "stolen clothes"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Bathroom time",
-        "aliases": [
-          "using the bathroom"
+          "reckless one"
         ],
         "points": 24
       },
       {
-        "text": "Chores",
+        "text": "Traitor",
         "aliases": [
-          "housework"
+          "untrustworthy person"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Sharing a bedroom",
+        "text": "Clumsy friend",
         "aliases": [
-          "room sharing"
+          "accident prone"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Parents' favoritism",
+        "text": "Person who never listens",
         "aliases": [
-          "favorite child"
+          "ignores instructions"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "TV remote",
+        "text": "Person with no useful skills",
         "aliases": [
-          "remote control"
+          "useless passenger"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "culture-070",
+    "id": "culture-069",
     "category": "Pop culture",
-    "prompt": "Name a misunderstanding that could drive an episode of a sitcom.",
+    "prompt": "Name something TV siblings do that would start a fight in your house.",
     "answers": [
       {
-        "text": "Overheard conversation",
+        "text": "Steal clothes",
         "aliases": [
-          "hearing only part of a conversation"
+          "borrow without asking"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Mistaken identity",
+        "text": "Eat your food",
         "aliases": [
-          "wrong person"
+          "take your snacks"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Misread text",
+        "text": "Read private messages",
         "aliases": [
-          "misunderstood message"
+          "snoop"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Wrong delivery",
+        "text": "Blame you for trouble",
         "aliases": [
-          "mixed up package"
+          "get you punished"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Secret party",
+        "text": "Hog the bathroom",
         "aliases": [
-          "surprise party"
+          "long showers"
         ],
         "points": 8
       },
       {
-        "text": "Switched bags",
+        "text": "Embarrass you in front of friends",
         "aliases": [
-          "mixed up bags"
+          "reveal secrets"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-070",
+    "category": "Pop culture",
+    "prompt": "Name a sitcom excuse that would never fool you in real life.",
+    "answers": [
+      {
+        "text": "It is not what it looks like",
+        "aliases": [
+          "misunderstanding"
+        ],
+        "points": 28
+      },
+      {
+        "text": "We are just friends",
+        "aliases": [
+          "nothing going on"
+        ],
+        "points": 23
+      },
+      {
+        "text": "The dog did it",
+        "aliases": [
+          "blame pet"
+        ],
+        "points": 19
+      },
+      {
+        "text": "I forgot",
+        "aliases": [
+          "did not remember"
+        ],
+        "points": 14
+      },
+      {
+        "text": "My phone died",
+        "aliases": [
+          "dead battery"
+        ],
+        "points": 10
+      },
+      {
+        "text": "I was working late",
+        "aliases": [
+          "at the office"
         ],
         "points": 6
       }
@@ -1473,47 +1479,48 @@
   {
     "id": "culture-071",
     "category": "Pop culture",
-    "prompt": "Name a workplace that could be the setting of a television comedy.",
+    "prompt": "Name something that makes a TV workplace better than your actual job.",
     "answers": [
       {
-        "text": "Office",
+        "text": "Funny coworkers",
         "aliases": [
-          "corporate office"
+          "fun colleagues"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Store",
+        "text": "Lots of free time",
         "aliases": [
-          "shop"
+          "long breaks"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Restaurant",
+        "text": "Great-looking people",
         "aliases": [
-          "diner"
+          "attractive coworkers"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Hospital",
+        "text": "Beautiful office",
         "aliases": [
-          "medical center"
+          "great workplace",
+          "amazing office"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Police station",
+        "text": "Exciting emergencies",
         "aliases": [
-          "police precinct"
+          "interesting work"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "School",
+        "text": "Boss forgives everything",
         "aliases": [
-          "school building"
+          "no consequences"
         ],
         "points": 6
       }
@@ -1522,96 +1529,96 @@
   {
     "id": "culture-072",
     "category": "Pop culture",
-    "prompt": "Name a place an officer might visit during a police procedural episode.",
+    "prompt": "Name something police shows spend more time on than paperwork.",
     "answers": [
       {
-        "text": "Crime scene",
+        "text": "Car chases",
         "aliases": [
-          "scene of the crime"
+          "pursuits"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Police station",
+        "text": "Romance",
         "aliases": [
-          "precinct"
+          "dating coworkers"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Interrogation room",
+        "text": "Interrogations",
         "aliases": [
-          "interview room"
+          "questioning suspects"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Courtroom",
+        "text": "Gunfights",
         "aliases": [
-          "court"
+          "shootouts"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Patrol car",
+        "text": "Arguing with the boss",
         "aliases": [
-          "police car"
+          "disobeying orders"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Forensics lab",
+        "text": "Eating",
         "aliases": [
-          "crime lab"
+          "coffee and doughnuts"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "culture-073",
     "category": "Pop culture",
-    "prompt": "Name something cooking-show judges consider when scoring a dish.",
+    "prompt": "Name something cooking-show judges complain about that you would happily eat anyway.",
     "answers": [
       {
-        "text": "Taste",
+        "text": "Too much chocolate",
         "aliases": [
-          "flavor"
+          "too sweet"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Presentation",
+        "text": "Too much butter",
         "aliases": [
-          "plating"
+          "too rich"
         ],
         "points": 24
       },
       {
-        "text": "Texture",
+        "text": "Too much cheese",
         "aliases": [
-          "mouthfeel"
+          "too cheesy"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Originality",
+        "text": "Too large a portion",
         "aliases": [
-          "creativity"
+          "oversized meal"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Doneness",
+        "text": "Messy presentation",
         "aliases": [
-          "how well it is cooked"
+          "looks ugly"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Fit with the theme",
+        "text": "Too much garlic",
         "aliases": [
-          "meeting the brief"
+          "too garlicky"
         ],
         "points": 6
       }
@@ -1620,96 +1627,96 @@
   {
     "id": "culture-074",
     "category": "Pop culture",
-    "prompt": "Name a challenge contestants might face on a wilderness survival show.",
+    "prompt": "Name a reason you would be voted off a survival reality show first.",
     "answers": [
       {
-        "text": "Make a fire",
+        "text": "Complain constantly",
         "aliases": [
-          "fire building"
+          "whining"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Build a shelter",
+        "text": "Cannot make fire",
         "aliases": [
-          "shelter building"
+          "no survival skills"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Find food",
+        "text": "Annoy everyone",
         "aliases": [
-          "foraging"
+          "talk too much"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Obstacle course",
+        "text": "Refuse to eat weird food",
         "aliases": [
-          "obstacle race"
+          "picky eater"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Solve a puzzle",
+        "text": "Too lazy",
         "aliases": [
-          "puzzle challenge"
+          "do no work"
         ],
         "points": 8
       },
       {
-        "text": "Endurance test",
+        "text": "Bad at challenges",
         "aliases": [
-          "stamina challenge"
+          "lose every challenge"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-075",
     "category": "Pop culture",
-    "prompt": "Name a mistake a nervous game-show contestant might make.",
+    "prompt": "Name something you might forget on a game show despite knowing it your whole life.",
     "answers": [
       {
-        "text": "Mishear the question",
+        "text": "Your name",
         "aliases": [
-          "misunderstand the question"
+          "own name"
         ],
         "points": 28
       },
       {
-        "text": "Buzz in too early",
+        "text": "Birthday",
         "aliases": [
-          "early buzzer"
+          "birth date"
         ],
         "points": 23
       },
       {
-        "text": "Run out of time",
+        "text": "Partner's name",
         "aliases": [
-          "take too long"
+          "spouse name"
         ],
         "points": 19
       },
       {
-        "text": "Forget the answer",
+        "text": "Basic arithmetic",
         "aliases": [
-          "mind goes blank"
+          "simple math"
         ],
         "points": 14
       },
       {
-        "text": "Bid too high",
+        "text": "Your address",
         "aliases": [
-          "overbid"
+          "home address"
         ],
         "points": 10
       },
       {
-        "text": "Press the wrong button",
+        "text": "Words to a famous song",
         "aliases": [
-          "wrong button"
+          "song lyrics"
         ],
         "points": 6
       }
@@ -1718,96 +1725,97 @@
   {
     "id": "culture-076",
     "category": "Pop culture",
-    "prompt": "Name something a makeover show might change about a person's appearance.",
+    "prompt": "Name something a TV makeover cannot fix.",
     "answers": [
       {
-        "text": "Hairstyle",
+        "text": "Bad personality",
         "aliases": [
-          "haircut"
+          "being rude"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Wardrobe",
+        "text": "Debt",
         "aliases": [
-          "clothes"
+          "money problems"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Makeup",
+        "text": "Messy house",
         "aliases": [
-          "cosmetics"
+          "dirty home"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Glasses",
+        "text": "Unhappy relationship",
         "aliases": [
-          "eyeglasses"
+          "bad marriage"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Posture",
+        "text": "Terrible cooking",
         "aliases": [
-          "how they stand"
+          "bad cook",
+          "cannot cook"
         ],
         "points": 8
       },
       {
-        "text": "Facial hair",
+        "text": "Laziness",
         "aliases": [
-          "beard"
+          "bad work ethic"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "culture-077",
     "category": "Pop culture",
-    "prompt": "Name a surprise that might be discovered during a home-renovation show.",
+    "prompt": "Name something that would make you regret letting a home-renovation show into your house.",
     "answers": [
       {
-        "text": "Rotten wood",
+        "text": "Huge bill",
         "aliases": [
-          "wood rot"
+          "over budget"
         ],
         "points": 30
       },
       {
-        "text": "Old wiring",
+        "text": "Hideous decor",
         "aliases": [
-          "outdated wiring"
+          "ugly design"
         ],
         "points": 24
       },
       {
-        "text": "Hidden room",
+        "text": "Damage to the house",
         "aliases": [
-          "secret room"
+          "broken things"
         ],
         "points": 18
       },
       {
-        "text": "Leaking pipes",
+        "text": "Losing sentimental items",
         "aliases": [
-          "plumbing leak"
+          "throwing my stuff away"
         ],
         "points": 13
       },
       {
-        "text": "Mold",
+        "text": "Being filmed in pajamas",
         "aliases": [
-          "mould"
+          "embarrassing footage"
         ],
         "points": 9
       },
       {
-        "text": "Uneven floor",
+        "text": "Unfinished work",
         "aliases": [
-          "sloping floor"
+          "abandoned project"
         ],
         "points": 6
       }
@@ -1816,47 +1824,47 @@
   {
     "id": "culture-078",
     "category": "Pop culture",
-    "prompt": "Name a regular segment on a television news program.",
+    "prompt": "Name a TV topic you cannot watch with your opinionated relative.",
     "answers": [
       {
-        "text": "Weather",
+        "text": "Politics",
         "aliases": [
-          "weather forecast"
+          "elections"
         ],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Sports",
+        "text": "Religion",
         "aliases": [
-          "sports news"
+          "faith"
         ],
         "points": 24
       },
       {
-        "text": "Traffic",
+        "text": "Celebrity scandals",
         "aliases": [
-          "traffic report"
+          "celebrity gossip"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Politics",
+        "text": "Parenting",
         "aliases": [
-          "political news"
+          "raising kids"
         ],
         "points": 12
       },
       {
-        "text": "Local events",
+        "text": "Sports",
         "aliases": [
-          "community events"
+          "football"
         ],
         "points": 8
       },
       {
-        "text": "Business",
+        "text": "Crime",
         "aliases": [
-          "financial news"
+          "court cases"
         ],
         "points": 6
       }
@@ -1865,145 +1873,145 @@
   {
     "id": "culture-079",
     "category": "Pop culture",
-    "prompt": "Name behavior that can make viewers dislike a reality-show contestant.",
+    "prompt": "Name a reality-show behavior people secretly enjoy watching.",
     "answers": [
       {
-        "text": "Bragging",
+        "text": "Arguments",
         "aliases": [
-          "boasting"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Cheating",
-        "aliases": [
-          "breaking rules"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Interrupting",
-        "aliases": [
-          "talking over people"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Gossiping",
-        "aliases": [
-          "spreading rumors"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Blaming teammates",
-        "aliases": [
-          "blaming others"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Complaining",
-        "aliases": [
-          "whining"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "culture-080",
-    "category": "Pop culture",
-    "prompt": "Name an animal behavior a nature documentary might show.",
-    "answers": [
-      {
-        "text": "Hunting",
-        "aliases": [
-          "catching prey"
+          "fighting"
         ],
         "points": 35
       },
       {
-        "text": "Migrating",
+        "text": "Gossip",
         "aliases": [
-          "migration"
+          "talking behind backs"
         ],
         "points": 25
       },
       {
-        "text": "Building a nest",
+        "text": "Showboating",
         "aliases": [
-          "nesting"
+          "bragging"
         ],
         "points": 16
       },
       {
-        "text": "Raising young",
+        "text": "Terrible flirting",
         "aliases": [
-          "caring for babies"
+          "awkward romance"
         ],
         "points": 11
       },
       {
-        "text": "Courtship",
+        "text": "Jealousy",
         "aliases": [
-          "finding a mate"
+          "love triangles"
         ],
         "points": 8
       },
       {
-        "text": "Playing",
+        "text": "Crying over nothing",
         "aliases": [
-          "play fighting"
+          "dramatic tears"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "culture-081",
+    "id": "culture-080",
     "category": "Pop culture",
-    "prompt": "Name a subject people watch documentaries about.",
+    "prompt": "Name something you say during a nature documentary as if the animal can hear you.",
     "answers": [
       {
-        "text": "Wildlife",
+        "text": "Run",
         "aliases": [
-          "animals"
+          "get away"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "History",
+        "text": "Look behind you",
         "aliases": [
-          "historical events"
+          "watch out"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Do not eat that",
+        "aliases": [
+          "leave it alone"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Protect the baby",
+        "aliases": [
+          "save your child"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Go find food",
+        "aliases": [
+          "hunt"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Leave them alone",
+        "aliases": [
+          "stop attacking"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-081",
+    "category": "Pop culture",
+    "prompt": "Name a documentary subject that could keep you up all night.",
+    "answers": [
+      {
+        "text": "True crime",
+        "aliases": [
+          "murder mystery"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Cult",
+        "aliases": [
+          "cult leader"
         ],
         "points": 24
       },
       {
-        "text": "Crime",
+        "text": "Scam",
         "aliases": [
-          "true crime"
+          "fraud"
         ],
         "points": 18
       },
       {
-        "text": "Space exploration",
+        "text": "Aliens",
         "aliases": [
-          "space missions"
+          "ufos"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Sports",
+        "text": "Disaster",
         "aliases": [
-          "athletes"
+          "tragedy"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Food",
+        "text": "Celebrity scandal",
         "aliases": [
-          "cuisine"
+          "famous person's secrets"
         ],
         "points": 6
       }
@@ -2012,47 +2020,47 @@
   {
     "id": "culture-082",
     "category": "Pop culture",
-    "prompt": "Name something a travel-show host might do while visiting a new place.",
+    "prompt": "Name a TV competition challenge you would fail immediately.",
     "answers": [
       {
-        "text": "Try local food",
+        "text": "Singing",
         "aliases": [
-          "taste local dishes"
+          "sing a song"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Visit a landmark",
+        "text": "Dancing",
         "aliases": [
-          "see a monument"
+          "dance routine"
         ],
         "points": 24
       },
       {
-        "text": "Talk to residents",
+        "text": "Cooking",
         "aliases": [
-          "interview locals"
+          "prepare a dish"
         ],
         "points": 18
       },
       {
-        "text": "Explore a market",
+        "text": "Obstacle course",
         "aliases": [
-          "visit a market"
+          "physical challenge"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Attend a festival",
+        "text": "Memory quiz",
         "aliases": [
-          "join a festival"
+          "remember facts"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Ride a scenic train",
+        "text": "Eating insects",
         "aliases": [
-          "take a train ride"
+          "gross food challenge"
         ],
         "points": 6
       }
@@ -2061,47 +2069,47 @@
   {
     "id": "culture-083",
     "category": "Pop culture",
-    "prompt": "Name a personality trait that helps a fictional detective solve a case.",
+    "prompt": "Name something a fictional detective notices that you would completely miss.",
     "answers": [
       {
-        "text": "Observant",
+        "text": "Tiny stain",
         "aliases": [
-          "perceptive"
+          "blood spot"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Patient",
+        "text": "Someone's shoes",
         "aliases": [
-          "patience"
+          "muddy footwear"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Suspicious",
+        "text": "Missing object",
         "aliases": [
-          "skeptical"
+          "something moved"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Clever",
+        "text": "A nervous gesture",
         "aliases": [
-          "intelligent"
+          "body language"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Stubborn",
+        "text": "An inconsistent story",
         "aliases": [
-          "persistent"
+          "contradiction"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Calm",
+        "text": "A smell",
         "aliases": [
-          "level headed"
+          "unusual odor"
         ],
         "points": 6
       }
@@ -2110,47 +2118,48 @@
   {
     "id": "culture-084",
     "category": "Pop culture",
-    "prompt": "Name a way a sidekick might help the hero during a movie mission.",
+    "prompt": "Name something a movie sidekick deserves but rarely gets.",
     "answers": [
       {
-        "text": "Give advice",
+        "text": "Credit",
         "aliases": [
-          "offer advice"
+          "recognition"
         ],
         "points": 35
       },
       {
-        "text": "Create a distraction",
+        "text": "A pay raise",
         "aliases": [
-          "distract the enemy"
+          "money"
         ],
         "points": 25
       },
       {
-        "text": "Carry equipment",
+        "text": "Their own love story",
         "aliases": [
-          "carry supplies"
+          "romance"
         ],
         "points": 16
       },
       {
-        "text": "Fix a machine",
+        "text": "A vacation",
         "aliases": [
-          "repair equipment"
+          "time off"
         ],
         "points": 11
       },
       {
-        "text": "Provide a ride",
+        "text": "An apology",
         "aliases": [
-          "drive the hero"
+          "saying sorry",
+          "sorry"
         ],
         "points": 8
       },
       {
-        "text": "Rescue the hero",
+        "text": "Better equipment",
         "aliases": [
-          "save the hero"
+          "proper weapon"
         ],
         "points": 5
       }
@@ -2159,47 +2168,47 @@
   {
     "id": "culture-085",
     "category": "Pop culture",
-    "prompt": "Name something a wise movie mentor might teach a young hero.",
+    "prompt": "Name bad advice a movie mentor gives that sounds wise.",
     "answers": [
       {
-        "text": "Self-defense",
+        "text": "Trust your heart",
         "aliases": [
-          "fighting skills"
+          "follow your feelings"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Patience",
+        "text": "Do it alone",
         "aliases": [
-          "be patient"
+          "you must go alone"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Teamwork",
+        "text": "Face your fear",
         "aliases": [
-          "working together"
+          "confront danger"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Control special powers",
+        "text": "Keep it a secret",
         "aliases": [
-          "master their powers"
+          "tell no one"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Strategy",
+        "text": "Break the rules",
         "aliases": [
-          "planning"
+          "ignore authority"
         ],
-        "points": 9
+        "points": 10
       },
       {
-        "text": "Self-confidence",
+        "text": "Wait for the right moment",
         "aliases": [
-          "believe in themselves"
+          "do nothing yet"
         ],
         "points": 6
       }
@@ -2208,47 +2217,47 @@
   {
     "id": "culture-086",
     "category": "Pop culture",
-    "prompt": "Name something a movie villain might be trying to get.",
+    "prompt": "Name something a movie villain does that makes the audience laugh instead of feel scared.",
     "answers": [
       {
-        "text": "Power",
+        "text": "Silly laugh",
         "aliases": [
-          "political power"
+          "ridiculous laugh"
         ],
         "points": 32
       },
       {
-        "text": "Money",
+        "text": "Overlong speech",
         "aliases": [
-          "wealth"
+          "talks too much"
         ],
         "points": 24
       },
       {
-        "text": "Revenge",
+        "text": "Trips over",
         "aliases": [
-          "payback"
+          "falls down"
         ],
         "points": 18
       },
       {
-        "text": "Immortality",
+        "text": "Loses to a child",
         "aliases": [
-          "eternal life"
+          "beaten by a kid"
         ],
         "points": 12
       },
       {
-        "text": "Recognition",
+        "text": "Dramatic entrance",
         "aliases": [
-          "fame"
+          "over the top arrival"
         ],
         "points": 8
       },
       {
-        "text": "Valuable artifact",
+        "text": "Costume falls apart",
         "aliases": [
-          "precious artifact"
+          "wardrobe malfunction"
         ],
         "points": 6
       }
@@ -2257,47 +2266,47 @@
   {
     "id": "culture-087",
     "category": "Pop culture",
-    "prompt": "Name something a movie hero might do before leaving on a dangerous mission.",
+    "prompt": "Name something an action hero does before a dangerous mission that you would do before a vacation.",
     "answers": [
       {
-        "text": "Study a map",
+        "text": "Pack a bag",
         "aliases": [
-          "check the route"
+          "gather supplies"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Gather supplies",
+        "text": "Check the route",
         "aliases": [
-          "pack supplies"
+          "look at map"
         ],
-        "points": 23
-      },
-      {
-        "text": "Make a plan",
-        "aliases": [
-          "plan the mission"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Recruit allies",
-        "aliases": [
-          "assemble a team"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Test equipment",
-        "aliases": [
-          "check their gear"
-        ],
-        "points": 10
+        "points": 24
       },
       {
         "text": "Say goodbye",
         "aliases": [
-          "farewell"
+          "call family"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Charge equipment",
+        "aliases": [
+          "charge phone"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Put on special clothes",
+        "aliases": [
+          "choose outfit"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Make a plan",
+        "aliases": [
+          "write itinerary"
         ],
         "points": 6
       }
@@ -2306,145 +2315,145 @@
   {
     "id": "culture-088",
     "category": "Pop culture",
-    "prompt": "Name something that could expose an undercover character's real identity.",
+    "prompt": "Name something an actor might lie about to get a part.",
     "answers": [
       {
-        "text": "Wrong accent",
+        "text": "Age",
         "aliases": [
-          "accent slips"
+          "birth date"
         ],
-        "points": 35
+        "points": 34
       },
       {
-        "text": "Recognized face",
+        "text": "Height",
         "aliases": [
-          "someone recognizes them"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Hidden badge",
-        "aliases": [
-          "police badge"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Ringing phone",
-        "aliases": [
-          "phone call"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Inconsistent backstory",
-        "aliases": [
-          "contradictory story"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Someone uses their real name",
-        "aliases": [
-          "real name slips out"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "culture-089",
-    "category": "Pop culture",
-    "prompt": "Name a vehicle a movie character might use for a dramatic getaway.",
-    "answers": [
-      {
-        "text": "Sports car",
-        "aliases": [
-          "fast car"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Motorcycle",
-        "aliases": [
-          "motorbike"
+          "how tall they are"
         ],
         "points": 24
       },
       {
-        "text": "Helicopter",
+        "text": "Singing ability",
         "aliases": [
-          "chopper"
+          "can sing"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Speedboat",
+        "text": "Accent",
         "aliases": [
-          "motorboat"
+          "speak another accent"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Train",
+        "text": "Athletic skills",
         "aliases": [
-          "railway train"
+          "can ride a horse"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Horse",
+        "text": "Work experience",
         "aliases": [
-          "horseback"
+          "acting credits"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "culture-090",
+    "id": "culture-089",
     "category": "Pop culture",
-    "prompt": "Name a place where thriller characters might become trapped.",
+    "prompt": "Name something car-chase scenes never seem to make time for.",
     "answers": [
       {
-        "text": "Elevator",
+        "text": "Red lights",
         "aliases": [
-          "lift"
+          "traffic signals"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Locked room",
+        "text": "Parking",
         "aliases": [
-          "sealed room"
+          "finding a space"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Island",
+        "text": "Buying gas",
         "aliases": [
-          "deserted island"
+          "fuel stop"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Submarine",
+        "text": "Insurance",
         "aliases": [
-          "sub"
+          "accident forms"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Cave",
+        "text": "Checking injured people",
         "aliases": [
-          "cavern"
+          "helping bystanders"
         ],
         "points": 8
       },
       {
-        "text": "Train",
+        "text": "Seat belts",
         "aliases": [
-          "stopped train"
+          "buckling up"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-090",
+    "category": "Pop culture",
+    "prompt": "Name something you wish cinema tickets came with.",
+    "answers": [
+      {
+        "text": "Free popcorn",
+        "aliases": [
+          "popcorn"
+        ],
+        "points": 28
+      },
+      {
+        "text": "A drink",
+        "aliases": [
+          "soda"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Free parking",
+        "aliases": [
+          "parking"
+        ],
+        "points": 19
+      },
+      {
+        "text": "A blanket",
+        "aliases": [
+          "warm blanket"
+        ],
+        "points": 14
+      },
+      {
+        "text": "A refund guarantee",
+        "aliases": [
+          "money back"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Babysitting",
+        "aliases": [
+          "childcare"
         ],
         "points": 6
       }
@@ -2453,47 +2462,47 @@
   {
     "id": "culture-091",
     "category": "Pop culture",
-    "prompt": "Name a physical mishap used for a laugh in a comedy movie.",
+    "prompt": "Name something in a comedy that would stop being funny if it happened to you.",
     "answers": [
       {
-        "text": "Slip on a banana peel",
+        "text": "Pants ripping",
         "aliases": [
-          "banana peel slip"
+          "split trousers"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Walk into a door",
+        "text": "Falling in a pool",
         "aliases": [
-          "hit a door"
+          "getting soaked"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Split their pants",
+        "text": "Getting hit in the face",
         "aliases": [
-          "ripped trousers"
+          "slap"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Spill a drink",
+        "text": "Food spilled on you",
         "aliases": [
-          "drink spill"
+          "drink spilled"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Fall into a pool",
+        "text": "Locked out naked",
         "aliases": [
-          "pool fall"
+          "no clothes"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Trip over their own feet",
+        "text": "Mistaken for a criminal",
         "aliases": [
-          "trip and fall"
+          "wrongly arrested"
         ],
         "points": 6
       }
@@ -2502,96 +2511,96 @@
   {
     "id": "culture-092",
     "category": "Pop culture",
-    "prompt": "Name a school club a movie student might join.",
+    "prompt": "Name a movie-school experience you wish you had in real life.",
     "answers": [
       {
-        "text": "Drama club",
+        "text": "Huge prom",
         "aliases": [
-          "theater club"
+          "perfect dance"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Science club",
+        "text": "Inspirational teacher",
         "aliases": [
-          "science society"
+          "teacher who cared"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Chess club",
+        "text": "Winning the big game",
         "aliases": [
-          "chess team"
+          "sports victory"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "School newspaper",
+        "text": "Falling in love",
         "aliases": [
-          "student newspaper"
+          "school romance"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Debate club",
+        "text": "Epic senior prank",
         "aliases": [
-          "debate team"
+          "legendary prank"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Yearbook club",
+        "text": "Amazing field trip",
         "aliases": [
-          "yearbook committee"
+          "exciting trip"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "culture-093",
     "category": "Pop culture",
-    "prompt": "Name something cartoon characters do that ignores the laws of physics.",
+    "prompt": "Name a reason adults pretend they are watching a cartoon for the kids.",
     "answers": [
       {
-        "text": "Run on air",
+        "text": "Funny jokes",
         "aliases": [
-          "run off a cliff"
+          "humor"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Stretch their bodies",
+        "text": "Nostalgia",
         "aliases": [
-          "stretch like rubber"
+          "childhood memories"
         ],
         "points": 24
       },
       {
-        "text": "Survive a huge fall",
+        "text": "Great songs",
         "aliases": [
-          "walk away from a fall"
+          "music"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Pull huge objects from pockets",
+        "text": "Good story",
         "aliases": [
-          "bottomless pockets"
+          "plot"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Bounce back after being flattened",
+        "text": "Cute characters",
         "aliases": [
-          "recover from being squashed"
+          "adorable characters"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Run through a wall",
+        "text": "Celebrity voices",
         "aliases": [
-          "leave a hole in a wall"
+          "famous voice actors"
         ],
         "points": 6
       }
@@ -2600,96 +2609,100 @@
   {
     "id": "culture-094",
     "category": "Pop culture",
-    "prompt": "Name an obstacle that slows a movie character during a chase.",
+    "prompt": "Name an obstacle action-movie drivers blast through that would ruin your car.",
     "answers": [
-      {
-        "text": "Traffic jam",
-        "aliases": [
-          "traffic"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Construction site",
-        "aliases": [
-          "roadworks"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Crowd of people",
-        "aliases": [
-          "crowd"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Fence",
-        "aliases": [
-          "fencing"
-        ],
-        "points": 12
-      },
       {
         "text": "Fruit stand",
         "aliases": [
           "market stall"
         ],
+        "points": 35
+      },
+      {
+        "text": "Fence",
+        "aliases": [
+          "wooden barrier"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Glass window",
+        "aliases": [
+          "shop window"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Staircase",
+        "aliases": [
+          "steps"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Garbage cans",
+        "aliases": [
+          "trash bins"
+        ],
         "points": 8
       },
       {
-        "text": "Closing door",
+        "text": "Closed gate",
         "aliases": [
-          "shutting door"
+          "metal gate"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-095",
     "category": "Pop culture",
-    "prompt": "Name a kind of weather filmmakers use to set a scene's mood.",
+    "prompt": "Name something that could ruin filming a romantic kissing scene.",
     "answers": [
       {
-        "text": "Rain",
+        "text": "Laughing",
         "aliases": [
-          "rainfall"
+          "actor laughing",
+          "giggling"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Fog",
+        "text": "A phone ringing",
         "aliases": [
-          "mist"
+          "ringtone",
+          "phone call"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Thunderstorm",
+        "text": "Bad breath",
         "aliases": [
-          "lightning storm"
+          "smelly breath"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Snow",
+        "text": "Sneezing",
         "aliases": [
-          "snowfall"
+          "a sneeze"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Sunshine",
+        "text": "A fake mustache falling off",
         "aliases": [
-          "sunny weather"
+          "fake moustache falls off",
+          "loose mustache"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Strong wind",
+        "text": "A microphone in the shot",
         "aliases": [
-          "windy weather"
+          "boom mic",
+          "visible microphone"
         ],
         "points": 6
       }
@@ -2698,96 +2711,98 @@
   {
     "id": "culture-096",
     "category": "Pop culture",
-    "prompt": "Name a revelation that could be a movie's surprise ending.",
+    "prompt": "Name a movie twist that makes you feel cheated.",
     "answers": [
       {
-        "text": "Trusted friend is the villain",
+        "text": "It was all a dream",
         "aliases": [
-          "friend was evil"
+          "dream ending"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "It was a dream",
+        "text": "The dead person is alive",
         "aliases": [
-          "all a dream"
+          "fake death"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Missing person is alive",
+        "text": "Evil twin",
         "aliases": [
-          "presumed dead person survives"
+          "secret twin"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Hero committed the crime",
+        "text": "No explanation",
         "aliases": [
-          "hero is the culprit"
+          "nothing resolved"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Two characters are one person",
+        "text": "Secretly a different timeline",
         "aliases": [
-          "same person"
+          "time trick"
         ],
         "points": 8
       },
       {
-        "text": "Events take place in the future",
+        "text": "Surprise supernatural explanation",
         "aliases": [
-          "future setting reveal"
+          "a ghost did it",
+          "suddenly magic"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "culture-097",
     "category": "Pop culture",
-    "prompt": "Name a moment that could end a television episode on a cliffhanger.",
+    "prompt": "Name a TV cliffhanger that makes you immediately play the next episode.",
     "answers": [
       {
-        "text": "A mysterious door opens",
+        "text": "Someone might die",
         "aliases": [
-          "unknown door opens"
+          "life in danger"
         ],
         "points": 30
       },
       {
-        "text": "Hero hangs from a ledge",
+        "text": "A secret is revealed",
         "aliases": [
-          "hanging over a cliff"
+          "big confession"
         ],
         "points": 24
       },
       {
-        "text": "Timer is nearly at zero",
+        "text": "Unexpected visitor",
         "aliases": [
-          "countdown almost ends"
+          "someone returns"
         ],
         "points": 18
       },
       {
-        "text": "A shocking phone call",
+        "text": "Unexplained explosion",
         "aliases": [
-          "unexpected phone call"
+          "building explodes",
+          "sudden explosion"
         ],
         "points": 13
       },
       {
-        "text": "An unexpected person arrives",
+        "text": "Couple about to kiss",
         "aliases": [
-          "surprise arrival"
+          "romantic moment"
         ],
         "points": 9
       },
       {
-        "text": "A secret is about to be revealed",
+        "text": "Someone is arrested",
         "aliases": [
-          "unfinished confession"
+          "taken away"
         ],
         "points": 6
       }
@@ -2796,47 +2811,47 @@
   {
     "id": "culture-098",
     "category": "Pop culture",
-    "prompt": "Name a new direction a movie sequel might take.",
+    "prompt": "Name a sign a movie franchise has run out of ideas.",
     "answers": [
       {
-        "text": "Introduce a new villain",
+        "text": "Unnecessary prequel",
         "aliases": [
-          "new enemy"
+          "origin story"
         ],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Move the hero to a new city",
+        "text": "Bringing dead characters back",
         "aliases": [
-          "new location"
+          "resurrections"
         ],
         "points": 24
       },
       {
-        "text": "Follow the next generation",
+        "text": "Same villain again",
         "aliases": [
-          "hero's children"
+          "recycled villain"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Turn an enemy into an ally",
+        "text": "Going to space",
         "aliases": [
-          "enemy teams up"
+          "space sequel"
         ],
         "points": 12
       },
       {
-        "text": "Solve an unfinished mystery",
+        "text": "Replacing the entire cast",
         "aliases": [
-          "unanswered mystery"
+          "new cast"
         ],
         "points": 8
       },
       {
-        "text": "Bring the hero out of retirement",
+        "text": "Crossover with another franchise",
         "aliases": [
-          "retired hero returns"
+          "random crossover"
         ],
         "points": 6
       }
@@ -2845,145 +2860,145 @@
   {
     "id": "culture-099",
     "category": "Pop culture",
-    "prompt": "Name something filmmakers often change when remaking an old movie.",
+    "prompt": "Name something a remake changes that makes fans furious.",
     "answers": [
       {
-        "text": "Cast",
+        "text": "Lead actor",
         "aliases": [
-          "actors"
+          "cast"
         ],
-        "points": 28
+        "points": 35
       },
       {
-        "text": "Setting",
+        "text": "Ending",
         "aliases": [
-          "location"
+          "final scene"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Special effects",
+        "text": "Favorite character",
         "aliases": [
-          "visual effects"
+          "character personality"
         ],
-        "points": 19
+        "points": 16
       },
       {
         "text": "Music",
         "aliases": [
           "soundtrack"
         ],
-        "points": 14
-      },
-      {
-        "text": "Dialogue",
-        "aliases": [
-          "script lines"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Ending",
-        "aliases": [
-          "finale"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "culture-100",
-    "category": "Pop culture",
-    "prompt": "Name a way a silent movie can tell its story without spoken dialogue.",
-    "answers": [
-      {
-        "text": "Facial expressions",
-        "aliases": [
-          "expressive faces"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Gestures",
-        "aliases": [
-          "hand movements"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Title cards",
-        "aliases": [
-          "intertitles"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Physical comedy",
-        "aliases": [
-          "slapstick"
-        ],
         "points": 11
       },
       {
-        "text": "Props",
+        "text": "Setting",
         "aliases": [
-          "objects"
+          "time period"
         ],
         "points": 8
       },
       {
-        "text": "Lighting",
+        "text": "Iconic line",
         "aliases": [
-          "light and shadow"
+          "famous quote"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "culture-101",
+    "id": "culture-100",
     "category": "Pop culture",
-    "prompt": "Name a reason someone might stop watching a television series.",
+    "prompt": "Name something you try to lip-read when the TV is muted.",
     "answers": [
       {
-        "text": "Lose interest",
+        "text": "An argument",
         "aliases": [
-          "get bored"
+          "fight"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Too scary",
+        "text": "A romantic confession",
         "aliases": [
-          "frightening"
+          "love scene"
+        ],
+        "points": 23
+      },
+      {
+        "text": "A swear word",
+        "aliases": [
+          "curse"
+        ],
+        "points": 19
+      },
+      {
+        "text": "A news announcement",
+        "aliases": [
+          "breaking news"
+        ],
+        "points": 14
+      },
+      {
+        "text": "A name",
+        "aliases": [
+          "who they said"
+        ],
+        "points": 10
+      },
+      {
+        "text": "The answer on a game show",
+        "aliases": [
+          "correct answer"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-101",
+    "category": "Pop culture",
+    "prompt": "Name a reason someone quits a TV series after several seasons.",
+    "answers": [
+      {
+        "text": "Favorite character dies",
+        "aliases": [
+          "main character killed"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Plot gets ridiculous",
+        "aliases": [
+          "bad writing"
         ],
         "points": 24
       },
       {
-        "text": "Confusing plot",
+        "text": "Too repetitive",
         "aliases": [
-          "hard to follow"
+          "same story"
         ],
         "points": 18
       },
       {
-        "text": "Dislike the characters",
+        "text": "Too many episodes",
         "aliases": [
-          "unlikable characters"
+          "drags on"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Too many seasons",
+        "text": "Cast changes",
         "aliases": [
-          "too long"
+          "actor leaves"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "No more episodes available",
+        "text": "Ending was spoiled",
         "aliases": [
-          "caught up"
+          "know what happens"
         ],
         "points": 6
       }
@@ -2992,47 +3007,47 @@
   {
     "id": "culture-102",
     "category": "Pop culture",
-    "prompt": "Name a problem people have when watching a movie on a phone.",
+    "prompt": "Name something that ruins watching a movie on your phone.",
     "answers": [
       {
-        "text": "Small screen",
+        "text": "Tiny screen",
         "aliases": [
-          "tiny screen"
+          "small picture"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Battery dies",
+        "text": "Dead battery",
         "aliases": [
-          "dead battery"
+          "battery runs out"
         ],
         "points": 24
       },
       {
-        "text": "Notifications interrupt",
+        "text": "Notifications",
         "aliases": [
-          "notification popups"
+          "messages interrupt"
         ],
         "points": 18
       },
       {
-        "text": "Slow internet",
+        "text": "Buffering",
         "aliases": [
-          "buffering"
+          "bad internet"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Screen glare",
+        "text": "Sun glare",
         "aliases": [
-          "glare"
+          "cannot see screen"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Phone overheats",
+        "text": "Phone hits your face",
         "aliases": [
-          "hot phone"
+          "drop phone"
         ],
         "points": 6
       }
@@ -3041,47 +3056,47 @@
   {
     "id": "culture-103",
     "category": "Pop culture",
-    "prompt": "Name something frustrating about finding a movie on a streaming service.",
+    "prompt": "Name something you say after scrolling longer than a movie would have lasted.",
     "answers": [
       {
-        "text": "Too many choices",
+        "text": "There is nothing to watch",
         "aliases": [
-          "choice overload"
+          "nothing good"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Missing title",
+        "text": "You choose",
         "aliases": [
-          "movie unavailable"
+          "pick anything"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Long loading time",
+        "text": "Let us watch the usual",
         "aliases": [
-          "slow loading"
+          "watch a favorite"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Repeated ads",
+        "text": "It is too late now",
         "aliases": [
-          "commercials"
+          "time for bed"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "App crashes",
+        "text": "Just one more trailer",
         "aliases": [
-          "crashing app"
+          "keep looking"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Extra subscription required",
+        "text": "We should cancel this service",
         "aliases": [
-          "paywall"
+          "waste of money"
         ],
         "points": 6
       }
@@ -3090,47 +3105,47 @@
   {
     "id": "culture-104",
     "category": "Pop culture",
-    "prompt": "Name somewhere you might accidentally encounter a movie spoiler.",
+    "prompt": "Name someone who is impossible to trust with a TV spoiler.",
     "answers": [
       {
-        "text": "Social media",
+        "text": "Friend who watched ahead",
         "aliases": [
-          "social feed"
+          "binge watcher"
         ],
         "points": 35
       },
       {
-        "text": "A friend",
+        "text": "Excited coworker",
         "aliases": [
-          "friend tells you"
+          "office fan"
         ],
         "points": 25
       },
       {
-        "text": "Trailer",
+        "text": "Your partner",
         "aliases": [
-          "preview"
+          "spouse"
         ],
         "points": 16
       },
       {
-        "text": "Review",
+        "text": "A child",
         "aliases": [
-          "movie review"
+          "kid"
         ],
         "points": 11
       },
       {
-        "text": "Headline",
+        "text": "Online reviewer",
         "aliases": [
-          "article title"
+          "video creator"
         ],
         "points": 8
       },
       {
-        "text": "Video thumbnail",
+        "text": "Someone who read the book",
         "aliases": [
-          "thumbnail"
+          "book reader"
         ],
         "points": 5
       }
@@ -3139,47 +3154,48 @@
   {
     "id": "culture-105",
     "category": "Pop culture",
-    "prompt": "Name something a person might do when they are really enjoying a movie.",
+    "prompt": "Name something that makes you instantly love a movie character.",
     "answers": [
       {
-        "text": "Laugh",
+        "text": "Funny",
         "aliases": [
-          "laughing"
+          "great jokes"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Smile",
+        "text": "Kind to animals",
         "aliases": [
-          "smiling"
+          "saves a pet"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Lean forward",
+        "text": "Stands up to a bully",
         "aliases": [
-          "move closer"
+          "defends a bullied kid",
+          "confronts a bully"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Cheer",
+        "text": "Confident",
         "aliases": [
-          "whoop"
+          "brave"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Quote along",
+        "text": "Relatable flaws",
         "aliases": [
-          "say the lines"
+          "awkward like me"
         ],
-        "points": 9
+        "points": 10
       },
       {
-        "text": "Forget their snacks",
+        "text": "Attractive",
         "aliases": [
-          "stop eating snacks"
+          "good looking"
         ],
         "points": 6
       }
@@ -3188,47 +3204,47 @@
   {
     "id": "culture-106",
     "category": "Pop culture",
-    "prompt": "Name a reaction someone might have during a tense movie scene.",
+    "prompt": "Name something people hide behind during a scary movie.",
     "answers": [
       {
-        "text": "Cover their eyes",
+        "text": "Pillow",
         "aliases": [
-          "hide their eyes"
+          "cushion"
         ],
         "points": 32
       },
       {
-        "text": "Grip the armrest",
+        "text": "Their hands",
         "aliases": [
-          "clutch the chair"
+          "fingers"
         ],
         "points": 24
       },
       {
-        "text": "Gasp",
+        "text": "Blanket",
         "aliases": [
-          "gasping"
+          "covers"
         ],
         "points": 18
       },
       {
-        "text": "Hold their breath",
+        "text": "Their partner",
         "aliases": [
-          "stop breathing"
+          "date"
         ],
         "points": 12
       },
       {
-        "text": "Jump in their seat",
+        "text": "Popcorn bucket",
         "aliases": [
-          "startle"
+          "snack tub"
         ],
         "points": 8
       },
       {
-        "text": "Cling to a friend",
+        "text": "The couch",
         "aliases": [
-          "grab a friend"
+          "sofa"
         ],
         "points": 6
       }
@@ -3237,47 +3253,47 @@
   {
     "id": "culture-107",
     "category": "Pop culture",
-    "prompt": "Name something a host does to prepare for a movie watch party.",
+    "prompt": "Name a reason movie night with friends never actually reaches the movie.",
     "answers": [
       {
-        "text": "Choose a movie",
+        "text": "Cannot agree",
         "aliases": [
-          "pick the film"
+          "argue over choice"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Invite friends",
+        "text": "Too much gossip",
         "aliases": [
-          "send invitations"
+          "keep talking"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Prepare snacks",
+        "text": "Food takes forever",
         "aliases": [
-          "make popcorn"
+          "waiting for delivery"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Arrange seats",
+        "text": "Technical problems",
         "aliases": [
-          "set up chairs"
+          "cannot connect TV"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Test the equipment",
+        "text": "Everyone arrives late",
         "aliases": [
-          "check the screen"
+          "late friends"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Dim the lights",
+        "text": "Someone starts a game",
         "aliases": [
-          "lower the lights"
+          "play instead"
         ],
         "points": 6
       }
@@ -3286,145 +3302,145 @@
   {
     "id": "culture-108",
     "category": "Pop culture",
-    "prompt": "Name something people neglect while binge-watching a television series.",
+    "prompt": "Name something you neglect when you promise yourself just one more episode.",
     "answers": [
       {
         "text": "Sleep",
         "aliases": [
           "bedtime"
         ],
-        "points": 35
+        "points": 34
       },
       {
         "text": "Chores",
         "aliases": [
-          "housework"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Homework",
-        "aliases": [
-          "schoolwork"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Exercise",
-        "aliases": [
-          "working out"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Meals",
-        "aliases": [
-          "eating"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Messages",
-        "aliases": [
-          "texts"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "culture-109",
-    "category": "Pop culture",
-    "prompt": "Name a viewing choice people watching television together might disagree about.",
-    "answers": [
-      {
-        "text": "Volume",
-        "aliases": [
-          "sound level"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Channel",
-        "aliases": [
-          "what channel"
+          "cleaning"
         ],
         "points": 24
       },
       {
-        "text": "Subtitles",
+        "text": "Work",
         "aliases": [
-          "captions"
+          "job"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Pausing",
+        "text": "Homework",
         "aliases": [
-          "pause button"
+          "studying"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Skipping the intro",
+        "text": "Friends",
         "aliases": [
-          "skip intro"
+          "messages"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Playback speed",
+        "text": "Personal hygiene",
         "aliases": [
-          "watching speed"
+          "showering"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "culture-110",
+    "id": "culture-109",
     "category": "Pop culture",
-    "prompt": "Name something another moviegoer might do that annoys you in a theater.",
+    "prompt": "Name something people living together argue about while watching TV.",
     "answers": [
       {
-        "text": "Talk",
+        "text": "What to watch",
         "aliases": [
-          "talking"
+          "show choice"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Use a bright phone",
+        "text": "Volume",
         "aliases": [
-          "phone glow"
+          "too loud"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Kick your seat",
+        "text": "Spoilers",
         "aliases": [
-          "seat kicking"
+          "watching ahead"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Rustle wrappers",
+        "text": "Subtitles",
         "aliases": [
-          "noisy packaging"
+          "captions"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Arrive late",
+        "text": "Pausing",
         "aliases": [
-          "late arrival"
+          "bathroom breaks"
         ],
         "points": 8
       },
       {
-        "text": "Block the view",
+        "text": "Who has the remote",
         "aliases": [
-          "stand in front"
+          "remote control"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-110",
+    "category": "Pop culture",
+    "prompt": "Name something another moviegoer does that makes you consider changing seats.",
+    "answers": [
+      {
+        "text": "Talks",
+        "aliases": [
+          "comments constantly"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Uses a bright phone",
+        "aliases": [
+          "texting"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Kicks your seat",
+        "aliases": [
+          "seat kicking"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Smells bad",
+        "aliases": [
+          "body odor"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Eats loudly",
+        "aliases": [
+          "chews loudly"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Blocks your view",
+        "aliases": [
+          "tall person"
         ],
         "points": 6
       }
@@ -3433,47 +3449,47 @@
   {
     "id": "culture-111",
     "category": "Pop culture",
-    "prompt": "Name something that matters when choosing seats in a movie theater.",
+    "prompt": "Name a reason you choose a cinema seat far from everyone else.",
     "answers": [
       {
-        "text": "Reclining seat",
+        "text": "Avoid talking",
         "aliases": [
-          "recliner"
+          "quiet"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Legroom",
+        "text": "Avoid kicking",
         "aliases": [
-          "room for legs"
+          "seat kicking"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Distance from the screen",
+        "text": "Cuddle with a date",
         "aliases": [
-          "how close to the screen"
+          "privacy"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Near an exit",
+        "text": "Stretch out",
         "aliases": [
-          "close to the exit"
+          "legroom"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Away from crowds",
+        "text": "Avoid germs",
         "aliases": [
-          "empty neighboring seats"
+          "coughing strangers"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Together with friends",
+        "text": "Make a quick exit",
         "aliases": [
-          "sit with friends"
+          "near the door"
         ],
         "points": 6
       }
@@ -3482,96 +3498,96 @@
   {
     "id": "culture-112",
     "category": "Pop culture",
-    "prompt": "Name something you might bring to an outdoor movie screening.",
+    "prompt": "Name something that could ruin a romantic outdoor movie night.",
     "answers": [
       {
-        "text": "Blanket",
+        "text": "Mosquitoes",
         "aliases": [
-          "picnic blanket"
+          "bugs"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Folding chair",
+        "text": "Rain",
         "aliases": [
-          "camp chair"
+          "bad weather"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Bug spray",
+        "text": "Cold",
         "aliases": [
-          "insect repellent"
+          "freezing"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Snacks",
+        "text": "Bad sound",
         "aliases": [
-          "food"
+          "cannot hear"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Jacket",
+        "text": "Wet grass",
         "aliases": [
-          "coat"
+          "mud"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Flashlight",
+        "text": "No bathrooms",
         "aliases": [
-          "torch"
+          "need the toilet"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "culture-113",
     "category": "Pop culture",
-    "prompt": "Name something you might do to get ready for a drive-in movie.",
+    "prompt": "Name something people do at a drive-in besides watch the movie.",
     "answers": [
       {
-        "text": "Clean the windshield",
+        "text": "Make out",
         "aliases": [
-          "wash the windscreen"
+          "kiss"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Tune the radio",
+        "text": "Eat",
         "aliases": [
-          "set the radio station"
+          "snack"
         ],
         "points": 24
       },
       {
-        "text": "Park facing the screen",
+        "text": "Talk",
         "aliases": [
-          "position the car"
+          "chat"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Bring pillows",
+        "text": "Sleep",
         "aliases": [
-          "pack cushions"
+          "nap"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Turn off headlights",
+        "text": "Look at their phone",
         "aliases": [
-          "switch lights off"
+          "text"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Pack a cooler",
+        "text": "Watch people",
         "aliases": [
-          "bring a cool box"
+          "people watching"
         ],
         "points": 6
       }
@@ -3580,96 +3596,96 @@
   {
     "id": "culture-114",
     "category": "Pop culture",
-    "prompt": "Name a specialist who helps an actor get ready to play a role.",
+    "prompt": "Name something an actor could do for a role that you would never agree to.",
     "answers": [
       {
-        "text": "Makeup artist",
+        "text": "Gain a lot of weight",
         "aliases": [
-          "make up artist"
+          "weight gain"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Hairstylist",
+        "text": "Shave their head",
         "aliases": [
-          "hairdresser"
+          "go bald"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Costume designer",
+        "text": "Do dangerous stunts",
         "aliases": [
-          "wardrobe designer"
+          "risk injury"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Personal trainer",
+        "text": "Film a nude scene",
         "aliases": [
-          "fitness trainer"
+          "get naked"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Dialect coach",
+        "text": "Eat something disgusting",
         "aliases": [
-          "accent coach"
+          "gross food"
         ],
         "points": 8
       },
       {
-        "text": "Stunt coordinator",
+        "text": "Spend months away",
         "aliases": [
-          "stunt coach"
+          "leave family"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-115",
     "category": "Pop culture",
-    "prompt": "Name something a stunt performer might do in an action movie.",
+    "prompt": "Name a movie stunt that would have you quitting on day one.",
     "answers": [
       {
-        "text": "Fall from a height",
+        "text": "Jump off a building",
         "aliases": [
-          "high fall"
+          "huge fall"
         ],
         "points": 28
       },
       {
-        "text": "Drive in a car chase",
+        "text": "Be set on fire",
         "aliases": [
-          "stunt driving"
+          "fire stunt"
         ],
         "points": 23
       },
       {
-        "text": "Perform a fight",
+        "text": "Fight on a moving train",
         "aliases": [
-          "fight scene"
+          "train roof"
         ],
         "points": 19
       },
       {
-        "text": "Do a fire stunt",
+        "text": "Crash a car",
         "aliases": [
-          "fire scene"
+          "car wreck"
         ],
         "points": 14
       },
       {
-        "text": "Jump a motorcycle",
+        "text": "Swim with sharks",
         "aliases": [
-          "motorcycle jump"
+          "underwater danger"
         ],
         "points": 10
       },
       {
-        "text": "Film an underwater escape",
+        "text": "Hang from a helicopter",
         "aliases": [
-          "underwater stunt"
+          "helicopter stunt"
         ],
         "points": 6
       }
@@ -3678,96 +3694,97 @@
   {
     "id": "culture-116",
     "category": "Pop culture",
-    "prompt": "Name a piece of equipment a movie camera crew might use.",
+    "prompt": "Name something a badly made movie accidentally shows in the shot.",
     "answers": [
       {
-        "text": "Tripod",
+        "text": "Microphone",
         "aliases": [
-          "camera tripod"
+          "boom mic"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Camera lens",
+        "text": "Camera crew",
         "aliases": [
-          "lens"
+          "crew member"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Dolly",
+        "text": "Plastic bottle",
         "aliases": [
-          "camera dolly"
+          "water bottle",
+          "plastic cup"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Monitor",
+        "text": "Camera reflection",
         "aliases": [
-          "video monitor"
+          "reflection in mirror"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Stabilizer",
+        "text": "Safety wire",
         "aliases": [
-          "camera stabilizer"
+          "stunt wire"
         ],
         "points": 8
       },
       {
-        "text": "Crane",
+        "text": "Actor's real tattoo",
         "aliases": [
-          "camera crane"
+          "uncovered tattoo"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "culture-117",
     "category": "Pop culture",
-    "prompt": "Name an everyday object a sound-effects artist might use to make noises.",
+    "prompt": "Name a reason you would be a terrible movie extra.",
     "answers": [
       {
-        "text": "Coconut shells",
+        "text": "Look at the camera",
         "aliases": [
-          "coconuts"
+          "stare at lens"
         ],
         "points": 30
       },
       {
-        "text": "Celery",
+        "text": "Burst out laughing",
         "aliases": [
-          "celery stalks"
+          "giggle"
         ],
         "points": 24
       },
       {
-        "text": "Gravel",
+        "text": "Talk to the star",
         "aliases": [
-          "small stones"
+          "ask for autograph"
         ],
         "points": 18
       },
       {
-        "text": "Paper",
+        "text": "Miss my cue",
         "aliases": [
-          "sheets of paper"
+          "wrong timing"
         ],
         "points": 13
       },
       {
-        "text": "Metal sheet",
+        "text": "Make exaggerated faces",
         "aliases": [
-          "sheet metal"
+          "overact"
         ],
         "points": 9
       },
       {
-        "text": "Leather gloves",
+        "text": "Fall asleep",
         "aliases": [
-          "gloves"
+          "doze off"
         ],
         "points": 6
       }
@@ -3776,47 +3793,47 @@
   {
     "id": "culture-118",
     "category": "Pop culture",
-    "prompt": "Name a background that filmmakers might add behind actors filmed on a green screen.",
+    "prompt": "Name something that makes a movie romance hard to believe.",
     "answers": [
       {
-        "text": "Outer space",
+        "text": "No chemistry",
         "aliases": [
-          "star field"
+          "actors do not click"
         ],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Castle",
+        "text": "Huge age gap",
         "aliases": [
-          "palace"
+          "different ages"
         ],
         "points": 24
       },
       {
-        "text": "City skyline",
+        "text": "They barely know each other",
         "aliases": [
-          "cityscape"
+          "instant love"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Ocean",
+        "text": "One person is awful",
         "aliases": [
-          "open sea"
+          "toxic partner"
         ],
         "points": 12
       },
       {
-        "text": "Volcano",
+        "text": "Too many coincidences",
         "aliases": [
-          "erupting volcano"
+          "unrealistic meetings"
         ],
         "points": 8
       },
       {
-        "text": "Alien planet",
+        "text": "Perfect speeches",
         "aliases": [
-          "another planet"
+          "unrealistic dialogue"
         ],
         "points": 6
       }
@@ -3825,145 +3842,145 @@
   {
     "id": "culture-119",
     "category": "Pop culture",
-    "prompt": "Name a change movie makeup can make to an actor's face.",
+    "prompt": "Name a movie detail you keep watching instead of paying attention to the story.",
     "answers": [
       {
-        "text": "Older appearance",
+        "text": "Bad wig",
         "aliases": [
-          "aging"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Scars",
-        "aliases": [
-          "scar"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Monster features",
-        "aliases": [
-          "monster face"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Different hairline",
-        "aliases": [
-          "new hairline"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Freckles",
-        "aliases": [
-          "freckle"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Fake beard",
-        "aliases": [
-          "false beard"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "culture-120",
-    "category": "Pop culture",
-    "prompt": "Name a continuity mistake viewers might spot in a movie.",
-    "answers": [
-      {
-        "text": "Changing drink level",
-        "aliases": [
-          "glass refills"
+          "fake hair"
         ],
         "points": 35
       },
       {
-        "text": "Moving prop",
+        "text": "Actor's teeth",
         "aliases": [
-          "object changes position"
+          "perfect teeth"
         ],
         "points": 25
       },
       {
-        "text": "Changing hairstyle",
+        "text": "Amazing outfits",
         "aliases": [
-          "hair changes"
+          "costumes"
         ],
         "points": 16
       },
       {
-        "text": "Disappearing jewelry",
+        "text": "Messy continuity",
         "aliases": [
-          "missing jewelry"
+          "changing props"
         ],
         "points": 11
       },
       {
-        "text": "Shifting weather",
+        "text": "Beautiful scenery",
         "aliases": [
-          "weather changes"
+          "location"
         ],
         "points": 8
       },
       {
-        "text": "Wrong clock time",
+        "text": "An animal in the background",
         "aliases": [
-          "clock jumps"
+          "cute pet"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "culture-121",
+    "id": "culture-120",
     "category": "Pop culture",
-    "prompt": "Name a reason a director might ask to film another take.",
+    "prompt": "Name something that could make an actor laugh during a serious scene.",
     "answers": [
       {
-        "text": "Forgotten line",
+        "text": "Someone forgets a line",
         "aliases": [
-          "forgot the words"
+          "wrong line"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Actor laughs",
+        "text": "A fart",
         "aliases": [
-          "breaks character"
+          "passing gas"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Ridiculous costume",
+        "aliases": [
+          "silly outfit"
+        ],
+        "points": 19
+      },
+      {
+        "text": "A prop breaks",
+        "aliases": [
+          "broken prop"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Funny face",
+        "aliases": [
+          "co star pulls face"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Stomach growls",
+        "aliases": [
+          "hungry stomach"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-121",
+    "category": "Pop culture",
+    "prompt": "Name a movie location you would immediately recognize even if the actors were gone.",
+    "answers": [
+      {
+        "text": "School hallway",
+        "aliases": [
+          "lockers"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Hospital",
+        "aliases": [
+          "medical ward"
         ],
         "points": 24
       },
       {
-        "text": "Noise from the street",
+        "text": "Prison",
         "aliases": [
-          "background noise"
+          "jail"
         ],
         "points": 18
       },
       {
-        "text": "Prop breaks",
+        "text": "Spaceship",
         "aliases": [
-          "broken prop"
+          "space station"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Camera out of focus",
+        "text": "Saloon",
         "aliases": [
-          "blurry shot"
+          "western bar"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Actor stands in the wrong spot",
+        "text": "Courtroom",
         "aliases": [
-          "missed their mark"
+          "judge's bench"
         ],
         "points": 6
       }
@@ -3972,47 +3989,47 @@
   {
     "id": "culture-122",
     "category": "Pop culture",
-    "prompt": "Name a view that could establish the setting at the start of a movie scene.",
+    "prompt": "Name something a movie trailer gives away that you wish it had kept secret.",
     "answers": [
       {
-        "text": "City skyline",
+        "text": "Best joke",
         "aliases": [
-          "skyline"
+          "funniest part"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Front of a house",
+        "text": "Plot twist",
         "aliases": [
-          "house exterior"
+          "big reveal"
         ],
         "points": 24
       },
       {
-        "text": "Desert",
+        "text": "Character death",
         "aliases": [
-          "sand dunes"
+          "someone dies"
         ],
         "points": 18
       },
       {
-        "text": "School building",
+        "text": "Surprise cameo",
         "aliases": [
-          "school exterior"
+          "returning actor"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Forest",
+        "text": "Ending",
         "aliases": [
-          "woods"
+          "final outcome"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Ocean from above",
+        "text": "Monster's appearance",
         "aliases": [
-          "aerial ocean view"
+          "what creature looks like"
         ],
         "points": 6
       }
@@ -4021,47 +4038,47 @@
   {
     "id": "culture-123",
     "category": "Pop culture",
-    "prompt": "Name something commonly included in a movie trailer.",
+    "prompt": "Name a warning on a movie poster that would make you more interested.",
     "answers": [
       {
-        "text": "Action scene",
+        "text": "Banned somewhere",
         "aliases": [
-          "action clip"
+          "controversial"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Famous actor",
+        "text": "Too scary for kids",
         "aliases": [
-          "star"
+          "terrifying"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Movie title",
+        "text": "Based on true events",
         "aliases": [
-          "film title"
+          "true story"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Release date",
+        "text": "Adults only",
         "aliases": [
-          "opening date"
+          "mature content"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Music",
+        "text": "Disturbing scenes",
         "aliases": [
-          "soundtrack"
+          "graphic content"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Review quote",
+        "text": "Do not spoil the ending",
         "aliases": [
-          "critic quote"
+          "secret twist"
         ],
         "points": 6
       }
@@ -4070,47 +4087,47 @@
   {
     "id": "culture-124",
     "category": "Pop culture",
-    "prompt": "Name something you might see printed on a movie poster.",
+    "prompt": "Name a reason you stay through the movie credits.",
     "answers": [
       {
-        "text": "Movie title",
+        "text": "Extra scene",
         "aliases": [
-          "film name"
+          "post credit scene"
         ],
         "points": 35
       },
       {
-        "text": "Lead actor",
+        "text": "Enjoy the music",
         "aliases": [
-          "main star"
+          "song"
         ],
         "points": 25
       },
       {
-        "text": "Release date",
+        "text": "Find an actor's name",
         "aliases": [
-          "opening date"
+          "cast list"
         ],
         "points": 16
       },
       {
-        "text": "Tagline",
+        "text": "Watch bloopers",
         "aliases": [
-          "slogan"
+          "outtakes"
         ],
         "points": 11
       },
       {
-        "text": "Credits",
+        "text": "Wait for the crowd",
         "aliases": [
-          "cast and crew names"
+          "avoid rush"
         ],
         "points": 8
       },
       {
-        "text": "Studio logo",
+        "text": "Too emotional to move",
         "aliases": [
-          "production logo"
+          "need a minute"
         ],
         "points": 5
       }
@@ -4119,47 +4136,47 @@
   {
     "id": "culture-125",
     "category": "Pop culture",
-    "prompt": "Name a reason someone stays in the theater after a movie's story ends.",
+    "prompt": "Name something you imitate after watching too many episodes of one show.",
     "answers": [
       {
-        "text": "Bonus scene",
+        "text": "Accent",
         "aliases": [
-          "post credits scene"
+          "way of speaking"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Enjoy the song",
+        "text": "Catchphrase",
         "aliases": [
-          "listen to the music"
+          "famous line"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Find an actor's name",
+        "text": "Hairstyle",
         "aliases": [
-          "read the cast list"
+          "hair"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Watch bloopers",
+        "text": "Fashion",
         "aliases": [
-          "outtakes"
+          "clothes"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Read the thank-yous",
+        "text": "A character's walk",
         "aliases": [
-          "acknowledgments"
+          "body language"
         ],
-        "points": 9
+        "points": 10
       },
       {
-        "text": "Wait for crowds to leave",
+        "text": "A character's laugh",
         "aliases": [
-          "avoid the rush"
+          "laugh"
         ],
         "points": 6
       }
@@ -4168,47 +4185,47 @@
   {
     "id": "culture-126",
     "category": "Pop culture",
-    "prompt": "Name something an animator changes to show a character's emotion.",
+    "prompt": "Name something movie characters wake up with that you never do.",
     "answers": [
       {
-        "text": "Eyes",
+        "text": "Perfect hair",
         "aliases": [
-          "eye shape"
+          "styled hair"
         ],
         "points": 32
       },
       {
-        "text": "Mouth",
+        "text": "Fresh breath",
         "aliases": [
-          "mouth shape"
+          "good breath"
         ],
         "points": 24
       },
       {
-        "text": "Body posture",
+        "text": "Full makeup",
         "aliases": [
-          "stance"
+          "makeup on"
         ],
         "points": 18
       },
       {
-        "text": "Voice",
+        "text": "Lots of energy",
         "aliases": [
-          "tone of voice"
+          "wide awake"
         ],
         "points": 12
       },
       {
-        "text": "Color",
+        "text": "A romantic breakfast",
         "aliases": [
-          "color changes"
+          "breakfast in bed"
         ],
         "points": 8
       },
       {
-        "text": "Speed of movement",
+        "text": "A gorgeous view",
         "aliases": [
-          "movement speed"
+          "beautiful sunrise"
         ],
         "points": 6
       }
@@ -4217,47 +4234,47 @@
   {
     "id": "culture-127",
     "category": "Pop culture",
-    "prompt": "Name something an actor might do to prepare for a new movie role.",
+    "prompt": "Name something TV neighbors do that would make you move.",
     "answers": [
       {
-        "text": "Research the subject",
+        "text": "Walk in uninvited",
         "aliases": [
-          "study the subject"
+          "never knock"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Learn an accent",
+        "text": "Borrow everything",
         "aliases": [
-          "practice an accent"
+          "take my stuff"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Memorize lines",
+        "text": "Have loud fights",
         "aliases": [
-          "learn the script"
+          "shout all night"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Physical training",
+        "text": "Spy through windows",
         "aliases": [
-          "exercise"
+          "snoop"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Meet real professionals",
+        "text": "Throw constant parties",
         "aliases": [
-          "shadow someone"
+          "noise"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Rehearse with the cast",
+        "text": "Bring trouble home",
         "aliases": [
-          "practice scenes together"
+          "criminal friends"
         ],
         "points": 6
       }
@@ -4266,145 +4283,146 @@
   {
     "id": "culture-128",
     "category": "Pop culture",
-    "prompt": "Name an event a fictional television news report might announce in a movie.",
+    "prompt": "Name a movie job that looks exciting but would leave you exhausted.",
     "answers": [
       {
-        "text": "Alien arrival",
+        "text": "Spy",
         "aliases": [
-          "aliens land"
+          "secret agent"
         ],
-        "points": 35
+        "points": 34
       },
       {
-        "text": "Monster attack",
+        "text": "Detective",
         "aliases": [
-          "monster sighting"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Missing person",
-        "aliases": [
-          "person disappears"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Bank robbery",
-        "aliases": [
-          "bank heist"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Approaching storm",
-        "aliases": [
-          "storm warning"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Hero's victory",
-        "aliases": [
-          "hero saves the day"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "culture-129",
-    "category": "Pop culture",
-    "prompt": "Name a way a superhero might travel across a city.",
-    "answers": [
-      {
-        "text": "Fly",
-        "aliases": [
-          "flying"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Swing from buildings",
-        "aliases": [
-          "web swinging"
+          "police officer"
         ],
         "points": 24
       },
       {
-        "text": "Run super fast",
+        "text": "Superhero",
         "aliases": [
-          "super speed"
+          "crime fighter"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Teleport",
+        "text": "Emergency doctor",
         "aliases": [
-          "teleportation"
+          "surgeon"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Drive a special vehicle",
+        "text": "Journalist",
         "aliases": [
-          "hero car"
+          "reporter"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Leap across rooftops",
+        "text": "Treasure hunter",
         "aliases": [
-          "roof jumping"
+          "adventurer"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "culture-130",
+    "id": "culture-129",
     "category": "Pop culture",
-    "prompt": "Name something a movie character might accidentally leave behind while escaping in a hurry.",
+    "prompt": "Name something an action hero loses in a chase but somehow keeps going.",
     "answers": [
-      {
-        "text": "Phone",
-        "aliases": [
-          "cellphone"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Wallet",
-        "aliases": [
-          "purse"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Keys",
-        "aliases": [
-          "key ring"
-        ],
-        "points": 18
-      },
       {
         "text": "Shoe",
         "aliases": [
-          "one shoe"
+          "footwear"
         ],
-        "points": 12
+        "points": 35
       },
       {
-        "text": "Coat",
+        "text": "Blood",
         "aliases": [
-          "jacket"
+          "gets injured"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Weapon",
+        "aliases": [
+          "gun"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Phone",
+        "aliases": [
+          "cell phone"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Vehicle",
+        "aliases": [
+          "car"
         ],
         "points": 8
       },
       {
-        "text": "Important document",
+        "text": "Clothes",
         "aliases": [
-          "secret papers"
+          "jacket"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-130",
+    "category": "Pop culture",
+    "prompt": "Name a reason you lie about having seen a famous movie.",
+    "answers": [
+      {
+        "text": "Sound knowledgeable",
+        "aliases": [
+          "look cultured",
+          "seem informed"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Fit in",
+        "aliases": [
+          "everyone has seen it"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Avoid being teased",
+        "aliases": [
+          "embarrassed"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Keep the conversation moving",
+        "aliases": [
+          "do not explain"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Impress a date",
+        "aliases": [
+          "look interesting"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Avoid watching it now",
+        "aliases": [
+          "do not want to see it"
         ],
         "points": 6
       }

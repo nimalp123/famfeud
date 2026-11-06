@@ -2,48 +2,38 @@
   {
     "id": "food-311",
     "category": "Food & drink",
-    "prompt": "Name a factor people consider when choosing a restaurant.",
+    "prompt": "Name a food that would start an argument if someone called it overrated.",
     "answers": [
       {
-        "text": "Price",
-        "aliases": [
-          "cost"
-        ],
-        "points": 30
+        "text": "Pizza",
+        "aliases": [],
+        "points": 31
       },
       {
-        "text": "Type of food",
-        "aliases": [
-          "cuisine"
-        ],
+        "text": "Sushi",
+        "aliases": [],
         "points": 24
       },
       {
-        "text": "Location",
-        "aliases": [
-          "distance"
-        ],
+        "text": "Bacon",
+        "aliases": [],
         "points": 18
       },
       {
-        "text": "Reviews",
+        "text": "Avocado",
         "aliases": [
-          "ratings"
+          "avocado toast"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Atmosphere",
-        "aliases": [
-          "ambience"
-        ],
+        "text": "Oysters",
+        "aliases": [],
         "points": 9
       },
       {
-        "text": "Dietary options",
-        "aliases": [
-          "dietary needs"
-        ],
+        "text": "Caviar",
+        "aliases": [],
         "points": 6
       }
     ]
@@ -51,97 +41,89 @@
   {
     "id": "food-312",
     "category": "Food & drink",
-    "prompt": "Name something people mention when making a restaurant reservation.",
+    "prompt": "Name something you do when your restaurant chair makes a rude noise.",
     "answers": [
       {
-        "text": "Number of guests",
+        "text": "Blame the chair",
         "aliases": [
-          "party size"
+          "say it was the chair"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Time",
+        "text": "Laugh",
         "aliases": [
-          "booking time"
+          "giggle"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Date",
+        "text": "Look around",
         "aliases": [
-          "day"
+          "check if anyone heard"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Name",
+        "text": "Apologize",
         "aliases": [
-          "last name"
+          "say sorry"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Phone number",
+        "text": "Stay perfectly still",
         "aliases": [
-          "contact number"
+          "stop moving"
         ],
         "points": 8
       },
       {
-        "text": "Special occasion",
+        "text": "Blame your friend",
         "aliases": [
-          "celebration"
+          "blame someone else"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "food-313",
     "category": "Food & drink",
-    "prompt": "Name a place diners wait when their restaurant table is not ready.",
+    "prompt": "Name a food adults defend by saying you haven't had it cooked properly.",
     "answers": [
       {
-        "text": "Entrance",
+        "text": "Brussels sprouts",
         "aliases": [
-          "front door"
+          "brussel sprouts"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Bar",
-        "aliases": [
-          "bar area"
-        ],
-        "points": 23
+        "text": "Liver",
+        "aliases": [],
+        "points": 24
       },
       {
-        "text": "Outside",
-        "aliases": [
-          "out front"
-        ],
-        "points": 19
+        "text": "Tofu",
+        "aliases": [],
+        "points": 18
       },
       {
-        "text": "Car",
+        "text": "Eggplant",
         "aliases": [
-          "their car"
+          "aubergine"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Waiting area",
-        "aliases": [
-          "waiting room"
-        ],
-        "points": 10
+        "text": "Mushrooms",
+        "aliases": [],
+        "points": 9
       },
       {
-        "text": "Nearby shop",
-        "aliases": [
-          "neighboring store"
-        ],
+        "text": "Fish",
+        "aliases": [],
         "points": 6
       }
     ]
@@ -149,97 +131,79 @@
   {
     "id": "food-314",
     "category": "Food & drink",
-    "prompt": "Name a reason a diner might ask for a different table.",
+    "prompt": "Name a food combination that makes one person hungry and another person horrified.",
     "answers": [
       {
-        "text": "Too noisy",
+        "text": "Pineapple on pizza",
         "aliases": [
-          "noise"
+          "hawaiian pizza"
         ],
-        "points": 35
+        "points": 34
       },
       {
-        "text": "Cold draft",
+        "text": "Fries dipped in a milkshake",
         "aliases": [
-          "drafty"
+          "fries and ice cream"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Sun in their eyes",
-        "aliases": [
-          "too sunny"
-        ],
-        "points": 16
+        "text": "Ketchup on eggs",
+        "aliases": [],
+        "points": 17
       },
       {
-        "text": "Table is too small",
-        "aliases": [
-          "not enough room"
-        ],
+        "text": "Peanut butter and pickles",
+        "aliases": [],
         "points": 11
       },
       {
-        "text": "Near the restroom",
-        "aliases": [
-          "by the toilets"
-        ],
+        "text": "Cheese on apple pie",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Wobbly table",
-        "aliases": [
-          "uneven table"
-        ],
-        "points": 5
+        "text": "Salt on watermelon",
+        "aliases": [],
+        "points": 6
       }
     ]
   },
   {
     "id": "food-315",
     "category": "Food & drink",
-    "prompt": "Name something people do while waiting for their restaurant meal.",
+    "prompt": "Name something people judge you for putting ketchup on.",
     "answers": [
       {
-        "text": "Talk",
-        "aliases": [
-          "chat"
-        ],
-        "points": 30
+        "text": "Steak",
+        "aliases": [],
+        "points": 32
       },
       {
-        "text": "Look at their phone",
-        "aliases": [
-          "use phone"
-        ],
-        "points": 24
+        "text": "Eggs",
+        "aliases": [],
+        "points": 23
       },
       {
-        "text": "Sip a drink",
+        "text": "Pasta",
         "aliases": [
-          "drink"
+          "spaghetti"
         ],
         "points": 18
       },
       {
-        "text": "Read the menu",
-        "aliases": [
-          "look at menu"
-        ],
+        "text": "Pizza",
+        "aliases": [],
         "points": 13
       },
       {
-        "text": "People watch",
-        "aliases": [
-          "watch other diners"
-        ],
-        "points": 9
+        "text": "Tacos",
+        "aliases": [],
+        "points": 8
       },
       {
-        "text": "Eat bread",
-        "aliases": [
-          "nibble bread"
-        ],
+        "text": "Rice",
+        "aliases": [],
         "points": 6
       }
     ]
@@ -247,47 +211,37 @@
   {
     "id": "food-316",
     "category": "Food & drink",
-    "prompt": "Name a question people ask about a dish they have never tried.",
+    "prompt": "Name a food people eat mainly because everyone calls it healthy.",
     "answers": [
       {
-        "text": "What is in it?",
-        "aliases": [
-          "ingredients"
-        ],
-        "points": 32
+        "text": "Kale",
+        "aliases": [],
+        "points": 31
       },
       {
-        "text": "How spicy is it?",
-        "aliases": [
-          "spiciness"
-        ],
+        "text": "Tofu",
+        "aliases": [],
         "points": 24
       },
       {
-        "text": "How big is it?",
-        "aliases": [
-          "portion size"
-        ],
+        "text": "Brown rice",
+        "aliases": [],
         "points": 18
       },
       {
-        "text": "How is it cooked?",
-        "aliases": [
-          "cooking method"
-        ],
+        "text": "Celery",
+        "aliases": [],
         "points": 12
       },
       {
-        "text": "What comes with it?",
-        "aliases": [
-          "side dishes"
-        ],
-        "points": 8
+        "text": "Quinoa",
+        "aliases": [],
+        "points": 9
       },
       {
-        "text": "Is it popular?",
+        "text": "Plain yogurt",
         "aliases": [
-          "do people like it"
+          "natural yogurt"
         ],
         "points": 6
       }
@@ -296,146 +250,118 @@
   {
     "id": "food-317",
     "category": "Food & drink",
-    "prompt": "Name a change people request when ordering a burger.",
+    "prompt": "Name a food that somehow tastes better when someone else makes it.",
     "answers": [
       {
-        "text": "No onions",
+        "text": "Sandwiches",
         "aliases": [
-          "hold the onions"
+          "sandwich"
         ],
-        "points": 28
+        "points": 35
       },
       {
-        "text": "Extra cheese",
-        "aliases": [
-          "more cheese"
-        ],
-        "points": 23
+        "text": "Coffee",
+        "aliases": [],
+        "points": 25
       },
       {
-        "text": "No pickles",
-        "aliases": [
-          "hold the pickles"
-        ],
-        "points": 19
+        "text": "Salad",
+        "aliases": [],
+        "points": 16
       },
       {
-        "text": "Sauce on the side",
-        "aliases": [
-          "separate sauce"
-        ],
-        "points": 14
+        "text": "Eggs",
+        "aliases": [],
+        "points": 11
       },
       {
-        "text": "Well done",
-        "aliases": [
-          "cooked well done"
-        ],
-        "points": 10
+        "text": "Pancakes",
+        "aliases": [],
+        "points": 8
       },
       {
-        "text": "Lettuce instead of a bun",
-        "aliases": [
-          "lettuce wrap"
-        ],
-        "points": 6
+        "text": "Tea",
+        "aliases": [],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-318",
     "category": "Food & drink",
-    "prompt": "Name something a restaurant provides to help diners with young children.",
+    "prompt": "Name a food where store-bought can beat homemade.",
     "answers": [
       {
-        "text": "High chair",
-        "aliases": [
-          "highchair"
-        ],
-        "points": 35
+        "text": "Ice cream",
+        "aliases": [],
+        "points": 30
       },
       {
-        "text": "Children's menu",
+        "text": "Potato chips",
         "aliases": [
-          "kids menu"
+          "crisps"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Crayons",
+        "text": "Candy",
         "aliases": [
-          "coloring crayons"
+          "sweets"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Booster seat",
-        "aliases": [
-          "booster"
-        ],
-        "points": 11
+        "text": "Ketchup",
+        "aliases": [],
+        "points": 13
       },
       {
-        "text": "Changing table",
+        "text": "Breakfast cereal",
         "aliases": [
-          "baby changing station"
+          "cereal"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Child-sized cutlery",
-        "aliases": [
-          "kids utensils"
-        ],
-        "points": 5
+        "text": "Puff pastry",
+        "aliases": [],
+        "points": 6
       }
     ]
   },
   {
     "id": "food-319",
     "category": "Food & drink",
-    "prompt": "Name a sign that a restaurant is popular.",
+    "prompt": "Name a food people argue should never go in the fridge.",
     "answers": [
       {
-        "text": "Long line",
-        "aliases": [
-          "queue"
-        ],
-        "points": 30
+        "text": "Bread",
+        "aliases": [],
+        "points": 34
       },
       {
-        "text": "Full tables",
-        "aliases": [
-          "packed dining room"
-        ],
+        "text": "Tomatoes",
+        "aliases": [],
         "points": 24
       },
       {
-        "text": "Hard to get a reservation",
-        "aliases": [
-          "fully booked"
-        ],
-        "points": 18
+        "text": "Bananas",
+        "aliases": [],
+        "points": 17
       },
       {
-        "text": "Lots of good reviews",
-        "aliases": [
-          "high ratings"
-        ],
-        "points": 13
+        "text": "Potatoes",
+        "aliases": [],
+        "points": 11
       },
       {
-        "text": "Dishes sell out",
-        "aliases": [
-          "sold out specials"
-        ],
-        "points": 9
+        "text": "Onions",
+        "aliases": [],
+        "points": 8
       },
       {
-        "text": "Featured in the news",
-        "aliases": [
-          "press coverage"
-        ],
+        "text": "Honey",
+        "aliases": [],
         "points": 6
       }
     ]
@@ -443,48 +369,39 @@
   {
     "id": "food-320",
     "category": "Food & drink",
-    "prompt": "Name a job someone does at a restaurant.",
+    "prompt": "Name a food people get serious about eating the right way.",
     "answers": [
       {
-        "text": "Server",
-        "aliases": [
-          "waiter",
-          "waitress"
-        ],
+        "text": "Pizza",
+        "aliases": [],
         "points": 32
       },
       {
-        "text": "Chef",
-        "aliases": [
-          "cook"
-        ],
-        "points": 24
+        "text": "Steak",
+        "aliases": [],
+        "points": 23
       },
       {
-        "text": "Host",
-        "aliases": [
-          "hostess"
-        ],
+        "text": "Sushi",
+        "aliases": [],
         "points": 18
       },
       {
-        "text": "Dishwasher",
-        "aliases": [
-          "dish washer"
-        ],
-        "points": 12
+        "text": "Tacos",
+        "aliases": [],
+        "points": 13
       },
       {
-        "text": "Bartender",
+        "text": "Spaghetti",
         "aliases": [
-          "bar staff"
+          "pasta"
         ],
         "points": 8
       },
       {
-        "text": "Manager",
+        "text": "Corn on the cob",
         "aliases": [
-          "restaurant manager"
+          "corn"
         ],
         "points": 6
       }
@@ -493,96 +410,97 @@
   {
     "id": "food-321",
     "category": "Food & drink",
-    "prompt": "Name a sound heard in a busy restaurant dining room.",
+    "prompt": "Name something about a sandwich that makes you take it apart before eating.",
     "answers": [
       {
-        "text": "People talking",
+        "text": "Soggy bread",
         "aliases": [
-          "conversation"
+          "wet bread"
         ],
-        "points": 28
+        "points": 35
       },
       {
-        "text": "Dishes clinking",
+        "text": "Too much sauce",
         "aliases": [
-          "clinking plates"
+          "too much mayo",
+          "excess dressing"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Music",
+        "text": "Uneven filling",
         "aliases": [
-          "background music"
+          "filling all on one side",
+          "badly spread filling"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Laughter",
+        "text": "Mystery meat",
         "aliases": [
-          "laughing"
+          "unknown meat",
+          "suspicious meat"
         ],
-        "points": 14
+        "points": 11
       },
       {
-        "text": "Orders being called",
+        "text": "It is too tall",
         "aliases": [
-          "calling orders"
+          "too many layers",
+          "too big to bite"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Chairs scraping",
+        "text": "Burnt bread",
         "aliases": [
-          "scraping chairs"
+          "burned toast",
+          "burned bread"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "food-322",
     "category": "Food & drink",
-    "prompt": "Name a reason service might slow down at a restaurant.",
+    "prompt": "Name something a picky eater does before trusting a homemade smoothie.",
     "answers": [
       {
-        "text": "Not enough staff",
+        "text": "Asks what's in it",
         "aliases": [
-          "short staffed"
+          "ask ingredients"
         ],
         "points": 35
       },
       {
-        "text": "A large party",
+        "text": "Smells it",
         "aliases": [
-          "big group"
+          "sniff it"
         ],
         "points": 25
       },
       {
-        "text": "Kitchen is backed up",
+        "text": "Looks at the color",
         "aliases": [
-          "kitchen backlog"
+          "checks color"
         ],
         "points": 16
       },
       {
-        "text": "Power outage",
-        "aliases": [
-          "no electricity"
-        ],
+        "text": "Watches someone else taste it",
+        "aliases": [],
         "points": 11
       },
       {
-        "text": "Staff are being trained",
-        "aliases": [
-          "new employees"
-        ],
+        "text": "Takes a tiny sip",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Too many delivery orders",
+        "text": "Looks for bits",
         "aliases": [
-          "delivery rush"
+          "checks for chunks"
         ],
         "points": 5
       }
@@ -591,47 +509,39 @@
   {
     "id": "food-323",
     "category": "Food & drink",
-    "prompt": "Name something people check for errors on a restaurant bill.",
+    "prompt": "Name a reason an adult refuses to try a new food.",
     "answers": [
       {
-        "text": "Items they did not order",
-        "aliases": [
-          "wrong items"
-        ],
+        "text": "Texture",
+        "aliases": [],
         "points": 30
       },
       {
-        "text": "Duplicate charges",
-        "aliases": [
-          "charged twice"
-        ],
+        "text": "Smell",
+        "aliases": [],
         "points": 24
       },
       {
-        "text": "Menu prices",
+        "text": "Appearance",
         "aliases": [
-          "incorrect prices"
+          "how it looks"
         ],
         "points": 18
       },
       {
-        "text": "Missing discount",
-        "aliases": [
-          "coupon not applied"
-        ],
+        "text": "Bad childhood experience",
+        "aliases": [],
         "points": 13
       },
       {
-        "text": "Service charge",
-        "aliases": [
-          "added gratuity"
-        ],
+        "text": "Worry about getting sick",
+        "aliases": [],
         "points": 9
       },
       {
-        "text": "Tax",
+        "text": "Doesn't want to waste money",
         "aliases": [
-          "sales tax"
+          "price"
         ],
         "points": 6
       }
@@ -640,48 +550,45 @@
   {
     "id": "food-324",
     "category": "Food & drink",
-    "prompt": "Name a way diners pay at a restaurant.",
+    "prompt": "Name a food you need a warning about before taking a big bite.",
     "answers": [
       {
-        "text": "Credit card",
+        "text": "Hot peppers",
         "aliases": [
-          "credit"
+          "chili pepper"
         ],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Cash",
+        "text": "Fish with bones",
         "aliases": [
-          "notes and coins"
+          "bony fish"
         ],
         "points": 24
       },
       {
-        "text": "Debit card",
+        "text": "Very hot soup",
         "aliases": [
-          "debit"
+          "hot soup"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Phone wallet",
-        "aliases": [
-          "mobile wallet",
-          "tap phone"
-        ],
-        "points": 12
+        "text": "Hard candy",
+        "aliases": [],
+        "points": 11
       },
       {
-        "text": "Gift card",
+        "text": "Very sour candy",
         "aliases": [
-          "gift certificate"
+          "sour sweets"
         ],
         "points": 8
       },
       {
-        "text": "Restaurant app",
+        "text": "Filled pastry",
         "aliases": [
-          "payment app"
+          "hot filling"
         ],
         "points": 6
       }
@@ -690,48 +597,45 @@
   {
     "id": "food-325",
     "category": "Food & drink",
-    "prompt": "Name something a diner might leave at a restaurant by accident.",
+    "prompt": "Name something you might enjoy until someone tells you what it's made of.",
     "answers": [
       {
-        "text": "Phone",
+        "text": "Hot dogs",
         "aliases": [
-          "cell phone"
+          "frankfurters"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Bag",
+        "text": "Gelatin",
         "aliases": [
-          "handbag",
-          "purse"
+          "jello"
         ],
         "points": 23
       },
       {
-        "text": "Coat",
+        "text": "Liver pate",
         "aliases": [
-          "jacket"
+          "pate"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Keys",
+        "text": "Black pudding",
         "aliases": [
-          "car keys"
+          "blood sausage"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Glasses",
-        "aliases": [
-          "sunglasses"
-        ],
-        "points": 10
+        "text": "Haggis",
+        "aliases": [],
+        "points": 8
       },
       {
-        "text": "Umbrella",
+        "text": "Imitation crab",
         "aliases": [
-          "brolly"
+          "crab sticks"
         ],
         "points": 6
       }
@@ -740,146 +644,122 @@
   {
     "id": "food-326",
     "category": "Food & drink",
-    "prompt": "Name an occasion for booking a private dining room.",
+    "prompt": "Name a food that can look ugly and still taste great.",
     "answers": [
       {
-        "text": "Birthday",
-        "aliases": [
-          "birthday party"
-        ],
-        "points": 35
+        "text": "Chili",
+        "aliases": [],
+        "points": 31
       },
       {
-        "text": "Business meeting",
-        "aliases": [
-          "work dinner"
-        ],
-        "points": 25
+        "text": "Curry",
+        "aliases": [],
+        "points": 24
       },
       {
-        "text": "Wedding reception",
-        "aliases": [
-          "wedding dinner"
-        ],
-        "points": 16
+        "text": "Refried beans",
+        "aliases": [],
+        "points": 18
       },
       {
-        "text": "Anniversary",
+        "text": "Oatmeal",
         "aliases": [
-          "anniversary dinner"
+          "porridge"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Family reunion",
-        "aliases": [
-          "reunion"
-        ],
-        "points": 8
+        "text": "Pulled pork",
+        "aliases": [],
+        "points": 9
       },
       {
-        "text": "Graduation",
-        "aliases": [
-          "graduation party"
-        ],
-        "points": 5
+        "text": "Guacamole",
+        "aliases": [],
+        "points": 6
       }
     ]
   },
   {
     "id": "food-327",
     "category": "Food & drink",
-    "prompt": "Name something a server does that might earn a generous tip.",
+    "prompt": "Name a food people often learn to like after leaving home.",
     "answers": [
       {
-        "text": "Acts friendly",
-        "aliases": [
-          "friendly service"
-        ],
-        "points": 30
+        "text": "Sushi",
+        "aliases": [],
+        "points": 35
       },
       {
-        "text": "Brings orders promptly",
-        "aliases": [
-          "quick service"
-        ],
-        "points": 24
+        "text": "Coffee",
+        "aliases": [],
+        "points": 25
       },
       {
-        "text": "Gets the order right",
-        "aliases": [
-          "accurate order"
-        ],
-        "points": 18
+        "text": "Olives",
+        "aliases": [],
+        "points": 16
       },
       {
-        "text": "Handles special requests",
-        "aliases": [
-          "accommodates requests"
-        ],
-        "points": 13
+        "text": "Blue cheese",
+        "aliases": [],
+        "points": 11
       },
       {
-        "text": "Gives helpful recommendations",
+        "text": "Spicy food",
         "aliases": [
-          "good recommendations"
+          "hot food"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Quickly cleans up a spill",
-        "aliases": [
-          "helps with a spill"
-        ],
-        "points": 6
+        "text": "Seafood",
+        "aliases": [],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-328",
     "category": "Food & drink",
-    "prompt": "Name something that makes a restaurant menu hard to read.",
+    "prompt": "Name a childhood favorite that tastes disappointing when you try it as an adult.",
     "answers": [
       {
-        "text": "Tiny print",
+        "text": "Canned pasta",
         "aliases": [
-          "small text"
+          "spaghetti hoops"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Dim lighting",
+        "text": "Sugary cereal",
         "aliases": [
-          "too dark"
+          "sweet cereal"
         ],
         "points": 24
       },
       {
-        "text": "Fancy font",
+        "text": "Instant noodles",
         "aliases": [
-          "unreadable font"
+          "ramen"
         ],
         "points": 18
       },
       {
-        "text": "Too much clutter",
+        "text": "Packaged lunch kit",
         "aliases": [
-          "crowded layout"
+          "lunchables"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Unfamiliar words",
-        "aliases": [
-          "foreign words"
-        ],
-        "points": 8
+        "text": "Frozen pizza",
+        "aliases": [],
+        "points": 9
       },
       {
-        "text": "Food stains",
-        "aliases": [
-          "grease marks"
-        ],
+        "text": "Fruit punch",
+        "aliases": [],
         "points": 6
       }
     ]
@@ -887,47 +767,43 @@
   {
     "id": "food-329",
     "category": "Food & drink",
-    "prompt": "Name a way a restaurant tells customers about its specials.",
+    "prompt": "Name a food you hated as a kid and still won't forgive.",
     "answers": [
       {
-        "text": "Sign outside",
-        "aliases": [
-          "chalkboard"
-        ],
-        "points": 28
+        "text": "Liver",
+        "aliases": [],
+        "points": 34
       },
       {
-        "text": "Menu insert",
+        "text": "Brussels sprouts",
         "aliases": [
-          "specials menu"
+          "brussel sprouts"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Social media",
-        "aliases": [
-          "social post"
-        ],
-        "points": 19
+        "text": "Peas",
+        "aliases": [],
+        "points": 17
       },
       {
-        "text": "Server explains them",
+        "text": "Beets",
         "aliases": [
-          "waiter tells you"
+          "beetroot"
         ],
-        "points": 14
+        "points": 11
       },
       {
-        "text": "Website",
+        "text": "Cooked spinach",
         "aliases": [
-          "online menu"
+          "spinach"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Email",
+        "text": "Oatmeal",
         "aliases": [
-          "newsletter"
+          "porridge"
         ],
         "points": 6
       }
@@ -936,96 +812,87 @@
   {
     "id": "food-330",
     "category": "Food & drink",
-    "prompt": "Name a reason someone cancels a restaurant reservation.",
+    "prompt": "Name a food that made school lunch the best lunch of the week.",
     "answers": [
       {
-        "text": "Illness",
-        "aliases": [
-          "feeling sick"
-        ],
-        "points": 35
+        "text": "Pizza",
+        "aliases": [],
+        "points": 32
       },
       {
-        "text": "Plans change",
+        "text": "Chicken nuggets",
         "aliases": [
-          "change of plans"
+          "nuggets"
         ],
-        "points": 25
+        "points": 23
       },
       {
-        "text": "Bad weather",
-        "aliases": [
-          "storm"
-        ],
-        "points": 16
+        "text": "Tacos",
+        "aliases": [],
+        "points": 18
       },
       {
-        "text": "Work runs late",
+        "text": "Burgers",
         "aliases": [
-          "working late"
+          "hamburgers"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Car trouble",
-        "aliases": [
-          "car breaks down"
-        ],
+        "text": "Ice cream",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Babysitter cancels",
+        "text": "French fries",
         "aliases": [
-          "no childcare"
+          "fries",
+          "chips"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "food-331",
     "category": "Food & drink",
-    "prompt": "Name a reason someone chooses takeout instead of eating at the restaurant.",
+    "prompt": "Name something kids trade out of their lunchboxes.",
     "answers": [
       {
-        "text": "Busy schedule",
+        "text": "Chips",
         "aliases": [
-          "no time"
+          "crisps"
         ],
-        "points": 30
+        "points": 31
       },
       {
-        "text": "Comfort of home",
+        "text": "Cookies",
         "aliases": [
-          "stay home"
+          "biscuits"
         ],
         "points": 24
       },
       {
-        "text": "No tables available",
-        "aliases": [
-          "restaurant is full"
-        ],
+        "text": "Fruit",
+        "aliases": [],
         "points": 18
       },
       {
-        "text": "Young children",
+        "text": "Juice box",
         "aliases": [
-          "kids at home"
+          "juice"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Bad weather",
-        "aliases": [
-          "rain"
-        ],
+        "text": "Sandwich",
+        "aliases": [],
         "points": 9
       },
       {
-        "text": "Taking lunch to work",
+        "text": "Candy",
         "aliases": [
-          "eat at work"
+          "sweets"
         ],
         "points": 6
       }
@@ -1034,2131 +901,80 @@
   {
     "id": "food-332",
     "category": "Food & drink",
-    "prompt": "Name something people check is included before leaving with their takeout.",
+    "prompt": "Name a childhood meal you'd still choose over a fancy dinner.",
     "answers": [
       {
-        "text": "Main dishes",
+        "text": "Macaroni and cheese",
         "aliases": [
-          "entrees"
+          "mac and cheese"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Side dishes",
-        "aliases": [
-          "sides"
-        ],
-        "points": 24
+        "text": "Grilled cheese",
+        "aliases": [],
+        "points": 25
       },
       {
-        "text": "Sauces",
+        "text": "Chicken nuggets",
         "aliases": [
-          "dips"
+          "nuggets"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Drinks",
+        "text": "Peanut butter and jelly sandwich",
         "aliases": [
-          "beverages"
+          "pb and j",
+          "pbj"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Utensils",
-        "aliases": [
-          "cutlery"
-        ],
+        "text": "Pizza",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Napkins",
-        "aliases": [
-          "serviettes"
-        ],
-        "points": 6
+        "text": "Hot dogs",
+        "aliases": [],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-333",
     "category": "Food & drink",
-    "prompt": "Name a reason someone leaves special instructions for a food delivery driver.",
+    "prompt": "Name a food that feels comforting because a parent used to make it.",
     "answers": [
       {
-        "text": "Hard-to-find address",
+        "text": "Soup",
         "aliases": [
-          "hard to find house"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Gate code",
-        "aliases": [
-          "locked gate"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Dog in the yard",
-        "aliases": [
-          "dog outside"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Sleeping baby",
-        "aliases": [
-          "baby asleep"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Broken doorbell",
-        "aliases": [
-          "doorbell does not work"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Use a different entrance",
-        "aliases": [
-          "back door"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-334",
-    "category": "Food & drink",
-    "prompt": "Name a place people look for a restaurant menu before arriving.",
-    "answers": [
-      {
-        "text": "Restaurant website",
-        "aliases": [
-          "official website"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Delivery app",
-        "aliases": [
-          "takeout app"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Social media page",
-        "aliases": [
-          "social media"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Restaurant window",
-        "aliases": [
-          "window display"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Review website",
-        "aliases": [
-          "review site"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Photo from a friend",
-        "aliases": [
-          "friend sends a photo"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-335",
-    "category": "Food & drink",
-    "prompt": "Name something diners appreciate at an outdoor restaurant table.",
-    "answers": [
-      {
-        "text": "Shade",
-        "aliases": [
-          "umbrella"
+          "chicken soup"
         ],
         "points": 30
       },
       {
-        "text": "Good view",
+        "text": "Mashed potatoes",
         "aliases": [
-          "scenery"
+          "mash"
         ],
         "points": 24
       },
       {
-        "text": "Gentle breeze",
-        "aliases": [
-          "fresh air"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Patio heater",
-        "aliases": [
-          "outdoor heater"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Quiet surroundings",
-        "aliases": [
-          "peace and quiet"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Room to spread out",
-        "aliases": [
-          "extra space"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-336",
-    "category": "Food & drink",
-    "prompt": "Name a perk a restaurant might give its regular customers.",
-    "answers": [
-      {
-        "text": "Discount",
-        "aliases": [
-          "money off"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Free drink",
-        "aliases": [
-          "complimentary drink"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Priority reservations",
-        "aliases": [
-          "first choice of tables"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Free dessert",
-        "aliases": [
-          "complimentary dessert"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Exclusive menu items",
-        "aliases": [
-          "secret menu"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Personal greeting",
-        "aliases": [
-          "remembering their name"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-337",
-    "category": "Food & drink",
-    "prompt": "Name an unexpected extra charge people might find on a restaurant bill.",
-    "answers": [
-      {
-        "text": "Service charge",
-        "aliases": [
-          "service fee"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Tax",
-        "aliases": [
-          "sales tax"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Bottled water",
-        "aliases": [
-          "water charge"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Bread basket",
-        "aliases": [
-          "bread charge"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Substitution fee",
-        "aliases": [
-          "swap charge"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Card payment fee",
-        "aliases": [
-          "credit card surcharge"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-338",
-    "category": "Food & drink",
-    "prompt": "Name a complaint people might have about a restaurant restroom.",
-    "answers": [
-      {
-        "text": "Dirty surfaces",
-        "aliases": [
-          "dirty"
-        ],
-        "points": 35
-      },
-      {
-        "text": "No soap",
-        "aliases": [
-          "empty soap dispenser"
-        ],
-        "points": 25
-      },
-      {
-        "text": "No toilet paper",
-        "aliases": [
-          "empty paper roll"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Long line",
-        "aliases": [
-          "queue"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Bad smell",
-        "aliases": [
-          "odor"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Broken door lock",
-        "aliases": [
-          "no working lock"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-339",
-    "category": "Food & drink",
-    "prompt": "Name something a restaurant might do for a diner's birthday.",
-    "answers": [
-      {
-        "text": "Put a candle in dessert",
-        "aliases": [
-          "birthday candle"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Sing a birthday song",
-        "aliases": [
-          "sing happy birthday"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Give a free dessert",
-        "aliases": [
-          "complimentary dessert"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Give a card",
-        "aliases": [
-          "birthday card"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Decorate the table",
-        "aliases": [
-          "table decorations"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Take a group photo",
-        "aliases": [
-          "birthday photo"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-340",
-    "category": "Food & drink",
-    "prompt": "Name a rule an all-you-can-eat buffet might have.",
-    "answers": [
-      {
-        "text": "No sharing",
-        "aliases": [
-          "do not share"
-        ],
-        "points": 32
-      },
-      {
-        "text": "No taking food home",
-        "aliases": [
-          "no takeout"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Time limit",
-        "aliases": [
-          "limited time"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Pay before eating",
-        "aliases": [
-          "pay first"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Drinks cost extra",
-        "aliases": [
-          "separate drink charge"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Charge for wasted food",
-        "aliases": [
-          "waste fee"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-341",
-    "category": "Food & drink",
-    "prompt": "Name a reason people arrange to meet at a cafe.",
-    "answers": [
-      {
-        "text": "Catch up with a friend",
-        "aliases": [
-          "chat with a friend"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Go on a date",
-        "aliases": [
-          "coffee date"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Business meeting",
-        "aliases": [
-          "work meeting"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Study together",
-        "aliases": [
-          "study group"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Job interview",
-        "aliases": [
-          "interview"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Book club",
-        "aliases": [
-          "discuss a book"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-342",
-    "category": "Food & drink",
-    "prompt": "Name a detail people specify when customizing a coffee order.",
-    "answers": [
-      {
-        "text": "Cup size",
-        "aliases": [
-          "size"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Type of milk",
-        "aliases": [
-          "milk choice"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Temperature",
-        "aliases": [
-          "extra hot"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Sweetness",
-        "aliases": [
-          "amount of sugar"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Extra espresso shot",
-        "aliases": [
-          "extra shot"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Decaf",
-        "aliases": [
-          "decaffeinated"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-343",
-    "category": "Food & drink",
-    "prompt": "Name something that can go wrong with a coffee ordered to go.",
-    "answers": [
-      {
-        "text": "Leaky lid",
-        "aliases": [
-          "lid leaks"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Wrong drink",
-        "aliases": [
-          "incorrect order"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Too hot",
-        "aliases": [
-          "burning hot"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Wrong size",
-        "aliases": [
-          "incorrect size"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Missing cup sleeve",
-        "aliases": [
-          "no sleeve"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Missing sugar",
-        "aliases": [
-          "no sugar"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-344",
-    "category": "Food & drink",
-    "prompt": "Name a snack displayed at a cafe counter.",
-    "answers": [
-      {
-        "text": "Muffin",
-        "aliases": [
-          "muffins"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Croissant",
-        "aliases": [
-          "croissants"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Cookie",
-        "aliases": [
-          "biscuit"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Brownie",
-        "aliases": [
-          "brownies"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Scone",
-        "aliases": [
-          "scones"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Cinnamon roll",
-        "aliases": [
-          "cinnamon bun"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-345",
-    "category": "Food & drink",
-    "prompt": "Name an amenity that makes a cafe a good place to work.",
-    "answers": [
-      {
-        "text": "Wi-Fi",
-        "aliases": [
-          "internet"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Power outlets",
-        "aliases": [
-          "charging sockets"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Quiet space",
-        "aliases": [
-          "low noise"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Comfortable seats",
-        "aliases": [
-          "comfy chairs"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Large tables",
-        "aliases": [
-          "roomy tables"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Long opening hours",
-        "aliases": [
-          "open late"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-346",
-    "category": "Food & drink",
-    "prompt": "Name a reason cafe staff might ask a customer to move tables.",
-    "answers": [
-      {
-        "text": "Table is reserved",
-        "aliases": [
-          "reservation"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Section is closing",
-        "aliases": [
-          "closing an area"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Need to clean",
-        "aliases": [
-          "cleaning"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Joining tables together",
-        "aliases": [
-          "combining tables"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Blocking an exit",
-        "aliases": [
-          "blocked doorway"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Larger group needs the space",
-        "aliases": [
-          "big party"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-347",
-    "category": "Food & drink",
-    "prompt": "Name something people do before taking a big sip of a very hot drink.",
-    "answers": [
-      {
-        "text": "Blow on it",
-        "aliases": [
-          "blow"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Wait",
-        "aliases": [
-          "let it cool"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Stir it",
-        "aliases": [
-          "stir"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Add cold milk",
-        "aliases": [
-          "cool milk"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Take off the lid",
-        "aliases": [
-          "remove lid"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Try a tiny sip",
-        "aliases": [
-          "test sip"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-348",
-    "category": "Food & drink",
-    "prompt": "Name a coffee drink people order at a cafe.",
-    "answers": [
-      {
-        "text": "Latte",
-        "aliases": [
-          "caffe latte"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Cappuccino",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Americano",
+        "text": "Pancakes",
         "aliases": [],
         "points": 18
       },
       {
-        "text": "Espresso",
-        "aliases": [
-          "espresso shot"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Mocha",
-        "aliases": [
-          "caffe mocha"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Flat white",
+        "text": "Meatloaf",
         "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-349",
-    "category": "Food & drink",
-    "prompt": "Name something people buy from a coffee shop besides a drink.",
-    "answers": [
-      {
-        "text": "Pastry",
-        "aliases": [
-          "baked pastry"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Coffee beans",
-        "aliases": [
-          "bag of beans"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Mug",
-        "aliases": [
-          "coffee mug"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Sandwich",
-        "aliases": [
-          "sandwiches"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Gift card",
-        "aliases": [
-          "gift certificate"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Reusable straw",
-        "aliases": [
-          "metal straw"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-350",
-    "category": "Food & drink",
-    "prompt": "Name information printed on a takeaway drink order label.",
-    "answers": [
-      {
-        "text": "Customer name",
-        "aliases": [
-          "name"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Drink type",
-        "aliases": [
-          "beverage name"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Size",
-        "aliases": [
-          "cup size"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Milk choice",
-        "aliases": [
-          "type of milk"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Order number",
-        "aliases": [
-          "ticket number"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Time",
-        "aliases": [
-          "order time"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-351",
-    "category": "Food & drink",
-    "prompt": "Name a design a barista might create in latte art.",
-    "answers": [
-      {
-        "text": "Heart",
-        "aliases": [
-          "love heart"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Leaf",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Flower",
-        "aliases": [
-          "blossom"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Face",
-        "aliases": [
-          "smiley face"
-        ],
         "points": 13
-      },
-      {
-        "text": "Animal",
-        "aliases": [
-          "cat"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Name",
-        "aliases": [
-          "initials"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-352",
-    "category": "Food & drink",
-    "prompt": "Name a way a cafe lets customers know their order is ready.",
-    "answers": [
-      {
-        "text": "Calls their name",
-        "aliases": [
-          "name called"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Calls an order number",
-        "aliases": [
-          "number called"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Shows it on a screen",
-        "aliases": [
-          "order display"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Buzzer vibrates",
-        "aliases": [
-          "pager"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Phone notification",
-        "aliases": [
-          "text message"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Brings it to the table",
-        "aliases": [
-          "table service"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-353",
-    "category": "Food & drink",
-    "prompt": "Name something a cafe might run out of during the morning rush.",
-    "answers": [
-      {
-        "text": "Cups",
-        "aliases": [
-          "paper cups"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Milk",
-        "aliases": [
-          "dairy milk"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Ice",
-        "aliases": [
-          "ice cubes"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Coffee beans",
-        "aliases": [
-          "beans"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Pastries",
-        "aliases": [
-          "baked goods"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Lids",
-        "aliases": [
-          "cup lids"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-354",
-    "category": "Food & drink",
-    "prompt": "Name a task a barista does before the cafe closes.",
-    "answers": [
-      {
-        "text": "Clean the coffee machine",
-        "aliases": [
-          "clean espresso machine"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Wash dishes",
-        "aliases": [
-          "do dishes"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Count the till",
-        "aliases": [
-          "count cash"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Restock supplies",
-        "aliases": [
-          "refill supplies"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Mop the floor",
-        "aliases": [
-          "clean floor"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Take out trash",
-        "aliases": [
-          "empty bins"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-355",
-    "category": "Food & drink",
-    "prompt": "Name a snack people share from a big bowl.",
-    "answers": [
-      {
-        "text": "Popcorn",
-        "aliases": [
-          "popped corn"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Potato chips",
-        "aliases": [
-          "crisps"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Pretzels",
-        "aliases": [
-          "mini pretzels"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Trail mix",
-        "aliases": [
-          "snack mix"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Candy",
-        "aliases": [
-          "sweets"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Nuts",
-        "aliases": [
-          "mixed nuts"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-356",
-    "category": "Food & drink",
-    "prompt": "Name a reason people choose individually wrapped snacks.",
-    "answers": [
-      {
-        "text": "Stay fresh",
-        "aliases": [
-          "freshness"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Control portions",
-        "aliases": [
-          "portion control"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Easy to carry",
-        "aliases": [
-          "portable"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Keep clean",
-        "aliases": [
-          "hygiene"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Easy to hand out",
-        "aliases": [
-          "share with a group"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Avoid spills",
-        "aliases": [
-          "less mess"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-357",
-    "category": "Food & drink",
-    "prompt": "Name a snack that can leave crumbs in someone's lap.",
-    "answers": [
-      {
-        "text": "Crackers",
-        "aliases": [
-          "crispbread"
-        ],
-        "points": 28
       },
       {
         "text": "Cookies",
         "aliases": [
           "biscuits"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Potato chips",
-        "aliases": [
-          "crisps"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Granola bar",
-        "aliases": [
-          "cereal bar"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Pastry",
-        "aliases": [
-          "flaky pastry"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Toast",
-        "aliases": [
-          "toasted bread"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-358",
-    "category": "Food & drink",
-    "prompt": "Name a place people keep an emergency snack.",
-    "answers": [
-      {
-        "text": "Desk drawer",
-        "aliases": [
-          "desk"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Bag",
-        "aliases": [
-          "backpack"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Car",
-        "aliases": [
-          "glove compartment"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Locker",
-        "aliases": [
-          "school locker"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Coat pocket",
-        "aliases": [
-          "jacket pocket"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Bedside drawer",
-        "aliases": [
-          "nightstand"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-359",
-    "category": "Food & drink",
-    "prompt": "Name something a snack package might include besides the food.",
-    "answers": [
-      {
-        "text": "Toy",
-        "aliases": [
-          "small toy"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Sticker",
-        "aliases": [
-          "stickers"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Coupon",
-        "aliases": [
-          "voucher"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Napkin",
-        "aliases": [
-          "serviette"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Utensil",
-        "aliases": [
-          "spoon"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Freshness packet",
-        "aliases": [
-          "desiccant packet"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-360",
-    "category": "Food & drink",
-    "prompt": "Name a reason someone offers their snack to a friend.",
-    "answers": [
-      {
-        "text": "Want to share",
-        "aliases": [
-          "being generous"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Do not like it",
-        "aliases": [
-          "dislike the taste"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Already full",
-        "aliases": [
-          "not hungry"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Cannot eat an ingredient",
-        "aliases": [
-          "food restriction"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Want to trade",
-        "aliases": [
-          "swap snacks"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Want a second opinion",
-        "aliases": [
-          "ask how it tastes"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-361",
-    "category": "Food & drink",
-    "prompt": "Name a quality people want in a snack for a long car trip.",
-    "answers": [
-      {
-        "text": "Does not make crumbs",
-        "aliases": [
-          "crumb free"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Can eat with one hand",
-        "aliases": [
-          "one handed"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Easy to open",
-        "aliases": [
-          "simple packaging"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Does not melt",
-        "aliases": [
-          "heat resistant"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Not sticky",
-        "aliases": [
-          "clean fingers"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Resealable package",
-        "aliases": [
-          "can close the bag"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-362",
-    "category": "Food & drink",
-    "prompt": "Name a shape crackers come in.",
-    "answers": [
-      {
-        "text": "Square",
-        "aliases": [
-          "squares"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Round",
-        "aliases": [
-          "circle"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Rectangle",
-        "aliases": [
-          "rectangular"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Fish",
-        "aliases": [
-          "fish shaped"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Star",
-        "aliases": [
-          "star shaped"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Hexagon",
-        "aliases": [
-          "hexagonal"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-363",
-    "category": "Food & drink",
-    "prompt": "Name a chewy type of candy.",
-    "answers": [
-      {
-        "text": "Gummy bears",
-        "aliases": [
-          "gummies"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Taffy",
-        "aliases": [
-          "saltwater taffy"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Caramel",
-        "aliases": [
-          "chewy caramel"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Jelly beans",
-        "aliases": [
-          "jellybeans"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Fruit chews",
-        "aliases": [
-          "chewy fruit candy"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Licorice",
-        "aliases": [
-          "liquorice"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-364",
-    "category": "Food & drink",
-    "prompt": "Name something people do after eating sticky candy.",
-    "answers": [
-      {
-        "text": "Wash their hands",
-        "aliases": [
-          "wash hands"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Brush their teeth",
-        "aliases": [
-          "brush teeth"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Wipe their mouth",
-        "aliases": [
-          "clean mouth"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Drink water",
-        "aliases": [
-          "rinse with water"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Floss",
-        "aliases": [
-          "floss teeth"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Throw away the wrapper",
-        "aliases": [
-          "bin the wrapper"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-365",
-    "category": "Food & drink",
-    "prompt": "Name a sound that might reveal someone is secretly snacking.",
-    "answers": [
-      {
-        "text": "Crunching",
-        "aliases": [
-          "crunch"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Rustling a bag",
-        "aliases": [
-          "crinkling bag"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Shaking a box",
-        "aliases": [
-          "rattling box"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Popping a lid",
-        "aliases": [
-          "opening a lid"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Smacking lips",
-        "aliases": [
-          "lip smacking"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Slurping",
-        "aliases": [
-          "slurp"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-366",
-    "category": "Food & drink",
-    "prompt": "Name a reason a snack vending machine might leave someone disappointed.",
-    "answers": [
-      {
-        "text": "Sold out",
-        "aliases": [
-          "empty slot"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Food gets stuck",
-        "aliases": [
-          "stuck snack"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Payment declined",
-        "aliases": [
-          "card rejected"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Picked the wrong item",
-        "aliases": [
-          "wrong button"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Stale snack",
-        "aliases": [
-          "expired snack"
-        ],
-        "points": 8
-      },
-      {
-        "text": "No change returned",
-        "aliases": [
-          "keeps the change"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-367",
-    "category": "Food & drink",
-    "prompt": "Name a problem that can ruin a bag of potato chips.",
-    "answers": [
-      {
-        "text": "Stale chips",
-        "aliases": [
-          "gone stale"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Crushed chips",
-        "aliases": [
-          "all crumbs"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Too much salt",
-        "aliases": [
-          "too salty"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Mostly air",
-        "aliases": [
-          "barely any chips"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Wrong flavor",
-        "aliases": [
-          "unwanted flavor"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Burnt chips",
-        "aliases": [
-          "burned chips"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-368",
-    "category": "Food & drink",
-    "prompt": "Name a reason a food delivery might arrive late.",
-    "answers": [
-      {
-        "text": "Traffic",
-        "aliases": [
-          "traffic jam"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Bad weather",
-        "aliases": [
-          "storm"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Driver gets lost",
-        "aliases": [
-          "lost driver"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Busy kitchen",
-        "aliases": [
-          "restaurant backlog"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Wrong address",
-        "aliases": [
-          "incorrect address"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Vehicle trouble",
-        "aliases": [
-          "flat tire"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-369",
-    "category": "Food & drink",
-    "prompt": "Name a dessert people order at a restaurant.",
-    "answers": [
-      {
-        "text": "Cheesecake",
-        "aliases": [
-          "cheese cake"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Brownie",
-        "aliases": [
-          "brownies"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Apple pie",
-        "aliases": [
-          "slice of apple pie"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Ice cream",
-        "aliases": [
-          "icecream"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Creme brulee",
-        "aliases": [
-          "crème brûlée"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Tiramisu",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-370",
-    "category": "Food & drink",
-    "prompt": "Name a dessert made with ice cream.",
-    "answers": [
-      {
-        "text": "Hot fudge sundae",
-        "aliases": [
-          "fudge sundae"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Banana split",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Ice cream sandwich",
-        "aliases": [
-          "icecream sandwich"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Ice cream cake",
-        "aliases": [
-          "icecream cake"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Root beer float",
-        "aliases": [
-          "ice cream float"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Baked Alaska",
-        "aliases": [],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-371",
-    "category": "Food & drink",
-    "prompt": "Name something used to decorate a birthday cake.",
-    "answers": [
-      {
-        "text": "Candles",
-        "aliases": [
-          "birthday candles"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Frosting",
-        "aliases": [
-          "icing"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Sprinkles",
-        "aliases": [
-          "hundreds and thousands"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Fruit",
-        "aliases": [
-          "fresh fruit"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Edible picture",
-        "aliases": [
-          "printed cake image"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Toy figures",
-        "aliases": [
-          "cake figurines"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-372",
-    "category": "Food & drink",
-    "prompt": "Name a dessert people cut into slices.",
-    "answers": [
-      {
-        "text": "Layer cake",
-        "aliases": [
-          "sponge cake"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Pie",
-        "aliases": [
-          "fruit pie"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Cheesecake",
-        "aliases": [
-          "cheese cake"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Strudel",
-        "aliases": [
-          "apple strudel"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Roulade",
-        "aliases": [
-          "swiss roll"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Baklava",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-373",
-    "category": "Food & drink",
-    "prompt": "Name a reason someone buys a bakery cake instead of baking one.",
-    "answers": [
-      {
-        "text": "Saves time",
-        "aliases": [
-          "too busy"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Cannot bake",
-        "aliases": [
-          "lack baking skills"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Professional decoration",
-        "aliases": [
-          "fancy design"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Feeding a large party",
-        "aliases": [
-          "need a big cake"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Oven is broken",
-        "aliases": [
-          "no working oven"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Last-minute celebration",
-        "aliases": [
-          "short notice"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-374",
-    "category": "Food & drink",
-    "prompt": "Name something people do before cutting a celebration cake.",
-    "answers": [
-      {
-        "text": "Light candles",
-        "aliases": [
-          "light the candles"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Sing",
-        "aliases": [
-          "sing happy birthday"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Take photos",
-        "aliases": [
-          "take pictures"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Make a wish",
-        "aliases": [
-          "wish"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Blow out candles",
-        "aliases": [
-          "blow candles out"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Gather everyone",
-        "aliases": [
-          "call people over"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-375",
-    "category": "Food & drink",
-    "prompt": "Name a dessert usually eaten with a spoon.",
-    "answers": [
-      {
-        "text": "Chocolate pudding",
-        "aliases": [
-          "chocolate custard"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Mousse",
-        "aliases": [
-          "chocolate mousse"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Ice cream",
-        "aliases": [
-          "icecream"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Fruit crumble",
-        "aliases": [
-          "apple crumble"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Trifle",
-        "aliases": [
-          "english trifle"
         ],
         "points": 9
       },
@@ -3170,50 +986,1757 @@
     ]
   },
   {
-    "id": "food-376",
+    "id": "food-334",
     "category": "Food & drink",
-    "prompt": "Name a reason someone leaves a dessert unfinished.",
+    "prompt": "Name a food kids insist tastes better in a fun shape.",
     "answers": [
       {
-        "text": "Too full",
-        "aliases": [
-          "full from dinner"
-        ],
-        "points": 32
+        "text": "Pasta",
+        "aliases": [],
+        "points": 34
       },
       {
-        "text": "Too rich",
+        "text": "Chicken nuggets",
         "aliases": [
-          "overly rich"
+          "nuggets"
         ],
         "points": 24
       },
       {
-        "text": "Portion is too big",
+        "text": "Sandwiches",
         "aliases": [
-          "huge serving"
+          "sandwich"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Dislike the flavor",
-        "aliases": [
-          "does not taste good"
-        ],
-        "points": 12
+        "text": "Pancakes",
+        "aliases": [],
+        "points": 11
       },
       {
-        "text": "It melted",
+        "text": "Gummy candy",
         "aliases": [
-          "melted dessert"
+          "gummies"
         ],
         "points": 8
       },
       {
-        "text": "Need to leave",
+        "text": "Vegetables",
         "aliases": [
-          "out of time"
+          "veggies"
         ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-335",
+    "category": "Food & drink",
+    "prompt": "Name a trick kids use to make it look like they ate their vegetables.",
+    "answers": [
+      {
+        "text": "Push them around the plate",
+        "aliases": [
+          "spread them out"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Hide them in a napkin",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Feed them to the dog",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Hide them under other food",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Throw them away",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Give them to a sibling",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-336",
+    "category": "Food & drink",
+    "prompt": "Name a food kids are thrilled to be allowed for dinner.",
+    "answers": [
+      {
+        "text": "Pancakes",
+        "aliases": [],
+        "points": 31
+      },
+      {
+        "text": "Cereal",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Waffles",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Popcorn",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Cake",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-337",
+    "category": "Food & drink",
+    "prompt": "Name an adult eating habit that would disappoint their childhood self.",
+    "answers": [
+      {
+        "text": "Enjoying vegetables",
+        "aliases": [
+          "eating vegetables"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Eating less candy",
+        "aliases": [
+          "no sweets"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Drinking black coffee",
+        "aliases": [
+          "drinking coffee"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Skipping sugary cereal",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Choosing small portions",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Ordering spicy food",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-338",
+    "category": "Food & drink",
+    "prompt": "Name a food that reminds people of being home sick as a kid.",
+    "answers": [
+      {
+        "text": "Chicken soup",
+        "aliases": [
+          "soup"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Toast",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Crackers",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Gelatin",
+        "aliases": [
+          "jello"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Popsicles",
+        "aliases": [
+          "ice lollies"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Applesauce",
+        "aliases": [
+          "apple sauce"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-339",
+    "category": "Food & drink",
+    "prompt": "Name a food your younger self thought only rich people ate.",
+    "answers": [
+      {
+        "text": "Lobster",
+        "aliases": [],
+        "points": 34
+      },
+      {
+        "text": "Steak",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Caviar",
+        "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Sushi",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Shrimp",
+        "aliases": [
+          "prawns"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Fancy cheese",
+        "aliases": [
+          "expensive cheese"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-340",
+    "category": "Food & drink",
+    "prompt": "Name something adults told you to make you finish dinner.",
+    "answers": [
+      {
+        "text": "No dessert until you finish",
+        "aliases": [
+          "no dessert"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Other children are hungry",
+        "aliases": [
+          "starving children"
+        ],
+        "points": 23
+      },
+      {
+        "text": "It'll make you strong",
+        "aliases": [
+          "grow big and strong"
+        ],
+        "points": 18
+      },
+      {
+        "text": "You can't leave the table",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Don't waste food",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "You'll have it for breakfast",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-341",
+    "category": "Food & drink",
+    "prompt": "Name a food you thought was a treat until you learned it counted as breakfast.",
+    "answers": [
+      {
+        "text": "Toaster pastry",
+        "aliases": [
+          "pop tart"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Chocolate milk",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Sugary cereal",
+        "aliases": [
+          "sweet cereal"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Pancakes",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Doughnuts",
+        "aliases": [
+          "donuts"
+        ],
+        "points": 9
+      },
+      {
+        "text": "French toast",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-342",
+    "category": "Food & drink",
+    "prompt": "Name a food children invent their own method of eating.",
+    "answers": [
+      {
+        "text": "Sandwich cookies",
+        "aliases": [
+          "oreos"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "String cheese",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Cereal",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Cupcakes",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Corn on the cob",
+        "aliases": [
+          "corn"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-343",
+    "category": "Food & drink",
+    "prompt": "Name a reason the same food can taste better on vacation.",
+    "answers": [
+      {
+        "text": "You're relaxed",
+        "aliases": [
+          "relaxing"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Fresh local ingredients",
+        "aliases": [
+          "fresh ingredients"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Eating outdoors",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Hungry from activities",
+        "aliases": [
+          "more hungry"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Someone else cooked",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "It reminds you of the trip",
+        "aliases": [
+          "memories"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-344",
+    "category": "Food & drink",
+    "prompt": "Name a food smell that sends people straight back to childhood.",
+    "answers": [
+      {
+        "text": "Baking cookies",
+        "aliases": [
+          "cookies"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Pancakes",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Popcorn",
+        "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Cinnamon rolls",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Barbecue",
+        "aliases": [
+          "grilling"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Peanut butter",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-345",
+    "category": "Food & drink",
+    "prompt": "Name a texture that makes someone reject a food immediately.",
+    "answers": [
+      {
+        "text": "Slimy",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Mushy",
+        "aliases": [
+          "soggy"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Gritty",
+        "aliases": [
+          "sandy"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Rubbery",
+        "aliases": [
+          "chewy"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Lumpy",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Stringy",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-346",
+    "category": "Food & drink",
+    "prompt": "Name a food where an unexpected crunchy bit makes you stop eating.",
+    "answers": [
+      {
+        "text": "Scrambled eggs",
+        "aliases": [
+          "eggs"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Mashed potatoes",
+        "aliases": [
+          "mash"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pudding",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Yogurt",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Soup",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-347",
+    "category": "Food & drink",
+    "prompt": "Name a food that's delicious hot but disappointing once it's cold.",
+    "answers": [
+      {
+        "text": "French fries",
+        "aliases": [
+          "fries",
+          "chips"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Mozzarella sticks",
+        "aliases": [
+          "cheese sticks"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Cheese dip",
+        "aliases": [
+          "queso"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Fried eggs",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Oatmeal",
+        "aliases": [
+          "porridge"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Gravy",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-348",
+    "category": "Food & drink",
+    "prompt": "Name something people claim they can taste even when nobody else notices it.",
+    "answers": [
+      {
+        "text": "Tap water",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Artificial sweetener",
+        "aliases": [
+          "sweetener"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cilantro",
+        "aliases": [
+          "coriander"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Decaf coffee",
+        "aliases": [
+          "decaf"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Garlic",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Cheap chocolate",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-349",
+    "category": "Food & drink",
+    "prompt": "Name a food people like a little burned around the edges.",
+    "answers": [
+      {
+        "text": "Toast",
+        "aliases": [],
+        "points": 34
+      },
+      {
+        "text": "Bacon",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Marshmallows",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Brownies",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Sausages",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-350",
+    "category": "Food & drink",
+    "prompt": "Name a food people argue about making soft versus crunchy.",
+    "answers": [
+      {
+        "text": "Cookies",
+        "aliases": [
+          "biscuits"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Bacon",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Tacos",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Peanut butter",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Brownies",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-351",
+    "category": "Food & drink",
+    "prompt": "Name a food where people fight over the corner piece.",
+    "answers": [
+      {
+        "text": "Brownies",
+        "aliases": [],
+        "points": 31
+      },
+      {
+        "text": "Lasagna",
+        "aliases": [
+          "lasagne"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cake",
+        "aliases": [
+          "sheet cake"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cornbread",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Baked macaroni and cheese",
+        "aliases": [
+          "baked mac and cheese"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Tray pizza",
+        "aliases": [
+          "sheet pizza"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-352",
+    "category": "Food & drink",
+    "prompt": "Name something people insist tastes different depending on the container.",
+    "answers": [
+      {
+        "text": "Cola",
+        "aliases": [
+          "soda"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Beer",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Coffee",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Tea",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Water",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-353",
+    "category": "Food & drink",
+    "prompt": "Name a food people make a face at even when they like the taste.",
+    "answers": [
+      {
+        "text": "Lemon",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Sour candy",
+        "aliases": [
+          "sour sweets"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hot peppers",
+        "aliases": [
+          "chili peppers"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Pickles",
+        "aliases": [
+          "gherkins"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Wasabi",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Black coffee",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-354",
+    "category": "Food & drink",
+    "prompt": "Name a food with a smell strong enough to divide the whole room.",
+    "answers": [
+      {
+        "text": "Fish",
+        "aliases": [],
+        "points": 34
+      },
+      {
+        "text": "Blue cheese",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Garlic",
+        "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Boiled eggs",
+        "aliases": [
+          "eggs"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Cooked cabbage",
+        "aliases": [
+          "cabbage"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Durian",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-355",
+    "category": "Food & drink",
+    "prompt": "Name something people do when someone opens smelly food nearby.",
+    "answers": [
+      {
+        "text": "Open a window",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Offer them gum",
+        "aliases": [
+          "give them a mint"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Cover their nose",
+        "aliases": [
+          "hold nose"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Complain",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Leave the room",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Make a joke",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-356",
+    "category": "Food & drink",
+    "prompt": "Name something people say when they dislike food but want to be polite.",
+    "answers": [
+      {
+        "text": "It's interesting",
+        "aliases": [
+          "interesting"
+        ],
+        "points": 31
+      },
+      {
+        "text": "I'm full",
+        "aliases": [
+          "full"
+        ],
+        "points": 24
+      },
+      {
+        "text": "I've never tried anything like it",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "You must have worked hard on this",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Can I get the recipe?",
+        "aliases": [
+          "ask for the recipe"
+        ],
+        "points": 9
+      },
+      {
+        "text": "I'll save some for later",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-357",
+    "category": "Food & drink",
+    "prompt": "Name a food people sometimes pretend to enjoy to seem sophisticated.",
+    "answers": [
+      {
+        "text": "Oysters",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Blue cheese",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Caviar",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Sushi",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Dark chocolate",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Olives",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-358",
+    "category": "Food & drink",
+    "prompt": "Name a food that's worth the bad breath to its fans.",
+    "answers": [
+      {
+        "text": "Garlic bread",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Onion rings",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Curry",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Blue cheese",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Tuna",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Cabbage",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-359",
+    "category": "Food & drink",
+    "prompt": "Name something that tastes strange right after you brush your teeth.",
+    "answers": [
+      {
+        "text": "Orange juice",
+        "aliases": [],
+        "points": 34
+      },
+      {
+        "text": "Coffee",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Milk",
+        "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Chocolate",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Apple",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Cola",
+        "aliases": [
+          "soda"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-360",
+    "category": "Food & drink",
+    "prompt": "Name a food people argue should never have raisins in it.",
+    "answers": [
+      {
+        "text": "Cookies",
+        "aliases": [
+          "biscuits"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Potato salad",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Curry",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Bread pudding",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Cereal",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Rice",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-361",
+    "category": "Food & drink",
+    "prompt": "Name a food some people say is ruined by adding fruit.",
+    "answers": [
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 31
+      },
+      {
+        "text": "Salad",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Chocolate",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Cheesecake",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Curry",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Beer",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-362",
+    "category": "Food & drink",
+    "prompt": "Name a food opinion that could start an argument in a group chat.",
+    "answers": [
+      {
+        "text": "Pineapple belongs on pizza",
+        "aliases": [
+          "pineapple on pizza"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Well-done steak is best",
+        "aliases": [
+          "well done steak"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Milk goes in before cereal",
+        "aliases": [
+          "milk first"
+        ],
+        "points": 16
+      },
+      {
+        "text": "A hot dog is a sandwich",
+        "aliases": [
+          "hot dog sandwich"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Ketchup belongs in the fridge",
+        "aliases": [
+          "refrigerate ketchup"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Boneless wings are nuggets",
+        "aliases": [
+          "boneless wings"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-363",
+    "category": "Food & drink",
+    "prompt": "Name a food people argue counts as dinner even though it seems like a snack.",
+    "answers": [
+      {
+        "text": "Cereal",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Nachos",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Popcorn",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Smoothie",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Cheese and crackers",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Toast",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-364",
+    "category": "Food & drink",
+    "prompt": "Name a food someone always claims is better in their hometown.",
+    "answers": [
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 34
+      },
+      {
+        "text": "Barbecue",
+        "aliases": [
+          "bbq"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Bagels",
+        "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Tacos",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Burgers",
+        "aliases": [
+          "hamburgers"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Fish and chips",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-365",
+    "category": "Food & drink",
+    "prompt": "Name a food people can be fiercely loyal to one brand of.",
+    "answers": [
+      {
+        "text": "Ketchup",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Peanut butter",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Mayonnaise",
+        "aliases": [
+          "mayo"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cola",
+        "aliases": [
+          "soda"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Cereal",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Chocolate",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-366",
+    "category": "Food & drink",
+    "prompt": "Name a food people argue is worth paying extra for.",
+    "answers": [
+      {
+        "text": "Steak",
+        "aliases": [],
+        "points": 31
+      },
+      {
+        "text": "Coffee",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Chocolate",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Cheese",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Olive oil",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-367",
+    "category": "Food & drink",
+    "prompt": "Name something people put on fries that makes other people object.",
+    "answers": [
+      {
+        "text": "Mayonnaise",
+        "aliases": [
+          "mayo"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Vinegar",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [
+          "milkshake"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Ranch dressing",
+        "aliases": [
+          "ranch"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Mustard",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Gravy",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-368",
+    "category": "Food & drink",
+    "prompt": "Name a food people argue about eating with their hands versus utensils.",
+    "answers": [
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Burger",
+        "aliases": [
+          "hamburger"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Fries",
+        "aliases": [
+          "chips"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Chicken",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Cake",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Sushi",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-369",
+    "category": "Food & drink",
+    "prompt": "Name a popcorn topping that can divide a movie-night group.",
+    "answers": [
+      {
+        "text": "Caramel",
+        "aliases": [],
+        "points": 34
+      },
+      {
+        "text": "Cheese",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Chili powder",
+        "aliases": [
+          "spice"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Chocolate",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Ranch seasoning",
+        "aliases": [
+          "ranch"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cinnamon",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-370",
+    "category": "Food & drink",
+    "prompt": "Name a food people insist tastes better eaten straight from the pan.",
+    "answers": [
+      {
+        "text": "Brownies",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Bacon",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Macaroni and cheese",
+        "aliases": [
+          "mac and cheese"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Pasta",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Eggs",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Pancakes",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-371",
+    "category": "Food & drink",
+    "prompt": "If you could make one food calorie-free, what would you choose?",
+    "answers": [
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 31
+      },
+      {
+        "text": "Chocolate",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "French fries",
+        "aliases": [
+          "fries"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Cheeseburger",
+        "aliases": [
+          "burger"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Cake",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-372",
+    "category": "Food & drink",
+    "prompt": "Name a food you would struggle to give up for a whole year.",
+    "answers": [
+      {
+        "text": "Bread",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Cheese",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Chocolate",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Pasta",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Coffee",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Rice",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-373",
+    "category": "Food & drink",
+    "prompt": "Name a food you'd be disappointed to learn a future partner hated.",
+    "answers": [
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Sushi",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Chocolate",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Cheese",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Spicy food",
+        "aliases": [
+          "hot food"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Tacos",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-374",
+    "category": "Food & drink",
+    "prompt": "Name a food you would love to taste again for the very first time.",
+    "answers": [
+      {
+        "text": "Chocolate",
+        "aliases": [],
+        "points": 34
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Steak",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Mango",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Strawberries",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-375",
+    "category": "Food & drink",
+    "prompt": "Name a food people say they could live on, then get tired of in a week.",
+    "answers": [
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Pasta",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Tacos",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Rice",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Chicken",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Salad",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-376",
+    "category": "Food & drink",
+    "prompt": "Name a food you would refuse to eat even to impress someone.",
+    "answers": [
+      {
+        "text": "Oysters",
+        "aliases": [],
+        "points": 31
+      },
+      {
+        "text": "Snails",
+        "aliases": [
+          "escargot"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Liver",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Insects",
+        "aliases": [
+          "bugs"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Black pudding",
+        "aliases": [
+          "blood sausage"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Blue cheese",
+        "aliases": [],
         "points": 6
       }
     ]
@@ -3221,143 +2744,142 @@
   {
     "id": "food-377",
     "category": "Food & drink",
-    "prompt": "Name a precaution people take when transporting a cake.",
+    "prompt": "Name a food someone might insist is still worth eating after it falls on the floor.",
     "answers": [
       {
-        "text": "Put it in a sturdy box",
+        "text": "Cookie",
         "aliases": [
-          "cake box"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Use a flat surface",
-        "aliases": [
-          "keep it level"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Chill it first",
-        "aliases": [
-          "refrigerate first"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Drive slowly",
-        "aliases": [
-          "avoid sudden braking"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Keep it out of sunlight",
-        "aliases": [
-          "avoid direct sun"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Have someone hold it steady",
-        "aliases": [
-          "passenger holds it"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-378",
-    "category": "Food & drink",
-    "prompt": "Name a dessert with a crisp outside and a soft center.",
-    "answers": [
-      {
-        "text": "Creme brulee",
-        "aliases": [
-          "crème brûlée"
+          "biscuit"
         ],
         "points": 35
       },
       {
-        "text": "Cannoli",
+        "text": "Chocolate bar",
         "aliases": [
-          "cannolo"
+          "chocolate",
+          "candy bar"
         ],
         "points": 25
       },
       {
-        "text": "Macaron",
+        "text": "French fry",
         "aliases": [
-          "french macaron"
+          "fry",
+          "chip"
         ],
         "points": 16
       },
       {
-        "text": "Pavlova",
-        "aliases": [],
+        "text": "Pizza slice",
+        "aliases": [
+          "pizza"
+        ],
         "points": 11
       },
       {
-        "text": "Fried ice cream",
+        "text": "Apple",
         "aliases": [
-          "deep fried ice cream"
+          "whole apple"
         ],
         "points": 8
       },
       {
-        "text": "Cream puff",
+        "text": "Steak",
         "aliases": [
-          "choux puff"
+          "expensive steak"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "food-379",
+    "id": "food-378",
     "category": "Food & drink",
-    "prompt": "Name a sweet treat sold at a bake sale.",
+    "prompt": "Name a food's best part that somebody else always throws away.",
     "answers": [
       {
-        "text": "Cookies",
+        "text": "Pizza crust",
         "aliases": [
-          "biscuits"
+          "crust of pizza"
         ],
         "points": 30
       },
       {
-        "text": "Brownies",
+        "text": "Chicken skin",
         "aliases": [
-          "brownie"
+          "crispy chicken skin"
         ],
         "points": 24
       },
       {
-        "text": "Cupcakes",
+        "text": "Potato skin",
         "aliases": [
-          "cupcake"
+          "potato peel"
         ],
         "points": 18
       },
       {
-        "text": "Lemon bars",
+        "text": "Bread heel",
         "aliases": [
-          "lemon squares"
+          "end piece of bread",
+          "end slice"
         ],
         "points": 13
       },
       {
-        "text": "Fudge",
+        "text": "Apple peel",
         "aliases": [
-          "chocolate fudge"
+          "apple skin"
         ],
         "points": 9
       },
       {
-        "text": "Crispy rice treats",
+        "text": "Fish skin",
         "aliases": [
-          "rice krispie treats"
+          "crispy fish skin"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-379",
+    "category": "Food & drink",
+    "prompt": "Name a food people avoid because it gets stuck in their teeth.",
+    "answers": [
+      {
+        "text": "Popcorn",
+        "aliases": [],
+        "points": 34
+      },
+      {
+        "text": "Corn on the cob",
+        "aliases": [
+          "corn"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Ribs",
+        "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Spinach",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Taffy",
+        "aliases": [
+          "sticky candy"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Seeds",
+        "aliases": [
+          "sesame seeds"
         ],
         "points": 6
       }
@@ -3366,48 +2888,44 @@
   {
     "id": "food-380",
     "category": "Food & drink",
-    "prompt": "Name something that makes a restaurant dessert look impressive.",
+    "prompt": "Name a food people love at home but feel awkward eating in public.",
     "answers": [
       {
-        "text": "Flames",
-        "aliases": [
-          "flambe"
-        ],
+        "text": "Ribs",
+        "aliases": [],
         "points": 32
       },
       {
-        "text": "Towering height",
+        "text": "Spaghetti",
         "aliases": [
-          "very tall"
+          "pasta"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Elaborate plating",
+        "text": "Chicken wings",
         "aliases": [
-          "fancy presentation"
+          "wings"
         ],
         "points": 18
       },
       {
-        "text": "Prepared at the table",
+        "text": "Corn on the cob",
         "aliases": [
-          "tableside preparation"
+          "corn"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Unusual shape",
+        "text": "Crab legs",
         "aliases": [
-          "creative shape"
+          "crab"
         ],
         "points": 8
       },
       {
-        "text": "Hidden filling",
-        "aliases": [
-          "surprise center"
-        ],
+        "text": "Sloppy joes",
+        "aliases": [],
         "points": 6
       }
     ]
@@ -3415,47 +2933,37 @@
   {
     "id": "food-381",
     "category": "Food & drink",
-    "prompt": "Name a warm dessert people serve with cold ice cream.",
+    "prompt": "Name a food people keep giving another chance even though it disappoints them.",
     "answers": [
       {
-        "text": "Apple pie",
-        "aliases": [
-          "hot apple pie"
-        ],
-        "points": 28
+        "text": "Avocado toast",
+        "aliases": [],
+        "points": 31
       },
       {
-        "text": "Brownie",
-        "aliases": [
-          "warm brownie"
-        ],
-        "points": 23
+        "text": "Oysters",
+        "aliases": [],
+        "points": 24
       },
       {
-        "text": "Fruit crumble",
-        "aliases": [
-          "apple crumble"
-        ],
-        "points": 19
+        "text": "Kale salad",
+        "aliases": [],
+        "points": 18
       },
       {
-        "text": "Sticky toffee pudding",
-        "aliases": [
-          "toffee pudding"
-        ],
-        "points": 14
+        "text": "Protein bars",
+        "aliases": [],
+        "points": 12
       },
       {
-        "text": "Peach cobbler",
-        "aliases": [
-          "cobbler"
-        ],
-        "points": 10
+        "text": "Brown rice",
+        "aliases": [],
+        "points": 9
       },
       {
-        "text": "Chocolate lava cake",
+        "text": "Frozen dinners",
         "aliases": [
-          "molten chocolate cake"
+          "ready meals"
         ],
         "points": 6
       }
@@ -3464,45 +2972,41 @@
   {
     "id": "food-382",
     "category": "Food & drink",
-    "prompt": "Name a dessert a group might share with several spoons.",
+    "prompt": "Name something people do to make a vegetable taste less like a vegetable.",
     "answers": [
       {
-        "text": "Large sundae",
+        "text": "Cover it in cheese",
         "aliases": [
-          "giant sundae"
+          "add cheese"
         ],
         "points": 35
       },
       {
-        "text": "Banana split",
+        "text": "Fry it",
         "aliases": [],
         "points": 25
       },
       {
-        "text": "Skillet cookie",
-        "aliases": [
-          "cookie skillet"
-        ],
+        "text": "Add butter",
+        "aliases": [],
         "points": 16
       },
       {
-        "text": "Giant brownie",
+        "text": "Add sauce",
         "aliases": [
-          "large brownie"
+          "dressing"
         ],
         "points": 11
       },
       {
-        "text": "Fruit crumble",
-        "aliases": [
-          "apple crumble"
-        ],
+        "text": "Roast it",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Bread pudding",
+        "text": "Put it in a smoothie",
         "aliases": [
-          "bread and butter pudding"
+          "blend it"
         ],
         "points": 5
       }
@@ -3511,47 +3015,46 @@
   {
     "id": "food-383",
     "category": "Food & drink",
-    "prompt": "Name a reason someone chooses fruit for dessert.",
+    "prompt": "Name an excuse someone might use instead of admitting the food is too spicy.",
     "answers": [
       {
-        "text": "Feels lighter",
+        "text": "I'm full",
         "aliases": [
-          "light dessert"
+          "full"
         ],
         "points": 30
       },
       {
-        "text": "Refreshing",
+        "text": "I have a sensitive stomach",
         "aliases": [
-          "fresh and refreshing"
+          "stomach problem"
         ],
         "points": 24
       },
       {
-        "text": "Less sweet",
+        "text": "It's too hot in temperature",
         "aliases": [
-          "not too sweet"
+          "burning my mouth"
         ],
         "points": 18
       },
       {
-        "text": "Little preparation",
+        "text": "I just had dental work",
         "aliases": [
-          "easy to prepare"
+          "dentist",
+          "dental work"
         ],
         "points": 13
       },
       {
-        "text": "Easy to share",
-        "aliases": [
-          "shareable"
-        ],
+        "text": "I'm saving room for dessert",
+        "aliases": [],
         "points": 9
       },
       {
-        "text": "Fruit is in season",
+        "text": "I need to get a drink",
         "aliases": [
-          "seasonal fruit"
+          "thirsty"
         ],
         "points": 6
       }
@@ -3560,47 +3063,41 @@
   {
     "id": "food-384",
     "category": "Food & drink",
-    "prompt": "Name something people negotiate when sharing one dessert.",
+    "prompt": "Name a sign someone took a much spicier bite than they expected.",
     "answers": [
       {
-        "text": "Which dessert to order",
-        "aliases": [
-          "dessert choice"
-        ],
-        "points": 32
+        "text": "Sweating",
+        "aliases": [],
+        "points": 34
       },
       {
-        "text": "How to divide it",
+        "text": "Watery eyes",
         "aliases": [
-          "portion sizes"
+          "crying"
         ],
         "points": 24
       },
       {
-        "text": "Who gets the first bite",
-        "aliases": [
-          "first bite"
-        ],
-        "points": 18
+        "text": "Red face",
+        "aliases": [],
+        "points": 17
       },
       {
-        "text": "Who gets the last bite",
+        "text": "Drinking milk",
         "aliases": [
-          "last bite"
+          "reaching for milk"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Who pays",
-        "aliases": [
-          "paying"
-        ],
+        "text": "Runny nose",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Whether to use separate spoons",
+        "text": "Suddenly quiet",
         "aliases": [
-          "separate utensils"
+          "stops talking"
         ],
         "points": 6
       }
@@ -3609,47 +3106,37 @@
   {
     "id": "food-385",
     "category": "Food & drink",
-    "prompt": "Name a reason people carry a reusable water bottle.",
+    "prompt": "Name a food people argue about making the authentic way.",
     "answers": [
       {
-        "text": "Reduce waste",
-        "aliases": [
-          "less plastic"
-        ],
-        "points": 28
+        "text": "Pizza",
+        "aliases": [],
+        "points": 32
       },
       {
-        "text": "Save money",
-        "aliases": [
-          "avoid buying water"
-        ],
+        "text": "Tacos",
+        "aliases": [],
         "points": 23
       },
       {
-        "text": "Remember to drink water",
-        "aliases": [
-          "stay hydrated"
-        ],
-        "points": 19
+        "text": "Curry",
+        "aliases": [],
+        "points": 18
       },
       {
-        "text": "Keep water cold",
-        "aliases": [
-          "cold water"
-        ],
-        "points": 14
+        "text": "Sushi",
+        "aliases": [],
+        "points": 13
       },
       {
-        "text": "Convenient to carry",
-        "aliases": [
-          "portable water"
-        ],
-        "points": 10
+        "text": "Pasta",
+        "aliases": [],
+        "points": 8
       },
       {
-        "text": "Track how much they drink",
+        "text": "Barbecue",
         "aliases": [
-          "measure water intake"
+          "bbq"
         ],
         "points": 6
       }
@@ -3658,146 +3145,124 @@
   {
     "id": "food-386",
     "category": "Food & drink",
-    "prompt": "Name a way people cool a drink quickly.",
+    "prompt": "Name a food people keep tasting to decide whether they actually like it.",
     "answers": [
       {
-        "text": "Add ice",
-        "aliases": [
-          "ice cubes"
-        ],
-        "points": 35
+        "text": "Olives",
+        "aliases": [],
+        "points": 31
       },
       {
-        "text": "Put it in the refrigerator",
-        "aliases": [
-          "fridge"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Put it in the freezer",
-        "aliases": [
-          "freezer"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Set it in cold water",
-        "aliases": [
-          "cold water bath"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Stir it",
-        "aliases": [
-          "stirring"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Add cold water",
-        "aliases": [
-          "dilute with cold water"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-387",
-    "category": "Food & drink",
-    "prompt": "Name a container people drink from at an event.",
-    "answers": [
-      {
-        "text": "Paper cup",
-        "aliases": [
-          "disposable paper cup"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Bottle",
-        "aliases": [
-          "drink bottle"
-        ],
+        "text": "Blue cheese",
+        "aliases": [],
         "points": 24
       },
       {
-        "text": "Can",
-        "aliases": [
-          "drink can"
-        ],
+        "text": "Coffee",
+        "aliases": [],
         "points": 18
       },
       {
-        "text": "Mug",
-        "aliases": [
-          "ceramic mug"
-        ],
-        "points": 13
+        "text": "Dark chocolate",
+        "aliases": [],
+        "points": 12
       },
       {
-        "text": "Glass",
-        "aliases": [
-          "drinking glass"
-        ],
+        "text": "Beer",
+        "aliases": [],
         "points": 9
       },
       {
-        "text": "Pouch",
+        "text": "Cilantro",
         "aliases": [
-          "drink pouch"
+          "coriander"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "food-388",
+    "id": "food-387",
     "category": "Food & drink",
-    "prompt": "Name a reason someone prefers using a drinking straw.",
+    "prompt": "Name something people add to coffee that makes a coffee purist complain.",
     "answers": [
       {
-        "text": "Protect lipstick",
-        "aliases": [
-          "avoid smudging lipstick"
-        ],
-        "points": 32
+        "text": "Sugar",
+        "aliases": [],
+        "points": 35
       },
       {
-        "text": "Sensitive teeth",
+        "text": "Cream",
         "aliases": [
-          "keep cold off teeth"
+          "milk"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Avoid tipping the cup",
+        "text": "Flavored syrup",
         "aliases": [
-          "keep cup upright"
+          "syrup"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Drink is thick",
-        "aliases": [
-          "milkshake"
-        ],
-        "points": 12
+        "text": "Ice",
+        "aliases": [],
+        "points": 11
       },
       {
-        "text": "Hard to lift the cup",
-        "aliases": [
-          "difficulty lifting"
-        ],
+        "text": "Whipped cream",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Fun for children",
+        "text": "Alcohol",
         "aliases": [
-          "kids enjoy it"
+          "liquor"
         ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-388",
+    "category": "Food & drink",
+    "prompt": "Name something someone might say after enjoying a food they swore they hated.",
+    "answers": [
+      {
+        "text": "That's actually good",
+        "aliases": [
+          "it's good"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Don't tell anyone",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "You hid it well",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Can I have the recipe",
+        "aliases": [
+          "recipe"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Can I have more",
+        "aliases": [
+          "more please"
+        ],
+        "points": 9
+      },
+      {
+        "text": "I still don't like it",
+        "aliases": [],
         "points": 6
       }
     ]
@@ -3805,47 +3270,41 @@
   {
     "id": "food-389",
     "category": "Food & drink",
-    "prompt": "Name a way people mark whose drink is whose at a party.",
+    "prompt": "Name a food that might make two people choose separate dinners.",
     "answers": [
       {
-        "text": "Write names on cups",
-        "aliases": [
-          "name on cup"
-        ],
-        "points": 28
+        "text": "Sushi",
+        "aliases": [],
+        "points": 34
       },
       {
-        "text": "Different cup colors",
+        "text": "Spicy food",
         "aliases": [
-          "colored cups"
+          "hot food"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Glass charms",
-        "aliases": [
-          "drink charms"
-        ],
-        "points": 19
+        "text": "Seafood",
+        "aliases": [],
+        "points": 17
       },
       {
-        "text": "Assigned coasters",
+        "text": "Vegetarian food",
         "aliases": [
-          "personal coasters"
+          "vegan food"
         ],
-        "points": 14
+        "points": 11
       },
       {
-        "text": "Colored straws",
-        "aliases": [
-          "different straws"
-        ],
-        "points": 10
+        "text": "Liver",
+        "aliases": [],
+        "points": 8
       },
       {
-        "text": "Keep it by their seat",
+        "text": "Fast food",
         "aliases": [
-          "assigned place"
+          "junk food"
         ],
         "points": 6
       }
@@ -3854,96 +3313,74 @@
   {
     "id": "food-390",
     "category": "Food & drink",
-    "prompt": "Name a problem someone might have with a drinking straw.",
+    "prompt": "Name a food people are tired of explaining they don't like.",
     "answers": [
       {
-        "text": "Clogged",
-        "aliases": [
-          "blocked"
-        ],
-        "points": 35
+        "text": "Avocado",
+        "aliases": [],
+        "points": 32
       },
       {
-        "text": "Too short",
-        "aliases": [
-          "short straw"
-        ],
-        "points": 25
+        "text": "Coffee",
+        "aliases": [],
+        "points": 23
       },
       {
-        "text": "Cracked",
-        "aliases": [
-          "split straw"
-        ],
-        "points": 16
+        "text": "Sushi",
+        "aliases": [],
+        "points": 18
       },
       {
-        "text": "Too flimsy",
-        "aliases": [
-          "bends too easily"
-        ],
-        "points": 11
+        "text": "Chocolate",
+        "aliases": [],
+        "points": 13
       },
       {
-        "text": "Too narrow",
-        "aliases": [
-          "too thin"
-        ],
+        "text": "Pizza",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Tastes like paper",
-        "aliases": [
-          "papery taste"
-        ],
-        "points": 5
+        "text": "Cheese",
+        "aliases": [],
+        "points": 6
       }
     ]
   },
   {
     "id": "food-391",
     "category": "Food & drink",
-    "prompt": "Name a reason a fountain drink might taste wrong.",
+    "prompt": "Name something people disagree about how sweet it should be.",
     "answers": [
       {
-        "text": "No syrup",
-        "aliases": [
-          "syrup ran out"
-        ],
-        "points": 30
+        "text": "Tea",
+        "aliases": [],
+        "points": 31
       },
       {
-        "text": "Too much syrup",
-        "aliases": [
-          "overly sweet"
-        ],
+        "text": "Coffee",
+        "aliases": [],
         "points": 24
       },
       {
-        "text": "Flat",
-        "aliases": [
-          "no fizz"
-        ],
+        "text": "Cake",
+        "aliases": [],
         "points": 18
       },
       {
-        "text": "Warm",
-        "aliases": [
-          "not cold"
-        ],
-        "points": 13
+        "text": "Lemonade",
+        "aliases": [],
+        "points": 12
       },
       {
-        "text": "Bad-tasting water",
-        "aliases": [
-          "bad water"
-        ],
+        "text": "Yogurt",
+        "aliases": [],
         "points": 9
       },
       {
-        "text": "Mixed with another flavor",
+        "text": "Oatmeal",
         "aliases": [
-          "flavors mixed"
+          "porridge"
         ],
         "points": 6
       }
@@ -3952,97 +3389,75 @@
   {
     "id": "food-392",
     "category": "Food & drink",
-    "prompt": "Name an occasion when someone raises a glass for a toast.",
+    "prompt": "Name something people add to food before they've even tasted it.",
     "answers": [
       {
-        "text": "Wedding",
-        "aliases": [
-          "wedding reception"
-        ],
-        "points": 32
+        "text": "Salt",
+        "aliases": [],
+        "points": 35
       },
       {
-        "text": "Birthday",
-        "aliases": [
-          "birthday party"
-        ],
-        "points": 24
+        "text": "Pepper",
+        "aliases": [],
+        "points": 25
       },
       {
-        "text": "Anniversary",
-        "aliases": [
-          "anniversary celebration"
-        ],
-        "points": 18
+        "text": "Ketchup",
+        "aliases": [],
+        "points": 16
       },
       {
-        "text": "Retirement",
-        "aliases": [
-          "retirement party"
-        ],
-        "points": 12
+        "text": "Hot sauce",
+        "aliases": [],
+        "points": 11
       },
       {
-        "text": "Promotion",
-        "aliases": [
-          "new job promotion"
-        ],
+        "text": "Cheese",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Reunion",
-        "aliases": [
-          "family reunion"
-        ],
-        "points": 6
+        "text": "Soy sauce",
+        "aliases": [],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-393",
     "category": "Food & drink",
-    "prompt": "Name something a restaurant customer might scan a QR code to do.",
+    "prompt": "Name a food people love fresh but won't touch as leftovers.",
     "answers": [
       {
-        "text": "View the menu",
-        "aliases": [
-          "read menu"
-        ],
-        "points": 28
+        "text": "Salad",
+        "aliases": [],
+        "points": 30
       },
       {
-        "text": "Place an order",
+        "text": "French fries",
         "aliases": [
-          "order food"
+          "fries"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Pay the bill",
-        "aliases": [
-          "make payment"
-        ],
-        "points": 19
+        "text": "Sushi",
+        "aliases": [],
+        "points": 18
       },
       {
-        "text": "Connect to Wi-Fi",
-        "aliases": [
-          "join wifi"
-        ],
-        "points": 14
+        "text": "Eggs",
+        "aliases": [],
+        "points": 13
       },
       {
-        "text": "Leave a review",
-        "aliases": [
-          "write review"
-        ],
-        "points": 10
+        "text": "Fish",
+        "aliases": [],
+        "points": 9
       },
       {
-        "text": "Join a loyalty program",
-        "aliases": [
-          "sign up for rewards"
-        ],
+        "text": "Toast",
+        "aliases": [],
         "points": 6
       }
     ]
@@ -4050,96 +3465,82 @@
   {
     "id": "food-394",
     "category": "Food & drink",
-    "prompt": "Name something that distracts people during a meal.",
+    "prompt": "Name a food someone might eat only if it's covered in chocolate.",
     "answers": [
       {
-        "text": "Phone",
-        "aliases": [
-          "cell phone"
-        ],
-        "points": 35
+        "text": "Strawberries",
+        "aliases": [],
+        "points": 34
       },
       {
-        "text": "Television",
-        "aliases": [
-          "tv"
-        ],
-        "points": 25
+        "text": "Pretzels",
+        "aliases": [],
+        "points": 24
       },
       {
-        "text": "Conversation",
-        "aliases": [
-          "talking"
-        ],
-        "points": 16
+        "text": "Raisins",
+        "aliases": [],
+        "points": 17
       },
       {
-        "text": "Children",
-        "aliases": [
-          "kids"
-        ],
+        "text": "Almonds",
+        "aliases": [],
         "points": 11
       },
       {
-        "text": "Pet",
-        "aliases": [
-          "dog or cat"
-        ],
+        "text": "Bananas",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Work",
-        "aliases": [
-          "work messages"
-        ],
-        "points": 5
+        "text": "Marshmallows",
+        "aliases": [],
+        "points": 6
       }
     ]
   },
   {
     "id": "food-395",
     "category": "Food & drink",
-    "prompt": "Name a reason someone takes a picture of their food.",
+    "prompt": "Name a reason someone wants every food on their plate kept separate.",
     "answers": [
       {
-        "text": "It looks beautiful",
+        "text": "Hates mixing flavors",
         "aliases": [
-          "pretty presentation"
+          "mixing tastes"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Special occasion",
+        "text": "Doesn't want sauce spreading",
         "aliases": [
-          "celebration"
+          "sauce"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Post on social media",
+        "text": "Hates soggy food",
         "aliases": [
-          "share online"
+          "soggy"
         ],
         "points": 18
       },
       {
-        "text": "Remember the dish",
-        "aliases": [
-          "food memory"
-        ],
+        "text": "Likes eating one thing at a time",
+        "aliases": [],
         "points": 13
       },
       {
-        "text": "Write a restaurant review",
+        "text": "Wants to see what's there",
         "aliases": [
-          "review"
+          "identify food"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Send it to a friend",
+        "text": "Doesn't like the way it looks",
         "aliases": [
-          "show a friend"
+          "appearance"
         ],
         "points": 6
       }
@@ -4148,48 +3549,40 @@
   {
     "id": "food-396",
     "category": "Food & drink",
-    "prompt": "Name something people say when politely refusing more food.",
+    "prompt": "Name a food people think smells better than it tastes.",
     "answers": [
       {
-        "text": "I am full",
-        "aliases": [
-          "im full"
-        ],
-        "points": 32
+        "text": "Coffee",
+        "aliases": [],
+        "points": 31
       },
       {
-        "text": "I already ate",
-        "aliases": [
-          "already eaten"
-        ],
+        "text": "Popcorn",
+        "aliases": [],
         "points": 24
       },
       {
-        "text": "Saving room for dessert",
+        "text": "Fresh bread",
         "aliases": [
-          "want dessert later"
+          "bread"
         ],
         "points": 18
       },
       {
-        "text": "Could I take some home?",
-        "aliases": [
-          "take it home"
-        ],
+        "text": "Bacon",
+        "aliases": [],
         "points": 12
       },
       {
-        "text": "I cannot eat that ingredient",
+        "text": "Barbecue",
         "aliases": [
-          "dietary restriction"
+          "bbq"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "I am not feeling well",
-        "aliases": [
-          "upset stomach"
-        ],
+        "text": "Cinnamon rolls",
+        "aliases": [],
         "points": 6
       }
     ]
@@ -4197,145 +3590,129 @@
   {
     "id": "food-397",
     "category": "Food & drink",
-    "prompt": "Name a challenge of eating in a moving car.",
+    "prompt": "Name a food people enjoy more for the sauce than for the food itself.",
     "answers": [
       {
-        "text": "Spilled drinks",
+        "text": "Chicken wings",
         "aliases": [
-          "drink spills"
+          "wings"
         ],
-        "points": 28
+        "points": 35
       },
       {
-        "text": "Crumbs everywhere",
+        "text": "Fries",
         "aliases": [
-          "crumbs"
+          "chips"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Bumps in the road",
+        "text": "Chicken nuggets",
         "aliases": [
-          "bumpy ride"
+          "nuggets"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "No table",
-        "aliases": [
-          "nowhere to set food"
-        ],
-        "points": 14
+        "text": "Pasta",
+        "aliases": [],
+        "points": 11
       },
       {
-        "text": "Dealing with wrappers",
-        "aliases": [
-          "wrapper mess"
-        ],
-        "points": 10
+        "text": "Salad",
+        "aliases": [],
+        "points": 8
       },
       {
-        "text": "Holding hot food",
-        "aliases": [
-          "hot food burns"
-        ],
-        "points": 6
+        "text": "Ribs",
+        "aliases": [],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-398",
     "category": "Food & drink",
-    "prompt": "Name a table manner adults remind children about.",
+    "prompt": "Name a childhood food rule that adults happily break.",
     "answers": [
       {
-        "text": "Chew with mouth closed",
+        "text": "No dessert before dinner",
         "aliases": [
-          "close your mouth"
+          "dessert first"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Use a napkin",
-        "aliases": [
-          "wipe with napkin"
-        ],
-        "points": 25
+        "text": "No eating in bed",
+        "aliases": [],
+        "points": 24
       },
       {
-        "text": "Keep elbows off the table",
+        "text": "No late-night eating",
         "aliases": [
-          "no elbows"
+          "eating late"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Wait for everyone",
-        "aliases": [
-          "wait before eating"
-        ],
-        "points": 11
+        "text": "No breakfast for dinner",
+        "aliases": [],
+        "points": 13
       },
       {
-        "text": "Do not talk with a full mouth",
-        "aliases": [
-          "no talking while chewing"
-        ],
-        "points": 8
+        "text": "Don't play with your food",
+        "aliases": [],
+        "points": 9
       },
       {
-        "text": "Ask for food to be passed",
+        "text": "No eating in front of the television",
         "aliases": [
-          "do not reach across"
+          "eat watching tv"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "food-399",
     "category": "Food & drink",
-    "prompt": "Name something you might remove before biting into food.",
+    "prompt": "Name something people say when challenged to eat a food they hate.",
     "answers": [
       {
-        "text": "Wrapper",
+        "text": "How much will you pay me",
         "aliases": [
-          "packaging"
+          "pay me"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Peel",
-        "aliases": [
-          "skin"
-        ],
+        "text": "You first",
+        "aliases": [],
         "points": 24
       },
       {
-        "text": "Shell",
+        "text": "No way",
         "aliases": [
-          "hard shell"
+          "never"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Pit",
+        "text": "Just one bite",
         "aliases": [
-          "stone"
+          "one bite"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Bone",
-        "aliases": [
-          "bones"
-        ],
-        "points": 9
+        "text": "Let me close my eyes",
+        "aliases": [],
+        "points": 8
       },
       {
-        "text": "Toothpick",
+        "text": "Get me some water",
         "aliases": [
-          "cocktail stick"
+          "water"
         ],
         "points": 6
       }
@@ -4344,48 +3721,36 @@
   {
     "id": "food-400",
     "category": "Food & drink",
-    "prompt": "Name a food people have a personal ritual for eating.",
+    "prompt": "Name a food people argue should be eaten only in a particular season.",
     "answers": [
       {
-        "text": "Sandwich",
-        "aliases": [
-          "sandwiches"
-        ],
+        "text": "Pumpkin pie",
+        "aliases": [],
         "points": 32
       },
       {
-        "text": "Sandwich cookie",
-        "aliases": [
-          "oreo"
-        ],
-        "points": 24
+        "text": "Ice cream",
+        "aliases": [],
+        "points": 23
       },
       {
-        "text": "Cupcake",
-        "aliases": [
-          "cupcakes"
-        ],
+        "text": "Soup",
+        "aliases": [],
         "points": 18
       },
       {
-        "text": "Cereal",
-        "aliases": [
-          "breakfast cereal"
-        ],
-        "points": 12
+        "text": "Watermelon",
+        "aliases": [],
+        "points": 13
       },
       {
-        "text": "Pizza",
-        "aliases": [
-          "pizza slice"
-        ],
+        "text": "Hot cross buns",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Corn on the cob",
-        "aliases": [
-          "corn cob"
-        ],
+        "text": "Fruitcake",
+        "aliases": [],
         "points": 6
       }
     ]

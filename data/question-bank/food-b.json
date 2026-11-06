@@ -2,42 +2,48 @@
   {
     "id": "food-041",
     "category": "Food & drink",
-    "prompt": "Name a countertop appliance people buy and then rarely use.",
+    "prompt": "Name something a restaurant host says that makes you immediately want to leave.",
     "answers": [
       {
-        "text": "Bread maker",
+        "text": "Hour-long wait",
         "aliases": [
-          "bread machine"
+          "long wait"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Waffle iron",
+        "text": "Reservations only",
         "aliases": [
-          "waffle maker"
+          "need a booking"
         ],
         "points": 24
       },
       {
-        "text": "Juicer",
+        "text": "Kitchen is closing",
         "aliases": [
-          "juice extractor"
+          "no food soon"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Ice cream maker",
-        "aliases": [],
-        "points": 13
+        "text": "You need different clothes",
+        "aliases": [
+          "dress code"
+        ],
+        "points": 11
       },
       {
-        "text": "Fondue pot",
-        "aliases": [],
-        "points": 9
+        "text": "Cash only",
+        "aliases": [
+          "no cards"
+        ],
+        "points": 8
       },
       {
-        "text": "Electric can opener",
-        "aliases": [],
+        "text": "Only outdoor seats",
+        "aliases": [
+          "sit outside"
+        ],
         "points": 6
       }
     ]
@@ -45,93 +51,96 @@
   {
     "id": "food-042",
     "category": "Food & drink",
-    "prompt": "Name a kitchen tool that cuts food.",
+    "prompt": "Name something that could make a restaurant manager come to your table.",
     "answers": [
       {
-        "text": "Chef's knife",
+        "text": "Complaint",
         "aliases": [
-          "kitchen knife",
-          "knife"
+          "bad service complaint"
         ],
         "points": 32
       },
       {
-        "text": "Kitchen scissors",
+        "text": "Food allergy problem",
         "aliases": [
-          "kitchen shears"
+          "allergic reaction"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Vegetable peeler",
+        "text": "Spill",
         "aliases": [
-          "peeler"
+          "broken glass"
         ],
         "points": 18
       },
       {
-        "text": "Mandoline",
+        "text": "Special occasion",
         "aliases": [
-          "mandolin slicer"
+          "celebration"
         ],
         "points": 12
       },
       {
-        "text": "Pizza cutter",
+        "text": "A fight",
         "aliases": [
-          "pizza wheel"
+          "argument"
         ],
         "points": 8
       },
       {
-        "text": "Apple corer",
+        "text": "Someone won't pay",
         "aliases": [
-          "apple slicer"
+          "bill dispute"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "food-043",
     "category": "Food & drink",
-    "prompt": "Name a utensil someone uses to lift food out of a hot pan.",
+    "prompt": "Name something a waiter might be tired of hearing from customers.",
     "answers": [
       {
-        "text": "Spatula",
+        "text": "What's good here",
         "aliases": [
-          "turner"
+          "recommendation"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Tongs",
+        "text": "We're ready to order",
         "aliases": [
-          "kitchen tongs"
+          "ready now"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Slotted spoon",
-        "aliases": [],
+        "text": "Can we split the bill",
+        "aliases": [
+          "separate checks"
+        ],
         "points": 19
       },
       {
-        "text": "Ladle",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Pasta server",
+        "text": "Is it free",
         "aliases": [
-          "spaghetti spoon"
+          "on the house"
         ],
-        "points": 10
+        "points": 13
       },
       {
-        "text": "Chopsticks",
+        "text": "It's my birthday",
         "aliases": [
-          "cooking chopsticks"
+          "birthday claim"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Can you hurry",
+        "aliases": [
+          "we're in a rush"
         ],
         "points": 6
       }
@@ -140,47 +149,48 @@
   {
     "id": "food-044",
     "category": "Food & drink",
-    "prompt": "Name something a cook uses to measure.",
+    "prompt": "Name a reason your food arrives after everyone else has started eating.",
     "answers": [
       {
-        "text": "Measuring cups",
+        "text": "Complicated order",
         "aliases": [
-          "measuring cup"
+          "special requests"
         ],
         "points": 35
       },
       {
-        "text": "Measuring spoons",
+        "text": "Dish takes longer",
         "aliases": [
-          "measuring spoon"
+          "slow cooking"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Kitchen scale",
+        "text": "Order was forgotten",
         "aliases": [
-          "food scale",
-          "scales"
+          "missed order"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Kitchen timer",
+        "text": "Sent to wrong table",
         "aliases": [
-          "timer"
+          "mix up"
         ],
         "points": 11
       },
       {
-        "text": "Thermometer",
+        "text": "You ordered late",
         "aliases": [
-          "food thermometer"
+          "changed order late"
         ],
         "points": 8
       },
       {
-        "text": "Ruler",
-        "aliases": [],
+        "text": "Kitchen mistake",
+        "aliases": [
+          "had to remake it"
+        ],
         "points": 5
       }
     ]
@@ -188,43 +198,47 @@
   {
     "id": "food-045",
     "category": "Food & drink",
-    "prompt": "Name something that helps protect a cook from burns.",
+    "prompt": "Name something a table might share even after agreeing everyone orders their own food.",
     "answers": [
       {
-        "text": "Oven mitts",
+        "text": "Fries",
         "aliases": [
-          "oven gloves"
+          "chips"
         ],
-        "points": 30
+        "points": 31
       },
       {
-        "text": "Pot holder",
+        "text": "Dessert",
         "aliases": [
-          "potholder"
+          "cake"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Splatter screen",
+        "text": "Bread",
         "aliases": [
-          "splatter guard"
+          "bread basket"
         ],
         "points": 18
       },
       {
-        "text": "Long tongs",
-        "aliases": [],
-        "points": 13
-      },
-      {
-        "text": "Apron",
-        "aliases": [],
-        "points": 9
-      },
-      {
-        "text": "Pan lid",
+        "text": "Appetizer",
         "aliases": [
-          "pot lid"
+          "starter"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Sauce",
+        "aliases": [
+          "dip"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pizza",
+        "aliases": [
+          "slice"
         ],
         "points": 6
       }
@@ -233,41 +247,47 @@
   {
     "id": "food-046",
     "category": "Food & drink",
-    "prompt": "Name something a cook likes to keep within reach of the stove.",
+    "prompt": "Name a reason the whole table suddenly looks at one person's plate.",
     "answers": [
       {
-        "text": "Wooden spoon",
-        "aliases": [],
-        "points": 32
+        "text": "Huge portion",
+        "aliases": [
+          "giant meal"
+        ],
+        "points": 34
       },
       {
-        "text": "Spatula",
-        "aliases": [],
+        "text": "Food is on fire",
+        "aliases": [
+          "flambe"
+        ],
         "points": 24
       },
       {
-        "text": "Kitchen towel",
+        "text": "Strange-looking dish",
         "aliases": [
-          "dish towel"
+          "weird presentation"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Spoon rest",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Timer",
+        "text": "Wrong order",
         "aliases": [
-          "kitchen timer"
+          "unexpected food"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Insect in food",
+        "aliases": [
+          "bug"
         ],
         "points": 8
       },
       {
-        "text": "Pot lid",
+        "text": "Beautiful presentation",
         "aliases": [
-          "pan lid"
+          "looks amazing"
         ],
         "points": 6
       }
@@ -276,188 +296,194 @@
   {
     "id": "food-047",
     "category": "Food & drink",
-    "prompt": "Name a job people use a blender for.",
+    "prompt": "Name something people do when they can't get a waiter's attention.",
     "answers": [
       {
-        "text": "Making smoothies",
+        "text": "Wave",
         "aliases": [
-          "smoothies"
+          "raise hand"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Pureeing soup",
+        "text": "Make eye contact",
         "aliases": [
-          "blending soup"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Crushing ice",
-        "aliases": [
-          "ice crushing"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Making sauces",
-        "aliases": [
-          "blending sauce"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Mixing pancake batter",
-        "aliases": [
-          "pancake batter"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Grinding oats",
-        "aliases": [
-          "oat flour"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-048",
-    "category": "Food & drink",
-    "prompt": "Name a job someone might do with kitchen scissors.",
-    "answers": [
-      {
-        "text": "Open food packaging",
-        "aliases": [
-          "open packets"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Snip herbs",
-        "aliases": [
-          "cut herbs"
+          "stare at waiter"
         ],
         "points": 25
       },
       {
-        "text": "Trim chicken",
+        "text": "Say excuse me",
         "aliases": [
-          "cut poultry"
+          "call out"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Cut bacon",
-        "aliases": [],
-        "points": 11
+        "text": "Ask another server",
+        "aliases": [
+          "flag someone else"
+        ],
+        "points": 12
       },
       {
-        "text": "Cut pizza",
-        "aliases": [],
+        "text": "Stand up",
+        "aliases": [
+          "go to counter"
+        ],
         "points": 8
       },
       {
-        "text": "Trim parchment paper",
+        "text": "Send a friend",
         "aliases": [
-          "cut baking paper"
+          "get someone else to ask"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "food-049",
+    "id": "food-048",
     "category": "Food & drink",
-    "prompt": "Name something people grate while preparing a meal.",
+    "prompt": "Name something that makes you regret sitting outside at a restaurant.",
     "answers": [
       {
-        "text": "Cheese",
+        "text": "Flies",
         "aliases": [
-          "grated cheese"
+          "bugs"
         ],
         "points": 30
       },
       {
-        "text": "Carrots",
+        "text": "Rain",
         "aliases": [
-          "carrot"
+          "starts raining"
         ],
         "points": 24
       },
       {
-        "text": "Ginger",
+        "text": "Heat",
         "aliases": [
-          "fresh ginger"
+          "too hot"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Garlic",
-        "aliases": [],
+        "text": "Cold wind",
+        "aliases": [
+          "chilly"
+        ],
         "points": 13
       },
       {
-        "text": "Nutmeg",
+        "text": "Street noise",
         "aliases": [
-          "whole nutmeg"
+          "traffic noise"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Lemon peel",
+        "text": "Cigarette smoke",
         "aliases": [
-          "lemon zest"
+          "people smoking"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "food-050",
+    "id": "food-049",
     "category": "Food & drink",
-    "prompt": "Name a reason a cook reaches for a strainer.",
+    "prompt": "Name a reason a customer changes tables more than once.",
     "answers": [
       {
-        "text": "Drain pasta",
+        "text": "Too noisy",
         "aliases": [
-          "draining pasta"
+          "loud neighbors"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Rinse beans",
+        "text": "Draft",
         "aliases": [
-          "wash beans"
+          "too cold"
         ],
         "points": 24
       },
       {
-        "text": "Wash berries",
+        "text": "Bad view",
         "aliases": [
-          "rinse berries"
+          "ugly view"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Strain stock",
+        "text": "Wobbly table",
         "aliases": [
-          "strain broth"
+          "uneven table"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Sift flour",
+        "text": "Too close to bathroom",
         "aliases": [
-          "sieving flour"
+          "toilet nearby"
         ],
         "points": 8
       },
       {
-        "text": "Strain tea",
+        "text": "Sun in their eyes",
         "aliases": [
-          "remove tea leaves"
+          "too bright"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-050",
+    "category": "Food & drink",
+    "prompt": "Name something a diner might do to make a tiny table feel even smaller.",
+    "answers": [
+      {
+        "text": "Order too many dishes",
+        "aliases": [
+          "lots of plates"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Put phone on table",
+        "aliases": [
+          "phones out"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Leave bags on it",
+        "aliases": [
+          "handbag on table"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Spread out menus",
+        "aliases": [
+          "menus everywhere"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Put elbows out",
+        "aliases": [
+          "take up space"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bring a large laptop",
+        "aliases": [
+          "computer"
         ],
         "points": 6
       }
@@ -466,47 +492,47 @@
   {
     "id": "food-051",
     "category": "Food & drink",
-    "prompt": "Name a reason someone likes cooking with a slow cooker.",
+    "prompt": "Name a reason someone chooses a restaurant with terrible food.",
     "answers": [
       {
-        "text": "Dinner cooks while at work",
+        "text": "Great view",
         "aliases": [
-          "cook while away"
+          "scenery"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Tender meat",
+        "text": "Convenient location",
         "aliases": [
-          "softens meat"
+          "nearby"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Less watching",
+        "text": "Cheap prices",
         "aliases": [
-          "leave it alone"
+          "low cost"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Feeds a crowd",
+        "text": "Friends like it",
         "aliases": [
-          "large batches"
+          "group choice"
         ],
-        "points": 14
+        "points": 11
       },
       {
-        "text": "Keeps food warm",
+        "text": "Good drinks",
         "aliases": [
-          "keep warm"
+          "cocktails"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Frees up the oven",
+        "text": "Attractive staff",
         "aliases": [
-          "saves oven space"
+          "cute server"
         ],
         "points": 6
       }
@@ -515,47 +541,47 @@
   {
     "id": "food-052",
     "category": "Food & drink",
-    "prompt": "Name something that can go wrong when using a microwave.",
+    "prompt": "Name something a person might say to avoid sharing their dessert.",
     "answers": [
       {
-        "text": "Cold middle",
+        "text": "I'm really hungry",
         "aliases": [
-          "uneven heating"
+          "want it all"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Food splatters",
+        "text": "You said you didn't want any",
         "aliases": [
-          "splatters everywhere"
+          "you declined"
         ],
         "points": 25
       },
       {
-        "text": "Plate gets too hot",
+        "text": "Get your own",
         "aliases": [
-          "hot plate"
+          "order one"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Food dries out",
+        "text": "I'm sick",
         "aliases": [
-          "dried out food"
+          "have a cold"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Sparks",
+        "text": "You won't like it",
         "aliases": [
-          "sparking"
+          "not your taste"
         ],
         "points": 8
       },
       {
-        "text": "Liquid boils over",
+        "text": "It's too small",
         "aliases": [
-          "boiling over"
+          "tiny portion"
         ],
         "points": 5
       }
@@ -564,47 +590,47 @@
   {
     "id": "food-053",
     "category": "Food & drink",
-    "prompt": "Name a reason a dish takes longer in the oven than expected.",
+    "prompt": "Name something that makes ordering for a large group chaotic.",
     "answers": [
       {
-        "text": "Oven was not preheated",
+        "text": "Everyone talks at once",
         "aliases": [
-          "forgot to preheat"
+          "interrupting"
         ],
         "points": 30
       },
       {
-        "text": "Temperature too low",
+        "text": "Special requests",
         "aliases": [
-          "oven too cool"
+          "substitutions"
         ],
         "points": 24
       },
       {
-        "text": "Food was frozen",
+        "text": "People keep changing minds",
         "aliases": [
-          "still frozen"
+          "indecision"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Pan is overcrowded",
+        "text": "Someone is missing",
         "aliases": [
-          "crowded pan"
+          "away from table"
         ],
         "points": 13
       },
       {
-        "text": "Opening the door",
+        "text": "Sharing plans change",
         "aliases": [
-          "checking too often"
+          "who shares what"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Bigger portion",
+        "text": "Nobody knows who's paying",
         "aliases": [
-          "larger dish"
+          "bill confusion"
         ],
         "points": 6
       }
@@ -613,96 +639,96 @@
   {
     "id": "food-054",
     "category": "Food & drink",
-    "prompt": "Name a cooking skill that takes practice to get right.",
+    "prompt": "Name a reason someone doesn't tell the waiter their meal is wrong.",
     "answers": [
       {
-        "text": "Chopping quickly",
+        "text": "Too shy",
         "aliases": [
-          "knife skills"
+          "afraid to complain"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Flipping pancakes",
+        "text": "Already started eating",
         "aliases": [
-          "pancake flipping"
+          "ate some"
         ],
         "points": 24
       },
       {
-        "text": "Poaching eggs",
+        "text": "Doesn't want another wait",
         "aliases": [
-          "poach an egg"
+          "hungry"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Kneading dough",
+        "text": "Friend ordered for them",
         "aliases": [
-          "kneading"
+          "not their order"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Piping icing",
+        "text": "Meal still looks good",
         "aliases": [
-          "cake piping"
+          "likes it anyway"
         ],
         "points": 8
       },
       {
-        "text": "Deboning fish",
+        "text": "Assumes it is their mistake",
         "aliases": [
-          "filleting fish"
+          "thinks they ordered wrong"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "food-055",
     "category": "Food & drink",
-    "prompt": "Name a dinner preparation job a child can help with.",
+    "prompt": "Name something a nervous first-date diner might accidentally knock over.",
     "answers": [
       {
-        "text": "Wash vegetables",
+        "text": "Water glass",
         "aliases": [
-          "rinse vegetables"
+          "drink"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Set the table",
+        "text": "Wine bottle",
         "aliases": [
-          "lay the table"
+          "bottle"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Stir batter",
+        "text": "Salt shaker",
         "aliases": [
-          "mix batter"
+          "seasoning"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Tear lettuce",
+        "text": "Candle",
         "aliases": [
-          "tear salad leaves"
+          "table candle"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Shape meatballs",
+        "text": "Flower vase",
         "aliases": [
-          "roll meatballs"
+          "vase"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Mash potatoes",
+        "text": "Their chair",
         "aliases": [
-          "mashing potatoes"
+          "chair"
         ],
         "points": 6
       }
@@ -711,145 +737,145 @@
   {
     "id": "food-056",
     "category": "Food & drink",
-    "prompt": "Name a kitchen job a host tries to finish before guests arrive.",
+    "prompt": "Name something people pretend to understand at a fancy restaurant.",
     "answers": [
       {
-        "text": "Set the table",
+        "text": "Wine talk",
         "aliases": [
-          "lay the table"
+          "wine descriptions"
         ],
-        "points": 35
+        "points": 34
       },
       {
-        "text": "Chop vegetables",
+        "text": "Menu language",
         "aliases": [
-          "prep vegetables"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Chill drinks",
-        "aliases": [
-          "cool beverages"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Marinate meat",
-        "aliases": [
-          "marinating"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Clean the kitchen",
-        "aliases": [
-          "tidy kitchen"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Bake dessert",
-        "aliases": [
-          "make dessert"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-057",
-    "category": "Food & drink",
-    "prompt": "Name a reason someone chooses to cook a one-pot meal.",
-    "answers": [
-      {
-        "text": "Less washing up",
-        "aliases": [
-          "fewer dishes"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Save time",
-        "aliases": [
-          "quick meal"
+          "foreign words"
         ],
         "points": 24
       },
       {
-        "text": "Small kitchen",
+        "text": "Which fork to use",
         "aliases": [
-          "limited space"
+          "cutlery rules"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Feed a crowd",
+        "text": "Tiny portions",
         "aliases": [
-          "large family"
+          "why so little food"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Use up leftovers",
+        "text": "Tasting menu",
         "aliases": [
-          "use leftovers"
+          "courses"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Flavors cook together",
+        "text": "Dress code",
         "aliases": [
-          "better flavor"
+          "what to wear"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "food-058",
+    "id": "food-057",
     "category": "Food & drink",
-    "prompt": "Name a kitchen chore people put off doing.",
+    "prompt": "Name something people might whisper about the waiter.",
     "answers": [
       {
-        "text": "Wash pots",
+        "text": "They're attractive",
         "aliases": [
-          "scrub pans"
+          "cute"
         ],
         "points": 32
       },
       {
-        "text": "Clean the oven",
+        "text": "They forgot us",
         "aliases": [
-          "oven cleaning"
+          "slow service"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Scrub the stove",
+        "text": "They're rude",
         "aliases": [
-          "clean the hob"
+          "bad attitude"
         ],
         "points": 18
       },
       {
-        "text": "Empty the dishwasher",
+        "text": "They're listening",
         "aliases": [
-          "unload dishwasher"
+          "can hear us"
         ],
         "points": 12
       },
       {
-        "text": "Mop the floor",
+        "text": "They look familiar",
         "aliases": [
-          "clean kitchen floor"
+          "know them"
         ],
         "points": 8
       },
       {
-        "text": "Sort the fridge",
+        "text": "We can't understand them",
         "aliases": [
-          "clean out fridge"
+          "hard to hear"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-058",
+    "category": "Food & drink",
+    "prompt": "Name something that makes a diner panic when the bill arrives.",
+    "answers": [
+      {
+        "text": "Forgot wallet",
+        "aliases": [
+          "no money"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Card declined",
+        "aliases": [
+          "payment fails"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hidden charges",
+        "aliases": [
+          "extra fees"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Friend expects them to pay",
+        "aliases": [
+          "stuck with bill"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Added too big a tip",
+        "aliases": [
+          "tip mistake"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Can't calculate split",
+        "aliases": [
+          "bad at math"
         ],
         "points": 6
       }
@@ -858,143 +884,145 @@
   {
     "id": "food-059",
     "category": "Food & drink",
-    "prompt": "Name a kitchen item that seems to disappear when you need it.",
+    "prompt": "Name something people disagree about when splitting a restaurant bill.",
     "answers": [
       {
-        "text": "Can opener",
+        "text": "Someone ordered more",
         "aliases": [
-          "tin opener"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Vegetable peeler",
-        "aliases": [
-          "peeler"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Measuring spoons",
-        "aliases": [
-          "measuring spoon"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Corkscrew",
-        "aliases": [
-          "wine opener"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Tongs",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Matching lid",
-        "aliases": [
-          "container lid"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-060",
-    "category": "Food & drink",
-    "prompt": "Name a job someone does on a cutting board.",
-    "answers": [
-      {
-        "text": "Chop vegetables",
-        "aliases": [
-          "dice vegetables"
+          "unequal meals"
         ],
         "points": 35
       },
       {
-        "text": "Slice bread",
+        "text": "Alcohol",
         "aliases": [
-          "cut bread"
+          "drink costs"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Carve a roast",
+        "text": "Tip",
         "aliases": [
-          "slice roast meat"
+          "gratuity"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Fillet fish",
+        "text": "Shared dishes",
         "aliases": [
-          "cut fish"
+          "appetizers"
         ],
         "points": 11
       },
       {
-        "text": "Crush garlic",
+        "text": "Who owes whom",
         "aliases": [
-          "smash garlic"
+          "already paid"
         ],
         "points": 8
       },
       {
-        "text": "Slice fruit",
+        "text": "Discount or coupon",
         "aliases": [
-          "cut fruit"
+          "who gets savings"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "food-061",
+    "id": "food-060",
     "category": "Food & drink",
-    "prompt": "Name a reason a cook stops to wash their hands.",
+    "prompt": "Name something a friend might conveniently forget when it's time to pay.",
     "answers": [
       {
-        "text": "Touched raw meat",
+        "text": "Their wallet",
         "aliases": [
-          "handled raw chicken"
+          "wallet at home"
         ],
-        "points": 30
+        "points": 31
       },
       {
-        "text": "Used the bathroom",
+        "text": "They ordered dessert",
         "aliases": [
-          "toilet break"
+          "extra food"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Sneezed",
+        "text": "Their drinks",
         "aliases": [
-          "coughed"
+          "alcohol"
         ],
         "points": 18
       },
       {
-        "text": "Touched a pet",
+        "text": "They borrowed money",
         "aliases": [
-          "petted the dog"
+          "owe you"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Handled garbage",
+        "text": "Tax",
         "aliases": [
-          "touched trash"
+          "sales tax"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Starting to cook",
+        "text": "Tip",
         "aliases": [
-          "before cooking"
+          "gratuity"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-061",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone insists on paying for everyone at dinner.",
+    "answers": [
+      {
+        "text": "Celebrating",
+        "aliases": [
+          "special occasion"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Showing off",
+        "aliases": [
+          "impress people"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Saying thank you",
+        "aliases": [
+          "repaying a favor"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Business expense",
+        "aliases": [
+          "company pays"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Feels guilty",
+        "aliases": [
+          "making up for something"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Lost a bet",
+        "aliases": [
+          "bet payment"
         ],
         "points": 6
       }
@@ -1003,96 +1031,96 @@
   {
     "id": "food-062",
     "category": "Food & drink",
-    "prompt": "Name a reason food sticks to a frying pan.",
+    "prompt": "Name something that makes leaving a tip confusing.",
     "answers": [
       {
-        "text": "Not enough oil",
+        "text": "Service charge already added",
         "aliases": [
-          "no oil"
+          "gratuity included"
         ],
         "points": 32
       },
       {
-        "text": "Pan was too cold",
+        "text": "Bad service",
         "aliases": [
-          "pan not hot"
+          "rude server"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Moved food too soon",
+        "text": "Shared bill",
         "aliases": [
-          "flipped too early"
+          "group payment"
         ],
         "points": 18
       },
       {
-        "text": "Damaged coating",
+        "text": "Cash shortage",
         "aliases": [
-          "worn nonstick"
+          "no change"
         ],
         "points": 12
       },
       {
-        "text": "Dirty pan",
+        "text": "Tip screen percentages",
         "aliases": [
-          "old food residue"
+          "suggested tip"
         ],
         "points": 8
       },
       {
-        "text": "Sugary sauce",
+        "text": "Different country",
         "aliases": [
-          "sticky glaze"
+          "local custom"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "food-063",
     "category": "Food & drink",
-    "prompt": "Name a clue a cook uses to decide food is done.",
+    "prompt": "Name something people do to delay leaving after finishing their meal.",
     "answers": [
       {
-        "text": "Timer rings",
+        "text": "Order coffee",
         "aliases": [
-          "timer goes off"
+          "get another drink"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Golden brown color",
+        "text": "Keep chatting",
         "aliases": [
-          "looks browned"
+          "long conversation"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Thermometer reading",
+        "text": "Order dessert",
         "aliases": [
-          "right temperature"
+          "one more course"
         ],
         "points": 19
       },
       {
-        "text": "Clean toothpick",
+        "text": "Wait for someone",
         "aliases": [
-          "toothpick test"
+          "bathroom trip"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Firm texture",
+        "text": "Ask for leftovers",
         "aliases": [
-          "feels firm"
+          "takeout box"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Bubbling sauce",
+        "text": "Argue over the bill",
         "aliases": [
-          "bubbling"
+          "payment debate"
         ],
         "points": 6
       }
@@ -1101,33 +1129,2740 @@
   {
     "id": "food-064",
     "category": "Food & drink",
-    "prompt": "Name something that distracts a person while they are cooking.",
+    "prompt": "Name a sign a restaurant really wants you to leave.",
     "answers": [
       {
-        "text": "Phone call",
+        "text": "Stacks chairs",
         "aliases": [
-          "phone ringing"
+          "chairs on tables"
         ],
         "points": 35
       },
       {
-        "text": "Children",
+        "text": "Turns off music",
         "aliases": [
-          "kids"
+          "music stops"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Brings bill unasked",
+        "aliases": [
+          "drops check"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Clears everything",
+        "aliases": [
+          "takes plates away"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Dims or brightens lights",
+        "aliases": [
+          "changes lights"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Starts cleaning around you",
+        "aliases": [
+          "mopping"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-065",
+    "category": "Food & drink",
+    "prompt": "Name something that makes a waiter remember a customer.",
+    "answers": [
+      {
+        "text": "Big tip",
+        "aliases": [
+          "generous tipper"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Rudeness",
+        "aliases": [
+          "difficult customer"
         ],
         "points": 25
       },
       {
-        "text": "Television",
+        "text": "Same order every time",
         "aliases": [
-          "tv"
+          "regular order"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Famous person",
+        "aliases": [
+          "celebrity"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Funny conversation",
+        "aliases": [
+          "jokes"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Unusual request",
+        "aliases": [
+          "strange order"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-066",
+    "category": "Food & drink",
+    "prompt": "Name something a diner might accidentally leave at a restaurant.",
+    "answers": [
+      {
+        "text": "Phone",
+        "aliases": [
+          "cell phone"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Wallet",
+        "aliases": [
+          "purse"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Coat",
+        "aliases": [
+          "jacket"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Umbrella",
+        "aliases": [
+          "brolly"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Glasses",
+        "aliases": [
+          "spectacles"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Leftovers",
+        "aliases": [
+          "takeout box"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-067",
+    "category": "Food & drink",
+    "prompt": "Name something a person eats in the car before bringing takeout home.",
+    "answers": [
+      {
+        "text": "Fries",
+        "aliases": [
+          "french fries"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Chicken nuggets",
+        "aliases": [
+          "nuggets"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Pizza slice",
+        "aliases": [
+          "pizza"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Onion rings",
+        "aliases": [
+          "rings"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Chips",
+        "aliases": [
+          "crisps"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bread roll",
+        "aliases": [
+          "bread"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-068",
+    "category": "Food & drink",
+    "prompt": "Name something disappointing you discover when you open your takeout bag.",
+    "answers": [
+      {
+        "text": "Missing food",
+        "aliases": [
+          "forgotten item"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Wrong order",
+        "aliases": [
+          "someone else's meal"
+        ],
+        "points": 24
+      },
+      {
+        "text": "No sauce",
+        "aliases": [
+          "missing condiments"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Cold food",
+        "aliases": [
+          "not warm"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Spilled drink",
+        "aliases": [
+          "leaking cup"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Tiny portion",
+        "aliases": [
+          "not enough food"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-069",
+    "category": "Food & drink",
+    "prompt": "Name something that makes you wish you had chosen contactless food delivery.",
+    "answers": [
+      {
+        "text": "Still in pajamas",
+        "aliases": [
+          "not dressed",
+          "wearing pajamas"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Dog won't stop barking",
+        "aliases": [
+          "barking dog",
+          "excited dog"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Driver is someone you know",
+        "aliases": [
+          "recognize the driver",
+          "your ex delivers"
         ],
         "points": 16
       },
       {
-        "text": "Doorbell",
+        "text": "You're in the shower",
         "aliases": [
-          "someone at the door"
+          "taking a shower",
+          "in the bath"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Baby just fell asleep",
+        "aliases": [
+          "sleeping baby",
+          "baby is asleep"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Messy hands",
+        "aliases": [
+          "hands covered in food",
+          "sticky hands"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-070",
+    "category": "Food & drink",
+    "prompt": "Name a reason people watch the food delivery map like a live sporting event.",
+    "answers": [
+      {
+        "text": "Very hungry",
+        "aliases": [
+          "starving"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Driver going wrong way",
+        "aliases": [
+          "wrong route"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Food is late",
+        "aliases": [
+          "long wait"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Worried it'll get cold",
+        "aliases": [
+          "cold food"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Need to meet driver",
+        "aliases": [
+          "watch arrival"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Driver stopped moving",
+        "aliases": [
+          "stuck in place"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-071",
+    "category": "Food & drink",
+    "prompt": "Name something that goes wrong when ordering food with a group chat.",
+    "answers": [
+      {
+        "text": "People reply too late",
+        "aliases": [
+          "late orders"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Someone changes their mind",
+        "aliases": [
+          "new choice"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Order gets missed",
+        "aliases": [
+          "forgot someone"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Payment is missing",
+        "aliases": [
+          "hasn't paid"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Conflicting requests",
+        "aliases": [
+          "can't agree"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Wrong address",
+        "aliases": [
+          "delivery location"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-072",
+    "category": "Food & drink",
+    "prompt": "Name something that might be missing from a takeout order besides food.",
+    "answers": [
+      {
+        "text": "Napkins",
+        "aliases": [
+          "serviettes"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Utensils",
+        "aliases": [
+          "cutlery"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Straw",
+        "aliases": [
+          "drinking straw"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Receipt",
+        "aliases": [
+          "bill"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Condiments",
+        "aliases": [
+          "sauce packets"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Drink lid",
+        "aliases": [
+          "lid"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-073",
+    "category": "Food & drink",
+    "prompt": "Name a reason a takeout container leaks in your bag.",
+    "answers": [
+      {
+        "text": "Lid isn't closed",
+        "aliases": [
+          "loose lid"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Bag tips over",
+        "aliases": [
+          "upside down"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Too much sauce",
+        "aliases": [
+          "overfilled"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Container cracks",
+        "aliases": [
+          "broken box"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Heavy item crushes it",
+        "aliases": [
+          "squashed"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Soup is too hot",
+        "aliases": [
+          "warps container"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-074",
+    "category": "Food & drink",
+    "prompt": "Name something a person does when the delivery order is clearly for someone else.",
+    "answers": [
+      {
+        "text": "Call the restaurant",
+        "aliases": [
+          "contact restaurant"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Contact the app",
+        "aliases": [
+          "customer support"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Ask the driver",
+        "aliases": [
+          "catch driver"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Check the receipt",
+        "aliases": [
+          "read label"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Eat it anyway",
+        "aliases": [
+          "keep it"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Look for the neighbor",
+        "aliases": [
+          "find owner"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-075",
+    "category": "Food & drink",
+    "prompt": "Name something people put in delivery instructions that gets ignored.",
+    "answers": [
+      {
+        "text": "Don't make noise",
+        "aliases": [
+          "don't ring doorbell",
+          "don't knock",
+          "baby sleeping"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Leave at the door",
+        "aliases": [
+          "contactless"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Use side entrance",
+        "aliases": [
+          "back door"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Call on arrival",
+        "aliases": [
+          "phone me"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Gate code",
+        "aliases": [
+          "entry code"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hand it to me",
+        "aliases": [
+          "give it in person",
+          "hand delivery"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-076",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone hides evidence that they ordered takeout.",
+    "answers": [
+      {
+        "text": "Pretended to cook",
+        "aliases": [
+          "claimed homemade"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Trying to save money",
+        "aliases": [
+          "on a budget"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Dieting",
+        "aliases": [
+          "supposed to eat healthy"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Didn't buy any for others",
+        "aliases": [
+          "secret meal"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Orders too often",
+        "aliases": [
+          "again"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Partner dislikes that place",
+        "aliases": [
+          "disapproved restaurant"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-077",
+    "category": "Food & drink",
+    "prompt": "Name something people do to make takeout look homemade.",
+    "answers": [
+      {
+        "text": "Put it on plates",
+        "aliases": [
+          "replate"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Hide packaging",
+        "aliases": [
+          "throw away boxes"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Add a garnish",
+        "aliases": [
+          "fresh herbs"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Heat it in a pan",
+        "aliases": [
+          "use cookware"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Make a side dish",
+        "aliases": [
+          "add salad"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Mess up the kitchen",
+        "aliases": [
+          "leave cooking evidence"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-078",
+    "category": "Food & drink",
+    "prompt": "Name something people forget when picking up takeout.",
+    "answers": [
+      {
+        "text": "Check the bag",
+        "aliases": [
+          "look inside"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Drinks",
+        "aliases": [
+          "beverages"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pay",
+        "aliases": [
+          "settle bill"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Order number",
+        "aliases": [
+          "confirmation"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Bring their wallet",
+        "aliases": [
+          "payment card"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Extra sauce",
+        "aliases": [
+          "condiments"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-079",
+    "category": "Food & drink",
+    "prompt": "Name a reason drive-through ordering takes longer than eating the meal.",
+    "answers": [
+      {
+        "text": "Can't decide",
+        "aliases": [
+          "studying menu"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Long line",
+        "aliases": [
+          "lots of cars"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Complicated order",
+        "aliases": [
+          "many changes"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Speaker doesn't work",
+        "aliases": [
+          "can't hear"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Food isn't ready",
+        "aliases": [
+          "cooking delay"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Payment problem",
+        "aliases": [
+          "card trouble"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-080",
+    "category": "Food & drink",
+    "prompt": "Name a reason a passenger regrets letting the driver order their meal.",
+    "answers": [
+      {
+        "text": "Wrong main dish",
+        "aliases": [
+          "wrong burger"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Forgot the drink",
+        "aliases": [
+          "no beverage"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Portion too small",
+        "aliases": [
+          "ordered small"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Ignored their allergy",
+        "aliases": [
+          "allergen"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Forgot their whole order",
+        "aliases": [
+          "nothing for them"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Flirted with the employee",
+        "aliases": [
+          "held up the line"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-081",
+    "category": "Food & drink",
+    "prompt": "Name something you discover about your order only after driving away.",
+    "answers": [
+      {
+        "text": "Missing item",
+        "aliases": [
+          "forgotten food"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Wrong burger",
+        "aliases": [
+          "wrong meal"
+        ],
+        "points": 24
+      },
+      {
+        "text": "No straw",
+        "aliases": [
+          "no utensils"
+        ],
+        "points": 17
+      },
+      {
+        "text": "No sauce",
+        "aliases": [
+          "condiments missing"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Drink is wrong",
+        "aliases": [
+          "wrong beverage"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Food is cold",
+        "aliases": [
+          "not hot"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-082",
+    "category": "Food & drink",
+    "prompt": "Name something a fast-food customer might ask for extra of.",
+    "answers": [
+      {
+        "text": "Sauce",
+        "aliases": [
+          "condiments"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Napkins",
+        "aliases": [
+          "serviettes"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Cheese",
+        "aliases": [
+          "extra cheese"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Pickles",
+        "aliases": [
+          "extra pickles"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Ice",
+        "aliases": [
+          "more ice"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Salt",
+        "aliases": [
+          "salt packets"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-083",
+    "category": "Food & drink",
+    "prompt": "Name something that could fall between the car seats while eating drive-through food.",
+    "answers": [
+      {
+        "text": "Fries",
+        "aliases": [
+          "french fries"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Sauce packet",
+        "aliases": [
+          "ketchup packet"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Phone",
+        "aliases": [
+          "cell phone"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Payment card",
+        "aliases": [
+          "credit card"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Coins",
+        "aliases": [
+          "change"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Chicken nugget",
+        "aliases": [
+          "nugget"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-084",
+    "category": "Food & drink",
+    "prompt": "Name a reason a person eats fast food in the parking lot.",
+    "answers": [
+      {
+        "text": "Too hungry to wait",
+        "aliases": [
+          "starving"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Avoids eating while driving",
+        "aliases": [
+          "don't drive and eat"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Keeping it secret",
+        "aliases": [
+          "hiding meal"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Food tastes best hot",
+        "aliases": [
+          "eat fresh"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Needs a break",
+        "aliases": [
+          "quiet time"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Waiting for someone",
+        "aliases": [
+          "killing time"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-085",
+    "category": "Food & drink",
+    "prompt": "Name something that makes a coffee order sound more complicated than a meal.",
+    "answers": [
+      {
+        "text": "Milk choice",
+        "aliases": [
+          "alternative milk"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Number of shots",
+        "aliases": [
+          "extra espresso"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Temperature",
+        "aliases": [
+          "extra hot"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Sweetness",
+        "aliases": [
+          "syrup pumps"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Cup size",
+        "aliases": [
+          "drink size"
+        ],
+        "points": 8
+      },
+      {
+        "text": "No foam",
+        "aliases": [
+          "foam instructions"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-086",
+    "category": "Food & drink",
+    "prompt": "Name something a barista might get wrong besides the drink.",
+    "answers": [
+      {
+        "text": "Your name",
+        "aliases": [
+          "name on cup"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Cup size",
+        "aliases": [
+          "size"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Change",
+        "aliases": [
+          "money back"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Food order",
+        "aliases": [
+          "pastry"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Price",
+        "aliases": [
+          "total"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pickup person",
+        "aliases": [
+          "hands to wrong customer"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-087",
+    "category": "Food & drink",
+    "prompt": "Name a reason a customer pretends their coffee tastes fine.",
+    "answers": [
+      {
+        "text": "Too shy to complain",
+        "aliases": [
+          "non confrontational"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Long line",
+        "aliases": [
+          "don't want to hold people up"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Already late",
+        "aliases": [
+          "in a hurry"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Friend bought it",
+        "aliases": [
+          "gift"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Doesn't know coffee",
+        "aliases": [
+          "can't describe problem"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Doesn't want waste",
+        "aliases": [
+          "already paid"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-088",
+    "category": "Food & drink",
+    "prompt": "Name a reason you'd secretly be relieved if someone canceled your dinner reservation.",
+    "answers": [
+      {
+        "text": "Too expensive",
+        "aliases": [
+          "couldn't afford it"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Too tired",
+        "aliases": [
+          "exhausted"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Don't like the company",
+        "aliases": [
+          "don't want to see them"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Don't want to dress up",
+        "aliases": [
+          "getting ready"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Want a quiet night",
+        "aliases": [
+          "stay home"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Not hungry",
+        "aliases": [
+          "already ate"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-089",
+    "category": "Food & drink",
+    "prompt": "Name something you might order from room service just because you can eat it in bed.",
+    "answers": [
+      {
+        "text": "Breakfast",
+        "aliases": [
+          "eggs and bacon"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Burger",
+        "aliases": [
+          "cheeseburger"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pizza",
+        "aliases": [
+          "personal pizza"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Dessert",
+        "aliases": [
+          "cake"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Fries",
+        "aliases": [
+          "french fries"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Champagne",
+        "aliases": [
+          "sparkling wine"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-090",
+    "category": "Food & drink",
+    "prompt": "Name something that makes hotel room service feel awkward.",
+    "answers": [
+      {
+        "text": "You're in pajamas",
+        "aliases": [
+          "not dressed"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Messy room",
+        "aliases": [
+          "clothes everywhere"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Don't know whether to tip",
+        "aliases": [
+          "tip confusion"
+        ],
+        "points": 18
+      },
+      {
+        "text": "No cash",
+        "aliases": [
+          "can't tip"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Someone is asleep",
+        "aliases": [
+          "sleeping partner"
+        ],
+        "points": 8
+      },
+      {
+        "text": "You ordered too much",
+        "aliases": [
+          "huge meal"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-091",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone takes forever at a breakfast buffet.",
+    "answers": [
+      {
+        "text": "Can't choose",
+        "aliases": [
+          "too many options"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Waiting for fresh food",
+        "aliases": [
+          "empty trays"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Making custom eggs",
+        "aliases": [
+          "omelet station"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Talking to everyone",
+        "aliases": [
+          "chatting"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Going back for more",
+        "aliases": [
+          "multiple trips"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Taking photos",
+        "aliases": [
+          "pictures"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-092",
+    "category": "Food & drink",
+    "prompt": "Name something you would be embarrassed to have a waiter announce to the whole table.",
+    "answers": [
+      {
+        "text": "Your card was declined",
+        "aliases": [
+          "payment declined"
+        ],
+        "points": 35
+      },
+      {
+        "text": "It's your birthday",
+        "aliases": [
+          "birthday"
+        ],
+        "points": 25
+      },
+      {
+        "text": "You have food on your face",
+        "aliases": [
+          "food on face"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Your zipper is down",
+        "aliases": [
+          "fly is open"
+        ],
+        "points": 11
+      },
+      {
+        "text": "You ordered from the kids' menu",
+        "aliases": [
+          "kids meal"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Your coupon expired",
+        "aliases": [
+          "expired coupon"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-093",
+    "category": "Food & drink",
+    "prompt": "Name something that could ruin a surprise restaurant proposal.",
+    "answers": [
+      {
+        "text": "Partner says no",
+        "aliases": [
+          "rejection"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Ring gets lost",
+        "aliases": [
+          "missing ring"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Wrong dessert",
+        "aliases": [
+          "ring on wrong plate"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Partner sees it early",
+        "aliases": [
+          "surprise spoiled"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Waiter interrupts",
+        "aliases": [
+          "bad timing"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Restaurant too loud",
+        "aliases": [
+          "can't hear"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-094",
+    "category": "Food & drink",
+    "prompt": "Name something someone might do to seem sophisticated when ordering wine.",
+    "answers": [
+      {
+        "text": "Swirl the glass",
+        "aliases": [
+          "swirling"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Smell the wine",
+        "aliases": [
+          "sniff it"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Use fancy words",
+        "aliases": [
+          "describe notes"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Ask about the year",
+        "aliases": [
+          "vintage"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Choose expensive bottle",
+        "aliases": [
+          "highest price"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pretend to recognize the label",
+        "aliases": [
+          "know brand"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-095",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone orders water while everyone else orders alcohol.",
+    "answers": [
+      {
+        "text": "Driving",
+        "aliases": [
+          "designated driver"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Saving money",
+        "aliases": [
+          "too expensive"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Doesn't drink",
+        "aliases": [
+          "sober"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Work tomorrow",
+        "aliases": [
+          "early morning"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Taking medication",
+        "aliases": [
+          "medicine"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Training for an event",
+        "aliases": [
+          "athletic training",
+          "race training"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-096",
+    "category": "Food & drink",
+    "prompt": "Name something that can go wrong when a waiter pours wine at the table.",
+    "answers": [
+      {
+        "text": "Spills wine",
+        "aliases": [
+          "spills on clothes",
+          "spills on table"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Knocks over glass",
+        "aliases": [
+          "tips glass"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cork breaks",
+        "aliases": [
+          "broken cork"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Pours too much",
+        "aliases": [
+          "overfills"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Wrong wine",
+        "aliases": [
+          "wrong bottle"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Dirty wine glass",
+        "aliases": [
+          "dirty glass",
+          "stained glass"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-097",
+    "category": "Food & drink",
+    "prompt": "Name something from a restaurant table a customer might sneak into their bag.",
+    "answers": [
+      {
+        "text": "Cutlery",
+        "aliases": [
+          "silverware"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Glass",
+        "aliases": [
+          "drinking glass"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Bread rolls",
+        "aliases": [
+          "bread"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Salt shaker",
+        "aliases": [
+          "pepper shaker"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Napkins",
+        "aliases": [
+          "serviettes"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sauce bottle",
+        "aliases": [
+          "ketchup bottle"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-098",
+    "category": "Food & drink",
+    "prompt": "Name something you say when the waiter catches you looking at someone else's dessert.",
+    "answers": [
+      {
+        "text": "What is that",
+        "aliases": [
+          "name of dessert"
+        ],
+        "points": 30
+      },
+      {
+        "text": "That looks amazing",
+        "aliases": [
+          "looks delicious"
+        ],
+        "points": 24
+      },
+      {
+        "text": "I'll have one",
+        "aliases": [
+          "order same"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Just looking",
+        "aliases": [
+          "admiring"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Is that for sharing",
+        "aliases": [
+          "portion question"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bring another spoon",
+        "aliases": [
+          "want a taste"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-099",
+    "category": "Food & drink",
+    "prompt": "Name something a stranger at the next table might do that distracts you from your meal.",
+    "answers": [
+      {
+        "text": "Talk loudly",
+        "aliases": [
+          "loud conversation"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Argue",
+        "aliases": [
+          "fight"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Propose",
+        "aliases": [
+          "marriage proposal"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Eat messily",
+        "aliases": [
+          "food everywhere"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Film themselves",
+        "aliases": [
+          "record a video"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bring a pet",
+        "aliases": [
+          "dog at table"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-100",
+    "category": "Food & drink",
+    "prompt": "Name something a restaurant might do that makes you feel rushed.",
+    "answers": [
+      {
+        "text": "Clears plate too early",
+        "aliases": [
+          "takes unfinished food"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Brings bill early",
+        "aliases": [
+          "check before done"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Keeps asking if done",
+        "aliases": [
+          "finished yet"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Seats next group nearby",
+        "aliases": [
+          "people waiting"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Limits table time",
+        "aliases": [
+          "time limit"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Serves courses together",
+        "aliases": [
+          "all at once"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-101",
+    "category": "Food & drink",
+    "prompt": "Name something a slow eater wishes everyone else at the table would stop doing.",
+    "answers": [
+      {
+        "text": "Staring at them",
+        "aliases": [
+          "watching eat"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Asking if finished",
+        "aliases": [
+          "done yet"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Taking their plate",
+        "aliases": [
+          "clearing food"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Ordering next course",
+        "aliases": [
+          "moving on"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Joking about speed",
+        "aliases": [
+          "teasing"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Leaving the table",
+        "aliases": [
+          "getting up"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-102",
+    "category": "Food & drink",
+    "prompt": "Name something someone might use to reserve a seat at a food court.",
+    "answers": [
+      {
+        "text": "Jacket",
+        "aliases": [
+          "coat"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Bag",
+        "aliases": [
+          "backpack"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Tray",
+        "aliases": [
+          "food tray"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Friend",
+        "aliases": [
+          "person holds seat"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Drink",
+        "aliases": [
+          "cup"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Napkins",
+        "aliases": [
+          "napkin packet"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-103",
+    "category": "Food & drink",
+    "prompt": "Name something that makes carrying a food-court tray feel like a balancing act.",
+    "answers": [
+      {
+        "text": "Full drinks",
+        "aliases": [
+          "cups filled high"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Too many plates",
+        "aliases": [
+          "heavy load"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Crowded aisle",
+        "aliases": [
+          "people in way"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Wobbly tray",
+        "aliases": [
+          "bent tray"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Child pulling at you",
+        "aliases": [
+          "kid underfoot"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Slippery floor",
+        "aliases": [
+          "wet floor"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-104",
+    "category": "Food & drink",
+    "prompt": "Name a reason you might avoid the restaurant where you used to work.",
+    "answers": [
+      {
+        "text": "Know kitchen secrets",
+        "aliases": [
+          "know what goes on"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Former boss",
+        "aliases": [
+          "bad manager"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Awkward coworkers",
+        "aliases": [
+          "old colleagues"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Bad memories",
+        "aliases": [
+          "hated job"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Don't want favors asked",
+        "aliases": [
+          "asked to help"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Still owe money",
+        "aliases": [
+          "unpaid tab"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-105",
+    "category": "Food & drink",
+    "prompt": "Name something a customer does that would make a server dread their table.",
+    "answers": [
+      {
+        "text": "Snaps fingers",
+        "aliases": [
+          "whistles"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Keeps changing order",
+        "aliases": [
+          "indecisive"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Makes endless complaints",
+        "aliases": [
+          "never happy"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Leaves a huge mess",
+        "aliases": [
+          "messy table"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Flirts aggressively",
+        "aliases": [
+          "unwanted flirting"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Won't control children",
+        "aliases": [
+          "kids running"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-106",
+    "category": "Food & drink",
+    "prompt": "Name someone you'd hate to run into during a dinner date.",
+    "answers": [
+      {
+        "text": "Your ex",
+        "aliases": [
+          "ex partner"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Your boss",
+        "aliases": [
+          "manager"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Your parents",
+        "aliases": [
+          "mom and dad"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Someone you owe money",
+        "aliases": [
+          "creditor"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Your date's ex",
+        "aliases": [
+          "their ex"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Nosy neighbor",
+        "aliases": [
+          "gossiping neighbor"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-107",
+    "category": "Food & drink",
+    "prompt": "Name a reason a restaurant gets a terrible review that has little to do with the food.",
+    "answers": [
+      {
+        "text": "Rude staff",
+        "aliases": [
+          "bad service"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Long wait",
+        "aliases": [
+          "slow service"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Dirty bathrooms",
+        "aliases": [
+          "filthy toilets"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Noisy atmosphere",
+        "aliases": [
+          "too loud"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Parking problem",
+        "aliases": [
+          "no parking"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Billing mistake",
+        "aliases": [
+          "overcharged"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-108",
+    "category": "Food & drink",
+    "prompt": "Name something that makes a restaurant review suspicious.",
+    "answers": [
+      {
+        "text": "Sounds like an advertisement",
+        "aliases": [
+          "too promotional"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Reviewer knows owner",
+        "aliases": [
+          "friend of owner"
+        ],
+        "points": 24
+      },
+      {
+        "text": "No meal details",
+        "aliases": [
+          "vague"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Identical wording",
+        "aliases": [
+          "copied reviews"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Extreme praise for everything",
+        "aliases": [
+          "too perfect"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Brand new account",
+        "aliases": [
+          "only one review"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-109",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone chooses a restaurant just for its photos.",
+    "answers": [
+      {
+        "text": "Beautiful view",
+        "aliases": [
+          "scenery"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Fancy decor",
+        "aliases": [
+          "interior"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Novelty dish",
+        "aliases": [
+          "unusual food"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Celebrity sightings",
+        "aliases": [
+          "famous people"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Photogenic dessert",
+        "aliases": [
+          "pretty sweets"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Famous sign",
+        "aliases": [
+          "landmark"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-110",
+    "category": "Food & drink",
+    "prompt": "Name something people might complain about after dining at an internet-famous restaurant.",
+    "answers": [
+      {
+        "text": "Long queue",
+        "aliases": [
+          "wait"
+        ],
+        "points": 31
+      },
+      {
+        "text": "High price",
+        "aliases": [
+          "overpriced"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Tiny portions",
+        "aliases": [
+          "not enough food"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Food looks better than it tastes",
+        "aliases": [
+          "bad flavor"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Too many photos",
+        "aliases": [
+          "people filming"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Rude service",
+        "aliases": [
+          "bad staff"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-111",
+    "category": "Food & drink",
+    "prompt": "Name something a restaurant customer wishes they could order by pointing.",
+    "answers": [
+      {
+        "text": "Dish on another table",
+        "aliases": [
+          "someone else's meal"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Unpronounceable menu item",
+        "aliases": [
+          "foreign name"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Food in a picture",
+        "aliases": [
+          "menu photo"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Dessert cart item",
+        "aliases": [
+          "dessert display"
+        ],
+        "points": 11
+      },
+      {
+        "text": "What their friend has",
+        "aliases": [
+          "same order"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Daily special on board",
+        "aliases": [
+          "chalkboard special"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-112",
+    "category": "Food & drink",
+    "prompt": "Name something you'd offer a friend who ordered food that's much too spicy.",
+    "answers": [
+      {
+        "text": "Water",
+        "aliases": [
+          "glass of water"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Milk",
+        "aliases": [
+          "dairy drink"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Bread",
+        "aliases": [
+          "bread roll"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Rice",
+        "aliases": [
+          "plain rice"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Your meal",
+        "aliases": [
+          "swap dishes"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Napkin",
+        "aliases": [
+          "tissue"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-113",
+    "category": "Food & drink",
+    "prompt": "Name something someone does after pretending they can handle the hottest sauce.",
+    "answers": [
+      {
+        "text": "Cries",
+        "aliases": [
+          "eyes water"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Gulps milk",
+        "aliases": [
+          "drinks milk"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Sweats",
+        "aliases": [
+          "perspires"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Gasps",
+        "aliases": [
+          "breathes heavily"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Fans their mouth",
+        "aliases": [
+          "waves at mouth"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Runs to the bathroom",
+        "aliases": [
+          "needs toilet"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-114",
+    "category": "Food & drink",
+    "prompt": "Name a reason you might lie about enjoying a restaurant someone else chose.",
+    "answers": [
+      {
+        "text": "It's their favorite",
+        "aliases": [
+          "they love it"
+        ],
+        "points": 35
+      },
+      {
+        "text": "They paid",
+        "aliases": [
+          "their treat"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Special occasion",
+        "aliases": [
+          "celebration"
+        ],
+        "points": 17
+      },
+      {
+        "text": "They work there",
+        "aliases": [
+          "their job"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Don't want an argument",
+        "aliases": [
+          "keep peace"
+        ],
+        "points": 8
+      },
+      {
+        "text": "They own it",
+        "aliases": [
+          "friend's restaurant"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-115",
+    "category": "Food & drink",
+    "prompt": "Name something people do with the bread basket while waiting for dinner.",
+    "answers": [
+      {
+        "text": "Finish all the bread",
+        "aliases": [
+          "eat it all"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Argue over last roll",
+        "aliases": [
+          "last piece"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Ask for more",
+        "aliases": [
+          "refill"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Make butter sandwiches",
+        "aliases": [
+          "butter bread"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Stack the rolls",
+        "aliases": [
+          "play with food"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Save some for sauce",
+        "aliases": [
+          "dip later"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-116",
+    "category": "Food & drink",
+    "prompt": "Name something a waiter hears from a person who clearly wants the last bite.",
+    "answers": [
+      {
+        "text": "Are you finished",
+        "aliases": [
+          "done with that"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Don't let it go to waste",
+        "aliases": [
+          "waste not"
+        ],
+        "points": 24
+      },
+      {
+        "text": "That looks good",
+        "aliases": [
+          "looks tasty"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Want to split it",
+        "aliases": [
+          "share"
+        ],
+        "points": 11
+      },
+      {
+        "text": "I'm still hungry",
+        "aliases": [
+          "could eat more"
+        ],
+        "points": 8
+      },
+      {
+        "text": "I'll help you finish",
+        "aliases": [
+          "take it off you"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-117",
+    "category": "Food & drink",
+    "prompt": "Name something that makes breakfast with friends last until lunchtime.",
+    "answers": [
+      {
+        "text": "Endless coffee",
+        "aliases": [
+          "refills"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Long conversation",
+        "aliases": [
+          "catching up"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Late arrival",
+        "aliases": [
+          "friend is late"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Slow service",
+        "aliases": [
+          "food takes ages"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Ordering more food",
+        "aliases": [
+          "second round"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Nobody wants to leave",
+        "aliases": [
+          "comfortable booth"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-118",
+    "category": "Food & drink",
+    "prompt": "Name a reason a couple chooses a cheap restaurant for an anniversary.",
+    "answers": [
+      {
+        "text": "Saving money",
+        "aliases": [
+          "on a budget"
+        ],
+        "points": 30
+      },
+      {
+        "text": "First date was there",
+        "aliases": [
+          "sentimental"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Love the food",
+        "aliases": [
+          "favorite place"
+        ],
+        "points": 19
+      },
+      {
+        "text": "No reservations elsewhere",
+        "aliases": [
+          "fully booked"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Taking the kids",
+        "aliases": [
+          "family friendly"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Prefer it casual",
+        "aliases": [
+          "don't like fancy"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-119",
+    "category": "Food & drink",
+    "prompt": "Name something a person might secretly check under a restaurant table.",
+    "answers": [
+      {
+        "text": "Phone",
+        "aliases": [
+          "messages"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Wallet",
+        "aliases": [
+          "cash"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Clothing stain",
+        "aliases": [
+          "food on trousers"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Shoelaces",
+        "aliases": [
+          "untied shoes"
         ],
         "points": 11
       },
@@ -1139,2772 +3874,107 @@
         "points": 8
       },
       {
-        "text": "Conversation",
+        "text": "Dropped food",
         "aliases": [
-          "talking"
+          "food on floor"
         ],
         "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-065",
-    "category": "Food & drink",
-    "prompt": "Name something someone discovers halfway through following a recipe.",
-    "answers": [
-      {
-        "text": "Missing ingredient",
-        "aliases": [
-          "ran out of an ingredient"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Wrong pan",
-        "aliases": [
-          "pan is wrong size"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Not enough time",
-        "aliases": [
-          "takes too long"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Oven not preheated",
-        "aliases": [
-          "forgot preheating"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Missed a step",
-        "aliases": [
-          "skipped a step"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Wrong number of servings",
-        "aliases": [
-          "serves too many"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-066",
-    "category": "Food & drink",
-    "prompt": "Name someone or something people turn to when learning to cook.",
-    "answers": [
-      {
-        "text": "Parent",
-        "aliases": [
-          "mom",
-          "dad"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Cookbook",
-        "aliases": [
-          "recipe book"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Online video",
-        "aliases": [
-          "youtube"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Cooking class",
-        "aliases": [
-          "cookery class"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Television chef",
-        "aliases": [
-          "cooking show"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Friend",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-067",
-    "category": "Food & drink",
-    "prompt": "Name a mistake that can make a recipe fail.",
-    "answers": [
-      {
-        "text": "Wrong measurements",
-        "aliases": [
-          "measured wrong"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Skipped a step",
-        "aliases": [
-          "missed a step"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Wrong cooking temperature",
-        "aliases": [
-          "heat too high"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Bad substitution",
-        "aliases": [
-          "wrong substitute"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Expired raising agent",
-        "aliases": [
-          "old baking powder"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Wrong pan size",
-        "aliases": [
-          "pan too small"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-068",
-    "category": "Food & drink",
-    "prompt": "Name a cooking step people skip when they are in a hurry.",
-    "answers": [
-      {
-        "text": "Preheat the oven",
-        "aliases": [
-          "preheating"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Sift flour",
-        "aliases": [
-          "sifting flour"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Measure ingredients",
-        "aliases": [
-          "measuring"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Wash produce",
-        "aliases": [
-          "wash vegetables"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Let food rest",
-        "aliases": [
-          "rest the meat"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Read the whole recipe",
-        "aliases": [
-          "read recipe first"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-069",
-    "category": "Food & drink",
-    "prompt": "Name a meal preparation job that is easier with two people.",
-    "answers": [
-      {
-        "text": "Chop vegetables",
-        "aliases": [
-          "chopping"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Wash dishes",
-        "aliases": [
-          "washing up"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Peel potatoes",
-        "aliases": [
-          "peeling"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Fold dumplings",
-        "aliases": [
-          "shape dumplings"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Set the table",
-        "aliases": [
-          "lay table"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Mix a large batch",
-        "aliases": [
-          "stir heavy batter"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-070",
-    "category": "Food & drink",
-    "prompt": "Name a meal preparation task people do before the workweek starts.",
-    "answers": [
-      {
-        "text": "Plan meals",
-        "aliases": [
-          "meal planning"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Buy groceries",
-        "aliases": [
-          "grocery shopping"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Wash produce",
-        "aliases": [
-          "wash vegetables"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Cook rice",
-        "aliases": [
-          "batch cook rice"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Pack lunches",
-        "aliases": [
-          "portion lunches"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Freeze meals",
-        "aliases": [
-          "make freezer meals"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-071",
-    "category": "Food & drink",
-    "prompt": "Name a reason someone gives up on their meal preparation routine.",
-    "answers": [
-      {
-        "text": "Too busy",
-        "aliases": [
-          "no time"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Bored with the food",
-        "aliases": [
-          "same meals"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Food spoils",
-        "aliases": [
-          "goes bad"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Not enough fridge space",
-        "aliases": [
-          "small fridge"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Plans change",
-        "aliases": [
-          "unexpected plans"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Too much cleanup",
-        "aliases": [
-          "too many dishes"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-072",
-    "category": "Food & drink",
-    "prompt": "Name something people use to divide food into portions.",
-    "answers": [
-      {
-        "text": "Food containers",
-        "aliases": [
-          "meal prep boxes"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Kitchen scale",
-        "aliases": [
-          "food scale"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Ladle",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Ice cream scoop",
-        "aliases": [
-          "portion scoop"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Measuring cup",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Plate dividers",
-        "aliases": [
-          "portion dividers"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-073",
-    "category": "Food & drink",
-    "prompt": "Name something people use to carry a homemade meal away from home.",
-    "answers": [
-      {
-        "text": "Lunchbox",
-        "aliases": [
-          "lunch box"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Insulated bag",
-        "aliases": [
-          "cooler bag"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Thermos",
-        "aliases": [
-          "vacuum flask"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Casserole carrier",
-        "aliases": [
-          "casserole bag"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Foil tray",
-        "aliases": [
-          "aluminum tray"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Mason jar",
-        "aliases": [
-          "glass jar"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-074",
-    "category": "Food & drink",
-    "prompt": "Name something a cook does to keep the kitchen from getting messy.",
-    "answers": [
-      {
-        "text": "Wipe as they go",
-        "aliases": [
-          "clean as you go"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Line baking pans",
-        "aliases": [
-          "use parchment"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Use a splatter screen",
-        "aliases": [
-          "splatter guard"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Keep a scraps bowl",
-        "aliases": [
-          "garbage bowl"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Measure into small bowls",
-        "aliases": [
-          "prep bowls"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Clear counter space first",
-        "aliases": [
-          "clear the counter",
-          "make workspace"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-075",
-    "category": "Food & drink",
-    "prompt": "Name something people check before starting a backyard grill.",
-    "answers": [
-      {
-        "text": "Fuel supply",
-        "aliases": [
-          "gas or charcoal"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Clean grates",
-        "aliases": [
-          "grill cleanliness"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Weather",
-        "aliases": [
-          "rain forecast"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Food is ready",
-        "aliases": [
-          "food prepped"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Tools are nearby",
-        "aliases": [
-          "grill tools"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Safe location",
-        "aliases": [
-          "clear space"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-076",
-    "category": "Food & drink",
-    "prompt": "Name a problem someone has while grilling dinner.",
-    "answers": [
-      {
-        "text": "Burned food",
-        "aliases": [
-          "burnt food"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Raw middle",
-        "aliases": [
-          "undercooked food"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Flare-ups",
-        "aliases": [
-          "flare ups"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Food sticks",
-        "aliases": [
-          "stuck to grate"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Runs out of fuel",
-        "aliases": [
-          "empty gas tank"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Drops food through grate",
-        "aliases": [
-          "food falls through"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-077",
-    "category": "Food & drink",
-    "prompt": "Name a tool people bring outside when they grill.",
-    "answers": [
-      {
-        "text": "Tongs",
-        "aliases": [
-          "grill tongs"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Spatula",
-        "aliases": [
-          "burger flipper"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Grill brush",
-        "aliases": [
-          "wire brush"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Meat thermometer",
-        "aliases": [
-          "food thermometer"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Skewers",
-        "aliases": [
-          "kebab sticks"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Basting brush",
-        "aliases": [
-          "barbecue brush"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-078",
-    "category": "Food & drink",
-    "prompt": "Name something someone could use to cook dinner without a stove.",
-    "answers": [
-      {
-        "text": "Microwave",
-        "aliases": [
-          "microwave oven"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Grill",
-        "aliases": [
-          "barbecue"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Slow cooker",
-        "aliases": [
-          "crockpot"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Toaster oven",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Air fryer",
-        "aliases": [
-          "airfryer"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Electric griddle",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-079",
-    "category": "Food & drink",
-    "prompt": "Name a reason a pot boils over.",
-    "answers": [
-      {
-        "text": "Heat too high",
-        "aliases": [
-          "too hot"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Pot too full",
-        "aliases": [
-          "overfilled pot"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Cook walked away",
-        "aliases": [
-          "left unattended"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Lid left on",
-        "aliases": [
-          "covered pot"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Pot too narrow",
-        "aliases": [
-          "small pot"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Not stirred",
-        "aliases": [
-          "forgot to stir"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-080",
-    "category": "Food & drink",
-    "prompt": "Name something a cook uses to flatten food.",
-    "answers": [
-      {
-        "text": "Rolling pin",
-        "aliases": [
-          "dough roller"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Meat mallet",
-        "aliases": [
-          "meat tenderizer"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Hands",
-        "aliases": [
-          "palms"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Heavy skillet",
-        "aliases": [
-          "heavy pan"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Tortilla press",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Burger press",
-        "aliases": [
-          "hamburger press"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-081",
-    "category": "Food & drink",
-    "prompt": "Name a kitchen tool people complain is hard to clean.",
-    "answers": [
-      {
-        "text": "Cheese grater",
-        "aliases": [
-          "grater"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Blender",
-        "aliases": [
-          "blender jug"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Sieve",
-        "aliases": [
-          "strainer"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Garlic press",
-        "aliases": [],
-        "points": 13
-      },
-      {
-        "text": "Whisk",
-        "aliases": [],
-        "points": 9
-      },
-      {
-        "text": "Juicer",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-082",
-    "category": "Food & drink",
-    "prompt": "Name a reason someone struggles to cut food with a knife.",
-    "answers": [
-      {
-        "text": "Dull blade",
-        "aliases": [
-          "blunt knife"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Wrong knife",
-        "aliases": [
-          "wrong type of knife"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Slippery food",
-        "aliases": [
-          "food slips"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Food is frozen",
-        "aliases": [
-          "still frozen"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Unsteady cutting board",
-        "aliases": [
-          "wobbly board"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Piece is too big",
-        "aliases": [
-          "oversized food"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-083",
-    "category": "Food & drink",
-    "prompt": "Name a cooking job people often do with their bare hands.",
-    "answers": [
-      {
-        "text": "Knead dough",
-        "aliases": [
-          "kneading"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Toss salad",
-        "aliases": [
-          "mix salad"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Shape meatballs",
-        "aliases": [
-          "roll meatballs"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Rub on marinade",
-        "aliases": [
-          "rub seasoning"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Crumble cheese",
-        "aliases": [
-          "break up cheese"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Separate eggs",
-        "aliases": [
-          "separate yolks"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-084",
-    "category": "Food & drink",
-    "prompt": "Name something a cook might keep in an apron pocket.",
-    "answers": [
-      {
-        "text": "Thermometer",
-        "aliases": [
-          "food thermometer"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Pen",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Timer",
-        "aliases": [
-          "kitchen timer"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Recipe card",
-        "aliases": [
-          "recipe"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Phone",
-        "aliases": [
-          "mobile phone"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Small towel",
-        "aliases": [
-          "dish cloth"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-085",
-    "category": "Food & drink",
-    "prompt": "Name a baking step that tests people's patience.",
-    "answers": [
-      {
-        "text": "Waiting for dough to rise",
-        "aliases": [
-          "proofing dough"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Cooling a cake",
-        "aliases": [
-          "cake cooling"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Preheating the oven",
-        "aliases": [
-          "oven preheating"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Decorating",
-        "aliases": [
-          "icing a cake"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Long mixing",
-        "aliases": [
-          "beating batter"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Chilling dough",
-        "aliases": [
-          "refrigerating dough"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-086",
-    "category": "Food & drink",
-    "prompt": "Name an accident that can happen while someone is baking.",
-    "answers": [
-      {
-        "text": "Drop an egg",
-        "aliases": [
-          "dropped eggs"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Make a flour cloud",
-        "aliases": [
-          "flour everywhere"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Batter overflows",
-        "aliases": [
-          "overflowing batter"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Burn a finger",
-        "aliases": [
-          "burned fingers"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Break a mixing bowl",
-        "aliases": [
-          "broken bowl"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Spill vanilla",
-        "aliases": [
-          "spilled vanilla extract"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-087",
-    "category": "Food & drink",
-    "prompt": "Name something that can go wrong with a homemade cake.",
-    "answers": [
-      {
-        "text": "Sunken middle",
-        "aliases": [
-          "sank in middle"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Too dry",
-        "aliases": [
-          "dry cake"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Too dense",
-        "aliases": [
-          "heavy cake"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Burned bottom",
-        "aliases": [
-          "burnt bottom"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Stuck in the pan",
-        "aliases": [
-          "will not come out"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Lopsided",
-        "aliases": [
-          "uneven cake"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-088",
-    "category": "Food & drink",
-    "prompt": "Name something that makes homemade cookies disappointing.",
-    "answers": [
-      {
-        "text": "Burned",
-        "aliases": [
-          "burnt"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Too hard",
-        "aliases": [
-          "rock hard"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Spread too much",
-        "aliases": [
-          "flat cookies"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Raw in the middle",
-        "aliases": [
-          "undercooked center"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Bland",
-        "aliases": [
-          "no flavor"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Stuck to the tray",
-        "aliases": [
-          "stuck to sheet"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-089",
-    "category": "Food & drink",
-    "prompt": "Name something that can go wrong when baking a loaf of bread.",
-    "answers": [
-      {
-        "text": "Does not rise",
-        "aliases": [
-          "failed to rise"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Sticky dough",
-        "aliases": [
-          "too sticky"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Dense inside",
-        "aliases": [
-          "heavy loaf"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Burned crust",
-        "aliases": [
-          "burnt crust"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Splits along the side",
-        "aliases": [
-          "side split"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Collapses after baking",
-        "aliases": [
-          "collapsed loaf"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-090",
-    "category": "Food & drink",
-    "prompt": "Name a tool someone uses to decorate a cake.",
-    "answers": [
-      {
-        "text": "Piping bag",
-        "aliases": [
-          "icing bag"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Offset spatula",
-        "aliases": [
-          "icing spatula"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Cake turntable",
-        "aliases": [
-          "rotating cake stand"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Stencil",
-        "aliases": [
-          "cake stencil"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Fondant smoother",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Cake comb",
-        "aliases": [
-          "icing comb"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-091",
-    "category": "Food & drink",
-    "prompt": "Name a baked item people shape by hand before it goes in the oven.",
-    "answers": [
-      {
-        "text": "Bread rolls",
-        "aliases": [
-          "dinner rolls"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Pretzels",
-        "aliases": [
-          "soft pretzels"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Cookies",
-        "aliases": [
-          "biscuits"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Pie crust",
-        "aliases": [
-          "pie dough"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Croissants",
-        "aliases": [
-          "croissant"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Scones",
-        "aliases": [
-          "scone"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-092",
-    "category": "Food & drink",
-    "prompt": "Name a reason someone lines a baking pan.",
-    "answers": [
-      {
-        "text": "Prevent sticking",
-        "aliases": [
-          "stop food sticking"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Easier cleanup",
-        "aliases": [
-          "less washing"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Lift food out",
-        "aliases": [
-          "easy removal"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Prevent a burned bottom",
-        "aliases": [
-          "reduce browning"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Separate portions",
-        "aliases": [
-          "divide portions"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Catch drips",
-        "aliases": [
-          "catch spills"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-093",
-    "category": "Food & drink",
-    "prompt": "Name a homemade dessert people have to wait for while it chills.",
-    "answers": [
-      {
-        "text": "Cheesecake",
-        "aliases": [
-          "no bake cheesecake"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Pudding",
-        "aliases": [
-          "custard pudding"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Gelatin",
-        "aliases": [
-          "jello",
-          "jelly"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Tiramisu",
-        "aliases": [],
-        "points": 13
-      },
-      {
-        "text": "Mousse",
-        "aliases": [
-          "chocolate mousse"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Ice cream",
-        "aliases": [
-          "icecream"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-094",
-    "category": "Food & drink",
-    "prompt": "Name a mistake someone makes while weighing baking ingredients.",
-    "answers": [
-      {
-        "text": "Forgets to zero the scale",
-        "aliases": [
-          "forgets tare"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Uses wrong units",
-        "aliases": [
-          "grams instead of ounces"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Uses a bowl that is too small",
-        "aliases": [
-          "bowl overflows"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Adds too much",
-        "aliases": [
-          "overshoots weight"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Sets scale unevenly",
-        "aliases": [
-          "unstable scale"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Misreads the display",
-        "aliases": [
-          "reads wrong number"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-095",
-    "category": "Food & drink",
-    "prompt": "Name a place a missing cooking ingredient might finally turn up.",
-    "answers": [
-      {
-        "text": "Back of the fridge",
-        "aliases": [
-          "behind fridge food"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Top cupboard",
-        "aliases": [
-          "high shelf"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Behind cans",
-        "aliases": [
-          "back of pantry"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Freezer drawer",
-        "aliases": [
-          "in the freezer"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Spice rack",
-        "aliases": [
-          "spice drawer"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Grocery bag",
-        "aliases": [
-          "shopping bag"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-096",
-    "category": "Food & drink",
-    "prompt": "Name something people write on a container of homemade food.",
-    "answers": [
-      {
-        "text": "Dish name",
-        "aliases": [
-          "name of food"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Date cooked",
-        "aliases": [
-          "date made"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Use-by date",
-        "aliases": [
-          "expiration date"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Owner's name",
-        "aliases": [
-          "their name"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Reheating instructions",
-        "aliases": [
-          "heating directions"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Allergens",
-        "aliases": [
-          "allergy information"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-097",
-    "category": "Food & drink",
-    "prompt": "Name a reason someone refuses to eat leftovers.",
-    "answers": [
-      {
-        "text": "Tired of that meal",
-        "aliases": [
-          "already ate it"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Texture changed",
-        "aliases": [
-          "soggy food"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Smells odd",
-        "aliases": [
-          "bad smell"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Unsure how old it is",
-        "aliases": [
-          "forgot the date"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Portion too small",
-        "aliases": [
-          "not enough food"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Did not like it originally",
-        "aliases": [
-          "disliked first meal"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-098",
-    "category": "Food & drink",
-    "prompt": "Name a meal people make to use up cooked leftovers.",
-    "answers": [
-      {
-        "text": "Soup",
-        "aliases": [
-          "broth"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Stir-fry",
-        "aliases": [
-          "stir fry"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Omelet",
-        "aliases": [
-          "omelette"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Casserole",
-        "aliases": [
-          "bake"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Sandwich",
-        "aliases": [
-          "sandwiches"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Salad",
-        "aliases": [
-          "salads"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-099",
-    "category": "Food & drink",
-    "prompt": "Name something annoying about food storage containers.",
-    "answers": [
-      {
-        "text": "Missing lids",
-        "aliases": [
-          "no matching lid"
-        ],
-        "points": 28
-      },
-      {
-        "text": "They leak",
-        "aliases": [
-          "leaking"
-        ],
-        "points": 23
-      },
-      {
-        "text": "They stain",
-        "aliases": [
-          "stained plastic"
-        ],
-        "points": 19
-      },
-      {
-        "text": "They hold smells",
-        "aliases": [
-          "lingering odor"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Hard to stack",
-        "aliases": [
-          "take up space"
-        ],
-        "points": 10
-      },
-      {
-        "text": "They crack",
-        "aliases": [
-          "broken container"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-100",
-    "category": "Food & drink",
-    "prompt": "Name a way people preserve food at home.",
-    "answers": [
-      {
-        "text": "Freeze it",
-        "aliases": [
-          "freezing"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Refrigerate it",
-        "aliases": [
-          "refrigeration"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Can it",
-        "aliases": [
-          "canning",
-          "bottling"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Pickle it",
-        "aliases": [
-          "pickling"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Dry it",
-        "aliases": [
-          "dehydrating"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Ferment it",
-        "aliases": [
-          "fermentation"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-101",
-    "category": "Food & drink",
-    "prompt": "Name something people buy to organize a pantry.",
-    "answers": [
-      {
-        "text": "Storage jars",
-        "aliases": [
-          "glass jars"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Baskets",
-        "aliases": [
-          "bins"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Shelf dividers",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Labels",
-        "aliases": [
-          "label maker"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Can rack",
-        "aliases": [
-          "tin organizer"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Lazy Susan",
-        "aliases": [
-          "turntable"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-102",
-    "category": "Food & drink",
-    "prompt": "Name an unpleasant surprise people find when cleaning their pantry.",
-    "answers": [
-      {
-        "text": "Expired food",
-        "aliases": [
-          "out of date cans"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Weevils",
-        "aliases": [
-          "pantry bugs"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Spilled grains",
-        "aliases": [
-          "spilled rice"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Clutter",
-        "aliases": [
-          "too much stuff"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Duplicate purchases",
-        "aliases": [
-          "duplicates"
-        ],
-        "points": 8
-      },
-      {
-        "text": "A broken shelf",
-        "aliases": [
-          "sagging shelf"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-103",
-    "category": "Food & drink",
-    "prompt": "Name a mistake that makes a refrigerator harder to use.",
-    "answers": [
-      {
-        "text": "Overfilling it",
-        "aliases": [
-          "too much food"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Hiding leftovers",
-        "aliases": [
-          "burying leftovers"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Leaving containers open",
-        "aliases": [
-          "uncovered food"
-        ],
-        "points": 19
-      },
-      {
-        "text": "No labels",
-        "aliases": [
-          "unmarked containers"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Blocking vents",
-        "aliases": [
-          "covered air vents"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Raw meat above produce",
-        "aliases": [
-          "meat on top shelf"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-104",
-    "category": "Food & drink",
-    "prompt": "Name a food package people reuse for storage.",
-    "answers": [
-      {
-        "text": "Jam jar",
-        "aliases": [
-          "jelly jar"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Takeout container",
-        "aliases": [
-          "takeaway tub"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Resealable bag",
-        "aliases": [
-          "zip bag",
-          "ziplock bag"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Coffee tin",
-        "aliases": [
-          "coffee can"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Bread bag",
-        "aliases": [
-          "bread wrapper"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Egg carton",
-        "aliases": [
-          "egg box"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-105",
-    "category": "Food & drink",
-    "prompt": "Name something a cook forgets to take out of the freezer in time.",
-    "answers": [
-      {
-        "text": "Chicken",
-        "aliases": [
-          "frozen chicken"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Ground beef",
-        "aliases": [
-          "minced beef"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Bread",
-        "aliases": [
-          "frozen bread"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Fish",
-        "aliases": [
-          "frozen fish"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Soup",
-        "aliases": [
-          "frozen soup"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Pastry",
-        "aliases": [
-          "frozen pastry"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-106",
-    "category": "Food & drink",
-    "prompt": "Name a sign that stored food has spoiled.",
-    "answers": [
-      {
-        "text": "Mold",
-        "aliases": [
-          "mould"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Sour smell",
-        "aliases": [
-          "bad odor"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Changed color",
-        "aliases": [
-          "discoloration"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Slimy texture",
-        "aliases": [
-          "slime"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Swollen package",
-        "aliases": [
-          "bulging container"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Unexpected bubbles",
-        "aliases": [
-          "gas bubbles"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-107",
-    "category": "Food & drink",
-    "prompt": "Name a job involved in giving a refrigerator a thorough cleaning.",
-    "answers": [
-      {
-        "text": "Scrub sticky spills",
-        "aliases": [
-          "wipe spills"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Sort out old food",
-        "aliases": [
-          "discard old food"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Remove shelves",
-        "aliases": [
-          "take out shelves"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Wash produce drawers",
-        "aliases": [
-          "clean crisper drawers"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Clean door seals",
-        "aliases": [
-          "wipe rubber seals"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Remove bad odors",
-        "aliases": [
-          "deodorize fridge"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-108",
-    "category": "Food & drink",
-    "prompt": "Name a kitchen item that takes up more storage space than people expect.",
-    "answers": [
-      {
-        "text": "Slow cooker",
-        "aliases": [
-          "crockpot"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Stockpot",
-        "aliases": [
-          "large soup pot"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Stand mixer",
-        "aliases": [
-          "electric stand mixer"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Baking sheets",
-        "aliases": [
-          "cookie sheets"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Salad spinner",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Roasting pan",
-        "aliases": [
-          "roaster"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-109",
-    "category": "Food & drink",
-    "prompt": "Name something people hang up in a kitchen.",
-    "answers": [
-      {
-        "text": "Pans",
-        "aliases": [
-          "frying pans"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Spatulas",
-        "aliases": [
-          "turners"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Kitchen towels",
-        "aliases": [
-          "dish towels"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Aprons",
-        "aliases": [
-          "apron"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Oven mitts",
-        "aliases": [
-          "oven gloves"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Herbs",
-        "aliases": [
-          "drying herbs"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-110",
-    "category": "Food & drink",
-    "prompt": "Name a problem people have when packing a homemade lunch.",
-    "answers": [
-      {
-        "text": "Food leaks",
-        "aliases": [
-          "leaking container"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Bread gets soggy",
-        "aliases": [
-          "soggy sandwich"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Forget cutlery",
-        "aliases": [
-          "no fork"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Nothing fits",
-        "aliases": [
-          "lunchbox too small"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Not enough time",
-        "aliases": [
-          "rushed morning"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Food needs to stay cold",
-        "aliases": [
-          "keeping food chilled"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-111",
-    "category": "Food & drink",
-    "prompt": "Name a meal people make when they have only fifteen minutes to cook.",
-    "answers": [
-      {
-        "text": "Scrambled eggs",
-        "aliases": [
-          "eggs on toast"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Pasta",
-        "aliases": [
-          "quick pasta"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Stir-fry",
-        "aliases": [
-          "stir fry"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Sandwich",
-        "aliases": [
-          "sandwiches"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Quesadilla",
-        "aliases": [
-          "quesadillas"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Salad",
-        "aliases": [
-          "salads"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-112",
-    "category": "Food & drink",
-    "prompt": "Name something a cook does just before serving dinner.",
-    "answers": [
-      {
-        "text": "Taste for seasoning",
-        "aliases": [
-          "taste the food"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Add a garnish",
-        "aliases": [
-          "garnish"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Warm the plates",
-        "aliases": [
-          "heat plates"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Slice the meat",
-        "aliases": [
-          "carve meat"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Dress the salad",
-        "aliases": [
-          "toss salad"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Drain vegetables",
-        "aliases": [
-          "drain veg"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-113",
-    "category": "Food & drink",
-    "prompt": "Name a cooking task people set a timer for.",
-    "answers": [
-      {
-        "text": "Bake cookies",
-        "aliases": [
-          "baking cookies"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Boil eggs",
-        "aliases": [
-          "boiling eggs"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Steep tea",
-        "aliases": [
-          "brewing tea"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Let dough rise",
-        "aliases": [
-          "proofing dough"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Roast meat",
-        "aliases": [
-          "roasting meat"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Rest a steak",
-        "aliases": [
-          "resting steak"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-114",
-    "category": "Food & drink",
-    "prompt": "Name something in the kitchen people worry they forgot to turn off.",
-    "answers": [
-      {
-        "text": "Oven",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Stove burner",
-        "aliases": [
-          "hob"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Slow cooker",
-        "aliases": [
-          "crockpot"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Coffee maker",
-        "aliases": [
-          "coffeemaker"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Grill",
-        "aliases": [
-          "barbecue"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Extractor fan",
-        "aliases": [
-          "range hood",
-          "exhaust fan"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-115",
-    "category": "Food & drink",
-    "prompt": "Name a reason smoke starts filling the kitchen.",
-    "answers": [
-      {
-        "text": "Burned toast",
-        "aliases": [
-          "burnt toast"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Overheated oil",
-        "aliases": [
-          "smoking oil"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Spill in the oven",
-        "aliases": [
-          "oven spill"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Charred meat",
-        "aliases": [
-          "burned meat"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Dirty burner",
-        "aliases": [
-          "food on burner"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Burned popcorn",
-        "aliases": [
-          "burnt popcorn"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-116",
-    "category": "Food & drink",
-    "prompt": "Name something that goes in the trash during meal preparation.",
-    "answers": [
-      {
-        "text": "Vegetable peels",
-        "aliases": [
-          "peelings"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Eggshells",
-        "aliases": [
-          "egg shells"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Food packaging",
-        "aliases": [
-          "wrappers"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Bones",
-        "aliases": [
-          "meat bones"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Coffee grounds",
-        "aliases": [
-          "used coffee"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Burned food",
-        "aliases": [
-          "burnt food"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-117",
-    "category": "Food & drink",
-    "prompt": "Name a reason someone gives up on cooking dinner and orders food.",
-    "answers": [
-      {
-        "text": "Too tired",
-        "aliases": [
-          "exhausted"
-        ],
-        "points": 30
-      },
-      {
-        "text": "No groceries",
-        "aliases": [
-          "missing groceries"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Not enough time",
-        "aliases": [
-          "too late"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Kitchen is a mess",
-        "aliases": [
-          "dirty kitchen"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Dinner went wrong",
-        "aliases": [
-          "ruined the meal"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Broken stove",
-        "aliases": [
-          "oven not working"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-118",
-    "category": "Food & drink",
-    "prompt": "Name a kitchen appliance nobody volunteers to clean.",
-    "answers": [
-      {
-        "text": "Oven",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Microwave",
-        "aliases": [
-          "microwave oven"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Blender",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Toaster",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Air fryer",
-        "aliases": [
-          "airfryer"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Coffee maker",
-        "aliases": [
-          "coffee machine"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-119",
-    "category": "Food & drink",
-    "prompt": "Name a practical kitchen gift people give someone who likes to cook.",
-    "answers": [
-      {
-        "text": "Knife set",
-        "aliases": [
-          "kitchen knives"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Stand mixer",
-        "aliases": [
-          "electric mixer"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Cookware set",
-        "aliases": [
-          "pots and pans"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Air fryer",
-        "aliases": [
-          "airfryer"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Cutting board",
-        "aliases": [
-          "chopping board"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Kitchen scale",
-        "aliases": [
-          "food scale"
-        ],
-        "points": 6
       }
     ]
   },
   {
     "id": "food-120",
     "category": "Food & drink",
-    "prompt": "Name a cooking task that is awkward to do with one hand.",
+    "prompt": "Name an excuse someone uses to leave a restaurant dinner early.",
     "answers": [
       {
-        "text": "Open a jar",
+        "text": "Early start tomorrow",
         "aliases": [
-          "unscrew a lid"
+          "work in morning"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Crack an egg",
+        "text": "Babysitter needs to leave",
         "aliases": [
-          "break an egg"
+          "kids"
         ],
         "points": 25
       },
       {
-        "text": "Drain pasta",
+        "text": "Not feeling well",
         "aliases": [
-          "empty a heavy pot"
+          "sick"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Peel vegetables",
+        "text": "Pet needs feeding",
         "aliases": [
-          "use a peeler"
+          "dog"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Roll dough",
+        "text": "Long drive home",
         "aliases": [
-          "use a rolling pin"
+          "distance"
         ],
         "points": 8
       },
       {
-        "text": "Tie a roast",
+        "text": "Work call",
         "aliases": [
-          "truss meat"
+          "urgent call"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "food-121",
     "category": "Food & drink",
-    "prompt": "Name a food package that can be frustrating to open.",
+    "prompt": "Name something that could make everyone at a restaurant stare at your table.",
     "answers": [
       {
-        "text": "Pickle jar",
+        "text": "Dropped tray",
         "aliases": [
-          "sealed jar"
+          "crashing dishes"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Flour bag",
+        "text": "Loud argument",
         "aliases": [
-          "paper flour sack"
+          "fight"
         ],
         "points": 24
       },
       {
-        "text": "Vacuum-packed meat",
+        "text": "Marriage proposal",
         "aliases": [
-          "vacuum sealed meat"
+          "proposal"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Cheese wrapper",
+        "text": "Birthday singing",
         "aliases": [
-          "cheese packet"
+          "celebration"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Pull-tab can",
+        "text": "Huge order",
         "aliases": [
-          "ring pull tin"
+          "mountain of food"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Milk carton",
+        "text": "Someone choking",
         "aliases": [
-          "juice carton"
+          "coughing fit"
         ],
         "points": 6
       }
@@ -3913,96 +3983,96 @@
   {
     "id": "food-122",
     "category": "Food & drink",
-    "prompt": "Name a problem someone runs into after doubling a recipe.",
+    "prompt": "Name a reason you'd keep waiting an hour for a restaurant table.",
     "answers": [
       {
-        "text": "Pan is too small",
+        "text": "Favorite food",
         "aliases": [
-          "not enough pan space"
+          "love the meal"
         ],
         "points": 32
       },
       {
-        "text": "Cooking time changes",
+        "text": "Special occasion",
         "aliases": [
-          "takes longer"
+          "celebration"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Gets the math wrong",
+        "text": "Nothing else open",
         "aliases": [
-          "wrong quantities"
+          "no other option"
         ],
         "points": 18
       },
       {
-        "text": "Uneven mixing",
+        "text": "Friends already waiting",
         "aliases": [
-          "hard to mix"
+          "group is staying"
         ],
         "points": 12
       },
       {
-        "text": "Not enough oven room",
+        "text": "Bad weather outside",
         "aliases": [
-          "oven too full"
+          "avoid rain"
         ],
         "points": 8
       },
       {
-        "text": "Too many leftovers",
+        "text": "Paid a deposit",
         "aliases": [
-          "too much food left over"
+          "would lose money"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "food-123",
     "category": "Food & drink",
-    "prompt": "Name a shortcut someone uses to get a home-cooked dinner ready faster.",
+    "prompt": "Name something you might order from a kids' menu even though you're an adult.",
     "answers": [
       {
-        "text": "Prechopped vegetables",
+        "text": "Chicken nuggets",
         "aliases": [
-          "ready chopped vegetables"
+          "nuggets"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Batch-made sauce",
+        "text": "Mac and cheese",
         "aliases": [
-          "premade sauce"
+          "macaroni cheese"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Frozen ingredients",
+        "text": "Grilled cheese",
         "aliases": [
-          "frozen vegetables"
+          "cheese sandwich"
         ],
         "points": 19
       },
       {
-        "text": "One-tray meal",
+        "text": "Small burger",
         "aliases": [
-          "sheet pan dinner"
+          "hamburger"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Microwave a side dish",
+        "text": "Fish sticks",
         "aliases": [
-          "microwave sides"
+          "fish fingers"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Reuse leftovers",
+        "text": "Pancakes",
         "aliases": [
-          "leftover ingredients"
+          "mini pancakes"
         ],
         "points": 6
       }
@@ -4011,47 +4081,47 @@
   {
     "id": "food-124",
     "category": "Food & drink",
-    "prompt": "Name a way someone might prepare a meal during a power outage.",
+    "prompt": "Name something that makes a restaurant seem welcoming to regulars.",
     "answers": [
       {
-        "text": "Gas stove",
+        "text": "Staff know your name",
         "aliases": [
-          "gas burner"
+          "remember name"
         ],
         "points": 35
       },
       {
-        "text": "Barbecue grill",
+        "text": "Know your order",
         "aliases": [
-          "charcoal grill"
+          "usual dish"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Camping stove",
+        "text": "Save your table",
         "aliases": [
-          "camp stove"
+          "favorite seat"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Solar cooker",
+        "text": "Extra food",
         "aliases": [
-          "solar oven"
+          "free item"
         ],
         "points": 11
       },
       {
-        "text": "Make a cold meal",
+        "text": "Friendly conversation",
         "aliases": [
-          "no cook meal"
+          "chatting"
         ],
         "points": 8
       },
       {
-        "text": "Cook in a fireplace",
+        "text": "Flexible requests",
         "aliases": [
-          "fireplace cooking"
+          "special treatment"
         ],
         "points": 5
       }
@@ -4060,47 +4130,47 @@
   {
     "id": "food-125",
     "category": "Food & drink",
-    "prompt": "Name a cooking job that makes someone's hands tired.",
+    "prompt": "Name a reason someone avoids going on a dinner date altogether.",
     "answers": [
       {
-        "text": "Knead dough",
+        "text": "Nervous conversation",
         "aliases": [
-          "kneading"
+          "awkward silence"
         ],
-        "points": 30
+        "points": 31
       },
       {
-        "text": "Whip cream by hand",
+        "text": "Too expensive",
         "aliases": [
-          "whisk cream"
+          "cost"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Peel potatoes",
+        "text": "Messy eating",
         "aliases": [
-          "peeling"
+          "embarrassed to eat"
         ],
         "points": 18
       },
       {
-        "text": "Grate cheese",
+        "text": "Dietary needs",
         "aliases": [
-          "grating"
+          "food restrictions"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Shell peas",
+        "text": "Trapped for too long",
         "aliases": [
-          "shelling peas"
+          "can't leave"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Chop nuts",
+        "text": "Doesn't like the person",
         "aliases": [
-          "chopping nuts"
+          "not interested"
         ],
         "points": 6
       }
@@ -4109,44 +4179,48 @@
   {
     "id": "food-126",
     "category": "Food & drink",
-    "prompt": "Name a piece of cookware someone needs when setting up their first kitchen.",
+    "prompt": "Name something you'd hate to hear after telling a waiter you have a food allergy.",
     "answers": [
       {
-        "text": "Frying pan",
+        "text": "We can't guarantee it",
         "aliases": [
-          "skillet"
+          "not sure"
         ],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Saucepan",
+        "text": "Just pick it out",
         "aliases": [
-          "small pot"
+          "remove it yourself"
         ],
         "points": 24
       },
       {
-        "text": "Stockpot",
+        "text": "A little won't hurt",
         "aliases": [
-          "large pot"
+          "small amount"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Wok",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Baking dish",
+        "text": "We forgot",
         "aliases": [
-          "casserole dish"
+          "kitchen missed it"
+        ],
+        "points": 11
+      },
+      {
+        "text": "It's already mixed in",
+        "aliases": [
+          "can't remove"
         ],
         "points": 8
       },
       {
-        "text": "Griddle",
-        "aliases": [],
+        "text": "We don't know ingredients",
+        "aliases": [
+          "no ingredient list"
+        ],
         "points": 6
       }
     ]
@@ -4154,194 +4228,194 @@
   {
     "id": "food-127",
     "category": "Food & drink",
-    "prompt": "Name a reason someone replaces a cutting board.",
+    "prompt": "Name a reason people stay loyal to a restaurant even after moving away.",
     "answers": [
       {
-        "text": "Deep grooves",
+        "text": "Favorite dish",
         "aliases": [
-          "knife grooves"
+          "love the food"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Cracks",
+        "text": "Friendly staff",
         "aliases": [
-          "split board"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Lingering smell",
-        "aliases": [
-          "bad odor"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Warped",
-        "aliases": [
-          "wobbly board"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Stains",
-        "aliases": [
-          "discoloration"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Too small",
-        "aliases": [
-          "needs bigger board"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-128",
-    "category": "Food & drink",
-    "prompt": "Name something people use paper towels for while preparing food.",
-    "answers": [
-      {
-        "text": "Dry washed produce",
-        "aliases": [
-          "dry vegetables"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Drain fried food",
-        "aliases": [
-          "absorb frying oil"
+          "know the people"
         ],
         "points": 25
       },
       {
-        "text": "Wipe the counter",
+        "text": "Good memories",
         "aliases": [
-          "clean spills"
+          "nostalgia"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Pat meat dry",
+        "text": "Family tradition",
         "aliases": [
-          "dry chicken"
+          "always went there"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Grease a pan",
+        "text": "Great prices",
         "aliases": [
-          "spread oil"
+          "cheap meals"
         ],
         "points": 8
       },
       {
-        "text": "Cover food in microwave",
+        "text": "Nothing similar nearby",
         "aliases": [
-          "microwave cover"
+          "unique food"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "food-129",
+    "id": "food-128",
     "category": "Food & drink",
-    "prompt": "Name a kitchen mishap that might make the family laugh.",
+    "prompt": "Name a restaurant food challenge that would scare your stomach.",
     "answers": [
       {
-        "text": "Pancake lands on the floor",
+        "text": "Giant burger",
         "aliases": [
-          "failed pancake flip"
+          "huge burger"
         ],
         "points": 30
       },
       {
-        "text": "Flour covers the cook",
+        "text": "Whole enormous pizza",
         "aliases": [
-          "flour cloud"
+          "giant pizza"
         ],
         "points": 24
       },
       {
-        "text": "Cake falls apart",
+        "text": "Very spicy wings",
         "aliases": [
-          "broken cake"
+          "hot wings"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Mixer sprays batter",
+        "text": "Massive steak",
         "aliases": [
-          "batter flies everywhere"
+          "huge steak"
         ],
         "points": 13
       },
       {
-        "text": "Cannot open a jar",
+        "text": "Giant ice cream sundae",
         "aliases": [
-          "stuck jar lid"
+          "huge sundae"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Wrong lid on a container",
+        "text": "Tower of pancakes",
         "aliases": [
-          "lid does not fit"
+          "pancake stack"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "food-130",
+    "id": "food-129",
     "category": "Food & drink",
-    "prompt": "Name a breakfast preparation task people leave until morning for the freshest result.",
+    "prompt": "Name something people do when the restaurant meal looks nothing like its menu photo.",
     "answers": [
       {
-        "text": "Toast bread",
+        "text": "Complain",
         "aliases": [
-          "make toast"
+          "tell waiter"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Fry eggs",
+        "text": "Take a comparison photo",
         "aliases": [
-          "cook eggs"
+          "photograph it"
         ],
         "points": 24
       },
       {
-        "text": "Brew coffee",
+        "text": "Laugh",
         "aliases": [
-          "make coffee"
+          "joke about it"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Blend a smoothie",
+        "text": "Ask if it's correct",
         "aliases": [
-          "make smoothie"
+          "wrong dish"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Slice a banana",
+        "text": "Send it back",
         "aliases": [
-          "cut banana"
+          "return food"
         ],
         "points": 8
       },
       {
-        "text": "Cook pancakes",
+        "text": "Eat it anyway",
         "aliases": [
-          "make pancakes"
+          "don't care"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-130",
+    "category": "Food & drink",
+    "prompt": "Name something a restaurant might charge for that you assumed was free.",
+    "answers": [
+      {
+        "text": "Bread",
+        "aliases": [
+          "bread basket"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Water",
+        "aliases": [
+          "bottled water"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Service",
+        "aliases": [
+          "service charge"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Extra sauce",
+        "aliases": [
+          "condiments"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Takeout container",
+        "aliases": [
+          "box"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bringing your own wine",
+        "aliases": [
+          "corkage"
         ],
         "points": 6
       }

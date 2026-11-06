@@ -2,47 +2,48 @@
   {
     "id": "everyday-311",
     "category": "Everyday life",
-    "prompt": "Name a clothing feature that can make an outfit uncomfortable.",
+    "prompt": "Name someone whose missed call makes you nervous.",
     "answers": [
       {
-        "text": "Itchy fabric",
+        "text": "Boss",
         "aliases": [
-          "scratchy material"
+          "manager"
         ],
         "points": 30
       },
       {
-        "text": "Tight waistband",
+        "text": "Parent",
         "aliases": [
-          "tight waist"
+          "mom",
+          "dad"
         ],
         "points": 24
       },
       {
-        "text": "Pinching shoes",
+        "text": "Partner",
         "aliases": [
-          "shoes that pinch"
+          "spouse"
         ],
         "points": 18
       },
       {
-        "text": "Scratchy tag",
+        "text": "Doctor",
         "aliases": [
-          "itchy label"
+          "hospital"
         ],
         "points": 13
       },
       {
-        "text": "Stiff collar",
+        "text": "Landlord",
         "aliases": [
-          "tight collar"
+          "property manager"
         ],
         "points": 9
       },
       {
-        "text": "Heavy layers",
+        "text": "Ex",
         "aliases": [
-          "too many layers"
+          "ex partner"
         ],
         "points": 6
       }
@@ -89,9 +90,10 @@
         "points": 8
       },
       {
-        "text": "Jewelry",
+        "text": "Rings or earrings",
         "aliases": [
-          "jewellery"
+          "ring",
+          "earrings"
         ],
         "points": 6
       }
@@ -100,47 +102,49 @@
   {
     "id": "everyday-313",
     "category": "Everyday life",
-    "prompt": "Name something people check in the mirror before going out.",
+    "prompt": "Name something you'd hide on your phone before handing it to your parents.",
     "answers": [
       {
-        "text": "Hair is in place",
+        "text": "Photos",
         "aliases": [
-          "hairstyle"
+          "pictures"
         ],
         "points": 28
       },
       {
-        "text": "Food in their teeth",
+        "text": "Text messages",
         "aliases": [
-          "clean teeth"
+          "texts",
+          "messages"
         ],
         "points": 23
       },
       {
-        "text": "Smudged makeup",
+        "text": "Search history",
         "aliases": [
-          "makeup smears"
+          "browser history"
         ],
         "points": 19
       },
       {
-        "text": "Shirt buttons are aligned",
+        "text": "Dating apps",
         "aliases": [
-          "buttoned correctly"
+          "dating profile"
         ],
         "points": 14
       },
       {
-        "text": "Tie is straight",
+        "text": "Bank balance",
         "aliases": [
-          "crooked tie"
+          "bank account"
         ],
         "points": 10
       },
       {
-        "text": "Glasses sit straight",
+        "text": "Private notes",
         "aliases": [
-          "crooked glasses"
+          "diary",
+          "notes"
         ],
         "points": 6
       }
@@ -149,96 +153,96 @@
   {
     "id": "everyday-314",
     "category": "Everyday life",
-    "prompt": "Name a sign that a pair of shoes needs replacing.",
+    "prompt": "Name something that ruins a selfie just when you think you look good.",
     "answers": [
       {
-        "text": "Holes",
+        "text": "Bad lighting",
         "aliases": [
-          "hole in shoe"
+          "lighting"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Worn soles",
+        "text": "Messy background",
         "aliases": [
-          "smooth soles"
+          "mess behind you"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Falling apart",
+        "text": "Photobomber",
         "aliases": [
-          "coming unglued"
+          "someone in the background"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Bad smell",
+        "text": "Bad angle",
         "aliases": [
-          "stinky shoes"
+          "camera angle"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Too small",
+        "text": "Closed eyes",
         "aliases": [
-          "feet have grown"
+          "blinking"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "No cushioning",
+        "text": "Dirty mirror",
         "aliases": [
-          "uncomfortable insoles"
+          "smudged mirror"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-315",
     "category": "Everyday life",
-    "prompt": "Name a clothing mishap that might happen just before you leave home.",
+    "prompt": "Name something you accidentally send to the wrong group chat.",
     "answers": [
       {
-        "text": "Spilled drink",
+        "text": "Complaint",
         "aliases": [
-          "coffee spill"
+          "rant"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Missing button",
+        "text": "Gossip",
         "aliases": [
-          "button falls off"
+          "rumor"
         ],
         "points": 24
       },
       {
-        "text": "Broken zipper",
+        "text": "Selfie",
         "aliases": [
-          "zip stuck"
+          "picture of yourself"
         ],
         "points": 18
       },
       {
-        "text": "Torn seam",
+        "text": "Flirty message",
         "aliases": [
-          "ripped clothes"
+          "romantic text"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Run in tights",
+        "text": "Meme",
         "aliases": [
-          "ladder in stockings"
+          "joke"
         ],
         "points": 9
       },
       {
-        "text": "Wrinkled shirt",
+        "text": "Screenshot of the chat",
         "aliases": [
-          "creased shirt"
+          "chat screenshot"
         ],
         "points": 6
       }
@@ -247,47 +251,49 @@
   {
     "id": "everyday-316",
     "category": "Everyday life",
-    "prompt": "Name an accessory someone might use to add color to a plain outfit.",
+    "prompt": "Name something people pretend they didn't see on social media.",
     "answers": [
       {
-        "text": "Scarf",
+        "text": "Their ex's post",
         "aliases": [
-          "colorful scarf"
+          "ex boyfriend's post",
+          "ex girlfriend's post"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Necklace",
+        "text": "A message",
         "aliases": [
-          "statement necklace"
+          "direct message",
+          "dm"
         ],
         "points": 24
       },
       {
-        "text": "Hat",
+        "text": "Embarrassing photo",
         "aliases": [
-          "colorful hat"
+          "bad picture"
         ],
         "points": 18
       },
       {
-        "text": "Belt",
+        "text": "Fundraiser",
         "aliases": [
-          "bright belt"
+          "donation request"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Handbag",
+        "text": "Party they weren't invited to",
         "aliases": [
-          "purse"
+          "party invitation"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Earrings",
+        "text": "An argument",
         "aliases": [
-          "colorful earrings"
+          "fight"
         ],
         "points": 6
       }
@@ -296,145 +302,147 @@
   {
     "id": "everyday-317",
     "category": "Everyday life",
-    "prompt": "Name a piece of clothing people save for a special occasion.",
+    "prompt": "Name a reason someone screenshots a conversation.",
     "answers": [
       {
-        "text": "Business suit",
+        "text": "Proof",
         "aliases": [
-          "dress suit"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Cocktail dress",
-        "aliases": [
-          "party dress"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Tuxedo",
-        "aliases": [
-          "tux"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Dress shoes",
-        "aliases": [
-          "formal shoes"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Wedding dress",
-        "aliases": [
-          "bridal gown"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Fancy coat",
-        "aliases": [
-          "dress coat"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-318",
-    "category": "Everyday life",
-    "prompt": "Name something on clothing that can be tricky to fasten.",
-    "answers": [
-      {
-        "text": "Zipper",
-        "aliases": [
-          "zip"
+          "evidence"
         ],
         "points": 35
       },
       {
-        "text": "Tiny buttons",
+        "text": "Share gossip",
         "aliases": [
-          "small buttons"
+          "show friends"
         ],
         "points": 25
       },
       {
-        "text": "Necktie",
+        "text": "Get advice",
         "aliases": [
-          "tie"
+          "ask for advice"
         ],
         "points": 16
       },
       {
-        "text": "Bra clasp",
+        "text": "Remember details",
         "aliases": [
-          "bra hook"
+          "save information"
         ],
         "points": 11
       },
       {
-        "text": "Cufflinks",
+        "text": "It was funny",
         "aliases": [
-          "cuff links"
+          "save a joke"
         ],
         "points": 8
       },
       {
-        "text": "Belt buckle",
+        "text": "Sentimental value",
         "aliases": [
-          "buckle"
+          "sweet message",
+          "memories"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-319",
+    "id": "everyday-318",
     "category": "Everyday life",
-    "prompt": "Name something people like to wear on a long car ride.",
+    "prompt": "Name a giveaway that someone is secretly using their phone under the table.",
     "answers": [
       {
-        "text": "Sweatpants",
+        "text": "Looking down",
         "aliases": [
-          "joggers"
+          "staring at their lap"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "T shirt",
+        "text": "Glowing face",
         "aliases": [
-          "tee shirt"
+          "screen light"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Not listening",
+        "aliases": [
+          "missing the conversation"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Moving thumbs",
+        "aliases": [
+          "typing"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Smiling to themselves",
+        "aliases": [
+          "grinning"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Phone falls",
+        "aliases": [
+          "drops their phone"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-319",
+    "category": "Everyday life",
+    "prompt": "Name something people nervously type into a search bar.",
+    "answers": [
+      {
+        "text": "An ex's name",
+        "aliases": [
+          "ex partner"
+        ],
+        "points": 32
+      },
+      {
+        "text": "A medical symptom",
+        "aliases": [
+          "symptoms",
+          "health problem"
         ],
         "points": 24
       },
       {
-        "text": "Leggings",
+        "text": "A crush's name",
         "aliases": [
-          "stretch pants"
+          "crush"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Sneakers",
+        "text": "Their own name",
         "aliases": [
-          "trainers"
+          "themselves"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Hoodie",
+        "text": "How to quit a job",
         "aliases": [
-          "hooded sweatshirt"
+          "quitting work"
         ],
         "points": 9
       },
       {
-        "text": "Shorts",
+        "text": "A word they can't spell",
         "aliases": [
-          "casual shorts"
+          "spelling"
         ],
         "points": 6
       }
@@ -443,47 +451,47 @@
   {
     "id": "everyday-320",
     "category": "Everyday life",
-    "prompt": "Name something people try to match with their shoes.",
+    "prompt": "Name a phone sound you'd hate everyone to hear in a silent room.",
     "answers": [
       {
-        "text": "Belt",
+        "text": "Loud ringtone",
         "aliases": [
-          "waist belt"
+          "ringing"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Handbag",
+        "text": "Alarm",
         "aliases": [
-          "purse"
+          "alarm clock"
         ],
         "points": 24
       },
       {
-        "text": "Dress",
+        "text": "Video audio",
         "aliases": [
-          "gown"
+          "video playing"
         ],
         "points": 18
       },
       {
-        "text": "Pants",
+        "text": "Camera shutter",
         "aliases": [
-          "trousers"
+          "camera sound"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Socks",
+        "text": "Low battery beep",
         "aliases": [
-          "sock color"
+          "battery warning"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Jacket",
+        "text": "Keyboard clicks",
         "aliases": [
-          "coat"
+          "typing sounds"
         ],
         "points": 6
       }
@@ -492,47 +500,47 @@
   {
     "id": "everyday-321",
     "category": "Everyday life",
-    "prompt": "Name something you might add to an outfit when the temperature suddenly drops.",
+    "prompt": "Name a reason someone leaves a group chat.",
     "answers": [
       {
-        "text": "Jacket",
+        "text": "Too many messages",
         "aliases": [
-          "coat"
+          "too many notifications"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Sweater",
+        "text": "An argument",
         "aliases": [
-          "jumper"
+          "fighting"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Scarf",
+        "text": "Spam",
         "aliases": [
-          "neck scarf"
+          "advertisements"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Hat",
+        "text": "Wrong group",
         "aliases": [
-          "beanie"
+          "added by mistake"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Gloves",
+        "text": "Plans are over",
         "aliases": [
-          "mittens"
+          "event finished"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Thermal layer",
+        "text": "An ex joined",
         "aliases": [
-          "long underwear"
+          "ex partner joined"
         ],
         "points": 6
       }
@@ -541,47 +549,47 @@
   {
     "id": "everyday-322",
     "category": "Everyday life",
-    "prompt": "Name a clothing accessory that is easy to lose.",
+    "prompt": "Name news that deserves more than a text message.",
     "answers": [
       {
-        "text": "Gloves",
+        "text": "A breakup",
         "aliases": [
-          "mittens"
+          "ending a relationship"
         ],
         "points": 35
       },
       {
-        "text": "Sunglasses",
+        "text": "An emergency",
         "aliases": [
-          "shades"
+          "accident"
         ],
         "points": 25
       },
       {
-        "text": "Earrings",
+        "text": "Getting fired",
         "aliases": [
-          "earring"
+          "losing a job"
         ],
         "points": 16
       },
       {
-        "text": "Hat",
+        "text": "Marriage proposal",
         "aliases": [
-          "cap"
+          "proposal"
         ],
         "points": 11
       },
       {
-        "text": "Scarf",
+        "text": "Pregnancy",
         "aliases": [
-          "neck scarf"
+          "having a baby"
         ],
         "points": 8
       },
       {
-        "text": "Hair clip",
+        "text": "A serious apology",
         "aliases": [
-          "barrette"
+          "big apology"
         ],
         "points": 5
       }
@@ -590,47 +598,47 @@
   {
     "id": "everyday-323",
     "category": "Everyday life",
-    "prompt": "Name something people wear specifically for exercise.",
+    "prompt": "Name an emoji that can change the whole meaning of a text.",
     "answers": [
       {
-        "text": "Sneakers",
+        "text": "Wink",
         "aliases": [
-          "trainers"
+          "winking face"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Sports bra",
+        "text": "Heart",
         "aliases": [
-          "athletic bra"
+          "love heart"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Shorts",
+        "text": "Laughing face",
         "aliases": [
-          "gym shorts"
+          "crying laughing"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Leggings",
+        "text": "Eye roll",
         "aliases": [
-          "workout tights"
+          "rolling eyes"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Sweatband",
+        "text": "Thumbs up",
         "aliases": [
-          "headband"
+          "thumb up"
         ],
-        "points": 9
+        "points": 10
       },
       {
-        "text": "Athletic shirt",
+        "text": "Eggplant",
         "aliases": [
-          "workout top"
+          "aubergine"
         ],
         "points": 6
       }
@@ -639,47 +647,47 @@
   {
     "id": "everyday-324",
     "category": "Everyday life",
-    "prompt": "Name a kind of bag people carry on a typical day out.",
+    "prompt": "Name something people do with their phone when a conversation gets awkward.",
     "answers": [
       {
-        "text": "Backpack",
+        "text": "Check messages",
         "aliases": [
-          "rucksack"
+          "read texts"
         ],
         "points": 32
       },
       {
-        "text": "Handbag",
+        "text": "Scroll social media",
         "aliases": [
-          "purse"
+          "open social media"
         ],
         "points": 24
       },
       {
-        "text": "Tote bag",
+        "text": "Pretend to get a call",
         "aliases": [
-          "tote"
+          "fake call"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Messenger bag",
+        "text": "Check the time",
         "aliases": [
-          "shoulder messenger"
+          "look at the clock"
         ],
         "points": 12
       },
       {
-        "text": "Crossbody bag",
+        "text": "Take a photo",
         "aliases": [
-          "cross body bag"
+          "take pictures"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Belt bag",
+        "text": "Play a game",
         "aliases": [
-          "fanny pack"
+          "open a game"
         ],
         "points": 6
       }
@@ -688,47 +696,47 @@
   {
     "id": "everyday-325",
     "category": "Everyday life",
-    "prompt": "Name something people test when trying on clothes in a fitting room.",
+    "prompt": "Name an excuse for taking forever to reply to a text.",
     "answers": [
       {
-        "text": "Fit at the waist",
+        "text": "Phone died",
         "aliases": [
-          "waist size"
+          "dead battery"
         ],
-        "points": 28
+        "points": 29
       },
       {
-        "text": "Length",
+        "text": "Busy at work",
         "aliases": [
-          "hem length"
+          "working"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Comfort while moving",
+        "text": "Asleep",
         "aliases": [
-          "range of motion"
+          "sleeping"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "How it looks",
+        "text": "No signal",
         "aliases": [
-          "appearance"
+          "bad reception"
         ],
         "points": 14
       },
       {
-        "text": "Buttons and zippers",
+        "text": "Didn't see it",
         "aliases": [
-          "fastenings"
+          "missed the message"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Whether it is see through",
+        "text": "Thought I replied",
         "aliases": [
-          "transparency"
+          "forgot to hit send"
         ],
         "points": 6
       }
@@ -737,145 +745,145 @@
   {
     "id": "everyday-326",
     "category": "Everyday life",
-    "prompt": "Name something on a clothing label that could put a shopper off buying it.",
+    "prompt": "Name something you tell yourself before another hour disappears on your phone.",
     "answers": [
       {
-        "text": "High price",
+        "text": "One more video",
         "aliases": [
-          "expensive price"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Dry clean only",
-        "aliases": [
-          "requires dry cleaning"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Hand wash only",
-        "aliases": [
-          "handwashing required"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Wrong size",
-        "aliases": [
-          "size too small"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Itchy material",
-        "aliases": [
-          "wool content"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Do not tumble dry",
-        "aliases": [
-          "cannot use dryer"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "everyday-327",
-    "category": "Everyday life",
-    "prompt": "Name an accessory people take off before swimming.",
-    "answers": [
-      {
-        "text": "Watch",
-        "aliases": [
-          "wristwatch"
+          "last video"
         ],
         "points": 30
       },
       {
-        "text": "Glasses",
+        "text": "Just checking messages",
         "aliases": [
-          "eyeglasses"
+          "check texts"
         ],
         "points": 24
       },
       {
-        "text": "Necklace",
+        "text": "Five more minutes",
         "aliases": [
-          "chain"
+          "a few more minutes"
         ],
         "points": 18
       },
       {
-        "text": "Earrings",
+        "text": "Finish this game",
         "aliases": [
-          "earring"
+          "one more level"
         ],
         "points": 13
       },
       {
-        "text": "Rings",
+        "text": "Look up one thing",
         "aliases": [
-          "ring"
+          "quick search"
         ],
         "points": 9
       },
       {
-        "text": "Bracelet",
+        "text": "This is for work",
         "aliases": [
-          "bangle"
+          "working"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "everyday-328",
+    "id": "everyday-327",
     "category": "Everyday life",
-    "prompt": "Name a reason someone returns a new piece of clothing.",
+    "prompt": "Name something people have far too many of on their phone.",
     "answers": [
       {
-        "text": "Wrong size",
+        "text": "Unread emails",
         "aliases": [
-          "does not fit"
+          "email"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Damaged",
+        "text": "Old texts",
         "aliases": [
-          "defective"
+          "text messages"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Wrong color",
+        "text": "Contacts",
         "aliases": [
-          "color looks different"
+          "phone numbers"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Changed their mind",
+        "text": "Screenshots",
         "aliases": [
-          "do not like it"
+          "screen captures"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Uncomfortable",
+        "text": "Browser tabs",
         "aliases": [
-          "scratchy"
+          "open tabs"
         ],
         "points": 8
       },
       {
-        "text": "Bought a duplicate",
+        "text": "Unused apps",
         "aliases": [
-          "already own it"
+          "apps"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-328",
+    "category": "Everyday life",
+    "prompt": "Name a reason you regret checking your phone right before bed.",
+    "answers": [
+      {
+        "text": "Work email",
+        "aliases": [
+          "message from work"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Bad news",
+        "aliases": [
+          "upsetting news"
+        ],
+        "points": 23
+      },
+      {
+        "text": "An argument",
+        "aliases": [
+          "angry message"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Scary video",
+        "aliases": [
+          "horror clip"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Lose track of time",
+        "aliases": [
+          "stay up late"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Bright screen",
+        "aliases": [
+          "light hurts eyes"
         ],
         "points": 6
       }
@@ -884,47 +892,47 @@
   {
     "id": "everyday-329",
     "category": "Everyday life",
-    "prompt": "Name a way someone deals with a bad hair day.",
+    "prompt": "Name something people blame when a video call makes them look terrible.",
     "answers": [
       {
-        "text": "Wear a hat",
+        "text": "Lighting",
         "aliases": [
-          "put on a cap"
+          "bad light"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Tie it back",
+        "text": "Camera angle",
         "aliases": [
-          "ponytail"
+          "angle"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Wash it",
+        "text": "Bad connection",
         "aliases": [
-          "wash hair"
+          "poor connection"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Use styling product",
+        "text": "No makeup",
         "aliases": [
-          "hair gel"
+          "without makeup"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Wear a headband",
+        "text": "Bad hair",
         "aliases": [
-          "hair band"
+          "messy hair"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Brush it again",
+        "text": "Cheap camera",
         "aliases": [
-          "comb it"
+          "bad camera"
         ],
         "points": 6
       }
@@ -933,96 +941,97 @@
   {
     "id": "everyday-330",
     "category": "Everyday life",
-    "prompt": "Name something people consider when choosing an outfit for the day.",
+    "prompt": "Name something people forget is visible when they share their screen.",
     "answers": [
       {
-        "text": "Weather",
+        "text": "Browser tabs",
         "aliases": [
-          "temperature"
+          "open tabs"
         ],
-        "points": 35
+        "points": 29
       },
       {
-        "text": "Where they are going",
+        "text": "Messages",
         "aliases": [
-          "occasion"
+          "notifications",
+          "chat"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Comfort",
+        "text": "Desktop wallpaper",
         "aliases": [
-          "how comfortable it is"
+          "background picture"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "What is clean",
+        "text": "Open photos",
         "aliases": [
-          "clean clothes"
+          "pictures"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Who they will see",
+        "text": "Search history",
         "aliases": [
-          "company"
+          "recent searches"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "How much time they have",
+        "text": "Passwords",
         "aliases": [
-          "time available"
+          "password"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-331",
     "category": "Everyday life",
-    "prompt": "Name an outdoor task people might avoid on a very windy day.",
+    "prompt": "Name something people do while waiting for someone to text back.",
     "answers": [
       {
-        "text": "Hanging laundry",
+        "text": "Keep checking the phone",
         "aliases": [
-          "drying clothes outside"
+          "check messages"
         ],
         "points": 30
       },
       {
-        "text": "Raking leaves",
+        "text": "Reread their message",
         "aliases": [
-          "leaf raking"
+          "read it again"
         ],
         "points": 24
       },
       {
-        "text": "Painting",
+        "text": "Ask a friend for advice",
         "aliases": [
-          "outdoor painting"
+          "ask friends"
         ],
         "points": 18
       },
       {
-        "text": "Washing the car",
+        "text": "Send another text",
         "aliases": [
-          "car washing"
+          "double text"
         ],
         "points": 13
       },
       {
-        "text": "Sweeping",
+        "text": "Scroll social media",
         "aliases": [
-          "sweeping patio"
+          "go online"
         ],
         "points": 9
       },
       {
-        "text": "Grilling",
+        "text": "Worry",
         "aliases": [
-          "barbecuing"
+          "overthink"
         ],
         "points": 6
       }
@@ -1031,96 +1040,96 @@
   {
     "id": "everyday-332",
     "category": "Everyday life",
-    "prompt": "Name something people bring when rain is in the forecast.",
+    "prompt": "Name someone you might mute online without unfollowing.",
     "answers": [
       {
-        "text": "Umbrella",
+        "text": "Relative",
         "aliases": [
-          "brolly"
+          "family member"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Raincoat",
+        "text": "Coworker",
         "aliases": [
-          "waterproof coat"
+          "colleague"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Rain boots",
+        "text": "Ex",
         "aliases": [
-          "wellies"
+          "ex partner"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Spare socks",
+        "text": "Friend",
         "aliases": [
-          "extra socks"
+          "pal"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Waterproof bag",
+        "text": "Celebrity",
         "aliases": [
-          "dry bag"
+          "famous person"
         ],
         "points": 8
       },
       {
-        "text": "Towel",
+        "text": "Classmate",
         "aliases": [
-          "small towel"
+          "schoolmate"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "everyday-333",
     "category": "Everyday life",
-    "prompt": "Name a way people cool off on a hot afternoon.",
+    "prompt": "Name a place where people fake checking their phone to avoid conversation.",
     "answers": [
       {
-        "text": "Go swimming",
+        "text": "Elevator",
         "aliases": [
-          "swim"
+          "lift"
         ],
         "points": 28
       },
       {
-        "text": "Sit by a fan",
+        "text": "Party",
         "aliases": [
-          "use fan"
+          "social gathering"
         ],
         "points": 23
       },
       {
-        "text": "Drink something cold",
+        "text": "Bus stop",
         "aliases": [
-          "cold drink"
+          "train platform"
         ],
         "points": 19
       },
       {
-        "text": "Find shade",
+        "text": "Waiting room",
         "aliases": [
-          "sit in shade"
+          "doctor's waiting room"
         ],
         "points": 14
       },
       {
-        "text": "Go somewhere air conditioned",
+        "text": "Office hallway",
         "aliases": [
-          "use air conditioning"
+          "work corridor"
         ],
         "points": 10
       },
       {
-        "text": "Take a cool shower",
+        "text": "School reunion",
         "aliases": [
-          "cold shower"
+          "class reunion"
         ],
         "points": 6
       }
@@ -1129,96 +1138,96 @@
   {
     "id": "everyday-334",
     "category": "Everyday life",
-    "prompt": "Name something a driver might do before leaving on a frosty morning.",
+    "prompt": "Name a reason someone uses a fake name online.",
     "answers": [
       {
-        "text": "Scrape the windshield",
+        "text": "Privacy",
         "aliases": [
-          "deice windshield"
+          "stay anonymous"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Turn on defroster",
+        "text": "Embarrassing hobby",
         "aliases": [
-          "use defrost"
+          "secret interest"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Warm the car",
+        "text": "Cheating",
         "aliases": [
-          "start engine early"
+          "affair"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Brush off snow",
+        "text": "Playing a prank",
         "aliases": [
-          "clear snow"
+          "prank"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Check road conditions",
+        "text": "Avoid getting caught at work",
         "aliases": [
-          "check for ice"
+          "hide from boss"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Put on gloves",
+        "text": "Real name is taken",
         "aliases": [
-          "warm hands"
+          "username taken"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-335",
     "category": "Everyday life",
-    "prompt": "Name a part of the body people cover up in cold weather.",
+    "prompt": "Name something you do after accidentally liking a very old photo.",
     "answers": [
       {
-        "text": "Hands",
+        "text": "Unlike it",
         "aliases": [
-          "fingers"
+          "remove the like"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Head",
+        "text": "Close the app",
         "aliases": [
-          "ears"
+          "exit app"
         ],
         "points": 24
       },
       {
-        "text": "Neck",
+        "text": "Blush",
         "aliases": [
-          "throat"
+          "turn red"
         ],
         "points": 18
       },
       {
-        "text": "Feet",
+        "text": "Blame the phone",
         "aliases": [
-          "toes"
+          "say it was an accident"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Legs",
+        "text": "Send a message",
         "aliases": [
-          "knees"
+          "explain yourself"
         ],
         "points": 9
       },
       {
-        "text": "Face",
+        "text": "Act like nothing happened",
         "aliases": [
-          "nose"
+          "ignore it"
         ],
         "points": 6
       }
@@ -1227,47 +1236,47 @@
   {
     "id": "everyday-336",
     "category": "Everyday life",
-    "prompt": "Name something people look for in a weather forecast.",
+    "prompt": "Name something that makes a text sound angrier than intended.",
     "answers": [
       {
-        "text": "Temperature",
+        "text": "All caps",
         "aliases": [
-          "high and low"
+          "capital letters"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Chance of rain",
+        "text": "A period",
         "aliases": [
-          "rain probability"
+          "full stop"
         ],
         "points": 24
       },
       {
-        "text": "Wind speed",
+        "text": "Short reply",
         "aliases": [
-          "how windy"
+          "one word answer"
         ],
         "points": 18
       },
       {
-        "text": "Snow",
+        "text": "Sarcasm",
         "aliases": [
-          "snowfall"
+          "sarcastic wording"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Sunshine",
+        "text": "No greeting",
         "aliases": [
-          "sunny skies"
+          "no hello"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Humidity",
+        "text": "Repeated question marks",
         "aliases": [
-          "how humid"
+          "multiple question marks"
         ],
         "points": 6
       }
@@ -1276,145 +1285,146 @@
   {
     "id": "everyday-337",
     "category": "Everyday life",
-    "prompt": "Name an outdoor plan rain could force someone to change.",
+    "prompt": "Name something people photograph because they know they'll forget it.",
     "answers": [
       {
-        "text": "Picnic",
+        "text": "Parking spot",
         "aliases": [
-          "outdoor picnic"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Hike",
-        "aliases": [
-          "hiking"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Beach trip",
-        "aliases": [
-          "day at the beach"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Bike ride",
-        "aliases": [
-          "cycling"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Outdoor sports",
-        "aliases": [
-          "playing ball"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Gardening",
-        "aliases": [
-          "garden work"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-338",
-    "category": "Everyday life",
-    "prompt": "Name a condition outdoors that makes someone choose sturdier shoes.",
-    "answers": [
-      {
-        "text": "Snow",
-        "aliases": [
-          "snowy weather"
+          "where they parked"
         ],
         "points": 35
       },
       {
-        "text": "Ice",
+        "text": "Shopping list",
         "aliases": [
-          "icy sidewalks"
+          "grocery list"
         ],
         "points": 25
       },
       {
-        "text": "Heavy rain",
+        "text": "WiFi password",
         "aliases": [
-          "downpour"
+          "wireless password"
         ],
         "points": 16
       },
       {
-        "text": "Mud",
+        "text": "Appointment card",
         "aliases": [
-          "muddy ground"
+          "appointment time"
         ],
         "points": 11
       },
       {
-        "text": "Sleet",
+        "text": "Instructions",
         "aliases": [
-          "freezing rain"
+          "directions on a sign"
         ],
         "points": 8
       },
       {
-        "text": "Flooding",
+        "text": "Clothing size",
         "aliases": [
-          "standing water"
+          "size label"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-339",
+    "id": "everyday-338",
     "category": "Everyday life",
-    "prompt": "Name somewhere people duck into when it starts raining unexpectedly.",
+    "prompt": "Name a reason someone apologizes for their ringtone.",
     "answers": [
       {
-        "text": "Shop",
+        "text": "Too loud",
         "aliases": [
-          "store"
+          "loud volume"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Cafe",
+        "text": "Embarrassing song",
         "aliases": [
-          "coffee shop"
+          "silly song"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Swear words",
+        "aliases": [
+          "bad language"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Scared someone",
+        "aliases": [
+          "startled someone"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Child changed it",
+        "aliases": [
+          "kid set it"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Went off at a bad time",
+        "aliases": [
+          "inappropriate moment"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-339",
+    "category": "Everyday life",
+    "prompt": "Name something people use as a profile picture instead of themselves.",
+    "answers": [
+      {
+        "text": "Pet",
+        "aliases": [
+          "dog",
+          "cat"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Cartoon character",
+        "aliases": [
+          "cartoon"
         ],
         "points": 24
       },
       {
-        "text": "Bus shelter",
+        "text": "Their child",
         "aliases": [
-          "bus stop shelter"
+          "kid"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Doorway",
+        "text": "Celebrity",
         "aliases": [
-          "building entrance"
+          "famous person"
         ],
-        "points": 13
+        "points": 12
+      },
+      {
+        "text": "Scenery",
+        "aliases": [
+          "landscape"
+        ],
+        "points": 9
       },
       {
         "text": "Car",
         "aliases": [
           "vehicle"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Covered porch",
-        "aliases": [
-          "veranda"
         ],
         "points": 6
       }
@@ -1423,47 +1433,48 @@
   {
     "id": "everyday-340",
     "category": "Everyday life",
-    "prompt": "Name something a gust of wind might blow away.",
+    "prompt": "Name a time a dead phone battery feels like a personal attack.",
     "answers": [
       {
-        "text": "Hat",
+        "text": "When lost",
         "aliases": [
-          "cap"
+          "need directions"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Umbrella",
+        "text": "Waiting for a ride",
         "aliases": [
-          "brolly"
+          "need a pickup"
         ],
         "points": 24
       },
       {
-        "text": "Loose papers",
+        "text": "At a concert",
         "aliases": [
-          "papers"
+          "watching a concert"
         ],
         "points": 18
       },
       {
-        "text": "Napkin",
+        "text": "Taking a perfect photo",
         "aliases": [
-          "paper napkin"
+          "taking pictures"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Plastic bag",
+        "text": "Important phone call",
         "aliases": [
-          "shopping bag"
+          "important call"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Balloon",
+        "text": "Showing a ticket",
         "aliases": [
-          "party balloon"
+          "boarding pass",
+          "digital ticket"
         ],
         "points": 6
       }
@@ -1472,47 +1483,47 @@
   {
     "id": "everyday-341",
     "category": "Everyday life",
-    "prompt": "Name something people pack for spending several hours outside on a hot day.",
+    "prompt": "Name a lie people tell themselves while shopping.",
     "answers": [
       {
-        "text": "Water bottle",
+        "text": "I need it",
         "aliases": [
-          "drinking water"
+          "it's essential"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Sunscreen",
+        "text": "It's a bargain",
         "aliases": [
-          "sunblock"
+          "such a good deal"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Hat",
+        "text": "I'll use it",
         "aliases": [
-          "sun hat"
+          "it will come in handy"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Sunglasses",
+        "text": "I deserve it",
         "aliases": [
-          "shades"
+          "earned a treat"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Handheld fan",
+        "text": "This is the last one",
         "aliases": [
-          "portable fan"
+          "no more shopping"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Cooling towel",
+        "text": "I can return it",
         "aliases": [
-          "damp towel"
+          "return it later"
         ],
         "points": 6
       }
@@ -1521,96 +1532,98 @@
   {
     "id": "everyday-342",
     "category": "Everyday life",
-    "prompt": "Name a situation where someone is glad they brought sunglasses.",
+    "prompt": "Name something people buy right after a breakup.",
     "answers": [
       {
-        "text": "Driving toward the sun",
+        "text": "New clothes",
         "aliases": [
-          "sunny drive"
+          "new outfit"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "At the beach",
+        "text": "Hair dye",
         "aliases": [
-          "beach day"
+          "hair color"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "On a boat",
+        "text": "Gym membership",
         "aliases": [
-          "boating"
+          "gym pass"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "In snow glare",
+        "text": "A vacation",
         "aliases": [
-          "snowy day"
+          "holiday trip"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Watching outdoor sports",
+        "text": "A pet",
         "aliases": [
-          "outdoor game"
+          "a dog",
+          "a cat"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Walking at sunset",
+        "text": "Alcohol",
         "aliases": [
-          "low sun"
+          "wine",
+          "beer"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-343",
     "category": "Everyday life",
-    "prompt": "Name an outdoor activity people might put off until the weather is cooler.",
+    "prompt": "Name something that makes you forget you came to the store for one item.",
     "answers": [
       {
-        "text": "Mowing the lawn",
+        "text": "Sale",
         "aliases": [
-          "cutting grass"
+          "discount"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Running",
+        "text": "Free sample",
         "aliases": [
-          "going for a run"
+          "food sample"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Washing windows",
+        "text": "Seasonal display",
         "aliases": [
-          "window washing"
+          "holiday display"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Carrying heavy boxes",
+        "text": "New clothes",
         "aliases": [
-          "moving boxes"
+          "clothing section"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Pulling weeds",
+        "text": "Favorite snack",
         "aliases": [
-          "weeding"
+          "snacks"
         ],
-        "points": 9
+        "points": 10
       },
       {
-        "text": "Walking a dog",
+        "text": "Friend's suggestion",
         "aliases": [
-          "dog walk"
+          "friend recommends something"
         ],
         "points": 6
       }
@@ -1619,47 +1632,48 @@
   {
     "id": "everyday-344",
     "category": "Everyday life",
-    "prompt": "Name a change people make to their clothing when summer arrives.",
+    "prompt": "Name a purchase people hide the price of from their partner.",
     "answers": [
       {
-        "text": "Wear shorts",
+        "text": "Shoes",
         "aliases": [
-          "switch to shorts"
+          "sneakers"
         ],
         "points": 32
       },
       {
-        "text": "Wear sandals",
+        "text": "Electronics",
         "aliases": [
-          "open toe shoes"
+          "new phone",
+          "computer"
         ],
         "points": 24
       },
       {
-        "text": "Choose lighter fabric",
+        "text": "Handbag",
         "aliases": [
-          "lightweight clothes"
+          "purse"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Wear short sleeves",
+        "text": "Hobby equipment",
         "aliases": [
-          "t shirts"
+          "hobby supplies"
         ],
         "points": 12
       },
       {
-        "text": "Choose lighter colors",
+        "text": "Jewelry",
         "aliases": [
-          "light colors"
+          "jewellery"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Wear a sun hat",
+        "text": "Takeout",
         "aliases": [
-          "wide brimmed hat"
+          "food delivery"
         ],
         "points": 6
       }
@@ -1668,47 +1682,47 @@
   {
     "id": "everyday-345",
     "category": "Everyday life",
-    "prompt": "Name something you might notice outside that tells you it is windy.",
+    "prompt": "Name a purchase people justify by saying it will pay for itself.",
     "answers": [
       {
-        "text": "Trees swaying",
+        "text": "Coffee maker",
         "aliases": [
-          "moving branches"
+          "espresso machine"
         ],
-        "points": 28
+        "points": 29
       },
       {
-        "text": "Flags flapping",
+        "text": "Exercise equipment",
         "aliases": [
-          "waving flags"
+          "treadmill"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Leaves blowing",
+        "text": "Printer",
         "aliases": [
-          "flying leaves"
+          "home printer"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Hair blowing",
+        "text": "Sewing machine",
         "aliases": [
-          "windblown hair"
+          "sewing equipment"
         ],
         "points": 14
       },
       {
-        "text": "Chimes ringing",
+        "text": "Solar panels",
         "aliases": [
-          "wind chimes"
+          "solar power"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Clouds moving quickly",
+        "text": "Hair clippers",
         "aliases": [
-          "fast moving clouds"
+          "haircut kit"
         ],
         "points": 6
       }
@@ -1717,145 +1731,145 @@
   {
     "id": "everyday-346",
     "category": "Everyday life",
-    "prompt": "Name a reason someone leaves a store without buying anything.",
+    "prompt": "Name something shoppers do when they spot someone they know.",
     "answers": [
       {
-        "text": "Prices too high",
+        "text": "Say hello",
         "aliases": [
-          "too expensive"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Item sold out",
-        "aliases": [
-          "out of stock"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Long checkout line",
-        "aliases": [
-          "long queue"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Could not find what they wanted",
-        "aliases": [
-          "nothing suitable"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Just browsing",
-        "aliases": [
-          "window shopping"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Forgot their wallet",
-        "aliases": [
-          "no money with them"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "everyday-347",
-    "category": "Everyday life",
-    "prompt": "Name something shoppers buy on impulse near the checkout.",
-    "answers": [
-      {
-        "text": "Candy",
-        "aliases": [
-          "sweets"
+          "greet them"
         ],
         "points": 30
       },
       {
-        "text": "Gum",
+        "text": "Pretend not to see them",
         "aliases": [
-          "chewing gum"
+          "ignore them"
         ],
         "points": 24
       },
       {
-        "text": "Magazine",
+        "text": "Check their appearance",
         "aliases": [
-          "tabloid"
+          "fix their hair"
         ],
         "points": 18
       },
       {
-        "text": "Batteries",
+        "text": "Look in their cart",
         "aliases": [
-          "battery pack"
+          "check their shopping"
         ],
         "points": 13
       },
       {
-        "text": "Lip balm",
+        "text": "Rush away",
         "aliases": [
-          "chapstick"
+          "go another way"
         ],
         "points": 9
       },
       {
-        "text": "Gift card",
+        "text": "Introduce their companion",
         "aliases": [
-          "gift voucher"
+          "make introductions"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "everyday-348",
+    "id": "everyday-347",
     "category": "Everyday life",
-    "prompt": "Name something shoppers compare on two packages before choosing one.",
+    "prompt": "Name something embarrassing to discover at the checkout.",
     "answers": [
       {
-        "text": "Price",
+        "text": "Forgot wallet",
         "aliases": [
-          "cost"
+          "no wallet"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Size",
+        "text": "Card declined",
         "aliases": [
-          "quantity"
+          "payment declined"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Ingredients",
+        "text": "Price is higher than expected",
         "aliases": [
-          "ingredient list"
+          "wrong price"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Brand",
+        "text": "Expired coupon",
         "aliases": [
-          "brand name"
+          "coupon won't work"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Expiration date",
+        "text": "Personal item is visible",
         "aliases": [
-          "best before date"
+          "embarrassing purchase"
         ],
         "points": 8
       },
       {
-        "text": "Customer rating",
+        "text": "Forgot shopping bags",
         "aliases": [
-          "reviews"
+          "no bags"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-348",
+    "category": "Everyday life",
+    "prompt": "Name something you buy in bulk, then never want to taste again.",
+    "answers": [
+      {
+        "text": "Protein bars",
+        "aliases": [
+          "energy bars"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Cereal",
+        "aliases": [
+          "breakfast cereal"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Yogurt",
+        "aliases": [
+          "yoghurt"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Sparkling water",
+        "aliases": [
+          "flavored water"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Instant noodles",
+        "aliases": [
+          "ramen"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Trail mix",
+        "aliases": [
+          "mixed nuts"
         ],
         "points": 6
       }
@@ -1864,48 +1878,47 @@
   {
     "id": "everyday-349",
     "category": "Everyday life",
-    "prompt": "Name something a shopper might want to test before buying.",
+    "prompt": "Name something you'd feel awkward returning to a store.",
     "answers": [
       {
-        "text": "Car",
+        "text": "Underwear",
         "aliases": [
-          "automobile"
+          "underpants"
         ],
-        "points": 28
+        "points": 32
       },
       {
         "text": "Mattress",
         "aliases": [
           "bed mattress"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Headphones",
+        "text": "Worn shoes",
         "aliases": [
-          "earphones"
+          "used shoes"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Perfume",
+        "text": "A gift",
         "aliases": [
-          "fragrance"
+          "present"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Bicycle",
+        "text": "Wedding dress",
         "aliases": [
-          "bike"
+          "bridal dress"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Musical instrument",
+        "text": "Half-eaten food",
         "aliases": [
-          "guitar",
-          "piano"
+          "opened food"
         ],
         "points": 6
       }
@@ -1914,96 +1927,96 @@
   {
     "id": "everyday-350",
     "category": "Everyday life",
-    "prompt": "Name a place someone might stop during a quick round of errands.",
+    "prompt": "Name a reason people love shopping online in bed.",
     "answers": [
       {
-        "text": "Grocery store",
+        "text": "Comfort",
         "aliases": [
-          "supermarket"
+          "stay comfortable"
         ],
-        "points": 35
+        "points": 29
       },
       {
-        "text": "Post office",
+        "text": "Privacy",
         "aliases": [
-          "mail counter"
+          "shop in private"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Bank",
+        "text": "Can't sleep",
         "aliases": [
-          "atm"
+          "insomnia"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Pharmacy",
+        "text": "No crowds",
         "aliases": [
-          "drugstore"
+          "avoid people"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Dry cleaner",
+        "text": "Shop any time",
         "aliases": [
-          "cleaners"
+          "open all night"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Gas station",
+        "text": "No salesperson",
         "aliases": [
-          "petrol station"
+          "avoid sales staff"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-351",
     "category": "Everyday life",
-    "prompt": "Name a reason someone keeps a receipt.",
+    "prompt": "Name something that makes a bargain stop feeling like a bargain.",
     "answers": [
       {
-        "text": "Return an item",
+        "text": "Shipping fee",
         "aliases": [
-          "get a refund"
+          "delivery charge"
         ],
         "points": 30
       },
       {
-        "text": "Track spending",
+        "text": "Breaks quickly",
         "aliases": [
-          "budgeting"
+          "poor quality"
         ],
         "points": 24
       },
       {
-        "text": "Warranty claim",
+        "text": "Expensive refills",
         "aliases": [
-          "proof of warranty"
+          "replacement costs"
         ],
         "points": 18
       },
       {
-        "text": "Expense reimbursement",
+        "text": "Wrong size",
         "aliases": [
-          "claim expenses"
+          "doesn't fit"
         ],
         "points": 13
       },
       {
-        "text": "Check for mistakes",
+        "text": "Subscription charge",
         "aliases": [
-          "verify charges"
+          "recurring fee"
         ],
         "points": 9
       },
       {
-        "text": "Proof of purchase",
+        "text": "Cheaper somewhere else",
         "aliases": [
-          "prove payment"
+          "lower price elsewhere"
         ],
         "points": 6
       }
@@ -2012,96 +2025,96 @@
   {
     "id": "everyday-352",
     "category": "Everyday life",
-    "prompt": "Name a store department where a shopper might ask for help finding the right size.",
+    "prompt": "Name something people are surprisingly picky about buying.",
     "answers": [
       {
-        "text": "Clothing",
+        "text": "Toilet paper",
         "aliases": [
-          "apparel"
+          "toilet roll"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Shoes",
+        "text": "Pillows",
         "aliases": [
-          "footwear"
+          "pillow"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Bedding",
+        "text": "Jeans",
         "aliases": [
-          "bed linens"
+          "denim"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Curtains",
+        "text": "Toothpaste",
         "aliases": [
-          "window coverings"
+          "tooth paste"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Hardware",
+        "text": "Coffee",
         "aliases": [
-          "nuts and bolts"
+          "coffee beans"
         ],
         "points": 8
       },
       {
-        "text": "Luggage",
+        "text": "Mugs",
         "aliases": [
-          "suitcases"
+          "coffee cups"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "everyday-353",
     "category": "Everyday life",
-    "prompt": "Name a reason someone abandons an online shopping cart.",
+    "prompt": "Name something people do in a fitting room besides try on clothes.",
     "answers": [
       {
-        "text": "Shipping costs",
+        "text": "Take a selfie",
         "aliases": [
-          "delivery fee"
+          "take photos"
         ],
         "points": 28
       },
       {
-        "text": "Found a better price",
+        "text": "Dance",
         "aliases": [
-          "cheaper elsewhere"
+          "dance around"
         ],
         "points": 23
       },
       {
-        "text": "Delivery too slow",
+        "text": "Check their phone",
         "aliases": [
-          "long shipping time"
+          "read messages"
         ],
         "points": 19
       },
       {
-        "text": "Changed their mind",
+        "text": "Sit down",
         "aliases": [
-          "no longer want it"
+          "take a rest"
         ],
         "points": 14
       },
       {
-        "text": "Website problem",
+        "text": "Fix their hair",
         "aliases": [
-          "checkout error"
+          "do hair"
         ],
         "points": 10
       },
       {
-        "text": "Required account",
+        "text": "Ask a friend",
         "aliases": [
-          "must sign up"
+          "get an opinion"
         ],
         "points": 6
       }
@@ -2110,96 +2123,96 @@
   {
     "id": "everyday-354",
     "category": "Everyday life",
-    "prompt": "Name something in a store display that can tempt someone to buy more.",
+    "prompt": "Name something people buy hoping it will solve all their problems.",
     "answers": [
       {
-        "text": "Sale sign",
+        "text": "New phone",
         "aliases": [
-          "discount sign"
+          "smartphone"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Free samples",
+        "text": "New clothes",
         "aliases": [
-          "try before buying"
+          "new outfit"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Bright packaging",
+        "text": "Self-help book",
         "aliases": [
-          "colorful packages"
+          "self improvement book"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "New products",
+        "text": "Gym membership",
         "aliases": [
-          "new arrivals"
+          "join a gym"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Matching accessories",
+        "text": "Vacation",
         "aliases": [
-          "coordinating items"
+          "holiday"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Limited time offer",
+        "text": "Lottery ticket",
         "aliases": [
-          "special offer"
+          "lotto ticket"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-355",
     "category": "Everyday life",
-    "prompt": "Name something people consider when planning the order of their errands.",
+    "prompt": "Name a reason people keep a purchase secret.",
     "answers": [
       {
-        "text": "Distance",
+        "text": "Too expensive",
         "aliases": [
-          "location"
+          "cost too much"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Opening hours",
+        "text": "Embarrassing",
         "aliases": [
-          "store hours"
+          "private item"
         ],
         "points": 24
       },
       {
-        "text": "Traffic",
+        "text": "Surprise gift",
         "aliases": [
-          "road congestion"
+          "present"
         ],
         "points": 18
       },
       {
-        "text": "Appointment time",
+        "text": "Broke a house rule",
         "aliases": [
-          "scheduled pickup"
+          "not allowed"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Perishable groceries",
+        "text": "Already own one",
         "aliases": [
-          "frozen food last"
+          "bought a duplicate"
         ],
         "points": 9
       },
       {
-        "text": "Parking",
+        "text": "Promised to stop shopping",
         "aliases": [
-          "parking availability"
+          "shopping too much"
         ],
         "points": 6
       }
@@ -2208,47 +2221,47 @@
   {
     "id": "everyday-356",
     "category": "Everyday life",
-    "prompt": "Name something a shopper might need at a store return counter.",
+    "prompt": "Name something people try to return after using it just once.",
     "answers": [
       {
-        "text": "Receipt",
+        "text": "Party outfit",
         "aliases": [
-          "proof of purchase"
+          "dress for an event"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Purchased item",
+        "text": "Tools",
         "aliases": [
-          "product being returned"
+          "power tool"
         ],
         "points": 24
       },
       {
-        "text": "Original packaging",
+        "text": "Camping gear",
         "aliases": [
-          "box"
+          "tent"
         ],
         "points": 18
       },
       {
-        "text": "Payment card",
+        "text": "Party decorations",
         "aliases": [
-          "card used to pay"
+          "event decorations"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Identification",
+        "text": "Kitchen appliance",
         "aliases": [
-          "photo id"
+          "cooking gadget"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Return label",
+        "text": "Camera",
         "aliases": [
-          "return authorization"
+          "photography equipment"
         ],
         "points": 6
       }
@@ -2257,145 +2270,147 @@
   {
     "id": "everyday-357",
     "category": "Everyday life",
-    "prompt": "Name a reason a shopper asks a store employee for help.",
+    "prompt": "Name something you quietly remove from your cart when the total is too high.",
     "answers": [
       {
-        "text": "Finding an item",
+        "text": "Snacks",
         "aliases": [
-          "where something is"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Checking stock",
-        "aliases": [
-          "stock availability"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Reaching a high shelf",
-        "aliases": [
-          "item out of reach"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Understanding a product",
-        "aliases": [
-          "product advice"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Finding a price",
-        "aliases": [
-          "price question"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Getting a locked item",
-        "aliases": [
-          "unlock display"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-358",
-    "category": "Everyday life",
-    "prompt": "Name a reason someone chooses a cashier instead of self checkout.",
-    "answers": [
-      {
-        "text": "Many items",
-        "aliases": [
-          "full cart"
+          "chips",
+          "candy"
         ],
         "points": 35
       },
       {
-        "text": "Paying cash",
+        "text": "Alcohol",
         "aliases": [
-          "cash payment"
+          "beer",
+          "wine"
         ],
         "points": 25
       },
       {
-        "text": "Needs help",
+        "text": "Clothes",
         "aliases": [
-          "assistance required"
+          "clothing"
         ],
         "points": 16
       },
       {
-        "text": "Coupons",
+        "text": "Magazine",
         "aliases": [
-          "paper coupons"
+          "tabloid"
         ],
         "points": 11
       },
       {
-        "text": "Machine is confusing",
+        "text": "Flowers",
         "aliases": [
-          "hard to use"
+          "bouquet"
         ],
         "points": 8
       },
       {
-        "text": "Wants conversation",
+        "text": "Beauty product",
         "aliases": [
-          "talk to cashier"
+          "makeup"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-359",
+    "id": "everyday-358",
     "category": "Everyday life",
-    "prompt": "Name something people often buy in a multipack.",
+    "prompt": "Name a sales pitch that makes you suspicious.",
     "answers": [
       {
-        "text": "Socks",
+        "text": "Offer ends today",
         "aliases": [
-          "pack of socks"
+          "limited time offer"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Toilet paper",
+        "text": "I own this myself",
         "aliases": [
-          "bathroom tissue"
+          "I bought one too"
+        ],
+        "points": 23
+      },
+      {
+        "text": "You can afford it",
+        "aliases": [
+          "easy payments"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Cheapest anywhere",
+        "aliases": [
+          "won't find it cheaper"
+        ],
+        "points": 14
+      },
+      {
+        "text": "That fits perfectly",
+        "aliases": [
+          "looks great on you"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Let me ask my manager",
+        "aliases": [
+          "talk to my manager"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-359",
+    "category": "Everyday life",
+    "prompt": "Name something people keep buying because they forget they already have it.",
+    "answers": [
+      {
+        "text": "Batteries",
+        "aliases": [
+          "battery"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Spices",
+        "aliases": [
+          "seasoning"
         ],
         "points": 24
       },
       {
-        "text": "Batteries",
+        "text": "Shampoo",
         "aliases": [
-          "battery pack"
+          "hair shampoo"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Pens",
+        "text": "Toothpaste",
         "aliases": [
-          "pack of pens"
+          "tooth paste"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Toothbrushes",
+        "text": "Phone chargers",
         "aliases": [
-          "toothbrush pack"
+          "charging cable"
         ],
         "points": 9
       },
       {
-        "text": "Light bulbs",
+        "text": "Scissors",
         "aliases": [
-          "bulb pack"
+          "pair of scissors"
         ],
         "points": 6
       }
@@ -2404,47 +2419,47 @@
   {
     "id": "everyday-360",
     "category": "Everyday life",
-    "prompt": "Name a sign that a store is about to close.",
+    "prompt": "Name something in a store that makes you think, \"Who buys that?\"",
     "answers": [
       {
-        "text": "Closing announcement",
+        "text": "Expensive water",
         "aliases": [
-          "loudspeaker message"
+          "fancy bottled water"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Lights dimming",
+        "text": "Ugly clothes",
         "aliases": [
-          "lights turning off"
+          "strange outfit"
         ],
         "points": 24
       },
       {
-        "text": "Staff cleaning",
+        "text": "Novelty gift",
         "aliases": [
-          "sweeping floors"
+          "gag gift"
         ],
         "points": 18
       },
       {
-        "text": "Doors being locked",
+        "text": "Huge television",
         "aliases": [
-          "locking entrance"
+          "giant tv"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Registers closing",
+        "text": "Pet outfit",
         "aliases": [
-          "tills closing"
+          "dog clothes"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Customers heading out",
+        "text": "Unusual food",
         "aliases": [
-          "people leaving"
+          "weird snack"
         ],
         "points": 6
       }
@@ -2453,47 +2468,47 @@
   {
     "id": "everyday-361",
     "category": "Everyday life",
-    "prompt": "Name something that can be wrong with an online order when it arrives.",
+    "prompt": "Name something people buy because they saw it in an online video.",
     "answers": [
       {
-        "text": "Wrong item",
+        "text": "Kitchen gadget",
         "aliases": [
-          "incorrect product"
+          "cooking gadget"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Damaged item",
+        "text": "Skincare",
         "aliases": [
-          "broken product"
+          "skin product"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Wrong size",
+        "text": "Food",
         "aliases": [
-          "incorrect size"
+          "snack"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Missing item",
+        "text": "Clothes",
         "aliases": [
-          "incomplete order"
+          "outfit"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Wrong color",
+        "text": "Cleaning product",
         "aliases": [
-          "incorrect color"
+          "cleaner"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Empty package",
+        "text": "Phone accessory",
         "aliases": [
-          "nothing inside"
+          "phone case"
         ],
         "points": 6
       }
@@ -2502,47 +2517,47 @@
   {
     "id": "everyday-362",
     "category": "Everyday life",
-    "prompt": "Name something people do while waiting in a checkout line.",
+    "prompt": "Name something that makes you regret changing checkout lines.",
     "answers": [
       {
-        "text": "Check their phone",
+        "text": "Original line speeds up",
         "aliases": [
-          "use phone"
+          "other line moves faster"
         ],
         "points": 35
       },
       {
-        "text": "Look at magazines",
+        "text": "Customer has lots of coupons",
         "aliases": [
-          "read headlines"
+          "coupon collector"
         ],
         "points": 25
       },
       {
-        "text": "Check their cart",
+        "text": "Register closes",
         "aliases": [
-          "review purchases"
+          "cashier closes lane"
         ],
         "points": 16
       },
       {
-        "text": "Talk to someone",
+        "text": "Price check",
         "aliases": [
-          "chat"
+          "missing price"
         ],
         "points": 11
       },
       {
-        "text": "Watch other lines",
+        "text": "Cashier needs help",
         "aliases": [
-          "compare queues"
+          "calls manager"
         ],
         "points": 8
       },
       {
-        "text": "Count their money",
+        "text": "Customer forgot wallet",
         "aliases": [
-          "get payment ready"
+          "can't pay"
         ],
         "points": 5
       }
@@ -2551,47 +2566,48 @@
   {
     "id": "everyday-363",
     "category": "Everyday life",
-    "prompt": "Name a way shoppers try to spend less money.",
+    "prompt": "Name a reason someone makes a special trip back to a store.",
     "answers": [
       {
-        "text": "Use coupons",
+        "text": "Forgot to buy something",
         "aliases": [
-          "clip coupons"
+          "missed an item"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Shop sales",
+        "text": "Return a purchase",
         "aliases": [
-          "buy on sale"
+          "return something"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Buy store brands",
+        "text": "Left a possession behind",
         "aliases": [
-          "generic brands"
+          "forgot phone",
+          "left wallet"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Compare prices",
+        "text": "Charged incorrectly",
         "aliases": [
-          "price comparison"
+          "overcharged"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Make a list",
+        "text": "A sale started",
         "aliases": [
-          "stick to a list"
+          "new discount"
         ],
-        "points": 9
+        "points": 10
       },
       {
-        "text": "Buy secondhand",
+        "text": "See an attractive employee",
         "aliases": [
-          "used items"
+          "cute cashier"
         ],
         "points": 6
       }
@@ -2600,47 +2616,47 @@
   {
     "id": "everyday-364",
     "category": "Everyday life",
-    "prompt": "Name a reason someone uses a basket instead of a shopping cart.",
+    "prompt": "Name something people suddenly need inside a huge store.",
     "answers": [
       {
-        "text": "Only buying a few things",
+        "text": "Bathroom",
         "aliases": [
-          "small shop"
+          "toilet"
         ],
         "points": 32
       },
       {
-        "text": "Easier to carry",
+        "text": "Help finding something",
         "aliases": [
-          "light purchase"
+          "an employee"
         ],
         "points": 24
       },
       {
-        "text": "Narrow aisles",
+        "text": "Shopping cart",
         "aliases": [
-          "tight spaces"
+          "trolley"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "No carts available",
+        "text": "Water",
         "aliases": [
-          "all carts taken"
+          "drink"
         ],
         "points": 12
       },
       {
-        "text": "Avoid buying too much",
+        "text": "Store map",
         "aliases": [
-          "limit purchases"
+          "directions"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Quicker trip",
+        "text": "A seat",
         "aliases": [
-          "in a hurry"
+          "place to sit"
         ],
         "points": 6
       }
@@ -2649,47 +2665,47 @@
   {
     "id": "everyday-365",
     "category": "Everyday life",
-    "prompt": "Name something people check when tracking a delivery.",
+    "prompt": "Name something people do when a store alarm goes off as they leave.",
     "answers": [
       {
-        "text": "Arrival date",
+        "text": "Freeze",
         "aliases": [
-          "delivery day"
+          "stop walking"
         ],
-        "points": 28
+        "points": 29
       },
       {
-        "text": "Current location",
+        "text": "Look behind them",
         "aliases": [
-          "where package is"
+          "look back"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Delivery status",
+        "text": "Check their bags",
         "aliases": [
-          "shipped status"
+          "search shopping"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Time window",
+        "text": "Keep walking",
         "aliases": [
-          "arrival time"
+          "walk away"
         ],
         "points": 14
       },
       {
-        "text": "Tracking number",
+        "text": "Raise their hands",
         "aliases": [
-          "tracking code"
+          "hands up"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Delivery photo",
+        "text": "Show the receipt",
         "aliases": [
-          "proof of delivery"
+          "prove they paid"
         ],
         "points": 6
       }
@@ -2698,145 +2714,145 @@
   {
     "id": "everyday-366",
     "category": "Everyday life",
-    "prompt": "Name something people do to stretch a low phone battery.",
+    "prompt": "Name a small lie people tell a dentist.",
     "answers": [
       {
-        "text": "Lower brightness",
+        "text": "I floss every day",
         "aliases": [
-          "dim screen"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Turn on low power mode",
-        "aliases": [
-          "battery saver"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Close apps",
-        "aliases": [
-          "shut apps"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Stop watching videos",
-        "aliases": [
-          "avoid streaming"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Turn off bluetooth",
-        "aliases": [
-          "disable bluetooth"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Put it in airplane mode",
-        "aliases": [
-          "flight mode"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "everyday-367",
-    "category": "Everyday life",
-    "prompt": "Name a place where people usually put their phone on silent.",
-    "answers": [
-      {
-        "text": "Movie theater",
-        "aliases": [
-          "cinema"
+          "I always floss"
         ],
         "points": 30
       },
       {
-        "text": "Library",
+        "text": "I brush twice a day",
         "aliases": [
-          "public library"
+          "I brush regularly"
         ],
         "points": 24
       },
       {
-        "text": "Meeting",
+        "text": "I don't eat sugar",
         "aliases": [
-          "work meeting"
+          "no sweets"
         ],
         "points": 18
       },
       {
-        "text": "Classroom",
+        "text": "I don't smoke",
         "aliases": [
-          "class"
+          "nonsmoker"
         ],
         "points": 13
       },
       {
-        "text": "Place of worship",
+        "text": "That doesn't hurt",
         "aliases": [
-          "church"
+          "no pain"
         ],
         "points": 9
       },
       {
-        "text": "Live performance",
+        "text": "I wear my retainer",
         "aliases": [
-          "theater"
+          "use my retainer"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "everyday-368",
+    "id": "everyday-367",
     "category": "Everyday life",
-    "prompt": "Name something people customize on a new phone.",
+    "prompt": "Name something people pretend to have read.",
     "answers": [
       {
-        "text": "Wallpaper",
+        "text": "Terms and conditions",
         "aliases": [
-          "background picture"
+          "user agreement"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Ringtone",
+        "text": "Book",
         "aliases": [
-          "ring tone"
+          "novel"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Lock screen",
+        "text": "Email",
         "aliases": [
-          "lockscreen"
+          "message"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "App layout",
+        "text": "Instructions",
         "aliases": [
-          "home screen arrangement"
+          "manual"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Notification settings",
+        "text": "Contract",
         "aliases": [
-          "alerts"
+          "legal document"
         ],
         "points": 8
       },
       {
-        "text": "Text size",
+        "text": "News article",
         "aliases": [
-          "font size"
+          "article"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-368",
+    "category": "Everyday life",
+    "prompt": "Name something people pretend to understand.",
+    "answers": [
+      {
+        "text": "A joke",
+        "aliases": [
+          "punchline"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Directions",
+        "aliases": [
+          "how to get there"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Tech advice",
+        "aliases": [
+          "computer explanation"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Sports rules",
+        "aliases": [
+          "rules of a sport"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Tax forms",
+        "aliases": [
+          "taxes"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Art",
+        "aliases": [
+          "modern art"
         ],
         "points": 6
       }
@@ -2845,47 +2861,47 @@
   {
     "id": "everyday-369",
     "category": "Everyday life",
-    "prompt": "Name a photo someone might search for in their camera roll.",
+    "prompt": "Name something people exaggerate when telling a story.",
     "answers": [
       {
-        "text": "Family photo",
+        "text": "How fast they went",
         "aliases": [
-          "picture of family"
+          "speed"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Pet photo",
+        "text": "Size of a fish",
         "aliases": [
-          "picture of pet"
+          "fish they caught"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Vacation picture",
+        "text": "Money spent",
         "aliases": [
-          "holiday photo"
+          "cost"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Screenshot",
+        "text": "Number of people",
         "aliases": [
-          "screen capture"
+          "crowd size"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Receipt",
+        "text": "How long they waited",
         "aliases": [
-          "receipt photo"
+          "waiting time"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Selfie",
+        "text": "Their own role",
         "aliases": [
-          "self portrait"
+          "how much they helped"
         ],
         "points": 6
       }
@@ -2894,96 +2910,96 @@
   {
     "id": "everyday-370",
     "category": "Everyday life",
-    "prompt": "Name something people save by taking a screenshot.",
+    "prompt": "Name something people claim they can do until you ask for a demonstration.",
     "answers": [
       {
-        "text": "Directions",
+        "text": "Sing",
         "aliases": [
-          "map"
+          "singing"
         ],
-        "points": 35
+        "points": 29
       },
       {
-        "text": "Funny message",
+        "text": "Dance",
         "aliases": [
-          "text conversation"
+          "dancing"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Order confirmation",
+        "text": "Cook",
         "aliases": [
-          "purchase confirmation"
+          "cooking"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Recipe",
+        "text": "Speak another language",
         "aliases": [
-          "cooking instructions"
+          "speak a foreign language"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Event ticket",
+        "text": "Play an instrument",
         "aliases": [
-          "digital ticket"
+          "play guitar"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Information to remember",
+        "text": "Do push-ups",
         "aliases": [
-          "useful details"
+          "pushups"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-371",
     "category": "Everyday life",
-    "prompt": "Name an app notification people often swipe away without opening.",
+    "prompt": "Name something someone is still doing when they claim they're already on their way.",
     "answers": [
       {
-        "text": "Shopping promotion",
+        "text": "Showering",
         "aliases": [
-          "sale alert"
+          "in the shower"
         ],
         "points": 30
       },
       {
-        "text": "Game reminder",
+        "text": "Getting dressed",
         "aliases": [
-          "game notification"
+          "putting clothes on"
         ],
         "points": 24
       },
       {
-        "text": "Social media suggestion",
+        "text": "Lying in bed",
         "aliases": [
-          "suggested post"
+          "still asleep"
         ],
         "points": 18
       },
       {
-        "text": "News headline",
+        "text": "Looking for keys",
         "aliases": [
-          "news alert"
+          "finding keys"
         ],
         "points": 13
       },
       {
-        "text": "App update",
+        "text": "Eating",
         "aliases": [
-          "update available"
+          "finishing food"
         ],
         "points": 9
       },
       {
-        "text": "Subscription offer",
+        "text": "Doing their hair",
         "aliases": [
-          "upgrade offer"
+          "styling hair"
         ],
         "points": 6
       }
@@ -2992,96 +3008,96 @@
   {
     "id": "everyday-372",
     "category": "Everyday life",
-    "prompt": "Name something annoying that can happen during a software update.",
+    "prompt": "Name something people say they forgot when they're really avoiding it.",
     "answers": [
       {
-        "text": "Takes too long",
+        "text": "Paying someone back",
         "aliases": [
-          "slow update"
+          "repaying money"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Device restarts",
+        "text": "A chore",
         "aliases": [
-          "unexpected reboot"
+          "housework"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Runs out of storage",
+        "text": "An invitation",
         "aliases": [
-          "not enough space"
+          "party invite"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Battery gets low",
+        "text": "Homework",
         "aliases": [
-          "low battery"
+          "assignment"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Download fails",
+        "text": "A phone call",
         "aliases": [
-          "update failure"
+          "calling someone"
         ],
         "points": 8
       },
       {
-        "text": "Settings change",
+        "text": "An appointment",
         "aliases": [
-          "changed preferences"
+          "meeting"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "everyday-373",
     "category": "Everyday life",
-    "prompt": "Name a reason someone puts on headphones during the day.",
+    "prompt": "Name something people ask for advice about \"for a friend.\"",
     "answers": [
       {
-        "text": "Listen to music",
+        "text": "Dating problem",
         "aliases": [
-          "play music"
+          "relationship trouble"
         ],
         "points": 28
       },
       {
-        "text": "Hear a podcast",
+        "text": "A crush",
         "aliases": [
-          "listen to podcast"
+          "someone they like"
         ],
         "points": 23
       },
       {
-        "text": "Take a call",
+        "text": "Debt",
         "aliases": [
-          "phone call"
+          "money problems"
         ],
         "points": 19
       },
       {
-        "text": "Block outside noise",
+        "text": "Bad grade",
         "aliases": [
-          "noise cancellation"
+          "failed test"
         ],
         "points": 14
       },
       {
-        "text": "Watch a video",
+        "text": "Embarrassing injury",
         "aliases": [
-          "watch videos"
+          "awkward injury"
         ],
         "points": 10
       },
       {
-        "text": "Listen to an audiobook",
+        "text": "Bad haircut",
         "aliases": [
-          "audio book"
+          "hair disaster"
         ],
         "points": 6
       }
@@ -3090,96 +3106,96 @@
   {
     "id": "everyday-374",
     "category": "Everyday life",
-    "prompt": "Name a place people discover a missing wireless earbud.",
+    "prompt": "Name a gift people pretend to love.",
     "answers": [
       {
-        "text": "Between couch cushions",
+        "text": "Clothes",
         "aliases": [
-          "inside sofa"
+          "sweater"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Coat pocket",
+        "text": "Candle",
         "aliases": [
-          "jacket pocket"
+          "scented candle"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Bottom of a bag",
+        "text": "Perfume",
         "aliases": [
-          "inside handbag"
+          "cologne"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Under the bed",
+        "text": "Food",
         "aliases": [
-          "beneath bed"
+          "chocolates"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Inside the car",
+        "text": "Book",
         "aliases": [
-          "car seat"
+          "novel"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Laundry basket",
+        "text": "Home decoration",
         "aliases": [
-          "clothes hamper"
+          "ornament"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-375",
     "category": "Everyday life",
-    "prompt": "Name something people ask a smart speaker to do.",
+    "prompt": "Name something people do when they can't remember your name.",
     "answers": [
       {
-        "text": "Play music",
+        "text": "Ask a mutual friend",
         "aliases": [
-          "play a song"
+          "ask someone else"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Set a timer",
+        "text": "Check social media",
         "aliases": [
-          "start timer"
+          "look online"
         ],
         "points": 24
       },
       {
-        "text": "Tell the weather",
+        "text": "Introduce you to someone",
         "aliases": [
-          "weather forecast"
+          "wait for introductions"
         ],
         "points": 18
       },
       {
-        "text": "Set an alarm",
+        "text": "Use a nickname",
         "aliases": [
-          "wake up alarm"
+          "call you buddy"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Turn on lights",
+        "text": "Ask you to spell it",
         "aliases": [
-          "control lights"
+          "ask spelling"
         ],
         "points": 9
       },
       {
-        "text": "Answer a question",
+        "text": "Admit they forgot",
         "aliases": [
-          "look something up"
+          "ask again"
         ],
         "points": 6
       }
@@ -3188,47 +3204,47 @@
   {
     "id": "everyday-376",
     "category": "Everyday life",
-    "prompt": "Name something people delete to free up phone storage.",
+    "prompt": "Name something that turns a calm shopper into a one-star reviewer.",
     "answers": [
       {
-        "text": "Photos",
+        "text": "Rude staff",
         "aliases": [
-          "old pictures"
+          "bad service"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Videos",
+        "text": "Wrong item",
         "aliases": [
-          "video files"
+          "wrong order"
         ],
         "points": 24
       },
       {
-        "text": "Unused apps",
+        "text": "Broken product",
         "aliases": [
-          "old apps"
+          "damaged item"
         ],
         "points": 18
       },
       {
-        "text": "Downloaded music",
+        "text": "Long wait",
         "aliases": [
-          "songs"
+          "slow service"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Old messages",
+        "text": "Hidden charge",
         "aliases": [
-          "text messages"
+          "extra fee"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Downloaded podcasts",
+        "text": "Refused refund",
         "aliases": [
-          "podcast episodes"
+          "no refund"
         ],
         "points": 6
       }
@@ -3237,47 +3253,47 @@
   {
     "id": "everyday-377",
     "category": "Everyday life",
-    "prompt": "Name something that becomes frustrating when the internet is slow.",
+    "prompt": "Name a small mistake you wish came with an undo button.",
     "answers": [
       {
-        "text": "Watching videos",
+        "text": "Sending a message",
         "aliases": [
-          "streaming"
+          "sending a text"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Video calls",
+        "text": "Getting a bad haircut",
         "aliases": [
-          "video chat"
+          "haircut"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Downloading files",
+        "text": "An impulse purchase",
         "aliases": [
-          "downloads"
+          "clicking buy"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Online games",
+        "text": "Deleting a file",
         "aliases": [
-          "gaming"
+          "deleted photo"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Loading websites",
+        "text": "Spilling a drink",
         "aliases": [
-          "browsing"
+          "spilled coffee"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Uploading photos",
+        "text": "Locking yourself out",
         "aliases": [
-          "photo uploads"
+          "locked out"
         ],
         "points": 6
       }
@@ -3286,96 +3302,96 @@
   {
     "id": "everyday-378",
     "category": "Everyday life",
-    "prompt": "Name a type of app people keep easy to reach on their home screen.",
+    "prompt": "Name something people do to make it look like they've been cleaning.",
     "answers": [
       {
-        "text": "Messaging",
+        "text": "Spray air freshener",
         "aliases": [
-          "text messages"
+          "use room spray"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Camera",
+        "text": "Hide clutter",
         "aliases": [
-          "photo app"
+          "put mess in closet"
         ],
-        "points": 25
+        "points": 23
       },
       {
-        "text": "Maps",
+        "text": "Wipe a counter",
         "aliases": [
-          "navigation"
+          "clean surfaces"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Email",
+        "text": "Run the vacuum",
         "aliases": [
-          "mail app"
+          "vacuum"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Music",
+        "text": "Open windows",
         "aliases": [
-          "music player"
+          "air the room"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Weather",
+        "text": "Put out fresh towels",
         "aliases": [
-          "forecast app"
+          "change towels"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-379",
     "category": "Everyday life",
-    "prompt": "Name a problem that can interrupt a video call.",
+    "prompt": "Name something people promise they'll start on Monday.",
     "answers": [
       {
-        "text": "Frozen picture",
+        "text": "Diet",
         "aliases": [
-          "screen freezes"
+          "healthy eating"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "No sound",
+        "text": "Exercise",
         "aliases": [
-          "audio missing"
+          "working out"
         ],
         "points": 24
       },
       {
-        "text": "Dropped connection",
+        "text": "Studying",
         "aliases": [
-          "call disconnects"
+          "revision"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Echo",
+        "text": "Saving money",
         "aliases": [
-          "audio echo"
+          "budgeting"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Camera not working",
+        "text": "Cleaning",
         "aliases": [
-          "no video"
+          "housework"
         ],
         "points": 9
       },
       {
-        "text": "Background noise",
+        "text": "Quitting smoking",
         "aliases": [
-          "loud surroundings"
+          "stop smoking"
         ],
         "points": 6
       }
@@ -3384,47 +3400,47 @@
   {
     "id": "everyday-380",
     "category": "Everyday life",
-    "prompt": "Name a change someone makes to a photo before sharing it.",
+    "prompt": "Name something people check when they think nobody is looking.",
     "answers": [
       {
-        "text": "Crop it",
+        "text": "Their reflection",
         "aliases": [
-          "cropping"
+          "appearance"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Add a filter",
+        "text": "Bank balance",
         "aliases": [
-          "filter"
+          "bank account"
         ],
         "points": 24
       },
       {
-        "text": "Brighten it",
+        "text": "Someone else's phone",
         "aliases": [
-          "adjust brightness"
+          "partner's phone"
         ],
         "points": 18
       },
       {
-        "text": "Straighten it",
+        "text": "Food in their teeth",
         "aliases": [
-          "rotate it"
+          "check teeth"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Add a caption",
+        "text": "The clock",
         "aliases": [
-          "add text"
+          "time"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Blur something",
+        "text": "Their zipper",
         "aliases": [
-          "hide detail"
+          "fly"
         ],
         "points": 6
       }
@@ -3433,47 +3449,47 @@
   {
     "id": "everyday-381",
     "category": "Everyday life",
-    "prompt": "Name a reason someone changes their ringtone.",
+    "prompt": "Name something you would hate to find stuck to the bottom of your shoe.",
     "answers": [
       {
-        "text": "Bored with it",
+        "text": "Chewing gum",
         "aliases": [
-          "want a change"
+          "gum"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Too quiet",
+        "text": "Dog poop",
         "aliases": [
-          "cannot hear it"
+          "dog mess"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Too loud",
+        "text": "Toilet paper",
         "aliases": [
-          "too startling"
+          "bathroom tissue"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Sounds like someone else phone",
+        "text": "Wet paint",
         "aliases": [
-          "same ringtone"
+          "paint"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Wants a favorite song",
+        "text": "A dead bug",
         "aliases": [
-          "personalize it"
+          "squashed insect"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Old one is embarrassing",
+        "text": "A price sticker",
         "aliases": [
-          "awkward ringtone"
+          "sticky label"
         ],
         "points": 6
       }
@@ -3482,47 +3498,47 @@
   {
     "id": "everyday-382",
     "category": "Everyday life",
-    "prompt": "Name something people use a smartwatch to check.",
+    "prompt": "Name something you wish you could fix after you've already left home.",
     "answers": [
       {
-        "text": "Time",
+        "text": "Bad breath",
         "aliases": [
-          "clock"
+          "breath"
         ],
         "points": 35
       },
       {
-        "text": "Step count",
+        "text": "Messy hair",
         "aliases": [
-          "steps"
+          "bad hair"
         ],
         "points": 25
       },
       {
-        "text": "Messages",
+        "text": "Wrinkled clothes",
         "aliases": [
-          "texts"
+          "creases"
         ],
         "points": 16
       },
       {
-        "text": "Heart rate",
+        "text": "Body odor",
         "aliases": [
-          "pulse"
+          "sweat smell"
         ],
         "points": 11
       },
       {
-        "text": "Weather",
+        "text": "Mismatched socks",
         "aliases": [
-          "forecast"
+          "odd socks"
         ],
         "points": 8
       },
       {
-        "text": "Workout progress",
+        "text": "Unzipped pants",
         "aliases": [
-          "exercise stats"
+          "open fly"
         ],
         "points": 5
       }
@@ -3531,47 +3547,47 @@
   {
     "id": "everyday-383",
     "category": "Everyday life",
-    "prompt": "Name a way a phone can help someone in a grocery store.",
+    "prompt": "Name something people do in the shower besides wash.",
     "answers": [
       {
-        "text": "Read shopping list",
+        "text": "Sing",
         "aliases": [
-          "grocery list"
+          "singing"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Compare prices",
+        "text": "Think",
         "aliases": [
-          "price check"
+          "daydream"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Use digital coupons",
+        "text": "Rehearse an argument",
         "aliases": [
-          "coupon app"
+          "imaginary argument"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Check a recipe",
+        "text": "Dance",
         "aliases": [
-          "recipe ingredients"
+          "dancing"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Calculate total",
+        "text": "Cry",
         "aliases": [
-          "calculator"
+          "crying"
         ],
-        "points": 9
+        "points": 10
       },
       {
-        "text": "Call someone about an item",
+        "text": "Pee",
         "aliases": [
-          "ask what to buy"
+          "urinate"
         ],
         "points": 6
       }
@@ -3580,47 +3596,47 @@
   {
     "id": "everyday-384",
     "category": "Everyday life",
-    "prompt": "Name something people accidentally do on their phone.",
+    "prompt": "Name a reason someone laughs at a joke they didn't hear.",
     "answers": [
       {
-        "text": "Call someone",
+        "text": "Be polite",
         "aliases": [
-          "pocket dial"
+          "good manners"
         ],
         "points": 32
       },
       {
-        "text": "Send a message",
+        "text": "Everyone else is laughing",
         "aliases": [
-          "send too soon"
+          "join in"
         ],
         "points": 24
       },
       {
-        "text": "Take a screenshot",
+        "text": "They fancy the speaker",
         "aliases": [
-          "accidental screen capture"
+          "have a crush"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Open the camera",
+        "text": "The boss told it",
         "aliases": [
-          "launch camera"
+          "impress boss"
         ],
         "points": 12
       },
       {
-        "text": "Turn on flashlight",
+        "text": "Don't want it repeated",
         "aliases": [
-          "torch on"
+          "avoid asking again"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Like a post",
+        "text": "They're nervous",
         "aliases": [
-          "accidental like"
+          "nervous laughter"
         ],
         "points": 6
       }
@@ -3629,47 +3645,47 @@
   {
     "id": "everyday-385",
     "category": "Everyday life",
-    "prompt": "Name a reason someone turns down their screen brightness.",
+    "prompt": "Name something people do when alone in front of a mirror.",
     "answers": [
       {
-        "text": "Save battery",
+        "text": "Take a selfie",
         "aliases": [
-          "battery conservation"
+          "take pictures"
         ],
-        "points": 28
+        "points": 29
       },
       {
-        "text": "Dark room",
+        "text": "Pop a pimple",
         "aliases": [
-          "lights out"
+          "squeeze a spot"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Avoid disturbing someone",
+        "text": "Practice a speech",
         "aliases": [
-          "someone sleeping"
+          "rehearse talking"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Screen feels too bright",
+        "text": "Make faces",
         "aliases": [
-          "glare"
+          "pull faces"
         ],
         "points": 14
       },
       {
-        "text": "Watching a movie",
+        "text": "Check their teeth",
         "aliases": [
-          "at the cinema"
+          "look at teeth"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Keep the screen private",
+        "text": "Sing",
         "aliases": [
-          "privacy"
+          "singing"
         ],
         "points": 6
       }
@@ -3678,98 +3694,98 @@
   {
     "id": "everyday-386",
     "category": "Everyday life",
-    "prompt": "Name something people prepare the night before to save time in the morning.",
+    "prompt": "Name something people keep using long after they should replace it.",
     "answers": [
       {
-        "text": "Clothes",
+        "text": "Toothbrush",
         "aliases": [
-          "outfit"
+          "old toothbrush"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Lunch",
+        "text": "Underwear",
         "aliases": [
-          "packed lunch"
+          "underpants"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Bag",
+        "text": "Towel",
         "aliases": [
-          "backpack"
+          "bath towel"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Breakfast",
+        "text": "Razor",
         "aliases": [
-          "overnight oats"
+          "shaving blade"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Coffee maker",
+        "text": "Shoes",
         "aliases": [
-          "coffee machine"
+          "old sneakers"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Directions",
+        "text": "Pillow",
         "aliases": [
-          "route plan"
+          "bed pillow"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-387",
     "category": "Everyday life",
-    "prompt": "Name a routine people find hard to restart after a long vacation.",
+    "prompt": "Name something people do to seem freshly showered when they're not.",
     "answers": [
       {
-        "text": "Waking up early",
+        "text": "Use deodorant",
         "aliases": [
-          "early mornings"
+          "put on deodorant"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Exercising",
+        "text": "Spray perfume",
         "aliases": [
-          "workouts"
+          "cologne"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Cooking meals",
+        "text": "Wash their face",
         "aliases": [
-          "meal preparation"
+          "splash face"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Going to bed early",
+        "text": "Change clothes",
         "aliases": [
-          "early bedtime"
+          "fresh outfit"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Eating on a schedule",
+        "text": "Use dry shampoo",
         "aliases": [
-          "regular mealtimes"
+          "dry shampoo"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Limiting screen time",
+        "text": "Wet their hair",
         "aliases": [
-          "less phone time"
+          "dampen hair"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
@@ -3825,47 +3841,47 @@
   {
     "id": "everyday-389",
     "category": "Everyday life",
-    "prompt": "Name something people adjust to make their bed more comfortable.",
+    "prompt": "Name something people get competitive about tracking on their phone.",
     "answers": [
       {
-        "text": "Pillows",
+        "text": "Steps",
         "aliases": [
-          "pillow position"
+          "step count"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Blanket",
+        "text": "Sleep",
         "aliases": [
-          "covers"
+          "hours slept"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Room temperature",
+        "text": "Water intake",
         "aliases": [
-          "thermostat"
+          "water drunk"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Mattress topper",
+        "text": "Screen time",
         "aliases": [
-          "bed topper"
+          "phone usage"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Sheet",
+        "text": "Word game score",
         "aliases": [
-          "bedsheet"
+          "daily puzzle score"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Sleepwear",
+        "text": "Money saved",
         "aliases": [
-          "pajamas"
+          "savings"
         ],
         "points": 6
       }
@@ -3874,96 +3890,96 @@
   {
     "id": "everyday-390",
     "category": "Everyday life",
-    "prompt": "Name a part of getting ready that often takes longer than expected.",
+    "prompt": "Name something people do when caught talking to themselves.",
     "answers": [
       {
-        "text": "Doing hair",
+        "text": "Stop talking",
         "aliases": [
-          "styling hair"
+          "go quiet"
         ],
-        "points": 35
+        "points": 29
       },
       {
-        "text": "Choosing clothes",
+        "text": "Look around",
         "aliases": [
-          "picking an outfit"
+          "see who heard"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Applying makeup",
+        "text": "Pretend to be on a call",
         "aliases": [
-          "makeup"
+          "fake phone call"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Taking a shower",
+        "text": "Laugh",
         "aliases": [
-          "showering"
+          "laugh it off"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Finding matching socks",
+        "text": "Keep talking",
         "aliases": [
-          "sock search"
+          "carry on"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Tying a tie",
+        "text": "Explain themselves",
         "aliases": [
-          "necktie"
+          "make an excuse"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-391",
     "category": "Everyday life",
-    "prompt": "Name something that helps people stick with a new daily habit.",
+    "prompt": "Name something people try to do quietly and fail.",
     "answers": [
       {
-        "text": "Set a reminder",
+        "text": "Fart",
         "aliases": [
-          "alarm reminder"
+          "pass gas"
         ],
         "points": 30
       },
       {
-        "text": "Do it at the same time",
+        "text": "Sneeze",
         "aliases": [
-          "fixed schedule"
+          "sneezing"
         ],
         "points": 24
       },
       {
-        "text": "Track progress",
+        "text": "Open a snack bag",
         "aliases": [
-          "habit tracker"
+          "open chips"
         ],
         "points": 18
       },
       {
-        "text": "Find a partner",
+        "text": "Sneak out",
         "aliases": [
-          "accountability buddy"
+          "leave unnoticed"
         ],
         "points": 13
       },
       {
-        "text": "Start small",
+        "text": "Burp",
         "aliases": [
-          "small steps"
+          "belch"
         ],
         "points": 9
       },
       {
-        "text": "Reward themselves",
+        "text": "Flush the toilet",
         "aliases": [
-          "give a reward"
+          "flush"
         ],
         "points": 6
       }
@@ -3972,96 +3988,96 @@
   {
     "id": "everyday-392",
     "category": "Everyday life",
-    "prompt": "Name a situation where five minutes can feel like a long wait.",
+    "prompt": "Name something people tell themselves after tripping in public.",
     "answers": [
       {
-        "text": "Waiting for a bus",
+        "text": "Nobody saw that",
         "aliases": [
-          "bus stop"
+          "no one noticed"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Standing in line",
+        "text": "I'm fine",
         "aliases": [
-          "queue"
+          "I'm okay"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Waiting for food",
+        "text": "Stupid shoes",
         "aliases": [
-          "restaurant order"
+          "blame shoes"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Holding on the phone",
+        "text": "Watch your step",
         "aliases": [
-          "on hold"
+          "be careful"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Waiting for a download",
+        "text": "That hurt",
         "aliases": [
-          "download progress"
+          "ouch"
         ],
         "points": 8
       },
       {
-        "text": "Waiting for someone running late",
+        "text": "Act natural",
         "aliases": [
-          "late arrival"
+          "play it cool"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "everyday-393",
     "category": "Everyday life",
-    "prompt": "Name an excuse people give for skipping their planned exercise.",
+    "prompt": "Name something people practice alone before trying it in front of others.",
     "answers": [
       {
-        "text": "Too tired",
+        "text": "Dance",
         "aliases": [
-          "exhausted"
+          "dance moves"
         ],
         "points": 28
       },
       {
-        "text": "Too busy",
+        "text": "Speech",
         "aliases": [
-          "no time"
+          "presentation"
         ],
         "points": 23
       },
       {
-        "text": "Bad weather",
+        "text": "Marriage proposal",
         "aliases": [
-          "raining"
+          "proposal"
         ],
         "points": 19
       },
       {
-        "text": "Forgot workout clothes",
+        "text": "Song",
         "aliases": [
-          "no gym clothes"
+          "singing"
         ],
         "points": 14
       },
       {
-        "text": "Gym is crowded",
+        "text": "Joke",
         "aliases": [
-          "too many people"
+          "telling a joke"
         ],
         "points": 10
       },
       {
-        "text": "Will do it tomorrow",
+        "text": "Introduction",
         "aliases": [
-          "start tomorrow"
+          "introducing themselves"
         ],
         "points": 6
       }
@@ -4070,96 +4086,96 @@
   {
     "id": "everyday-394",
     "category": "Everyday life",
-    "prompt": "Name something people like to have when taking a nap.",
+    "prompt": "Name something adults still enjoy even though it feels childish.",
     "answers": [
       {
-        "text": "Pillow",
+        "text": "Jumping in puddles",
         "aliases": [
-          "cushion"
+          "splashing puddles"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Blanket",
+        "text": "Popping bubble wrap",
         "aliases": [
-          "throw"
+          "bubble wrap"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Eye mask",
+        "text": "Watching cartoons",
         "aliases": [
-          "sleep mask"
+          "cartoons"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Quiet room",
+        "text": "Playground swings",
         "aliases": [
-          "silence"
+          "swinging"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Fan",
+        "text": "Snowball fight",
         "aliases": [
-          "white noise"
+          "throwing snowballs"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Comfortable clothes",
+        "text": "Licking the mixing bowl",
         "aliases": [
-          "loose clothes"
+          "cake batter"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-395",
     "category": "Everyday life",
-    "prompt": "Name a reason someone chooses the stairs instead of an elevator.",
+    "prompt": "Name something people do after accidentally making eye contact with a stranger.",
     "answers": [
       {
-        "text": "Get exercise",
+        "text": "Smile",
         "aliases": [
-          "extra steps"
+          "grin"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Only one floor",
+        "text": "Look away",
         "aliases": [
-          "short distance"
+          "avert eyes"
         ],
         "points": 24
       },
       {
-        "text": "Elevator too slow",
+        "text": "Nod",
         "aliases": [
-          "long wait"
+          "nod hello"
         ],
         "points": 18
       },
       {
-        "text": "Elevator broken",
+        "text": "Wave",
         "aliases": [
-          "out of service"
+          "give a wave"
         ],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Avoid a crowd",
+        "text": "Check their phone",
         "aliases": [
-          "crowded elevator"
+          "look at phone"
         ],
         "points": 9
       },
       {
-        "text": "Prefer stairs",
+        "text": "Say hello",
         "aliases": [
-          "dislike elevators"
+          "greet them"
         ],
         "points": 6
       }
@@ -4168,47 +4184,47 @@
   {
     "id": "everyday-396",
     "category": "Everyday life",
-    "prompt": "Name something people do during a short break to recharge.",
+    "prompt": "Name something people check on themselves in a shiny shop window.",
     "answers": [
       {
-        "text": "Take a walk",
+        "text": "Hair",
         "aliases": [
-          "walk around"
+          "hairstyle"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Have a snack",
+        "text": "Clothes",
         "aliases": [
-          "eat something"
+          "outfit"
         ],
         "points": 24
       },
       {
-        "text": "Listen to music",
+        "text": "Posture",
         "aliases": [
-          "play a song"
+          "how they stand"
         ],
         "points": 18
       },
       {
-        "text": "Stretch",
+        "text": "Stomach",
         "aliases": [
-          "stretching"
+          "belly"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Get fresh air",
+        "text": "Makeup",
         "aliases": [
-          "step outside"
+          "cosmetics"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Drink tea or coffee",
+        "text": "Facial expression",
         "aliases": [
-          "coffee break"
+          "their face"
         ],
         "points": 6
       }
@@ -4217,145 +4233,145 @@
   {
     "id": "everyday-397",
     "category": "Everyday life",
-    "prompt": "Name a way people remind themselves to drink more water.",
+    "prompt": "Name something that makes you get dressed on a pajama day.",
     "answers": [
       {
-        "text": "Carry a water bottle",
+        "text": "Visitors",
         "aliases": [
-          "keep bottle nearby"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Set phone reminders",
-        "aliases": [
-          "water alarm"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Use a marked bottle",
-        "aliases": [
-          "bottle with time marks"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Drink with meals",
-        "aliases": [
-          "water at meals"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Track glasses",
-        "aliases": [
-          "water tracker"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Keep a glass on the desk",
-        "aliases": [
-          "visible water glass"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-398",
-    "category": "Everyday life",
-    "prompt": "Name something that interrupts someone who is trying to read.",
-    "answers": [
-      {
-        "text": "Phone notification",
-        "aliases": [
-          "phone alert"
+          "someone coming over"
         ],
         "points": 35
       },
       {
-        "text": "Someone talking",
+        "text": "Errand",
         "aliases": [
-          "conversation"
+          "going to the store"
         ],
         "points": 25
       },
       {
-        "text": "Doorbell",
+        "text": "Video call",
         "aliases": [
-          "visitor"
+          "video meeting"
         ],
         "points": 16
       },
       {
-        "text": "Pet wanting attention",
+        "text": "Dog walk",
         "aliases": [
-          "dog or cat"
+          "walking the dog"
         ],
         "points": 11
       },
       {
-        "text": "Loud television",
+        "text": "Work emergency",
         "aliases": [
-          "tv noise"
+          "called into work"
         ],
         "points": 8
       },
       {
-        "text": "Falling asleep",
+        "text": "Fire alarm",
         "aliases": [
-          "dozing off"
+          "evacuation"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-399",
+    "id": "everyday-398",
     "category": "Everyday life",
-    "prompt": "Name something that can convince a night owl to go to bed earlier.",
+    "prompt": "Name something that makes you panic after hitting Send.",
     "answers": [
       {
-        "text": "Early appointment",
+        "text": "Wrong person",
         "aliases": [
-          "early start"
+          "wrong recipient"
         ],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Big day tomorrow",
+        "text": "Typo",
         "aliases": [
-          "important next day"
+          "spelling mistake"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Missing attachment",
+        "aliases": [
+          "forgot attachment"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Accidental photo",
+        "aliases": [
+          "wrong picture"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Being too honest",
+        "aliases": [
+          "oversharing"
+        ],
+        "points": 10
+      },
+      {
+        "text": "No reply",
+        "aliases": [
+          "left on read"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-399",
+    "category": "Everyday life",
+    "prompt": "Name something you become very aware of when a room goes silent.",
+    "answers": [
+      {
+        "text": "Stomach growling",
+        "aliases": [
+          "rumbling stomach"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Breathing",
+        "aliases": [
+          "loud breathing"
         ],
         "points": 24
       },
       {
-        "text": "Long day",
+        "text": "Chewing",
         "aliases": [
-          "exhausting day"
+          "eating noises"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Someone else going to bed",
+        "text": "Clock ticking",
         "aliases": [
-          "bedtime company"
+          "ticking clock"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Power outage",
+        "text": "Phone vibrating",
         "aliases": [
-          "electricity goes out"
+          "phone buzzing"
         ],
         "points": 9
       },
       {
-        "text": "Nothing good to watch",
+        "text": "Squeaky chair",
         "aliases": [
-          "boring television"
+          "chair squeaking"
         ],
         "points": 6
       }
@@ -4364,47 +4380,48 @@
   {
     "id": "everyday-400",
     "category": "Everyday life",
-    "prompt": "Name a reason someone allows extra time for a simple errand.",
+    "prompt": "Name something you hope the cashier won't comment on.",
     "answers": [
       {
-        "text": "Traffic",
+        "text": "Underwear",
         "aliases": [
-          "traffic delays"
+          "underpants"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Parking",
+        "text": "Condoms",
         "aliases": [
-          "finding a space"
+          "protection"
         ],
         "points": 24
       },
       {
-        "text": "Long lines",
+        "text": "Period products",
         "aliases": [
-          "queues"
+          "tampons",
+          "pads"
         ],
         "points": 18
       },
       {
-        "text": "Unfamiliar location",
+        "text": "Hemorrhoid cream",
         "aliases": [
-          "new destination"
+          "piles cream"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Bad weather",
+        "text": "Diet pills",
         "aliases": [
-          "rain or snow"
+          "weight loss pills"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Might get distracted",
+        "text": "Tabloid",
         "aliases": [
-          "extra browsing"
+          "gossip magazine"
         ],
         "points": 6
       }

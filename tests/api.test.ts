@@ -557,13 +557,18 @@ test("health seeds exactly 2,000 stored boards once and reports the bank without
   assert.equal((await start(f, host, guest)).source, "bank");
 });
 
-async function fullMatchFixture(t: TestContext, mode: RoomSettings["mode"], guestNames: string[]) {
+async function fullMatchFixture(
+  t: TestContext,
+  mode: RoomSettings["mode"],
+  guestNames: string[],
+  settings: Partial<RoomSettings> = {},
+) {
   const clock = { now: Date.now() };
   t.mock.method(Date, "now", () => clock.now);
   t.mock.method(globalThis, "fetch", () => { throw new Error("A full stored-bank match must not use the network."); });
   const f = await fixture();
   t.after(f.close);
-  const host = await create(f.env, "Host", { mode });
+  const host = await create(f.env, "Host", { ...settings, mode });
   const guests: ApiSessionResponse[] = [];
   for (const name of guestNames) guests.push(await join(f.env, host.session.code.toLowerCase(), name));
   const seats = [host, ...guests];
@@ -742,4 +747,134 @@ test("a complete four-player teams API match rotates turns, resolves steals and 
   assert.equal(scores.get(blueOne.session.playerId), deck[0].answers[1].points + deck[1].answers[0].points);
   assert.equal(scores.get(blueTwo.session.playerId), 0);
   await assertRematchAndFreshDeck(match);
+});
+
+test("a twelve-seat lobby accepts concurrent code joins and rejects the thirteenth without losing seats", async (t) => {
+  const f = await fixture();
+  t.after(f.close);
+  const host = await create(f.env, "Host", { maxPlayers: 12 });
+  const attempts = await Promise.all(Array.from({ length: 12 }, (_, index) =>
+    request<ApiSessionResponse & Partial<ErrorBody>>(f.env, `/api/rooms/${host.session.code.toLowerCase()}/join`, {
+      body: { name: `Player ${index + 2}`, avatar: index % 8 },
+    })));
+  const joined = attempts.filter((result) => result.response.status === 200);
+  const rejected = attempts.filter((result) => result.response.status !== 200);
+  assert.equal(joined.length, 11);
+  assert.equal(rejected.length, 1);
+  assert.equal(rejected[0].response.status, 400);
+  assert.match(rejected[0].data.error!, /full/);
+  const seats = [host, ...joined.map((result) => result.data)];
+  assert.equal(new Set(seats.map((seat) => seat.session.playerId)).size, 12);
+  assert.equal(new Set(seats.map((seat) => seat.session.token)).size, 12);
+  const persisted = storedRoom(f, host.session.code);
+  assert.deepEqual(new Set(persisted.players.map((player) => player.id)), new Set(seats.map((seat) => seat.session.playerId)));
+  const views = await Promise.all(seats.map((seat) =>
+    request<{ room: RoomView }>(f.env, `/api/rooms/${host.session.code}`, { token: seat.session.token })));
+  assert.ok(views.every((result) => result.response.status === 200 && result.data.room.players.length === 12));
+});
+
+async function assertTwelveSeatScores(
+  match: Awaited<ReturnType<typeof fullMatchFixture>>,
+  expected: Map<string, number>,
+  teamScores: [number, number],
+) {
+  const views = await Promise.all(match.seats.map((seat) => match.poll(seat)));
+  for (const view of views) {
+    assert.equal(view.code, match.host.session.code);
+    assert.equal(view.players.length, 12);
+    assert.deepEqual(view.teamScores, teamScores);
+    for (const player of view.players) assert.equal(player.score, expected.get(player.id));
+  }
+}
+
+test("twelve solo players finish a full match and rematch with synchronized race scores and the same seats", async (t) => {
+  const match = await fullMatchFixture(t, "solo", Array.from({ length: 11 }, (_, index) => `Player ${index + 2}`), { maxPlayers: 12 });
+  const { f, host, seats, clock, accept, poll } = match;
+  for (let game = 0; game < 2; game += 1) {
+    const deck = storedRoom(f, host.session.code).questions;
+    const expected = new Map(seats.map((seat) => [seat.session.playerId, 0]));
+    for (let round = 0; round < 3; round += 1) {
+      const question = deck[round];
+      clock.now += 1000;
+      const guesses = round === 2
+        ? seats.map((seat, index) => ({ seat, answer: question.answers[index % 6] }))
+        : seats.slice(round * 6, round * 6 + 6).map((seat, index) => ({ seat, answer: question.answers[index] }));
+      const responses = await Promise.all(guesses.map(({ seat, answer }) =>
+        action(f.env, seat.session, { type: "guess", guess: answer.text })));
+      assert.equal(responses.filter((result) => result.response.status === 200).length, 6);
+      assert.ok(responses.every((result) => result.response.status === 200 || result.response.status === 400));
+      const ended = await poll();
+      assert.equal(ended.phase, "round-ended");
+      assert.equal(ended.round!.bank, 100);
+      for (const answer of ended.round!.answers) {
+        assert.equal(answer.revealed, true);
+        assert.ok(answer.claimedBy && expected.has(answer.claimedBy));
+        expected.set(answer.claimedBy, expected.get(answer.claimedBy)! + answer.points!);
+      }
+      assert.equal(ended.players.reduce((sum, player) => sum + player.score, 0), (round + 1) * 100);
+      await assertTwelveSeatScores(match, expected, [0, 0]);
+      const next = await accept(host, { type: "next" });
+      assert.equal(next.phase, round === 2 ? "finished" : "playing");
+    }
+    assert.ok([...expected.values()].every((score) => score > 0), "Every player should score in each full game.");
+    await assertTwelveSeatScores(match, expected, [0, 0]);
+    if (game === 0) await assertRematchAndFreshDeck(match);
+  }
+});
+
+test("twelve team players rotate six per side, resolve steals and complete a full rematch", async (t) => {
+  const match = await fullMatchFixture(t, "teams", Array.from({ length: 11 }, (_, index) => `Player ${index + 2}`), { maxPlayers: 12 });
+  const { f, host, seats, accept, send, poll } = match;
+  const identities = (await poll()).players.map(({ id, team }) => ({ id, team }));
+  const teams = ([0, 1] as const).map((team) => seats.filter((seat) => identities.find((player) => player.id === seat.session.playerId)!.team === team));
+  assert.deepEqual(teams.map((team) => team.length), [6, 6]);
+  for (let game = 0; game < 2; game += 1) {
+    const deck = storedRoom(f, host.session.code).questions;
+    const expected = new Map(seats.map((seat) => [seat.session.playerId, 0]));
+    const teamScores: [number, number] = [0, 0];
+    let view = await poll();
+    for (let round = 0; round < 2; round += 1) {
+      const offTurn = teams[round === 0 ? 1 : 0][0];
+      assert.equal((await send(offTurn, { type: "guess", guess: deck[round].answers[0].text })).response.status, 400);
+      for (const [index, answer] of deck[round].answers.entries()) {
+        const seat = teams[round][index];
+        assert.equal(view.round!.activePlayerId, seat.session.playerId);
+        view = await accept(seat, { type: "guess", guess: answer.text });
+        expected.set(seat.session.playerId, answer.points);
+      }
+      teamScores[round] = 100;
+      assert.equal(view.phase, "round-ended");
+      await assertTwelveSeatScores(match, expected, teamScores);
+      view = await accept(host, { type: "next" });
+    }
+    const first = deck[2].answers[0];
+    view = await accept(teams[0][0], { type: "guess", guess: first.text });
+    expected.set(teams[0][0].session.playerId, expected.get(teams[0][0].session.playerId)! + first.points);
+    for (const seat of teams[0].slice(1, 4)) {
+      assert.equal(view.round!.activePlayerId, seat.session.playerId);
+      view = await accept(seat, { type: "guess", guess: "zzzz nonexistent answer zzzz" });
+    }
+    assert.equal(view.round!.stealing, true);
+    assert.deepEqual(view.round!.teamStrikes, [3, 0]);
+    assert.equal(view.round!.activePlayerId, teams[1][0].session.playerId);
+    if (game === 0) {
+      const stolen = deck[2].answers[1];
+      view = await accept(teams[1][0], { type: "guess", guess: stolen.text });
+      expected.set(teams[1][0].session.playerId, expected.get(teams[1][0].session.playerId)! + stolen.points);
+      teamScores[1] += first.points + stolen.points;
+      assert.match(view.round!.endedReason!, /steals/);
+    } else {
+      view = await accept(teams[1][0], { type: "guess", guess: "zzzz nonexistent answer zzzz" });
+      teamScores[0] += first.points;
+      assert.match(view.round!.endedReason!, /Steal missed/);
+    }
+    assert.equal(view.phase, "round-ended");
+    await assertTwelveSeatScores(match, expected, teamScores);
+    view = await accept(host, { type: "next" });
+    assert.equal(view.phase, "finished");
+    assert.deepEqual(view.players.map(({ id, team }) => ({ id, team })), identities);
+    assert.ok(view.players.every((player) => player.score > 0), "All twelve players should score in each match.");
+    await assertTwelveSeatScores(match, expected, teamScores);
+    if (game === 0) await assertRematchAndFreshDeck(match);
+  }
 });

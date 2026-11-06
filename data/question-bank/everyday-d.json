@@ -2,45 +2,47 @@
   {
     "id": "everyday-221",
     "category": "Everyday life",
-    "prompt": "Name something a family might discuss when making rules for the household.",
+    "prompt": "Name a giveaway that your partner is still annoyed after saying they're fine.",
     "answers": [
       {
-        "text": "Screen time",
+        "text": "One-word answers",
         "aliases": [
-          "time on devices"
+          "short replies"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Bedtimes",
-        "aliases": [],
+        "text": "Silent treatment",
+        "aliases": [
+          "not talking"
+        ],
         "points": 24
       },
       {
-        "text": "Visitors",
+        "text": "A sarcastic tone",
         "aliases": [
-          "having friends over"
+          "sarcasm"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Spending money",
+        "text": "Avoiding affection",
         "aliases": [
-          "allowance"
+          "no hugs"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Privacy",
+        "text": "Slamming things",
         "aliases": [
-          "personal space"
+          "slamming doors"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Pet care",
+        "text": "Bringing it up again",
         "aliases": [
-          "looking after pets"
+          "mentioning the argument"
         ],
         "points": 6
       }
@@ -49,47 +51,47 @@
   {
     "id": "everyday-222",
     "category": "Everyday life",
-    "prompt": "Name an activity relatives might do together at a family reunion.",
+    "prompt": "Name something a couple might pretend to agree on in front of friends.",
     "answers": [
       {
-        "text": "Take a group photo",
+        "text": "How to spend money",
         "aliases": [
-          "family picture"
+          "finances"
         ],
         "points": 32
       },
       {
-        "text": "Share old stories",
+        "text": "Parenting rules",
         "aliases": [
-          "reminisce"
+          "raising children"
         ],
         "points": 24
       },
       {
-        "text": "Play games",
+        "text": "Where to vacation",
         "aliases": [
-          "group games"
+          "holiday destination"
         ],
         "points": 18
       },
       {
-        "text": "Look at photo albums",
+        "text": "Politics",
         "aliases": [
-          "old photographs"
+          "political views"
         ],
         "points": 12
       },
       {
-        "text": "Perform a talent show",
+        "text": "Who does more chores",
         "aliases": [
-          "show off talents"
+          "housework"
         ],
         "points": 8
       },
       {
-        "text": "Make a family tree",
+        "text": "Whether they like the guests",
         "aliases": [
-          "trace relatives"
+          "liking their friends"
         ],
         "points": 6
       }
@@ -98,94 +100,96 @@
   {
     "id": "everyday-223",
     "category": "Everyday life",
-    "prompt": "Name something young siblings might argue over.",
+    "prompt": "Name something a child blames on a sibling even when nobody asked.",
     "answers": [
       {
-        "text": "A toy",
-        "aliases": [],
-        "points": 28
+        "text": "A broken toy",
+        "aliases": [
+          "breaking a toy"
+        ],
+        "points": 30
       },
       {
-        "text": "Whose turn it is",
+        "text": "A messy room",
         "aliases": [
-          "taking turns"
+          "the mess"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Where to sit",
+        "text": "Missing snacks",
         "aliases": [
-          "seats"
+          "eating the snacks"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Rules of a game",
+        "text": "A bad smell",
         "aliases": [
-          "game rules"
+          "a fart"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Who gets a room",
+        "text": "Writing on the wall",
         "aliases": [
-          "bedrooms"
+          "wall drawings"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "A parent's attention",
+        "text": "A missing remote",
         "aliases": [
-          "attention from parents"
+          "lost remote control"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-224",
     "category": "Everyday life",
-    "prompt": "Name a question relatives ask someone they have not seen in a long time.",
+    "prompt": "Name a question from a relative that makes you wish you'd stayed home.",
     "answers": [
       {
-        "text": "How is work?",
+        "text": "When are you getting married?",
         "aliases": [
-          "how is your job"
+          "marriage"
         ],
         "points": 35
       },
       {
-        "text": "How is school?",
+        "text": "When are you having kids?",
         "aliases": [
-          "how are your studies"
+          "children"
         ],
         "points": 25
       },
       {
-        "text": "Are you seeing anyone?",
+        "text": "How much do you earn?",
         "aliases": [
-          "are you dating"
+          "salary"
         ],
         "points": 16
       },
       {
-        "text": "How are the children?",
+        "text": "Why are you still single?",
         "aliases": [
-          "how are your kids"
+          "being single"
         ],
         "points": 11
       },
       {
-        "text": "Where are you living?",
+        "text": "Have you gained weight?",
         "aliases": [
-          "where do you live"
+          "weight"
         ],
         "points": 8
       },
       {
-        "text": "How is your health?",
+        "text": "When will you get a better job?",
         "aliases": [
-          "are you feeling well"
+          "career"
         ],
         "points": 5
       }
@@ -194,47 +198,47 @@
   {
     "id": "everyday-225",
     "category": "Everyday life",
-    "prompt": "Name something parents save as a keepsake from their child's early years.",
+    "prompt": "Name something you would be relieved to learn was only a dream.",
     "answers": [
       {
-        "text": "Baby clothes",
+        "text": "Teeth falling out",
         "aliases": [
-          "first outfit"
+          "lost teeth"
         ],
         "points": 30
       },
       {
-        "text": "Drawings",
+        "text": "Being naked in public",
         "aliases": [
-          "childhood artwork"
+          "naked at school"
         ],
         "points": 24
       },
       {
-        "text": "First shoes",
+        "text": "Failing an exam",
         "aliases": [
-          "baby shoes"
+          "failed test"
         ],
         "points": 18
       },
       {
-        "text": "Report cards",
+        "text": "Falling from a height",
         "aliases": [
-          "school reports"
+          "falling off a building"
         ],
         "points": 13
       },
       {
-        "text": "A favorite toy",
+        "text": "Losing your job",
         "aliases": [
-          "childhood toy"
+          "getting fired"
         ],
         "points": 9
       },
       {
-        "text": "A lock of hair",
+        "text": "A partner cheating",
         "aliases": [
-          "first haircut"
+          "unfaithful partner"
         ],
         "points": 6
       }
@@ -243,47 +247,47 @@
   {
     "id": "everyday-226",
     "category": "Everyday life",
-    "prompt": "Name something parents tell a babysitter before going out.",
+    "prompt": "Name something a teenager hides before their crush comes over.",
     "answers": [
       {
-        "text": "Emergency phone numbers",
+        "text": "Dirty laundry",
         "aliases": [
-          "emergency contacts"
+          "messy clothes"
         ],
-        "points": 32
+        "points": 31
       },
       {
-        "text": "The bedtime routine",
+        "text": "Childhood toys",
         "aliases": [
-          "bedtime instructions"
+          "stuffed animals"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Allergies",
+        "text": "Embarrassing photos",
         "aliases": [
-          "allergy information"
+          "baby pictures"
         ],
         "points": 18
       },
       {
-        "text": "Where they will be",
+        "text": "A diary",
         "aliases": [
-          "their location"
+          "journal"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "House rules",
+        "text": "Cheesy posters",
         "aliases": [
-          "rules for the children"
+          "embarrassing posters"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "When they will return",
+        "text": "A nosy sibling",
         "aliases": [
-          "return time"
+          "little brother"
         ],
         "points": 6
       }
@@ -292,47 +296,47 @@
   {
     "id": "everyday-227",
     "category": "Everyday life",
-    "prompt": "Name good news someone might call their family to announce.",
+    "prompt": "Name news you'd rehearse before telling your partner.",
     "answers": [
       {
-        "text": "A new baby",
+        "text": "A pregnancy",
         "aliases": [
-          "having a baby"
+          "expecting a baby"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "An engagement",
+        "text": "Losing your job",
         "aliases": [
-          "getting engaged"
+          "getting fired"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Graduation",
+        "text": "An expensive purchase",
         "aliases": [
-          "finishing a degree"
+          "spending too much"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "A new home",
+        "text": "Damaging their car",
         "aliases": [
-          "buying a house"
+          "car accident"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "A promotion",
+        "text": "Wanting to break up",
         "aliases": [
-          "job promotion"
+          "ending the relationship"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Adopting a pet",
+        "text": "An unexpected move",
         "aliases": [
-          "a new pet"
+          "moving away"
         ],
         "points": 6
       }
@@ -341,292 +345,292 @@
   {
     "id": "everyday-228",
     "category": "Everyday life",
-    "prompt": "Name a favor someone might ask their sibling to do.",
+    "prompt": "Name a favor you'd ask a sibling before you'd ask your parents.",
     "answers": [
       {
-        "text": "Give them a ride",
+        "text": "Lend me money",
         "aliases": [
-          "drive them somewhere"
+          "a loan"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Lend them money",
+        "text": "Cover for me",
         "aliases": [
-          "loan some money"
+          "make an excuse"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Watch their children",
+        "text": "Give me a ride",
         "aliases": [
-          "babysit"
+          "drive me"
         ],
-        "points": 16
+        "points": 18
       },
       {
         "text": "Keep a secret",
         "aliases": [
-          "not tell anyone"
+          "don't tell mom"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Help choose an outfit",
+        "text": "Dating advice",
         "aliases": [
-          "clothing advice"
+          "relationship advice"
         ],
         "points": 8
       },
       {
-        "text": "Cover for them",
+        "text": "Lend me clothes",
         "aliases": [
-          "provide an excuse"
+          "borrow an outfit"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-229",
     "category": "Everyday life",
-    "prompt": "Name a good manner adults often teach young children.",
+    "prompt": "Name something parents say that kids swear they'll never say themselves.",
     "answers": [
       {
-        "text": "Say please and thank you",
+        "text": "Because I said so",
         "aliases": [
-          "use polite words"
+          "because I say so"
         ],
         "points": 30
       },
       {
-        "text": "Wait your turn",
+        "text": "Money doesn't grow on trees",
         "aliases": [
-          "take turns"
+          "money tree"
         ],
         "points": 24
       },
       {
-        "text": "Cover a sneeze",
+        "text": "When I was your age",
         "aliases": [
-          "cover your mouth"
+          "back in my day"
         ],
         "points": 18
       },
       {
-        "text": "Hold the door",
+        "text": "This is not a hotel",
         "aliases": [
-          "open doors for others"
+          "not a hotel"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Apologize",
+        "text": "Ask your other parent",
         "aliases": [
-          "say sorry"
+          "ask your mom"
         ],
         "points": 9
       },
       {
-        "text": "Introduce yourself",
+        "text": "You'll understand when you're older",
         "aliases": [
-          "greet people properly"
+          "when you grow up"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-230",
     "category": "Everyday life",
-    "prompt": "Name something a grandparent might enjoy doing with a grandchild.",
+    "prompt": "Name something grandparents let kids do that parents usually forbid.",
     "answers": [
       {
-        "text": "Tell stories",
+        "text": "Eat extra sweets",
         "aliases": [
-          "share stories"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Play cards",
-        "aliases": [
-          "card games"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Garden",
-        "aliases": [
-          "grow plants"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Look at family photos",
-        "aliases": [
-          "browse photo albums"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Go for a walk",
-        "aliases": [
-          "take a walk"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Make crafts",
-        "aliases": [
-          "do crafts"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-231",
-    "category": "Everyday life",
-    "prompt": "Name a topic someone might discuss on a regular call with a distant relative.",
-    "answers": [
-      {
-        "text": "The children",
-        "aliases": [
-          "updates about the kids"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Health",
-        "aliases": [
-          "how everyone feels"
-        ],
-        "points": 23
-      },
-      {
-        "text": "An upcoming visit",
-        "aliases": [
-          "plans to see each other"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Home improvements",
-        "aliases": [
-          "work on the house"
-        ],
-        "points": 14
-      },
-      {
-        "text": "The weather",
-        "aliases": [
-          "local weather"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Shared memories",
-        "aliases": [
-          "old family stories"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-232",
-    "category": "Everyday life",
-    "prompt": "Name something a parent suggests when a child says they are bored.",
-    "answers": [
-      {
-        "text": "Play outside",
-        "aliases": [
-          "go outdoors"
+          "more candy"
         ],
         "points": 35
       },
       {
-        "text": "Read a book",
+        "text": "Stay up late",
         "aliases": [
-          "do some reading"
+          "late bedtime"
         ],
         "points": 25
       },
       {
-        "text": "Draw a picture",
+        "text": "Watch endless TV",
         "aliases": [
-          "make some art"
+          "more screen time"
         ],
         "points": 16
       },
       {
-        "text": "Call a friend",
+        "text": "Skip vegetables",
         "aliases": [
-          "ask a friend to play"
+          "no vegetables"
         ],
         "points": 11
       },
       {
-        "text": "Do a puzzle",
+        "text": "Make a mess",
         "aliases": [
-          "work on a puzzle"
+          "messy play"
         ],
         "points": 8
       },
       {
-        "text": "Help with a chore",
+        "text": "Get another toy",
         "aliases": [
-          "do something useful"
+          "buy more toys"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-233",
+    "id": "everyday-231",
     "category": "Everyday life",
-    "prompt": "Name an instruction a parent gives a child before they visit a friend's house.",
+    "prompt": "Name something a parent notices immediately when you visit home.",
     "answers": [
       {
-        "text": "Be polite",
+        "text": "A new haircut",
         "aliases": [
-          "mind your manners"
+          "changed hair"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Call when you arrive",
+        "text": "Your weight",
         "aliases": [
-          "let us know you arrived"
+          "weight change"
         ],
         "points": 24
       },
       {
-        "text": "Come home on time",
+        "text": "What you're wearing",
         "aliases": [
-          "follow your curfew"
+          "your clothes"
         ],
         "points": 18
       },
       {
-        "text": "Stay with your friend",
+        "text": "How tired you look",
         "aliases": [
-          "stick together"
+          "looking exhausted"
         ],
         "points": 13
       },
       {
-        "text": "Ask before changing plans",
+        "text": "A new tattoo",
         "aliases": [
-          "get permission"
+          "new ink"
         ],
         "points": 9
       },
       {
-        "text": "Remember the address",
+        "text": "Your mood",
         "aliases": [
-          "know where you are going"
+          "seeming upset"
+        ],
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": "everyday-232",
+    "category": "Everyday life",
+    "prompt": "Name something a child calls unfair.",
+    "answers": [
+      {
+        "text": "Bedtime",
+        "aliases": [
+          "going to bed"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Doing chores",
+        "aliases": [
+          "housework"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Screen-time limits",
+        "aliases": [
+          "less TV"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A sibling getting more",
+        "aliases": [
+          "unequal treats"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Losing a game",
+        "aliases": [
+          "not winning"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Being told no",
+        "aliases": [
+          "not getting permission"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-233",
+    "category": "Everyday life",
+    "prompt": "Name something a kid suddenly needs after being told to go to bed.",
+    "answers": [
+      {
+        "text": "Water",
+        "aliases": [
+          "a drink"
+        ],
+        "points": 34
+      },
+      {
+        "text": "The bathroom",
+        "aliases": [
+          "the toilet"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A snack",
+        "aliases": [
+          "something to eat"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Another story",
+        "aliases": [
+          "bedtime story"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A hug",
+        "aliases": [
+          "a cuddle"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A missing toy",
+        "aliases": [
+          "favorite stuffed animal"
         ],
         "points": 6
       }
@@ -635,47 +639,47 @@
   {
     "id": "everyday-234",
     "category": "Everyday life",
-    "prompt": "Name a reason a younger child wants to tag along with an older sibling.",
+    "prompt": "Name something younger siblings copy from older siblings.",
     "answers": [
       {
-        "text": "To join the game",
+        "text": "Clothes",
         "aliases": [
-          "play with them"
+          "fashion"
         ],
         "points": 32
       },
       {
-        "text": "To feel safe",
+        "text": "Slang",
         "aliases": [
-          "for protection"
+          "the way they talk"
         ],
         "points": 24
       },
       {
-        "text": "To see what they do",
+        "text": "Music taste",
         "aliases": [
-          "curiosity"
+          "favorite bands"
         ],
         "points": 18
       },
       {
-        "text": "To avoid being alone",
+        "text": "Hairstyles",
         "aliases": [
-          "loneliness"
+          "haircuts"
         ],
         "points": 12
       },
       {
-        "text": "To copy them",
+        "text": "Hobbies",
         "aliases": [
-          "look up to them"
+          "activities"
         ],
         "points": 8
       },
       {
-        "text": "To get help",
+        "text": "Attitude",
         "aliases": [
-          "need their help"
+          "talking back"
         ],
         "points": 6
       }
@@ -684,96 +688,96 @@
   {
     "id": "everyday-235",
     "category": "Everyday life",
-    "prompt": "Name a family milestone people like to photograph.",
+    "prompt": "Name an event parents turn into a bigger photo shoot than you wanted.",
     "answers": [
       {
-        "text": "A baby's first steps",
+        "text": "First day of school",
         "aliases": [
-          "learning to walk"
+          "back to school"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "A birthday",
+        "text": "Graduation",
         "aliases": [
-          "birthday celebration"
+          "finishing school"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "A graduation",
+        "text": "Prom",
         "aliases": [
-          "graduation day"
+          "school dance"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "A new baby",
+        "text": "A wedding",
         "aliases": [
-          "a newborn"
+          "getting married"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Moving into a new home",
+        "text": "A holiday gathering",
         "aliases": [
-          "first home"
+          "family holiday"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "A family reunion",
+        "text": "Your birthday",
         "aliases": [
-          "relatives getting together"
+          "birthday party"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-236",
     "category": "Everyday life",
-    "prompt": "Name a quality people value in a trusted friend.",
+    "prompt": "Name something you'd want a brutally honest friend to judge.",
     "answers": [
       {
-        "text": "Honesty",
+        "text": "An outfit",
         "aliases": [
-          "being truthful"
+          "what I'm wearing"
         ],
         "points": 35
       },
       {
-        "text": "Keeping secrets",
+        "text": "A haircut",
         "aliases": [
-          "confidentiality"
+          "my hair"
         ],
         "points": 25
       },
       {
-        "text": "Reliability",
+        "text": "A new date",
         "aliases": [
-          "being dependable"
+          "potential partner"
         ],
         "points": 16
       },
       {
-        "text": "Listening",
+        "text": "My cooking",
         "aliases": [
-          "being a good listener"
+          "a meal I made"
         ],
         "points": 11
       },
       {
-        "text": "Respecting boundaries",
+        "text": "My singing",
         "aliases": [
-          "respecting privacy"
+          "karaoke voice"
         ],
         "points": 8
       },
       {
-        "text": "Fairness",
+        "text": "A photo before I post it",
         "aliases": [
-          "treating people fairly"
+          "a selfie"
         ],
         "points": 5
       }
@@ -782,96 +786,96 @@
   {
     "id": "everyday-237",
     "category": "Everyday life",
-    "prompt": "Name a way to help a friend who is moving to a new home.",
+    "prompt": "Name a reason helping family move turns into a fight.",
     "answers": [
       {
-        "text": "Carry boxes",
+        "text": "Someone arrives late",
         "aliases": [
-          "lift boxes"
+          "being late"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Drive the moving van",
+        "text": "Something gets broken",
         "aliases": [
-          "drive the truck"
+          "damaged furniture"
         ],
         "points": 24
       },
       {
-        "text": "Pack their belongings",
+        "text": "Someone keeps giving orders",
         "aliases": [
-          "help pack"
+          "bossing people around"
         ],
         "points": 18
       },
       {
-        "text": "Assemble furniture",
+        "text": "Heavy furniture",
         "aliases": [
-          "put furniture together"
+          "lifting too much"
         ],
         "points": 13
       },
       {
-        "text": "Watch their children",
+        "text": "Bad packing",
         "aliases": [
-          "babysit"
+          "unpacked boxes"
         ],
         "points": 9
       },
       {
-        "text": "Lend moving equipment",
+        "text": "Nobody knows where things go",
         "aliases": [
-          "lend a dolly"
+          "where to put things"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-238",
     "category": "Everyday life",
-    "prompt": "Name a reason a friend might cancel plans at the last minute.",
+    "prompt": "Name an excuse a friend uses when they just don't feel like going out.",
     "answers": [
       {
-        "text": "Feeling sick",
+        "text": "I'm tired",
         "aliases": [
-          "illness"
+          "exhausted"
         ],
-        "points": 32
+        "points": 31
       },
       {
-        "text": "A family emergency",
+        "text": "I'm sick",
         "aliases": [
-          "urgent family problem"
+          "not feeling well"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Work ran late",
+        "text": "I have to work",
         "aliases": [
-          "work conflict"
+          "working late"
         ],
         "points": 18
       },
       {
-        "text": "Transportation trouble",
+        "text": "I'm broke",
+        "aliases": [
+          "no money"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Family plans",
+        "aliases": [
+          "family commitment"
+        ],
+        "points": 9
+      },
+      {
+        "text": "I have no ride",
         "aliases": [
           "car trouble"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Exhaustion",
-        "aliases": [
-          "too tired"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Money is tight",
-        "aliases": [
-          "cannot afford it"
         ],
         "points": 6
       }
@@ -880,47 +884,47 @@
   {
     "id": "everyday-239",
     "category": "Everyday life",
-    "prompt": "Name something someone might say when contacting an old friend after years apart.",
+    "prompt": "Name a reason someone suddenly texts an ex.",
     "answers": [
       {
-        "text": "Ask how they are",
+        "text": "Feeling lonely",
         "aliases": [
-          "how have you been"
+          "loneliness"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Mention a shared memory",
+        "text": "Being drunk",
         "aliases": [
-          "remember when"
+          "after drinking"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Apologize for losing touch",
+        "text": "Wanting their stuff back",
         "aliases": [
-          "sorry we lost touch"
+          "collect belongings"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Ask about a mutual friend",
+        "text": "Missing the relationship",
         "aliases": [
-          "news about old friends"
+          "wanting them back"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Suggest meeting up",
+        "text": "A birthday",
         "aliases": [
-          "arrange a reunion"
+          "birthday wishes"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Congratulate a recent achievement",
+        "text": "Wanting closure",
         "aliases": [
-          "well done on your news"
+          "unfinished business"
         ],
         "points": 6
       }
@@ -929,292 +933,294 @@
   {
     "id": "everyday-240",
     "category": "Everyday life",
-    "prompt": "Name something close friends might share.",
+    "prompt": "Name something friends can borrow once and never be trusted with again.",
     "answers": [
       {
-        "text": "Secrets",
+        "text": "Money",
         "aliases": [
-          "private information"
+          "cash"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Inside jokes",
+        "text": "A car",
         "aliases": [
-          "private jokes"
+          "my vehicle"
         ],
-        "points": 25
-      },
-      {
-        "text": "Hobbies",
-        "aliases": [
-          "shared interests"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Memories",
-        "aliases": [
-          "past experiences"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Advice",
-        "aliases": [
-          "suggestions"
-        ],
-        "points": 8
+        "points": 24
       },
       {
         "text": "Clothes",
         "aliases": [
-          "outfits"
+          "an outfit"
         ],
-        "points": 5
+        "points": 18
+      },
+      {
+        "text": "Tools",
+        "aliases": [
+          "power tools"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A charger",
+        "aliases": [
+          "phone charger"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A book",
+        "aliases": [
+          "books"
+        ],
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-241",
     "category": "Everyday life",
-    "prompt": "Name a clue that someone is trying to end a conversation.",
+    "prompt": "Name a sign your date wants to leave.",
     "answers": [
       {
-        "text": "Looking at the clock",
+        "text": "Asking for the bill",
         "aliases": [
-          "checking the time"
+          "requesting the check"
         ],
         "points": 30
       },
       {
-        "text": "Putting on their coat",
+        "text": "Checking the time",
         "aliases": [
-          "getting ready to leave"
+          "looking at a watch"
         ],
         "points": 24
       },
       {
-        "text": "Moving toward the door",
+        "text": "Giving short answers",
         "aliases": [
-          "edging toward the exit"
+          "one-word replies"
         ],
         "points": 18
       },
       {
-        "text": "Giving short answers",
+        "text": "Booking a ride",
         "aliases": [
-          "one word replies"
+          "calling a taxi"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Mentioning another commitment",
+        "text": "Inventing an emergency",
         "aliases": [
-          "saying they have to go"
+          "fake urgent call"
         ],
         "points": 9
       },
       {
-        "text": "Saying goodbye",
+        "text": "Putting on their coat",
         "aliases": [
-          "taking their leave"
+          "getting their jacket"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-242",
     "category": "Everyday life",
-    "prompt": "Name a way to comfort a friend after a disappointment.",
+    "prompt": "Name someone people tell a secret to after promising not to tell anyone.",
     "answers": [
       {
-        "text": "Listen",
+        "text": "Their partner",
         "aliases": [
-          "let them talk"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Offer a hug",
-        "aliases": [
-          "hug them"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Give encouragement",
-        "aliases": [
-          "reassure them"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Keep them company",
-        "aliases": [
-          "spend time with them"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Help solve the problem",
-        "aliases": [
-          "offer practical help"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Give them space",
-        "aliases": [
-          "let them be alone"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-243",
-    "category": "Everyday life",
-    "prompt": "Name a rule of good manners when borrowing something from a friend.",
-    "answers": [
-      {
-        "text": "Ask permission",
-        "aliases": [
-          "ask first"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Treat it carefully",
-        "aliases": [
-          "look after it"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Return it on time",
-        "aliases": [
-          "bring it back promptly"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Replace anything damaged",
-        "aliases": [
-          "pay for damage"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Say thank you",
-        "aliases": [
-          "show appreciation"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Return it clean",
-        "aliases": [
-          "clean it before returning"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-244",
-    "category": "Everyday life",
-    "prompt": "Name a small gesture that can strengthen a friendship.",
-    "answers": [
-      {
-        "text": "Send a check-in message",
-        "aliases": [
-          "ask how they are"
+          "spouse"
         ],
         "points": 35
       },
       {
-        "text": "Remember their birthday",
+        "text": "Their best friend",
         "aliases": [
-          "acknowledge their birthday"
+          "bestie"
         ],
         "points": 25
       },
       {
-        "text": "Attend an important event",
+        "text": "A sibling",
         "aliases": [
-          "show up for them"
+          "brother or sister"
         ],
         "points": 16
       },
       {
-        "text": "Include them in plans",
+        "text": "A parent",
         "aliases": [
-          "invite them along"
+          "mom or dad"
         ],
         "points": 11
       },
       {
-        "text": "Write an encouraging note",
+        "text": "A coworker",
         "aliases": [
-          "send kind words"
+          "work friend"
         ],
         "points": 8
       },
       {
-        "text": "Give a thoughtful gift",
+        "text": "A therapist",
         "aliases": [
-          "bring a small present"
+          "counselor"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-245",
+    "id": "everyday-243",
     "category": "Everyday life",
-    "prompt": "Name a house rule a guest might learn when visiting a friend.",
+    "prompt": "Name something that can make a friend regret lending you their car.",
     "answers": [
       {
-        "text": "Remove your shoes",
+        "text": "A dent",
         "aliases": [
-          "shoes off"
+          "a scratch"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Keep pets off furniture",
+        "text": "An empty fuel tank",
         "aliases": [
-          "no pets on the couch"
+          "no gas"
         ],
         "points": 24
       },
       {
-        "text": "Observe quiet hours",
+        "text": "A parking ticket",
         "aliases": [
-          "keep quiet at night"
+          "speeding ticket"
         ],
         "points": 18
       },
       {
-        "text": "Use a coaster",
+        "text": "A bad smell",
         "aliases": [
-          "protect the table"
+          "smoke smell"
         ],
         "points": 13
       },
       {
-        "text": "Knock before entering bedrooms",
+        "text": "Trash inside",
         "aliases": [
-          "knock first"
+          "rubbish"
         ],
         "points": 9
       },
       {
-        "text": "Put phones away at the table",
+        "text": "Returning it late",
         "aliases": [
-          "no phones during meals"
+          "keeping it too long"
+        ],
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": "everyday-244",
+    "category": "Everyday life",
+    "prompt": "Name something a friend remembers that makes you feel truly known.",
+    "answers": [
+      {
+        "text": "Your birthday",
+        "aliases": [
+          "birth date"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Your usual coffee order",
+        "aliases": [
+          "coffee order"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Your favorite food",
+        "aliases": [
+          "favorite meal"
+        ],
+        "points": 18
+      },
+      {
+        "text": "What scares you",
+        "aliases": [
+          "your fears"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Your pet's name",
+        "aliases": [
+          "pet name",
+          "dogs name",
+          "cats name"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Your favorite song",
+        "aliases": [
+          "favorite music"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-245",
+    "category": "Everyday life",
+    "prompt": "Name something you dread discovering after lending someone your phone.",
+    "answers": [
+      {
+        "text": "Cracked screen",
+        "aliases": [
+          "broken screen"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Messages sent",
+        "aliases": [
+          "texts sent"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Deleted photos",
+        "aliases": [
+          "missing pictures"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Empty battery",
+        "aliases": [
+          "dead battery"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Apps installed",
+        "aliases": [
+          "new apps"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Expensive calls",
+        "aliases": [
+          "call charges"
         ],
         "points": 6
       }
@@ -1223,47 +1229,47 @@
   {
     "id": "everyday-246",
     "category": "Everyday life",
-    "prompt": "Name a local place where friends might arrange to meet.",
+    "prompt": "Name a place you'd hate to introduce your ex to your new partner.",
     "answers": [
       {
-        "text": "A park",
+        "text": "A friend's wedding",
         "aliases": [
-          "local park"
+          "wedding reception"
         ],
         "points": 32
       },
       {
-        "text": "A cafe",
+        "text": "A family gathering",
         "aliases": [
-          "coffee shop"
+          "family party"
         ],
         "points": 24
       },
       {
-        "text": "A library",
+        "text": "Your workplace",
         "aliases": [
-          "public library"
+          "the office"
         ],
         "points": 18
       },
       {
-        "text": "A community center",
+        "text": "Your favorite restaurant",
         "aliases": [
-          "neighborhood center"
+          "usual restaurant"
         ],
         "points": 12
       },
       {
-        "text": "Someone's home",
+        "text": "The gym",
         "aliases": [
-          "a friend's house"
+          "fitness center"
         ],
         "points": 8
       },
       {
-        "text": "A sports court",
+        "text": "A school reunion",
         "aliases": [
-          "basketball court"
+          "class reunion"
         ],
         "points": 6
       }
@@ -1272,96 +1278,96 @@
   {
     "id": "everyday-247",
     "category": "Everyday life",
-    "prompt": "Name a reason old friends might lose touch.",
+    "prompt": "Name something your friends will never let you live down.",
     "answers": [
       {
-        "text": "Moving away",
+        "text": "A terrible haircut",
         "aliases": [
-          "relocation"
+          "bad hair"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Busy schedules",
+        "text": "An embarrassing date",
         "aliases": [
-          "no time"
+          "dating disaster"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Changed contact details",
+        "text": "Falling over",
         "aliases": [
-          "a new phone number"
+          "a clumsy fall"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "An argument",
+        "text": "A drunk story",
         "aliases": [
-          "falling out"
+          "drunken behavior"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Different interests",
+        "text": "Bad karaoke",
         "aliases": [
-          "growing apart"
+          "awful singing"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Leaving social media",
+        "text": "An old crush",
         "aliases": [
-          "deleting social accounts"
+          "who I used to fancy"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-248",
     "category": "Everyday life",
-    "prompt": "Name someone a person might thank in a speech celebrating a personal achievement.",
+    "prompt": "Name something friends disagree on before a night out even starts.",
     "answers": [
       {
-        "text": "Parents",
+        "text": "Where to go",
         "aliases": [
-          "mother and father"
+          "the venue"
         ],
         "points": 35
       },
       {
-        "text": "Friends",
+        "text": "Who is driving",
         "aliases": [
-          "close friends"
+          "designated driver"
         ],
         "points": 25
       },
       {
-        "text": "Teachers",
+        "text": "What time to leave",
         "aliases": [
-          "instructors"
+          "departure time"
         ],
         "points": 16
       },
       {
-        "text": "Coaches",
+        "text": "How much to spend",
         "aliases": [
-          "trainers"
+          "budget"
         ],
         "points": 11
       },
       {
-        "text": "Coworkers",
+        "text": "What to wear",
         "aliases": [
-          "colleagues"
+          "outfits"
         ],
         "points": 8
       },
       {
-        "text": "Neighbors",
+        "text": "Who else is invited",
         "aliases": [
-          "people next door"
+          "guest list"
         ],
         "points": 5
       }
@@ -1370,96 +1376,96 @@
   {
     "id": "everyday-249",
     "category": "Everyday life",
-    "prompt": "Name something close friends might gently tease each other about.",
+    "prompt": "Name something that can make a birthday feel like a disappointment.",
     "answers": [
       {
-        "text": "Always being late",
+        "text": "People forgetting",
         "aliases": [
-          "lateness"
+          "forgotten birthday"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Bad singing",
+        "text": "Nobody showing up",
         "aliases": [
-          "singing off key"
+          "no guests"
         ],
         "points": 24
       },
       {
-        "text": "Unusual fashion",
+        "text": "A bad gift",
         "aliases": [
-          "clothing choices"
+          "unwanted present"
         ],
         "points": 18
       },
       {
-        "text": "A favorite catchphrase",
+        "text": "Having to work",
         "aliases": [
-          "saying the same thing"
+          "working all day"
         ],
         "points": 13
       },
       {
-        "text": "Being competitive",
+        "text": "Getting sick",
         "aliases": [
-          "wanting to win"
+          "feeling ill"
         ],
         "points": 9
       },
       {
-        "text": "Clumsiness",
+        "text": "Feeling older",
         "aliases": [
-          "tripping over things"
+          "aging"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-250",
     "category": "Everyday life",
-    "prompt": "Name something that can make choosing a group activity difficult.",
+    "prompt": "Name a gift that makes you wonder whether the giver knows you at all.",
     "answers": [
       {
-        "text": "Different budgets",
+        "text": "Clothes in the wrong style",
         "aliases": [
-          "money limits"
+          "an outfit I'd never wear"
         ],
-        "points": 32
+        "points": 31
       },
       {
-        "text": "Conflicting schedules",
+        "text": "Food you hate",
         "aliases": [
-          "finding a time"
+          "disliked food"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Different interests",
+        "text": "A self-help book",
         "aliases": [
-          "wanting different activities"
+          "a book about fixing yourself"
         ],
         "points": 18
       },
       {
-        "text": "Nobody will decide",
+        "text": "Cleaning supplies",
         "aliases": [
-          "indecision"
+          "a mop"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Too many choices",
+        "text": "Gear for a hobby you don't do",
         "aliases": [
-          "too many options"
+          "wrong hobby equipment"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "One person taking over",
+        "text": "A gift card for the wrong store",
         "aliases": [
-          "a bossy member"
+          "useless gift card"
         ],
         "points": 6
       }
@@ -1468,47 +1474,47 @@
   {
     "id": "everyday-251",
     "category": "Everyday life",
-    "prompt": "Name a decoration people put up for a birthday party at home.",
+    "prompt": "Name something people secretly do with a gift they dislike.",
     "answers": [
       {
-        "text": "Balloons",
+        "text": "Regift it",
         "aliases": [
-          "birthday balloons"
+          "give it to someone else"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "A banner",
+        "text": "Return it",
         "aliases": [
-          "birthday banner"
+          "exchange it"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Streamers",
+        "text": "Donate it",
         "aliases": [
-          "paper streamers"
+          "give to charity"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Confetti",
+        "text": "Sell it",
         "aliases": [
-          "table confetti"
+          "put it online"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "A festive tablecloth",
+        "text": "Hide it in a cupboard",
         "aliases": [
-          "party tablecloth"
+          "store it away"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "String lights",
+        "text": "Throw it away",
         "aliases": [
-          "fairy lights"
+          "bin it"
         ],
         "points": 6
       }
@@ -1517,292 +1523,292 @@
   {
     "id": "everyday-252",
     "category": "Everyday life",
-    "prompt": "Name a clue people use to guess what is inside a wrapped gift.",
+    "prompt": "Name someone most likely to accidentally spoil a surprise.",
     "answers": [
       {
-        "text": "Its shape",
+        "text": "A child",
         "aliases": [
-          "shape of the package"
+          "a little kid"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Its size",
+        "text": "Your partner",
         "aliases": [
-          "package size"
+          "spouse"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Its weight",
+        "text": "A parent",
         "aliases": [
-          "how heavy it is"
+          "mom or dad"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "A rattling sound",
+        "text": "A chatty friend",
         "aliases": [
-          "what it sounds like"
+          "talkative friend"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "The wrapping",
+        "text": "A grandparent",
         "aliases": [
-          "store wrapping"
+          "grandma or grandpa"
         ],
         "points": 8
       },
       {
-        "text": "Who gave it",
+        "text": "A coworker",
         "aliases": [
-          "the giver"
+          "work colleague"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-253",
     "category": "Everyday life",
-    "prompt": "Name a party item a host might discover is missing at the last minute.",
+    "prompt": "Name something a couple fights over while assembling furniture.",
     "answers": [
       {
-        "text": "Candles",
+        "text": "Reading the instructions",
         "aliases": [
-          "birthday candles"
+          "following directions"
         ],
         "points": 30
       },
       {
-        "text": "Matches",
+        "text": "Missing screws",
         "aliases": [
-          "a lighter"
+          "missing pieces"
         ],
         "points": 24
       },
       {
-        "text": "Camera batteries",
+        "text": "Who does what",
         "aliases": [
-          "charged camera battery"
+          "dividing the work"
         ],
         "points": 18
       },
       {
-        "text": "Game prizes",
+        "text": "Which way a part goes",
         "aliases": [
-          "prizes"
+          "putting it backwards"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "A music playlist",
+        "text": "How long it's taking",
         "aliases": [
-          "party music"
+          "taking forever"
         ],
         "points": 9
       },
       {
-        "text": "Party favors",
+        "text": "Where the tools are",
         "aliases": [
-          "goody bags"
+          "finding tools"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-254",
     "category": "Everyday life",
-    "prompt": "Name something that could accidentally spoil a surprise party.",
+    "prompt": "Name a handmade gift someone keeps out of guilt.",
     "answers": [
       {
-        "text": "The guest arrives early",
+        "text": "A child's drawing",
         "aliases": [
-          "early arrival"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Someone tells them",
-        "aliases": [
-          "a leaked secret"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Visible decorations",
-        "aliases": [
-          "seeing the balloons"
-        ],
-        "points": 18
-      },
-      {
-        "text": "A message notification",
-        "aliases": [
-          "a revealing text"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Familiar cars outside",
-        "aliases": [
-          "guests' parked cars"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Loud instructions",
-        "aliases": [
-          "overhearing the plan"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-255",
-    "category": "Everyday life",
-    "prompt": "Name something that might delay the start of a party game.",
-    "answers": [
-      {
-        "text": "A missing player",
-        "aliases": [
-          "waiting for someone"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Unclear rules",
-        "aliases": [
-          "explaining the rules"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Lost game pieces",
-        "aliases": [
-          "missing equipment"
-        ],
-        "points": 19
-      },
-      {
-        "text": "People getting distracted",
-        "aliases": [
-          "nobody paying attention"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Dead timer batteries",
-        "aliases": [
-          "the timer will not work"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Choosing teams",
-        "aliases": [
-          "arguing about teams"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-256",
-    "category": "Everyday life",
-    "prompt": "Name a gift a family member might make by hand.",
-    "answers": [
-      {
-        "text": "A card",
-        "aliases": [
-          "greeting card"
+          "kid's artwork"
         ],
         "points": 35
       },
       {
-        "text": "A drawing",
+        "text": "A knitted scarf",
         "aliases": [
-          "painting"
+          "homemade scarf"
         ],
         "points": 25
       },
       {
-        "text": "A knitted scarf",
+        "text": "Wonky pottery",
         "aliases": [
-          "hand knit scarf"
+          "a handmade mug"
         ],
         "points": 16
       },
       {
-        "text": "A photo album",
+        "text": "A handmade card",
         "aliases": [
-          "scrapbook"
+          "greeting card"
         ],
         "points": 11
       },
       {
-        "text": "A bracelet",
+        "text": "A friendship bracelet",
         "aliases": [
-          "homemade jewelry"
+          "beaded bracelet"
         ],
         "points": 8
       },
       {
-        "text": "Pottery",
+        "text": "A homemade photo album",
         "aliases": [
-          "a clay bowl"
+          "scrapbook"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-257",
+    "id": "everyday-255",
     "category": "Everyday life",
-    "prompt": "Name an occasion when someone might receive gifts.",
+    "prompt": "Name something a wedding guest does that steals attention from the couple.",
     "answers": [
       {
-        "text": "A birthday",
+        "text": "Proposes to someone",
         "aliases": [
-          "birthday celebration"
+          "gets engaged"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "A wedding",
+        "text": "Wears white",
         "aliases": [
-          "getting married"
+          "a white dress"
         ],
         "points": 24
       },
       {
-        "text": "An anniversary",
+        "text": "Gets very drunk",
         "aliases": [
-          "wedding anniversary"
+          "drunken scene"
         ],
         "points": 18
       },
       {
-        "text": "A housewarming",
+        "text": "Starts an argument",
         "aliases": [
-          "moving into a home"
+          "picks a fight"
         ],
         "points": 13
       },
       {
-        "text": "A graduation",
+        "text": "Announces a pregnancy",
         "aliases": [
-          "finishing school"
+          "baby announcement"
         ],
         "points": 9
       },
       {
-        "text": "A baby shower",
+        "text": "Gives a very long speech",
         "aliases": [
-          "expecting a baby"
+          "endless toast"
+        ],
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": "everyday-256",
+    "category": "Everyday life",
+    "prompt": "Name something you find the morning after hosting a party.",
+    "answers": [
+      {
+        "text": "Broken glass",
+        "aliases": [
+          "broken drinking glass"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Leftover food",
+        "aliases": [
+          "uneaten snacks"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Someone still asleep",
+        "aliases": [
+          "sleeping guest"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A stained carpet",
+        "aliases": [
+          "drink stain"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A lost phone",
+        "aliases": [
+          "forgotten cellphone"
+        ],
+        "points": 9
+      },
+      {
+        "text": "An angry note",
+        "aliases": [
+          "neighbor complaint"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-257",
+    "category": "Everyday life",
+    "prompt": "Name something you warn your date about before they meet your family.",
+    "answers": [
+      {
+        "text": "Nosy questions",
+        "aliases": [
+          "personal questions"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Embarrassing stories",
+        "aliases": [
+          "childhood stories"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Arguments about politics",
+        "aliases": [
+          "political debates"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Loud relatives",
+        "aliases": [
+          "noisy family"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A pet that jumps up",
+        "aliases": [
+          "overfriendly dog"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Unusual house rules",
+        "aliases": [
+          "family rules"
         ],
         "points": 6
       }
@@ -1811,47 +1817,47 @@
   {
     "id": "everyday-258",
     "category": "Everyday life",
-    "prompt": "Name a sign that a party is coming to an end.",
+    "prompt": "Name something from an old relationship that's awkward to keep.",
     "answers": [
       {
-        "text": "Guests yawning",
+        "text": "Photos together",
         "aliases": [
-          "people look tired"
+          "couple pictures"
         ],
         "points": 32
       },
       {
-        "text": "Coats going on",
+        "text": "Love letters",
         "aliases": [
-          "putting on jackets"
+          "romantic notes"
         ],
         "points": 24
       },
       {
-        "text": "Music turned off",
+        "text": "A ring",
         "aliases": [
-          "music stops"
+          "engagement ring"
         ],
         "points": 18
       },
       {
-        "text": "Empty chairs",
+        "text": "Their sweatshirt",
         "aliases": [
-          "most guests have left"
+          "their hoodie"
         ],
         "points": 12
       },
       {
-        "text": "Rides arriving",
+        "text": "A matching tattoo",
         "aliases": [
-          "cars coming to collect people"
+          "couples tattoo"
         ],
         "points": 8
       },
       {
-        "text": "The host mentions bedtime",
+        "text": "A romantic playlist",
         "aliases": [
-          "the host wants to sleep"
+          "our songs"
         ],
         "points": 6
       }
@@ -1860,96 +1866,96 @@
   {
     "id": "everyday-259",
     "category": "Everyday life",
-    "prompt": "Name a task a willing guest might help with during a party.",
+    "prompt": "Name something adults secretly still want on their birthday.",
     "answers": [
       {
-        "text": "Take photos",
+        "text": "Presents",
         "aliases": [
-          "be the photographer"
+          "gifts"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Lead a game",
+        "text": "A big cake",
         "aliases": [
-          "organize a game"
+          "birthday cake"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Greet arrivals",
+        "text": "A day off",
         "aliases": [
-          "welcome guests"
+          "no work"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Collect coats",
+        "text": "A surprise party",
         "aliases": [
-          "hang up jackets"
+          "a party"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Choose the music",
+        "text": "Lots of attention",
         "aliases": [
-          "manage the playlist"
+          "being celebrated"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Hand out gifts",
+        "text": "To sleep in",
         "aliases": [
-          "distribute presents"
+          "a lie-in"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-260",
     "category": "Everyday life",
-    "prompt": "Name something people keep as a memento of a celebration.",
+    "prompt": "Name something parents do that embarrasses a teenager in public.",
     "answers": [
       {
-        "text": "Greeting cards",
+        "text": "Use a baby nickname",
         "aliases": [
-          "cards"
+          "pet name"
         ],
         "points": 35
       },
       {
-        "text": "Photographs",
+        "text": "Dance",
         "aliases": [
-          "pictures"
+          "dad dancing"
         ],
         "points": 25
       },
       {
-        "text": "A guestbook",
+        "text": "Hug or kiss them",
         "aliases": [
-          "guest book"
+          "public affection"
         ],
         "points": 16
       },
       {
-        "text": "An invitation",
+        "text": "Tell childhood stories",
         "aliases": [
-          "invitation card"
+          "embarrassing stories"
         ],
         "points": 11
       },
       {
-        "text": "A program",
+        "text": "Scold them",
         "aliases": [
-          "event program"
+          "tell them off"
         ],
         "points": 8
       },
       {
-        "text": "A party favor",
+        "text": "Wear an embarrassing outfit",
         "aliases": [
-          "souvenir favor"
+          "bad clothes"
         ],
         "points": 5
       }
@@ -1958,96 +1964,96 @@
   {
     "id": "everyday-261",
     "category": "Everyday life",
-    "prompt": "Name something a family might do every year for a child's birthday.",
+    "prompt": "Name a clue your partner forgot your anniversary.",
     "answers": [
       {
-        "text": "Sing a birthday song",
+        "text": "No gift",
         "aliases": [
-          "sing happy birthday"
+          "no present"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Make a wish",
+        "text": "Makes ordinary plans",
         "aliases": [
-          "birthday wish"
+          "plans with friends"
         ],
         "points": 24
       },
       {
-        "text": "Blow out candles",
+        "text": "Asks what day it is",
         "aliases": [
-          "birthday candles"
+          "doesn't know the date"
         ],
         "points": 18
       },
       {
-        "text": "Open gifts",
+        "text": "Panics after a reminder",
         "aliases": [
-          "unwrap presents"
+          "suddenly looks worried"
         ],
         "points": 13
       },
       {
-        "text": "Take a birthday photo",
+        "text": "Rushes to the shops",
         "aliases": [
-          "annual birthday picture"
+          "last-minute shopping"
         ],
         "points": 9
       },
       {
-        "text": "Wear a birthday crown",
+        "text": "Gets the date wrong",
         "aliases": [
-          "birthday hat"
+          "wrong anniversary date"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-262",
     "category": "Everyday life",
-    "prompt": "Name something people use to decorate a porch for a special occasion.",
+    "prompt": "Name something a couple argues about on the way to visit family.",
     "answers": [
       {
-        "text": "A wreath",
+        "text": "Leaving late",
         "aliases": [
-          "door wreath"
+          "being late"
         ],
-        "points": 32
+        "points": 31
       },
       {
-        "text": "Lights",
+        "text": "Directions",
         "aliases": [
-          "decorative lights"
+          "which route"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "A flag",
+        "text": "How long to stay",
         "aliases": [
-          "festive flag"
+          "length of visit"
         ],
         "points": 18
       },
       {
-        "text": "Lanterns",
+        "text": "What not to mention",
         "aliases": [
-          "paper lanterns"
+          "forbidden topics"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Potted plants",
+        "text": "Who drives",
         "aliases": [
-          "flowers in pots"
+          "driving duties"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Figurines",
+        "text": "Forgetting a gift",
         "aliases": [
-          "seasonal figures"
+          "forgotten present"
         ],
         "points": 6
       }
@@ -2056,47 +2062,47 @@
   {
     "id": "everyday-263",
     "category": "Everyday life",
-    "prompt": "Name information that helps someone choose a gift for another person.",
+    "prompt": "Name something relatives post in the family chat that nobody asked for.",
     "answers": [
       {
-        "text": "Hobbies",
+        "text": "Baby photos",
         "aliases": [
-          "interests"
+          "pictures of babies"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Clothing size",
+        "text": "Political rants",
         "aliases": [
-          "their size"
+          "political opinions"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Favorite color",
+        "text": "Chain messages",
         "aliases": [
-          "color preferences"
+          "forward this message"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "A wish list",
+        "text": "Unsolicited advice",
         "aliases": [
-          "things they want"
+          "life advice"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Allergies",
+        "text": "Weather updates",
         "aliases": [
-          "materials to avoid"
+          "weather report"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Age",
+        "text": "Bad jokes",
         "aliases": [
-          "how old they are"
+          "dad jokes"
         ],
         "points": 6
       }
@@ -2105,292 +2111,292 @@
   {
     "id": "everyday-264",
     "category": "Everyday life",
-    "prompt": "Name an activity guests might do at a housewarming party.",
+    "prompt": "Name something you hide when your parents visit your first apartment.",
     "answers": [
       {
-        "text": "Tour the house",
+        "text": "Alcohol",
         "aliases": [
-          "look around the home"
+          "booze"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Take a group photo",
+        "text": "A partner staying over",
         "aliases": [
-          "pose for a picture"
+          "secret overnight guest"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Sign a guestbook",
+        "text": "An overdue bill",
         "aliases": [
-          "leave a guestbook message"
+          "unpaid bills"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Make a toast",
+        "text": "Cigarettes",
         "aliases": [
-          "give a short speech"
+          "smoking supplies"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Play a game",
+        "text": "An expensive impulse buy",
         "aliases": [
-          "party games"
+          "a purchase they'd criticize"
         ],
         "points": 8
       },
       {
-        "text": "Ask about the neighborhood",
+        "text": "A pet they disapprove of",
         "aliases": [
-          "discuss the local area"
+          "secret pet"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-265",
     "category": "Everyday life",
-    "prompt": "Name something people include on a party invitation.",
+    "prompt": "Name a reason a couple avoids posting photos together.",
     "answers": [
       {
-        "text": "The date",
+        "text": "They want privacy",
         "aliases": [
-          "party date"
+          "private relationship"
         ],
         "points": 30
       },
       {
-        "text": "The time",
+        "text": "One hates the photo",
         "aliases": [
-          "starting time"
+          "bad picture"
         ],
         "points": 24
       },
       {
-        "text": "The address",
+        "text": "The relationship is new",
         "aliases": [
-          "location"
+          "not official yet"
         ],
         "points": 18
       },
       {
-        "text": "The occasion",
+        "text": "They've had a fight",
         "aliases": [
-          "reason for the party"
+          "an argument"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "RSVP details",
+        "text": "Nosy relatives",
         "aliases": [
-          "how to reply"
+          "family questions"
         ],
         "points": 9
       },
       {
-        "text": "A dress code",
+        "text": "An ex might see it",
         "aliases": [
-          "what to wear"
+          "avoiding an ex"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-266",
     "category": "Everyday life",
-    "prompt": "Name a way to add a personal touch to a gift.",
+    "prompt": "Name a compliment you give a friend's baby when you're stuck for something to say.",
     "answers": [
       {
-        "text": "Add a handwritten note",
+        "text": "So cute",
         "aliases": [
-          "write a personal message"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Engrave their name",
-        "aliases": [
-          "add initials"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Make the wrapping",
-        "aliases": [
-          "handmade gift wrap"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Include a photograph",
-        "aliases": [
-          "add a personal photo"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Use their favorite color",
-        "aliases": [
-          "choose their preferred color"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Refer to an inside joke",
-        "aliases": [
-          "include a shared joke"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-267",
-    "category": "Everyday life",
-    "prompt": "Name something that can make a group photograph difficult to take.",
-    "answers": [
-      {
-        "text": "Someone blinks",
-        "aliases": [
-          "eyes closed"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Not everyone fits",
-        "aliases": [
-          "too many people"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Poor lighting",
-        "aliases": [
-          "too dark"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Someone keeps moving",
-        "aliases": [
-          "will not hold still"
-        ],
-        "points": 14
-      },
-      {
-        "text": "A missing person",
-        "aliases": [
-          "waiting for someone"
-        ],
-        "points": 10
-      },
-      {
-        "text": "The camera battery dies",
-        "aliases": [
-          "no camera power"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-268",
-    "category": "Everyday life",
-    "prompt": "Name something someone might include inside a greeting card.",
-    "answers": [
-      {
-        "text": "A warm wish",
-        "aliases": [
-          "good wishes"
+          "adorable"
         ],
         "points": 35
       },
       {
-        "text": "A personal memory",
+        "text": "Beautiful eyes",
         "aliases": [
-          "shared memory"
+          "lovely eyes"
         ],
         "points": 25
       },
       {
-        "text": "A joke",
+        "text": "Look at that hair",
         "aliases": [
-          "funny message"
+          "lots of hair"
         ],
         "points": 16
       },
       {
-        "text": "A quotation",
+        "text": "Such a lovely smile",
         "aliases": [
-          "meaningful quote"
+          "great smile"
         ],
         "points": 11
       },
       {
-        "text": "A drawing",
+        "text": "What a cute outfit",
         "aliases": [
-          "little sketch"
+          "lovely clothes"
         ],
         "points": 8
       },
       {
-        "text": "A signature",
+        "text": "So calm",
         "aliases": [
-          "their name"
+          "so well behaved"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-269",
+    "id": "everyday-267",
     "category": "Everyday life",
-    "prompt": "Name something a child asks about an upcoming birthday celebration.",
+    "prompt": "Name a reason a kid says you're their favorite adult.",
     "answers": [
       {
-        "text": "How many days are left",
+        "text": "You give presents",
         "aliases": [
-          "how long until the birthday"
+          "buy toys"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "What presents they will get",
+        "text": "You allow sweets",
         "aliases": [
-          "their gifts"
+          "give candy"
         ],
         "points": 24
       },
       {
-        "text": "Who is coming",
+        "text": "You play with them",
         "aliases": [
-          "guest list"
+          "join their games"
         ],
         "points": 18
       },
       {
-        "text": "Which games they will play",
+        "text": "You let them stay up late",
         "aliases": [
-          "party games"
+          "late bedtime"
         ],
         "points": 13
       },
       {
-        "text": "The party theme",
+        "text": "You take them on outings",
         "aliases": [
-          "decorations theme"
+          "fun trips"
         ],
         "points": 9
       },
       {
-        "text": "Whether they can stay up late",
+        "text": "You don't make them do chores",
         "aliases": [
-          "a later bedtime"
+          "no chores"
+        ],
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": "everyday-268",
+    "category": "Everyday life",
+    "prompt": "Name something a partner refuses to share even after moving in together.",
+    "answers": [
+      {
+        "text": "A toothbrush",
+        "aliases": [
+          "their toothbrush"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Phone passwords",
+        "aliases": [
+          "phone passcode"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Their side of the bed",
+        "aliases": [
+          "bed side"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Favorite snacks",
+        "aliases": [
+          "their food"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A razor",
+        "aliases": [
+          "shaver"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Their favorite mug",
+        "aliases": [
+          "coffee cup"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-269",
+    "category": "Everyday life",
+    "prompt": "Name a topic that can ruin a first date within five minutes.",
+    "answers": [
+      {
+        "text": "An ex",
+        "aliases": [
+          "past relationships"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Politics",
+        "aliases": [
+          "political views"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Money",
+        "aliases": [
+          "salary"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Having children",
+        "aliases": [
+          "baby plans"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Religion",
+        "aliases": [
+          "religious beliefs"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Medical problems",
+        "aliases": [
+          "health complaints"
         ],
         "points": 6
       }
@@ -2399,47 +2405,47 @@
   {
     "id": "everyday-270",
     "category": "Everyday life",
-    "prompt": "Name something someone might wear to a costume party at home.",
+    "prompt": "Name something people lie about on a dating profile.",
     "answers": [
       {
-        "text": "A mask",
+        "text": "Age",
         "aliases": [
-          "costume mask"
+          "how old they are"
         ],
         "points": 32
       },
       {
-        "text": "A wig",
+        "text": "Height",
         "aliases": [
-          "fake hair"
+          "how tall they are"
         ],
         "points": 24
       },
       {
-        "text": "A cape",
+        "text": "Their job",
         "aliases": [
-          "costume cape"
+          "career"
         ],
         "points": 18
       },
       {
-        "text": "A hat",
+        "text": "Hobbies",
         "aliases": [
-          "fancy hat"
+          "interests"
         ],
         "points": 12
       },
       {
-        "text": "Face paint",
+        "text": "Relationship status",
         "aliases": [
-          "painted face"
+          "being single"
         ],
         "points": 8
       },
       {
-        "text": "Oversized glasses",
+        "text": "What they look like now",
         "aliases": [
-          "funny glasses"
+          "old photos"
         ],
         "points": 6
       }
@@ -2448,96 +2454,96 @@
   {
     "id": "everyday-271",
     "category": "Everyday life",
-    "prompt": "Name a safe topic for small talk with someone you have just met.",
+    "prompt": "Name a reason a parent calls instead of texting.",
     "answers": [
       {
-        "text": "The weather",
+        "text": "They're worried",
         "aliases": [
-          "today's weather"
+          "checking you're safe"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "A local event",
+        "text": "Urgent news",
         "aliases": [
-          "something happening nearby"
+          "an emergency"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Pets",
+        "text": "You haven't replied",
         "aliases": [
-          "their animals"
+          "ignored messages"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Hobbies",
+        "text": "They want to hear your voice",
         "aliases": [
-          "leisure interests"
+          "miss your voice"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "The neighborhood",
+        "text": "It's a long story",
         "aliases": [
-          "the local area"
+          "too much to type"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Weekend plans",
+        "text": "They dialed by accident",
         "aliases": [
-          "plans for the weekend"
+          "pocket dial"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-272",
     "category": "Everyday life",
-    "prompt": "Name a way someone might find out the name of a person they recognize but cannot name.",
+    "prompt": "Name something your partner does on a call that makes you want to hang up.",
     "answers": [
       {
-        "text": "Ask them directly",
+        "text": "Chews loudly",
         "aliases": [
-          "admit they forgot"
+          "eats noisily"
         ],
         "points": 35
       },
       {
-        "text": "Ask a mutual friend",
+        "text": "Insults you",
         "aliases": [
-          "ask someone who knows them"
+          "makes a rude remark"
         ],
         "points": 25
       },
       {
-        "text": "Introduce themselves again",
+        "text": "Keeps putting you on hold",
         "aliases": [
-          "give their own name"
+          "holds the call"
         ],
         "points": 16
       },
       {
-        "text": "Listen for an introduction",
+        "text": "Talks to someone else",
         "aliases": [
-          "hear someone say it"
+          "another conversation"
         ],
         "points": 11
       },
       {
-        "text": "Read a name badge",
+        "text": "Calls you the wrong name",
         "aliases": [
-          "check their badge"
+          "uses an ex's name"
         ],
         "points": 8
       },
       {
-        "text": "Check their contacts",
+        "text": "Brings up an old argument",
         "aliases": [
-          "search their address book"
+          "starts the same fight"
         ],
         "points": 5
       }
@@ -2546,96 +2552,96 @@
   {
     "id": "everyday-273",
     "category": "Everyday life",
-    "prompt": "Name something that can interrupt a phone conversation at home.",
+    "prompt": "Name a text from your partner that makes your stomach drop.",
     "answers": [
       {
-        "text": "A barking dog",
+        "text": "We need to talk",
         "aliases": [
-          "dog barking"
+          "need to talk"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "The doorbell",
+        "text": "I found out",
         "aliases": [
-          "someone at the door"
+          "I know what you did"
         ],
         "points": 24
       },
       {
-        "text": "A child calling out",
+        "text": "Call me now",
         "aliases": [
-          "children shouting"
+          "call immediately"
         ],
         "points": 18
       },
       {
-        "text": "Poor reception",
+        "text": "It's over",
         "aliases": [
-          "losing signal"
+          "we're done"
         ],
         "points": 13
       },
       {
-        "text": "Another incoming call",
+        "text": "Where are you?",
         "aliases": [
-          "call waiting"
+          "where are you really"
         ],
         "points": 9
       },
       {
-        "text": "An alarm going off",
+        "text": "I'm late",
         "aliases": [
-          "a timer ringing"
+          "my period is late"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-274",
     "category": "Everyday life",
-    "prompt": "Name a reason someone might prefer a phone call to a text message.",
+    "prompt": "Name someone you dread accidentally calling at midnight.",
     "answers": [
       {
-        "text": "A complicated explanation",
+        "text": "Your boss",
         "aliases": [
-          "too much to type"
+          "manager"
         ],
-        "points": 32
+        "points": 31
       },
       {
-        "text": "An urgent issue",
+        "text": "An ex",
         "aliases": [
-          "need an immediate answer"
+          "former partner"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Personal news",
+        "text": "Your parents",
         "aliases": [
-          "important family news"
+          "mom or dad"
         ],
         "points": 18
       },
       {
-        "text": "A misunderstood tone",
+        "text": "Your crush",
         "aliases": [
-          "clear up a misunderstanding"
+          "someone you fancy"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Their hands are occupied",
+        "text": "Your in-laws",
         "aliases": [
-          "cannot type right now"
+          "partner's parents"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "They miss the person's voice",
+        "text": "Your landlord",
         "aliases": [
-          "want to hear them"
+          "landlady"
         ],
         "points": 6
       }
@@ -2644,47 +2650,47 @@
   {
     "id": "everyday-275",
     "category": "Everyday life",
-    "prompt": "Name something that can cause confusion in a text message.",
+    "prompt": "Name a way someone tries too hard to impress their partner's parents.",
     "answers": [
       {
-        "text": "Autocorrect",
+        "text": "Brings expensive gifts",
         "aliases": [
-          "wrong words inserted"
+          "lavish presents"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Sarcasm",
+        "text": "Brags about work",
         "aliases": [
-          "an unclear joke"
+          "talks up their job"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Punctuation",
+        "text": "Offers to do every chore",
         "aliases": [
-          "missing punctuation"
+          "helps too much"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Abbreviations",
+        "text": "Laughs at every joke",
         "aliases": [
-          "unfamiliar shorthand"
+          "fake laughter"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Missing context",
+        "text": "Dresses too formally",
         "aliases": [
-          "not enough information"
+          "overdresses"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "A delayed reply",
+        "text": "Pretends to share their interests",
         "aliases": [
-          "replying much later"
+          "fakes hobbies"
         ],
         "points": 6
       }
@@ -2693,292 +2699,292 @@
   {
     "id": "everyday-276",
     "category": "Everyday life",
-    "prompt": "Name information someone might leave in a useful voicemail.",
+    "prompt": "Name something your partner volunteers you for without asking first.",
     "answers": [
       {
-        "text": "Their name",
+        "text": "Hosting guests",
         "aliases": [
-          "who is calling"
+          "hosting a party"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "A callback number",
+        "text": "Giving someone a ride",
         "aliases": [
-          "phone number"
+          "driving someone"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Why they called",
+        "text": "Helping someone move",
         "aliases": [
-          "purpose of the call"
+          "moving furniture"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "A good callback time",
+        "text": "Cooking a meal",
         "aliases": [
-          "when to reach them"
+          "making dinner"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "How urgent it is",
+        "text": "Fixing something",
         "aliases": [
-          "urgency"
+          "home repairs"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "A reference number",
+        "text": "Singing karaoke",
         "aliases": [
-          "case number"
+          "karaoke"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-277",
     "category": "Everyday life",
-    "prompt": "Name something someone might do after arriving much too early for a social visit.",
+    "prompt": "Name a reason someone owes their partner an apology before breakfast.",
     "answers": [
       {
-        "text": "Wait outside",
+        "text": "Loud snoring",
         "aliases": [
-          "wait in the car"
+          "snoring all night"
         ],
         "points": 30
       },
       {
-        "text": "Take a short walk",
+        "text": "Stealing the covers",
         "aliases": [
-          "walk around the block"
+          "hogging the blanket"
         ],
         "points": 24
       },
       {
-        "text": "Call the host",
+        "text": "An early alarm",
         "aliases": [
-          "phone to explain"
+          "alarm kept ringing"
         ],
         "points": 18
       },
       {
-        "text": "Visit a nearby shop",
+        "text": "Being grumpy",
         "aliases": [
-          "browse a store"
+          "morning mood"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Offer to help set up",
+        "text": "Leaving a mess",
         "aliases": [
-          "help with preparations"
+          "messy kitchen"
         ],
         "points": 9
       },
       {
-        "text": "Read a book",
+        "text": "Eating the last of something",
         "aliases": [
-          "read while waiting"
+          "finishing their food"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-278",
     "category": "Everyday life",
-    "prompt": "Name something people do to fill an awkward silence.",
+    "prompt": "Name something a partner says that never helps when you're upset.",
     "answers": [
       {
-        "text": "Ask about the other person's day",
+        "text": "Calm down",
         "aliases": [
-          "how was your day"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Tell a joke",
-        "aliases": [
-          "make a funny remark"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Show a photo",
-        "aliases": [
-          "bring out a picture"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Comment on the weather",
-        "aliases": [
-          "mention the weather"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Put on some music",
-        "aliases": [
-          "play background music"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Check their phone",
-        "aliases": [
-          "look at their phone"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-279",
-    "category": "Everyday life",
-    "prompt": "Name something someone might apologize for in an everyday social situation.",
-    "answers": [
-      {
-        "text": "Bumping into someone",
-        "aliases": [
-          "accidentally knocking them"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Interrupting",
-        "aliases": [
-          "talking over someone"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Forgetting a name",
-        "aliases": [
-          "not remembering their name"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Arriving late",
-        "aliases": [
-          "being late"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Spilling something",
-        "aliases": [
-          "knocking over a drink"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Sending the wrong message",
-        "aliases": [
-          "texting the wrong person"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-280",
-    "category": "Everyday life",
-    "prompt": "Name a considerate thing to do while waiting in a line.",
-    "answers": [
-      {
-        "text": "Wait your turn",
-        "aliases": [
-          "do not cut in"
+          "just relax"
         ],
         "points": 35
       },
       {
-        "text": "Leave personal space",
+        "text": "I told you so",
         "aliases": [
-          "avoid crowding"
+          "told you that would happen"
         ],
         "points": 25
       },
       {
-        "text": "Keep your phone quiet",
+        "text": "It's not a big deal",
         "aliases": [
-          "silence your phone"
+          "you're overreacting"
         ],
         "points": 16
       },
       {
-        "text": "Have payment ready",
+        "text": "You always do this",
         "aliases": [
-          "prepare your money"
+          "here we go again"
         ],
         "points": 11
       },
       {
-        "text": "Let someone in need go first",
+        "text": "Are you done?",
         "aliases": [
-          "offer your place"
+          "finished yet"
         ],
         "points": 8
       },
       {
-        "text": "Keep the walkway clear",
+        "text": "At least it wasn't worse",
         "aliases": [
-          "do not block the aisle"
+          "could be worse"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-281",
+    "id": "everyday-279",
     "category": "Everyday life",
-    "prompt": "Name a clue that someone is distracted during a conversation.",
+    "prompt": "Name a sign your partner wasn't listening to your story.",
     "answers": [
       {
-        "text": "Glancing at their phone",
+        "text": "Asks you to repeat it",
         "aliases": [
-          "checking notifications"
+          "what did you say"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Looking around the room",
+        "text": "Gives the wrong reply",
         "aliases": [
-          "wandering eyes"
+          "answers a different question"
         ],
         "points": 24
       },
       {
-        "text": "Asking you to repeat yourself",
+        "text": "Keeps checking their phone",
         "aliases": [
-          "saying what"
+          "looking at phone"
         ],
         "points": 18
       },
       {
-        "text": "Forgetting what you just said",
+        "text": "Has a blank stare",
         "aliases": [
-          "losing the thread"
+          "stares into space"
         ],
         "points": 13
       },
       {
-        "text": "Fidgeting",
+        "text": "Interrupts with something unrelated",
         "aliases": [
-          "playing with something"
+          "changes the topic"
         ],
         "points": 9
       },
       {
-        "text": "Giving automatic replies",
+        "text": "Says yes to everything",
         "aliases": [
-          "saying uh huh"
+          "automatic nodding"
+        ],
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": "everyday-280",
+    "category": "Everyday life",
+    "prompt": "Name something your partner borrows and starts calling theirs.",
+    "answers": [
+      {
+        "text": "A sweatshirt",
+        "aliases": [
+          "hoodie"
+        ],
+        "points": 31
+      },
+      {
+        "text": "A phone charger",
+        "aliases": [
+          "charging cable"
+        ],
+        "points": 23
+      },
+      {
+        "text": "A blanket",
+        "aliases": [
+          "throw"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Your car",
+        "aliases": [
+          "vehicle"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Headphones",
+        "aliases": [
+          "earbuds"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A favorite mug",
+        "aliases": [
+          "coffee mug"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-281",
+    "category": "Everyday life",
+    "prompt": "Name a reason someone ends a call quickly when their partner walks in.",
+    "answers": [
+      {
+        "text": "Planning a surprise",
+        "aliases": [
+          "secret party"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Complaining about them",
+        "aliases": [
+          "talking behind their back"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Flirting",
+        "aliases": [
+          "chatting someone up"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Hiding a purchase",
+        "aliases": [
+          "secret shopping"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Talking to an ex",
+        "aliases": [
+          "calling an old partner"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sharing their secret",
+        "aliases": [
+          "telling private information"
         ],
         "points": 6
       }
@@ -2987,47 +2993,47 @@
   {
     "id": "everyday-282",
     "category": "Everyday life",
-    "prompt": "Name something people double-check before sending an important message.",
+    "prompt": "Name something couples disagree about on a lazy Sunday.",
     "answers": [
       {
-        "text": "The recipient",
+        "text": "Getting out of bed",
         "aliases": [
-          "who it is going to"
+          "sleeping in"
         ],
         "points": 32
       },
       {
-        "text": "Spelling",
+        "text": "Doing chores",
         "aliases": [
-          "typos"
+          "housework"
         ],
         "points": 24
       },
       {
-        "text": "The tone",
+        "text": "Going out or staying home",
         "aliases": [
-          "how it sounds"
+          "making plans"
         ],
         "points": 18
       },
       {
-        "text": "Attachments",
+        "text": "What to watch",
         "aliases": [
-          "attached files"
+          "choosing TV"
         ],
         "points": 12
       },
       {
-        "text": "Dates and times",
+        "text": "Visiting family",
         "aliases": [
-          "schedule details"
+          "seeing relatives"
         ],
         "points": 8
       },
       {
-        "text": "Private information",
+        "text": "Who cooks",
         "aliases": [
-          "sensitive details"
+          "making dinner"
         ],
         "points": 6
       }
@@ -3036,96 +3042,96 @@
   {
     "id": "everyday-283",
     "category": "Everyday life",
-    "prompt": "Name a friendly phrase people use to close a personal note.",
+    "prompt": "Name a compliment that might accidentally sound like an insult.",
     "answers": [
       {
-        "text": "Take care",
+        "text": "You look good for your age",
         "aliases": [
-          "take good care"
+          "good for your age"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "See you soon",
+        "text": "You clean up well",
         "aliases": [
-          "see you later"
+          "you scrub up well"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Thanks again",
+        "text": "You're smarter than you look",
         "aliases": [
-          "thank you"
+          "smarter than expected"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Good luck",
+        "text": "You look better in person",
         "aliases": [
-          "wishing you luck"
+          "better than your photos"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Best wishes",
+        "text": "You're brave to wear that",
         "aliases": [
-          "all the best"
+          "bold outfit"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "With love",
+        "text": "You finally got it right",
         "aliases": [
-          "love"
+          "finally did well"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-284",
     "category": "Everyday life",
-    "prompt": "Name a way people try to calm a heated disagreement.",
+    "prompt": "Name something parents do on video calls that makes everyone groan.",
     "answers": [
       {
-        "text": "Lower their voice",
+        "text": "Talk while muted",
         "aliases": [
-          "speak calmly"
+          "forget to unmute"
         ],
         "points": 35
       },
       {
-        "text": "Listen without interrupting",
+        "text": "Point the camera at the ceiling",
         "aliases": [
-          "hear the other person out"
+          "bad camera angle"
         ],
         "points": 25
       },
       {
-        "text": "Apologize",
+        "text": "Shout",
         "aliases": [
-          "say sorry"
+          "talk too loudly"
         ],
         "points": 16
       },
       {
-        "text": "Take a break",
+        "text": "Ask if you can hear them",
         "aliases": [
-          "pause the discussion"
+          "can you hear me"
         ],
         "points": 11
       },
       {
-        "text": "Find common ground",
+        "text": "Walk around with the phone",
         "aliases": [
-          "agree on something"
+          "shaky camera"
         ],
         "points": 8
       },
       {
-        "text": "Ask a neutral person to help",
+        "text": "Put their face too close",
         "aliases": [
-          "involve a mediator"
+          "close-up nostrils"
         ],
         "points": 5
       }
@@ -3134,96 +3140,96 @@
   {
     "id": "everyday-285",
     "category": "Everyday life",
-    "prompt": "Name something you might compliment when meeting a neighbor outside.",
+    "prompt": "Name a reason someone leaves a crush on read.",
     "answers": [
       {
-        "text": "Their garden",
+        "text": "They're nervous",
         "aliases": [
-          "flowers"
+          "don't know what to say"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Their freshly painted door",
+        "text": "Playing hard to get",
         "aliases": [
-          "their front door color"
+          "don't want to seem keen"
         ],
         "points": 24
       },
       {
-        "text": "Their pet",
+        "text": "They're busy",
         "aliases": [
-          "dog"
+          "at work"
         ],
         "points": 18
       },
       {
-        "text": "Their outfit",
+        "text": "They forgot to reply",
         "aliases": [
-          "clothes"
+          "got distracted"
         ],
         "points": 13
       },
       {
-        "text": "Their seasonal decorations",
+        "text": "They're not interested",
         "aliases": [
-          "porch decorations"
+          "don't like them back"
         ],
         "points": 9
       },
       {
-        "text": "Their helpfulness",
+        "text": "They're rewriting the reply",
         "aliases": [
-          "being a good neighbor"
+          "drafting the perfect text"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-286",
     "category": "Everyday life",
-    "prompt": "Name something you might explain to a relative who is joining their first video call.",
+    "prompt": "Name something people discover about a partner only after living together.",
     "answers": [
       {
-        "text": "How to mute",
+        "text": "They snore",
         "aliases": [
-          "turn the microphone off"
+          "loud sleeper"
         ],
-        "points": 32
+        "points": 31
       },
       {
-        "text": "How to turn on the camera",
+        "text": "They're messy",
         "aliases": [
-          "enable video"
+          "leave things everywhere"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Which link to open",
+        "text": "Bathroom habits",
         "aliases": [
-          "how to join"
+          "toilet habits"
         ],
         "points": 18
       },
       {
-        "text": "How to hide their background",
+        "text": "Spending habits",
         "aliases": [
-          "blur the background"
+          "how they use money"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "How to improve lighting",
+        "text": "Their sleep schedule",
         "aliases": [
-          "face a light"
+          "night owl"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "How to check the connection",
+        "text": "They eat your food",
         "aliases": [
-          "test the internet"
+          "steal your snacks"
         ],
         "points": 6
       }
@@ -3232,47 +3238,47 @@
   {
     "id": "everyday-287",
     "category": "Everyday life",
-    "prompt": "Name a reason someone does not reply to a message right away.",
+    "prompt": "Name a subject that turns a peaceful family dinner into a debate.",
     "answers": [
       {
-        "text": "Gets distracted",
+        "text": "Politics",
         "aliases": [
-          "something interrupts them"
+          "elections"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Thinks they already replied",
+        "text": "Religion",
         "aliases": [
-          "thought it was sent"
+          "faith"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Misses the notification",
+        "text": "Parenting",
         "aliases": [
-          "never sees the alert"
+          "raising children"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Needs to find an answer",
+        "text": "Money",
         "aliases": [
-          "waiting for information"
+          "finances"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Their battery dies",
+        "text": "An old family feud",
         "aliases": [
-          "phone loses power"
+          "past arguments"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Too many messages",
+        "text": "Who cleans up",
         "aliases": [
-          "inbox overload"
+          "doing the dishes"
         ],
         "points": 6
       }
@@ -3281,292 +3287,292 @@
   {
     "id": "everyday-288",
     "category": "Everyday life",
-    "prompt": "Name a reason someone asks you to repeat what you just said.",
+    "prompt": "Name something you'd bribe a sibling with to keep your secret.",
     "answers": [
       {
-        "text": "Background noise",
+        "text": "Money",
         "aliases": [
-          "it was too loud"
+          "cash"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "You spoke too quietly",
+        "text": "Their favorite snack",
         "aliases": [
-          "could not hear you"
+          "candy"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "An unfamiliar word",
+        "text": "Doing their chores",
         "aliases": [
-          "did not understand a word"
+          "housework"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "They are surprised",
+        "text": "Lending them something",
         "aliases": [
-          "cannot believe it"
+          "borrowing my stuff"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "They were not listening",
+        "text": "A ride",
         "aliases": [
-          "distracted"
+          "driving them"
         ],
         "points": 8
       },
       {
-        "text": "The call broke up",
+        "text": "A future favor",
         "aliases": [
-          "a bad connection"
+          "I owe you one"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-289",
     "category": "Everyday life",
-    "prompt": "Name a topic people sometimes avoid at a peaceful family gathering.",
+    "prompt": "Name something a parent still asks about after you've become an adult.",
     "answers": [
       {
-        "text": "Politics",
+        "text": "Whether you've eaten",
         "aliases": [
-          "political opinions"
+          "food"
         ],
         "points": 30
       },
       {
-        "text": "Money",
+        "text": "Whether you're sleeping enough",
         "aliases": [
-          "personal finances"
+          "sleep"
         ],
         "points": 24
       },
       {
-        "text": "Dating",
+        "text": "Your job",
         "aliases": [
-          "relationship status"
+          "work"
         ],
         "points": 18
       },
       {
-        "text": "Weight",
+        "text": "Your money situation",
         "aliases": [
-          "body size"
+          "finances"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Old disputes",
+        "text": "Your love life",
         "aliases": [
-          "past arguments"
+          "dating"
         ],
         "points": 9
       },
       {
-        "text": "Religion",
+        "text": "Your health",
         "aliases": [
-          "religious beliefs"
+          "feeling well"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-290",
     "category": "Everyday life",
-    "prompt": "Name a reason someone sends a thank-you note.",
+    "prompt": "Name something people delete when a relationship ends.",
     "answers": [
       {
-        "text": "Receiving a gift",
+        "text": "Couple photos",
         "aliases": [
-          "a present"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Being hosted",
-        "aliases": [
-          "hospitality"
-        ],
-        "points": 24
-      },
-      {
-        "text": "A job interview",
-        "aliases": [
-          "an interview"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Ongoing guidance",
-        "aliases": [
-          "mentorship"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Receiving a donation",
-        "aliases": [
-          "financial support"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Someone attending a celebration",
-        "aliases": [
-          "coming to their event"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-291",
-    "category": "Everyday life",
-    "prompt": "Name a reason someone might return an item to a store.",
-    "answers": [
-      {
-        "text": "Wrong size",
-        "aliases": [
-          "it does not fit"
-        ],
-        "points": 28
-      },
-      {
-        "text": "It is broken",
-        "aliases": [
-          "faulty item"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Already owns one",
-        "aliases": [
-          "duplicate gift"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Changed their mind",
-        "aliases": [
-          "no longer wants it"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Wrong item delivered",
-        "aliases": [
-          "received the wrong product"
-        ],
-        "points": 10
-      },
-      {
-        "text": "It looked different online",
-        "aliases": [
-          "not as pictured"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-292",
-    "category": "Everyday life",
-    "prompt": "Name an errand someone might do at a post office.",
-    "answers": [
-      {
-        "text": "Mail a parcel",
-        "aliases": [
-          "send a package"
+          "photos together"
         ],
         "points": 35
       },
       {
-        "text": "Buy stamps",
+        "text": "Messages",
         "aliases": [
-          "purchase postage"
+          "old texts"
         ],
         "points": 25
       },
       {
-        "text": "Request mail forwarding",
+        "text": "Their ex's number",
         "aliases": [
-          "change a mailing address"
+          "phone contact"
         ],
         "points": 16
       },
       {
-        "text": "Put mail on hold",
+        "text": "A shared playlist",
         "aliases": [
-          "stop delivery temporarily"
+          "our playlist"
         ],
         "points": 11
       },
       {
-        "text": "Rent a mailbox",
+        "text": "A streaming profile",
         "aliases": [
-          "get a post office box"
+          "their TV profile"
         ],
         "points": 8
       },
       {
-        "text": "Track a shipment",
+        "text": "Shared calendar events",
         "aliases": [
-          "ask about a missing package"
+          "anniversary reminders"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-293",
+    "id": "everyday-291",
     "category": "Everyday life",
-    "prompt": "Name something useful to bring when running several errands.",
+    "prompt": "Name something you become self-conscious about when your crush stands next to you.",
     "answers": [
       {
-        "text": "A list",
+        "text": "Your breath",
         "aliases": [
-          "errand list"
+          "bad breath"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Reusable bags",
+        "text": "Your hair",
         "aliases": [
-          "shopping bags"
+          "hairstyle"
         ],
         "points": 24
       },
       {
-        "text": "Receipts",
+        "text": "Your clothes",
         "aliases": [
-          "proof of purchase"
+          "outfit"
         ],
         "points": 18
       },
       {
-        "text": "Identification",
+        "text": "Sweating",
         "aliases": [
-          "id"
+          "body odor"
         ],
         "points": 13
       },
       {
-        "text": "A payment card",
+        "text": "Your laugh",
         "aliases": [
-          "bank card"
+          "how you laugh"
         ],
         "points": 9
       },
       {
-        "text": "A phone",
+        "text": "What to say",
         "aliases": [
-          "mobile phone"
+          "your conversation"
+        ],
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": "everyday-292",
+    "category": "Everyday life",
+    "prompt": "Name something couples disagree about when sharing a bed.",
+    "answers": [
+      {
+        "text": "The temperature",
+        "aliases": [
+          "too hot or cold"
+        ],
+        "points": 31
+      },
+      {
+        "text": "The blankets",
+        "aliases": [
+          "hogging covers"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Which side to sleep on",
+        "aliases": [
+          "bed side"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Snoring",
+        "aliases": [
+          "sleep noises"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Alarm times",
+        "aliases": [
+          "morning alarm"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Pets in the bed",
+        "aliases": [
+          "sleeping with the dog"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-293",
+    "category": "Everyday life",
+    "prompt": "Name a reason people say I told you so to their partner.",
+    "answers": [
+      {
+        "text": "They get lost",
+        "aliases": [
+          "wrong directions"
+        ],
+        "points": 34
+      },
+      {
+        "text": "A cheap purchase breaks",
+        "aliases": [
+          "bought something flimsy"
+        ],
+        "points": 24
+      },
+      {
+        "text": "They leave too late",
+        "aliases": [
+          "miss being on time"
+        ],
+        "points": 16
+      },
+      {
+        "text": "They ignore the weather",
+        "aliases": [
+          "forgot an umbrella"
+        ],
+        "points": 12
+      },
+      {
+        "text": "They trust an unreliable friend",
+        "aliases": [
+          "get let down"
+        ],
+        "points": 8
+      },
+      {
+        "text": "They burn dinner",
+        "aliases": [
+          "ruin the food"
         ],
         "points": 6
       }
@@ -3575,47 +3581,47 @@
   {
     "id": "everyday-294",
     "category": "Everyday life",
-    "prompt": "Name something that can hold up a store checkout line.",
+    "prompt": "Name something in a coat pocket that could remind you of an old relationship.",
     "answers": [
       {
-        "text": "An unreadable barcode",
+        "text": "A movie ticket",
         "aliases": [
-          "barcode will not scan"
+          "cinema ticket"
         ],
         "points": 32
       },
       {
-        "text": "A price check",
+        "text": "A love note",
         "aliases": [
-          "checking a price"
+          "romantic note"
         ],
         "points": 24
       },
       {
-        "text": "A declined payment",
+        "text": "A photo",
         "aliases": [
-          "card declined"
+          "a picture together"
         ],
         "points": 18
       },
       {
-        "text": "A shopper fetching a forgotten item",
+        "text": "A restaurant receipt",
         "aliases": [
-          "going back for something"
+          "dinner receipt"
         ],
         "points": 12
       },
       {
-        "text": "Incorrect change",
+        "text": "A ring",
         "aliases": [
-          "a change dispute"
+          "jewelry"
         ],
         "points": 8
       },
       {
-        "text": "An age check",
+        "text": "A hair tie",
         "aliases": [
-          "checking identification"
+          "hair band"
         ],
         "points": 6
       }
@@ -3624,92 +3630,96 @@
   {
     "id": "everyday-295",
     "category": "Everyday life",
-    "prompt": "Name a place where you might see a community noticeboard.",
+    "prompt": "Name a reason you'd call your parents after insisting you had adulthood figured out.",
     "answers": [
       {
-        "text": "A library",
+        "text": "You need money",
         "aliases": [
-          "public library"
+          "broke"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "A community center",
+        "text": "You're sick",
         "aliases": [
-          "neighborhood center"
+          "feeling ill"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "A grocery store",
+        "text": "You can't cook something",
         "aliases": [
-          "supermarket"
+          "cooking advice"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "A laundromat",
+        "text": "Something needs fixing",
         "aliases": [
-          "laundry shop"
+          "home repair"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "A cafe",
+        "text": "You're locked out",
         "aliases": [
-          "coffee shop"
+          "lost keys"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "A town hall",
+        "text": "You don't understand taxes",
         "aliases": [
-          "city hall"
+          "tax help"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-296",
     "category": "Everyday life",
-    "prompt": "Name an item you might find in a community center's lost-and-found box.",
+    "prompt": "Name a habit that gets much less cute after six months of dating.",
     "answers": [
       {
-        "text": "An umbrella",
-        "aliases": [],
+        "text": "Always being late",
+        "aliases": [
+          "lateness"
+        ],
         "points": 35
       },
       {
-        "text": "Gloves",
-        "aliases": [],
+        "text": "Jealousy",
+        "aliases": [
+          "being possessive"
+        ],
         "points": 25
       },
       {
-        "text": "Keys",
+        "text": "Baby talk",
         "aliases": [
-          "a key ring"
+          "a baby voice"
         ],
         "points": 16
       },
       {
-        "text": "Glasses",
+        "text": "Constant teasing",
         "aliases": [
-          "eyeglasses"
+          "making fun of you"
         ],
         "points": 11
       },
       {
-        "text": "A water bottle",
+        "text": "Snoring",
         "aliases": [
-          "reusable bottle"
+          "loud sleeping"
         ],
         "points": 8
       },
       {
-        "text": "A toy",
+        "text": "Constant texting",
         "aliases": [
-          "children's toy"
+          "messaging nonstop"
         ],
         "points": 5
       }
@@ -3718,96 +3728,96 @@
   {
     "id": "everyday-297",
     "category": "Everyday life",
-    "prompt": "Name a helpful favor neighbors might do for one another.",
+    "prompt": "Name something a couple does to show they've made up after an argument.",
     "answers": [
       {
-        "text": "Receive a package",
+        "text": "Hug",
         "aliases": [
-          "accept a delivery"
+          "cuddle"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "Check on a house",
+        "text": "Apologize",
         "aliases": [
-          "house sit"
+          "say sorry"
         ],
         "points": 24
       },
       {
-        "text": "Walk a dog",
+        "text": "Buy a small gift",
         "aliases": [
-          "take the dog out"
+          "bring flowers"
         ],
         "points": 18
       },
       {
-        "text": "Give a ride",
+        "text": "Make a favorite meal",
         "aliases": [
-          "offer a lift"
+          "cook for them"
         ],
         "points": 13
       },
       {
-        "text": "Lend a tool",
+        "text": "Do an avoided chore",
         "aliases": [
-          "share tools"
+          "help around the house"
         ],
         "points": 9
       },
       {
-        "text": "Give local advice",
+        "text": "Plan a date",
         "aliases": [
-          "recommend local services"
+          "go out together"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-298",
     "category": "Everyday life",
-    "prompt": "Name behavior that annoys people in a shared public space.",
+    "prompt": "Name a reason a parent says just wait until you have kids.",
     "answers": [
       {
-        "text": "Littering",
+        "text": "Talking back",
         "aliases": [
-          "leaving trash"
+          "being cheeky"
         ],
-        "points": 32
+        "points": 31
       },
       {
-        "text": "Loud music",
+        "text": "Refusing chores",
         "aliases": [
-          "blaring music"
+          "not helping"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Blocking the walkway",
+        "text": "Complaining about rules",
         "aliases": [
-          "standing in the way"
+          "arguing about bedtime"
         ],
         "points": 18
       },
       {
-        "text": "Cutting in line",
+        "text": "Costing lots of money",
         "aliases": [
-          "queue jumping"
+          "asking for expensive things"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Letting pets run loose",
+        "text": "Making a mess",
         "aliases": [
-          "an uncontrolled dog"
+          "messy room"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Smoking nearby",
+        "text": "Never sleeping",
         "aliases": [
-          "cigarette smoke"
+          "keeping parents awake"
         ],
         "points": 6
       }
@@ -3816,47 +3826,47 @@
   {
     "id": "everyday-299",
     "category": "Everyday life",
-    "prompt": "Name a task someone might volunteer to do in their community.",
+    "prompt": "Name something a family member borrows without even asking.",
     "answers": [
       {
-        "text": "Clean up a park",
+        "text": "Clothes",
         "aliases": [
-          "pick up litter"
+          "an outfit"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Sort library books",
+        "text": "A charger",
         "aliases": [
-          "shelve books"
+          "phone charger"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Care for shelter animals",
+        "text": "Your car",
         "aliases": [
-          "help at an animal shelter"
+          "vehicle"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Help run an event",
+        "text": "Food",
         "aliases": [
-          "event stewarding"
+          "snacks"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Distribute donated supplies",
+        "text": "Headphones",
         "aliases": [
-          "hand out donations"
+          "earbuds"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Visit older residents",
+        "text": "A hairbrush",
         "aliases": [
-          "spend time with seniors"
+          "comb"
         ],
         "points": 6
       }
@@ -3865,290 +3875,292 @@
   {
     "id": "everyday-300",
     "category": "Everyday life",
-    "prompt": "Name an issue residents might discuss at a neighborhood meeting.",
+    "prompt": "Name a reason you pretend not to recognize someone you once dated.",
     "answers": [
       {
-        "text": "Road changes",
+        "text": "The date was embarrassing",
         "aliases": [
-          "traffic plans"
+          "a terrible date"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "New construction",
+        "text": "You're with a new partner",
         "aliases": [
-          "a building proposal"
+          "new boyfriend or girlfriend"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Park improvements",
+        "text": "You look terrible",
         "aliases": [
-          "upgrading the playground"
+          "not looking your best"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Noise complaints",
+        "text": "You ghosted them",
         "aliases": [
-          "loud neighbors"
+          "stopped replying"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Local safety",
+        "text": "They owe you money",
         "aliases": [
-          "neighborhood security"
+          "unpaid loan"
         ],
         "points": 8
       },
       {
-        "text": "Planning a festival",
+        "text": "You're in a rush",
         "aliases": [
-          "organizing a community event"
+          "no time to talk"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "everyday-301",
     "category": "Everyday life",
-    "prompt": "Name something a library might lend besides books.",
+    "prompt": "Name something an in-law comments on that you'd rather they didn't.",
     "answers": [
       {
-        "text": "Board games",
+        "text": "Your cooking",
         "aliases": [
-          "tabletop games"
+          "the food you make"
         ],
         "points": 30
       },
       {
-        "text": "Sewing machines",
-        "aliases": [],
+        "text": "How clean your home is",
+        "aliases": [
+          "housekeeping"
+        ],
         "points": 24
       },
       {
-        "text": "Musical instruments",
+        "text": "Your parenting",
         "aliases": [
-          "instruments"
+          "raising the kids"
         ],
         "points": 18
       },
       {
-        "text": "Tools",
+        "text": "Your clothes",
         "aliases": [
-          "household tools"
+          "what you wear"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Internet hotspots",
+        "text": "Your spending",
         "aliases": [
-          "wifi hotspots"
+          "money habits"
         ],
         "points": 9
       },
       {
-        "text": "Seeds",
+        "text": "Your own family",
         "aliases": [
-          "garden seeds"
+          "your parents"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-302",
     "category": "Everyday life",
-    "prompt": "Name something people donate to a community collection drive.",
+    "prompt": "Name a time your family suddenly becomes very interested in your love life.",
     "answers": [
       {
-        "text": "Coats",
+        "text": "A wedding",
         "aliases": [
-          "warm jackets"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Toys",
-        "aliases": [
-          "children's toys"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Books",
-        "aliases": [
-          "reading books"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Blankets",
-        "aliases": [
-          "warm bedding"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Toiletries",
-        "aliases": [
-          "personal care items"
-        ],
-        "points": 8
-      },
-      {
-        "text": "School supplies",
-        "aliases": [
-          "stationery"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-303",
-    "category": "Everyday life",
-    "prompt": "Name a polite thing to do when sharing an elevator.",
-    "answers": [
-      {
-        "text": "Let people exit first",
-        "aliases": [
-          "wait for others to get out"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Hold the door",
-        "aliases": [
-          "keep the door open"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Make room",
-        "aliases": [
-          "move over"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Face forward",
-        "aliases": [
-          "face the door"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Keep conversation quiet",
-        "aliases": [
-          "speak softly"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Offer to press a button",
-        "aliases": [
-          "ask which floor"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-304",
-    "category": "Everyday life",
-    "prompt": "Name a reason someone might offer another shopper their place in line.",
-    "answers": [
-      {
-        "text": "They have one item",
-        "aliases": [
-          "a tiny purchase"
+          "someone gets married"
         ],
         "points": 35
       },
       {
-        "text": "They are in a hurry",
+        "text": "The holidays",
         "aliases": [
-          "urgent appointment"
+          "holiday gathering"
         ],
         "points": 25
       },
       {
-        "text": "They have a crying baby",
+        "text": "After a breakup",
         "aliases": [
-          "an upset child"
+          "newly single"
         ],
         "points": 16
       },
       {
-        "text": "They have difficulty standing",
+        "text": "A milestone birthday",
         "aliases": [
-          "limited mobility"
+          "turning thirty"
         ],
         "points": 11
       },
       {
-        "text": "They were there first",
+        "text": "When you bring someone home",
         "aliases": [
-          "a mix-up in the queue"
+          "meeting a date"
         ],
         "points": 8
       },
       {
-        "text": "They did you a favor",
+        "text": "Valentine's Day",
         "aliases": [
-          "returning a kindness"
+          "valentines"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-305",
+    "id": "everyday-303",
     "category": "Everyday life",
-    "prompt": "Name something someone might need to collect a parcel from a pickup counter.",
+    "prompt": "Name something couples fight about while shopping together.",
     "answers": [
       {
-        "text": "Identification",
+        "text": "How much to spend",
         "aliases": [
-          "photo id"
+          "the budget"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "A tracking number",
+        "text": "What to buy",
         "aliases": [
-          "parcel number"
+          "which items"
         ],
         "points": 24
       },
       {
-        "text": "A signature",
+        "text": "How long it's taking",
         "aliases": [
-          "sign for it"
+          "shopping too slowly"
         ],
         "points": 18
       },
       {
-        "text": "A pickup notice",
+        "text": "Which brand",
         "aliases": [
-          "collection slip"
+          "brand preference"
         ],
         "points": 13
       },
       {
-        "text": "Payment",
+        "text": "Who carries the bags",
         "aliases": [
-          "a fee"
+          "carrying everything"
         ],
         "points": 9
       },
       {
-        "text": "An authorization letter",
+        "text": "Which shops to visit",
         "aliases": [
-          "permission to collect it"
+          "where to shop"
+        ],
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": "everyday-304",
+    "category": "Everyday life",
+    "prompt": "Name something you need a very patient partner to teach you.",
+    "answers": [
+      {
+        "text": "Driving",
+        "aliases": [
+          "learning to drive"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Dancing",
+        "aliases": [
+          "dance steps"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Cooking",
+        "aliases": [
+          "making a meal"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A language",
+        "aliases": [
+          "their native language"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A video game",
+        "aliases": [
+          "gaming controls"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A sport",
+        "aliases": [
+          "playing a sport"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-305",
+    "category": "Everyday life",
+    "prompt": "Name a reason a kid wishes they were an only child.",
+    "answers": [
+      {
+        "text": "Their own bedroom",
+        "aliases": [
+          "not sharing a room"
+        ],
+        "points": 34
+      },
+      {
+        "text": "More attention",
+        "aliases": [
+          "parents' attention"
+        ],
+        "points": 24
+      },
+      {
+        "text": "No stolen food",
+        "aliases": [
+          "snacks disappearing"
+        ],
+        "points": 16
+      },
+      {
+        "text": "No tattling",
+        "aliases": [
+          "being told on"
+        ],
+        "points": 12
+      },
+      {
+        "text": "More presents",
+        "aliases": [
+          "not sharing gifts"
+        ],
+        "points": 8
+      },
+      {
+        "text": "No babysitting",
+        "aliases": [
+          "watching younger siblings"
         ],
         "points": 6
       }
@@ -4157,47 +4169,47 @@
   {
     "id": "everyday-306",
     "category": "Everyday life",
-    "prompt": "Name something people might share at a community garden.",
+    "prompt": "Name something people say to avoid admitting they forgot your birthday.",
     "answers": [
       {
-        "text": "Tools",
+        "text": "Your gift is in the mail",
         "aliases": [
-          "gardening equipment"
+          "present hasn't arrived"
         ],
         "points": 32
       },
       {
-        "text": "Seeds",
+        "text": "I thought it was tomorrow",
         "aliases": [
-          "spare seeds"
+          "wrong day"
         ],
         "points": 24
       },
       {
-        "text": "Water",
+        "text": "I was going to call later",
         "aliases": [
-          "access to a hose"
+          "planned to call"
         ],
         "points": 18
       },
       {
-        "text": "Growing advice",
+        "text": "Let's celebrate this weekend",
         "aliases": [
-          "gardening tips"
+          "celebrate later"
         ],
         "points": 12
       },
       {
-        "text": "The harvest",
+        "text": "My calendar didn't remind me",
         "aliases": [
-          "extra produce"
+          "missing reminder"
         ],
         "points": 8
       },
       {
-        "text": "Compost",
+        "text": "I didn't want to make you feel old",
         "aliases": [
-          "compost materials"
+          "avoiding age jokes"
         ],
         "points": 6
       }
@@ -4206,96 +4218,96 @@
   {
     "id": "everyday-307",
     "category": "Everyday life",
-    "prompt": "Name a problem someone might report to their local council.",
+    "prompt": "Name something that can make a first kiss go wrong.",
     "answers": [
       {
-        "text": "A broken streetlight",
+        "text": "Bad breath",
         "aliases": [
-          "streetlight out"
+          "smelly breath"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "A pothole",
+        "text": "Bumping heads",
         "aliases": [
-          "damaged road"
+          "head collision"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Missed trash collection",
+        "text": "Someone interrupts",
         "aliases": [
-          "garbage not collected"
+          "being interrupted"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "A fallen tree",
+        "text": "Clashing teeth",
         "aliases": [
-          "tree blocking the street"
+          "teeth bumping"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "A damaged sign",
+        "text": "Awkward noses",
         "aliases": [
-          "broken street sign"
+          "noses get in the way"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "A blocked drain",
+        "text": "Nervous laughter",
         "aliases": [
-          "clogged storm drain"
+          "giggling"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-308",
     "category": "Everyday life",
-    "prompt": "Name something you might see for sale at a neighborhood yard sale.",
+    "prompt": "Name something a partner does that makes a bad day instantly better.",
     "answers": [
       {
-        "text": "Furniture",
+        "text": "Gives you a hug",
         "aliases": [
-          "used furniture"
+          "cuddles you"
         ],
         "points": 35
       },
       {
-        "text": "Toys",
+        "text": "Listens",
         "aliases": [
-          "old toys"
+          "lets you vent"
         ],
         "points": 25
       },
       {
-        "text": "Books",
+        "text": "Brings your favorite food",
         "aliases": [
-          "secondhand books"
+          "gets you a treat"
         ],
         "points": 16
       },
       {
-        "text": "Clothes",
+        "text": "Gives a compliment",
         "aliases": [
-          "used clothing"
+          "says something kind"
         ],
         "points": 11
       },
       {
-        "text": "Tools",
+        "text": "Takes over a chore",
         "aliases": [
-          "hand tools"
+          "helps out"
         ],
         "points": 8
       },
       {
-        "text": "Sports equipment",
+        "text": "Makes you laugh",
         "aliases": [
-          "sporting goods"
+          "tells a joke"
         ],
         "points": 5
       }
@@ -4304,96 +4316,96 @@
   {
     "id": "everyday-309",
     "category": "Everyday life",
-    "prompt": "Name a reason someone might put up a notice in their neighborhood.",
+    "prompt": "Name something a parent insists is just a phase.",
     "answers": [
       {
-        "text": "A lost pet",
+        "text": "A hairstyle",
         "aliases": [
-          "missing animal"
+          "hair color"
         ],
-        "points": 30
+        "points": 29
       },
       {
-        "text": "A yard sale",
+        "text": "Clothing style",
         "aliases": [
-          "garage sale"
+          "fashion"
         ],
         "points": 24
       },
       {
-        "text": "A local event",
+        "text": "Music taste",
         "aliases": [
-          "community event"
+          "favorite music"
         ],
         "points": 18
       },
       {
-        "text": "Offering babysitting",
+        "text": "A new relationship",
         "aliases": [
-          "babysitting service"
+          "a boyfriend or girlfriend"
         ],
         "points": 13
       },
       {
-        "text": "Found keys",
+        "text": "A hobby",
         "aliases": [
-          "found property"
+          "new interest"
         ],
         "points": 9
       },
       {
-        "text": "A road closure",
+        "text": "A bad mood",
         "aliases": [
-          "street closure"
+          "an attitude"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-310",
     "category": "Everyday life",
-    "prompt": "Name a way to welcome a new neighbor.",
+    "prompt": "Name something couples each insist the other one lost.",
     "answers": [
       {
-        "text": "Introduce yourself",
+        "text": "Keys",
         "aliases": [
-          "say hello"
+          "house keys"
         ],
-        "points": 32
+        "points": 31
       },
       {
-        "text": "Give your contact details",
+        "text": "The remote",
         "aliases": [
-          "share your phone number"
+          "remote control"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Offer practical help",
+        "text": "Important documents",
         "aliases": [
-          "offer a hand"
+          "paperwork"
         ],
         "points": 18
       },
       {
-        "text": "Invite them to a gathering",
+        "text": "Tickets",
         "aliases": [
-          "include them in an event"
+          "event tickets"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Explain local arrangements",
+        "text": "A phone charger",
         "aliases": [
-          "share neighborhood information"
+          "charging cable"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Bring a small gift",
+        "text": "A wedding ring",
         "aliases": [
-          "give a welcome present"
+          "engagement ring"
         ],
         "points": 6
       }

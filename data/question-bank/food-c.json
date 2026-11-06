@@ -2,36 +2,52 @@
   {
     "id": "food-131",
     "category": "Food & drink",
-    "prompt": "Name a fruit people peel before eating.",
+    "prompt": "Name a food you open for one bite, then accidentally finish.",
     "answers": [
       {
-        "text": "Banana",
-        "aliases": [],
-        "points": 30
+        "text": "Potato chips",
+        "aliases": [
+          "chips",
+          "crisps"
+        ],
+        "points": 32
       },
       {
-        "text": "Orange",
-        "aliases": [],
+        "text": "Chocolate bar",
+        "aliases": [
+          "candy bar",
+          "chocolate"
+        ],
         "points": 24
       },
       {
-        "text": "Mango",
-        "aliases": [],
+        "text": "Cookies",
+        "aliases": [
+          "biscuits",
+          "cookie"
+        ],
         "points": 18
       },
       {
-        "text": "Kiwi",
-        "aliases": [],
-        "points": 13
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
+        "points": 12
       },
       {
-        "text": "Pineapple",
-        "aliases": [],
-        "points": 9
+        "text": "Popcorn",
+        "aliases": [
+          "popped corn"
+        ],
+        "points": 8
       },
       {
-        "text": "Grapefruit",
-        "aliases": [],
+        "text": "Gummy candy",
+        "aliases": [
+          "gummies",
+          "gummy bears"
+        ],
         "points": 6
       }
     ]
@@ -39,74 +55,97 @@
   {
     "id": "food-132",
     "category": "Food & drink",
-    "prompt": "Name a fruit people eat without removing its seeds.",
+    "prompt": "Name something that gives away a secret midnight snack.",
     "answers": [
       {
-        "text": "Strawberry",
-        "aliases": [],
-        "points": 32
+        "text": "Rustling wrapper",
+        "aliases": [
+          "wrapper noise",
+          "crinkling bag"
+        ],
+        "points": 30
       },
       {
-        "text": "Raspberry",
-        "aliases": [],
-        "points": 24
+        "text": "Crumbs",
+        "aliases": [
+          "crumb trail"
+        ],
+        "points": 25
       },
       {
-        "text": "Blueberry",
-        "aliases": [],
+        "text": "Fridge light",
+        "aliases": [
+          "refrigerator light"
+        ],
         "points": 18
       },
       {
-        "text": "Kiwi",
-        "aliases": [],
-        "points": 12
+        "text": "Dirty dish",
+        "aliases": [
+          "dirty plate",
+          "dirty bowl"
+        ],
+        "points": 13
       },
       {
-        "text": "Fig",
-        "aliases": [],
-        "points": 8
+        "text": "Food on your face",
+        "aliases": [
+          "food around your mouth"
+        ],
+        "points": 9
       },
       {
-        "text": "Pomegranate",
-        "aliases": [],
-        "points": 6
+        "text": "Missing food",
+        "aliases": [
+          "empty package"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-133",
     "category": "Food & drink",
-    "prompt": "Name a food that can leave a colorful stain on your fingers.",
+    "prompt": "Name a reason someone eats even though they aren't hungry.",
     "answers": [
       {
-        "text": "Beets",
+        "text": "Boredom",
         "aliases": [
-          "beetroot"
+          "bored"
         ],
-        "points": 28
+        "points": 35
       },
       {
-        "text": "Blueberries",
-        "aliases": [],
+        "text": "Stress",
+        "aliases": [
+          "stressed",
+          "comfort eating"
+        ],
         "points": 23
       },
       {
-        "text": "Blackberries",
-        "aliases": [],
-        "points": 19
+        "text": "Food tastes good",
+        "aliases": [
+          "enjoys the taste"
+        ],
+        "points": 16
       },
       {
-        "text": "Cherries",
-        "aliases": [],
-        "points": 14
+        "text": "Other people are eating",
+        "aliases": [
+          "social eating"
+        ],
+        "points": 12
       },
       {
-        "text": "Turmeric",
-        "aliases": [],
-        "points": 10
+        "text": "Avoiding waste",
+        "aliases": [
+          "not wasting food"
+        ],
+        "points": 8
       },
       {
-        "text": "Pomegranate",
+        "text": "Habit",
         "aliases": [],
         "points": 6
       }
@@ -115,120 +154,138 @@
   {
     "id": "food-134",
     "category": "Food & drink",
-    "prompt": "Name a fruit people often eat dried.",
+    "prompt": "Name a food people eat straight from the container when nobody's watching.",
     "answers": [
       {
-        "text": "Raisins",
+        "text": "Ice cream",
         "aliases": [
-          "dried grapes"
+          "icecream"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Dates",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Apricots",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Cranberries",
-        "aliases": [],
-        "points": 11
-      },
-      {
-        "text": "Prunes",
+        "text": "Peanut butter",
         "aliases": [
-          "dried plums"
+          "peanut spread"
         ],
-        "points": 8
-      },
-      {
-        "text": "Figs",
-        "aliases": [],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-135",
-    "category": "Food & drink",
-    "prompt": "Name a food that makes people pucker because it is sour.",
-    "answers": [
-      {
-        "text": "Lemon",
-        "aliases": [],
-        "points": 30
-      },
-      {
-        "text": "Lime",
-        "aliases": [],
         "points": 24
       },
       {
-        "text": "Pickles",
-        "aliases": [
-          "pickled cucumber"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Sour candy",
+        "text": "Leftovers",
         "aliases": [],
-        "points": 13
+        "points": 19
       },
       {
-        "text": "Green apple",
+        "text": "Frosting",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Pickles",
         "aliases": [],
         "points": 9
       },
       {
-        "text": "Vinegar",
+        "text": "Yogurt",
         "aliases": [],
         "points": 6
       }
     ]
   },
   {
-    "id": "food-136",
+    "id": "food-135",
     "category": "Food & drink",
-    "prompt": "Name a vegetable that tastes naturally sweet.",
+    "prompt": "Name somewhere people hide snacks from the rest of the household.",
     "answers": [
       {
-        "text": "Carrot",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Sweet potato",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Corn",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Peas",
+        "text": "Bedroom drawer",
         "aliases": [
-          "garden peas"
+          "underwear drawer",
+          "dresser"
         ],
-        "points": 12
+        "points": 34
       },
       {
-        "text": "Beet",
+        "text": "Back of the cupboard",
         "aliases": [
-          "beetroot"
+          "back of pantry"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Under the bed",
+        "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Their bag",
+        "aliases": [
+          "purse",
+          "backpack"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Car",
+        "aliases": [
+          "in the car"
         ],
         "points": 8
       },
       {
-        "text": "Butternut squash",
+        "text": "High shelf",
+        "aliases": [
+          "top shelf"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-136",
+    "category": "Food & drink",
+    "prompt": "Name a food you would be annoyed to find someone had eaten the last of.",
+    "answers": [
+      {
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Pizza",
         "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Chocolate",
+        "aliases": [
+          "chocolate bar"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cookies",
+        "aliases": [
+          "biscuits",
+          "cookie"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Chips",
+        "aliases": [
+          "potato chips",
+          "crisps"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Leftover cake",
+        "aliases": [
+          "cake"
+        ],
         "points": 6
       }
     ]
@@ -236,117 +293,150 @@
   {
     "id": "food-137",
     "category": "Food & drink",
-    "prompt": "Name a vegetable people enjoy eating raw for its crunch.",
+    "prompt": "Name something people do when they discover their favorite snack is gone.",
     "answers": [
       {
-        "text": "Carrot",
-        "aliases": [],
-        "points": 28
-      },
-      {
-        "text": "Celery",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Cucumber",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Bell pepper",
+        "text": "Blame someone",
         "aliases": [
-          "sweet pepper",
-          "capsicum"
+          "accuse someone",
+          "blame"
         ],
-        "points": 14
+        "points": 30
       },
       {
-        "text": "Radish",
-        "aliases": [],
-        "points": 10
+        "text": "Search the cupboard",
+        "aliases": [
+          "look for it",
+          "search"
+        ],
+        "points": 25
       },
       {
-        "text": "Jicama",
-        "aliases": [],
-        "points": 6
+        "text": "Buy more",
+        "aliases": [
+          "go shopping",
+          "replace it"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Complain",
+        "aliases": [
+          "moan",
+          "complain about it"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Eat something else",
+        "aliases": [
+          "get something else"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Check the trash",
+        "aliases": [
+          "look for wrappers"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-138",
     "category": "Food & drink",
-    "prompt": "Name a leaf people wrap around a filling.",
+    "prompt": "Name a food that's hard to eat quietly.",
     "answers": [
       {
-        "text": "Lettuce",
-        "aliases": [],
+        "text": "Potato chips",
+        "aliases": [
+          "chips",
+          "crisps"
+        ],
         "points": 35
       },
       {
-        "text": "Cabbage",
-        "aliases": [],
-        "points": 25
+        "text": "Popcorn",
+        "aliases": [
+          "popped corn"
+        ],
+        "points": 23
       },
       {
-        "text": "Collard greens",
-        "aliases": [
-          "collards"
-        ],
+        "text": "Crunchy apple",
+        "aliases": [],
         "points": 16
       },
       {
-        "text": "Grape leaves",
+        "text": "Crackers",
         "aliases": [],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Swiss chard",
-        "aliases": [],
+        "text": "Hard candy",
+        "aliases": [
+          "hard sweets"
+        ],
         "points": 8
       },
       {
-        "text": "Spinach",
+        "text": "Raw carrot",
         "aliases": [],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "food-139",
     "category": "Food & drink",
-    "prompt": "Name a root vegetable people buy in the produce aisle.",
+    "prompt": "Name a reason someone keeps reopening a fridge with nothing good in it.",
     "answers": [
       {
-        "text": "Potato",
-        "aliases": [],
-        "points": 30
+        "text": "Hoping something appears",
+        "aliases": [
+          "hope food appears",
+          "wishful thinking"
+        ],
+        "points": 28
       },
       {
-        "text": "Carrot",
-        "aliases": [],
+        "text": "Boredom",
+        "aliases": [
+          "bored"
+        ],
         "points": 24
       },
       {
-        "text": "Beet",
+        "text": "Can't decide",
         "aliases": [
-          "beetroot"
+          "indecisive",
+          "cant decide"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Turnip",
-        "aliases": [],
-        "points": 13
+        "text": "Forgot what was inside",
+        "aliases": [
+          "forgot",
+          "forgetful"
+        ],
+        "points": 14
       },
       {
-        "text": "Radish",
-        "aliases": [],
+        "text": "Cooling off",
+        "aliases": [
+          "cool down",
+          "hot"
+        ],
         "points": 9
       },
       {
-        "text": "Parsnip",
-        "aliases": [],
+        "text": "Avoiding a chore",
+        "aliases": [
+          "procrastinating",
+          "avoiding work"
+        ],
         "points": 6
       }
     ]
@@ -354,77 +444,88 @@
   {
     "id": "food-140",
     "category": "Food & drink",
-    "prompt": "Name a fruit with a thick rind or hard outer shell.",
+    "prompt": "Name a food people eat cold because they can't be bothered to heat it.",
     "answers": [
       {
-        "text": "Watermelon",
+        "text": "Pizza",
         "aliases": [],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Pineapple",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Cantaloupe",
+        "text": "Fried chicken",
         "aliases": [
-          "rockmelon"
+          "cold chicken"
         ],
-        "points": 18
+        "points": 25
       },
       {
-        "text": "Coconut",
+        "text": "Pasta",
         "aliases": [],
-        "points": 12
+        "points": 17
       },
       {
-        "text": "Honeydew",
+        "text": "Chinese leftovers",
         "aliases": [
-          "honeydew melon"
+          "leftover chinese food"
         ],
+        "points": 11
+      },
+      {
+        "text": "Sausages",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Pomelo",
+        "text": "Pie",
         "aliases": [],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "food-141",
     "category": "Food & drink",
-    "prompt": "Name a fruit with a pit people have to eat around.",
+    "prompt": "Name something a hungry person might do while waiting for their next meal.",
     "answers": [
       {
-        "text": "Peach",
+        "text": "Snack",
         "aliases": [],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Cherry",
-        "aliases": [],
-        "points": 23
+        "text": "Watch the clock",
+        "aliases": [
+          "check the time"
+        ],
+        "points": 24
       },
       {
-        "text": "Plum",
-        "aliases": [],
-        "points": 19
+        "text": "Complain",
+        "aliases": [
+          "moan",
+          "complain about it"
+        ],
+        "points": 18
       },
       {
-        "text": "Apricot",
-        "aliases": [],
-        "points": 14
+        "text": "Look at food photos",
+        "aliases": [
+          "food pictures"
+        ],
+        "points": 12
       },
       {
-        "text": "Nectarine",
-        "aliases": [],
-        "points": 10
+        "text": "Drink water",
+        "aliases": [
+          "water"
+        ],
+        "points": 8
       },
       {
-        "text": "Olive",
-        "aliases": [],
+        "text": "Chew gum",
+        "aliases": [
+          "gum"
+        ],
         "points": 6
       }
     ]
@@ -432,36 +533,53 @@
   {
     "id": "food-142",
     "category": "Food & drink",
-    "prompt": "Name a fruit people cut up for a fruit salad.",
+    "prompt": "Name something that makes people suddenly lose their appetite.",
     "answers": [
       {
-        "text": "Strawberry",
-        "aliases": [],
-        "points": 35
+        "text": "Bad smell",
+        "aliases": [
+          "smell",
+          "odor"
+        ],
+        "points": 30
       },
       {
-        "text": "Melon",
-        "aliases": [],
+        "text": "Seeing a bug",
+        "aliases": [
+          "bug",
+          "insect"
+        ],
         "points": 25
       },
       {
-        "text": "Grapes",
-        "aliases": [],
-        "points": 16
+        "text": "Feeling sick",
+        "aliases": [
+          "sick",
+          "nauseous"
+        ],
+        "points": 18
       },
       {
-        "text": "Pineapple",
-        "aliases": [],
-        "points": 11
+        "text": "An argument",
+        "aliases": [
+          "argument",
+          "fight"
+        ],
+        "points": 13
       },
       {
-        "text": "Banana",
-        "aliases": [],
-        "points": 8
+        "text": "Finding a hair",
+        "aliases": [
+          "hair"
+        ],
+        "points": 9
       },
       {
-        "text": "Apple",
-        "aliases": [],
+        "text": "Gross conversation",
+        "aliases": [
+          "gross topic",
+          "disgusting conversation"
+        ],
         "points": 5
       }
     ]
@@ -469,38 +587,52 @@
   {
     "id": "food-143",
     "category": "Food & drink",
-    "prompt": "Name a fruit or vegetable commonly sold in a can.",
+    "prompt": "Name something people say after eating more than they intended.",
     "answers": [
       {
-        "text": "Corn",
-        "aliases": [],
-        "points": 30
-      },
-      {
-        "text": "Peas",
+        "text": "I'm so full",
         "aliases": [
-          "garden peas"
+          "full",
+          "stuffed"
         ],
-        "points": 24
+        "points": 35
       },
       {
-        "text": "Peaches",
-        "aliases": [],
-        "points": 18
+        "text": "I need a nap",
+        "aliases": [
+          "sleepy",
+          "need to sleep"
+        ],
+        "points": 23
       },
       {
-        "text": "Pineapple",
-        "aliases": [],
-        "points": 13
+        "text": "Why did I do that",
+        "aliases": [
+          "regret it",
+          "regret"
+        ],
+        "points": 16
       },
       {
-        "text": "Tomatoes",
-        "aliases": [],
-        "points": 9
+        "text": "It was worth it",
+        "aliases": [
+          "worth it"
+        ],
+        "points": 12
       },
       {
-        "text": "Pears",
-        "aliases": [],
+        "text": "No more food",
+        "aliases": [
+          "cannot eat more"
+        ],
+        "points": 8
+      },
+      {
+        "text": "I need to loosen my pants",
+        "aliases": [
+          "unbutton pants",
+          "loosen belt"
+        ],
         "points": 6
       }
     ]
@@ -508,38 +640,46 @@
   {
     "id": "food-144",
     "category": "Food & drink",
-    "prompt": "Name a fruit that makes people think of a tropical island.",
+    "prompt": "Name a food you eat by the handful without noticing.",
     "answers": [
       {
-        "text": "Mango",
-        "aliases": [],
-        "points": 32
+        "text": "Popcorn",
+        "aliases": [
+          "popped corn"
+        ],
+        "points": 28
       },
       {
-        "text": "Pineapple",
-        "aliases": [],
+        "text": "Chips",
+        "aliases": [
+          "potato chips",
+          "crisps"
+        ],
         "points": 24
       },
       {
-        "text": "Papaya",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Coconut",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Guava",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Passion fruit",
+        "text": "Nuts",
         "aliases": [
-          "passionfruit"
+          "mixed nuts"
         ],
+        "points": 19
+      },
+      {
+        "text": "Candy",
+        "aliases": [
+          "sweets",
+          "candies"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Cereal",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Grapes",
+        "aliases": [],
         "points": 6
       }
     ]
@@ -547,154 +687,185 @@
   {
     "id": "food-145",
     "category": "Food & drink",
-    "prompt": "Name a berry people hope to find growing on a farm.",
+    "prompt": "Name a snack people sneak into bed.",
     "answers": [
       {
-        "text": "Strawberry",
-        "aliases": [],
-        "points": 28
+        "text": "Cookies",
+        "aliases": [
+          "biscuits",
+          "cookie"
+        ],
+        "points": 34
       },
       {
-        "text": "Blueberry",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Raspberry",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Blackberry",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Cranberry",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Gooseberry",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-146",
-    "category": "Food & drink",
-    "prompt": "Name an ingredient people put in pesto.",
-    "answers": [
-      {
-        "text": "Basil",
-        "aliases": [],
-        "points": 35
-      },
-      {
-        "text": "Pine nuts",
-        "aliases": [],
+        "text": "Chips",
+        "aliases": [
+          "potato chips",
+          "crisps"
+        ],
         "points": 25
       },
       {
-        "text": "Olive oil",
-        "aliases": [],
-        "points": 16
+        "text": "Chocolate",
+        "aliases": [
+          "chocolate bar"
+        ],
+        "points": 17
       },
       {
-        "text": "Parmesan",
+        "text": "Candy",
         "aliases": [
-          "parmigiano reggiano"
+          "sweets",
+          "candies"
         ],
         "points": 11
       },
       {
-        "text": "Garlic",
-        "aliases": [],
+        "text": "Popcorn",
+        "aliases": [
+          "popped corn"
+        ],
         "points": 8
       },
       {
-        "text": "Salt",
+        "text": "Crackers",
         "aliases": [],
         "points": 5
       }
     ]
   },
   {
-    "id": "food-147",
+    "id": "food-146",
     "category": "Food & drink",
-    "prompt": "Name an ingredient people put in guacamole.",
+    "prompt": "Name a food you might eat standing in front of the open fridge.",
     "answers": [
       {
-        "text": "Avocado",
+        "text": "Cheese",
         "aliases": [],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Lime juice",
-        "aliases": [],
+        "text": "Leftover pizza",
+        "aliases": [
+          "pizza"
+        ],
         "points": 24
       },
       {
-        "text": "Onion",
+        "text": "Grapes",
         "aliases": [],
         "points": 18
       },
       {
-        "text": "Tomato",
+        "text": "Pickles",
         "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Yogurt",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Deli meat",
+        "aliases": [
+          "cold cuts",
+          "lunch meat"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-147",
+    "category": "Food & drink",
+    "prompt": "Name something people do to claim the best snack before anyone else gets it.",
+    "answers": [
+      {
+        "text": "Hide it",
+        "aliases": [
+          "hide food"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Put their name on it",
+        "aliases": [
+          "label it",
+          "write name"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Grab it first",
+        "aliases": [
+          "take it first"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Lick it",
+        "aliases": [
+          "lick the food"
+        ],
         "points": 13
       },
       {
-        "text": "Cilantro",
+        "text": "Say it's for later",
         "aliases": [
-          "coriander leaves",
-          "fresh coriander"
+          "save it for later"
         ],
         "points": 9
       },
       {
-        "text": "Salt",
-        "aliases": [],
-        "points": 6
+        "text": "Take the whole bag",
+        "aliases": [
+          "take all of it"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-148",
     "category": "Food & drink",
-    "prompt": "Name an ingredient people put in coleslaw.",
+    "prompt": "Name a food people pick out of a mix and leave the rest behind.",
     "answers": [
       {
-        "text": "Cabbage",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Carrot",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Mayonnaise",
+        "text": "Chocolate pieces",
         "aliases": [
-          "mayo"
+          "chocolate chips",
+          "m and ms",
+          "mms"
         ],
-        "points": 18
+        "points": 35
       },
       {
-        "text": "Vinegar",
+        "text": "Peanuts",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Raisins",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Marshmallows",
         "aliases": [],
         "points": 12
       },
       {
-        "text": "Sugar",
+        "text": "Pretzels",
         "aliases": [],
         "points": 8
       },
       {
-        "text": "Onion",
-        "aliases": [],
+        "text": "Coconut flakes",
+        "aliases": [
+          "coconut",
+          "shredded coconut"
+        ],
         "points": 6
       }
     ]
@@ -702,40 +873,47 @@
   {
     "id": "food-149",
     "category": "Food & drink",
-    "prompt": "Name an ingredient people use to make hummus.",
+    "prompt": "Name a snack people keep eating even when it hurts their mouth.",
     "answers": [
       {
-        "text": "Chickpeas",
+        "text": "Sour candy",
         "aliases": [
-          "garbanzo beans"
+          "sour sweets"
         ],
         "points": 28
       },
       {
-        "text": "Tahini",
+        "text": "Spicy chips",
         "aliases": [
-          "sesame paste"
+          "hot chips",
+          "takis"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Lemon juice",
+        "text": "Pineapple",
         "aliases": [],
         "points": 19
       },
       {
-        "text": "Garlic",
-        "aliases": [],
+        "text": "Hard candy",
+        "aliases": [
+          "hard sweets"
+        ],
         "points": 14
       },
       {
-        "text": "Olive oil",
-        "aliases": [],
-        "points": 10
+        "text": "Hot pizza",
+        "aliases": [
+          "pizza"
+        ],
+        "points": 9
       },
       {
-        "text": "Cumin",
-        "aliases": [],
+        "text": "Crusty bread",
+        "aliases": [
+          "bread crust"
+        ],
         "points": 6
       }
     ]
@@ -743,41 +921,56 @@
   {
     "id": "food-150",
     "category": "Food & drink",
-    "prompt": "Name a vegetable people add to a stir-fry.",
+    "prompt": "Name someone whose offer of food is especially hard to refuse.",
     "answers": [
       {
-        "text": "Broccoli",
-        "aliases": [],
-        "points": 35
+        "text": "Grandma",
+        "aliases": [
+          "grandmother",
+          "nan",
+          "nana"
+        ],
+        "points": 34
       },
       {
-        "text": "Bell pepper",
+        "text": "Mom",
         "aliases": [
-          "sweet pepper",
-          "capsicum"
+          "mother",
+          "mum"
         ],
         "points": 25
       },
       {
-        "text": "Onion",
-        "aliases": [],
-        "points": 16
+        "text": "A date",
+        "aliases": [
+          "date"
+        ],
+        "points": 17
       },
       {
-        "text": "Carrot",
-        "aliases": [],
+        "text": "Your boss",
+        "aliases": [
+          "boss",
+          "manager"
+        ],
         "points": 11
       },
       {
-        "text": "Snow peas",
+        "text": "A child",
         "aliases": [
-          "mangetout"
+          "kid",
+          "child"
         ],
         "points": 8
       },
       {
-        "text": "Mushrooms",
-        "aliases": [],
+        "text": "Your partner",
+        "aliases": [
+          "partner",
+          "spouse",
+          "wife",
+          "husband"
+        ],
         "points": 5
       }
     ]
@@ -785,41 +978,40 @@
   {
     "id": "food-151",
     "category": "Food & drink",
-    "prompt": "Name a vegetable people put on a skewer.",
+    "prompt": "Name something people eat that they insist doesn't count as a meal.",
     "answers": [
       {
-        "text": "Bell pepper",
-        "aliases": [
-          "sweet pepper",
-          "capsicum"
-        ],
-        "points": 30
+        "text": "Cereal",
+        "aliases": [],
+        "points": 32
       },
       {
-        "text": "Onion",
-        "aliases": [],
+        "text": "A sandwich",
+        "aliases": [
+          "sandwich"
+        ],
         "points": 24
       },
       {
-        "text": "Zucchini",
-        "aliases": [
-          "courgette"
-        ],
+        "text": "Leftovers",
+        "aliases": [],
         "points": 18
       },
       {
-        "text": "Mushrooms",
+        "text": "Toast",
         "aliases": [],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Tomato",
+        "text": "Soup",
         "aliases": [],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Corn",
-        "aliases": [],
+        "text": "A smoothie",
+        "aliases": [
+          "smoothie"
+        ],
         "points": 6
       }
     ]
@@ -827,78 +1019,98 @@
   {
     "id": "food-152",
     "category": "Food & drink",
-    "prompt": "Name a vegetable people add to a pot of soup.",
+    "prompt": "Name something people refuse to admit about their eating habits.",
     "answers": [
       {
-        "text": "Carrot",
-        "aliases": [],
-        "points": 32
+        "text": "How much they snack",
+        "aliases": [
+          "secret snacking",
+          "snack a lot"
+        ],
+        "points": 30
       },
       {
-        "text": "Celery",
-        "aliases": [],
-        "points": 24
+        "text": "They dislike vegetables",
+        "aliases": [
+          "hate vegetables"
+        ],
+        "points": 25
       },
       {
-        "text": "Onion",
-        "aliases": [],
+        "text": "They skip breakfast",
+        "aliases": [
+          "skip breakfast"
+        ],
         "points": 18
       },
       {
-        "text": "Potato",
-        "aliases": [],
-        "points": 12
+        "text": "They eat in bed",
+        "aliases": [
+          "eat in bed"
+        ],
+        "points": 13
       },
       {
-        "text": "Peas",
+        "text": "They steal other people's food",
         "aliases": [
-          "garden peas"
+          "steal food"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Green beans",
+        "text": "They lick the plate",
         "aliases": [
-          "string beans"
+          "lick plate"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "food-153",
     "category": "Food & drink",
-    "prompt": "Name a topping people pile on a loaded baked potato.",
+    "prompt": "Name something you might find in the pockets of a snack hoarder.",
     "answers": [
       {
-        "text": "Sour cream",
-        "aliases": [],
-        "points": 28
+        "text": "Mints",
+        "aliases": [
+          "breath mints",
+          "mint"
+        ],
+        "points": 35
       },
       {
-        "text": "Shredded cheese",
+        "text": "Chocolate bar",
         "aliases": [
-          "grated cheese"
+          "candy bar",
+          "chocolate"
         ],
         "points": 23
       },
       {
-        "text": "Bacon",
-        "aliases": [],
-        "points": 19
+        "text": "Gum",
+        "aliases": [
+          "chewing gum"
+        ],
+        "points": 16
       },
       {
-        "text": "Chives",
-        "aliases": [],
-        "points": 14
+        "text": "Nuts",
+        "aliases": [
+          "mixed nuts"
+        ],
+        "points": 12
       },
       {
-        "text": "Broccoli",
-        "aliases": [],
-        "points": 10
+        "text": "Granola bar",
+        "aliases": [
+          "cereal bar",
+          "protein bar"
+        ],
+        "points": 8
       },
       {
-        "text": "Butter",
+        "text": "Empty wrappers",
         "aliases": [],
         "points": 6
       }
@@ -907,119 +1119,135 @@
   {
     "id": "food-154",
     "category": "Food & drink",
-    "prompt": "Name a topping people put on a burger.",
+    "prompt": "Name a reason someone suddenly craves a food they haven't thought about in years.",
     "answers": [
       {
-        "text": "Cheese",
-        "aliases": [],
-        "points": 35
-      },
-      {
-        "text": "Lettuce",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Tomato",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Onion",
-        "aliases": [],
-        "points": 11
-      },
-      {
-        "text": "Pickles",
+        "text": "Smelled it",
         "aliases": [
-          "pickled cucumber"
+          "smell"
         ],
-        "points": 8
+        "points": 28
       },
       {
-        "text": "Ketchup",
+        "text": "Saw a picture",
         "aliases": [
-          "catsup"
+          "picture",
+          "photo"
         ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-155",
-    "category": "Food & drink",
-    "prompt": "Name something people sprinkle or spoon onto a taco.",
-    "answers": [
-      {
-        "text": "Lettuce",
-        "aliases": [],
-        "points": 30
-      },
-      {
-        "text": "Cheese",
-        "aliases": [],
         "points": 24
       },
       {
-        "text": "Salsa",
-        "aliases": [],
-        "points": 18
+        "text": "Childhood memory",
+        "aliases": [
+          "nostalgia",
+          "memory"
+        ],
+        "points": 19
       },
       {
-        "text": "Sour cream",
-        "aliases": [],
-        "points": 13
+        "text": "Someone mentioned it",
+        "aliases": [
+          "heard about it"
+        ],
+        "points": 14
       },
       {
-        "text": "Guacamole",
-        "aliases": [],
+        "text": "Watched a movie",
+        "aliases": [
+          "movie",
+          "tv"
+        ],
         "points": 9
       },
       {
-        "text": "Cilantro",
+        "text": "Walked past a shop",
         "aliases": [
-          "coriander leaves",
-          "fresh coriander"
+          "saw it in shop"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "food-156",
+    "id": "food-155",
     "category": "Food & drink",
-    "prompt": "Name a filling people fold into an omelet.",
+    "prompt": "Name a food people want when they're feeling sorry for themselves.",
     "answers": [
       {
-        "text": "Cheese",
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Chocolate",
+        "aliases": [
+          "chocolate bar"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Pizza",
         "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Mac and cheese",
+        "aliases": [
+          "macaroni and cheese"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Soup",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Cake",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-156",
+    "category": "Food & drink",
+    "prompt": "Name a food that's disappointing when the bag is mostly air.",
+    "answers": [
+      {
+        "text": "Chips",
+        "aliases": [
+          "potato chips",
+          "crisps"
+        ],
         "points": 32
       },
       {
-        "text": "Ham",
-        "aliases": [],
+        "text": "Popcorn",
+        "aliases": [
+          "popped corn"
+        ],
         "points": 24
       },
       {
-        "text": "Mushrooms",
+        "text": "Cheese puffs",
         "aliases": [],
         "points": 18
       },
       {
-        "text": "Spinach",
+        "text": "Pretzels",
         "aliases": [],
         "points": 12
       },
       {
-        "text": "Bell pepper",
-        "aliases": [
-          "sweet pepper",
-          "capsicum"
-        ],
+        "text": "Crackers",
+        "aliases": [],
         "points": 8
       },
       {
-        "text": "Onion",
+        "text": "Trail mix",
         "aliases": [],
         "points": 6
       }
@@ -1028,111 +1256,127 @@
   {
     "id": "food-157",
     "category": "Food & drink",
-    "prompt": "Name something people use to fill a dumpling.",
+    "prompt": "Name something people do before taking food that might belong to someone else.",
     "answers": [
       {
-        "text": "Pork",
-        "aliases": [],
-        "points": 28
-      },
-      {
-        "text": "Cabbage",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Shrimp",
+        "text": "Check for a name",
         "aliases": [
-          "prawns"
+          "name",
+          "label"
         ],
-        "points": 19
+        "points": 30
       },
       {
-        "text": "Chicken",
-        "aliases": [],
-        "points": 14
+        "text": "Look around for witnesses",
+        "aliases": [
+          "look around",
+          "check nobody is looking"
+        ],
+        "points": 25
       },
       {
-        "text": "Mushrooms",
-        "aliases": [],
-        "points": 10
+        "text": "Ask permission",
+        "aliases": [
+          "ask",
+          "ask whose it is"
+        ],
+        "points": 18
       },
       {
-        "text": "Tofu",
-        "aliases": [],
-        "points": 6
+        "text": "See how much is left",
+        "aliases": [
+          "amount left"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Smell it",
+        "aliases": [
+          "sniff it"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Check the date",
+        "aliases": [
+          "expiration date",
+          "use by date"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-158",
     "category": "Food & drink",
-    "prompt": "Name a filling people might find inside a savory pie.",
+    "prompt": "Name a food you can smell on someone long after they've eaten it.",
     "answers": [
       {
-        "text": "Chicken",
+        "text": "Garlic",
         "aliases": [],
         "points": 35
       },
       {
-        "text": "Beef",
+        "text": "Onion",
         "aliases": [],
-        "points": 25
+        "points": 23
       },
       {
-        "text": "Potato",
+        "text": "Fish",
         "aliases": [],
         "points": 16
       },
       {
-        "text": "Spinach",
+        "text": "Coffee",
         "aliases": [],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Mushrooms",
-        "aliases": [],
+        "text": "Peanut butter",
+        "aliases": [
+          "peanut spread"
+        ],
         "points": 8
       },
       {
-        "text": "Cheese",
+        "text": "Curry",
         "aliases": [],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "food-159",
     "category": "Food & drink",
-    "prompt": "Name a filling people choose for a sweet pie.",
+    "prompt": "Name a food people eat with their fingers when they really should use a fork.",
     "answers": [
       {
-        "text": "Apple",
+        "text": "Cake",
         "aliases": [],
-        "points": 30
+        "points": 28
       },
       {
-        "text": "Cherry",
+        "text": "Pasta",
         "aliases": [],
         "points": 24
       },
       {
-        "text": "Pumpkin",
+        "text": "Salad",
         "aliases": [],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Blueberry",
+        "text": "Mashed potatoes",
         "aliases": [],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Pecan",
+        "text": "Pie",
         "aliases": [],
         "points": 9
       },
       {
-        "text": "Lemon",
+        "text": "Rice",
         "aliases": [],
         "points": 6
       }
@@ -1141,78 +1385,102 @@
   {
     "id": "food-160",
     "category": "Food & drink",
-    "prompt": "Name a filling people might find inside a doughnut.",
+    "prompt": "Name something a hungry person does not want to hear.",
     "answers": [
       {
-        "text": "Custard",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Raspberry jam",
+        "text": "Dinner is running late",
         "aliases": [
-          "raspberry jelly"
+          "dinner is late",
+          "food not ready"
         ],
-        "points": 24
+        "points": 34
       },
       {
-        "text": "Chocolate",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Lemon curd",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Cream",
+        "text": "We're out of food",
         "aliases": [
-          "heavy cream",
-          "double cream"
+          "no food",
+          "nothing to eat"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Can I have a bite",
+        "aliases": [
+          "share",
+          "give me some"
+        ],
+        "points": 17
+      },
+      {
+        "text": "I burned it",
+        "aliases": [
+          "burned food",
+          "burnt it"
+        ],
+        "points": 11
+      },
+      {
+        "text": "The kitchen is closed",
+        "aliases": [
+          "closed kitchen"
         ],
         "points": 8
       },
       {
-        "text": "Caramel",
-        "aliases": [],
-        "points": 6
+        "text": "There is a long line",
+        "aliases": [
+          "long wait",
+          "long queue"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-161",
     "category": "Food & drink",
-    "prompt": "Name a flavor of frosting people put on a cake.",
+    "prompt": "Name a snack that leaves evidence all over your clothes.",
     "answers": [
       {
+        "text": "Chips",
+        "aliases": [
+          "potato chips",
+          "crisps"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Popcorn",
+        "aliases": [
+          "popped corn"
+        ],
+        "points": 24
+      },
+      {
         "text": "Chocolate",
-        "aliases": [],
-        "points": 28
+        "aliases": [
+          "chocolate bar"
+        ],
+        "points": 18
       },
       {
-        "text": "Vanilla",
+        "text": "Powdered donuts",
         "aliases": [],
-        "points": 23
+        "points": 12
       },
       {
-        "text": "Cream cheese",
-        "aliases": [],
-        "points": 19
+        "text": "Cookies",
+        "aliases": [
+          "biscuits",
+          "cookie"
+        ],
+        "points": 8
       },
       {
-        "text": "Lemon",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Strawberry",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Caramel",
-        "aliases": [],
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
         "points": 6
       }
     ]
@@ -1220,41 +1488,48 @@
   {
     "id": "food-162",
     "category": "Food & drink",
-    "prompt": "Name a topping people add to an ice cream sundae.",
+    "prompt": "Name a reason someone reaches for a second breakfast.",
     "answers": [
       {
-        "text": "Hot fudge",
+        "text": "First one was tiny",
         "aliases": [
-          "chocolate sauce",
-          "fudge sauce"
+          "small breakfast"
         ],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Sprinkles",
+        "text": "Still hungry",
         "aliases": [
-          "jimmies"
+          "hungry"
         ],
         "points": 25
       },
       {
-        "text": "Whipped cream",
-        "aliases": [],
-        "points": 16
+        "text": "It smells good",
+        "aliases": [
+          "good smell"
+        ],
+        "points": 18
       },
       {
-        "text": "Nuts",
-        "aliases": [],
-        "points": 11
+        "text": "Someone brought food",
+        "aliases": [
+          "free food"
+        ],
+        "points": 13
       },
       {
-        "text": "Caramel",
-        "aliases": [],
-        "points": 8
+        "text": "Forgot they already ate",
+        "aliases": [
+          "forgot breakfast"
+        ],
+        "points": 9
       },
       {
-        "text": "Cherries",
-        "aliases": [],
+        "text": "Woke up early",
+        "aliases": [
+          "early start"
+        ],
         "points": 5
       }
     ]
@@ -1262,39 +1537,45 @@
   {
     "id": "food-163",
     "category": "Food & drink",
-    "prompt": "Name something people put on pancakes.",
+    "prompt": "Name something people eat with when they've run out of clean spoons.",
     "answers": [
       {
-        "text": "Maple syrup",
+        "text": "Fork",
         "aliases": [
-          "pancake syrup"
+          "a fork"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Butter",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Blueberries",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Strawberries",
-        "aliases": [],
-        "points": 13
-      },
-      {
-        "text": "Chocolate chips",
+        "text": "Finger",
         "aliases": [
-          "choc chips"
+          "fingers"
         ],
-        "points": 9
+        "points": 23
       },
       {
-        "text": "Honey",
+        "text": "Chopsticks",
+        "aliases": [
+          "chop sticks"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Measuring spoon",
+        "aliases": [
+          "measuring cup"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Plastic lid",
+        "aliases": [
+          "container lid"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Knife",
         "aliases": [],
         "points": 6
       }
@@ -1303,35 +1584,39 @@
   {
     "id": "food-164",
     "category": "Food & drink",
-    "prompt": "Name an ingredient people add to tomato pasta sauce.",
+    "prompt": "Name a food people only want a bite of until they taste yours.",
     "answers": [
       {
-        "text": "Tomatoes",
-        "aliases": [],
-        "points": 32
+        "text": "Brownie",
+        "aliases": [
+          "chocolate brownie"
+        ],
+        "points": 28
       },
       {
-        "text": "Garlic",
+        "text": "Fries",
         "aliases": [],
         "points": 24
       },
       {
-        "text": "Onion",
+        "text": "Pizza",
         "aliases": [],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Olive oil",
+        "text": "Burger",
         "aliases": [],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Basil",
-        "aliases": [],
-        "points": 8
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
+        "points": 9
       },
       {
-        "text": "Oregano",
+        "text": "Sandwich",
         "aliases": [],
         "points": 6
       }
@@ -1340,232 +1625,291 @@
   {
     "id": "food-165",
     "category": "Food & drink",
-    "prompt": "Name something people mix into bread dough for extra flavor.",
+    "prompt": "Name something people do when a snack gets stuck in a vending machine.",
     "answers": [
       {
-        "text": "Raisins",
+        "text": "Shake the machine",
         "aliases": [
-          "dried grapes"
+          "shake it"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Olives",
-        "aliases": [],
-        "points": 23
+        "text": "Hit it",
+        "aliases": [
+          "kick it",
+          "hit the machine"
+        ],
+        "points": 25
       },
       {
-        "text": "Rosemary",
-        "aliases": [],
-        "points": 19
+        "text": "Buy another snack",
+        "aliases": [
+          "pay again",
+          "buy another"
+        ],
+        "points": 17
       },
       {
-        "text": "Cheese",
-        "aliases": [],
-        "points": 14
+        "text": "Ask for help",
+        "aliases": [
+          "get help"
+        ],
+        "points": 11
       },
       {
-        "text": "Walnuts",
-        "aliases": [],
-        "points": 10
+        "text": "Reach into the slot",
+        "aliases": [
+          "reach inside"
+        ],
+        "points": 8
       },
       {
-        "text": "Sunflower seeds",
-        "aliases": [],
-        "points": 6
+        "text": "Walk away angry",
+        "aliases": [
+          "give up",
+          "walk away"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-166",
     "category": "Food & drink",
-    "prompt": "Name something people mix into muffin batter.",
+    "prompt": "Name a food someone might carry around for a possible hunger emergency.",
     "answers": [
       {
-        "text": "Blueberries",
-        "aliases": [],
-        "points": 35
-      },
-      {
-        "text": "Chocolate chips",
+        "text": "Granola bar",
         "aliases": [
-          "choc chips"
+          "cereal bar",
+          "protein bar"
         ],
-        "points": 25
+        "points": 32
       },
       {
-        "text": "Banana",
+        "text": "Nuts",
+        "aliases": [
+          "mixed nuts"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Crackers",
         "aliases": [],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Cranberries",
-        "aliases": [],
-        "points": 11
+        "text": "Chocolate",
+        "aliases": [
+          "chocolate bar"
+        ],
+        "points": 12
       },
       {
-        "text": "Apple",
+        "text": "Fruit",
         "aliases": [],
         "points": 8
       },
       {
-        "text": "Poppy seeds",
-        "aliases": [],
-        "points": 5
+        "text": "Jerky",
+        "aliases": [
+          "beef jerky"
+        ],
+        "points": 6
       }
     ]
   },
   {
     "id": "food-167",
     "category": "Food & drink",
-    "prompt": "Name something people add to cookie dough besides the basic ingredients.",
+    "prompt": "Name a reason someone might photograph an empty food package.",
     "answers": [
       {
-        "text": "Chocolate chips",
+        "text": "Complain to the company",
         "aliases": [
-          "choc chips"
+          "complain",
+          "send a complaint"
         ],
         "points": 30
       },
       {
-        "text": "Raisins",
+        "text": "Remember the brand",
         "aliases": [
-          "dried grapes"
+          "remember it",
+          "buy it again"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Walnuts",
-        "aliases": [],
+        "text": "Count calories",
+        "aliases": [
+          "track calories"
+        ],
         "points": 18
       },
       {
-        "text": "Peanut butter",
-        "aliases": [],
+        "text": "Prove someone ate it",
+        "aliases": [
+          "evidence",
+          "catch a thief"
+        ],
         "points": 13
       },
       {
-        "text": "Coconut",
-        "aliases": [],
+        "text": "Read tiny print",
+        "aliases": [
+          "zoom in",
+          "read ingredients"
+        ],
         "points": 9
       },
       {
-        "text": "Dried cranberries",
-        "aliases": [],
-        "points": 6
+        "text": "Add it to the shopping list",
+        "aliases": [
+          "shopping list"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-168",
     "category": "Food & drink",
-    "prompt": "Name something people add to brownies to make them extra special.",
+    "prompt": "Name something a person does with popcorn that annoys their movie date.",
     "answers": [
       {
-        "text": "Walnuts",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Chocolate chips",
+        "text": "Eats it all",
         "aliases": [
-          "choc chips"
+          "hogs it",
+          "does not share"
         ],
-        "points": 24
+        "points": 35
       },
       {
-        "text": "Caramel",
-        "aliases": [],
-        "points": 18
+        "text": "Chews loudly",
+        "aliases": [
+          "loud chewing"
+        ],
+        "points": 25
       },
       {
-        "text": "Peanut butter",
-        "aliases": [],
-        "points": 12
+        "text": "Throws pieces",
+        "aliases": [
+          "throws popcorn"
+        ],
+        "points": 16
       },
       {
-        "text": "Marshmallows",
-        "aliases": [],
+        "text": "Rummages noisily",
+        "aliases": [
+          "rustles bucket"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Licks their fingers",
+        "aliases": [
+          "finger licking"
+        ],
         "points": 8
       },
       {
-        "text": "Mint",
-        "aliases": [],
-        "points": 6
+        "text": "Spills it in their lap",
+        "aliases": [
+          "spills popcorn"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-169",
     "category": "Food & drink",
-    "prompt": "Name something people put on top of plain yogurt.",
+    "prompt": "Name an excuse someone gives for eating a snack with another person's name on it.",
     "answers": [
       {
-        "text": "Granola",
-        "aliases": [],
-        "points": 28
+        "text": "Didn't see the name",
+        "aliases": [
+          "missed the label",
+          "did not notice label"
+        ],
+        "points": 35
       },
       {
-        "text": "Berries",
-        "aliases": [],
-        "points": 23
+        "text": "Thought it was abandoned",
+        "aliases": [
+          "nobody wanted it",
+          "left it too long"
+        ],
+        "points": 25
       },
       {
-        "text": "Honey",
-        "aliases": [],
-        "points": 19
+        "text": "Too hungry to resist",
+        "aliases": [
+          "starving",
+          "could not resist"
+        ],
+        "points": 16
       },
       {
-        "text": "Banana",
-        "aliases": [],
-        "points": 14
+        "text": "It was going bad",
+        "aliases": [
+          "about to expire",
+          "saving it from waste"
+        ],
+        "points": 11
       },
       {
-        "text": "Nuts",
-        "aliases": [],
-        "points": 10
+        "text": "Thought we were sharing",
+        "aliases": [
+          "thought it was for everyone",
+          "communal food"
+        ],
+        "points": 8
       },
       {
-        "text": "Coconut",
-        "aliases": [],
-        "points": 6
+        "text": "Mistook it for their own",
+        "aliases": [
+          "thought it was mine",
+          "looked like mine"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-170",
     "category": "Food & drink",
-    "prompt": "Name something people stir into a bowl of oatmeal.",
+    "prompt": "Name something people lick after finishing a treat.",
     "answers": [
       {
-        "text": "Brown sugar",
+        "text": "Fingers",
         "aliases": [],
-        "points": 35
+        "points": 34
       },
       {
-        "text": "Cinnamon",
+        "text": "Spoon",
         "aliases": [],
         "points": 25
       },
       {
-        "text": "Raisins",
-        "aliases": [
-          "dried grapes"
-        ],
-        "points": 16
+        "text": "Wrapper",
+        "aliases": [],
+        "points": 17
       },
       {
-        "text": "Banana",
+        "text": "Bowl",
         "aliases": [],
         "points": 11
       },
       {
-        "text": "Peanut butter",
+        "text": "Lid",
         "aliases": [],
         "points": 8
       },
       {
-        "text": "Apple",
+        "text": "Stick",
         "aliases": [],
         "points": 5
       }
@@ -1574,36 +1918,51 @@
   {
     "id": "food-171",
     "category": "Food & drink",
-    "prompt": "Name a spice people use in sweet baking.",
+    "prompt": "Name a childhood food habit someone might still have as an adult.",
     "answers": [
       {
-        "text": "Cinnamon",
-        "aliases": [],
-        "points": 30
+        "text": "Cut off crusts",
+        "aliases": [
+          "remove crusts",
+          "no crusts"
+        ],
+        "points": 32
       },
       {
-        "text": "Nutmeg",
-        "aliases": [],
+        "text": "Keep foods separate",
+        "aliases": [
+          "food cannot touch",
+          "separate foods"
+        ],
         "points": 24
       },
       {
-        "text": "Ginger",
-        "aliases": [],
+        "text": "Dunk cookies in milk",
+        "aliases": [
+          "dip cookies",
+          "cookies and milk"
+        ],
         "points": 18
       },
       {
-        "text": "Cloves",
-        "aliases": [],
-        "points": 13
+        "text": "Put ketchup on everything",
+        "aliases": [
+          "ketchup"
+        ],
+        "points": 12
       },
       {
-        "text": "Allspice",
-        "aliases": [],
-        "points": 9
+        "text": "Eat cereal from the box",
+        "aliases": [
+          "dry cereal"
+        ],
+        "points": 8
       },
       {
-        "text": "Cardamom",
-        "aliases": [],
+        "text": "Lick the plate",
+        "aliases": [
+          "plate licking"
+        ],
         "points": 6
       }
     ]
@@ -1611,950 +1970,25 @@
   {
     "id": "food-172",
     "category": "Food & drink",
-    "prompt": "Name a fresh herb people sprinkle over a finished dish.",
+    "prompt": "Name a food people start eating before it has finished thawing.",
     "answers": [
       {
-        "text": "Parsley",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Cilantro",
-        "aliases": [
-          "coriander leaves",
-          "fresh coriander"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Basil",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Dill",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Mint",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Chives",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-173",
-    "category": "Food & drink",
-    "prompt": "Name an ingredient people add when they want food to be fiery hot.",
-    "answers": [
-      {
-        "text": "Crushed red pepper",
-        "aliases": [
-          "chili flakes",
-          "red pepper flakes"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Hot sauce",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Jalapeno",
-        "aliases": [
-          "jalapeno pepper"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Cayenne pepper",
-        "aliases": [
-          "cayenne"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Habanero",
-        "aliases": [
-          "habanero pepper"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Horseradish",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-174",
-    "category": "Food & drink",
-    "prompt": "Name an ingredient people add to make a dish creamy.",
-    "answers": [
-      {
-        "text": "Cream",
-        "aliases": [
-          "heavy cream",
-          "double cream"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Butter",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Cream cheese",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Coconut milk",
-        "aliases": [],
-        "points": 11
-      },
-      {
-        "text": "Avocado",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Yogurt",
-        "aliases": [
-          "yoghurt"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-175",
-    "category": "Food & drink",
-    "prompt": "Name an ingredient people add to give food a tangy taste.",
-    "answers": [
-      {
-        "text": "Lemon juice",
+        "text": "Berries",
         "aliases": [],
         "points": 30
       },
       {
-        "text": "Vinegar",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Lime juice",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Yogurt",
-        "aliases": [
-          "yoghurt"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Tamarind",
-        "aliases": [],
-        "points": 9
-      },
-      {
-        "text": "Sour cream",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-176",
-    "category": "Food & drink",
-    "prompt": "Name an ingredient people use to thicken a soup or sauce.",
-    "answers": [
-      {
-        "text": "Cornstarch",
-        "aliases": [
-          "corn starch",
-          "cornflour"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Flour",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Potato puree",
-        "aliases": [
-          "mashed potato"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Cream",
-        "aliases": [
-          "heavy cream",
-          "double cream"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Egg yolk",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Arrowroot",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-177",
-    "category": "Food & drink",
-    "prompt": "Name something people use to sweeten food.",
-    "answers": [
-      {
-        "text": "Sugar",
-        "aliases": [],
-        "points": 28
-      },
-      {
-        "text": "Honey",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Maple syrup",
-        "aliases": [
-          "pancake syrup"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Agave syrup",
-        "aliases": [
-          "agave nectar"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Dates",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Molasses",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-178",
-    "category": "Food & drink",
-    "prompt": "Name a fat people use when cooking.",
-    "answers": [
-      {
-        "text": "Butter",
-        "aliases": [],
-        "points": 35
-      },
-      {
-        "text": "Olive oil",
+        "text": "Cake",
         "aliases": [],
         "points": 25
       },
-      {
-        "text": "Canola oil",
-        "aliases": [
-          "rapeseed oil"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Coconut oil",
-        "aliases": [],
-        "points": 11
-      },
-      {
-        "text": "Lard",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Bacon fat",
-        "aliases": [],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-179",
-    "category": "Food & drink",
-    "prompt": "Name a type of flour people keep for baking.",
-    "answers": [
-      {
-        "text": "All-purpose flour",
-        "aliases": [
-          "plain flour"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Whole wheat flour",
-        "aliases": [
-          "wholemeal flour"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Almond flour",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Coconut flour",
-        "aliases": [],
-        "points": 13
-      },
-      {
-        "text": "Rice flour",
-        "aliases": [],
-        "points": 9
-      },
-      {
-        "text": "Chickpea flour",
-        "aliases": [
-          "gram flour",
-          "besan"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-180",
-    "category": "Food & drink",
-    "prompt": "Name a nut people use in baking.",
-    "answers": [
-      {
-        "text": "Walnut",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Pecan",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Almond",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Peanut",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Hazelnut",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Pistachio",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-181",
-    "category": "Food & drink",
-    "prompt": "Name a seed people find on or in bread.",
-    "answers": [
-      {
-        "text": "Sesame seeds",
-        "aliases": [],
-        "points": 28
-      },
-      {
-        "text": "Poppy seeds",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Sunflower seeds",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Pumpkin seeds",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Flax seeds",
-        "aliases": [
-          "linseeds"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Chia seeds",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-182",
-    "category": "Food & drink",
-    "prompt": "Name a kind of bean people might put in chili.",
-    "answers": [
-      {
-        "text": "Kidney beans",
-        "aliases": [],
-        "points": 35
-      },
-      {
-        "text": "Black beans",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Pinto beans",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Cannellini beans",
-        "aliases": [
-          "white kidney beans"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Navy beans",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Chickpeas",
-        "aliases": [
-          "garbanzo beans"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-183",
-    "category": "Food & drink",
-    "prompt": "Name something people serve in place of rice.",
-    "answers": [
-      {
-        "text": "Quinoa",
-        "aliases": [],
-        "points": 30
-      },
-      {
-        "text": "Couscous",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Barley",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Bulgur",
-        "aliases": [
-          "bulgur wheat"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Farro",
-        "aliases": [],
-        "points": 9
-      },
-      {
-        "text": "Millet",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-184",
-    "category": "Food & drink",
-    "prompt": "Name a dairy food people keep in the refrigerator.",
-    "answers": [
-      {
-        "text": "Milk",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Cheese",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Yogurt",
-        "aliases": [
-          "yoghurt"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Butter",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Sour cream",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Kefir",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-185",
-    "category": "Food & drink",
-    "prompt": "Name a plant-based food people use for protein in a meal.",
-    "answers": [
-      {
-        "text": "Lentils",
-        "aliases": [],
-        "points": 28
-      },
-      {
-        "text": "Tofu",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Black beans",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Chickpeas",
-        "aliases": [
-          "garbanzo beans"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Tempeh",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Peanut butter",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-186",
-    "category": "Food & drink",
-    "prompt": "Name a type of seafood people add to pasta.",
-    "answers": [
-      {
-        "text": "Shrimp",
-        "aliases": [
-          "prawns"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Clams",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Mussels",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Crab",
-        "aliases": [],
-        "points": 11
-      },
-      {
-        "text": "Lobster",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Scallops",
-        "aliases": [],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-187",
-    "category": "Food & drink",
-    "prompt": "Name a cheese people might use in a grilled cheese sandwich.",
-    "answers": [
-      {
-        "text": "Cheddar",
-        "aliases": [],
-        "points": 30
-      },
-      {
-        "text": "American cheese",
-        "aliases": [
-          "american slices"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Mozzarella",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Swiss cheese",
-        "aliases": [
-          "emmental"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Gouda",
-        "aliases": [],
-        "points": 9
-      },
-      {
-        "text": "Provolone",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-188",
-    "category": "Food & drink",
-    "prompt": "Name a cheese people recognize by its strong smell.",
-    "answers": [
-      {
-        "text": "Blue cheese",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Parmesan",
-        "aliases": [
-          "parmigiano reggiano"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Feta",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Brie",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Goat cheese",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Limburger",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-189",
-    "category": "Food & drink",
-    "prompt": "Name a food that takes a lot of chewing.",
-    "answers": [
-      {
-        "text": "Taffy",
-        "aliases": [
-          "saltwater taffy"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Bagel",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Gummy bears",
-        "aliases": [
-          "gummi bears"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Caramel",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Dried mango",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Beef jerky",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-190",
-    "category": "Food & drink",
-    "prompt": "Name a food people describe as gooey.",
-    "answers": [
-      {
-        "text": "Melted cheese",
-        "aliases": [],
-        "points": 35
-      },
-      {
-        "text": "Marshmallows",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Caramel",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Honey",
-        "aliases": [],
-        "points": 11
-      },
-      {
-        "text": "Chocolate fudge",
-        "aliases": [
-          "fudge"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Cookie dough",
-        "aliases": [],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-191",
-    "category": "Food & drink",
-    "prompt": "Name a food that breaks apart in flakes.",
-    "answers": [
-      {
-        "text": "Croissant",
-        "aliases": [],
-        "points": 30
-      },
-      {
-        "text": "Pie crust",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Salmon",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Biscuit",
-        "aliases": [],
-        "points": 13
-      },
-      {
-        "text": "Strudel",
-        "aliases": [],
-        "points": 9
-      },
-      {
-        "text": "Cod",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-192",
-    "category": "Food & drink",
-    "prompt": "Name a food that is especially juicy when you bite into it.",
-    "answers": [
-      {
-        "text": "Watermelon",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Orange",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Peach",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Pineapple",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Tomato",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Steak",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-193",
-    "category": "Food & drink",
-    "prompt": "Name a food that makes a loud crunch when you bite it.",
-    "answers": [
-      {
-        "text": "Apple",
-        "aliases": [],
-        "points": 28
-      },
-      {
-        "text": "Carrot",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Potato chips",
-        "aliases": [
-          "crisps"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Cracker",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Pickle",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Toast",
-        "aliases": [
-          "toasted bread"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-194",
-    "category": "Food & drink",
-    "prompt": "Name a food people enjoy for its smooth, creamy texture.",
-    "answers": [
-      {
-        "text": "Mashed potatoes",
-        "aliases": [
-          "mash"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Custard",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Hummus",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Avocado",
-        "aliases": [],
-        "points": 11
-      },
-      {
-        "text": "Yogurt",
-        "aliases": [
-          "yoghurt"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Cream soup",
-        "aliases": [],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "food-195",
-    "category": "Food & drink",
-    "prompt": "Name a food where people might argue over who gets the crust.",
-    "answers": [
       {
         "text": "Bread",
         "aliases": [],
-        "points": 30
-      },
-      {
-        "text": "Pizza",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Apple pie",
-        "aliases": [],
         "points": 18
       },
       {
-        "text": "Quiche",
+        "text": "Cookie dough",
         "aliases": [],
         "points": 13
       },
@@ -2564,47 +1998,1120 @@
         "points": 9
       },
       {
-        "text": "Baked macaroni and cheese",
+        "text": "Leftover pizza",
         "aliases": [
-          "baked mac and cheese"
+          "pizza"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-173",
+    "category": "Food & drink",
+    "prompt": "Name a food that makes it hard to talk with your mouth full.",
+    "answers": [
+      {
+        "text": "Peanut butter",
+        "aliases": [
+          "peanut spread"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Chewy caramel",
+        "aliases": [
+          "caramel"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Dry crackers",
+        "aliases": [
+          "crackers"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Marshmallows",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Bagel",
+        "aliases": [
+          "bagels"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Big burger",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-174",
+    "category": "Food & drink",
+    "prompt": "Name a part of a snack people fight over.",
+    "answers": [
+      {
+        "text": "Last piece",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Chocolate coating",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Crispy edges",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Filling",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Biggest piece",
+        "aliases": [
+          "largest piece"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Extra seasoning at the bottom",
+        "aliases": [
+          "crumbs at the bottom",
+          "flavor dust"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "food-196",
+    "id": "food-175",
     "category": "Food & drink",
-    "prompt": "Name a fruit or vegetable people often eat with the skin on.",
+    "prompt": "Name a food people eat the best bit of first.",
     "answers": [
       {
-        "text": "Apple",
-        "aliases": [],
-        "points": 32
+        "text": "Frosted cupcake",
+        "aliases": [
+          "cupcake"
+        ],
+        "points": 34
       },
       {
-        "text": "Pear",
+        "text": "Pizza",
         "aliases": [],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Grapes",
+        "text": "Muffin",
         "aliases": [],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Cucumber",
-        "aliases": [],
-        "points": 12
+        "text": "Filled cookie",
+        "aliases": [
+          "sandwich cookie",
+          "oreo"
+        ],
+        "points": 11
       },
       {
-        "text": "Peach",
+        "text": "Layer cake",
         "aliases": [],
         "points": 8
       },
       {
-        "text": "Plum",
+        "text": "Chocolate-covered strawberry",
         "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-176",
+    "category": "Food & drink",
+    "prompt": "Name something people blame for being hungry again an hour after eating.",
+    "answers": [
+      {
+        "text": "Small portions",
+        "aliases": [
+          "small meal"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Exercising",
+        "aliases": [
+          "exercise",
+          "workout"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Skipping breakfast",
+        "aliases": [
+          "no breakfast"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Eating only salad",
+        "aliases": [
+          "salad"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Boredom",
+        "aliases": [
+          "bored"
+        ],
+        "points": 8
+      },
+      {
+        "text": "The smell of food",
+        "aliases": [
+          "food smell"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-177",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone refuses a snack they clearly want.",
+    "answers": [
+      {
+        "text": "Trying to save room",
+        "aliases": [
+          "saving room",
+          "dessert later"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Being polite",
+        "aliases": [
+          "polite"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Watching what they eat",
+        "aliases": [
+          "diet",
+          "dieting"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Already brushed their teeth",
+        "aliases": [
+          "brushed teeth"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Don't want to share",
+        "aliases": [
+          "not sharing"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Embarrassed to ask",
+        "aliases": [
+          "embarrassed"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-178",
+    "category": "Food & drink",
+    "prompt": "Name a food people often eat more of after saying it is too spicy.",
+    "answers": [
+      {
+        "text": "Chips",
+        "aliases": [
+          "potato chips",
+          "crisps"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Curry",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Wings",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Salsa",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Noodles",
+        "aliases": [
+          "ramen"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Chili",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-179",
+    "category": "Food & drink",
+    "prompt": "Name something people do after biting into a flavor they weren't expecting.",
+    "answers": [
+      {
+        "text": "Spit it out",
+        "aliases": [
+          "spit"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Make a face",
+        "aliases": [
+          "grimace"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Read the wrapper",
+        "aliases": [
+          "check label"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Ask what it is",
+        "aliases": [
+          "what is this"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Take another bite",
+        "aliases": [
+          "keep eating"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Reach for a drink",
+        "aliases": [
+          "drink",
+          "water"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-180",
+    "category": "Food & drink",
+    "prompt": "Name something people do when they drop the treat they've been looking forward to.",
+    "answers": [
+      {
+        "text": "Swear",
+        "aliases": [],
+        "points": 34
+      },
+      {
+        "text": "Pick it up",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Stare at it",
+        "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Throw it away",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Get another one",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Blame someone",
+        "aliases": [
+          "accuse someone",
+          "blame"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-181",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone suddenly stops chewing.",
+    "answers": [
+      {
+        "text": "Found something hard",
+        "aliases": [
+          "hard bit",
+          "bone"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Food is too hot",
+        "aliases": [
+          "too hot"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Asked a question",
+        "aliases": [
+          "question"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Saw something gross",
+        "aliases": [
+          "gross",
+          "disgusted"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Heard shocking news",
+        "aliases": [
+          "shocked",
+          "surprised"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bit their tongue",
+        "aliases": [
+          "bit tongue",
+          "bit cheek"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-182",
+    "category": "Food & drink",
+    "prompt": "Name a food people secretly prefer over a fancy dessert.",
+    "answers": [
+      {
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Chocolate bar",
+        "aliases": [
+          "candy bar",
+          "chocolate"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Cookies",
+        "aliases": [
+          "biscuits",
+          "cookie"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Donuts",
+        "aliases": [
+          "doughnuts"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Cereal",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Instant pudding",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-183",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone eats the same lunch every day.",
+    "answers": [
+      {
+        "text": "Easy",
+        "aliases": [
+          "convenient"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Loves it",
+        "aliases": [
+          "favorite food"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Cheap",
+        "aliases": [
+          "saves money"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Habit",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Limited choices",
+        "aliases": [
+          "no options"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Knows how to make it",
+        "aliases": [
+          "only thing they can cook"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-184",
+    "category": "Food & drink",
+    "prompt": "Name something that ruins the first bite of a snack.",
+    "answers": [
+      {
+        "text": "It's stale",
+        "aliases": [
+          "stale"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Wrong flavor",
+        "aliases": [
+          "wrong flavour"
+        ],
+        "points": 24
+      },
+      {
+        "text": "It's too hot",
+        "aliases": [
+          "too hot"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Hard seed",
+        "aliases": [
+          "seed",
+          "pit"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Hair",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Soggy texture",
+        "aliases": [
+          "soggy"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-185",
+    "category": "Food & drink",
+    "prompt": "Name a food people take apart before eating.",
+    "answers": [
+      {
+        "text": "Sandwich cookie",
+        "aliases": [
+          "oreos",
+          "oreo"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Sandwich",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Burger",
+        "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Layer cake",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Candy bar",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-186",
+    "category": "Food & drink",
+    "prompt": "Name something someone might claim to avoid sharing their snack.",
+    "answers": [
+      {
+        "text": "It's spicy",
+        "aliases": [
+          "too spicy"
+        ],
+        "points": 32
+      },
+      {
+        "text": "It's the last one",
+        "aliases": [
+          "last one"
+        ],
+        "points": 24
+      },
+      {
+        "text": "I'm sick",
+        "aliases": [
+          "sick",
+          "germs"
+        ],
+        "points": 18
+      },
+      {
+        "text": "It's for someone else",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "I already licked it",
+        "aliases": [
+          "licked it"
+        ],
+        "points": 8
+      },
+      {
+        "text": "You won't like it",
+        "aliases": [
+          "you would hate it"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-187",
+    "category": "Food & drink",
+    "prompt": "Name something people try to remove from their teeth after a snack.",
+    "answers": [
+      {
+        "text": "Popcorn hull",
+        "aliases": [
+          "popcorn kernel",
+          "popcorn"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Caramel",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Seeds",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Nuts",
+        "aliases": [
+          "mixed nuts"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Coconut",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Meat fibers",
+        "aliases": [
+          "meat",
+          "beef"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-188",
+    "category": "Food & drink",
+    "prompt": "Name a food people crave when they're missing home.",
+    "answers": [
+      {
+        "text": "Soup",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Chicken curry",
+        "aliases": [
+          "homemade curry"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Rice and beans",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Rice pudding",
+        "aliases": [
+          "creamed rice"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Roast dinner",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Homemade bread",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-189",
+    "category": "Food & drink",
+    "prompt": "Name a reason a teacher might confiscate a student's snacks.",
+    "answers": [
+      {
+        "text": "Eating during class",
+        "aliases": [
+          "eating in class"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Throwing food",
+        "aliases": [
+          "food fight"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Allergy rule",
+        "aliases": [
+          "allergies",
+          "nuts banned"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Making a mess",
+        "aliases": [
+          "messy"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Fighting over them",
+        "aliases": [
+          "fighting",
+          "arguing"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Sneaking food into an exam",
+        "aliases": [
+          "exam",
+          "test"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-190",
+    "category": "Food & drink",
+    "prompt": "Name something that might make someone abandon a strict eating plan for the day.",
+    "answers": [
+      {
+        "text": "Birthday cake",
+        "aliases": [
+          "birthday"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Vacation",
+        "aliases": [
+          "holiday"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Stressful day",
+        "aliases": [
+          "stress"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Favorite food appears",
+        "aliases": [
+          "favorite food"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Friends are celebrating",
+        "aliases": [
+          "celebration",
+          "party"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Free samples",
+        "aliases": [
+          "free food",
+          "samples"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-191",
+    "category": "Food & drink",
+    "prompt": "Name a food people buy in a giant pack and regret having so much of.",
+    "answers": [
+      {
+        "text": "Chips",
+        "aliases": [
+          "potato chips",
+          "crisps"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Cereal",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Yogurt",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Cookies",
+        "aliases": [
+          "biscuits",
+          "cookie"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Candy",
+        "aliases": [
+          "sweets",
+          "candies"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Granola bars",
+        "aliases": [
+          "cereal bars",
+          "protein bars"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-192",
+    "category": "Food & drink",
+    "prompt": "Name something people do to avoid finishing a snack in one sitting.",
+    "answers": [
+      {
+        "text": "Put it out of reach",
+        "aliases": [
+          "hide it"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Split it into portions",
+        "aliases": [
+          "portion it"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Share it",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Put the bag away",
+        "aliases": [
+          "close the bag"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Brush their teeth",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Buy a smaller pack",
+        "aliases": [
+          "smaller bag"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-193",
+    "category": "Food & drink",
+    "prompt": "Name a food that makes people search for a drink immediately.",
+    "answers": [
+      {
+        "text": "Salty chips",
+        "aliases": [
+          "chips",
+          "crisps"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Spicy wings",
+        "aliases": [
+          "hot wings"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Dry crackers",
+        "aliases": [
+          "crackers"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Peanut butter",
+        "aliases": [
+          "peanut spread"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Pretzels",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Popcorn",
+        "aliases": [
+          "popped corn"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-194",
+    "category": "Food & drink",
+    "prompt": "Name something you might do after realizing you've eaten someone else's leftovers.",
+    "answers": [
+      {
+        "text": "Apologize",
+        "aliases": [
+          "say sorry"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Replace them",
+        "aliases": [
+          "buy more",
+          "replace food"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Deny it",
+        "aliases": [
+          "lie",
+          "deny"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Hide the container",
+        "aliases": [
+          "hide evidence"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Offer money",
+        "aliases": [
+          "pay them"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Hope they forget",
+        "aliases": [
+          "say nothing"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-195",
+    "category": "Food & drink",
+    "prompt": "Name a food people enjoy more once it has gone a little soft.",
+    "answers": [
+      {
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Cookies",
+        "aliases": [
+          "biscuits",
+          "cookie"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Cereal",
+        "aliases": [],
+        "points": 17
+      },
+      {
+        "text": "Bread",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Chocolate",
+        "aliases": [
+          "chocolate bar"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cheese",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-196",
+    "category": "Food & drink",
+    "prompt": "Name a food people insist tastes different when cut a certain way.",
+    "answers": [
+      {
+        "text": "Sandwich",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Fries",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Apple",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Carrots",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Chocolate",
+        "aliases": [
+          "chocolate bar"
+        ],
         "points": 6
       }
     ]
@@ -2612,117 +3119,136 @@
   {
     "id": "food-197",
     "category": "Food & drink",
-    "prompt": "Name a fruit people gently squeeze to check whether it is ripe.",
+    "prompt": "Name a reason someone eats dessert before finishing the rest of their food.",
     "answers": [
       {
-        "text": "Avocado",
-        "aliases": [],
-        "points": 28
+        "text": "Loves dessert more",
+        "aliases": [
+          "likes dessert"
+        ],
+        "points": 30
       },
       {
-        "text": "Peach",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Mango",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Kiwi",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Pear",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Nectarine",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-198",
-    "category": "Food & drink",
-    "prompt": "Name a fruit or vegetable that turns brown after being cut.",
-    "answers": [
-      {
-        "text": "Apple",
-        "aliases": [],
-        "points": 35
-      },
-      {
-        "text": "Banana",
-        "aliases": [],
+        "text": "Saving room",
+        "aliases": [
+          "save room"
+        ],
         "points": 25
       },
       {
-        "text": "Avocado",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Pear",
-        "aliases": [],
-        "points": 11
-      },
-      {
-        "text": "Potato",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Eggplant",
+        "text": "It might run out",
         "aliases": [
-          "aubergine"
+          "running out"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Meal tastes bad",
+        "aliases": [
+          "bad meal"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Dessert is melting",
+        "aliases": [
+          "melting"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Nobody is stopping them",
+        "aliases": [
+          "because they can"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "food-199",
+    "id": "food-198",
     "category": "Food & drink",
-    "prompt": "Name a fruit or vegetable with seeds you see when you cut it open.",
+    "prompt": "Name something people do when they take a bigger bite than they can handle.",
     "answers": [
       {
-        "text": "Bell pepper",
+        "text": "Cover their mouth",
         "aliases": [
-          "sweet pepper",
-          "capsicum"
+          "hand over mouth"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Pumpkin",
+        "text": "Chew for ages",
+        "aliases": [
+          "keep chewing"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Take a drink",
+        "aliases": [
+          "drink water"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Spit some out",
+        "aliases": [
+          "spit it out"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Stop talking",
+        "aliases": [
+          "cannot talk"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Laugh",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-199",
+    "category": "Food & drink",
+    "prompt": "Name a part of their food people carefully eat around.",
+    "answers": [
+      {
+        "text": "Bread crust",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Pizza crust",
         "aliases": [],
         "points": 24
       },
       {
-        "text": "Tomato",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Papaya",
-        "aliases": [],
-        "points": 13
-      },
-      {
-        "text": "Cantaloupe",
+        "text": "Apple core",
         "aliases": [
-          "rockmelon"
+          "core"
         ],
+        "points": 19
+      },
+      {
+        "text": "Chicken skin",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Fat on meat",
+        "aliases": [],
         "points": 9
       },
       {
-        "text": "Cucumber",
-        "aliases": [],
+        "text": "Fruit peel",
+        "aliases": [
+          "skin"
+        ],
         "points": 6
       }
     ]
@@ -2730,84 +3256,97 @@
   {
     "id": "food-200",
     "category": "Food & drink",
-    "prompt": "Name a vegetable people turn into noodle-shaped spirals.",
+    "prompt": "Name a snack someone might buy just because it reminds them of school.",
     "answers": [
       {
-        "text": "Zucchini",
+        "text": "Fruit snacks",
         "aliases": [
-          "courgette"
+          "fruit gummies"
         ],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Carrot",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Sweet potato",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Cucumber",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Beet",
+        "text": "Cookies",
         "aliases": [
-          "beetroot"
+          "biscuits",
+          "cookie"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Juice box",
+        "aliases": [
+          "juice carton"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Chips",
+        "aliases": [
+          "potato chips",
+          "crisps"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Pudding cup",
+        "aliases": [
+          "pudding"
         ],
         "points": 8
       },
       {
-        "text": "Butternut squash",
+        "text": "Crackers",
         "aliases": [],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "food-201",
     "category": "Food & drink",
-    "prompt": "Name a vegetable people stuff with a filling.",
+    "prompt": "Name something people do before trying a suspicious new snack flavor.",
     "answers": [
       {
-        "text": "Bell pepper",
+        "text": "Read the label",
         "aliases": [
-          "sweet pepper",
-          "capsicum"
+          "check ingredients"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Mushroom",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Zucchini",
+        "text": "Smell it",
         "aliases": [
-          "courgette"
+          "sniff it"
         ],
-        "points": 19
+        "points": 24
       },
       {
-        "text": "Tomato",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Eggplant",
+        "text": "Ask someone else",
         "aliases": [
-          "aubergine"
+          "ask a friend"
         ],
-        "points": 10
+        "points": 18
       },
       {
-        "text": "Cabbage",
-        "aliases": [],
+        "text": "Take a tiny bite",
+        "aliases": [
+          "small bite"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Look at it closely",
+        "aliases": [
+          "inspect it"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Make a face",
+        "aliases": [
+          "grimace"
+        ],
         "points": 6
       }
     ]
@@ -2815,39 +3354,38 @@
   {
     "id": "food-202",
     "category": "Food & drink",
-    "prompt": "Name a food people remove from a shell or pod before eating.",
+    "prompt": "Name something people are embarrassed to ask for seconds of.",
     "answers": [
       {
-        "text": "Peanut",
+        "text": "Dessert",
         "aliases": [],
-        "points": 35
+        "points": 30
       },
       {
-        "text": "Walnut",
+        "text": "Gravy",
         "aliases": [],
         "points": 25
       },
       {
-        "text": "Peas",
-        "aliases": [
-          "garden peas"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Edamame",
-        "aliases": [
-          "green soybeans"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Pistachio",
+        "text": "The last slice",
         "aliases": [],
-        "points": 8
+        "points": 18
       },
       {
-        "text": "Chestnut",
+        "text": "Someone else's leftovers",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Free samples",
+        "aliases": [
+          "free food",
+          "samples"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A child's snack",
         "aliases": [],
         "points": 5
       }
@@ -2856,35 +3394,42 @@
   {
     "id": "food-203",
     "category": "Food & drink",
-    "prompt": "Name a vegetable known for its strong smell.",
+    "prompt": "Name a reason someone eats in their car while it is parked.",
     "answers": [
       {
-        "text": "Onion",
-        "aliases": [],
-        "points": 30
+        "text": "No time",
+        "aliases": [
+          "in a hurry"
+        ],
+        "points": 35
       },
       {
-        "text": "Garlic",
-        "aliases": [],
-        "points": 24
+        "text": "Wants peace and quiet",
+        "aliases": [
+          "privacy",
+          "peace and quiet"
+        ],
+        "points": 23
       },
       {
-        "text": "Cabbage",
+        "text": "Avoiding a mess at home",
         "aliases": [],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Broccoli",
-        "aliases": [],
-        "points": 13
+        "text": "Hiding the purchase",
+        "aliases": [
+          "hiding food"
+        ],
+        "points": 12
       },
       {
-        "text": "Brussels sprouts",
+        "text": "Nowhere else to sit",
         "aliases": [],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Leek",
+        "text": "Waiting for someone",
         "aliases": [],
         "points": 6
       }
@@ -2893,40 +3438,39 @@
   {
     "id": "food-204",
     "category": "Food & drink",
-    "prompt": "Name something people use to decorate a plated dessert.",
+    "prompt": "Name something people use to stir a drink when they can't find a spoon.",
     "answers": [
       {
-        "text": "Whipped cream",
+        "text": "Straw",
         "aliases": [],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Berries",
-        "aliases": [],
+        "text": "Fork",
+        "aliases": [
+          "a fork"
+        ],
         "points": 24
       },
       {
-        "text": "Chocolate shavings",
+        "text": "Finger",
+        "aliases": [
+          "fingers"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Chopstick",
         "aliases": [],
-        "points": 18
+        "points": 14
       },
       {
-        "text": "Powdered sugar",
-        "aliases": [
-          "icing sugar",
-          "confectioners sugar"
-        ],
-        "points": 12
+        "text": "Knife",
+        "aliases": [],
+        "points": 9
       },
       {
-        "text": "Mint leaves",
-        "aliases": [
-          "mint"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Edible flowers",
+        "text": "Pen",
         "aliases": [],
         "points": 6
       }
@@ -2935,159 +3479,198 @@
   {
     "id": "food-205",
     "category": "Food & drink",
-    "prompt": "Name a vegetable people like to pickle.",
+    "prompt": "Name something people argue about when sharing a bag of snacks.",
     "answers": [
       {
-        "text": "Cucumber",
-        "aliases": [],
-        "points": 28
-      },
-      {
-        "text": "Onion",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Carrot",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Beet",
+        "text": "Who ate more",
         "aliases": [
-          "beetroot"
+          "unequal portions"
         ],
-        "points": 14
+        "points": 34
       },
       {
-        "text": "Cauliflower",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Jalapeno",
+        "text": "Who gets the last one",
         "aliases": [
-          "jalapeno pepper"
+          "last piece"
         ],
-        "points": 6
+        "points": 25
+      },
+      {
+        "text": "Which flavor",
+        "aliases": [
+          "flavor",
+          "flavour"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Double dipping",
+        "aliases": [
+          "double dip"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Leaving crumbs",
+        "aliases": [
+          "crumbs",
+          "mess"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Taking all the best pieces",
+        "aliases": [
+          "picking out favorites"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-206",
     "category": "Food & drink",
-    "prompt": "Name a food made with the help of fermentation.",
+    "prompt": "Name something you might find beside someone who fell asleep while snacking.",
     "answers": [
       {
-        "text": "Yogurt",
+        "text": "Empty wrapper",
         "aliases": [
-          "yoghurt"
+          "wrapper"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Kimchi",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Sauerkraut",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Sourdough bread",
+        "text": "Crumbs",
         "aliases": [
-          "sourdough"
+          "crumb trail"
         ],
-        "points": 11
+        "points": 24
       },
       {
-        "text": "Miso",
-        "aliases": [],
+        "text": "Half-eaten food",
+        "aliases": [
+          "half eaten snack"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Spilled drink",
+        "aliases": [
+          "drink",
+          "spilled soda"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Remote control",
+        "aliases": [
+          "remote"
+        ],
         "points": 8
       },
       {
-        "text": "Tempeh",
-        "aliases": [],
-        "points": 5
+        "text": "Greasy napkin",
+        "aliases": [
+          "napkin"
+        ],
+        "points": 6
       }
     ]
   },
   {
     "id": "food-207",
     "category": "Food & drink",
-    "prompt": "Name a food people enjoy for its smoky flavor.",
+    "prompt": "Name a reason someone takes food out of the fridge and puts it straight back.",
     "answers": [
       {
-        "text": "Bacon",
-        "aliases": [],
+        "text": "It smells bad",
+        "aliases": [
+          "bad smell"
+        ],
         "points": 30
       },
       {
-        "text": "Smoked salmon",
+        "text": "Changed their mind",
         "aliases": [],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Barbecue ribs",
+        "text": "Needs cooking",
         "aliases": [
-          "bbq ribs"
+          "needs heating"
         ],
         "points": 18
       },
       {
-        "text": "Smoked cheddar",
-        "aliases": [],
+        "text": "It's someone else's",
+        "aliases": [
+          "belongs to someone else"
+        ],
         "points": 13
       },
       {
-        "text": "Ham",
-        "aliases": [],
+        "text": "Expired",
+        "aliases": [
+          "past use by date"
+        ],
         "points": 9
       },
       {
-        "text": "Roasted eggplant",
-        "aliases": [],
-        "points": 6
+        "text": "Container is empty",
+        "aliases": [
+          "nothing in it"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-208",
     "category": "Food & drink",
-    "prompt": "Name an ingredient people add for a rich, savory flavor.",
+    "prompt": "Name something people might do after a snack tastes disappointingly healthy.",
     "answers": [
       {
-        "text": "Mushrooms",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Parmesan",
+        "text": "Add sugar",
         "aliases": [
-          "parmigiano reggiano"
+          "sugar"
         ],
-        "points": 24
+        "points": 35
       },
       {
-        "text": "Soy sauce",
-        "aliases": [],
-        "points": 18
+        "text": "Add salt",
+        "aliases": [
+          "salt"
+        ],
+        "points": 23
       },
       {
-        "text": "Tomatoes",
-        "aliases": [],
+        "text": "Stop eating it",
+        "aliases": [
+          "give up"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Add a dip",
+        "aliases": [
+          "dip",
+          "sauce"
+        ],
         "points": 12
       },
       {
-        "text": "Anchovies",
-        "aliases": [],
+        "text": "Complain",
+        "aliases": [
+          "moan",
+          "complain about it"
+        ],
         "points": 8
       },
       {
-        "text": "Miso",
-        "aliases": [],
+        "text": "Reach for another snack",
+        "aliases": [
+          "eat something else"
+        ],
         "points": 6
       }
     ]
@@ -3095,36 +3678,43 @@
   {
     "id": "food-209",
     "category": "Food & drink",
-    "prompt": "Name a flavor people love paired with chocolate.",
+    "prompt": "Name a food people prefer to eat alone so nobody judges their portion.",
     "answers": [
       {
-        "text": "Peanut butter",
-        "aliases": [],
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
         "points": 28
       },
       {
-        "text": "Strawberry",
+        "text": "Pizza",
         "aliases": [],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Mint",
-        "aliases": [],
+        "text": "Chips",
+        "aliases": [
+          "potato chips",
+          "crisps"
+        ],
         "points": 19
       },
       {
-        "text": "Orange",
+        "text": "Cake",
         "aliases": [],
         "points": 14
       },
       {
-        "text": "Caramel",
+        "text": "Pasta",
         "aliases": [],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Coffee",
-        "aliases": [],
+        "text": "Chocolate",
+        "aliases": [
+          "chocolate bar"
+        ],
         "points": 6
       }
     ]
@@ -3132,38 +3722,48 @@
   {
     "id": "food-210",
     "category": "Food & drink",
-    "prompt": "Name a food that combines sweet and salty flavors.",
+    "prompt": "Name something people do to a snack before giving the rest to someone else.",
     "answers": [
       {
-        "text": "Salted caramel",
-        "aliases": [],
-        "points": 35
+        "text": "Take one more bite",
+        "aliases": [
+          "one last bite"
+        ],
+        "points": 34
       },
       {
-        "text": "Chocolate-covered pretzels",
-        "aliases": [],
+        "text": "Pick out their favorites",
+        "aliases": [
+          "take best bits"
+        ],
         "points": 25
       },
       {
-        "text": "Kettle corn",
+        "text": "Close the package",
         "aliases": [
-          "sweet and salty popcorn"
+          "seal the bag"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Peanut butter cups",
-        "aliases": [],
+        "text": "Check how much is left",
+        "aliases": [
+          "check remaining amount"
+        ],
         "points": 11
       },
       {
-        "text": "Glazed ham",
-        "aliases": [],
+        "text": "Wipe their fingers",
+        "aliases": [
+          "wipe hands"
+        ],
         "points": 8
       },
       {
-        "text": "Teriyaki chicken",
-        "aliases": [],
+        "text": "Break it in half",
+        "aliases": [
+          "split it"
+        ],
         "points": 5
       }
     ]
@@ -3171,37 +3771,46 @@
   {
     "id": "food-211",
     "category": "Food & drink",
-    "prompt": "Name a food or ingredient made from soybeans.",
+    "prompt": "Name a food that makes people say they need a bigger napkin.",
     "answers": [
       {
-        "text": "Tofu",
-        "aliases": [],
-        "points": 30
+        "text": "Chocolate",
+        "aliases": [
+          "chocolate bar"
+        ],
+        "points": 32
       },
       {
-        "text": "Soy sauce",
-        "aliases": [],
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
         "points": 24
       },
       {
-        "text": "Soy milk",
+        "text": "Barbecue wings",
         "aliases": [
-          "soya milk"
+          "bbq wings",
+          "wings"
         ],
         "points": 18
       },
       {
-        "text": "Miso",
-        "aliases": [],
-        "points": 13
+        "text": "Jam donut",
+        "aliases": [
+          "jelly donut"
+        ],
+        "points": 12
       },
       {
-        "text": "Tempeh",
-        "aliases": [],
-        "points": 9
+        "text": "Powdered pastry",
+        "aliases": [
+          "powdered donut"
+        ],
+        "points": 8
       },
       {
-        "text": "Soy flour",
+        "text": "Melted cheese",
         "aliases": [],
         "points": 6
       }
@@ -3210,73 +3819,99 @@
   {
     "id": "food-212",
     "category": "Food & drink",
-    "prompt": "Name an ingredient that can give food a yellow color.",
+    "prompt": "Name a reason someone refuses to throw away a tiny amount of food.",
     "answers": [
       {
-        "text": "Turmeric",
-        "aliases": [],
-        "points": 32
+        "text": "Hates waste",
+        "aliases": [
+          "does not want to waste it"
+        ],
+        "points": 30
       },
       {
-        "text": "Saffron",
-        "aliases": [],
-        "points": 24
+        "text": "Saving it for later",
+        "aliases": [
+          "save it"
+        ],
+        "points": 25
       },
       {
-        "text": "Egg yolk",
-        "aliases": [],
+        "text": "It was expensive",
+        "aliases": [
+          "cost a lot"
+        ],
         "points": 18
       },
       {
-        "text": "Mustard",
-        "aliases": [],
-        "points": 12
+        "text": "Might use it in something",
+        "aliases": [
+          "use in another meal"
+        ],
+        "points": 13
       },
       {
-        "text": "Cornmeal",
-        "aliases": [],
-        "points": 8
+        "text": "Someone else might want it",
+        "aliases": [
+          "give to someone"
+        ],
+        "points": 9
       },
       {
-        "text": "Lemon zest",
-        "aliases": [],
-        "points": 6
+        "text": "It's their favorite",
+        "aliases": [
+          "favorite food"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-213",
     "category": "Food & drink",
-    "prompt": "Name a fruit people use in a savory dish.",
+    "prompt": "Name something people do when a food tastes better than they expected.",
     "answers": [
       {
-        "text": "Pineapple",
-        "aliases": [],
-        "points": 28
+        "text": "Take another bite",
+        "aliases": [
+          "keep eating"
+        ],
+        "points": 35
       },
       {
-        "text": "Mango",
-        "aliases": [],
+        "text": "Tell someone",
+        "aliases": [
+          "tell a friend"
+        ],
         "points": 23
       },
       {
-        "text": "Apple",
-        "aliases": [],
-        "points": 19
+        "text": "Make a happy noise",
+        "aliases": [
+          "mmm",
+          "moan"
+        ],
+        "points": 16
       },
       {
-        "text": "Lemon",
-        "aliases": [],
-        "points": 14
+        "text": "Ask what it is",
+        "aliases": [
+          "what is this"
+        ],
+        "points": 12
       },
       {
-        "text": "Cranberry",
-        "aliases": [],
-        "points": 10
+        "text": "Close their eyes",
+        "aliases": [
+          "shut eyes"
+        ],
+        "points": 8
       },
       {
-        "text": "Fig",
-        "aliases": [],
+        "text": "Ask for more",
+        "aliases": [
+          "seconds",
+          "more"
+        ],
         "points": 6
       }
     ]
@@ -3284,115 +3919,122 @@
   {
     "id": "food-214",
     "category": "Food & drink",
-    "prompt": "Name a protein people put on top of a salad.",
+    "prompt": "Name a food people eat when they are too tired to decide on dinner.",
     "answers": [
       {
-        "text": "Chicken",
+        "text": "Cereal",
         "aliases": [],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Egg",
+        "text": "Toast",
         "aliases": [],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Tuna",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Chickpeas",
+        "text": "Instant noodles",
         "aliases": [
-          "garbanzo beans"
+          "ramen",
+          "instant ramen"
         ],
-        "points": 11
+        "points": 19
       },
       {
-        "text": "Bacon",
+        "text": "Sandwich",
         "aliases": [],
-        "points": 8
+        "points": 14
       },
       {
-        "text": "Tofu",
+        "text": "Leftovers",
         "aliases": [],
-        "points": 5
+        "points": 9
+      },
+      {
+        "text": "Eggs",
+        "aliases": [],
+        "points": 6
       }
     ]
   },
   {
     "id": "food-215",
     "category": "Food & drink",
-    "prompt": "Name an ingredient people use as the base of a creamy dip.",
+    "prompt": "Name a food that gets especially stuck in braces.",
     "answers": [
       {
-        "text": "Sour cream",
-        "aliases": [],
-        "points": 30
-      },
-      {
-        "text": "Cream cheese",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Yogurt",
+        "text": "Gum",
         "aliases": [
-          "yoghurt"
+          "chewing gum"
         ],
-        "points": 18
+        "points": 34
       },
       {
-        "text": "Avocado",
+        "text": "Caramel",
         "aliases": [],
-        "points": 13
+        "points": 25
       },
       {
-        "text": "Mashed beans",
-        "aliases": [],
-        "points": 9
-      },
-      {
-        "text": "Tahini",
+        "text": "Popcorn",
         "aliases": [
-          "sesame paste"
+          "popped corn"
         ],
-        "points": 6
+        "points": 17
+      },
+      {
+        "text": "Nuts",
+        "aliases": [
+          "mixed nuts"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Meat",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Corn",
+        "aliases": [],
+        "points": 5
       }
     ]
   },
   {
     "id": "food-216",
     "category": "Food & drink",
-    "prompt": "Name an ingredient people use in a fruit crumble topping.",
+    "prompt": "Name a food people eat faster because they're worried it will change.",
     "answers": [
       {
-        "text": "Oats",
-        "aliases": [],
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
         "points": 32
       },
       {
-        "text": "Flour",
+        "text": "Fries",
         "aliases": [],
         "points": 24
       },
       {
-        "text": "Butter",
+        "text": "Cereal",
         "aliases": [],
         "points": 18
       },
       {
-        "text": "Brown sugar",
+        "text": "Toast",
         "aliases": [],
         "points": 12
       },
       {
-        "text": "Cinnamon",
-        "aliases": [],
+        "text": "Popcorn",
+        "aliases": [
+          "popped corn"
+        ],
         "points": 8
       },
       {
-        "text": "Nuts",
+        "text": "A hot sandwich",
         "aliases": [],
         "points": 6
       }
@@ -3401,119 +4043,136 @@
   {
     "id": "food-217",
     "category": "Food & drink",
-    "prompt": "Name a filling people might find in stuffed pasta.",
+    "prompt": "Name something people notice after finishing an entire bag of snacks.",
     "answers": [
       {
-        "text": "Ricotta",
+        "text": "How empty it is",
         "aliases": [
-          "ricotta cheese"
+          "empty bag"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Spinach",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Beef",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Mushrooms",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Pumpkin",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Lobster",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "food-218",
-    "category": "Food & drink",
-    "prompt": "Name something people mix into rice for extra flavor.",
-    "answers": [
-      {
-        "text": "Peas",
+        "text": "Calories on the label",
         "aliases": [
-          "garden peas"
+          "calorie count"
         ],
-        "points": 35
-      },
-      {
-        "text": "Carrots",
-        "aliases": [],
         "points": 25
       },
       {
-        "text": "Egg",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Soy sauce",
-        "aliases": [],
-        "points": 11
-      },
-      {
-        "text": "Saffron",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Raisins",
+        "text": "Their thirst",
         "aliases": [
-          "dried grapes"
+          "thirsty"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Crumbs everywhere",
+        "aliases": [
+          "crumbs"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Greasy fingers",
+        "aliases": [
+          "oily hands"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Someone wanted some",
+        "aliases": [
+          "forgot to share"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "food-219",
+    "id": "food-218",
     "category": "Food & drink",
-    "prompt": "Name an ingredient people put in potato salad.",
+    "prompt": "Name a reason someone's favorite food suddenly stops appealing to them.",
     "answers": [
       {
-        "text": "Potatoes",
-        "aliases": [],
-        "points": 30
+        "text": "Ate it too often",
+        "aliases": [
+          "too much of it"
+        ],
+        "points": 35
       },
       {
-        "text": "Mayonnaise",
+        "text": "Recipe changed",
         "aliases": [
-          "mayo"
+          "different recipe"
         ],
+        "points": 23
+      },
+      {
+        "text": "Got sick after eating it",
+        "aliases": [
+          "food poisoning",
+          "got sick"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Found something better",
+        "aliases": [
+          "new favorite"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Taste changed",
+        "aliases": [
+          "taste buds changed"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bad memory attached to it",
+        "aliases": [
+          "bad memory"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-219",
+    "category": "Food & drink",
+    "prompt": "Name something people want close by when trying an extremely spicy snack.",
+    "answers": [
+      {
+        "text": "Milk",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Water",
+        "aliases": [],
         "points": 24
       },
       {
-        "text": "Mustard",
+        "text": "Napkins",
         "aliases": [],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Celery",
+        "text": "Bread",
         "aliases": [],
-        "points": 13
+        "points": 14
       },
       {
-        "text": "Onion",
+        "text": "Bathroom",
         "aliases": [],
         "points": 9
       },
       {
-        "text": "Pickles",
+        "text": "A friend to try it too",
         "aliases": [
-          "pickled cucumber"
+          "friend"
         ],
         "points": 6
       }
@@ -3522,40 +4181,52 @@
   {
     "id": "food-220",
     "category": "Food & drink",
-    "prompt": "Name an herb people grow on a kitchen windowsill.",
+    "prompt": "Name a reason someone buys two of the same treat.",
     "answers": [
       {
-        "text": "Basil",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Mint",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Parsley",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Chives",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Cilantro",
+        "text": "One for later",
         "aliases": [
-          "coriander leaves",
-          "fresh coriander"
+          "save one",
+          "saving one"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Sharing",
+        "aliases": [
+          "share it"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Sale",
+        "aliases": [
+          "on sale",
+          "discount"
+        ],
+        "points": 17
+      },
+      {
+        "text": "One isn't enough",
+        "aliases": [
+          "still hungry",
+          "want more"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Different family members want one",
+        "aliases": [
+          "family"
         ],
         "points": 8
       },
       {
-        "text": "Thyme",
-        "aliases": [],
-        "points": 6
+        "text": "Replacing one they ate",
+        "aliases": [
+          "replace stolen food"
+        ],
+        "points": 5
       }
     ]
   }

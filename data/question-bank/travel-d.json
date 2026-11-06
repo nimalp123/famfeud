@@ -2,47 +2,47 @@
   {
     "id": "travel-221",
     "category": "Travel & places",
-    "prompt": "Name a sound that is part of a relaxing day by the sea.",
+    "prompt": "Name the worst type of person to share a long car ride with.",
     "answers": [
       {
-        "text": "Waves",
+        "text": "A backseat driver",
         "aliases": [
-          "surf"
+          "back seat driver"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Seagulls",
+        "text": "A constant complainer",
         "aliases": [
-          "gulls"
+          "complainer"
         ],
         "points": 24
       },
       {
-        "text": "Wind",
+        "text": "A loud snorer",
         "aliases": [
-          "sea breeze"
+          "snorer"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Children laughing",
+        "text": "A nonstop talker",
         "aliases": [
-          "laughter"
+          "talks too much"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Boat engines",
+        "text": "A terrible DJ",
         "aliases": [
-          "motorboats"
+          "bad music taste"
         ],
         "points": 9
       },
       {
-        "text": "Music",
+        "text": "Someone who needs endless bathroom stops",
         "aliases": [
-          "beach music"
+          "tiny bladder"
         ],
         "points": 6
       }
@@ -51,44 +51,48 @@
   {
     "id": "travel-222",
     "category": "Travel & places",
-    "prompt": "Name something a child might use to decorate a sandcastle.",
+    "prompt": "Besides the music, what starts an argument during a road trip?",
     "answers": [
       {
-        "text": "Seashells",
+        "text": "The temperature",
         "aliases": [
-          "shells"
+          "air conditioning"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Pebbles",
+        "text": "Where to eat",
         "aliases": [
-          "small stones"
+          "food stop"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Seaweed",
-        "aliases": [],
+        "text": "Which route to take",
+        "aliases": [
+          "directions"
+        ],
         "points": 18
       },
       {
-        "text": "Small flags",
+        "text": "Who gets which seat",
         "aliases": [
-          "flags"
+          "seating"
         ],
         "points": 12
       },
       {
-        "text": "Driftwood",
+        "text": "Who has to drive",
         "aliases": [
-          "sticks"
+          "driving turns"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Feathers",
-        "aliases": [],
+        "text": "Who ate the snacks",
+        "aliases": [
+          "snack sharing"
+        ],
         "points": 6
       }
     ]
@@ -96,45 +100,47 @@
   {
     "id": "travel-223",
     "category": "Travel & places",
-    "prompt": "Name something visitors hope to spot in a tide pool.",
+    "prompt": "Name a lie a driver tells to keep the passengers calm.",
     "answers": [
       {
-        "text": "Crab",
-        "aliases": [],
-        "points": 28
+        "text": "We're almost there",
+        "aliases": [
+          "nearly there"
+        ],
+        "points": 34
       },
       {
-        "text": "Starfish",
+        "text": "There's plenty of gas",
         "aliases": [
-          "sea star"
+          "enough fuel"
         ],
         "points": 23
       },
       {
-        "text": "Sea anemone",
+        "text": "I'm wide awake",
         "aliases": [
-          "anemone"
+          "not tired"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Sea snail",
+        "text": "That noise is normal",
         "aliases": [
-          "snail"
+          "car sounds fine"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Small fish",
+        "text": "The weather will clear",
         "aliases": [
-          "fish"
+          "storm will pass"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Seaweed",
+        "text": "We have plenty of time",
         "aliases": [
-          "marine plants"
+          "we won't be late"
         ],
         "points": 6
       }
@@ -143,92 +149,96 @@
   {
     "id": "travel-224",
     "category": "Travel & places",
-    "prompt": "Name something a visitor might rent at a seaside activity stand.",
+    "prompt": "Name an excuse someone uses to claim the front passenger seat.",
     "answers": [
       {
-        "text": "Beach umbrella",
+        "text": "I get carsick",
         "aliases": [
-          "parasol"
+          "motion sickness"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Deck chair",
+        "text": "My legs are too long",
         "aliases": [
-          "sun lounger"
+          "tall"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Surfboard",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Paddleboard",
+        "text": "I'm navigating",
         "aliases": [
-          "SUP"
+          "reading the map"
         ],
-        "points": 11
+        "points": 19
       },
       {
-        "text": "Kayak",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Snorkeling gear",
+        "text": "I called shotgun",
         "aliases": [
-          "snorkel set"
+          "shotgun"
         ],
-        "points": 5
+        "points": 13
+      },
+      {
+        "text": "I need to control the music",
+        "aliases": [
+          "dj"
+        ],
+        "points": 10
+      },
+      {
+        "text": "My back hurts",
+        "aliases": [
+          "bad back"
+        ],
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-225",
     "category": "Travel & places",
-    "prompt": "Name something people draw or write in the sand for a photograph.",
+    "prompt": "Name an occasion when a car refusing to start would be especially embarrassing.",
     "answers": [
       {
-        "text": "Their name",
+        "text": "A first date",
         "aliases": [
-          "name"
+          "first date pickup"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Heart",
+        "text": "A job interview",
         "aliases": [
-          "love heart"
+          "interview"
         ],
         "points": 24
       },
       {
-        "text": "Date",
+        "text": "Your wedding",
         "aliases": [
-          "vacation date"
+          "wedding day"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Love message",
+        "text": "Giving the boss a ride",
         "aliases": [
-          "romantic message"
+          "driving your boss"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Smiley face",
+        "text": "Picking up a new car",
         "aliases": [
-          "happy face"
+          "leaving dealership"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Team name",
+        "text": "Showing off to friends",
         "aliases": [
-          "team logo"
+          "trying to impress friends"
         ],
         "points": 6
       }
@@ -237,44 +247,48 @@
   {
     "id": "travel-226",
     "category": "Travel & places",
-    "prompt": "Name something that catches your eye while walking through beach dunes.",
+    "prompt": "Name something a person does in the car that makes you question their hygiene.",
     "answers": [
       {
-        "text": "Tall grass",
+        "text": "Picks their nose",
         "aliases": [
-          "dune grass"
+          "nose picking"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Footprints",
+        "text": "Clips their nails",
         "aliases": [
-          "tracks"
+          "cuts toenails"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Ripples in the sand",
+        "text": "Leaves old food around",
         "aliases": [
-          "sand ripples"
+          "rotting food"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Wooden fences",
+        "text": "Puts bare feet on the dashboard",
         "aliases": [
-          "dune fences"
+          "bare feet"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Seabirds",
-        "aliases": [],
-        "points": 8
+        "text": "Uses the seat as a napkin",
+        "aliases": [
+          "wipes hands on seat"
+        ],
+        "points": 9
       },
       {
-        "text": "Driftwood",
-        "aliases": [],
+        "text": "Spits out the window",
+        "aliases": [
+          "spitting"
+        ],
         "points": 6
       }
     ]
@@ -282,46 +296,48 @@
   {
     "id": "travel-227",
     "category": "Travel & places",
-    "prompt": "Name something people complain about getting sand inside after a beach visit.",
+    "prompt": "Name something a driver might say just before making everyone nervous.",
     "answers": [
       {
-        "text": "Shoes",
+        "text": "Watch this",
         "aliases": [
-          "sandals"
+          "check this out"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Clothes",
+        "text": "I think I can fit",
         "aliases": [
-          "swimsuit"
+          "there's enough room"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Food",
+        "text": "What does that light mean",
         "aliases": [
-          "sandwiches"
+          "warning light"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Phone",
+        "text": "I can't see anything",
         "aliases": [
-          "cell phone"
+          "can't see"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Car",
+        "text": "That noise is probably fine",
         "aliases": [
-          "car seats"
+          "weird noise"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Hair",
-        "aliases": [],
+        "text": "Hold on",
+        "aliases": [
+          "brace yourself"
+        ],
         "points": 6
       }
     ]
@@ -329,94 +345,96 @@
   {
     "id": "travel-228",
     "category": "Travel & places",
-    "prompt": "Name a place someone displays shells collected on a seaside holiday.",
+    "prompt": "Name a car rule your friend invents that makes you want to walk.",
     "answers": [
       {
-        "text": "Glass jar",
+        "text": "No eating",
         "aliases": [
-          "jar"
+          "no food"
         ],
-        "points": 35
+        "points": 33
       },
       {
-        "text": "Bookshelf",
+        "text": "No talking",
         "aliases": [
-          "shelf"
+          "silence"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Windowsill",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Picture frame",
+        "text": "Only their music",
         "aliases": [
-          "photo frame"
+          "their playlist only"
         ],
-        "points": 11
+        "points": 17
       },
       {
-        "text": "Garden",
+        "text": "Shoes off",
         "aliases": [
-          "flower bed"
+          "remove shoes"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Pay for every ride",
+        "aliases": [
+          "charge for gas"
         ],
         "points": 8
       },
       {
-        "text": "Decorative bowl",
+        "text": "No touching anything",
         "aliases": [
-          "bowl"
+          "don't touch the controls"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-229",
     "category": "Travel & places",
-    "prompt": "Name a reason a family settles under a beach umbrella.",
+    "prompt": "Name something that makes a passenger suddenly stop criticizing the driver's route.",
     "answers": [
       {
-        "text": "Cool down",
+        "text": "They fall asleep",
         "aliases": [
-          "escape the heat"
+          "go to sleep"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Let a baby nap",
+        "text": "Their phone dies",
         "aliases": [
-          "baby sleeping"
+          "dead phone"
         ],
         "points": 24
       },
       {
-        "text": "Eat lunch",
+        "text": "They realize they're wrong",
         "aliases": [
-          "have a picnic"
+          "wrong directions"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Read comfortably",
+        "text": "The driver gets angry",
         "aliases": [
-          "read"
+          "driver snaps"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Avoid screen glare",
+        "text": "They see the destination",
         "aliases": [
-          "see their phone"
+          "arrive"
         ],
         "points": 9
       },
       {
-        "text": "Keep drinks cool",
+        "text": "They get distracted by food",
         "aliases": [
-          "shade the cooler"
+          "start eating"
         ],
         "points": 6
       }
@@ -425,47 +443,47 @@
   {
     "id": "travel-230",
     "category": "Travel & places",
-    "prompt": "Name a sight that tells you a beach is especially crowded.",
+    "prompt": "Name something a driver wishes a passenger would do without being asked.",
     "answers": [
       {
-        "text": "Rows of umbrellas",
+        "text": "Offer gas money",
         "aliases": [
-          "many umbrellas"
+          "pay for fuel"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Full parking lot",
+        "text": "Help navigate",
         "aliases": [
-          "no parking spaces"
+          "give directions"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Queues at food stands",
+        "text": "Keep them awake",
         "aliases": [
-          "food lines"
+          "make conversation"
         ],
         "points": 18
       },
       {
-        "text": "Towels close together",
+        "text": "Take their trash out",
         "aliases": [
-          "packed towels"
+          "clean up rubbish"
         ],
         "points": 12
       },
       {
-        "text": "Busy volleyball games",
+        "text": "Pass them a drink",
         "aliases": [
-          "beach games"
+          "hand over water"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "People wading shoulder to shoulder",
+        "text": "Offer to take a turn driving",
         "aliases": [
-          "crowded water"
+          "share driving"
         ],
         "points": 6
       }
@@ -474,43 +492,47 @@
   {
     "id": "travel-231",
     "category": "Travel & places",
-    "prompt": "Name a refreshment people buy from a beach kiosk.",
+    "prompt": "What might make you regret letting your friend choose the road-trip playlist?",
     "answers": [
       {
-        "text": "Ice cream",
+        "text": "They play one song repeatedly",
         "aliases": [
-          "ice lolly"
+          "song on repeat"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Bottled water",
+        "text": "They sing over every song",
         "aliases": [
-          "water"
+          "sing along loudly"
         ],
         "points": 23
       },
       {
-        "text": "Lemonade",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Hot dog",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "French fries",
+        "text": "They only choose sad songs",
         "aliases": [
-          "chips"
+          "breakup songs"
         ],
-        "points": 10
+        "points": 17
       },
       {
-        "text": "Fresh fruit",
+        "text": "They skip every song",
         "aliases": [
-          "fruit cup"
+          "constant skipping"
+        ],
+        "points": 12
+      },
+      {
+        "text": "They play music too loudly",
+        "aliases": [
+          "volume too high"
+        ],
+        "points": 8
+      },
+      {
+        "text": "They choose songs nobody knows",
+        "aliases": [
+          "obscure music"
         ],
         "points": 6
       }
@@ -519,96 +541,96 @@
   {
     "id": "travel-232",
     "category": "Travel & places",
-    "prompt": "Name something a family might realize they left behind on the beach.",
+    "prompt": "Name something a passenger does while the driver is struggling to concentrate.",
     "answers": [
       {
-        "text": "Towel",
+        "text": "Asks complicated questions",
         "aliases": [
-          "beach towel"
+          "asks questions"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Sunglasses",
+        "text": "Changes the music",
         "aliases": [
-          "shades"
+          "fiddles with radio"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Flip-flops",
+        "text": "Points at scenery",
         "aliases": [
-          "sandals"
+          "look over there"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Bucket and spade",
+        "text": "Shows them a phone screen",
         "aliases": [
-          "sand toys"
+          "shows a video"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Beach chair",
+        "text": "Eats something noisy",
         "aliases": [
-          "folding chair"
+          "crunches food"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Hat",
+        "text": "Argues with another passenger",
         "aliases": [
-          "sun hat"
+          "fights in back seat"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-233",
     "category": "Travel & places",
-    "prompt": "Name something visitors look for inside a national park visitor center.",
+    "prompt": "Name a reason nobody volunteers to drive the next stretch.",
     "answers": [
       {
-        "text": "Trail maps",
+        "text": "They're tired",
         "aliases": [
-          "maps"
+          "sleepy"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Nature exhibits",
+        "text": "The traffic is awful",
         "aliases": [
-          "displays"
+          "traffic jam"
         ],
         "points": 24
       },
       {
-        "text": "Gift shop",
+        "text": "It's raining hard",
         "aliases": [
-          "souvenir shop"
+          "bad weather"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Restrooms",
+        "text": "It's a difficult road",
         "aliases": [
-          "toilets"
+          "winding road"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Ranger information desk",
+        "text": "They've been drinking",
         "aliases": [
-          "help desk"
+          "had alcohol"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Park film",
+        "text": "It's someone else's turn",
         "aliases": [
-          "orientation video"
+          "already drove"
         ],
         "points": 6
       }
@@ -617,47 +639,47 @@
   {
     "id": "travel-234",
     "category": "Travel & places",
-    "prompt": "Name a topic on an information panel along a nature trail.",
+    "prompt": "Name something someone refuses to put in the trunk because they need it close by.",
     "answers": [
       {
-        "text": "Local wildlife",
+        "text": "Their phone",
         "aliases": [
-          "animals"
+          "cellphone"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Trees",
+        "text": "Snacks",
         "aliases": [
-          "plants"
+          "food"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Area history",
+        "text": "A handbag",
         "aliases": [
-          "local history"
+          "purse"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Rock formations",
+        "text": "Medication",
         "aliases": [
-          "geology"
+          "medicine"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Conservation",
+        "text": "A drink",
         "aliases": [
-          "habitat protection"
+          "water bottle"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Indigenous culture",
+        "text": "A pillow",
         "aliases": [
-          "traditional land use"
+          "travel pillow"
         ],
         "points": 6
       }
@@ -666,47 +688,47 @@
   {
     "id": "travel-235",
     "category": "Travel & places",
-    "prompt": "Name a question visitors ask a park ranger before exploring.",
+    "prompt": "Name something that ruins the excitement of finally getting the whole group into the car.",
     "answers": [
       {
-        "text": "Which trail is best",
+        "text": "Someone forgot something",
         "aliases": [
-          "trail recommendation"
+          "left something behind"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Where are the bathrooms",
+        "text": "The car won't start",
         "aliases": [
-          "restroom location"
+          "dead battery"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Where can we see wildlife",
+        "text": "Someone needs the bathroom",
         "aliases": [
-          "animal sightings"
+          "toilet break"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "When does the park close",
+        "text": "A friend calls asking for a ride",
         "aliases": [
-          "closing time"
+          "extra pickup"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Where can we picnic",
+        "text": "Not enough space",
         "aliases": [
-          "picnic location"
+          "bags won't fit"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "What is the forecast",
+        "text": "A fight starts",
         "aliases": [
-          "weather forecast"
+          "argument"
         ],
         "points": 6
       }
@@ -715,92 +737,96 @@
   {
     "id": "travel-236",
     "category": "Travel & places",
-    "prompt": "Name a landmark friends use as a meeting point in a large park.",
+    "prompt": "Name something you wish the other people in the car could not hear.",
     "answers": [
       {
-        "text": "Fountain",
-        "aliases": [],
-        "points": 35
-      },
-      {
-        "text": "Playground",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Bandstand",
+        "text": "You passing gas",
         "aliases": [
-          "gazebo"
+          "farting"
         ],
-        "points": 16
+        "points": 33
       },
       {
-        "text": "Big tree",
+        "text": "Your stomach growling",
         "aliases": [
-          "old oak"
+          "hungry stomach"
         ],
-        "points": 11
+        "points": 24
       },
       {
-        "text": "Main entrance",
+        "text": "A private phone conversation",
         "aliases": [
-          "front gate"
+          "personal call"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Your terrible singing",
+        "aliases": [
+          "singing badly"
+        ],
+        "points": 12
+      },
+      {
+        "text": "You burping",
+        "aliases": [
+          "belching"
         ],
         "points": 8
       },
       {
-        "text": "Statue",
+        "text": "You snoring",
         "aliases": [
-          "monument"
+          "loud snores"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-237",
     "category": "Travel & places",
-    "prompt": "Name a reason someone spends an afternoon in a botanical garden.",
+    "prompt": "Name something you quietly hope your friend won't bring on a road trip.",
     "answers": [
       {
-        "text": "See the flowers",
+        "text": "Their annoying partner",
         "aliases": [
-          "flower displays"
+          "boyfriend or girlfriend"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Relax",
+        "text": "Their dog",
         "aliases": [
-          "peace and quiet"
+          "pet"
         ],
         "points": 24
       },
       {
-        "text": "Take photographs",
+        "text": "Too much luggage",
         "aliases": [
-          "photography"
+          "huge suitcase"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Get gardening ideas",
+        "text": "A guitar",
         "aliases": [
-          "garden inspiration"
+          "musical instrument"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Go on a date",
+        "text": "Smelly food",
         "aliases": [
-          "romantic outing"
+          "stinky snacks"
         ],
         "points": 9
       },
       {
-        "text": "Learn about plants",
+        "text": "Their work",
         "aliases": [
-          "plant education"
+          "laptop for work"
         ],
         "points": 6
       }
@@ -809,40 +835,48 @@
   {
     "id": "travel-238",
     "category": "Travel & places",
-    "prompt": "Name a themed area visitors enjoy in a botanical garden.",
+    "prompt": "Name something that makes you suspect your driver is trying to impress someone.",
     "answers": [
       {
-        "text": "Rose garden",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Orchid house",
+        "text": "They drive too fast",
         "aliases": [
-          "orchid greenhouse"
+          "speeding"
         ],
-        "points": 24
+        "points": 30
       },
       {
-        "text": "Cactus garden",
+        "text": "They turn the music up",
         "aliases": [
-          "succulent garden"
+          "loud music"
+        ],
+        "points": 25
+      },
+      {
+        "text": "They keep fixing their hair",
+        "aliases": [
+          "checking their looks"
         ],
         "points": 18
       },
       {
-        "text": "Herb garden",
-        "aliases": [],
+        "text": "They brag about the car",
+        "aliases": [
+          "show off car"
+        ],
         "points": 12
       },
       {
-        "text": "Japanese garden",
-        "aliases": [],
-        "points": 8
+        "text": "They take a scenic detour",
+        "aliases": [
+          "scenic route"
+        ],
+        "points": 9
       },
       {
-        "text": "Butterfly garden",
-        "aliases": [],
+        "text": "They refuse to ask for help",
+        "aliases": [
+          "won't admit being lost"
+        ],
         "points": 6
       }
     ]
@@ -850,47 +884,47 @@
   {
     "id": "travel-239",
     "category": "Travel & places",
-    "prompt": "Name something that interrupts a peaceful picnic in a park.",
+    "prompt": "Name a clue that the driver has no idea where they're going.",
     "answers": [
       {
-        "text": "Ants",
+        "text": "They keep checking the map",
         "aliases": [
-          "insects on the food"
+          "looking at gps"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Rain",
+        "text": "They drive past the same place",
         "aliases": [
-          "shower"
+          "going in circles"
         ],
         "points": 23
       },
       {
-        "text": "Wind blowing things away",
+        "text": "They suddenly go quiet",
         "aliases": [
-          "gust of wind"
+          "stop talking"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Dropped food",
+        "text": "They make repeated U-turns",
         "aliases": [
-          "food on the ground"
+          "lots of u turns"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Spilled drink",
+        "text": "They blame the navigator",
         "aliases": [
-          "drink spill"
+          "blame passenger"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Hungry birds",
+        "text": "They slow down at every street",
         "aliases": [
-          "birds stealing food"
+          "reading every sign"
         ],
         "points": 6
       }
@@ -899,96 +933,96 @@
   {
     "id": "travel-240",
     "category": "Travel & places",
-    "prompt": "Name a reason visitors enjoy a boardwalk through a nature reserve.",
+    "prompt": "Name a reason someone ignores the navigation app.",
     "answers": [
       {
-        "text": "Easy walking",
+        "text": "They know a shortcut",
         "aliases": [
-          "smooth path"
+          "local knowledge"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Dry feet",
+        "text": "The route has tolls",
         "aliases": [
-          "avoid mud"
+          "avoid toll roads"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Birdwatching",
+        "text": "They don't trust it",
         "aliases": [
-          "bird views"
+          "bad past directions"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Wheelchair access",
+        "text": "They want better scenery",
         "aliases": [
-          "accessible route"
+          "scenic route"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Clear route",
+        "text": "They missed the instruction",
         "aliases": [
-          "easy to follow"
+          "didn't hear it"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Viewing platforms",
+        "text": "Their passenger insists",
         "aliases": [
-          "overlooks"
+          "someone tells them to"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-241",
     "category": "Travel & places",
-    "prompt": "Name an organized event that draws a crowd to a public park.",
+    "prompt": "Name something you'd hate to hear after your friend says they know a shortcut.",
     "answers": [
       {
-        "text": "Concert",
+        "text": "The road is closed",
         "aliases": [
-          "live music"
+          "closure"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Festival",
+        "text": "We're out of gas",
         "aliases": [
-          "community festival"
+          "empty tank"
         ],
         "points": 24
       },
       {
-        "text": "Farmers market",
+        "text": "I think we passed it",
         "aliases": [
-          "outdoor market"
+          "missed the turn"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Yoga class",
+        "text": "My phone has no signal",
         "aliases": [
-          "group yoga"
+          "no reception"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Outdoor movie",
+        "text": "This road isn't paved",
         "aliases": [
-          "movie screening"
+          "dirt road"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Fun run",
+        "text": "I haven't been here in years",
         "aliases": [
-          "charity run"
+          "outdated memory"
         ],
         "points": 6
       }
@@ -997,41 +1031,47 @@
   {
     "id": "travel-242",
     "category": "Travel & places",
-    "prompt": "Name something that gets children excited at a park pond.",
+    "prompt": "Name a place you might accidentally end up after entering the wrong address.",
     "answers": [
       {
-        "text": "Ducks",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Turtles",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Fish",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Lily pads",
+        "text": "Someone else's house",
         "aliases": [
-          "water lilies"
+          "wrong house"
         ],
-        "points": 12
+        "points": 29
       },
       {
-        "text": "Fountain",
+        "text": "A different town",
         "aliases": [
-          "water jets"
+          "wrong city"
         ],
-        "points": 8
+        "points": 23
       },
       {
-        "text": "Little bridge",
+        "text": "A warehouse",
         "aliases": [
-          "footbridge"
+          "industrial estate"
+        ],
+        "points": 19
+      },
+      {
+        "text": "An empty lot",
+        "aliases": [
+          "vacant land"
+        ],
+        "points": 14
+      },
+      {
+        "text": "The wrong restaurant",
+        "aliases": [
+          "different branch"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A cemetery",
+        "aliases": [
+          "graveyard"
         ],
         "points": 6
       }
@@ -1040,45 +1080,47 @@
   {
     "id": "travel-243",
     "category": "Travel & places",
-    "prompt": "Name somewhere people sit when taking a break in a park.",
+    "prompt": "Name something people blame when they get lost together.",
     "answers": [
       {
-        "text": "Bench",
+        "text": "The navigation app",
         "aliases": [
-          "park bench"
+          "gps"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Grass",
+        "text": "The person reading directions",
         "aliases": [
-          "lawn"
+          "navigator"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Picnic table",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Fallen log",
+        "text": "Missing road signs",
         "aliases": [
-          "log"
+          "bad signs"
         ],
-        "points": 14
+        "points": 18
       },
       {
-        "text": "Steps",
+        "text": "The driver",
         "aliases": [
-          "stairway"
+          "person driving"
         ],
-        "points": 10
+        "points": 12
       },
       {
-        "text": "Blanket",
+        "text": "Roadworks",
         "aliases": [
-          "picnic blanket"
+          "construction"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A dead phone",
+        "aliases": [
+          "phone battery"
         ],
         "points": 6
       }
@@ -1087,96 +1129,96 @@
   {
     "id": "travel-244",
     "category": "Travel & places",
-    "prompt": "Name a national park someone might put on a vacation wish list.",
+    "prompt": "Name something that makes asking a stranger for directions awkward.",
     "answers": [
       {
-        "text": "Yellowstone",
+        "text": "You can't pronounce the place",
         "aliases": [
-          "Yellowstone National Park"
+          "mispronounce destination"
         ],
-        "points": 35
+        "points": 33
       },
       {
-        "text": "Yosemite",
+        "text": "You already asked them",
         "aliases": [
-          "Yosemite National Park"
+          "same person twice"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Grand Canyon",
+        "text": "They talk too fast",
         "aliases": [
-          "Grand Canyon National Park"
+          "can't follow directions"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Banff",
+        "text": "They point everywhere",
         "aliases": [
-          "Banff National Park"
+          "confusing gestures"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Zion",
+        "text": "You don't speak their language",
         "aliases": [
-          "Zion National Park"
+          "language barrier"
         ],
         "points": 8
       },
       {
-        "text": "Serengeti",
+        "text": "You realize it's right behind you",
         "aliases": [
-          "Serengeti National Park"
+          "destination is behind you"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-245",
     "category": "Travel & places",
-    "prompt": "Name a smell people associate with a woodland walk.",
+    "prompt": "Name a reason a passenger pretends to understand the directions.",
     "answers": [
       {
-        "text": "Pine",
+        "text": "They're embarrassed",
         "aliases": [
-          "pine trees"
+          "too embarrassed to ask"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Damp earth",
+        "text": "They weren't listening",
         "aliases": [
-          "wet soil"
+          "didn't pay attention"
         ],
         "points": 24
       },
       {
-        "text": "Wildflowers",
+        "text": "The person talked too fast",
         "aliases": [
-          "flowers"
+          "spoke quickly"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Woodsmoke",
+        "text": "They don't want to seem rude",
         "aliases": [
-          "campfire smoke"
+          "being polite"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Wild garlic",
+        "text": "They think the app will help",
         "aliases": [
-          "garlic"
+          "use gps later"
         ],
         "points": 9
       },
       {
-        "text": "Fallen leaves",
+        "text": "The driver is impatient",
         "aliases": [
-          "rotting leaves"
+          "driver wants to leave"
         ],
         "points": 6
       }
@@ -1185,42 +1227,48 @@
   {
     "id": "travel-246",
     "category": "Travel & places",
-    "prompt": "Name a small discovery that makes a child stop on a nature walk.",
+    "prompt": "Name something that makes a navigation app sound judgmental.",
     "answers": [
       {
-        "text": "Butterfly",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Mushroom",
+        "text": "Recalculating again",
         "aliases": [
-          "toadstool"
+          "rerouting"
         ],
-        "points": 24
+        "points": 30
       },
       {
-        "text": "Animal footprints",
+        "text": "Telling you to turn around",
         "aliases": [
-          "animal tracks"
+          "make a u turn"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Repeating the same instruction",
+        "aliases": [
+          "repeats itself"
         ],
         "points": 18
       },
       {
-        "text": "Spiderweb",
+        "text": "Announcing a late arrival",
         "aliases": [
-          "cobweb"
+          "arrival time increases"
         ],
         "points": 12
       },
       {
-        "text": "Squirrel",
-        "aliases": [],
-        "points": 8
+        "text": "Saying you missed the exit",
+        "aliases": [
+          "missed turn"
+        ],
+        "points": 9
       },
       {
-        "text": "Acorn",
-        "aliases": [],
+        "text": "Telling you to walk",
+        "aliases": [
+          "walking route"
+        ],
         "points": 6
       }
     ]
@@ -1228,47 +1276,47 @@
   {
     "id": "travel-247",
     "category": "Travel & places",
-    "prompt": "Name a reason hikers pause halfway up a hill.",
+    "prompt": "Name something a couple might do after arguing about directions.",
     "answers": [
       {
-        "text": "Catch their breath",
+        "text": "Stop talking",
         "aliases": [
-          "rest"
+          "silent treatment"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Enjoy the view",
+        "text": "Pull over",
         "aliases": [
-          "admire the scenery"
+          "stop the car"
         ],
         "points": 23
       },
       {
-        "text": "Take a photograph",
+        "text": "Ask someone else",
         "aliases": [
-          "take pictures"
+          "ask a stranger"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Eat a snack",
+        "text": "Switch navigators",
         "aliases": [
-          "snack break"
+          "swap map duties"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Tie a shoelace",
+        "text": "Turn the music up",
         "aliases": [
-          "fix their laces"
+          "loud radio"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Check the map",
+        "text": "Laugh about it",
         "aliases": [
-          "check the route"
+          "make up"
         ],
         "points": 6
       }
@@ -1277,93 +1325,97 @@
   {
     "id": "travel-248",
     "category": "Travel & places",
-    "prompt": "Name something that makes a hike less enjoyable than expected.",
+    "prompt": "Name a place where you'd hate to realize you've taken the wrong turn.",
     "answers": [
       {
-        "text": "Blisters",
+        "text": "A highway",
         "aliases": [
-          "sore feet"
+          "motorway"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Biting insects",
+        "text": "A mountain road",
         "aliases": [
-          "bugs"
+          "steep road"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Mud",
+        "text": "A bad neighborhood",
         "aliases": [
-          "muddy path"
+          "unsafe area"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Steep climbs",
+        "text": "A one-way street",
         "aliases": [
-          "uphill sections"
+          "one way road"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Crowds",
+        "text": "A border crossing",
         "aliases": [
-          "busy trail"
+          "country border"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Rain",
+        "text": "A dead-end street",
         "aliases": [
-          "wet weather"
+          "cul de sac"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-249",
     "category": "Travel & places",
-    "prompt": "Name a surface you might walk over on a hiking trail.",
+    "prompt": "Name something that makes you nervous about a roadside diner before you go inside.",
     "answers": [
       {
-        "text": "Dirt",
+        "text": "An empty parking lot",
         "aliases": [
-          "earth"
+          "no customers"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Rocks",
+        "text": "A dirty window",
         "aliases": [
-          "stone"
+          "looks filthy"
         ],
         "points": 24
       },
       {
-        "text": "Gravel",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Wooden steps",
+        "text": "A terrible online review",
         "aliases": [
-          "timber stairs"
+          "bad reviews"
         ],
-        "points": 13
+        "points": 16
       },
       {
-        "text": "Tree roots",
+        "text": "A flickering sign",
         "aliases": [
-          "roots"
+          "broken sign"
         ],
-        "points": 9
+        "points": 11
       },
       {
-        "text": "Sand",
-        "aliases": [],
+        "text": "A strange smell",
+        "aliases": [
+          "bad odor"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A menu that does everything",
+        "aliases": [
+          "huge menu"
+        ],
         "points": 6
       }
     ]
@@ -1371,47 +1423,47 @@
   {
     "id": "travel-250",
     "category": "Travel & places",
-    "prompt": "Name a landmark hikers mention when describing a trail route.",
+    "prompt": "Name something people buy at a gas station even though they didn't need gas.",
     "answers": [
       {
-        "text": "Bridge",
+        "text": "Chips",
         "aliases": [
-          "footbridge"
+          "crisps"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Signpost",
+        "text": "An energy drink",
         "aliases": [
-          "trail sign"
+          "energy drinks"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Large boulder",
+        "text": "Chocolate",
         "aliases": [
-          "big rock"
+          "chocolate bar"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Fallen tree",
+        "text": "Lottery tickets",
         "aliases": [
-          "downed tree"
+          "scratch cards"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Stream crossing",
+        "text": "Coffee",
         "aliases": [
-          "creek crossing"
+          "cup of coffee"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Fork in the path",
+        "text": "Cigarettes",
         "aliases": [
-          "trail junction"
+          "smokes"
         ],
         "points": 6
       }
@@ -1420,45 +1472,47 @@
   {
     "id": "travel-251",
     "category": "Travel & places",
-    "prompt": "Name something hikers hope to find around the next bend.",
+    "prompt": "Name something someone brings back from a rest stop that nobody asked for.",
     "answers": [
       {
-        "text": "Scenic view",
+        "text": "A giant snack bag",
         "aliases": [
-          "viewpoint"
+          "too many snacks"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Waterfall",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Shade",
+        "text": "A tacky souvenir",
         "aliases": [
-          "shady trees"
+          "souvenir"
         ],
-        "points": 19
+        "points": 25
       },
       {
-        "text": "Bench",
+        "text": "A new travel pillow",
         "aliases": [
-          "place to sit"
+          "neck pillow"
         ],
-        "points": 14
+        "points": 18
       },
       {
-        "text": "End of the trail",
+        "text": "A huge drink",
         "aliases": [
-          "trail exit"
+          "giant soda"
         ],
-        "points": 10
+        "points": 12
       },
       {
-        "text": "Stream",
+        "text": "A free newspaper",
         "aliases": [
-          "creek"
+          "brochure"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A new friend",
+        "aliases": [
+          "someone they met"
         ],
         "points": 6
       }
@@ -1467,96 +1521,96 @@
   {
     "id": "travel-252",
     "category": "Travel & places",
-    "prompt": "Name something that makes a forest trail feel magical.",
+    "prompt": "Name a reason a quick roadside stop turns into half an hour.",
     "answers": [
       {
-        "text": "Moss-covered trees",
+        "text": "A long bathroom line",
         "aliases": [
-          "moss"
+          "toilet queue"
         ],
-        "points": 35
+        "points": 33
       },
       {
-        "text": "Ancient trees",
+        "text": "Someone orders hot food",
         "aliases": [
-          "huge old trees"
+          "waiting for food"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Sunbeams",
+        "text": "Shopping for souvenirs",
         "aliases": [
-          "shafts of light"
+          "gift shop"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Mist",
+        "text": "A passenger goes missing",
         "aliases": [
-          "fog"
+          "can't find someone"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Wildflowers",
+        "text": "The car needs attention",
         "aliases": [
-          "flower carpet"
+          "car trouble"
         ],
         "points": 8
       },
       {
-        "text": "Birdsong",
+        "text": "Someone starts chatting",
         "aliases": [
-          "singing birds"
+          "talking to strangers"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-253",
     "category": "Travel & places",
-    "prompt": "Name a sound that makes walkers stop and listen in the woods.",
+    "prompt": "Name something you try not to touch in a rest-stop bathroom.",
     "answers": [
       {
-        "text": "Woodpecker",
+        "text": "Toilet seat",
         "aliases": [
-          "tapping bird"
+          "seat"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Running stream",
+        "text": "Door handle",
         "aliases": [
-          "flowing creek"
+          "door knob"
         ],
         "points": 24
       },
       {
-        "text": "Rustling leaves",
+        "text": "Floor",
         "aliases": [
-          "leaves moving"
+          "bathroom floor"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Distant waterfall",
+        "text": "Faucet",
         "aliases": [
-          "roaring falls"
+          "tap"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Buzzing insects",
+        "text": "Flush handle",
         "aliases": [
-          "bees buzzing"
+          "flush button"
         ],
         "points": 9
       },
       {
-        "text": "Frogs",
+        "text": "Hand dryer",
         "aliases": [
-          "croaking"
+          "dryer"
         ],
         "points": 6
       }
@@ -1565,45 +1619,47 @@
   {
     "id": "travel-254",
     "category": "Travel & places",
-    "prompt": "Name a game children turn a nature walk into.",
+    "prompt": "Name something someone leaves on the car roof and then drives away.",
     "answers": [
       {
-        "text": "Treasure hunt",
+        "text": "A drink",
         "aliases": [
-          "scavenger hunt"
+          "coffee cup"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Race",
+        "text": "Their phone",
         "aliases": [
-          "running race"
+          "cellphone"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Bug hunt",
+        "text": "Spare keys",
         "aliases": [
-          "insect hunt"
+          "extra keys"
         ],
         "points": 18
       },
       {
-        "text": "Storytelling game",
+        "text": "A wallet",
         "aliases": [
-          "imaginary adventure"
+          "purse"
         ],
         "points": 12
       },
       {
-        "text": "Follow the leader",
-        "aliases": [],
-        "points": 8
+        "text": "A bag",
+        "aliases": [
+          "handbag"
+        ],
+        "points": 9
       },
       {
-        "text": "Rock collecting",
+        "text": "A takeout box",
         "aliases": [
-          "stone collecting"
+          "food box"
         ],
         "points": 6
       }
@@ -1612,47 +1668,47 @@
   {
     "id": "travel-255",
     "category": "Travel & places",
-    "prompt": "Name something on a nature path that slows down a stroller.",
+    "prompt": "Name a roadside attraction you might stop for even if you're already running late.",
     "answers": [
       {
-        "text": "Steps",
+        "text": "A giant statue",
         "aliases": [
-          "stairs"
+          "giant object"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Tree roots",
+        "text": "A beautiful viewpoint",
         "aliases": [
-          "roots"
+          "scenic overlook"
         ],
         "points": 23
       },
       {
-        "text": "Deep mud",
+        "text": "A waterfall",
         "aliases": [
-          "mud"
+          "falls"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Narrow sections",
+        "text": "A famous food stand",
         "aliases": [
-          "narrow path"
+          "famous restaurant"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Large rocks",
+        "text": "An animal farm",
         "aliases": [
-          "boulders"
+          "petting zoo"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Steep slopes",
+        "text": "A weird museum",
         "aliases": [
-          "steep hill"
+          "unusual museum"
         ],
         "points": 6
       }
@@ -1661,94 +1717,96 @@
   {
     "id": "travel-256",
     "category": "Travel & places",
-    "prompt": "Name a reward people look forward to after a long hike.",
+    "prompt": "Name something that makes you say, 'We should have stopped at the last gas station.'",
     "answers": [
       {
-        "text": "Cold drink",
+        "text": "The fuel light comes on",
         "aliases": [
-          "refreshing drink"
+          "low gas"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Big meal",
+        "text": "Someone needs the bathroom",
         "aliases": [
-          "dinner"
+          "desperate to pee"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Hot shower",
+        "text": "Everyone is hungry",
         "aliases": [
-          "shower"
+          "no food"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Putting their feet up",
+        "text": "The next one is closed",
         "aliases": [
-          "resting"
+          "closed station"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Ice cream",
-        "aliases": [],
-        "points": 8
+        "text": "The car starts making a noise",
+        "aliases": [
+          "car trouble"
+        ],
+        "points": 10
       },
       {
-        "text": "Taking off their boots",
+        "text": "The driver needs coffee",
         "aliases": [
-          "changing shoes"
+          "desperate for caffeine"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-257",
     "category": "Travel & places",
-    "prompt": "Name a place along a trail where visitors are pleased to find a bench.",
+    "prompt": "Name a reason someone buys a ridiculous souvenir during a road trip.",
     "answers": [
       {
-        "text": "Scenic overlook",
+        "text": "It made them laugh",
         "aliases": [
-          "viewpoint"
+          "it's funny"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Trail junction",
+        "text": "They collect them",
         "aliases": [
-          "path crossroads"
+          "collection"
         ],
         "points": 24
       },
       {
-        "text": "Beside a pond",
+        "text": "It's a gift",
         "aliases": [
-          "pond edge"
+          "for someone else"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Top of a steep climb",
+        "text": "It was cheap",
         "aliases": [
-          "hilltop"
+          "on sale"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Trail entrance",
+        "text": "They lost a bet",
         "aliases": [
-          "trailhead"
+          "dare"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Near a waterfall",
+        "text": "They want proof they visited",
         "aliases": [
-          "waterfall viewpoint"
+          "remember the trip"
         ],
         "points": 6
       }
@@ -1757,47 +1815,47 @@
   {
     "id": "travel-258",
     "category": "Travel & places",
-    "prompt": "Name something a good nature guide adds to a walk.",
+    "prompt": "Name something that makes a driver jealous while they're stuck in traffic.",
     "answers": [
       {
-        "text": "Animal identification",
+        "text": "A moving lane",
         "aliases": [
-          "names of animals"
+          "faster lane"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Interesting stories",
+        "text": "A motorcycle slipping past",
         "aliases": [
-          "local stories"
+          "motorbike"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Hidden spots",
+        "text": "A cyclist passing",
         "aliases": [
-          "secret viewpoints"
+          "bicycle"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Help finding the way",
+        "text": "A train going by",
         "aliases": [
-          "route guidance"
+          "public transit"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Answers to questions",
+        "text": "Someone walking faster",
         "aliases": [
-          "expert knowledge"
+          "pedestrian"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Friendly company",
+        "text": "A car using the carpool lane",
         "aliases": [
-          "conversation"
+          "carpool lane"
         ],
         "points": 6
       }
@@ -1806,45 +1864,47 @@
   {
     "id": "travel-259",
     "category": "Travel & places",
-    "prompt": "Name something you look up and see above a forest path.",
+    "prompt": "Name a reason somebody takes forever to park.",
     "answers": [
       {
-        "text": "Branches",
+        "text": "The space is tiny",
         "aliases": [
-          "tree limbs"
+          "small space"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Leaves",
+        "text": "They're afraid of scratching the car",
         "aliases": [
-          "leaf canopy"
+          "damage car"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Birds",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Patches of sky",
+        "text": "People are watching",
         "aliases": [
-          "sky"
+          "being watched"
         ],
-        "points": 14
+        "points": 18
       },
       {
-        "text": "Hanging vines",
+        "text": "They're learning",
         "aliases": [
-          "vines"
+          "new driver"
         ],
-        "points": 10
+        "points": 12
       },
       {
-        "text": "Treehouse",
+        "text": "They keep changing their mind",
         "aliases": [
-          "tree house"
+          "can't choose spot"
+        ],
+        "points": 8
+      },
+      {
+        "text": "The parking camera is confusing",
+        "aliases": [
+          "can't use camera"
         ],
         "points": 6
       }
@@ -1853,96 +1913,96 @@
   {
     "id": "travel-260",
     "category": "Travel & places",
-    "prompt": "Name something that makes a woodland setting feel spooky.",
+    "prompt": "Name something a passenger says that makes parallel parking even worse.",
     "answers": [
       {
-        "text": "Fog",
+        "text": "You're too close",
         "aliases": [
-          "mist"
+          "watch that car"
         ],
-        "points": 35
+        "points": 33
       },
       {
-        "text": "Darkness",
+        "text": "Everyone is waiting",
         "aliases": [
-          "nightfall"
+          "holding up traffic"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Creaking trees",
+        "text": "Want me to do it",
         "aliases": [
-          "creaking branches"
+          "let me drive"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Owl calls",
+        "text": "Turn the other way",
         "aliases": [
-          "hooting"
+          "wrong direction"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Shadows",
+        "text": "You missed a bigger space",
         "aliases": [
-          "moving shadows"
+          "better space back there"
         ],
         "points": 8
       },
       {
-        "text": "Abandoned cabin",
+        "text": "This is embarrassing",
         "aliases": [
-          "empty hut"
+          "people are laughing"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-261",
     "category": "Travel & places",
-    "prompt": "Name a pose people strike for a photo after reaching a mountain summit.",
+    "prompt": "Name a parking spot people get excited about finding.",
     "answers": [
       {
-        "text": "Arms raised",
+        "text": "One right by the entrance",
         "aliases": [
-          "hands in the air"
+          "close to door"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Jumping",
+        "text": "A free one",
         "aliases": [
-          "jump shot"
+          "no charge"
         ],
         "points": 24
       },
       {
-        "text": "Pointing at the view",
+        "text": "A shady one",
         "aliases": [
-          "pointing"
+          "under a tree"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Victory sign",
+        "text": "A huge one",
         "aliases": [
-          "peace sign"
+          "lots of room"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Hugging",
+        "text": "One near the exit",
         "aliases": [
-          "group hug"
+          "easy getaway"
         ],
         "points": 9
       },
       {
-        "text": "Back to back",
+        "text": "One with no cars beside it",
         "aliases": [
-          "back-to-back pose"
+          "empty neighboring spaces"
         ],
         "points": 6
       }
@@ -1951,47 +2011,47 @@
   {
     "id": "travel-262",
     "category": "Travel & places",
-    "prompt": "Name something that gives a mountain village its picture-postcard look.",
+    "prompt": "Name a reason you'd pretend not to see someone waving from another car.",
     "answers": [
       {
-        "text": "Snowy peaks",
+        "text": "It's your ex",
         "aliases": [
-          "snowcapped mountains"
+          "former partner"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Wooden chalets",
+        "text": "You can't remember their name",
         "aliases": [
-          "alpine houses"
+          "forgot name"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "River",
+        "text": "You're eating like an animal",
         "aliases": [
-          "mountain stream"
+          "messy eating"
         ],
         "points": 18
       },
       {
-        "text": "Pine forests",
+        "text": "You're singing embarrassingly",
         "aliases": [
-          "evergreen trees"
+          "caught singing"
         ],
         "points": 12
       },
       {
-        "text": "Cable cars",
+        "text": "You look terrible",
         "aliases": [
-          "gondolas"
+          "bad appearance"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Flower-filled balconies",
+        "text": "They want to cut in",
         "aliases": [
-          "flower boxes"
+          "merge ahead"
         ],
         "points": 6
       }
@@ -2000,47 +2060,47 @@
   {
     "id": "travel-263",
     "category": "Travel & places",
-    "prompt": "Name a winter mountain activity for someone who does not ski.",
+    "prompt": "Name something you panic about immediately after locking your car.",
     "answers": [
       {
-        "text": "Sledding",
+        "text": "The keys are inside",
         "aliases": [
-          "tobogganing"
+          "locked keys in"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Snowshoeing",
+        "text": "The lights are on",
         "aliases": [
-          "snowshoe walk"
+          "headlights"
         ],
         "points": 23
       },
       {
-        "text": "Ice skating",
+        "text": "A window is open",
         "aliases": [
-          "skating"
+          "forgot window"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Snow tubing",
+        "text": "You forgot where you parked",
         "aliases": [
-          "tubing"
+          "lost car"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Soaking in hot springs",
+        "text": "Something valuable is visible",
         "aliases": [
-          "hot springs"
+          "wallet on seat"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Scenic winter walk",
+        "text": "You left the engine running",
         "aliases": [
-          "winter hiking"
+          "car still running"
         ],
         "points": 6
       }
@@ -2049,96 +2109,97 @@
   {
     "id": "travel-264",
     "category": "Travel & places",
-    "prompt": "Name something skiers do during a break in a mountain lodge.",
+    "prompt": "Name something that makes finding your car in a parking lot embarrassing.",
     "answers": [
       {
-        "text": "Drink hot chocolate",
+        "text": "It's right in front of you",
         "aliases": [
-          "hot drink"
+          "walked past it"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Warm up",
+        "text": "You try the wrong car",
         "aliases": [
-          "sit by the fire"
+          "wrong vehicle"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Eat lunch",
+        "text": "You set off an alarm",
         "aliases": [
-          "eat a snack"
+          "car alarm"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Dry their gloves",
+        "text": "Your friends find it first",
         "aliases": [
-          "dry wet gear"
+          "friends spot it"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Adjust their equipment",
+        "text": "You argue about the row",
         "aliases": [
-          "fix their boots"
+          "wrong row"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Take photographs",
+        "text": "You need a security guard to help",
         "aliases": [
-          "take photos"
+          "ask security",
+          "staff have to help"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-265",
     "category": "Travel & places",
-    "prompt": "Name something passengers admire from a mountain chairlift.",
+    "prompt": "Name something you might do to avoid paying for expensive parking.",
     "answers": [
       {
-        "text": "Ski slopes",
+        "text": "Park farther away",
         "aliases": [
-          "ski runs"
+          "walk farther"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Mountain peaks",
+        "text": "Take public transport",
         "aliases": [
-          "summits"
+          "ride the bus"
         ],
         "points": 24
       },
       {
-        "text": "Forests",
+        "text": "Ask for a ride",
         "aliases": [
-          "trees"
+          "friend drops you"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Valleys",
+        "text": "Share a car with friends",
         "aliases": [
-          "valley floor"
+          "carpool"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Lake",
+        "text": "Leave sooner",
         "aliases": [
-          "mountain lake"
+          "beat the charge"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Wildlife",
+        "text": "Pretend you're a customer elsewhere",
         "aliases": [
-          "animals"
+          "use another lot"
         ],
         "points": 6
       }
@@ -2147,47 +2208,47 @@
   {
     "id": "travel-266",
     "category": "Travel & places",
-    "prompt": "Name a change visitors notice in the mountains when spring arrives.",
+    "prompt": "Name something that makes you regret parking under a tree.",
     "answers": [
       {
-        "text": "Melting snow",
+        "text": "Bird droppings",
         "aliases": [
-          "snowmelt"
+          "bird poop"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Flowers blooming",
+        "text": "Sticky sap",
         "aliases": [
-          "wildflowers"
+          "tree sap"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Rushing streams",
+        "text": "Falling branches",
         "aliases": [
-          "full streams"
+          "branch on car"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Green meadows",
+        "text": "Leaves everywhere",
         "aliases": [
-          "green grass"
+          "covered in leaves"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Birds returning",
+        "text": "Bugs get inside",
         "aliases": [
-          "more birds"
+          "ants"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Longer daylight",
+        "text": "You can't see the car from far away",
         "aliases": [
-          "longer days"
+          "hidden car"
         ],
         "points": 6
       }
@@ -2196,47 +2257,47 @@
   {
     "id": "travel-267",
     "category": "Travel & places",
-    "prompt": "Name a feature that makes a mountain overlook popular with visitors.",
+    "prompt": "Name something a date might find in your car that you wish they hadn't.",
     "answers": [
       {
-        "text": "Wide view",
+        "text": "Old food",
         "aliases": [
-          "panorama"
+          "moldy takeout"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Easy access",
+        "text": "An ex's belongings",
         "aliases": [
-          "short walk"
+          "ex partner's stuff"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Nearby parking",
+        "text": "Embarrassing music",
         "aliases": [
-          "parking"
+          "cringe playlist"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Sunrise view",
+        "text": "An unpaid parking ticket",
         "aliases": [
-          "sunrise"
+          "parking fine"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Few crowds",
+        "text": "A child's toy",
         "aliases": [
-          "quiet atmosphere"
+          "baby toy"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Picnic space",
+        "text": "A pile of dirty clothes",
         "aliases": [
-          "picnic tables"
+          "dirty laundry"
         ],
         "points": 6
       }
@@ -2245,94 +2306,96 @@
   {
     "id": "travel-268",
     "category": "Travel & places",
-    "prompt": "Name something people do while visiting a natural hot spring.",
+    "prompt": "Name something that could ruin a romantic moment in a parked car.",
     "answers": [
       {
-        "text": "Soak",
+        "text": "Someone knocks on the window",
         "aliases": [
-          "bathe"
+          "person interrupts"
         ],
-        "points": 35
+        "points": 33
       },
       {
-        "text": "Relax",
+        "text": "The horn goes off",
         "aliases": [
-          "unwind"
+          "accidental honk"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Take photographs",
+        "text": "A phone rings",
         "aliases": [
-          "take pictures"
+          "incoming call"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Chat",
+        "text": "A bad smell",
         "aliases": [
-          "talk"
+          "someone farts"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Admire the scenery",
+        "text": "The windows fog up",
         "aliases": [
-          "enjoy the view"
+          "steamy windows"
         ],
         "points": 8
       },
       {
-        "text": "Cool off between dips",
+        "text": "The seat won't recline",
         "aliases": [
-          "take a cooling break"
+          "stuck seat"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-269",
     "category": "Travel & places",
-    "prompt": "Name something visitors hope to see on a guided cave tour.",
+    "prompt": "Name something a driver does that could make a date lose interest.",
     "answers": [
       {
-        "text": "Stalactites",
+        "text": "Road rage",
         "aliases": [
-          "hanging formations"
+          "yells at drivers"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Underground river",
+        "text": "Texts while driving",
         "aliases": [
-          "subterranean stream"
+          "uses phone"
         ],
         "points": 24
       },
       {
-        "text": "Bats",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Huge chambers",
+        "text": "Drives recklessly",
         "aliases": [
-          "caverns"
+          "speeding"
         ],
-        "points": 13
+        "points": 17
       },
       {
-        "text": "Crystals",
+        "text": "Brags about the car",
         "aliases": [
-          "sparkling minerals"
+          "showing off"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Insults the date's music",
+        "aliases": [
+          "criticizes playlist"
         ],
         "points": 9
       },
       {
-        "text": "Ancient cave paintings",
+        "text": "Refuses to pay for parking",
         "aliases": [
-          "rock art"
+          "cheap parking argument"
         ],
         "points": 6
       }
@@ -2341,39 +2404,48 @@
   {
     "id": "travel-270",
     "category": "Travel & places",
-    "prompt": "Name something visitors make during a snowy day in the mountains.",
+    "prompt": "Name something you'd hate your crush to catch you doing at a red light.",
     "answers": [
       {
-        "text": "Snowman",
-        "aliases": [],
-        "points": 32
+        "text": "Picking your nose",
+        "aliases": [
+          "nose picking"
+        ],
+        "points": 30
       },
       {
-        "text": "Snow angel",
-        "aliases": [],
-        "points": 24
+        "text": "Singing at full volume",
+        "aliases": [
+          "singing loudly",
+          "belting a song"
+        ],
+        "points": 25
       },
       {
-        "text": "Snowball",
-        "aliases": [],
+        "text": "Talking to yourself",
+        "aliases": [
+          "self conversation"
+        ],
         "points": 18
       },
       {
-        "text": "Igloo",
-        "aliases": [],
+        "text": "Crying",
+        "aliases": [
+          "tears"
+        ],
         "points": 12
       },
       {
-        "text": "Footprint trail",
+        "text": "Eating with your mouth full",
         "aliases": [
-          "tracks in the snow"
+          "messy eating"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Snow fort",
+        "text": "Checking yourself in the mirror",
         "aliases": [
-          "snow castle"
+          "admiring yourself"
         ],
         "points": 6
       }
@@ -2382,45 +2454,47 @@
   {
     "id": "travel-271",
     "category": "Travel & places",
-    "prompt": "Name something people say when a spectacular mountain view appears.",
+    "prompt": "Name a reason someone takes the long way home after dropping off a date.",
     "answers": [
       {
-        "text": "Wow",
-        "aliases": [],
-        "points": 28
+        "text": "They're too happy to go home",
+        "aliases": [
+          "enjoying the moment"
+        ],
+        "points": 34
       },
       {
-        "text": "It is beautiful",
+        "text": "They need to calm down",
         "aliases": [
-          "beautiful"
+          "nervous energy"
         ],
         "points": 23
       },
       {
-        "text": "Look how high it is",
+        "text": "They're replaying the conversation",
         "aliases": [
-          "so high"
+          "thinking about date"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Take a picture",
+        "text": "They don't want to face roommates",
         "aliases": [
-          "take a photo"
+          "questions at home"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Look at the snow",
+        "text": "They got lost",
         "aliases": [
-          "so much snow"
+          "wrong turn"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "We climbed that",
+        "text": "They want to finish a song",
         "aliases": [
-          "we made it up there"
+          "music still playing"
         ],
         "points": 6
       }
@@ -2429,94 +2503,96 @@
   {
     "id": "travel-272",
     "category": "Travel & places",
-    "prompt": "Name a color that makes people stop to admire a lake.",
+    "prompt": "Name something you do in your car to feel ready for a job interview.",
     "answers": [
       {
-        "text": "Blue",
+        "text": "Practice a confident smile",
         "aliases": [
-          "deep blue"
+          "practice smiling"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Turquoise",
+        "text": "Practice your answers",
         "aliases": [
-          "aqua"
+          "rehearse"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Green",
+        "text": "Take deep breaths",
         "aliases": [
-          "emerald"
+          "calm down"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Silver",
+        "text": "Fix your hair",
         "aliases": [
-          "silvery"
+          "comb hair"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Pink",
+        "text": "Check the address",
         "aliases": [
-          "rosy"
+          "confirm location"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Gold",
+        "text": "Hide the food you spilled",
         "aliases": [
-          "golden"
+          "clean your clothes"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-273",
     "category": "Travel & places",
-    "prompt": "Name a way to spend a summer afternoon beside a lake without swimming.",
+    "prompt": "Name a reason a person might stay in the car after arriving home.",
     "answers": [
       {
-        "text": "Fishing",
-        "aliases": [],
-        "points": 30
+        "text": "Finish a song",
+        "aliases": [
+          "listen to music"
+        ],
+        "points": 35
       },
       {
-        "text": "Boating",
+        "text": "Finish a phone call",
         "aliases": [
-          "paddling"
+          "still talking"
         ],
         "points": 24
       },
       {
-        "text": "Picnicking",
+        "text": "Get a moment of peace",
         "aliases": [
-          "having a picnic"
+          "alone time"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Walking",
+        "text": "Avoid carrying things in",
         "aliases": [
-          "lakeside stroll"
+          "heavy bags"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Birdwatching",
+        "text": "Wait out the rain",
         "aliases": [
-          "watching birds"
+          "raining"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Skipping stones",
+        "text": "They fell asleep",
         "aliases": [
-          "skimming stones"
+          "napping"
         ],
         "points": 6
       }
@@ -2525,45 +2601,47 @@
   {
     "id": "travel-274",
     "category": "Travel & places",
-    "prompt": "Name something you notice along the edge of a lakeside marina.",
+    "prompt": "Name something a driver apologizes for when a new person gets into their car.",
     "answers": [
       {
-        "text": "Sailboats",
+        "text": "The mess",
         "aliases": [
-          "yachts"
+          "dirty car"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Docks",
+        "text": "The smell",
         "aliases": [
-          "jetties"
+          "bad odor"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Buoys",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Boathouse",
+        "text": "The music",
         "aliases": [
-          "boat shed"
+          "playlist"
         ],
-        "points": 12
+        "points": 19
       },
       {
-        "text": "Fishing rods",
+        "text": "The broken air conditioner",
         "aliases": [
-          "fishing poles"
+          "no ac"
         ],
-        "points": 8
+        "points": 14
       },
       {
-        "text": "Life rings",
+        "text": "The cramped space",
         "aliases": [
-          "lifebuoys"
+          "no legroom"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Being late",
+        "aliases": [
+          "late pickup"
         ],
         "points": 6
       }
@@ -2572,45 +2650,47 @@
   {
     "id": "travel-275",
     "category": "Travel & places",
-    "prompt": "Name something that makes a striking reflection in a still lake.",
+    "prompt": "Name a compliment you might give someone's car even if you don't like it.",
     "answers": [
       {
-        "text": "Mountains",
+        "text": "It's very comfortable",
         "aliases": [
-          "peaks"
+          "comfy"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Trees",
+        "text": "It's got character",
         "aliases": [
-          "forest"
+          "unique"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Clouds",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Bridge",
+        "text": "It's a great color",
         "aliases": [
-          "footbridge"
+          "nice color"
         ],
-        "points": 14
+        "points": 18
       },
       {
-        "text": "Cabins",
+        "text": "It's spacious",
         "aliases": [
-          "lakeside houses"
+          "roomy"
         ],
-        "points": 10
+        "points": 12
       },
       {
-        "text": "Sunset",
+        "text": "It must save gas",
         "aliases": [
-          "setting sun"
+          "fuel efficient"
+        ],
+        "points": 8
+      },
+      {
+        "text": "At least it runs",
+        "aliases": [
+          "reliable enough"
         ],
         "points": 6
       }
@@ -2619,94 +2699,96 @@
   {
     "id": "travel-276",
     "category": "Travel & places",
-    "prompt": "Name something a visitor does to test the echo in a canyon.",
+    "prompt": "Name something that makes a rideshare trip feel awkward.",
     "answers": [
       {
-        "text": "Shout hello",
+        "text": "The driver sings loudly",
         "aliases": [
-          "yell hello"
+          "driver singing"
         ],
-        "points": 35
+        "points": 33
       },
       {
-        "text": "Clap",
+        "text": "The driver asks personal questions",
         "aliases": [
-          "clap their hands"
+          "nosy"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Whistle",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Call their name",
+        "text": "An uncomfortable silence",
         "aliases": [
-          "shout their name"
+          "too quiet"
         ],
-        "points": 11
+        "points": 17
       },
       {
-        "text": "Sing a note",
+        "text": "They play your private call aloud",
         "aliases": [
-          "sing"
+          "speakerphone"
+        ],
+        "points": 12
+      },
+      {
+        "text": "You can't find the seat belt",
+        "aliases": [
+          "fumbling with belt"
         ],
         "points": 8
       },
       {
-        "text": "Whoop",
+        "text": "The destination is embarrassing",
         "aliases": [
-          "make a whooping sound"
+          "awkward address"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-277",
     "category": "Travel & places",
-    "prompt": "Name a reason someone prefers a lakeside holiday to a seaside holiday.",
+    "prompt": "Name a reason you give a rideshare driver a different drop-off spot.",
     "answers": [
       {
-        "text": "Calmer water",
+        "text": "You want to hide where you live",
         "aliases": [
-          "less surf"
+          "privacy"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Fresh water",
+        "text": "The street is blocked",
         "aliases": [
-          "no salt water"
+          "road closed"
         ],
         "points": 24
       },
       {
-        "text": "Closer to home",
+        "text": "It's easier to pull over",
         "aliases": [
-          "shorter journey"
+          "easy stopping"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Quieter surroundings",
+        "text": "You don't want someone to see you",
         "aliases": [
-          "fewer crowds"
+          "avoid being seen"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Fishing opportunities",
+        "text": "You changed your plans",
         "aliases": [
-          "good fishing"
+          "new destination"
         ],
         "points": 9
       },
       {
-        "text": "Forest scenery",
+        "text": "You want to save money",
         "aliases": [
-          "wooded setting"
+          "shorter trip"
         ],
         "points": 6
       }
@@ -2715,45 +2797,47 @@
   {
     "id": "travel-278",
     "category": "Travel & places",
-    "prompt": "Name a detail people remember after standing near a huge waterfall.",
+    "prompt": "Name something a carpool passenger does that makes them hard to invite again.",
     "answers": [
       {
-        "text": "Loud roar",
+        "text": "Is always late",
         "aliases": [
-          "noise"
+          "keeps everyone waiting"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Spray on their face",
+        "text": "Never pays for gas",
         "aliases": [
-          "mist"
+          "no fuel money"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Rainbow",
-        "aliases": [],
+        "text": "Leaves a mess",
+        "aliases": [
+          "trash behind"
+        ],
         "points": 18
       },
       {
-        "text": "Long walk",
+        "text": "Complains about everything",
         "aliases": [
-          "many steps"
+          "constant complaining"
         ],
         "points": 12
       },
       {
-        "text": "Cool air",
+        "text": "Demands extra stops",
         "aliases": [
-          "cold breeze"
+          "unplanned detours"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Dramatic height",
+        "text": "Brings an unexpected guest",
         "aliases": [
-          "height of the falls"
+          "extra passenger"
         ],
         "points": 6
       }
@@ -2762,43 +2846,47 @@
   {
     "id": "travel-279",
     "category": "Travel & places",
-    "prompt": "Name something a child floats down a stream during a countryside outing.",
+    "prompt": "Name something you'd feel awkward asking your rideshare driver to change.",
     "answers": [
       {
-        "text": "Leaf",
-        "aliases": [],
-        "points": 28
+        "text": "The music",
+        "aliases": [
+          "radio station"
+        ],
+        "points": 34
       },
       {
-        "text": "Stick",
+        "text": "The temperature",
         "aliases": [
-          "twig"
+          "air conditioning"
         ],
         "points": 23
       },
       {
-        "text": "Piece of bark",
+        "text": "The route",
         "aliases": [
-          "bark"
+          "directions"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Pinecone",
+        "text": "The speed",
         "aliases": [
-          "pine cone"
+          "drive slower"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Paper boat",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Flower",
+        "text": "The conversation",
         "aliases": [
-          "petal"
+          "stop talking"
+        ],
+        "points": 8
+      },
+      {
+        "text": "The smell",
+        "aliases": [
+          "air freshener"
         ],
         "points": 6
       }
@@ -2807,86 +2895,96 @@
   {
     "id": "travel-280",
     "category": "Travel & places",
-    "prompt": "Name an animal visitors hope to see on a swamp tour.",
+    "prompt": "Name something a coworker might learn about you from sharing your commute.",
     "answers": [
       {
-        "text": "Alligator",
+        "text": "Your music taste",
         "aliases": [
-          "gator"
+          "favorite songs"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Heron",
-        "aliases": [],
-        "points": 25
+        "text": "Where you live",
+        "aliases": [
+          "home neighborhood"
+        ],
+        "points": 24
       },
       {
-        "text": "Turtle",
-        "aliases": [],
-        "points": 16
+        "text": "Your morning mood",
+        "aliases": [
+          "grumpy mornings"
+        ],
+        "points": 19
       },
       {
-        "text": "Frog",
-        "aliases": [],
-        "points": 11
+        "text": "Your relationship drama",
+        "aliases": [
+          "partner problems"
+        ],
+        "points": 13
       },
       {
-        "text": "Snake",
-        "aliases": [],
-        "points": 8
+        "text": "Your bad driving habits",
+        "aliases": [
+          "road rage"
+        ],
+        "points": 10
       },
       {
-        "text": "Otter",
-        "aliases": [],
-        "points": 5
+        "text": "Your coffee addiction",
+        "aliases": [
+          "needs caffeine"
+        ],
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-281",
     "category": "Travel & places",
-    "prompt": "Name a sight that makes everyone react on a whale-watching trip.",
+    "prompt": "Name a reason you might cancel a carpool at the last minute.",
     "answers": [
       {
-        "text": "Whale jumping",
+        "text": "You're sick",
         "aliases": [
-          "breach"
+          "ill"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Tail above the water",
+        "text": "You're running late",
         "aliases": [
-          "tail fluke"
+          "overslept"
         ],
         "points": 24
       },
       {
-        "text": "Blowhole spray",
+        "text": "Your plans changed",
         "aliases": [
-          "spout"
+          "different schedule"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Fin breaking the surface",
+        "text": "Your car won't start",
         "aliases": [
-          "dorsal fin"
+          "car trouble"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Whale beside the boat",
+        "text": "You need time alone",
         "aliases": [
-          "close whale"
+          "not feeling social"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Baby whale",
+        "text": "You forgot it was your turn",
         "aliases": [
-          "calf"
+          "forgot pickup"
         ],
         "points": 6
       }
@@ -2895,47 +2993,47 @@
   {
     "id": "travel-282",
     "category": "Travel & places",
-    "prompt": "Name a moment people hope to experience on a safari.",
+    "prompt": "Name something people pretend to do to avoid chatting during a shared ride.",
     "answers": [
       {
-        "text": "Animal crossing the track",
+        "text": "Sleep",
         "aliases": [
-          "animal crossing the road"
+          "fake sleeping"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Herd at a watering hole",
+        "text": "Read messages",
         "aliases": [
-          "animals drinking"
+          "look at phone"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Hearing a lion roar",
+        "text": "Wear headphones",
         "aliases": [
-          "lion roar"
+          "listen to music"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Giraffe close to the vehicle",
+        "text": "Work",
         "aliases": [
-          "close giraffe"
+          "answer emails"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Sunset over the savanna",
+        "text": "Read a book",
         "aliases": [
-          "savanna sunset"
+          "reading"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Seeing a baby animal",
+        "text": "Look out the window",
         "aliases": [
-          "animal with its young"
+          "watch scenery"
         ],
         "points": 6
       }
@@ -2944,36 +3042,48 @@
   {
     "id": "travel-283",
     "category": "Travel & places",
-    "prompt": "Name a bird that would make a birdwatcher excited on a nature trip.",
+    "prompt": "Name something you'd be embarrassed to leave in a rideshare car.",
     "answers": [
       {
-        "text": "Eagle",
-        "aliases": [],
-        "points": 28
+        "text": "Your underwear",
+        "aliases": [
+          "underpants"
+        ],
+        "points": 31
       },
       {
-        "text": "Owl",
-        "aliases": [],
-        "points": 23
+        "text": "A love letter",
+        "aliases": [
+          "romantic note"
+        ],
+        "points": 25
       },
       {
-        "text": "Kingfisher",
-        "aliases": [],
-        "points": 19
+        "text": "A personal diary",
+        "aliases": [
+          "journal"
+        ],
+        "points": 18
       },
       {
-        "text": "Hummingbird",
-        "aliases": [],
-        "points": 14
+        "text": "A strange costume",
+        "aliases": [
+          "fancy dress"
+        ],
+        "points": 12
       },
       {
-        "text": "Heron",
-        "aliases": [],
-        "points": 10
+        "text": "An embarrassing purchase",
+        "aliases": [
+          "awkward shopping"
+        ],
+        "points": 8
       },
       {
-        "text": "Puffin",
-        "aliases": [],
+        "text": "A dating advice book",
+        "aliases": [
+          "self help book"
+        ],
         "points": 6
       }
     ]
@@ -2981,92 +3091,96 @@
   {
     "id": "travel-284",
     "category": "Travel & places",
-    "prompt": "Name something that spoils a wildlife photograph.",
+    "prompt": "Name something you hope won't come up when your boss offers you a ride.",
     "answers": [
       {
-        "text": "Animal moving",
+        "text": "Your salary",
         "aliases": [
-          "motion blur"
+          "pay rise"
         ],
-        "points": 35
+        "points": 33
       },
       {
-        "text": "Branch in the way",
+        "text": "Your lateness",
         "aliases": [
-          "blocked view"
+          "late to work"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Glare",
+        "text": "Office gossip",
         "aliases": [
-          "harsh sunlight"
+          "coworker drama"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Low light",
+        "text": "Your job hunt",
         "aliases": [
-          "too dark"
+          "looking for another job"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Animal too far away",
+        "text": "Politics",
         "aliases": [
-          "too distant"
+          "political views"
         ],
         "points": 8
       },
       {
-        "text": "Camera shake",
+        "text": "Your weekend antics",
         "aliases": [
-          "shaky hands"
+          "partying"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-285",
     "category": "Travel & places",
-    "prompt": "Name a snack a squirrel might try to steal during a park visit.",
+    "prompt": "Name something children fight over in the back seat.",
     "answers": [
       {
-        "text": "Nuts",
-        "aliases": [],
-        "points": 30
+        "text": "Space",
+        "aliases": [
+          "elbow room"
+        ],
+        "points": 32
       },
       {
-        "text": "Bread",
+        "text": "Snacks",
         "aliases": [
-          "sandwich bread"
+          "food"
         ],
         "points": 24
       },
       {
-        "text": "Fruit",
+        "text": "A tablet",
         "aliases": [
-          "apple slice"
+          "screen"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Crackers",
-        "aliases": [],
-        "points": 13
-      },
-      {
-        "text": "Granola bar",
+        "text": "A toy",
         "aliases": [
-          "cereal bar"
+          "game"
+        ],
+        "points": 12
+      },
+      {
+        "text": "The window seat",
+        "aliases": [
+          "best seat"
         ],
         "points": 9
       },
       {
-        "text": "Chips",
+        "text": "Who's touching whom",
         "aliases": [
-          "crisps"
+          "stop touching me"
         ],
         "points": 6
       }
@@ -3075,45 +3189,47 @@
   {
     "id": "travel-286",
     "category": "Travel & places",
-    "prompt": "Name something visitors enjoy looking at in a butterfly sanctuary.",
+    "prompt": "Name something parents say so often on a road trip that the kids can finish the sentence.",
     "answers": [
       {
-        "text": "Colorful wings",
+        "text": "Stop asking if we're there yet",
         "aliases": [
-          "wing patterns"
+          "stop asking"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Flowers",
+        "text": "Stop fighting",
         "aliases": [
-          "flower beds"
+          "quit arguing"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Caterpillars",
-        "aliases": [],
+        "text": "Don't make me pull over",
+        "aliases": [
+          "pull this car over"
+        ],
         "points": 18
       },
       {
-        "text": "Chrysalises",
+        "text": "Put your seat belt on",
         "aliases": [
-          "cocoons"
+          "buckle up"
         ],
         "points": 12
       },
       {
-        "text": "Feeding dishes",
+        "text": "Look out the window",
         "aliases": [
-          "fruit trays"
+          "enjoy the scenery"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Information displays",
+        "text": "Use the bathroom now",
         "aliases": [
-          "educational signs"
+          "last toilet chance"
         ],
         "points": 6
       }
@@ -3122,41 +3238,47 @@
   {
     "id": "travel-287",
     "category": "Travel & places",
-    "prompt": "Name something a nature visitor looks at through binoculars.",
+    "prompt": "Name something a child might announce at the worst possible moment on a highway.",
     "answers": [
       {
-        "text": "Birds",
-        "aliases": [],
-        "points": 28
+        "text": "I need the bathroom",
+        "aliases": [
+          "need to pee"
+        ],
+        "points": 34
       },
       {
-        "text": "Whales",
-        "aliases": [],
+        "text": "I feel sick",
+        "aliases": [
+          "going to vomit"
+        ],
         "points": 23
       },
       {
-        "text": "Distant deer",
+        "text": "I dropped my tablet",
         "aliases": [
-          "deer"
+          "dropped phone"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Distant waterfall",
+        "text": "My seat belt came off",
         "aliases": [
-          "waterfall"
+          "unbuckled belt"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Seals",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Mountain goats",
+        "text": "I left my toy behind",
         "aliases": [
-          "ibex"
+          "forgot teddy"
+        ],
+        "points": 8
+      },
+      {
+        "text": "I'm hungry",
+        "aliases": [
+          "need food"
         ],
         "points": 6
       }
@@ -3165,79 +3287,98 @@
   {
     "id": "travel-288",
     "category": "Travel & places",
-    "prompt": "Name something people hope to spot on a nighttime nature walk.",
+    "prompt": "Name a trick parents use to make a long drive seem shorter to children.",
     "answers": [
       {
-        "text": "Bats",
-        "aliases": [],
-        "points": 35
-      },
-      {
-        "text": "Owls",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Fireflies",
+        "text": "Let them watch a movie",
         "aliases": [
-          "glowworms"
+          "screen time"
         ],
-        "points": 16
+        "points": 28
       },
       {
-        "text": "Stars",
+        "text": "Give them snacks",
         "aliases": [
-          "starry sky"
+          "food"
         ],
-        "points": 11
+        "points": 24
       },
       {
-        "text": "Possum",
+        "text": "Play a game",
         "aliases": [
-          "opossum"
+          "car games"
         ],
-        "points": 8
+        "points": 19
       },
       {
-        "text": "Moths",
-        "aliases": [],
-        "points": 5
+        "text": "Encourage a nap",
+        "aliases": [
+          "go to sleep"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Promise a treat",
+        "aliases": [
+          "reward at the end"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Break it into small distances",
+        "aliases": [
+          "one more town"
+        ],
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-289",
     "category": "Travel & places",
-    "prompt": "Name an animal whose footprints you might notice on a muddy walking trail.",
+    "prompt": "Name something parents regret letting a child eat in the car.",
     "answers": [
       {
-        "text": "Deer",
-        "aliases": [],
-        "points": 30
+        "text": "Ice cream",
+        "aliases": [
+          "melting ice cream"
+        ],
+        "points": 35
       },
       {
-        "text": "Dog",
-        "aliases": [],
+        "text": "Chocolate",
+        "aliases": [
+          "chocolate bar"
+        ],
         "points": 24
       },
       {
-        "text": "Bird",
-        "aliases": [],
-        "points": 18
+        "text": "Chips",
+        "aliases": [
+          "crisps"
+        ],
+        "points": 16
       },
       {
-        "text": "Raccoon",
-        "aliases": [],
-        "points": 13
+        "text": "Yogurt",
+        "aliases": [
+          "yoghurt"
+        ],
+        "points": 11
       },
       {
-        "text": "Rabbit",
-        "aliases": [],
-        "points": 9
+        "text": "Spaghetti",
+        "aliases": [
+          "pasta"
+        ],
+        "points": 8
       },
       {
-        "text": "Bear",
-        "aliases": [],
+        "text": "Red juice",
+        "aliases": [
+          "fruit punch",
+          "red drink"
+        ],
         "points": 6
       }
     ]
@@ -3245,47 +3386,47 @@
   {
     "id": "travel-290",
     "category": "Travel & places",
-    "prompt": "Name something visitors record in a wildlife hide's sightings logbook.",
+    "prompt": "Name something a child does when told to look at the beautiful scenery.",
     "answers": [
       {
-        "text": "Animal name",
+        "text": "Asks how much longer",
         "aliases": [
-          "species"
+          "are we there yet"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Date",
+        "text": "Keeps looking at a screen",
         "aliases": [
-          "day of sighting"
+          "ignores scenery"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Time",
+        "text": "Says it's boring",
         "aliases": [
-          "sighting time"
+          "not interested"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Sketch",
+        "text": "Falls asleep",
         "aliases": [
-          "drawing"
+          "naps"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Number of animals",
+        "text": "Takes one quick glance",
         "aliases": [
-          "animal count"
+          "looks for a second"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Weather",
+        "text": "Asks for food",
         "aliases": [
-          "weather conditions"
+          "wants snack"
         ],
         "points": 6
       }
@@ -3294,47 +3435,47 @@
   {
     "id": "travel-291",
     "category": "Travel & places",
-    "prompt": "Name something people do when they first spot a large wild animal.",
+    "prompt": "Name something a child might press when left waiting in a parked car.",
     "answers": [
       {
-        "text": "Reach for a camera",
+        "text": "The horn",
         "aliases": [
-          "take a photograph"
+          "car horn"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Point it out",
+        "text": "Window buttons",
         "aliases": [
-          "point"
+          "window controls"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Go quiet",
+        "text": "The radio",
         "aliases": [
-          "stop talking"
+          "stereo"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Smile",
+        "text": "Door locks",
         "aliases": [
-          "grin"
+          "lock button"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Gasp",
+        "text": "Hazard lights",
         "aliases": [
-          "gasp in surprise"
+          "hazards"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Step back",
+        "text": "Windshield wiper controls",
         "aliases": [
-          "move backward"
+          "wipers"
         ],
         "points": 6
       }
@@ -3343,92 +3484,96 @@
   {
     "id": "travel-292",
     "category": "Travel & places",
-    "prompt": "Name an animal sound children imitate after a wildlife outing.",
+    "prompt": "Name a way siblings try to make car seating seem fair.",
     "answers": [
       {
-        "text": "Lion roar",
+        "text": "Take turns",
         "aliases": [
-          "roaring"
+          "rotate seats"
         ],
-        "points": 35
+        "points": 33
       },
       {
-        "text": "Birdsong",
+        "text": "Flip a coin",
         "aliases": [
-          "bird call"
+          "coin toss"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Monkey chatter",
+        "text": "Rock paper scissors",
         "aliases": [
-          "chattering"
+          "rps"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Elephant trumpet",
+        "text": "Draw names",
         "aliases": [
-          "trumpeting"
+          "draw lots"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Frog croak",
+        "text": "Older child gets priority",
         "aliases": [
-          "croaking"
+          "oldest first"
         ],
         "points": 8
       },
       {
-        "text": "Wolf howl",
+        "text": "Let a parent decide",
         "aliases": [
-          "howling"
+          "ask mom or dad"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-293",
     "category": "Travel & places",
-    "prompt": "Name a sight people hope to see on a desert vacation.",
+    "prompt": "Name something a family might run out of halfway through a long drive.",
     "answers": [
       {
-        "text": "Sand dunes",
+        "text": "Snacks",
         "aliases": [
-          "dunes"
+          "food"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Oasis",
-        "aliases": [],
+        "text": "Water",
+        "aliases": [
+          "drinks"
+        ],
         "points": 24
       },
       {
-        "text": "Rock arch",
+        "text": "Wet wipes",
         "aliases": [
-          "natural arch"
+          "tissues"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Star-filled sky",
+        "text": "Diapers",
         "aliases": [
-          "stars"
+          "nappies"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Camels",
-        "aliases": [],
+        "text": "Phone battery",
+        "aliases": [
+          "phone charge"
+        ],
         "points": 9
       },
       {
-        "text": "Deep canyon",
+        "text": "Patience",
         "aliases": [
-          "canyon"
+          "calm"
         ],
         "points": 6
       }
@@ -3437,41 +3582,47 @@
   {
     "id": "travel-294",
     "category": "Travel & places",
-    "prompt": "Name a color people travel to see in autumn leaves.",
+    "prompt": "Name a reason a road-trip group suddenly gets very quiet.",
     "answers": [
       {
-        "text": "Red",
+        "text": "Everyone falls asleep",
         "aliases": [
-          "scarlet"
+          "napping"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Orange",
-        "aliases": [],
-        "points": 24
+        "text": "An argument just ended",
+        "aliases": [
+          "awkward fight"
+        ],
+        "points": 25
       },
       {
-        "text": "Yellow",
-        "aliases": [],
+        "text": "The driver is concentrating",
+        "aliases": [
+          "difficult road"
+        ],
         "points": 18
       },
       {
-        "text": "Brown",
+        "text": "A sad song comes on",
         "aliases": [
-          "bronze"
+          "emotional music"
         ],
         "points": 12
       },
       {
-        "text": "Green",
-        "aliases": [],
-        "points": 8
+        "text": "Everyone is on their phone",
+        "aliases": [
+          "screen time"
+        ],
+        "points": 9
       },
       {
-        "text": "Purple",
+        "text": "They've run out of things to say",
         "aliases": [
-          "burgundy"
+          "nothing to talk about"
         ],
         "points": 6
       }
@@ -3480,38 +3631,48 @@
   {
     "id": "travel-295",
     "category": "Travel & places",
-    "prompt": "Name a flower people travel to see in bloom.",
+    "prompt": "Name something that can turn a grumpy car full of people happy again.",
     "answers": [
       {
-        "text": "Tulip",
-        "aliases": [],
-        "points": 28
+        "text": "Food",
+        "aliases": [
+          "snack stop"
+        ],
+        "points": 34
       },
       {
-        "text": "Cherry blossom",
+        "text": "Their favorite song",
         "aliases": [
-          "sakura"
+          "good music"
         ],
         "points": 23
       },
       {
-        "text": "Rose",
-        "aliases": [],
-        "points": 19
+        "text": "Seeing the destination",
+        "aliases": [
+          "arriving"
+        ],
+        "points": 17
       },
       {
-        "text": "Daffodil",
-        "aliases": [],
-        "points": 14
+        "text": "A funny story",
+        "aliases": [
+          "joke"
+        ],
+        "points": 12
       },
       {
-        "text": "Lavender",
-        "aliases": [],
-        "points": 10
+        "text": "A beautiful view",
+        "aliases": [
+          "scenery"
+        ],
+        "points": 8
       },
       {
-        "text": "Sunflower",
-        "aliases": [],
+        "text": "A working air conditioner",
+        "aliases": [
+          "cooling down"
+        ],
         "points": 6
       }
     ]
@@ -3519,94 +3680,96 @@
   {
     "id": "travel-296",
     "category": "Travel & places",
-    "prompt": "Name something that makes a coastal sunset photograph more interesting.",
+    "prompt": "Name something a person might promise if you let them sleep instead of taking a driving turn.",
     "answers": [
       {
-        "text": "Palm tree",
+        "text": "They'll drive later",
         "aliases": [
-          "palm silhouette"
+          "next shift"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Sailboat",
+        "text": "They'll buy dinner",
         "aliases": [
-          "boat silhouette"
+          "pay for meal"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Pier",
+        "text": "They'll pay for gas",
         "aliases": [
-          "jetty"
+          "fuel money"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Rock arch",
+        "text": "They'll do the unpacking",
         "aliases": [
-          "sea arch"
+          "carry bags"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Lighthouse",
-        "aliases": [],
-        "points": 8
+        "text": "They'll buy coffee",
+        "aliases": [
+          "coffee stop"
+        ],
+        "points": 10
       },
       {
-        "text": "Couple",
+        "text": "They'll owe you a favor",
         "aliases": [
-          "people holding hands"
+          "return the favor"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-297",
     "category": "Travel & places",
-    "prompt": "Name a natural event someone might plan a whole trip around.",
+    "prompt": "Name something you might invent to entertain yourself on a boring stretch of highway.",
     "answers": [
       {
-        "text": "Solar eclipse",
+        "text": "Stories about other drivers",
         "aliases": [
-          "eclipse"
+          "imagine strangers' lives"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Meteor shower",
+        "text": "Songs",
         "aliases": [
-          "shooting stars"
+          "make up a song"
         ],
         "points": 24
       },
       {
-        "text": "Autumn foliage",
+        "text": "A guessing game",
         "aliases": [
-          "fall colors"
+          "car game"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Flower bloom",
+        "text": "A fake accent",
         "aliases": [
-          "superbloom"
+          "funny voice"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Whale migration",
+        "text": "A rating system for cars",
         "aliases": [
-          "migrating whales"
+          "judge other cars"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Northern lights",
+        "text": "A new route",
         "aliases": [
-          "aurora"
+          "plan a detour"
         ],
         "points": 6
       }
@@ -3615,47 +3778,47 @@
   {
     "id": "travel-298",
     "category": "Travel & places",
-    "prompt": "Name something visitors want from a countryside stargazing spot.",
+    "prompt": "Name a reason a road trip feels more romantic in a movie than in real life.",
     "answers": [
       {
-        "text": "Dark sky",
+        "text": "No bathroom emergencies",
         "aliases": [
-          "little light pollution"
+          "toilet stops"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Clear weather",
+        "text": "Nobody gets carsick",
         "aliases": [
-          "no clouds"
+          "motion sickness"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Quiet",
+        "text": "The scenery is always beautiful",
         "aliases": [
-          "peace and quiet"
+          "perfect views"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Wide horizon",
+        "text": "They never sit in traffic",
         "aliases": [
-          "open view"
+          "no jams"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Flat ground",
+        "text": "Everyone looks fresh",
         "aliases": [
-          "level ground"
+          "perfect hair"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Warm shelter nearby",
+        "text": "Nobody argues about money",
         "aliases": [
-          "place to warm up"
+          "trip costs"
         ],
         "points": 6
       }
@@ -3664,45 +3827,47 @@
   {
     "id": "travel-299",
     "category": "Travel & places",
-    "prompt": "Name something people hope to spot in the night sky on a rural vacation.",
+    "prompt": "Name something you'd like to have magically appear in your car during a long drive.",
     "answers": [
       {
-        "text": "Shooting star",
+        "text": "A clean bathroom",
         "aliases": [
-          "meteor"
+          "toilet"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Milky Way",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Moon",
+        "text": "A comfortable bed",
         "aliases": [
-          "full moon"
+          "bed"
         ],
-        "points": 19
+        "points": 25
       },
       {
-        "text": "Constellation",
+        "text": "Hot food",
         "aliases": [
-          "star pattern"
+          "meal"
         ],
-        "points": 14
+        "points": 18
       },
       {
-        "text": "Planet",
+        "text": "A personal driver",
         "aliases": [
-          "visible planet"
+          "chauffeur"
         ],
-        "points": 10
+        "points": 12
       },
       {
-        "text": "Northern lights",
+        "text": "More legroom",
         "aliases": [
-          "aurora"
+          "extra space"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Perfect phone signal",
+        "aliases": [
+          "wifi"
         ],
         "points": 6
       }
@@ -3711,88 +3876,96 @@
   {
     "id": "travel-300",
     "category": "Travel & places",
-    "prompt": "Name something visitors enjoy seeing from a treetop walkway.",
+    "prompt": "Name something someone says after sleeping through the whole journey.",
     "answers": [
       {
-        "text": "Leaf canopy",
+        "text": "That was quick",
         "aliases": [
-          "treetops"
+          "already here"
         ],
-        "points": 35
+        "points": 33
       },
       {
-        "text": "Birds",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "River",
+        "text": "I didn't sleep",
         "aliases": [
-          "stream"
+          "wasn't asleep"
         ],
-        "points": 16
+        "points": 24
       },
       {
-        "text": "Valley",
+        "text": "Where are we",
         "aliases": [
-          "valley view"
+          "what place is this"
         ],
-        "points": 11
+        "points": 17
       },
       {
-        "text": "Monkeys",
-        "aliases": [],
+        "text": "Why didn't you wake me",
+        "aliases": [
+          "should have woken me"
+        ],
+        "points": 12
+      },
+      {
+        "text": "I'm hungry",
+        "aliases": [
+          "need food"
+        ],
         "points": 8
       },
       {
-        "text": "Suspension bridges",
+        "text": "I could drive now",
         "aliases": [
-          "hanging bridges"
+          "ready to drive"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-301",
     "category": "Travel & places",
-    "prompt": "Name an animal children ask to feed during a countryside farm visit.",
+    "prompt": "Name something that makes you realize you've been in the car for too long.",
     "answers": [
       {
-        "text": "Goat",
-        "aliases": [],
-        "points": 30
+        "text": "Your legs are stiff",
+        "aliases": [
+          "cramped legs"
+        ],
+        "points": 32
       },
       {
-        "text": "Sheep",
+        "text": "You've heard the playlist twice",
         "aliases": [
-          "lamb"
+          "music repeats"
         ],
         "points": 24
       },
       {
-        "text": "Horse",
+        "text": "The snacks are gone",
         "aliases": [
-          "pony"
+          "no food"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Chicken",
+        "text": "Your phone battery is dead",
         "aliases": [
-          "hen"
+          "dead phone"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Alpaca",
-        "aliases": [],
+        "text": "Everyone is arguing",
+        "aliases": [
+          "short tempers"
+        ],
         "points": 9
       },
       {
-        "text": "Rabbit",
+        "text": "You have a seat belt mark",
         "aliases": [
-          "bunny"
+          "belt imprint"
         ],
         "points": 6
       }
@@ -3801,47 +3974,47 @@
   {
     "id": "travel-302",
     "category": "Travel & places",
-    "prompt": "Name an activity families enjoy at a pick-your-own orchard.",
+    "prompt": "Name a reason someone secretly loves being the road-trip driver.",
     "answers": [
       {
-        "text": "Picking fruit",
+        "text": "They control the music",
         "aliases": [
-          "fruit picking"
+          "choose playlist"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Tasting fruit",
+        "text": "They avoid carsickness",
         "aliases": [
-          "sampling fruit"
+          "not feeling sick"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Drinking cider",
+        "text": "They choose the route",
         "aliases": [
-          "cider tasting"
+          "route control"
         ],
         "points": 18
       },
       {
-        "text": "Taking photographs",
+        "text": "They get the best seat",
         "aliases": [
-          "taking photos"
+          "most space"
         ],
         "points": 12
       },
       {
-        "text": "Wagon ride",
+        "text": "They can escape conversations",
         "aliases": [
-          "hayride"
+          "focus on driving"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Picnic",
+        "text": "They get praise",
         "aliases": [
-          "picnicking"
+          "everyone thanks them"
         ],
         "points": 6
       }
@@ -3850,43 +4023,47 @@
   {
     "id": "travel-303",
     "category": "Travel & places",
-    "prompt": "Name a sight that makes a countryside drive feel peaceful.",
+    "prompt": "Name something you find in the car days after a road trip.",
     "answers": [
       {
-        "text": "Fields",
+        "text": "Food wrappers",
         "aliases": [
-          "farmland"
+          "snack packaging"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Barns",
-        "aliases": [],
+        "text": "A forgotten sock",
+        "aliases": [
+          "lost clothing"
+        ],
         "points": 23
       },
       {
-        "text": "Grazing cows",
+        "text": "A souvenir",
         "aliases": [
-          "cattle"
+          "trip memento"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Windmills",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Rolling hills",
+        "text": "A receipt",
         "aliases": [
-          "hills"
+          "gas receipt"
         ],
-        "points": 10
+        "points": 12
       },
       {
-        "text": "Orchards",
+        "text": "A water bottle",
         "aliases": [
-          "fruit trees"
+          "drink bottle"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Someone's sunglasses",
+        "aliases": [
+          "lost shades"
         ],
         "points": 6
       }
@@ -3895,93 +4072,97 @@
   {
     "id": "travel-304",
     "category": "Travel & places",
-    "prompt": "Name a reason someone chooses a nature holiday instead of a city break.",
+    "prompt": "Name something a driver does to pretend they aren't angry.",
     "answers": [
       {
-        "text": "Quiet",
+        "text": "Forces a smile",
         "aliases": [
-          "less noise"
+          "fake smile"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Fresh air",
-        "aliases": [],
-        "points": 25
+        "text": "Says it is fine",
+        "aliases": [
+          "says no problem"
+        ],
+        "points": 24
       },
       {
-        "text": "Scenery",
+        "text": "Turns up the music",
         "aliases": [
-          "beautiful landscapes"
+          "loud music"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Wildlife",
+        "text": "Takes deep breaths",
         "aliases": [
-          "animals"
+          "breathing deeply"
         ],
-        "points": 11
+        "points": 13
       },
       {
-        "text": "Open space",
+        "text": "Stops talking",
         "aliases": [
-          "more room"
+          "goes quiet"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Slower pace",
+        "text": "Laughs it off",
         "aliases": [
-          "relaxation"
+          "forced laugh"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-305",
     "category": "Travel & places",
-    "prompt": "Name something that makes a landscape look like a postcard.",
+    "prompt": "Name something you might exaggerate when telling friends about your road trip.",
     "answers": [
       {
-        "text": "Dramatic light",
+        "text": "How far you drove",
         "aliases": [
-          "beautiful lighting"
+          "miles covered"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Vivid colors",
+        "text": "How bad the traffic was",
         "aliases": [
-          "bright colors"
+          "traffic nightmare"
         ],
         "points": 24
       },
       {
-        "text": "Reflections",
+        "text": "How scary the road was",
         "aliases": [
-          "mirror-like water"
+          "dangerous road"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Unusual rocks",
+        "text": "How little you slept",
         "aliases": [
-          "rock formations"
+          "no sleep"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Snowy peak",
+        "text": "How much money you saved",
         "aliases": [
-          "snowcapped mountain"
+          "cheap trip"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Waterfall",
-        "aliases": [],
+        "text": "How beautiful the scenery was",
+        "aliases": [
+          "amazing views"
+        ],
         "points": 6
       }
     ]
@@ -3989,47 +4170,47 @@
   {
     "id": "travel-306",
     "category": "Travel & places",
-    "prompt": "Name a reason a walking route beside water becomes a favorite.",
+    "prompt": "Name something a driver might hide before lending their car to a relative.",
     "answers": [
       {
-        "text": "Beautiful views",
+        "text": "Trash",
         "aliases": [
-          "scenery"
+          "rubbish"
         ],
-        "points": 32
+        "points": 29
       },
       {
-        "text": "Cool breeze",
+        "text": "Personal documents",
         "aliases": [
-          "fresh breeze"
+          "private papers"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Wildlife sightings",
+        "text": "A parking ticket",
         "aliases": [
-          "birds and animals"
+          "fine"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Level path",
+        "text": "Cash",
         "aliases": [
-          "flat walking"
+          "money"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Picnic spots",
+        "text": "Embarrassing music",
         "aliases": [
-          "places for lunch"
+          "cringe playlist"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Soothing sounds",
+        "text": "An embarrassing air freshener",
         "aliases": [
-          "sound of water"
+          "novelty air freshener"
         ],
         "points": 6
       }
@@ -4038,47 +4219,47 @@
   {
     "id": "travel-307",
     "category": "Travel & places",
-    "prompt": "Name an activity people remember from a childhood nature camp.",
+    "prompt": "Name a reason you'd refuse to lend your friend your car again.",
     "answers": [
       {
-        "text": "Nature hike",
+        "text": "They returned it empty",
         "aliases": [
-          "hiking"
+          "no gas"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Canoeing",
+        "text": "They damaged it",
         "aliases": [
-          "paddling a canoe"
+          "dent or scratch"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Making crafts",
+        "text": "They left it filthy",
         "aliases": [
-          "craft activities"
+          "messy"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Campfire songs",
+        "text": "They got a ticket",
         "aliases": [
-          "singing around a fire"
+          "parking fine"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Scavenger hunt",
+        "text": "They returned it late",
         "aliases": [
-          "treasure hunt"
+          "kept it too long"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Stargazing",
+        "text": "They let someone else drive",
         "aliases": [
-          "watching stars"
+          "another driver"
         ],
         "points": 6
       }
@@ -4087,84 +4268,96 @@
   {
     "id": "travel-308",
     "category": "Travel & places",
-    "prompt": "Name something people count for fun on a nature walk.",
+    "prompt": "Name something people promise themselves they'll do differently on the next road trip.",
     "answers": [
       {
-        "text": "Birds",
-        "aliases": [],
-        "points": 35
+        "text": "Pack less",
+        "aliases": [
+          "less luggage"
+        ],
+        "points": 33
       },
       {
-        "text": "Steps",
-        "aliases": [],
-        "points": 25
+        "text": "Leave earlier",
+        "aliases": [
+          "early start"
+        ],
+        "points": 24
       },
       {
-        "text": "Butterflies",
-        "aliases": [],
-        "points": 16
+        "text": "Bring better snacks",
+        "aliases": [
+          "more food"
+        ],
+        "points": 17
       },
       {
-        "text": "Mushrooms",
-        "aliases": [],
-        "points": 11
+        "text": "Take more breaks",
+        "aliases": [
+          "rest more"
+        ],
+        "points": 12
       },
       {
-        "text": "Bridges",
-        "aliases": [],
+        "text": "Choose different companions",
+        "aliases": [
+          "different people"
+        ],
         "points": 8
       },
       {
-        "text": "Flowers",
-        "aliases": [],
-        "points": 5
+        "text": "Plan the route",
+        "aliases": [
+          "better directions"
+        ],
+        "points": 6
       }
     ]
   },
   {
     "id": "travel-309",
     "category": "Travel & places",
-    "prompt": "Name a reason someone returns to the same favorite nature spot.",
+    "prompt": "Name something you miss about home before a road trip is even over.",
     "answers": [
       {
-        "text": "Seasonal changes",
+        "text": "Your bed",
         "aliases": [
-          "different seasons"
+          "own bed"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Peaceful feeling",
+        "text": "Your bathroom",
         "aliases": [
-          "relaxation"
+          "own toilet"
         ],
         "points": 24
       },
       {
-        "text": "Family tradition",
+        "text": "Your pet",
         "aliases": [
-          "annual tradition"
+          "dog or cat"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Wildlife sightings",
+        "text": "Personal space",
         "aliases": [
-          "favorite animals"
+          "time alone"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Favorite walking trail",
+        "text": "Home cooking",
         "aliases": [
-          "favorite walk"
+          "own food"
         ],
         "points": 9
       },
       {
-        "text": "Happy memories",
+        "text": "Reliable internet",
         "aliases": [
-          "nostalgia"
+          "wifi"
         ],
         "points": 6
       }
@@ -4173,45 +4366,47 @@
   {
     "id": "travel-310",
     "category": "Travel & places",
-    "prompt": "Name a weather effect people hope to capture in a landscape photograph.",
+    "prompt": "Name something that makes the drive home from vacation feel longer than the drive there.",
     "answers": [
       {
-        "text": "Rainbow",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Fog",
+        "text": "Nothing exciting to look forward to",
         "aliases": [
-          "mist"
+          "vacation is over"
         ],
-        "points": 24
+        "points": 30
       },
       {
-        "text": "Sunbeams",
+        "text": "Everyone is tired",
         "aliases": [
-          "rays of sunshine"
+          "exhausted"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Worse traffic",
+        "aliases": [
+          "traffic jam"
         ],
         "points": 18
       },
       {
-        "text": "Lightning",
+        "text": "A messy car",
         "aliases": [
-          "lightning bolt"
+          "trash everywhere"
         ],
         "points": 12
       },
       {
-        "text": "Frost",
+        "text": "The weather is bad",
         "aliases": [
-          "frosty trees"
+          "rain"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Dramatic clouds",
+        "text": "You have work tomorrow",
         "aliases": [
-          "storm clouds"
+          "back to work"
         ],
         "points": 6
       }

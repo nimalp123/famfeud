@@ -2,85 +2,99 @@
   {
     "id": "games-131",
     "category": "Sports & games",
-    "prompt": "Name a feature that helps someone choose a new board game.",
+    "prompt": "Name something a devoted fan buys even after complaining about the price.",
     "answers": [
       {
-        "text": "Number of players",
+        "text": "Tickets",
         "aliases": [
-          "Player count"
+          "game tickets",
+          "seats"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Playing time",
+        "text": "Jersey",
         "aliases": [
-          "Game length"
+          "team shirt"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Easy rules",
+        "text": "Food",
         "aliases": [
-          "Simple rules"
+          "snacks"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Theme",
-        "aliases": [],
-        "points": 13
+        "text": "Drinks",
+        "aliases": [
+          "beer",
+          "soda"
+        ],
+        "points": 11
       },
       {
-        "text": "Price",
+        "text": "Parking",
         "aliases": [
-          "Cost"
+          "parking pass"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Artwork",
+        "text": "Souvenirs",
         "aliases": [
-          "Art"
+          "merchandise"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-132",
     "category": "Sports & games",
-    "prompt": "Name something you might see illustrated on a board game box.",
+    "prompt": "What might a sports fan do on a date when the big game starts?",
     "answers": [
       {
-        "text": "Dragon",
-        "aliases": [],
-        "points": 32
+        "text": "Check their phone",
+        "aliases": [
+          "check the score"
+        ],
+        "points": 30
       },
       {
-        "text": "Castle",
-        "aliases": [],
+        "text": "Ask for a TV",
+        "aliases": [
+          "find a television"
+        ],
         "points": 24
       },
       {
-        "text": "Spaceship",
+        "text": "Leave early",
         "aliases": [
-          "Space ship"
+          "go home"
         ],
         "points": 18
       },
       {
-        "text": "Pirate",
-        "aliases": [],
-        "points": 12
+        "text": "Suggest a sports bar",
+        "aliases": [
+          "change restaurants"
+        ],
+        "points": 13
       },
       {
-        "text": "Island",
-        "aliases": [],
-        "points": 8
+        "text": "Hide an earbud",
+        "aliases": [
+          "listen secretly"
+        ],
+        "points": 9
       },
       {
-        "text": "Farm",
-        "aliases": [],
+        "text": "Talk about the game",
+        "aliases": [
+          "bring up sports"
+        ],
         "points": 6
       }
     ]
@@ -88,47 +102,48 @@
   {
     "id": "games-133",
     "category": "Sports & games",
-    "prompt": "Name a theme people enjoy in a strategy board game.",
+    "prompt": "Name a plan a fan might abandon when a game goes into overtime.",
     "answers": [
       {
-        "text": "Fantasy",
+        "text": "Dinner",
         "aliases": [
-          "Magic"
+          "dinner reservation"
         ],
         "points": 28
       },
       {
-        "text": "Space exploration",
+        "text": "Bedtime",
         "aliases": [
-          "Outer space"
+          "going to bed"
         ],
         "points": 23
       },
       {
-        "text": "Mystery",
+        "text": "A date",
         "aliases": [
-          "Detectives"
+          "date night"
         ],
         "points": 19
       },
       {
-        "text": "History",
+        "text": "A movie",
         "aliases": [
-          "Historical"
+          "cinema plans"
         ],
         "points": 14
       },
       {
-        "text": "Trains",
+        "text": "A ride home",
         "aliases": [
-          "Railways"
+          "taxi",
+          "rideshare"
         ],
         "points": 10
       },
       {
-        "text": "Farming",
+        "text": "Studying",
         "aliases": [
-          "Agriculture"
+          "homework"
         ],
         "points": 6
       }
@@ -137,186 +152,198 @@
   {
     "id": "games-134",
     "category": "Sports & games",
-    "prompt": "Name something used to organize the contents of a board game box.",
+    "prompt": "Name a reason someone watches the championship even though they don't like the sport.",
     "answers": [
       {
-        "text": "Plastic bags",
+        "text": "Halftime show",
         "aliases": [
-          "Baggies"
+          "musical performance"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Compartments",
+        "text": "Commercials",
         "aliases": [
-          "Dividers"
+          "ads"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Small containers",
+        "text": "Friends",
         "aliases": [
-          "Little boxes"
+          "socializing"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Card holders",
+        "text": "Party food",
         "aliases": [
-          "Card trays"
+          "snacks"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Rubber bands",
-        "aliases": [],
-        "points": 8
+        "text": "Attractive players",
+        "aliases": [
+          "hot athletes"
+        ],
+        "points": 9
       },
       {
-        "text": "Labels",
-        "aliases": [],
-        "points": 5
+        "text": "Family tradition",
+        "aliases": [
+          "tradition"
+        ],
+        "points": 6
       }
     ]
   },
   {
     "id": "games-135",
     "category": "Sports & games",
-    "prompt": "Name a way players decide who takes the first turn.",
+    "prompt": "Name something you'd hate to run out of during the most exciting part of a game.",
     "answers": [
       {
-        "text": "Roll a die",
+        "text": "Internet",
         "aliases": [
-          "Highest dice roll"
+          "wifi",
+          "data"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Youngest goes first",
+        "text": "Battery",
         "aliases": [
-          "Youngest player"
+          "phone power"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Rock paper scissors",
-        "aliases": [],
-        "points": 18
+        "text": "Snacks",
+        "aliases": [
+          "food"
+        ],
+        "points": 16
       },
       {
-        "text": "Flip a coin",
+        "text": "Drinks",
         "aliases": [
-          "Coin toss"
+          "beer",
+          "soda"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Draw a card",
+        "text": "Time",
         "aliases": [
-          "Highest card"
+          "time on the clock"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Take turns starting",
+        "text": "Patience",
         "aliases": [
-          "Rotate the first player"
+          "temper"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-136",
     "category": "Sports & games",
-    "prompt": "Name something a special square on a board game might tell you to do.",
+    "prompt": "Name something a frustrated fan shouts at the television.",
     "answers": [
       {
-        "text": "Move forward",
+        "text": "Shoot",
         "aliases": [
-          "Advance"
+          "take the shot"
         ],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Go back",
+        "text": "Run",
         "aliases": [
-          "Move backward"
+          "go faster"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Miss a turn",
+        "text": "Pass",
         "aliases": [
-          "Skip a turn"
+          "pass it"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Draw a card",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Collect money",
+        "text": "Wake up",
         "aliases": [
-          "Gain coins"
+          "pay attention"
+        ],
+        "points": 11
+      },
+      {
+        "text": "You're fired",
+        "aliases": [
+          "fire the coach"
         ],
         "points": 8
       },
       {
-        "text": "Roll again",
+        "text": "That was a foul",
         "aliases": [
-          "Take another roll"
+          "where is the whistle"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-137",
     "category": "Sports & games",
-    "prompt": "Name a house rule a family might add to a board game.",
+    "prompt": "Who might a furious fan blame before admitting their team played badly?",
     "answers": [
       {
-        "text": "Extra starting money",
+        "text": "Referee",
         "aliases": [
-          "More money at the start"
+          "ref",
+          "umpire"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "No time limit",
+        "text": "Coach",
         "aliases": [
-          "Unlimited time"
+          "manager"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "One free do-over",
+        "text": "Opposing team",
         "aliases": [
-          "A second chance"
+          "the other team"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Free Parking prize",
+        "text": "Team owner",
         "aliases": [
-          "Money on Free Parking"
+          "owner"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Help younger players",
+        "text": "Commentator",
         "aliases": [
-          "Give children hints"
+          "announcer"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Ignore exact finish rolls",
+        "text": "Someone who jinxed it",
         "aliases": [
-          "No exact roll to finish"
+          "bad luck",
+          "jinx"
         ],
         "points": 6
       }
@@ -325,90 +352,97 @@
   {
     "id": "games-138",
     "category": "Sports & games",
-    "prompt": "Name where someone might find a game piece that fell off the table.",
+    "prompt": "Name something a fan hopes to get from meeting a famous athlete.",
     "answers": [
       {
-        "text": "Under the table",
-        "aliases": [],
-        "points": 35
-      },
-      {
-        "text": "Under the sofa",
+        "text": "Autograph",
         "aliases": [
-          "Under the couch"
+          "signature"
         ],
-        "points": 25
+        "points": 28
       },
       {
-        "text": "Behind a cabinet",
+        "text": "Photo",
         "aliases": [
-          "Behind furniture"
+          "selfie",
+          "picture"
         ],
-        "points": 16
+        "points": 23
       },
       {
-        "text": "Inside a shoe",
-        "aliases": [],
-        "points": 11
-      },
-      {
-        "text": "Under a rug",
+        "text": "Handshake",
         "aliases": [
-          "Under the carpet"
+          "shake hands"
         ],
-        "points": 8
+        "points": 19
       },
       {
-        "text": "In a pet bed",
-        "aliases": [],
-        "points": 5
+        "text": "Conversation",
+        "aliases": [
+          "chat"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Free tickets",
+        "aliases": [
+          "tickets"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Advice",
+        "aliases": [
+          "training tips"
+        ],
+        "points": 6
       }
     ]
   },
   {
     "id": "games-139",
     "category": "Sports & games",
-    "prompt": "Name something that helps a beginner learn a complicated tabletop game.",
+    "prompt": "What could ruin your photo with a star player?",
     "answers": [
       {
-        "text": "Example turn",
+        "text": "Blurry picture",
         "aliases": [
-          "Demonstration turn"
+          "out of focus"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Reference card",
+        "text": "Closed eyes",
         "aliases": [
-          "Player aid"
+          "blinking"
         ],
         "points": 24
       },
       {
-        "text": "Video tutorial",
+        "text": "Photobomber",
         "aliases": [
-          "How to play video"
+          "someone in the way"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Rulebook",
+        "text": "Dead phone",
         "aliases": [
-          "Instruction booklet"
+          "dead battery"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Practice round",
+        "text": "Bad lighting",
         "aliases": [
-          "Trial round"
+          "too dark"
         ],
         "points": 9
       },
       {
-        "text": "Setup diagram",
+        "text": "Player walks away",
         "aliases": [
-          "Picture of the setup"
+          "they leave"
         ],
         "points": 6
       }
@@ -417,192 +451,196 @@
   {
     "id": "games-140",
     "category": "Sports & games",
-    "prompt": "Name something a considerate board game player does.",
+    "prompt": "Name something an athlete's autograph makes harder to throw away.",
     "answers": [
       {
-        "text": "Waits for their turn",
+        "text": "Old jersey",
         "aliases": [
-          "Takes turns"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Helps beginners",
-        "aliases": [
-          "Explains to new players"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Congratulates the winner",
-        "aliases": [
-          "Says well played"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Handles pieces gently",
-        "aliases": [
-          "Takes care of the pieces"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Accepts losing",
-        "aliases": [
-          "Is a good loser"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Puts their phone away",
-        "aliases": [
-          "Stays off their phone"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "games-141",
-    "category": "Sports & games",
-    "prompt": "Name a way a team can lose a cooperative board game.",
-    "answers": [
-      {
-        "text": "Time runs out",
-        "aliases": [
-          "Runs out of time"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Enemies overwhelm them",
-        "aliases": [
-          "Too many enemies"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Supplies run out",
-        "aliases": [
-          "Runs out of resources"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Their base is destroyed",
-        "aliases": [
-          "Loses the base"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Too many mistakes",
-        "aliases": [
-          "Makes too many errors"
-        ],
-        "points": 10
-      },
-      {
-        "text": "They fail to agree",
-        "aliases": [
-          "Cannot agree on a plan"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "games-142",
-    "category": "Sports & games",
-    "prompt": "Name a task players might share in a cooperative adventure board game.",
-    "answers": [
-      {
-        "text": "Healing teammates",
-        "aliases": [
-          "Helping injured players"
+          "shirt"
         ],
         "points": 35
       },
       {
-        "text": "Sharing supplies",
+        "text": "Worn-out ball",
         "aliases": [
-          "Giving resources"
+          "ball"
         ],
         "points": 25
       },
       {
-        "text": "Planning moves",
+        "text": "Ticket",
         "aliases": [
-          "Making a plan"
+          "ticket stub"
         ],
         "points": 16
       },
       {
-        "text": "Defending the base",
+        "text": "Photo",
         "aliases": [
-          "Protecting the base"
+          "picture"
         ],
         "points": 11
       },
       {
-        "text": "Solving clues",
+        "text": "Hat",
         "aliases": [
-          "Working out clues"
+          "cap"
         ],
         "points": 8
       },
       {
-        "text": "Exploring new areas",
+        "text": "Program",
         "aliases": [
-          "Scouting"
+          "match program"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "games-143",
+    "id": "games-141",
     "category": "Sports & games",
-    "prompt": "Name a category people use for a quick word-guessing game.",
+    "prompt": "What might an excited fan blurt out when their favorite player says hello?",
     "answers": [
       {
-        "text": "Animals",
-        "aliases": [],
+        "text": "I love you",
+        "aliases": [
+          "love you"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Can I get a photo",
+        "aliases": [
+          "selfie please"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Sign this",
+        "aliases": [
+          "autograph please"
+        ],
+        "points": 17
+      },
+      {
+        "text": "You're my favorite",
+        "aliases": [
+          "biggest fan"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Great game",
+        "aliases": [
+          "you played great"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Their name",
+        "aliases": [
+          "shout their name"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-142",
+    "category": "Sports & games",
+    "prompt": "Name a place you'd be surprised to bump into your team's star player.",
+    "answers": [
+      {
+        "text": "Grocery store",
+        "aliases": [
+          "supermarket"
+        ],
         "points": 30
       },
       {
-        "text": "Places",
+        "text": "Public bus",
         "aliases": [
-          "Locations"
+          "bus",
+          "subway"
         ],
         "points": 24
       },
       {
-        "text": "Food",
+        "text": "School pickup",
         "aliases": [
-          "Foods"
+          "their kid's school"
         ],
         "points": 18
       },
       {
-        "text": "Jobs",
+        "text": "Fast-food restaurant",
         "aliases": [
-          "Occupations"
+          "drive through"
         ],
         "points": 13
       },
       {
-        "text": "Movies",
+        "text": "Your workplace",
         "aliases": [
-          "Films"
+          "your office"
         ],
         "points": 9
       },
       {
-        "text": "Household objects",
+        "text": "Laundromat",
         "aliases": [
-          "Things in the house"
+          "laundry"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-143",
+    "category": "Sports & games",
+    "prompt": "Name something a retired athlete might do that fans would still watch.",
+    "answers": [
+      {
+        "text": "Coach",
+        "aliases": [
+          "coaching"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Commentate",
+        "aliases": [
+          "sports commentary"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Play a charity game",
+        "aliases": [
+          "exhibition game"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Act",
+        "aliases": [
+          "movies",
+          "acting"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Reality TV",
+        "aliases": [
+          "reality show"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Host a podcast",
+        "aliases": [
+          "podcast"
         ],
         "points": 6
       }
@@ -611,38 +649,49 @@
   {
     "id": "games-144",
     "category": "Sports & games",
-    "prompt": "Name something easy to draw in a drawing-and-guessing game.",
+    "prompt": "Name a product you'd believe a professional athlete really uses.",
     "answers": [
       {
-        "text": "House",
-        "aliases": [],
+        "text": "Sports drink",
+        "aliases": [
+          "electrolyte drink"
+        ],
         "points": 32
       },
       {
-        "text": "Tree",
-        "aliases": [],
+        "text": "Sneakers",
+        "aliases": [
+          "trainers",
+          "shoes"
+        ],
         "points": 24
       },
       {
-        "text": "Car",
-        "aliases": [],
-        "points": 18
+        "text": "Deodorant",
+        "aliases": [
+          "antiperspirant"
+        ],
+        "points": 17
       },
       {
-        "text": "Person",
+        "text": "Protein powder",
         "aliases": [
-          "Stick figure"
+          "protein shake"
         ],
         "points": 12
       },
       {
-        "text": "Sun",
-        "aliases": [],
-        "points": 8
+        "text": "Headphones",
+        "aliases": [
+          "earbuds"
+        ],
+        "points": 9
       },
       {
-        "text": "Dog",
-        "aliases": [],
+        "text": "Razor",
+        "aliases": [
+          "shaving cream"
+        ],
         "points": 6
       }
     ]
@@ -650,96 +699,97 @@
   {
     "id": "games-145",
     "category": "Sports & games",
-    "prompt": "Name a restriction a word game might put on your answer.",
+    "prompt": "What might an athlete do in an interview that becomes a meme?",
     "answers": [
       {
-        "text": "Starts with a certain letter",
+        "text": "Make a funny face",
         "aliases": [
-          "Required first letter"
+          "facial expression"
         ],
-        "points": 28
+        "points": 35
       },
       {
-        "text": "Fits a category",
+        "text": "Cry",
         "aliases": [
-          "Stays in the category"
+          "tear up"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Has a certain length",
+        "text": "Swear",
         "aliases": [
-          "Required word length"
+          "curse"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Rhymes with another word",
+        "text": "Give a bizarre answer",
         "aliases": [
-          "Must rhyme"
+          "weird answer"
         ],
-        "points": 14
+        "points": 11
       },
       {
-        "text": "Cannot repeat a word",
+        "text": "Walk away",
         "aliases": [
-          "No repeats"
+          "leave the interview"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Avoids certain letters",
+        "text": "Burp",
         "aliases": [
-          "Forbidden letters"
+          "belch"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-146",
     "category": "Sports & games",
-    "prompt": "Name a way to give a clue without saying the secret word.",
+    "prompt": "What might a commentator call a player whose name they've forgotten?",
     "answers": [
       {
-        "text": "Describe its use",
+        "text": "Their jersey number",
         "aliases": [
-          "Say what it does"
+          "number"
         ],
-        "points": 35
+        "points": 34
       },
       {
-        "text": "Give a synonym",
+        "text": "The big guy",
         "aliases": [
-          "Use a similar word"
+          "describe their size"
         ],
         "points": 25
       },
       {
-        "text": "Name its opposite",
+        "text": "Their team",
         "aliases": [
-          "Give an antonym"
+          "team name"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Make a sound",
+        "text": "Their position",
         "aliases": [
-          "Sound effect"
+          "position"
         ],
         "points": 11
       },
       {
-        "text": "Act it out",
+        "text": "Their nickname",
         "aliases": [
-          "Mime"
+          "nickname"
         ],
         "points": 8
       },
       {
-        "text": "Compare it to something",
+        "text": "That player",
         "aliases": [
-          "Make a comparison"
+          "the player",
+          "that guy"
         ],
         "points": 5
       }
@@ -748,47 +798,47 @@
   {
     "id": "games-147",
     "category": "Sports & games",
-    "prompt": "Name something people use to keep score in a tabletop game.",
+    "prompt": "Name something commentators discuss when the game gets boring.",
     "answers": [
       {
-        "text": "Paper and pencil",
+        "text": "Old games",
         "aliases": [
-          "Notepad"
+          "past matches"
         ],
         "points": 30
       },
       {
-        "text": "Phone app",
+        "text": "Food",
         "aliases": [
-          "Scorekeeping app"
+          "what they ate"
         ],
         "points": 24
       },
       {
-        "text": "Whiteboard",
+        "text": "Weather",
         "aliases": [
-          "Dry erase board"
+          "temperature"
         ],
         "points": 18
       },
       {
-        "text": "Score track",
+        "text": "Statistics",
         "aliases": [
-          "Scoring track"
+          "stats"
         ],
         "points": 13
       },
       {
-        "text": "Coins",
+        "text": "Their families",
         "aliases": [
-          "Counters"
+          "kids"
         ],
         "points": 9
       },
       {
-        "text": "Tally sticks",
+        "text": "The host city",
         "aliases": [
-          "Matchsticks"
+          "local attractions"
         ],
         "points": 6
       }
@@ -797,43 +847,47 @@
   {
     "id": "games-148",
     "category": "Sports & games",
-    "prompt": "Name a small object that can replace a missing board game token.",
+    "prompt": "Name something that makes a slow-motion replay unexpectedly funny.",
     "answers": [
       {
-        "text": "Coin",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Button",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Bottle cap",
+        "text": "Funny face",
         "aliases": [
-          "Bottle top"
+          "facial expression"
         ],
-        "points": 18
+        "points": 28
       },
       {
-        "text": "Eraser",
+        "text": "Falling over",
         "aliases": [
-          "Rubber"
+          "tripping"
         ],
-        "points": 12
+        "points": 23
       },
       {
-        "text": "Bean",
+        "text": "Hair flying",
         "aliases": [
-          "Dried bean"
+          "hair"
         ],
-        "points": 8
+        "points": 19
       },
       {
-        "text": "Toy figure",
+        "text": "Losing a shoe",
         "aliases": [
-          "Figurine"
+          "shoe flies off"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Ripped pants",
+        "aliases": [
+          "torn uniform"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Spitting",
+        "aliases": [
+          "spit"
         ],
         "points": 6
       }
@@ -842,44 +896,48 @@
   {
     "id": "games-149",
     "category": "Sports & games",
-    "prompt": "Name a clue players might examine in a mystery board game.",
+    "prompt": "What might a crowd member do when the stadium camera points at them?",
     "answers": [
       {
-        "text": "Fingerprint",
+        "text": "Wave",
         "aliases": [
-          "Fingerprints"
+          "wave hello"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Handwritten note",
+        "text": "Dance",
         "aliases": [
-          "Letter"
+          "dancing"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Footprint",
+        "text": "Kiss someone",
         "aliases": [
-          "Footprints"
+          "kiss"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Key",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Photograph",
+        "text": "Hide their face",
         "aliases": [
-          "Photo"
+          "duck"
         ],
-        "points": 10
+        "points": 12
       },
       {
-        "text": "Map",
-        "aliases": [],
+        "text": "Hold up a sign",
+        "aliases": [
+          "show a sign"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Show their jersey",
+        "aliases": [
+          "point at their shirt"
+        ],
         "points": 6
       }
     ]
@@ -887,47 +945,49 @@
   {
     "id": "games-150",
     "category": "Sports & games",
-    "prompt": "Name something that makes the same board game feel different each time.",
+    "prompt": "Name someone you'd hate to end up beside on the stadium kiss cam.",
     "answers": [
       {
-        "text": "Shuffled cards",
+        "text": "An ex",
         "aliases": [
-          "Different card order"
+          "ex partner"
         ],
         "points": 35
       },
       {
-        "text": "Different players",
+        "text": "Boss",
         "aliases": [
-          "New opponents"
+          "manager"
         ],
         "points": 25
       },
       {
-        "text": "Random board layout",
+        "text": "Sibling",
         "aliases": [
-          "Changing board"
+          "brother",
+          "sister"
         ],
         "points": 16
       },
       {
-        "text": "Different characters",
+        "text": "Parent",
         "aliases": [
-          "New characters"
+          "mom",
+          "dad"
         ],
         "points": 11
       },
       {
-        "text": "New goals",
+        "text": "Stranger",
         "aliases": [
-          "Alternate objectives"
+          "someone you don't know"
         ],
         "points": 8
       },
       {
-        "text": "An expansion",
+        "text": "Friend's partner",
         "aliases": [
-          "Extra content"
+          "best friend's spouse"
         ],
         "points": 5
       }
@@ -936,89 +996,97 @@
   {
     "id": "games-151",
     "category": "Sports & games",
-    "prompt": "Name something that can make a tower fall in a stacking game.",
+    "prompt": "Name something you might regret wearing when you appear on the stadium's big screen.",
     "answers": [
       {
-        "text": "Shaky hands",
+        "text": "Rival jersey",
         "aliases": [
-          "Trembling hands"
+          "other team's shirt"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Bumped table",
+        "text": "Silly hat",
         "aliases": [
-          "Someone bumps the table"
+          "funny hat"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Leaning tower",
+        "text": "Ridiculous costume",
         "aliases": [
-          "The tower leans"
+          "costume"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Uneven base",
+        "text": "Stained shirt",
         "aliases": [
-          "Wobbly base"
+          "dirty clothes"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Heavy piece on top",
+        "text": "Bad face paint",
         "aliases": [
-          "Top heavy tower"
+          "smeared face paint"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "A sudden sneeze",
+        "text": "An ex-player's jersey",
         "aliases": [
-          "Sneezing"
+          "traded player's jersey"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-152",
     "category": "Sports & games",
-    "prompt": "Name a feature players might match in a tile game.",
+    "prompt": "What could go wrong when a mascot tries to give someone a hug?",
     "answers": [
       {
-        "text": "Color",
+        "text": "Knocks them over",
         "aliases": [
-          "Colour"
+          "fall over"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Number",
-        "aliases": [],
+        "text": "Spills a drink",
+        "aliases": [
+          "drink spills"
+        ],
         "points": 24
       },
       {
-        "text": "Picture",
+        "text": "Scares a child",
         "aliases": [
-          "Image"
+          "frightens a kid"
         ],
         "points": 18
       },
       {
-        "text": "Shape",
-        "aliases": [],
-        "points": 12
+        "text": "Knocks off glasses",
+        "aliases": [
+          "loses glasses"
+        ],
+        "points": 13
       },
       {
-        "text": "Letter",
-        "aliases": [],
-        "points": 8
+        "text": "Gets stuck",
+        "aliases": [
+          "can't let go"
+        ],
+        "points": 9
       },
       {
-        "text": "Pattern",
-        "aliases": [],
+        "text": "Misses the person",
+        "aliases": [
+          "can't see them"
+        ],
         "points": 6
       }
     ]
@@ -1026,43 +1094,47 @@
   {
     "id": "games-153",
     "category": "Sports & games",
-    "prompt": "Name something people do with a set of dominoes.",
+    "prompt": "Name something a mascot struggles to do while wearing the giant head.",
     "answers": [
       {
-        "text": "Match the ends",
+        "text": "Drink",
         "aliases": [
-          "Match the dots"
+          "sip water"
         ],
         "points": 28
       },
       {
-        "text": "Build a chain",
+        "text": "Eat",
         "aliases": [
-          "Make a line"
+          "have a snack"
         ],
         "points": 23
       },
       {
-        "text": "Count the dots",
-        "aliases": [],
+        "text": "See their phone",
+        "aliases": [
+          "read a text"
+        ],
         "points": 19
       },
       {
-        "text": "Stand them up",
+        "text": "Fit through a doorway",
         "aliases": [
-          "Set up a domino run"
+          "fit in a door"
         ],
         "points": 14
       },
       {
-        "text": "Sort the tiles",
-        "aliases": [],
+        "text": "Blow their nose",
+        "aliases": [
+          "wipe their nose"
+        ],
         "points": 10
       },
       {
-        "text": "Make patterns",
+        "text": "Be heard",
         "aliases": [
-          "Create designs"
+          "talk clearly"
         ],
         "points": 6
       }
@@ -1071,184 +1143,194 @@
   {
     "id": "games-154",
     "category": "Sports & games",
-    "prompt": "Name something a ball might knock over in a tabletop target game.",
+    "prompt": "Name a reason you might secretly be glad a game got rained out.",
     "answers": [
       {
-        "text": "Miniature pins",
+        "text": "Team was losing",
         "aliases": [
-          "Tiny bowling pins"
+          "we were losing"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Dominoes",
+        "text": "Too cold",
         "aliases": [
-          "Dominos"
+          "bad weather"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Stacked blocks",
+        "text": "Tired",
         "aliases": [
-          "Block tower"
+          "wanted to sleep"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Plastic cups",
+        "text": "Other plans",
         "aliases": [
-          "Cups"
+          "somewhere else to be"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Toy figures",
+        "text": "Bad seats",
         "aliases": [
-          "Little figures"
+          "couldn't see"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Standing targets",
+        "text": "Needed the bathroom",
         "aliases": [
-          "Target cards"
+          "had to pee"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "games-155",
     "category": "Sports & games",
-    "prompt": "Name a small tabletop toy that can keep someone busy on a rainy afternoon.",
+    "prompt": "Name something you do at halftime that makes you miss the restart.",
     "answers": [
       {
-        "text": "Dominoes",
+        "text": "Use the bathroom",
         "aliases": [
-          "Dominos"
+          "toilet"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Jacks",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Pick-up sticks",
+        "text": "Buy food",
         "aliases": [
-          "Pickup sticks"
+          "get a snack"
         ],
-        "points": 18
+        "points": 25
       },
       {
-        "text": "Spinning top",
+        "text": "Get drinks",
         "aliases": [
-          "Top"
+          "bar line"
         ],
-        "points": 13
+        "points": 16
       },
       {
-        "text": "Marbles",
-        "aliases": [],
-        "points": 9
-      },
-      {
-        "text": "Tangram",
+        "text": "Find a friend",
         "aliases": [
-          "Tangram puzzle"
+          "meet someone"
         ],
-        "points": 6
+        "points": 11
+      },
+      {
+        "text": "Shop for merchandise",
+        "aliases": [
+          "buy a jersey"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Make a phone call",
+        "aliases": [
+          "call someone"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "games-156",
     "category": "Sports & games",
-    "prompt": "Name something a child could use to make a homemade board game.",
+    "prompt": "Name something a person in the row ahead does that ruins the game for you.",
     "answers": [
       {
-        "text": "Cardboard",
+        "text": "Keeps standing",
         "aliases": [
-          "Card"
+          "stands up"
         ],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Markers",
+        "text": "Wears a huge hat",
         "aliases": [
-          "Felt pens"
+          "big hat"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Dice",
+        "text": "Holds up a sign",
         "aliases": [
-          "Die"
+          "blocks with a sign"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Buttons",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Index cards",
+        "text": "Films over their head",
         "aliases": [
-          "Note cards"
+          "holds up a phone"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Smokes",
+        "aliases": [
+          "vapes"
         ],
         "points": 8
       },
       {
-        "text": "Stickers",
-        "aliases": [],
-        "points": 6
+        "text": "Shouts abuse",
+        "aliases": [
+          "swears constantly"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "games-157",
     "category": "Sports & games",
-    "prompt": "Name a resource players might trade in a settlement-building board game.",
+    "prompt": "What could tempt you to trade stadium seats with a stranger?",
     "answers": [
       {
-        "text": "Wood",
+        "text": "Better view",
         "aliases": [
-          "Lumber"
+          "closer to the action"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Brick",
+        "text": "Shade",
         "aliases": [
-          "Bricks"
+          "less sun"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Grain",
+        "text": "Sit with friends",
         "aliases": [
-          "Wheat"
+          "near family"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Stone",
+        "text": "Escape a drunk",
         "aliases": [
-          "Rock"
+          "bad neighbor"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Wool",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Metal",
+        "text": "More legroom",
         "aliases": [
-          "Ore"
+          "space"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Closer to the exit",
+        "aliases": [
+          "easy way out"
         ],
         "points": 6
       }
@@ -1257,96 +1339,96 @@
   {
     "id": "games-158",
     "category": "Sports & games",
-    "prompt": "Name a goal a board game might ask players to achieve.",
+    "prompt": "Name someone worse to sit beside at a game than a fan of the other team.",
     "answers": [
       {
-        "text": "Score the most points",
+        "text": "Drunk person",
         "aliases": [
-          "Have the highest score"
+          "drunk fan"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Reach the finish",
+        "text": "Screaming child",
         "aliases": [
-          "Get to the end"
+          "crying baby"
         ],
-        "points": 25
+        "points": 23
       },
       {
-        "text": "Collect a full set",
+        "text": "Smelly person",
         "aliases": [
-          "Complete a collection"
+          "bad body odor"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Checkmate the king",
+        "text": "Constant talker",
         "aliases": [
-          "Checkmate"
+          "chatterbox"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Solve a mystery",
+        "text": "Someone coughing",
         "aliases": [
-          "Find the culprit"
+          "sick person"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Survive together",
+        "text": "Drink spiller",
         "aliases": [
-          "Keep the team alive"
+          "spills on you"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "games-159",
     "category": "Sports & games",
-    "prompt": "Name something an organizer prepares for a board game tournament.",
+    "prompt": "Name something fans do the second their team scores.",
     "answers": [
       {
-        "text": "Tables",
+        "text": "Cheer",
         "aliases": [
-          "Playing tables"
+          "scream"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Match schedule",
+        "text": "Jump up",
         "aliases": [
-          "Brackets"
+          "stand up"
         ],
         "points": 24
       },
       {
-        "text": "Timers",
+        "text": "High-five",
         "aliases": [
-          "Clocks"
+          "high five"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Prizes",
+        "text": "Hug",
         "aliases": [
-          "Awards"
+          "embrace"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Sign-up sheet",
+        "text": "Clap",
         "aliases": [
-          "Registration list"
+          "applaud"
         ],
         "points": 9
       },
       {
-        "text": "Tournament rules",
+        "text": "Raise their drink",
         "aliases": [
-          "Competition rules"
+          "toast"
         ],
         "points": 6
       }
@@ -1355,190 +1437,194 @@
   {
     "id": "games-160",
     "category": "Sports & games",
-    "prompt": "Name a personality trait someone might give a tabletop role-playing character.",
+    "prompt": "Name something that distracts you enough to miss the game's biggest moment.",
     "answers": [
       {
-        "text": "Brave",
+        "text": "Phone",
         "aliases": [
-          "Courageous"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Sneaky",
-        "aliases": [
-          "Secretive"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Funny",
-        "aliases": [
-          "Humorous"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Loyal",
-        "aliases": [
-          "Faithful"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Curious",
-        "aliases": [
-          "Inquisitive"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Grumpy",
-        "aliases": [
-          "Grouchy"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "games-161",
-    "category": "Sports & games",
-    "prompt": "Name something people do with their playing cards while waiting for a turn.",
-    "answers": [
-      {
-        "text": "Sort them",
-        "aliases": [
-          "Arrange them"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Fan them out",
-        "aliases": [
-          "Spread them in a fan"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Count them",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Tap them on the table",
-        "aliases": [
-          "Tap the cards"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Hold them close",
-        "aliases": [
-          "Keep them hidden"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Practice a card flourish",
-        "aliases": [
-          "Do a one-handed cut"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "games-162",
-    "category": "Sports & games",
-    "prompt": "Name a reason players might deal the cards again.",
-    "answers": [
-      {
-        "text": "Wrong number of cards",
-        "aliases": [
-          "Too many cards dealt"
+          "text message"
         ],
         "points": 35
       },
       {
-        "text": "A card was exposed",
+        "text": "Getting food",
         "aliases": [
-          "Someone saw a card"
+          "snack run"
         ],
         "points": 25
       },
       {
-        "text": "Cards left in the box",
+        "text": "Bathroom trip",
         "aliases": [
-          "Missing cards in the deal"
+          "toilet"
         ],
         "points": 16
       },
       {
-        "text": "Wrong dealer",
+        "text": "Argument",
         "aliases": [
-          "Dealt out of turn"
+          "fight"
         ],
         "points": 11
       },
       {
-        "text": "Two decks got mixed",
+        "text": "Attractive stranger",
         "aliases": [
-          "Mixed decks"
+          "cute person"
         ],
         "points": 8
       },
       {
-        "text": "A drink spilled",
+        "text": "Child",
         "aliases": [
-          "Wet cards"
+          "looking after a kid"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "games-163",
+    "id": "games-161",
     "category": "Sports & games",
-    "prompt": "Name something someone might say during a family card game.",
+    "prompt": "Name something a fan might use to catch a ball without a glove.",
     "answers": [
       {
-        "text": "Your turn",
+        "text": "Bare hands",
         "aliases": [
-          "It is your turn"
+          "hands"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Hat",
+        "aliases": [
+          "cap"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Shirt",
+        "aliases": [
+          "jersey"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Popcorn bucket",
+        "aliases": [
+          "popcorn tub"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Cup",
+        "aliases": [
+          "drink cup"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bag",
+        "aliases": [
+          "backpack"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-162",
+    "category": "Sports & games",
+    "prompt": "What might a fan do right after catching a ball in the stands?",
+    "answers": [
+      {
+        "text": "Hold it up",
+        "aliases": [
+          "show it off"
         ],
         "points": 30
       },
       {
-        "text": "Draw a card",
+        "text": "Give it to a child",
         "aliases": [
-          "Pick up a card"
+          "give it to a kid"
         ],
         "points": 24
       },
       {
-        "text": "Go Fish",
-        "aliases": [],
+        "text": "Take a photo",
+        "aliases": [
+          "selfie"
+        ],
         "points": 18
       },
       {
-        "text": "You are skipped",
+        "text": "Put it away",
         "aliases": [
-          "Skip you"
+          "keep it safe"
         ],
         "points": 13
       },
       {
-        "text": "Uno",
+        "text": "Throw it back",
         "aliases": [
-          "One card left"
+          "return it"
         ],
         "points": 9
       },
       {
-        "text": "I win",
+        "text": "Try to sell it",
         "aliases": [
-          "I won"
+          "sell it"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-163",
+    "category": "Sports & games",
+    "prompt": "Name something a fan might brag about for years after one game.",
+    "answers": [
+      {
+        "text": "Caught a ball",
+        "aliases": [
+          "caught the ball"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Met a player",
+        "aliases": [
+          "met an athlete"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Appeared on TV",
+        "aliases": [
+          "was on television"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Saw a championship win",
+        "aliases": [
+          "saw them win a title"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Won a prize",
+        "aliases": [
+          "won a giveaway"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Predicted the result",
+        "aliases": [
+          "called the score"
         ],
         "points": 6
       }
@@ -1547,43 +1633,47 @@
   {
     "id": "games-164",
     "category": "Sports & games",
-    "prompt": "Name a design you might see on the back of playing cards.",
+    "prompt": "Name something fans do when their team is losing badly.",
     "answers": [
       {
-        "text": "Diamonds",
+        "text": "Leave",
         "aliases": [
-          "Diamond pattern"
+          "go home"
         ],
         "points": 32
       },
       {
-        "text": "Stars",
-        "aliases": [],
+        "text": "Boo",
+        "aliases": [
+          "jeer"
+        ],
         "points": 24
       },
       {
-        "text": "Flowers",
+        "text": "Complain",
         "aliases": [
-          "Floral pattern"
+          "moan"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Stripes",
-        "aliases": [],
+        "text": "Change the channel",
+        "aliases": [
+          "turn off the TV"
+        ],
         "points": 12
       },
       {
-        "text": "A logo",
+        "text": "Drink more",
         "aliases": [
-          "Brand logo"
+          "get another drink"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "An animal",
+        "text": "Go quiet",
         "aliases": [
-          "Animal picture"
+          "sit silently"
         ],
         "points": 6
       }
@@ -1592,94 +1682,96 @@
   {
     "id": "games-165",
     "category": "Sports & games",
-    "prompt": "Name something people use playing cards for besides a card game.",
+    "prompt": "What might convince you to stay until the end of a terrible game?",
     "answers": [
       {
-        "text": "Magic tricks",
+        "text": "Possible comeback",
         "aliases": [
-          "Card tricks"
+          "they might win"
         ],
-        "points": 28
+        "points": 35
       },
       {
-        "text": "Building a card house",
+        "text": "Expensive ticket",
         "aliases": [
-          "House of cards"
+          "paid too much"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Craft projects",
+        "text": "Friend wants to stay",
         "aliases": [
-          "Arts and crafts"
+          "family wants to stay"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Bookmarks",
+        "text": "Fireworks afterward",
         "aliases": [
-          "Book marker"
+          "postgame show"
         ],
-        "points": 14
+        "points": 11
       },
       {
-        "text": "Learning numbers",
+        "text": "Free giveaway",
         "aliases": [
-          "Number lessons"
+          "prize"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Bicycle spoke noisemakers",
+        "text": "Ride isn't ready",
         "aliases": [
-          "Cards in bike spokes"
+          "waiting for a lift"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-166",
     "category": "Sports & games",
-    "prompt": "Name a way an audience reacts to an impressive card trick.",
+    "prompt": "Name a reason a fan might lose their voice before the game even starts.",
     "answers": [
       {
-        "text": "Applauds",
+        "text": "Pregame chanting",
         "aliases": [
-          "Claps"
+          "chanting"
         ],
-        "points": 35
+        "points": 34
       },
       {
-        "text": "Gasps",
+        "text": "Singing the anthem",
         "aliases": [
-          "Gasps in surprise"
+          "singing"
         ],
         "points": 25
       },
       {
-        "text": "Laughs",
-        "aliases": [],
-        "points": 16
+        "text": "Tailgate party",
+        "aliases": [
+          "partying"
+        ],
+        "points": 17
       },
       {
-        "text": "Asks to see it again",
+        "text": "Arguing",
         "aliases": [
-          "Says do it again"
+          "fighting"
         ],
         "points": 11
       },
       {
-        "text": "Inspects the deck",
+        "text": "Shouting at players",
         "aliases": [
-          "Checks the cards"
+          "calling to players"
         ],
         "points": 8
       },
       {
-        "text": "Tries to guess the secret",
+        "text": "Sore throat",
         "aliases": [
-          "Explains how it works"
+          "a cold"
         ],
         "points": 5
       }
@@ -1688,46 +1780,47 @@
   {
     "id": "games-167",
     "category": "Sports & games",
-    "prompt": "Name a picture theme children enjoy in a matching-card game.",
+    "prompt": "Name something a stadium security guard might ask an excited fan to stop doing.",
     "answers": [
       {
-        "text": "Farm animals",
+        "text": "Running onto the field",
         "aliases": [
-          "Farmyard animals",
-          "Barnyard animals"
+          "invading the pitch"
         ],
         "points": 30
       },
       {
-        "text": "Vehicles",
+        "text": "Throwing things",
         "aliases": [
-          "Cars and trucks"
+          "throwing objects"
         ],
         "points": 24
       },
       {
-        "text": "Fruit",
+        "text": "Fighting",
         "aliases": [
-          "Fruits"
+          "starting a fight"
         ],
         "points": 18
       },
       {
-        "text": "Dinosaurs",
-        "aliases": [],
+        "text": "Climbing",
+        "aliases": [
+          "climbing a fence"
+        ],
         "points": 13
       },
       {
-        "text": "Letters",
+        "text": "Blocking the aisle",
         "aliases": [
-          "Alphabet"
+          "standing in a walkway"
         ],
         "points": 9
       },
       {
-        "text": "Cartoon characters",
+        "text": "Blowing an air horn",
         "aliases": [
-          "Cartoons"
+          "using a horn"
         ],
         "points": 6
       }
@@ -1736,47 +1829,47 @@
   {
     "id": "games-168",
     "category": "Sports & games",
-    "prompt": "Name something collectors admire about a trading card.",
+    "prompt": "Name something that could make a parent regret bringing a toddler to a game.",
     "answers": [
       {
-        "text": "Artwork",
+        "text": "Crying",
         "aliases": [
-          "Illustration"
+          "tantrum"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Rarity",
+        "text": "Constant bathroom trips",
         "aliases": [
-          "How rare it is"
+          "needs the toilet"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Favorite character",
+        "text": "Fear of the noise",
         "aliases": [
-          "Character"
+          "too loud"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Shiny finish",
+        "text": "Wants to go home",
         "aliases": [
-          "Foil finish"
+          "bored"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Game strength",
+        "text": "Dropped food",
         "aliases": [
-          "Power"
+          "spilled snacks"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Good condition",
+        "text": "Missed nap",
         "aliases": [
-          "Mint condition"
+          "overtired"
         ],
         "points": 6
       }
@@ -1785,45 +1878,47 @@
   {
     "id": "games-169",
     "category": "Sports & games",
-    "prompt": "Name a picture someone might choose for a jigsaw puzzle.",
+    "prompt": "Name something a child might care about more than the actual game.",
     "answers": [
       {
-        "text": "Landscape",
+        "text": "Mascot",
         "aliases": [
-          "Scenery"
+          "team mascot"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Animals",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "City skyline",
+        "text": "Snacks",
         "aliases": [
-          "City"
+          "food"
         ],
-        "points": 19
+        "points": 24
       },
       {
-        "text": "Famous painting",
+        "text": "Big screen",
         "aliases": [
-          "Art"
+          "seeing themselves on TV"
         ],
-        "points": 14
+        "points": 17
       },
       {
-        "text": "Map",
+        "text": "Gift shop",
         "aliases": [
-          "World map"
+          "souvenirs"
         ],
-        "points": 10
+        "points": 12
       },
       {
-        "text": "Food",
+        "text": "Getting a ball",
         "aliases": [
-          "Food picture"
+          "catching a ball"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Fireworks",
+        "aliases": [
+          "firework show"
         ],
         "points": 6
       }
@@ -1832,47 +1927,47 @@
   {
     "id": "games-170",
     "category": "Sports & games",
-    "prompt": "Name something people do to make a jigsaw puzzle easier.",
+    "prompt": "How might a fan persuade their partner to come to a game?",
     "answers": [
       {
-        "text": "Find the edge pieces",
+        "text": "Buy them food",
         "aliases": [
-          "Start with the border"
+          "promise snacks"
         ],
         "points": 35
       },
       {
-        "text": "Sort by color",
+        "text": "Get good seats",
         "aliases": [
-          "Sort by colour"
+          "better seats"
         ],
         "points": 25
       },
       {
-        "text": "Look at the box picture",
+        "text": "Invite their friends",
         "aliases": [
-          "Use the picture"
+          "friends are coming"
         ],
         "points": 16
       },
       {
-        "text": "Group similar shapes",
+        "text": "Promise a favor",
         "aliases": [
-          "Sort by shape"
+          "return the favor"
         ],
         "points": 11
       },
       {
-        "text": "Build small sections",
+        "text": "Make it a trip",
         "aliases": [
-          "Work in sections"
+          "weekend getaway"
         ],
         "points": 8
       },
       {
-        "text": "Turn pieces face up",
+        "text": "Offer a gift",
         "aliases": [
-          "Flip all pieces over"
+          "buy them something"
         ],
         "points": 5
       }
@@ -1881,90 +1976,96 @@
   {
     "id": "games-171",
     "category": "Sports & games",
-    "prompt": "Name a surface people use for a jigsaw puzzle.",
+    "prompt": "Name something about a live game that surprises someone who's only watched on TV.",
     "answers": [
       {
-        "text": "Dining table",
+        "text": "How loud it is",
         "aliases": [
-          "Kitchen table"
+          "noise"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Puzzle mat",
+        "text": "How far away players look",
         "aliases": [
-          "Roll up mat"
+          "distance"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Coffee table",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Desk",
-        "aliases": [],
-        "points": 13
-      },
-      {
-        "text": "Puzzle tray",
+        "text": "Long pauses",
         "aliases": [
-          "Tray"
+          "waiting around"
         ],
-        "points": 9
+        "points": 17
       },
       {
-        "text": "Floor",
-        "aliases": [],
-        "points": 6
+        "text": "High prices",
+        "aliases": [
+          "cost"
+        ],
+        "points": 11
+      },
+      {
+        "text": "No commentary",
+        "aliases": [
+          "no announcers explaining"
+        ],
+        "points": 8
+      },
+      {
+        "text": "How big the stadium is",
+        "aliases": [
+          "size of the stadium"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "games-172",
     "category": "Sports & games",
-    "prompt": "Name something people do with a finished jigsaw puzzle.",
+    "prompt": "Name something a fan secretly envies about the rival team.",
     "answers": [
       {
-        "text": "Take it apart",
+        "text": "Star player",
         "aliases": [
-          "Put it back in the box"
+          "their best player"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Frame it",
+        "text": "Trophies",
         "aliases": [
-          "Put it in a frame"
+          "championships"
         ],
         "points": 24
       },
       {
-        "text": "Glue it together",
+        "text": "Coach",
         "aliases": [
-          "Glue it"
+          "manager"
         ],
         "points": 18
       },
       {
-        "text": "Display it",
+        "text": "Stadium",
         "aliases": [
-          "Leave it on show"
+          "arena"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Photograph it",
+        "text": "Uniforms",
         "aliases": [
-          "Take a picture"
+          "jerseys"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Donate it",
+        "text": "Fan support",
         "aliases": [
-          "Give it away"
+          "fan base"
         ],
         "points": 6
       }
@@ -1973,46 +2074,49 @@
   {
     "id": "games-173",
     "category": "Sports & games",
-    "prompt": "Name an accessory that helps someone work on a detailed jigsaw puzzle.",
+    "prompt": "Name a sport people suddenly become experts on during the Olympics.",
     "answers": [
       {
-        "text": "Sorting trays",
+        "text": "Gymnastics",
         "aliases": [
-          "Piece trays"
+          "gymnastic routines"
         ],
         "points": 28
       },
       {
-        "text": "Good lamp",
+        "text": "Diving",
         "aliases": [
-          "Desk lamp"
+          "springboard diving"
         ],
         "points": 23
       },
       {
-        "text": "Magnifying glass",
+        "text": "Figure skating",
         "aliases": [
-          "Magnifier"
+          "ice skating"
         ],
         "points": 19
       },
       {
-        "text": "Puzzle board",
+        "text": "Swimming",
         "aliases": [
-          "Puzzle table"
+          "swim races"
         ],
         "points": 14
       },
       {
-        "text": "Roll-up mat",
+        "text": "Track",
         "aliases": [
-          "Puzzle mat"
+          "athletics",
+          "sprinting"
         ],
         "points": 10
       },
       {
-        "text": "Tweezers",
-        "aliases": [],
+        "text": "Ski jumping",
+        "aliases": [
+          "ski jumps"
+        ],
         "points": 6
       }
     ]
@@ -2020,178 +2124,195 @@
   {
     "id": "games-174",
     "category": "Sports & games",
-    "prompt": "Name something people do when they cannot solve a crossword clue.",
+    "prompt": "Name something a fan shouts that could also be shouted at a bad driver.",
     "answers": [
       {
-        "text": "Check crossing letters",
+        "text": "Move",
         "aliases": [
-          "Use other answers"
+          "get out of the way"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Ask someone",
+        "text": "Are you blind",
         "aliases": [
-          "Ask a friend"
+          "can't you see"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Look in a dictionary",
+        "text": "Watch out",
         "aliases": [
-          "Use a dictionary"
+          "look out"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Skip the clue",
+        "text": "Come on",
         "aliases": [
-          "Come back later"
+          "come on already"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Take a break",
-        "aliases": [],
-        "points": 8
+        "text": "What are you doing",
+        "aliases": [
+          "what was that"
+        ],
+        "points": 9
       },
       {
-        "text": "Pencil in a guess",
+        "text": "Are you asleep",
         "aliases": [
-          "Make a tentative guess"
+          "wake up",
+          "are you awake"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "games-175",
     "category": "Sports & games",
-    "prompt": "Name a theme for the hidden words in a word search.",
+    "prompt": "Name something fans still argue about long after a game ends.",
     "answers": [
       {
-        "text": "Animals",
-        "aliases": [],
-        "points": 30
-      },
-      {
-        "text": "Holidays",
+        "text": "Bad call",
         "aliases": [
-          "Celebrations"
+          "referee decision"
         ],
-        "points": 24
+        "points": 35
       },
       {
-        "text": "Countries",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Food",
+        "text": "Best player",
         "aliases": [
-          "Foods"
+          "player of the game"
         ],
-        "points": 13
+        "points": 25
       },
       {
-        "text": "Sports",
-        "aliases": [],
-        "points": 9
-      },
-      {
-        "text": "Jobs",
+        "text": "Coaching decision",
         "aliases": [
-          "Occupations"
+          "bad strategy"
         ],
-        "points": 6
+        "points": 16
+      },
+      {
+        "text": "Cheating",
+        "aliases": [
+          "unfair play"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Who deserved to win",
+        "aliases": [
+          "better team"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Rude fans",
+        "aliases": [
+          "fan behavior"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "games-176",
     "category": "Sports & games",
-    "prompt": "Name a type of puzzle often found in an activity book.",
+    "prompt": "Name something a fan does to avoid hearing the score of a recorded game.",
     "answers": [
       {
-        "text": "Word search",
+        "text": "Avoids the phone",
         "aliases": [
-          "Wordsearch"
+          "turns off phone"
         ],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Crossword",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Sudoku",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Maze",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Spot the difference",
+        "text": "Turns off the radio",
         "aliases": [
-          "Find the differences"
+          "no radio"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Avoids live TV",
+        "aliases": [
+          "stays off television"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Warns friends",
+        "aliases": [
+          "asks people not to tell"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Stays home",
+        "aliases": [
+          "avoids people"
         ],
         "points": 8
       },
       {
-        "text": "Connect the dots",
+        "text": "Covers their ears",
         "aliases": [
-          "Dot to dot"
+          "blocks their ears"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-177",
     "category": "Sports & games",
-    "prompt": "Name somewhere players might search for a clue in an escape room.",
+    "prompt": "Why might a family make someone watch the game in another room?",
     "answers": [
       {
-        "text": "Drawer",
+        "text": "Too much shouting",
         "aliases": [
-          "Drawers"
+          "too loud"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Book",
+        "text": "Swearing",
         "aliases": [
-          "Books"
+          "bad language"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Behind a picture",
+        "text": "Throwing things",
         "aliases": [
-          "Picture frame"
+          "breaks things"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Safe",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Box",
+        "text": "Won't share the TV",
         "aliases": [
-          "Locked box"
+          "takes over the television"
         ],
-        "points": 10
+        "points": 13
       },
       {
-        "text": "Under a rug",
+        "text": "Constant complaining",
         "aliases": [
-          "Under the carpet"
+          "too negative"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Wakes the baby",
+        "aliases": [
+          "baby is sleeping"
         ],
         "points": 6
       }
@@ -2200,90 +2321,97 @@
   {
     "id": "games-178",
     "category": "Sports & games",
-    "prompt": "Name something an escape-room clue might tell players to put in order.",
+    "prompt": "Name something that disappears fastest at a championship watch party.",
     "answers": [
       {
-        "text": "Numbers",
+        "text": "Wings",
         "aliases": [
-          "Digits"
+          "chicken wings"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Letters",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Colors",
+        "text": "Pizza",
         "aliases": [
-          "Colours"
+          "pizza slices"
         ],
-        "points": 16
+        "points": 23
       },
       {
-        "text": "Symbols",
-        "aliases": [],
-        "points": 11
-      },
-      {
-        "text": "Directions",
+        "text": "Chips",
         "aliases": [
-          "Arrows"
+          "crisps"
         ],
-        "points": 8
+        "points": 19
       },
       {
-        "text": "Dates",
-        "aliases": [],
-        "points": 5
+        "text": "Beer",
+        "aliases": [
+          "alcohol"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Dip",
+        "aliases": [
+          "guacamole",
+          "salsa"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Ice",
+        "aliases": [
+          "ice cubes"
+        ],
+        "points": 6
       }
     ]
   },
   {
     "id": "games-179",
     "category": "Sports & games",
-    "prompt": "Name a job someone might take on in an escape-room team.",
+    "prompt": "Name something a guest does that gets them uninvited from the next watch party.",
     "answers": [
       {
-        "text": "Searching for clues",
+        "text": "Spoils the score",
         "aliases": [
-          "Searcher"
+          "gives spoilers"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Solving codes",
+        "text": "Insults the host's team",
         "aliases": [
-          "Code solver"
+          "mocks their team"
         ],
         "points": 24
       },
       {
-        "text": "Taking notes",
+        "text": "Eats all the food",
         "aliases": [
-          "Note taker"
+          "won't share snacks"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Watching the time",
+        "text": "Spills a drink",
         "aliases": [
-          "Timekeeper"
+          "makes a mess"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Organizing found items",
+        "text": "Changes the channel",
         "aliases": [
-          "Item organizer"
+          "takes the remote"
         ],
         "points": 9
       },
       {
-        "text": "Reporting discoveries",
+        "text": "Talks through the game",
         "aliases": [
-          "Communicator"
+          "won't stop talking"
         ],
         "points": 6
       }
@@ -2292,194 +2420,200 @@
   {
     "id": "games-180",
     "category": "Sports & games",
-    "prompt": "Name a detail people compare in a spot-the-difference puzzle.",
+    "prompt": "Name something that starts a fight over the TV on game day.",
     "answers": [
       {
-        "text": "Color",
+        "text": "Kids want cartoons",
         "aliases": [
-          "Colour"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Missing objects",
-        "aliases": [
-          "Missing items"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Object size",
-        "aliases": [
-          "Size"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Position",
-        "aliases": [
-          "Location"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Number of objects",
-        "aliases": [
-          "Object count"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Background details",
-        "aliases": [
-          "Background"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "games-181",
-    "category": "Sports & games",
-    "prompt": "Name a setting players often adjust in a video game.",
-    "answers": [
-      {
-        "text": "Volume",
-        "aliases": [
-          "Sound volume"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Difficulty",
-        "aliases": [
-          "Difficulty level"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Brightness",
-        "aliases": [
-          "Screen brightness"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Controller sensitivity",
-        "aliases": [
-          "Mouse sensitivity"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Subtitles",
-        "aliases": [
-          "Captions"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Graphics quality",
-        "aliases": [
-          "Video quality"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "games-182",
-    "category": "Sports & games",
-    "prompt": "Name a service a friendly character might provide in a video game.",
-    "answers": [
-      {
-        "text": "Sell supplies",
-        "aliases": [
-          "Sell items"
+          "children's shows"
         ],
         "points": 35
       },
       {
-        "text": "Heal injuries",
+        "text": "Partner's favorite show",
         "aliases": [
-          "Restore health"
+          "another TV show"
         ],
         "points": 25
       },
       {
-        "text": "Give directions",
+        "text": "Another game",
         "aliases": [
-          "Show the way"
+          "different match"
         ],
         "points": 16
       },
       {
-        "text": "Repair equipment",
+        "text": "Volume",
         "aliases": [
-          "Fix damaged gear"
+          "too loud"
         ],
         "points": 11
       },
       {
-        "text": "Provide transportation",
+        "text": "Changing channels during ads",
         "aliases": [
-          "Offer a ride"
+          "channel surfing"
         ],
         "points": 8
       },
       {
-        "text": "Teach skills",
+        "text": "Someone wants to play video games",
         "aliases": [
-          "Train the player"
+          "console game"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "games-183",
+    "id": "games-181",
     "category": "Sports & games",
-    "prompt": "Name something a video game character might carry in an inventory.",
+    "prompt": "What might happen to a living room when a last-second shot goes in?",
     "answers": [
       {
-        "text": "Tools",
+        "text": "Drink spills",
         "aliases": [
-          "Tool"
+          "spilled beer"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Food flies",
+        "aliases": [
+          "snacks everywhere"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Someone jumps on the couch",
+        "aliases": [
+          "sofa jumping"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Lamp falls",
+        "aliases": [
+          "knocked-over lamp"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Pet gets scared",
+        "aliases": [
+          "scared dog"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Baby wakes up",
+        "aliases": [
+          "wakes the baby"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-182",
+    "category": "Sports & games",
+    "prompt": "Name something a watch-party host says that makes you realize there are house rules.",
+    "answers": [
+      {
+        "text": "Shoes off",
+        "aliases": [
+          "remove your shoes"
         ],
         "points": 30
       },
       {
-        "text": "Food",
+        "text": "Use a coaster",
         "aliases": [
-          "Snacks"
+          "put a coaster down"
         ],
         "points": 24
       },
       {
-        "text": "Potions",
+        "text": "No rival jerseys",
         "aliases": [
-          "Potion"
+          "no other team shirts"
         ],
         "points": 18
       },
       {
-        "text": "Keys",
+        "text": "No spoilers",
         "aliases": [
-          "Key"
+          "do not reveal the score"
         ],
         "points": 13
       },
       {
-        "text": "Coins",
+        "text": "Bring your own drinks",
         "aliases": [
-          "Money"
+          "byob"
         ],
         "points": 9
       },
       {
-        "text": "Maps",
+        "text": "Do not touch the remote",
         "aliases": [
-          "Map"
+          "hands off the remote"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-183",
+    "category": "Sports & games",
+    "prompt": "Name something people ask to watch again during a game.",
+    "answers": [
+      {
+        "text": "Incredible score",
+        "aliases": [
+          "great goal",
+          "amazing shot"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Disputed call",
+        "aliases": [
+          "bad call",
+          "referee decision"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Big collision",
+        "aliases": [
+          "hard hit",
+          "big tackle"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Funny mistake",
+        "aliases": [
+          "funny fall",
+          "player slipping"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Victory celebration",
+        "aliases": [
+          "celebration dance",
+          "victory dance"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Celebrity in the crowd",
+        "aliases": [
+          "famous spectator",
+          "celebrity fan"
         ],
         "points": 6
       }
@@ -2488,41 +2622,47 @@
   {
     "id": "games-184",
     "category": "Sports & games",
-    "prompt": "Name a place players might explore in an adventure video game.",
+    "prompt": "Name something a fan wears at home that they wouldn't wear to work.",
     "answers": [
       {
-        "text": "Forest",
+        "text": "Pajamas",
         "aliases": [
-          "Woods"
+          "pyjamas"
         ],
         "points": 32
       },
       {
-        "text": "Castle",
-        "aliases": [],
+        "text": "Underwear",
+        "aliases": [
+          "boxers"
+        ],
         "points": 24
       },
       {
-        "text": "Cave",
-        "aliases": [],
-        "points": 18
+        "text": "Face paint",
+        "aliases": [
+          "painted face"
+        ],
+        "points": 17
       },
       {
-        "text": "City",
+        "text": "Team jersey",
         "aliases": [
-          "Town"
+          "sports shirt"
         ],
         "points": 12
       },
       {
-        "text": "Desert",
-        "aliases": [],
-        "points": 8
+        "text": "Giant foam hat",
+        "aliases": [
+          "silly hat"
+        ],
+        "points": 9
       },
       {
-        "text": "Ocean",
+        "text": "Mascot costume",
         "aliases": [
-          "Sea"
+          "costume"
         ],
         "points": 6
       }
@@ -2531,96 +2671,97 @@
   {
     "id": "games-185",
     "category": "Sports & games",
-    "prompt": "Name something players do to care for a virtual pet.",
+    "prompt": "Name something a fan checks before choosing who gets their spare ticket.",
     "answers": [
       {
-        "text": "Feed it",
+        "text": "Team loyalty",
         "aliases": [
-          "Give it food"
+          "supports the same team"
         ],
-        "points": 28
+        "points": 35
       },
       {
-        "text": "Play with it",
+        "text": "Availability",
         "aliases": [
-          "Play games with it"
+          "free that day"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Wash it",
+        "text": "Willingness to pay",
         "aliases": [
-          "Give it a bath"
+          "can pay for it"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Walk it",
+        "text": "Behavior at games",
         "aliases": [
-          "Take it for a walk"
+          "will they embarrass me"
         ],
-        "points": 14
+        "points": 11
       },
       {
-        "text": "Train it",
+        "text": "Who can drive",
         "aliases": [
-          "Teach it tricks"
+          "can give me a ride",
+          "has a car"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Decorate its home",
+        "text": "Who invited them last time",
         "aliases": [
-          "Improve its home"
+          "returning a favor"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-186",
     "category": "Sports & games",
-    "prompt": "Name a task players do in a farming video game.",
+    "prompt": "What might you do if your boss supports your team's biggest rival?",
     "answers": [
       {
-        "text": "Plant seeds",
+        "text": "Avoid sports talk",
         "aliases": [
-          "Plant crops"
+          "change the subject"
         ],
-        "points": 35
+        "points": 34
       },
       {
-        "text": "Water crops",
+        "text": "Tease politely",
         "aliases": [
-          "Water plants"
+          "friendly banter"
         ],
         "points": 25
       },
       {
-        "text": "Harvest crops",
+        "text": "Hide team gear",
         "aliases": [
-          "Pick crops"
+          "don't wear the jersey"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Feed animals",
+        "text": "Pretend to agree",
         "aliases": [
-          "Care for livestock"
+          "humor the boss"
         ],
         "points": 11
       },
       {
-        "text": "Go fishing",
+        "text": "Brag after a win",
         "aliases": [
-          "Catch fish"
+          "gloat"
         ],
         "points": 8
       },
       {
-        "text": "Sell produce",
+        "text": "Get them a joke gift",
         "aliases": [
-          "Sell crops"
+          "rivalry gift"
         ],
         "points": 5
       }
@@ -2629,41 +2770,51 @@
   {
     "id": "games-187",
     "category": "Sports & games",
-    "prompt": "Name something players build in a city-building video game.",
+    "prompt": "Name something a sports fan might skip work to attend.",
     "answers": [
       {
-        "text": "Houses",
+        "text": "Championship game",
         "aliases": [
-          "Homes"
+          "the final",
+          "championship final"
         ],
         "points": 30
       },
       {
-        "text": "Roads",
+        "text": "Victory parade",
         "aliases": [
-          "Streets"
+          "championship parade"
         ],
         "points": 24
       },
       {
-        "text": "Schools",
-        "aliases": [],
+        "text": "Autograph signing",
+        "aliases": [
+          "meet a player",
+          "player appearance"
+        ],
         "points": 18
       },
       {
-        "text": "Hospitals",
-        "aliases": [],
+        "text": "Draft party",
+        "aliases": [
+          "draft night"
+        ],
         "points": 13
       },
       {
-        "text": "Parks",
-        "aliases": [],
+        "text": "Training camp",
+        "aliases": [
+          "open practice",
+          "team practice"
+        ],
         "points": 9
       },
       {
-        "text": "Power stations",
+        "text": "Team tryout",
         "aliases": [
-          "Power plants"
+          "tryouts",
+          "open tryouts"
         ],
         "points": 6
       }
@@ -2672,47 +2823,47 @@
   {
     "id": "games-188",
     "category": "Sports & games",
-    "prompt": "Name a hazard that could slow a car in a racing video game.",
+    "prompt": "Name an excuse a fan uses to buy yet another jersey.",
     "answers": [
       {
-        "text": "Sharp turn",
+        "text": "New favorite player",
         "aliases": [
-          "Tight corner"
+          "new signing"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Traffic",
+        "text": "Old one doesn't fit",
         "aliases": [
-          "Other cars"
+          "wrong size"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Oil slick",
+        "text": "It's on sale",
         "aliases": [
-          "Oil on the road"
+          "discount"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Bad weather",
+        "text": "Different team colors",
         "aliases": [
-          "Rain"
+          "away jersey"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Falling rocks",
+        "text": "It's lucky",
         "aliases": [
-          "Rockslide"
+          "good luck"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Jump ramp",
+        "text": "It's a collectible",
         "aliases": [
-          "Ramp"
+          "limited edition"
         ],
         "points": 6
       }
@@ -2721,43 +2872,47 @@
   {
     "id": "games-189",
     "category": "Sports & games",
-    "prompt": "Name a feature players might change on a car in a racing video game.",
+    "prompt": "Name something superstitious fans blame on a team curse.",
     "answers": [
       {
-        "text": "Paint color",
+        "text": "Losing streak",
         "aliases": [
-          "Colour"
+          "constant losses"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Wheels",
+        "text": "Injured players",
         "aliases": [
-          "Tires"
+          "injuries"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Engine",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Decals",
+        "text": "Missing easy shots",
         "aliases": [
-          "Stickers"
+          "missed goals"
         ],
-        "points": 14
+        "points": 17
       },
       {
-        "text": "Spoiler",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Horn",
+        "text": "Choking in finals",
         "aliases": [
-          "Horn sound"
+          "losing big games"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Star player leaving",
+        "aliases": [
+          "losing their best player"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Terrible referee calls",
+        "aliases": [
+          "bad calls"
         ],
         "points": 6
       }
@@ -2766,47 +2921,47 @@
   {
     "id": "games-190",
     "category": "Sports & games",
-    "prompt": "Name something a player might do to earn a video game achievement.",
+    "prompt": "Name something a superstitious fan refuses to do during a winning streak.",
     "answers": [
       {
-        "text": "Finish a level",
+        "text": "Wash their jersey",
         "aliases": [
-          "Complete a level"
+          "wash the shirt"
         ],
         "points": 35
       },
       {
-        "text": "Find a secret",
+        "text": "Change seats",
         "aliases": [
-          "Discover a hidden area"
+          "sit somewhere else"
         ],
         "points": 25
       },
       {
-        "text": "Win a match",
+        "text": "Shave",
         "aliases": [
-          "Win a game"
+          "shave their beard"
         ],
         "points": 16
       },
       {
-        "text": "Beat a high score",
+        "text": "Cut their hair",
         "aliases": [
-          "Set a record"
+          "get a haircut"
         ],
         "points": 11
       },
       {
-        "text": "Help a teammate",
+        "text": "Miss a game",
         "aliases": [
-          "Assist another player"
+          "skip watching"
         ],
         "points": 8
       },
       {
-        "text": "Collect every item",
+        "text": "Say they're going to win",
         "aliases": [
-          "Complete a collection"
+          "predict a win"
         ],
         "points": 5
       }
@@ -2815,96 +2970,96 @@
   {
     "id": "games-191",
     "category": "Sports & games",
-    "prompt": "Name a reason someone replays a video game level they already finished.",
+    "prompt": "Name a reason a fan might secretly root against their own team's star player.",
     "answers": [
       {
-        "text": "Beat their score",
+        "text": "Arrogance",
         "aliases": [
-          "Improve their score"
+          "big ego"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Find missed items",
+        "text": "Cheating",
         "aliases": [
-          "Collect missed items"
+          "plays dirty"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Finish faster",
+        "text": "Rude to fans",
         "aliases": [
-          "Improve their time"
+          "ignores fans"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Unlock a secret",
+        "text": "Overpaid",
         "aliases": [
-          "Find a hidden secret"
+          "earns too much"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Try a new strategy",
+        "text": "Used to play for a rival",
         "aliases": [
-          "Use a different approach"
+          "former rival"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Enjoy a favorite level",
+        "text": "Hogs the ball",
         "aliases": [
-          "It is fun"
+          "selfish player"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-192",
     "category": "Sports & games",
-    "prompt": "Name something that makes a video game cutscene memorable.",
+    "prompt": "Name something you'd be surprised to learn a fearless athlete is scared of.",
     "answers": [
       {
-        "text": "Surprising plot twist",
+        "text": "Spiders",
         "aliases": [
-          "Story twist"
+          "bugs"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Voice acting",
+        "text": "Needles",
         "aliases": [
-          "Character voices"
+          "injections"
         ],
         "points": 24
       },
       {
-        "text": "Music",
+        "text": "Heights",
         "aliases": [
-          "Soundtrack"
+          "high places"
         ],
         "points": 18
       },
       {
-        "text": "Animation",
+        "text": "Public speaking",
         "aliases": [
-          "Character animation"
+          "giving speeches"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Funny dialogue",
+        "text": "Flying",
         "aliases": [
-          "Funny lines"
+          "airplanes"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Beautiful scenery",
+        "text": "Clowns",
         "aliases": [
-          "Great visuals"
+          "a clown"
         ],
         "points": 6
       }
@@ -2913,45 +3068,47 @@
   {
     "id": "games-193",
     "category": "Sports & games",
-    "prompt": "Name an action a video game tutorial might teach you.",
+    "prompt": "Name a gentle hobby that might surprise you for a famously tough athlete.",
     "answers": [
       {
-        "text": "Move the character",
+        "text": "Knitting",
         "aliases": [
-          "Walk"
+          "crochet"
         ],
         "points": 28
       },
       {
-        "text": "Jump",
-        "aliases": [],
+        "text": "Baking",
+        "aliases": [
+          "making cakes"
+        ],
         "points": 23
       },
       {
-        "text": "Interact with objects",
+        "text": "Birdwatching",
         "aliases": [
-          "Use objects"
+          "watching birds"
         ],
         "points": 19
       },
       {
-        "text": "Open the inventory",
+        "text": "Gardening",
         "aliases": [
-          "Check inventory"
+          "growing flowers"
         ],
         "points": 14
       },
       {
-        "text": "Change the camera view",
+        "text": "Painting",
         "aliases": [
-          "Move the camera"
+          "watercolors"
         ],
         "points": 10
       },
       {
-        "text": "Save the game",
+        "text": "Collecting dolls",
         "aliases": [
-          "Save progress"
+          "doll collecting"
         ],
         "points": 6
       }
@@ -2960,192 +3117,201 @@
   {
     "id": "games-194",
     "category": "Sports & games",
-    "prompt": "Name an option you might find on a video game main menu.",
+    "prompt": "Name something fans wish would disappear from the pregame ceremony.",
     "answers": [
       {
-        "text": "New game",
+        "text": "Long speeches",
         "aliases": [
-          "Start game"
+          "speeches"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Continue",
+        "text": "Political messages",
         "aliases": [
-          "Load game"
+          "politics"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Settings",
+        "text": "Commercial plugs",
         "aliases": [
-          "Options"
+          "advertising"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Multiplayer",
+        "text": "Off-key singing",
         "aliases": [
-          "Play online"
+          "bad singing"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Credits",
-        "aliases": [],
-        "points": 8
+        "text": "Endless introductions",
+        "aliases": [
+          "long introductions"
+        ],
+        "points": 9
       },
       {
-        "text": "Quit",
+        "text": "Too much smoke",
         "aliases": [
-          "Exit"
+          "smoke machines"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "games-195",
     "category": "Sports & games",
-    "prompt": "Name information a video game might show around the edge of the screen.",
+    "prompt": "Name something an athlete does that makes fans say money changed them.",
     "answers": [
       {
-        "text": "Health",
+        "text": "Buys flashy cars",
         "aliases": [
-          "Health bar"
+          "expensive cars"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "Score",
+        "text": "Ignores fans",
         "aliases": [
-          "Points"
+          "snubs fans"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Time remaining",
+        "text": "Wears expensive clothes",
         "aliases": [
-          "Timer"
+          "designer clothes"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Map",
+        "text": "Buys a mansion",
         "aliases": [
-          "Minimap"
+          "huge house"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Ammunition",
+        "text": "Talks down to people",
         "aliases": [
-          "Ammo"
+          "acts superior"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Current objective",
+        "text": "Ditches old friends",
         "aliases": [
-          "Mission goal"
+          "new friends"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-196",
     "category": "Sports & games",
-    "prompt": "Name a reason an online video game match might be delayed.",
+    "prompt": "Name something fans want to know about an athlete's life off the field.",
     "answers": [
       {
-        "text": "Slow internet",
+        "text": "Who they're dating",
         "aliases": [
-          "Lag"
+          "partner",
+          "love life"
         ],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Server maintenance",
+        "text": "Their home",
         "aliases": [
-          "Servers are down"
+          "where they live"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Game update",
+        "text": "Their diet",
         "aliases": [
-          "Downloading an update"
+          "what they eat"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Full lobby",
+        "text": "Their salary",
         "aliases": [
-          "No room in the lobby"
+          "how much they earn"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Player disconnected",
+        "text": "Their hobbies",
         "aliases": [
-          "Someone lost connection"
+          "free time"
         ],
         "points": 8
       },
       {
-        "text": "Finding opponents",
+        "text": "Their family",
         "aliases": [
-          "Matchmaking queue"
+          "kids"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-197",
     "category": "Sports & games",
-    "prompt": "Name something a helpful teammate does in an online video game.",
+    "prompt": "Name something a superfan might do on a flight that annoys a famous athlete.",
     "answers": [
       {
-        "text": "Shares supplies",
+        "text": "Recite their statistics",
         "aliases": [
-          "Gives resources"
+          "quote their stats",
+          "recite stats"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Gives useful information",
+        "text": "Take constant photos",
         "aliases": [
-          "Calls out helpful details"
+          "selfies",
+          "photograph them"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Revives teammates",
+        "text": "Demand an autograph",
         "aliases": [
-          "Helps fallen players"
+          "autograph request",
+          "ask for signature"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Works on the objective",
+        "text": "Post their location",
         "aliases": [
-          "Focuses on the goal"
+          "live updates",
+          "livestream them"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Encourages the team",
+        "text": "Try to hug them",
         "aliases": [
-          "Cheers teammates on"
+          "touch them",
+          "ask for a hug"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Welcomes beginners",
+        "text": "Show old game clips",
         "aliases": [
-          "Helps new players"
+          "show highlights",
+          "show videos"
         ],
         "points": 6
       }
@@ -3154,94 +3320,97 @@
   {
     "id": "games-198",
     "category": "Sports & games",
-    "prompt": "Name a way a video game can make a harder difficulty level more challenging.",
+    "prompt": "Name something a devoted fan might name after their favorite player.",
     "answers": [
       {
-        "text": "Stronger enemies",
+        "text": "Baby",
         "aliases": [
-          "Tougher opponents"
+          "child"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Less time",
+        "text": "Pet",
         "aliases": [
-          "Shorter timer"
+          "dog",
+          "cat"
         ],
-        "points": 25
+        "points": 23
       },
       {
-        "text": "Fewer lives",
+        "text": "Fantasy team",
         "aliases": [
-          "Less health"
+          "fantasy league team"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Faster action",
+        "text": "Car",
         "aliases": [
-          "Faster enemies"
+          "their vehicle"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Harder puzzles",
+        "text": "Boat",
         "aliases": [
-          "Trickier puzzles"
+          "yacht"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Fewer supplies",
+        "text": "Stuffed animal",
         "aliases": [
-          "Fewer resources"
+          "teddy bear"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "games-199",
     "category": "Sports & games",
-    "prompt": "Name something a fan might collect from a favorite video game.",
+    "prompt": "Name a sports story you'd want proof of before believing your friend.",
     "answers": [
       {
-        "text": "Character figures",
+        "text": "Met a famous player",
         "aliases": [
-          "Figurines"
+          "met a star"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Posters",
-        "aliases": [],
+        "text": "Caught a game ball",
+        "aliases": [
+          "caught a ball"
+        ],
         "points": 24
       },
       {
-        "text": "T-shirts",
+        "text": "Played with a star at school",
         "aliases": [
-          "Shirts"
+          "was their teammate"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Soundtrack",
+        "text": "Beat a professional",
         "aliases": [
-          "Music"
+          "beat a star"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Art book",
+        "text": "Won a big competition",
         "aliases": [
-          "Artbook"
+          "won a tournament"
         ],
         "points": 9
       },
       {
-        "text": "Controller skins",
+        "text": "Got into the locker room",
         "aliases": [
-          "Controller covers"
+          "backstage access"
         ],
         "points": 6
       }
@@ -3250,191 +3419,194 @@
   {
     "id": "games-200",
     "category": "Sports & games",
-    "prompt": "Name somewhere people play a handheld video game.",
+    "prompt": "What could turn a fan's victory celebration into embarrassment?",
     "answers": [
       {
-        "text": "Sofa",
+        "text": "Score gets overturned",
         "aliases": [
-          "Couch"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Bed",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Public transportation",
-        "aliases": [
-          "Train",
-          "Bus"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Waiting room",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Airplane",
-        "aliases": [
-          "Plane"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Car back seat",
-        "aliases": [
-          "Backseat"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "games-201",
-    "category": "Sports & games",
-    "prompt": "Name something a player packs to bring a game console to a friend's house.",
-    "answers": [
-      {
-        "text": "Console",
-        "aliases": [
-          "Game system"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Controllers",
-        "aliases": [
-          "Gamepads"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Games",
-        "aliases": [
-          "Game discs"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Headset",
-        "aliases": [
-          "Headphones"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Video cable",
-        "aliases": [
-          "HDMI cable"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Power adapter",
-        "aliases": [
-          "Power supply"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "games-202",
-    "category": "Sports & games",
-    "prompt": "Name a reason a video game controller might not respond properly.",
-    "answers": [
-      {
-        "text": "Dead batteries",
-        "aliases": [
-          "Low battery"
+          "goal disallowed"
         ],
         "points": 35
       },
       {
-        "text": "Stuck button",
+        "text": "Celebrated the wrong team",
         "aliases": [
-          "Jammed button"
+          "wrong side scored"
         ],
         "points": 25
       },
       {
-        "text": "Loose cable",
+        "text": "Game isn't over",
         "aliases": [
-          "Disconnected cable"
+          "celebrated too early"
         ],
         "points": 16
       },
       {
-        "text": "Out of range",
+        "text": "Falls over",
         "aliases": [
-          "Too far away"
+          "slips"
         ],
         "points": 11
       },
       {
-        "text": "Joystick drift",
+        "text": "Spills a drink",
         "aliases": [
-          "Stick drift"
+          "spilled beer"
         ],
         "points": 8
       },
       {
-        "text": "Not paired",
+        "text": "Caught on camera",
         "aliases": [
-          "Lost pairing"
+          "unflattering video"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "games-203",
+    "id": "games-201",
     "category": "Sports & games",
-    "prompt": "Name an activity in a video game that can make players lose track of time.",
+    "prompt": "Name something fans would vote to remove from sports broadcasts.",
     "answers": [
       {
-        "text": "Building things",
+        "text": "Too many ads",
         "aliases": [
-          "Creating buildings"
+          "commercials"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Annoying commentator",
+        "aliases": [
+          "bad announcer"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Endless replays",
+        "aliases": [
+          "repeated replays"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Distracting graphics",
+        "aliases": [
+          "screen overlays"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Long interviews",
+        "aliases": [
+          "player interviews"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Technical jargon",
+        "aliases": [
+          "complicated terms"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-202",
+    "category": "Sports & games",
+    "prompt": "What might a fan do when their team loses to their partner's team?",
+    "answers": [
+      {
+        "text": "Go quiet",
+        "aliases": [
+          "silent treatment"
         ],
         "points": 30
       },
       {
-        "text": "Doing side quests",
+        "text": "Make excuses",
         "aliases": [
-          "Side missions"
+          "blame something else"
         ],
         "points": 24
       },
       {
-        "text": "Replaying levels",
+        "text": "Turn off the TV",
         "aliases": [
-          "Trying again"
+          "change channel"
         ],
         "points": 18
       },
       {
-        "text": "Chatting with friends",
+        "text": "Hide in another room",
         "aliases": [
-          "Talking to friends"
+          "walk away"
         ],
         "points": 13
       },
       {
-        "text": "Collecting items",
+        "text": "Demand a rematch",
         "aliases": [
-          "Searching for collectibles"
+          "next game"
         ],
         "points": 9
       },
       {
-        "text": "Customizing characters",
+        "text": "Congratulate them reluctantly",
         "aliases": [
-          "Changing outfits"
+          "say well done"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-203",
+    "category": "Sports & games",
+    "prompt": "Name a reason a sports fan is glad to watch a game alone.",
+    "answers": [
+      {
+        "text": "Control the remote",
+        "aliases": [
+          "pick the channel"
+        ],
+        "points": 28
+      },
+      {
+        "text": "No talking",
+        "aliases": [
+          "quiet"
+        ],
+        "points": 23
+      },
+      {
+        "text": "No sharing food",
+        "aliases": [
+          "keep the snacks"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Cry in private",
+        "aliases": [
+          "hide their tears"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Wear anything",
+        "aliases": [
+          "get comfortable"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Avoid teasing",
+        "aliases": [
+          "no judgment"
         ],
         "points": 6
       }
@@ -3443,45 +3615,47 @@
   {
     "id": "games-204",
     "category": "Sports & games",
-    "prompt": "Name something a player might give a name to in a video game.",
+    "prompt": "Name something a fan might apologize for after the game ends.",
     "answers": [
       {
-        "text": "Character",
+        "text": "Shouting",
         "aliases": [
-          "Avatar"
+          "being loud"
         ],
         "points": 32
       },
       {
-        "text": "Pet",
+        "text": "Swearing",
         "aliases": [
-          "Animal companion"
+          "bad language"
         ],
         "points": 24
       },
       {
-        "text": "Town",
+        "text": "Spilling a drink",
         "aliases": [
-          "City"
+          "making a mess"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Farm",
-        "aliases": [],
+        "text": "Insulting someone",
+        "aliases": [
+          "rude comments"
+        ],
         "points": 12
       },
       {
-        "text": "Spaceship",
+        "text": "Ignoring their partner",
         "aliases": [
-          "Space ship"
+          "not paying attention"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Team",
+        "text": "Wrong prediction",
         "aliases": [
-          "Guild"
+          "being so confident"
         ],
         "points": 6
       }
@@ -3490,92 +3664,97 @@
   {
     "id": "games-205",
     "category": "Sports & games",
-    "prompt": "Name something about an arcade machine that catches someone's attention.",
+    "prompt": "Name something you wouldn't buy just because your favorite athlete advertised it.",
     "answers": [
       {
-        "text": "Flashing lights",
+        "text": "Gambling",
         "aliases": [
-          "Bright lights"
+          "betting"
         ],
-        "points": 28
+        "points": 35
       },
       {
-        "text": "Loud music",
+        "text": "Extreme diet",
         "aliases": [
-          "Music"
+          "fad diet"
         ],
-        "points": 23
+        "points": 25
       },
       {
-        "text": "Favorite character",
+        "text": "Expensive watch",
         "aliases": [
-          "Familiar character"
+          "luxury watch"
         ],
-        "points": 19
+        "points": 16
       },
       {
-        "text": "Big prize",
+        "text": "Awful-tasting drink",
         "aliases": [
-          "Prize display"
+          "bad drink"
         ],
-        "points": 14
+        "points": 11
       },
       {
-        "text": "High score board",
+        "text": "Cryptocurrency",
         "aliases": [
-          "Leaderboard"
+          "crypto"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Demo screen",
+        "text": "Uncomfortable shoes",
         "aliases": [
-          "Attract mode"
+          "bad shoes",
+          "painful sneakers"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-206",
     "category": "Sports & games",
-    "prompt": "Name a type of game people play at a family arcade.",
+    "prompt": "What gives away that someone is pretending to like sports to impress a date?",
     "answers": [
       {
-        "text": "Racing game",
+        "text": "Cheers at the wrong time",
         "aliases": [
-          "Driving game"
+          "cheers for the wrong team"
         ],
-        "points": 35
+        "points": 34
       },
       {
-        "text": "Claw machine",
+        "text": "Can't name a player",
         "aliases": [
-          "Crane game"
+          "doesn't know players"
         ],
         "points": 25
       },
       {
-        "text": "Basketball game",
+        "text": "Gets the rules wrong",
         "aliases": [
-          "Basketball shooting"
+          "asks basic rules"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Pinball",
-        "aliases": [],
+        "text": "Copies everyone else",
+        "aliases": [
+          "parrots others"
+        ],
         "points": 11
       },
       {
-        "text": "Air hockey",
-        "aliases": [],
+        "text": "Calls the team the wrong name",
+        "aliases": [
+          "wrong team name"
+        ],
         "points": 8
       },
       {
-        "text": "Skee-Ball",
+        "text": "Only talks about attractive players",
         "aliases": [
-          "Skee ball"
+          "asks who is single"
         ],
         "points": 5
       }
@@ -3584,43 +3763,47 @@
   {
     "id": "games-207",
     "category": "Sports & games",
-    "prompt": "Name a small prize someone might choose with arcade tickets.",
+    "prompt": "Name something fans save a huge cheer for besides the winning score.",
     "answers": [
       {
-        "text": "Stuffed animal",
+        "text": "Injured player returns",
         "aliases": [
-          "Plush toy"
+          "comeback from injury"
         ],
         "points": 30
       },
       {
-        "text": "Candy",
+        "text": "Record gets broken",
         "aliases": [
-          "Sweets"
+          "new record"
         ],
         "points": 24
       },
       {
-        "text": "Keychain",
+        "text": "Star's entrance",
         "aliases": [
-          "Key ring"
+          "favorite player arrives"
         ],
         "points": 18
       },
       {
-        "text": "Stickers",
-        "aliases": [],
+        "text": "Great save",
+        "aliases": [
+          "amazing defense"
+        ],
         "points": 13
       },
       {
-        "text": "Toy car",
-        "aliases": [],
+        "text": "Retiring player's farewell",
+        "aliases": [
+          "last game"
+        ],
         "points": 9
       },
       {
-        "text": "Bracelet",
+        "text": "Underdog scores",
         "aliases": [
-          "Wristband"
+          "unexpected scorer"
         ],
         "points": 6
       }
@@ -3629,47 +3812,47 @@
   {
     "id": "games-208",
     "category": "Sports & games",
-    "prompt": "Name something a player might do after running out of arcade credits.",
+    "prompt": "Name something a sports fan embarrasses their kids by doing.",
     "answers": [
       {
-        "text": "Buy more credits",
+        "text": "Yells at the referee",
         "aliases": [
-          "Add more money"
+          "shouts at officials"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Watch other players",
+        "text": "Dances on camera",
         "aliases": [
-          "Watch someone play"
+          "big-screen dancing"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Redeem tickets",
+        "text": "Wears a costume",
         "aliases": [
-          "Trade tickets for prizes"
+          "silly outfit"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Ask a friend for a turn",
+        "text": "Chants too loudly",
         "aliases": [
-          "Share a friend's game"
+          "starts a chant"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Find a free game",
+        "text": "Paints their face",
         "aliases": [
-          "Look for free play"
+          "face paint"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Go home",
+        "text": "Chases an autograph",
         "aliases": [
-          "Leave the arcade"
+          "runs after a player"
         ],
         "points": 6
       }
@@ -3678,47 +3861,48 @@
   {
     "id": "games-209",
     "category": "Sports & games",
-    "prompt": "Name a reason someone fails to lift a prize in a claw machine.",
+    "prompt": "Name something rival fans can usually agree to complain about.",
     "answers": [
       {
-        "text": "Poor aim",
+        "text": "High prices",
         "aliases": [
-          "Misses the prize"
+          "expensive tickets"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Weak grip",
+        "text": "Traffic",
         "aliases": [
-          "Claw does not grip"
+          "getting home"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Slippery prize",
+        "text": "Too many ads",
         "aliases": [
-          "Prize slips out"
+          "commercials"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Crowded bin",
+        "text": "Referees",
         "aliases": [
-          "Other prizes in the way"
+          "officials"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Time runs out",
+        "text": "Bad weather",
         "aliases": [
-          "Timer expires"
+          "rain",
+          "cold"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Prize is too heavy",
+        "text": "Uncomfortable seats",
         "aliases": [
-          "Heavy prize"
+          "bad seats"
         ],
         "points": 6
       }
@@ -3727,41 +3911,47 @@
   {
     "id": "games-210",
     "category": "Sports & games",
-    "prompt": "Name a part of a pinball machine that people notice.",
+    "prompt": "Name a sport that looks terrifying from the front row.",
     "answers": [
       {
-        "text": "Flippers",
-        "aliases": [],
+        "text": "Boxing",
+        "aliases": [
+          "a boxing match"
+        ],
         "points": 35
       },
       {
-        "text": "Bumpers",
-        "aliases": [],
+        "text": "Ice hockey",
+        "aliases": [
+          "hockey"
+        ],
         "points": 25
       },
       {
-        "text": "Ramps",
-        "aliases": [],
+        "text": "Car racing",
+        "aliases": [
+          "motor racing"
+        ],
         "points": 16
       },
       {
-        "text": "Flashing lights",
+        "text": "Wrestling",
         "aliases": [
-          "Lights"
+          "pro wrestling"
         ],
         "points": 11
       },
       {
-        "text": "Ball plunger",
+        "text": "Bull riding",
         "aliases": [
-          "Plunger"
+          "rodeo"
         ],
         "points": 8
       },
       {
-        "text": "Score display",
+        "text": "Ski jumping",
         "aliases": [
-          "Scoreboard"
+          "ski jumps"
         ],
         "points": 5
       }
@@ -3770,92 +3960,98 @@
   {
     "id": "games-211",
     "category": "Sports & games",
-    "prompt": "Name information shown on the screen of an arcade racing game.",
+    "prompt": "Name something at a live game that makes people cover their ears.",
     "answers": [
       {
-        "text": "Speed",
+        "text": "Air horn",
         "aliases": [
-          "Speedometer"
+          "horn"
         ],
-        "points": 30
+        "points": 34
       },
       {
-        "text": "Race position",
+        "text": "Fireworks",
         "aliases": [
-          "Place in the race"
+          "firecrackers"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Lap number",
+        "text": "Loudspeaker",
         "aliases": [
-          "Lap count"
+          "announcer"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Course map",
+        "text": "Cheering crowd",
         "aliases": [
-          "Track map"
+          "screaming fans"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Race time",
+        "text": "Blasting music",
         "aliases": [
-          "Timer"
+          "loud music"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Car damage",
+        "text": "Whistle",
         "aliases": [
-          "Vehicle damage"
+          "referee's whistle"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-212",
     "category": "Sports & games",
-    "prompt": "Name an action a music or rhythm arcade game might ask a player to do.",
+    "prompt": "Name something that could go wrong when you try to start a chant at a stadium.",
     "answers": [
       {
-        "text": "Step on arrows",
+        "text": "Nobody joins in",
         "aliases": [
-          "Step on pads"
+          "no one joins in",
+          "nobody follows"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Tap buttons",
+        "text": "You forget the words",
         "aliases": [
-          "Press buttons"
+          "cannot remember the words",
+          "forgot the chant"
         ],
         "points": 24
       },
       {
-        "text": "Jump",
-        "aliases": [],
+        "text": "Your voice cracks",
+        "aliases": [
+          "voice gives out"
+        ],
         "points": 18
       },
       {
-        "text": "Clap",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Strum a guitar",
+        "text": "You cheer the wrong team",
         "aliases": [
-          "Strum"
+          "wrong team name"
         ],
-        "points": 8
+        "points": 13
       },
       {
-        "text": "Hit drum pads",
+        "text": "Someone starts a different chant",
         "aliases": [
-          "Play drums"
+          "competing chant"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Security tells you to stop",
+        "aliases": [
+          "told to be quiet"
         ],
         "points": 6
       }
@@ -3864,47 +4060,47 @@
   {
     "id": "games-213",
     "category": "Sports & games",
-    "prompt": "Name something polite players do in a crowded arcade.",
+    "prompt": "Name something fans wish they'd brought when the weather changes midgame.",
     "answers": [
       {
-        "text": "Wait their turn",
+        "text": "Raincoat",
         "aliases": [
-          "Queue up"
+          "poncho"
         ],
         "points": 28
       },
       {
-        "text": "Give others space",
+        "text": "Umbrella",
         "aliases": [
-          "Do not crowd players"
+          "brolly"
         ],
         "points": 23
       },
       {
-        "text": "Share the controls",
+        "text": "Blanket",
         "aliases": [
-          "Let others have a go"
+          "warm blanket"
         ],
         "points": 19
       },
       {
-        "text": "Return equipment",
+        "text": "Sunscreen",
         "aliases": [
-          "Put equipment back"
+          "sunblock"
         ],
         "points": 14
       },
       {
-        "text": "Keep voices reasonable",
+        "text": "Hat",
         "aliases": [
-          "Do not shout"
+          "cap"
         ],
         "points": 10
       },
       {
-        "text": "Clean up spills",
+        "text": "Water",
         "aliases": [
-          "Wipe up drinks"
+          "water bottle"
         ],
         "points": 6
       }
@@ -3913,188 +4109,194 @@
   {
     "id": "games-214",
     "category": "Sports & games",
-    "prompt": "Name a sound that reminds people of an arcade.",
+    "prompt": "Name something people do at a game because everyone around them is doing it.",
     "answers": [
       {
-        "text": "Electronic beeps",
+        "text": "The wave",
         "aliases": [
-          "Game beeps"
+          "mexican wave"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Coins dropping",
+        "text": "Chant",
         "aliases": [
-          "Clinking coins"
+          "join a chant"
         ],
-        "points": 25
+        "points": 24
       },
       {
-        "text": "Dance music",
+        "text": "Boo",
         "aliases": [
-          "Loud music"
+          "jeer"
         ],
-        "points": 16
+        "points": 17
       },
       {
-        "text": "Pinball bells",
+        "text": "Stand up",
         "aliases": [
-          "Dinging bells"
+          "rise"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Air hockey clacks",
+        "text": "Sing",
         "aliases": [
-          "Puck hitting the table"
+          "sing along"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Tickets printing",
+        "text": "Clap",
         "aliases": [
-          "Ticket machine"
+          "applaud"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "games-215",
     "category": "Sports & games",
-    "prompt": "Name something players bring to a tabletop role-playing session.",
+    "prompt": "Name something fans do when their biggest rival loses.",
     "answers": [
       {
-        "text": "Character sheet",
-        "aliases": [],
-        "points": 30
+        "text": "Laugh",
+        "aliases": [
+          "laugh at them"
+        ],
+        "points": 35
       },
       {
-        "text": "Dice",
+        "text": "Text a friend",
         "aliases": [
-          "Die"
+          "send a message"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Pencil",
+        "text": "Post a meme",
         "aliases": [
-          "Pen"
+          "share a joke online"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Rulebook",
+        "text": "Cheer",
         "aliases": [
-          "Game manual"
+          "celebrate"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Map",
+        "text": "Watch the worst moments again",
         "aliases": [
-          "Battle map"
+          "replay their mistakes"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Miniature",
+        "text": "Raise a drink",
         "aliases": [
-          "Character figure"
+          "toast"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-216",
     "category": "Sports & games",
-    "prompt": "Name a type of character someone might play in a fantasy role-playing game.",
+    "prompt": "Name a reason a fan suddenly stops wearing a player's jersey.",
     "answers": [
       {
-        "text": "Wizard",
+        "text": "Player changes teams",
         "aliases": [
-          "Mage"
+          "gets traded"
         ],
-        "points": 32
+        "points": 34
       },
       {
-        "text": "Warrior",
+        "text": "Scandal",
         "aliases": [
-          "Fighter"
+          "bad behavior"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Healer",
+        "text": "It no longer fits",
         "aliases": [
-          "Cleric"
+          "wrong size"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Archer",
+        "text": "New favorite player",
         "aliases": [
-          "Ranger"
+          "likes someone else"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Rogue",
+        "text": "Player retires",
         "aliases": [
-          "Thief"
+          "retirement"
         ],
         "points": 8
       },
       {
-        "text": "Bard",
+        "text": "Too much teasing",
         "aliases": [
-          "Minstrel"
+          "rival fans mock it"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "games-217",
     "category": "Sports & games",
-    "prompt": "Name a supply a fantasy role-playing adventurer might pack.",
+    "prompt": "Name a sports job that looks easy when you're giving advice from your couch.",
     "answers": [
       {
-        "text": "Rope",
-        "aliases": [],
-        "points": 28
-      },
-      {
-        "text": "Torch",
+        "text": "Coach",
         "aliases": [
-          "Lantern"
+          "manager"
         ],
-        "points": 23
+        "points": 30
       },
       {
-        "text": "Food",
+        "text": "Referee",
         "aliases": [
-          "Rations"
+          "umpire"
         ],
-        "points": 19
+        "points": 24
       },
       {
-        "text": "Water",
+        "text": "Goalkeeper",
         "aliases": [
-          "Waterskin"
+          "goalie"
         ],
-        "points": 14
+        "points": 18
       },
       {
-        "text": "Map",
-        "aliases": [],
-        "points": 10
-      },
-      {
-        "text": "Blanket",
+        "text": "Commentator",
         "aliases": [
-          "Bedroll"
+          "announcer"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Quarterback",
+        "aliases": [
+          "play caller"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Kicker",
+        "aliases": [
+          "penalty taker"
         ],
         "points": 6
       }
@@ -4103,96 +4305,97 @@
   {
     "id": "games-218",
     "category": "Sports & games",
-    "prompt": "Name a mission characters might receive in a tabletop adventure.",
+    "prompt": "Name something a loyal fan puts up with for the team they love.",
     "answers": [
       {
-        "text": "Rescue a villager",
+        "text": "Losing",
         "aliases": [
-          "Save someone"
+          "bad results"
         ],
-        "points": 35
+        "points": 28
       },
       {
-        "text": "Find treasure",
+        "text": "Bad weather",
         "aliases": [
-          "Recover treasure"
+          "rain",
+          "cold"
         ],
-        "points": 25
+        "points": 23
       },
       {
-        "text": "Defeat a monster",
+        "text": "High prices",
         "aliases": [
-          "Stop a monster"
+          "expensive tickets"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Deliver a message",
+        "text": "Traffic",
         "aliases": [
-          "Carry a message"
+          "long drive"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Lift a curse",
+        "text": "Long lines",
         "aliases": [
-          "Break a curse"
+          "queues"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Escort a traveler",
+        "text": "Rude rival fans",
         "aliases": [
-          "Protect a merchant"
+          "opposing fans"
         ],
-        "points": 5
+        "points": 6
       }
     ]
   },
   {
     "id": "games-219",
     "category": "Sports & games",
-    "prompt": "Name an obstacle players might face in a tabletop adventure story.",
+    "prompt": "Name something that makes a win especially sweet for a fan.",
     "answers": [
       {
-        "text": "Guarded door",
+        "text": "Beat a rival",
         "aliases": [
-          "Guards"
+          "rival lost"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Deep river",
+        "text": "Won a championship",
         "aliases": [
-          "River crossing"
+          "got the trophy"
         ],
         "points": 24
       },
       {
-        "text": "Locked chest",
+        "text": "Last-second score",
         "aliases": [
-          "Locked box"
+          "last minute win"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Riddle",
+        "text": "Big comeback",
         "aliases": [
-          "Puzzle"
+          "came from behind"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Hidden trap",
+        "text": "First win in years",
         "aliases": [
-          "Trap"
+          "long drought ends"
         ],
         "points": 9
       },
       {
-        "text": "Lost trail",
+        "text": "Predicted it",
         "aliases": [
-          "Missing path"
+          "called the result"
         ],
         "points": 6
       }
@@ -4201,47 +4404,49 @@
   {
     "id": "games-220",
     "category": "Sports & games",
-    "prompt": "Name something a game master uses to make a tabletop story feel alive.",
+    "prompt": "Name something a fan promises every season and then fails to do.",
     "answers": [
       {
-        "text": "Different voices",
+        "text": "Stop shouting",
         "aliases": [
-          "Character voices"
+          "stay calm"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Sound effects",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Maps",
+        "text": "Spend less",
         "aliases": [
-          "Illustrated maps"
+          "buy less merchandise"
         ],
-        "points": 18
+        "points": 25
       },
       {
-        "text": "Vivid descriptions",
+        "text": "Go to every game",
         "aliases": [
-          "Detailed descriptions"
+          "never miss a match"
         ],
-        "points": 12
+        "points": 16
       },
       {
-        "text": "Background music",
+        "text": "Stop blaming referees",
         "aliases": [
-          "Music"
+          "leave the refs alone"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Watch less sport",
+        "aliases": [
+          "cut back on games"
         ],
         "points": 8
       },
       {
-        "text": "Props",
+        "text": "Never get their hopes up",
         "aliases": [
-          "Physical props"
+          "lower expectations"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   }

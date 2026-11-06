@@ -2,96 +2,96 @@
   {
     "id": "culture-311",
     "category": "Pop culture",
-    "prompt": "Name something useful to pack for a full day at a fan convention.",
+    "prompt": "If you could borrow a superpower for your job, which would you choose?",
     "answers": [
       {
-        "text": "Water bottle",
+        "text": "Read minds",
         "aliases": [
-          "water"
+          "mind reading"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Portable charger",
+        "text": "Teleport",
         "aliases": [
-          "power bank"
+          "teleportation"
         ],
         "points": 24
       },
       {
-        "text": "Snacks",
+        "text": "Freeze time",
         "aliases": [
-          "food"
+          "stop time"
         ],
         "points": 18
       },
       {
-        "text": "Comfortable shoes",
+        "text": "Super speed",
         "aliases": [
-          "walking shoes"
+          "superspeed"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Event schedule",
+        "text": "Clone yourself",
         "aliases": [
-          "program"
+          "make copies of myself"
         ],
         "points": 9
       },
       {
-        "text": "Small repair kit",
+        "text": "Invisibility",
         "aliases": [
-          "sewing kit"
+          "be invisible"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-312",
     "category": "Pop culture",
-    "prompt": "Name a reason a convention visitor might miss a panel they wanted to attend.",
+    "prompt": "Name something an invisible person would be tempted to do.",
     "answers": [
       {
-        "text": "Room is full",
+        "text": "Eavesdrop",
         "aliases": [
-          "no seats"
+          "listen in"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Long entrance line",
+        "text": "Sneak into a concert",
         "aliases": [
-          "queue"
+          "get into a show free"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Schedule conflict",
+        "text": "Play pranks",
         "aliases": [
-          "overlapping events"
+          "prank people"
         ],
         "points": 18
       },
       {
-        "text": "Got lost",
+        "text": "Steal something",
         "aliases": [
-          "wrong room"
+          "shoplift"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Arrived late",
+        "text": "Skip a queue",
         "aliases": [
-          "running late"
+          "cut in line"
         ],
         "points": 8
       },
       {
-        "text": "Schedule changed",
+        "text": "Spy on a crush",
         "aliases": [
-          "time changed"
+          "watch their crush"
         ],
         "points": 6
       }
@@ -100,47 +100,47 @@
   {
     "id": "culture-313",
     "category": "Pop culture",
-    "prompt": "Name a costume problem someone might need to fix at a convention.",
+    "prompt": "What might give away your secret identity as a superhero?",
     "answers": [
       {
-        "text": "Ripped seam",
+        "text": "Someone sees your costume",
         "aliases": [
-          "torn fabric"
+          "costume showing"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Broken prop",
+        "text": "Your voice",
         "aliases": [
-          "damaged prop"
+          "recognizable voice"
         ],
         "points": 23
       },
       {
-        "text": "Smudged makeup",
+        "text": "A photo",
         "aliases": [
-          "makeup smear"
+          "picture of you changing"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Slipping wig",
+        "text": "You brag about it",
         "aliases": [
-          "loose wig"
+          "tell someone"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Broken zipper",
+        "text": "You disappear during emergencies",
         "aliases": [
-          "stuck zipper"
+          "always leaving"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Uncomfortable shoes",
+        "text": "A loved one recognizes you",
         "aliases": [
-          "blisters"
+          "family recognizes you"
         ],
         "points": 6
       }
@@ -149,47 +149,47 @@
   {
     "id": "culture-314",
     "category": "Pop culture",
-    "prompt": "Name a lightweight material someone might use to make a costume prop.",
+    "prompt": "If superheroes shared an apartment, what would they argue about?",
     "answers": [
       {
-        "text": "Foam",
+        "text": "Cleaning",
         "aliases": [
-          "craft foam"
+          "chores"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Cardboard",
+        "text": "Rent",
         "aliases": [
-          "card"
+          "paying rent"
         ],
         "points": 25
       },
       {
-        "text": "Plastic",
+        "text": "Bathroom time",
         "aliases": [
-          "plastic sheet"
+          "using the bathroom"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Paper mache",
+        "text": "Costume laundry",
         "aliases": [
-          "papier mache"
+          "washing costumes"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Fabric",
+        "text": "Loud training",
         "aliases": [
-          "cloth"
+          "noise"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Aluminum foil",
+        "text": "Uninvited sidekicks",
         "aliases": [
-          "foil"
+          "bringing people over"
         ],
         "points": 5
       }
@@ -198,96 +198,96 @@
   {
     "id": "culture-315",
     "category": "Pop culture",
-    "prompt": "Name something fans might use to recognize their meetup group in a crowded hall.",
+    "prompt": "Name something that would be difficult in a skin-tight superhero costume.",
     "answers": [
       {
-        "text": "Matching shirts",
+        "text": "Using the toilet",
         "aliases": [
-          "same shirts"
+          "going to the bathroom"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "A sign",
+        "text": "Eating",
         "aliases": [
-          "group sign"
+          "having dinner"
         ],
         "points": 24
       },
       {
-        "text": "Matching badges",
+        "text": "Sitting down",
         "aliases": [
-          "name badges"
+          "sitting comfortably"
         ],
         "points": 18
       },
       {
-        "text": "Costumes",
+        "text": "Scratching an itch",
         "aliases": [
-          "character outfits"
+          "scratching"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "A flag",
+        "text": "Changing clothes",
         "aliases": [
-          "group flag"
+          "taking it off"
         ],
         "points": 9
       },
       {
-        "text": "Colored wristbands",
+        "text": "Blending into a crowd",
         "aliases": [
-          "matching wristbands"
+          "going unnoticed"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-316",
     "category": "Pop culture",
-    "prompt": "Name something a fan might do while waiting in an autograph line.",
+    "prompt": "Name something a superhero's parent might still nag them about.",
     "answers": [
       {
-        "text": "Talk to other fans",
+        "text": "Getting enough sleep",
         "aliases": [
-          "chat"
+          "sleeping"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Check their phone",
+        "text": "Eating properly",
         "aliases": [
-          "scroll phone"
+          "healthy meals"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Read",
+        "text": "Calling home",
         "aliases": [
-          "read a book"
+          "calling their mother"
         ],
         "points": 18
       },
       {
-        "text": "Eat a snack",
+        "text": "Doing laundry",
         "aliases": [
-          "snack"
+          "washing clothes"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Plan the next activity",
+        "text": "Finding a partner",
         "aliases": [
-          "check schedule"
+          "dating"
         ],
         "points": 8
       },
       {
-        "text": "Practice what to say",
+        "text": "Getting a haircut",
         "aliases": [
-          "rehearse greeting"
+          "cutting their hair"
         ],
         "points": 6
       }
@@ -296,47 +296,47 @@
   {
     "id": "culture-317",
     "category": "Pop culture",
-    "prompt": "Name something a new member might receive when joining a fan club.",
+    "prompt": "Name a superpower that could make a first date awkward.",
     "answers": [
       {
-        "text": "Welcome message",
+        "text": "Reading minds",
         "aliases": [
-          "greeting"
+          "mind reading"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Club rules",
+        "text": "X-ray vision",
         "aliases": [
-          "guidelines"
+          "seeing through clothes"
         ],
         "points": 23
       },
       {
-        "text": "Event calendar",
+        "text": "Super hearing",
         "aliases": [
-          "schedule"
+          "hearing everything"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Membership card",
+        "text": "Uncontrolled strength",
         "aliases": [
-          "member card"
+          "super strength"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Newsletter",
+        "text": "Turning invisible",
         "aliases": [
-          "club news"
+          "invisibility"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Member discount",
+        "text": "Breathing fire",
         "aliases": [
-          "discount code"
+          "fire breath"
         ],
         "points": 6
       }
@@ -345,47 +345,47 @@
   {
     "id": "culture-318",
     "category": "Pop culture",
-    "prompt": "Name something a collector protects display pieces from.",
+    "prompt": "Name something a villain might do while waiting for an evil plan to work.",
     "answers": [
       {
-        "text": "Dust",
+        "text": "Laugh",
         "aliases": [
-          "dirt"
+          "evil laugh"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Sunlight",
+        "text": "Give a speech",
         "aliases": [
-          "direct sun"
+          "monologue"
         ],
         "points": 25
       },
       {
-        "text": "Moisture",
+        "text": "Watch a screen",
         "aliases": [
-          "dampness"
+          "monitor the plan"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Pets",
+        "text": "Pet a cat",
         "aliases": [
-          "animals"
+          "stroke their cat"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Young children",
+        "text": "Pace around",
         "aliases": [
-          "toddlers"
+          "walk back and forth"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Falling",
+        "text": "Have a drink",
         "aliases": [
-          "being knocked over"
+          "sip wine"
         ],
         "points": 5
       }
@@ -394,96 +394,96 @@
   {
     "id": "culture-319",
     "category": "Pop culture",
-    "prompt": "Name something a collector checks before buying a used collectible.",
+    "prompt": "What would a superhero look forward to on a day off?",
     "answers": [
       {
-        "text": "Visible scratches",
+        "text": "Sleeping in",
         "aliases": [
-          "surface scratches"
+          "lie in"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Authenticity",
+        "text": "Seeing family",
         "aliases": [
-          "whether it is real"
+          "family time"
         ],
         "points": 24
       },
       {
-        "text": "Price",
+        "text": "A normal date",
         "aliases": [
-          "cost"
+          "dating"
         ],
         "points": 18
       },
       {
-        "text": "Missing parts",
+        "text": "A movie",
         "aliases": [
-          "completeness"
+          "watching a film"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Original packaging",
+        "text": "Going without a costume",
         "aliases": [
-          "box"
+          "wearing normal clothes"
         ],
         "points": 9
       },
       {
-        "text": "Rarity",
+        "text": "Turning off their phone",
         "aliases": [
-          "how rare it is"
+          "ignoring calls"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-320",
     "category": "Pop culture",
-    "prompt": "Name something fans might trade when they have duplicates.",
+    "prompt": "What would annoy you about living next door to a superhero?",
     "answers": [
       {
-        "text": "Trading cards",
+        "text": "Noise",
         "aliases": [
-          "cards"
+          "loud battles"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Pins",
+        "text": "Damage to your house",
         "aliases": [
-          "enamel pins"
+          "property damage"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Stickers",
+        "text": "Villains showing up",
         "aliases": [
-          "decals"
+          "enemies visiting"
         ],
         "points": 18
       },
       {
-        "text": "Mini figures",
+        "text": "Paparazzi",
         "aliases": [
-          "small figurines"
+          "photographers"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Patches",
+        "text": "Blocked parking",
         "aliases": [
-          "embroidered patches"
+          "vehicles everywhere"
         ],
         "points": 8
       },
       {
-        "text": "Keychains",
+        "text": "Constant emergencies",
         "aliases": [
-          "key rings"
+          "sirens all night"
         ],
         "points": 6
       }
@@ -492,47 +492,47 @@
   {
     "id": "culture-321",
     "category": "Pop culture",
-    "prompt": "Name a place inside a convention center where fans might gather.",
+    "prompt": "If you could make one clone of yourself, what job would you give it?",
     "answers": [
       {
-        "text": "Exhibit hall",
+        "text": "Go to work",
         "aliases": [
-          "vendor hall"
+          "do my job"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Panel room",
+        "text": "Clean the house",
         "aliases": [
-          "discussion room"
+          "chores"
         ],
         "points": 23
       },
       {
-        "text": "Food court",
+        "text": "Exercise",
         "aliases": [
-          "dining area"
+          "go to the gym"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Registration desk",
+        "text": "Run errands",
         "aliases": [
-          "check in"
+          "do the shopping"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Artist alley",
+        "text": "Study",
         "aliases": [
-          "artists tables"
+          "do homework"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Quiet room",
+        "text": "Attend boring events",
         "aliases": [
-          "rest area"
+          "go to meetings"
         ],
         "points": 6
       }
@@ -541,47 +541,47 @@
   {
     "id": "culture-322",
     "category": "Pop culture",
-    "prompt": "Name an everyday action that can become difficult in a bulky costume.",
+    "prompt": "What would you be afraid a mind reader would discover about you?",
     "answers": [
       {
-        "text": "Sitting down",
+        "text": "Your crush",
         "aliases": [
-          "sit"
+          "who you fancy"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Walking through doors",
+        "text": "Your passwords",
         "aliases": [
-          "fit through doors"
+          "password"
         ],
         "points": 25
       },
       {
-        "text": "Eating",
+        "text": "A lie you told",
         "aliases": [
-          "having a meal"
+          "lying"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Using the bathroom",
+        "text": "Your opinion of them",
         "aliases": [
-          "toilet break"
+          "what you really think"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Climbing stairs",
+        "text": "An embarrassing memory",
         "aliases": [
-          "going upstairs"
+          "embarrassing past"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Using a phone",
+        "text": "A secret plan",
         "aliases": [
-          "texting"
+          "surprise plans"
         ],
         "points": 5
       }
@@ -590,96 +590,96 @@
   {
     "id": "culture-323",
     "category": "Pop culture",
-    "prompt": "Name a small keepsake someone might save after a fan event.",
+    "prompt": "If your pet could talk, what would it complain about first?",
     "answers": [
       {
-        "text": "Admission badge",
+        "text": "The food",
         "aliases": [
-          "event badge"
+          "bad food"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Ticket stub",
+        "text": "Being left alone",
         "aliases": [
-          "ticket"
+          "loneliness"
         ],
         "points": 24
       },
       {
-        "text": "Wristband",
+        "text": "Baths",
         "aliases": [
-          "entry band"
+          "getting washed"
         ],
         "points": 18
       },
       {
-        "text": "Printed photo",
+        "text": "Trips to the vet",
         "aliases": [
-          "photograph"
+          "the vet"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Event program",
+        "text": "Not enough walks",
         "aliases": [
-          "program booklet"
+          "more exercise"
         ],
         "points": 9
       },
       {
-        "text": "Signed note",
+        "text": "Being dressed up",
         "aliases": [
-          "personal message"
+          "pet costumes"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-324",
     "category": "Pop culture",
-    "prompt": "Name a topic that can start a friendly debate in a fan group.",
+    "prompt": "Name something you would hate to let a robot choose for you.",
     "answers": [
       {
-        "text": "Best character",
+        "text": "A partner",
         "aliases": [
-          "favorite character"
+          "who to date"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Best ending",
+        "text": "Your haircut",
         "aliases": [
-          "how it should end"
+          "hairstyle"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Fan theories",
+        "text": "Your clothes",
         "aliases": [
-          "predictions"
+          "outfit"
         ],
         "points": 18
       },
       {
-        "text": "Favorite costume",
+        "text": "Your baby's name",
         "aliases": [
-          "best outfit"
+          "child's name"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Best setting",
+        "text": "Your dinner",
         "aliases": [
-          "favorite location"
+          "what to eat"
         ],
         "points": 8
       },
       {
-        "text": "Best adaptation",
+        "text": "Your career",
         "aliases": [
-          "favorite version"
+          "job"
         ],
         "points": 6
       }
@@ -688,47 +688,47 @@
   {
     "id": "culture-325",
     "category": "Pop culture",
-    "prompt": "Name a pose fans might strike together in a convention photo.",
+    "prompt": "If you could undo one decision by time traveling, what might you change?",
     "answers": [
       {
-        "text": "Back to back",
+        "text": "A relationship",
         "aliases": [
-          "backs together"
+          "who I dated"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Action pose",
+        "text": "An investment",
         "aliases": [
-          "battle stance"
+          "money decision"
         ],
         "points": 23
       },
       {
-        "text": "Thumbs up",
+        "text": "A career choice",
         "aliases": [
-          "thumbs raised"
+          "job decision"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Funny faces",
+        "text": "An embarrassing remark",
         "aliases": [
-          "silly faces"
+          "something I said"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Salute",
+        "text": "A bet",
         "aliases": [
-          "saluting"
+          "lottery numbers"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Recreate a poster",
+        "text": "Leaving school",
         "aliases": [
-          "copy the poster"
+          "education choice"
         ],
         "points": 6
       }
@@ -737,47 +737,47 @@
   {
     "id": "culture-326",
     "category": "Pop culture",
-    "prompt": "Name something fans might ask a creator about during a question session.",
+    "prompt": "If you could fly, what would friends keep asking you to do?",
     "answers": [
       {
-        "text": "Inspiration",
+        "text": "Give them a lift",
         "aliases": [
-          "where ideas come from"
+          "fly them somewhere"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Creative process",
+        "text": "Take aerial photos",
         "aliases": [
-          "how they work"
+          "pictures from above"
         ],
         "points": 25
       },
       {
-        "text": "Career advice",
+        "text": "Rescue their pet",
         "aliases": [
-          "getting started"
+          "get a cat from a tree"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Favorite project",
+        "text": "Fetch lost things",
         "aliases": [
-          "best loved work"
+          "retrieve a ball"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Upcoming work",
+        "text": "Carry heavy bags",
         "aliases": [
-          "future projects"
+          "move their stuff"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Biggest challenge",
+        "text": "Check their roof",
         "aliases": [
-          "hardest part"
+          "look at the roof"
         ],
         "points": 5
       }
@@ -786,96 +786,98 @@
   {
     "id": "culture-327",
     "category": "Pop culture",
-    "prompt": "Name something a fan might include in a thank-you letter to a creator.",
+    "prompt": "Name something you would immediately outgrow if you woke up as a giant.",
     "answers": [
       {
-        "text": "A compliment",
+        "text": "Your shirt",
         "aliases": [
-          "praise"
+          "your top",
+          "t shirt",
+          "shirt"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Favorite moment",
+        "text": "Your bed",
         "aliases": [
-          "favorite scene"
+          "mattress"
         ],
         "points": 24
       },
       {
-        "text": "Personal impact",
+        "text": "Your car",
         "aliases": [
-          "how it helped them"
+          "vehicle"
         ],
         "points": 18
       },
       {
-        "text": "A drawing",
+        "text": "Your house",
         "aliases": [
-          "fan art"
+          "home"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "A question",
+        "text": "Your shoes",
         "aliases": [
-          "something to ask"
+          "footwear"
         ],
         "points": 9
       },
       {
-        "text": "Good wishes",
+        "text": "Your food portions",
         "aliases": [
-          "well wishes"
+          "meal size"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-328",
     "category": "Pop culture",
-    "prompt": "Name a decoration someone might use at a fan-themed party.",
+    "prompt": "Name a place where super hearing would be miserable.",
     "answers": [
       {
-        "text": "Posters",
+        "text": "A concert",
         "aliases": [
-          "wall posters"
+          "music festival"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Balloons",
+        "text": "A public toilet",
         "aliases": [
-          "themed balloons"
+          "restroom"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Character cutouts",
+        "text": "A nursery",
         "aliases": [
-          "standees"
+          "room full of babies"
         ],
         "points": 18
       },
       {
-        "text": "Banners",
+        "text": "A busy station",
         "aliases": [
-          "bunting"
+          "train station"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Themed tablecloth",
+        "text": "A construction site",
         "aliases": [
-          "table covering"
+          "building site"
         ],
         "points": 8
       },
       {
-        "text": "String lights",
+        "text": "An apartment building",
         "aliases": [
-          "fairy lights"
+          "noisy neighbors"
         ],
         "points": 6
       }
@@ -884,47 +886,47 @@
   {
     "id": "culture-329",
     "category": "Pop culture",
-    "prompt": "Name something judges might consider in a homemade costume contest.",
+    "prompt": "What might a superhero do with their powers just to avoid getting off the couch?",
     "answers": [
       {
-        "text": "Resemblance to the character",
+        "text": "Fetch the remote",
         "aliases": [
-          "accuracy"
+          "get remote"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Craftsmanship",
+        "text": "Get a snack",
         "aliases": [
-          "quality of construction"
+          "bring food"
         ],
         "points": 23
       },
       {
-        "text": "Originality",
+        "text": "Close the curtains",
         "aliases": [
-          "creative idea"
+          "shut blinds"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Stage presentation",
+        "text": "Answer the door",
         "aliases": [
-          "performance"
+          "open front door"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Attention to detail",
+        "text": "Turn off a light",
         "aliases": [
-          "small details"
+          "switch lights"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Clever use of materials",
+        "text": "Charge their phone",
         "aliases": [
-          "resourcefulness"
+          "bring charger"
         ],
         "points": 6
       }
@@ -933,47 +935,47 @@
   {
     "id": "culture-330",
     "category": "Pop culture",
-    "prompt": "Name a way a fan might arrange a collection on shelves.",
+    "prompt": "Name a reason you would never hire a superhero as a babysitter again.",
     "answers": [
       {
-        "text": "By series",
+        "text": "Left during an emergency",
         "aliases": [
-          "by franchise"
+          "ran off"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "By character",
+        "text": "Broke the house",
         "aliases": [
-          "character groups"
+          "property damage"
         ],
         "points": 25
       },
       {
-        "text": "By color",
+        "text": "Taught the kids to fight",
         "aliases": [
-          "color order"
+          "fighting lessons"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "By size",
+        "text": "Let the kids fly",
         "aliases": [
-          "height order"
+          "took them flying"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "By year",
+        "text": "Brought a villain home",
         "aliases": [
-          "release date"
+          "attracted enemies"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Alphabetically",
+        "text": "Scared the children",
         "aliases": [
-          "alphabetical order"
+          "frightened the kids"
         ],
         "points": 5
       }
@@ -982,96 +984,96 @@
   {
     "id": "culture-331",
     "category": "Pop culture",
-    "prompt": "Name a reason someone stops watching an online video before it ends.",
+    "prompt": "What could a ghost do that would make you move out that night?",
     "answers": [
       {
-        "text": "Too many ads",
+        "text": "Scream in your ear",
         "aliases": [
-          "advertisements"
+          "loud screaming"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Boring content",
+        "text": "Watch you shower",
         "aliases": [
-          "lost interest"
+          "appear in bathroom"
         ],
         "points": 24
       },
       {
-        "text": "Poor sound",
+        "text": "Throw things",
         "aliases": [
-          "bad audio"
+          "move objects"
         ],
         "points": 18
       },
       {
-        "text": "Misleading title",
+        "text": "Get into your bed",
         "aliases": [
-          "clickbait"
+          "appear in bed"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Buffering",
+        "text": "Possess someone",
         "aliases": [
-          "keeps loading"
+          "take over a person"
         ],
         "points": 9
       },
       {
-        "text": "Long introduction",
+        "text": "Write on the walls",
         "aliases": [
-          "slow intro"
+          "creepy messages"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-332",
     "category": "Pop culture",
-    "prompt": "Name something a podcast host might do at the beginning of an episode.",
+    "prompt": "Name a clue that your new roommate might be a werewolf.",
     "answers": [
       {
-        "text": "Greet listeners",
+        "text": "Howling",
         "aliases": [
-          "welcome the audience"
+          "howls at the moon"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Introduce a guest",
+        "text": "Fur everywhere",
         "aliases": [
-          "guest introduction"
+          "hair everywhere"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Preview the topic",
+        "text": "Missing during full moons",
         "aliases": [
-          "explain the subject"
+          "disappears at full moon"
         ],
         "points": 18
       },
       {
-        "text": "Play theme music",
+        "text": "Ripped clothes",
         "aliases": [
-          "opening tune"
+          "torn clothing"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Read a sponsor message",
+        "text": "Eating raw meat",
         "aliases": [
-          "advertisement"
+          "raw steak"
         ],
         "points": 8
       },
       {
-        "text": "Recap the previous episode",
+        "text": "Claw marks",
         "aliases": [
-          "previous episode summary"
+          "scratches on walls"
         ],
         "points": 6
       }
@@ -1080,47 +1082,47 @@
   {
     "id": "culture-333",
     "category": "Pop culture",
-    "prompt": "Name a quality that makes someone share a video with a friend.",
+    "prompt": "Name a gift that would make a vampire fake a thank-you.",
     "answers": [
       {
-        "text": "Funny",
+        "text": "Garlic bread",
         "aliases": [
-          "makes them laugh"
+          "garlic"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Useful",
+        "text": "A beach holiday",
         "aliases": [
-          "helpful"
+          "sunny vacation"
         ],
         "points": 23
       },
       {
-        "text": "Cute",
+        "text": "A mirror",
         "aliases": [
-          "adorable"
+          "looking glass"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Surprising",
+        "text": "A tanning lamp",
         "aliases": [
-          "unexpected"
+          "sun lamp"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Relatable",
+        "text": "A wooden stake",
         "aliases": [
-          "reminds them of us"
+          "wood stake"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Inspiring",
+        "text": "A silver cross",
         "aliases": [
-          "uplifting"
+          "crucifix"
         ],
         "points": 6
       }
@@ -1129,47 +1131,47 @@
   {
     "id": "culture-334",
     "category": "Pop culture",
-    "prompt": "Name something that might unexpectedly interrupt a livestream at home.",
+    "prompt": "What would be difficult about taking a pet dragon to the vet?",
     "answers": [
       {
-        "text": "Internet failure",
+        "text": "Getting it in the car",
         "aliases": [
-          "connection drops"
+          "transporting it"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Pet",
+        "text": "Stopping the fire",
         "aliases": [
-          "dog or cat"
+          "fire breathing"
         ],
         "points": 25
       },
       {
-        "text": "Doorbell",
+        "text": "Its enormous size",
         "aliases": [
-          "delivery"
+          "too big"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Family member",
+        "text": "Keeping it calm",
         "aliases": [
-          "someone walks in"
+          "aggression"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Power outage",
+        "text": "Hiding it from people",
         "aliases": [
-          "electricity goes out"
+          "attracting attention"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Dead battery",
+        "text": "Paying the bill",
         "aliases": [
-          "battery runs out"
+          "vet fees"
         ],
         "points": 5
       }
@@ -1178,96 +1180,97 @@
   {
     "id": "culture-335",
     "category": "Pop culture",
-    "prompt": "Name something a creator might set up before recording a video at home.",
+    "prompt": "Name something a witch would struggle to explain at airport security.",
     "answers": [
       {
-        "text": "Camera",
+        "text": "A broomstick",
         "aliases": [
-          "phone camera"
+          "flying broom"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Microphone",
+        "text": "A potion",
         "aliases": [
-          "mic"
+          "mysterious liquid"
         ],
         "points": 24
       },
       {
-        "text": "Lighting",
+        "text": "A cauldron",
         "aliases": [
-          "lights"
+          "large pot"
         ],
         "points": 18
       },
       {
-        "text": "Tripod",
+        "text": "A black cat",
         "aliases": [
-          "camera stand"
+          "pet cat"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Background",
+        "text": "A wand",
         "aliases": [
-          "backdrop"
+          "magic wand"
         ],
         "points": 9
       },
       {
-        "text": "Script",
+        "text": "A spell book",
         "aliases": [
-          "talking points"
+          "book of spells"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-336",
     "category": "Pop culture",
-    "prompt": "Name something a creator might cut out while editing a video.",
+    "prompt": "If a genie offered one practical wish, what would you ask for?",
     "answers": [
       {
-        "text": "Mispronounced word",
+        "text": "Money",
         "aliases": [
-          "pronunciation error"
+          "wealth"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Long silence",
+        "text": "Good health",
         "aliases": [
-          "awkward pause"
+          "health"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Repeated section",
+        "text": "A house",
         "aliases": [
-          "repetition"
+          "home"
         ],
         "points": 18
       },
       {
-        "text": "Unwanted background noise",
+        "text": "A dream job",
         "aliases": [
-          "extra noise"
+          "perfect career"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Someone walking into the shot",
+        "text": "More free time",
         "aliases": [
-          "unwanted guest"
+          "time off"
         ],
         "points": 8
       },
       {
-        "text": "Private information",
+        "text": "Chores done forever",
         "aliases": [
-          "personal details"
+          "no housework",
+          "self cleaning home"
         ],
         "points": 6
       }
@@ -1276,47 +1279,47 @@
   {
     "id": "culture-337",
     "category": "Pop culture",
-    "prompt": "Name a kind of comment viewers leave below a video they enjoyed.",
+    "prompt": "Name a wish you would regret letting a child make for the whole family.",
     "answers": [
       {
-        "text": "Compliment",
+        "text": "Candy for every meal",
         "aliases": [
-          "praise"
+          "unlimited sweets"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Question",
+        "text": "A pet dinosaur",
         "aliases": [
-          "request for information"
+          "pet dragon"
         ],
         "points": 23
       },
       {
-        "text": "Joke",
+        "text": "No bedtime",
         "aliases": [
-          "funny comment"
+          "stay up forever"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Personal story",
+        "text": "No school",
         "aliases": [
-          "similar experience"
+          "never go to school"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Emoji",
+        "text": "Living in a toy shop",
         "aliases": [
-          "reaction symbol"
+          "toy store home"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Request for another video",
+        "text": "Powers they cannot control",
         "aliases": [
-          "more please"
+          "dangerous powers"
         ],
         "points": 6
       }
@@ -1325,47 +1328,47 @@
   {
     "id": "culture-338",
     "category": "Pop culture",
-    "prompt": "Name something that might inspire a person's online username.",
+    "prompt": "What could get you in trouble while riding a magic carpet through a city?",
     "answers": [
       {
-        "text": "Favorite animal",
+        "text": "Hitting a building",
         "aliases": [
-          "animal"
+          "crashing"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Hobby",
+        "text": "Breaking traffic rules",
         "aliases": [
-          "favorite pastime"
+          "running red lights"
         ],
         "points": 25
       },
       {
-        "text": "Nickname",
+        "text": "Low-flying planes",
         "aliases": [
-          "pet name"
+          "aircraft"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Favorite food",
+        "text": "Dropping something",
         "aliases": [
-          "food"
+          "falling belongings"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Favorite color",
+        "text": "Distracting drivers",
         "aliases": [
-          "color"
+          "causing traffic accidents"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Fictional character",
+        "text": "Landing somewhere forbidden",
         "aliases": [
-          "character name"
+          "restricted area"
         ],
         "points": 5
       }
@@ -1374,96 +1377,96 @@
   {
     "id": "culture-339",
     "category": "Pop culture",
-    "prompt": "Name something in a video thumbnail that catches a viewer's attention.",
+    "prompt": "Name a modern convenience a fairy-tale princess would refuse to give up.",
     "answers": [
       {
-        "text": "Expressive face",
+        "text": "A smartphone",
         "aliases": [
-          "surprised face"
+          "mobile phone"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Bright colors",
+        "text": "Hot showers",
         "aliases": [
-          "bold colors"
+          "hot running water"
         ],
         "points": 24
       },
       {
-        "text": "Large words",
+        "text": "A washing machine",
         "aliases": [
-          "big text"
+          "washer"
         ],
         "points": 18
       },
       {
-        "text": "Unusual object",
+        "text": "A car",
         "aliases": [
-          "strange object"
+          "automobile"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Dramatic scene",
+        "text": "Central heating",
         "aliases": [
-          "exciting scene"
+          "air conditioning"
         ],
         "points": 9
       },
       {
-        "text": "Arrow",
+        "text": "A microwave",
         "aliases": [
-          "pointer"
+          "microwave oven"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-340",
     "category": "Pop culture",
-    "prompt": "Name something online that can make a quick break last much longer than planned.",
+    "prompt": "Name something Cinderella might lose during a wild night out besides a shoe.",
     "answers": [
       {
-        "text": "Short videos",
+        "text": "Her phone",
         "aliases": [
-          "video feed"
+          "mobile"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Comment sections",
+        "text": "Her keys",
         "aliases": [
-          "reading comments"
+          "house keys"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Recommended links",
+        "text": "Her purse",
         "aliases": [
-          "suggested content"
+          "handbag"
         ],
         "points": 18
       },
       {
-        "text": "Memes",
+        "text": "An earring",
         "aliases": [
-          "funny images"
+          "jewelry"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Livestreams",
+        "text": "Her friends",
         "aliases": [
-          "live videos"
+          "lose her group"
         ],
         "points": 8
       },
       {
-        "text": "Other people's profiles",
+        "text": "Track of time",
         "aliases": [
-          "profile browsing"
+          "forget the time"
         ],
         "points": 6
       }
@@ -1472,47 +1475,47 @@
   {
     "id": "culture-341",
     "category": "Pop culture",
-    "prompt": "Name something a fan page might post to keep its followers interested.",
+    "prompt": "Name someone Pinocchio would have a hard time lying to.",
     "answers": [
       {
-        "text": "News",
+        "text": "His partner",
         "aliases": [
-          "updates"
+          "girlfriend"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Fan art",
+        "text": "His boss",
         "aliases": [
-          "fan drawings"
+          "employer"
         ],
         "points": 23
       },
       {
-        "text": "Poll",
+        "text": "A teacher",
         "aliases": [
-          "vote"
+          "schoolteacher"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Theory",
+        "text": "The police",
         "aliases": [
-          "prediction"
+          "officer"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Event announcement",
+        "text": "His parents",
         "aliases": [
-          "meetup details"
+          "father"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Old photo",
+        "text": "A judge",
         "aliases": [
-          "throwback"
+          "court"
         ],
         "points": 6
       }
@@ -1521,47 +1524,47 @@
   {
     "id": "culture-342",
     "category": "Pop culture",
-    "prompt": "Name a subject for a lighthearted online quiz.",
+    "prompt": "Name a job where a wicked witch would scare away the customers.",
     "answers": [
       {
-        "text": "Personality",
+        "text": "Dentist",
         "aliases": [
-          "personality type"
+          "dental work"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Fictional characters",
+        "text": "Babysitter",
         "aliases": [
-          "which character are you"
+          "childcare"
         ],
         "points": 25
       },
       {
-        "text": "Vocabulary",
+        "text": "Hairdresser",
         "aliases": [
-          "word meanings"
+          "barber"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Food preferences",
+        "text": "Teacher",
         "aliases": [
-          "favorite foods"
+          "schoolteacher"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Animals",
+        "text": "Doctor",
         "aliases": [
-          "animal facts"
+          "physician"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Career match",
+        "text": "Flight attendant",
         "aliases": [
-          "ideal job"
+          "cabin crew"
         ],
         "points": 5
       }
@@ -1570,96 +1573,96 @@
   {
     "id": "culture-343",
     "category": "Pop culture",
-    "prompt": "Name something people customize when creating an online avatar.",
+    "prompt": "If you shrank to the size of a thumb, what would suddenly be dangerous?",
     "answers": [
       {
-        "text": "Hairstyle",
+        "text": "A cat",
         "aliases": [
-          "hair"
+          "pet cat"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Clothing",
+        "text": "A vacuum cleaner",
         "aliases": [
-          "outfit"
+          "vacuum"
         ],
         "points": 24
       },
       {
-        "text": "Skin tone",
+        "text": "A bathtub",
         "aliases": [
-          "skin color"
+          "water"
         ],
         "points": 18
       },
       {
-        "text": "Facial expression",
+        "text": "Someone's shoes",
         "aliases": [
-          "face expression"
+          "being stepped on"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Accessories",
+        "text": "A lawn mower",
         "aliases": [
-          "glasses or hats"
+          "mower"
         ],
         "points": 9
       },
       {
-        "text": "Background",
+        "text": "A kitchen sink",
         "aliases": [
-          "backdrop"
+          "drain"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-344",
     "category": "Pop culture",
-    "prompt": "Name a friendly online challenge people might try with friends.",
+    "prompt": "What would you use a magic wand to fix five minutes before guests arrived?",
     "answers": [
       {
-        "text": "Drawing challenge",
+        "text": "The mess",
         "aliases": [
-          "art challenge"
+          "dirty house"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Photo challenge",
+        "text": "Burned food",
         "aliases": [
-          "photography challenge"
+          "ruined dinner"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Cooking challenge",
+        "text": "Your outfit",
         "aliases": [
-          "recipe challenge"
+          "clothes"
         ],
         "points": 18
       },
       {
-        "text": "Fitness challenge",
+        "text": "Bad weather",
         "aliases": [
-          "exercise challenge"
+          "rain"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Trivia challenge",
+        "text": "A broken toilet",
         "aliases": [
-          "quiz challenge"
+          "bathroom problem"
         ],
         "points": 8
       },
       {
-        "text": "Kindness challenge",
+        "text": "An empty fridge",
         "aliases": [
-          "good deed challenge"
+          "no drinks"
         ],
         "points": 6
       }
@@ -1668,47 +1671,47 @@
   {
     "id": "culture-345",
     "category": "Pop culture",
-    "prompt": "Name a reason a creator temporarily mutes their microphone during a livestream.",
+    "prompt": "What would guests worry about if a dragon crashed a wedding?",
     "answers": [
       {
-        "text": "Coughing",
+        "text": "Being burned",
         "aliases": [
-          "need to cough"
+          "fire"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Private conversation",
+        "text": "Getting eaten",
         "aliases": [
-          "talking privately"
+          "being food"
         ],
         "points": 23
       },
       {
-        "text": "Phone call",
+        "text": "The venue collapsing",
         "aliases": [
-          "answering phone"
+          "building damage"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Eating",
+        "text": "The wedding cake",
         "aliases": [
-          "taking a bite"
+          "cake destroyed"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Loud noise nearby",
+        "text": "The couple escaping",
         "aliases": [
-          "background noise"
+          "bride and groom"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Taking a short break",
+        "text": "Their cars",
         "aliases": [
-          "stepping away"
+          "damaged vehicles"
         ],
         "points": 6
       }
@@ -1717,47 +1720,47 @@
   {
     "id": "culture-346",
     "category": "Pop culture",
-    "prompt": "Name a kind of picture people turn into an internet meme.",
+    "prompt": "Name something parents would hate a genie to give their child an unlimited supply of.",
     "answers": [
       {
-        "text": "Animal photo",
+        "text": "Candy",
         "aliases": [
-          "pet picture"
+          "sweets"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Reaction face",
+        "text": "Money",
         "aliases": [
-          "facial expression"
+          "cash"
         ],
         "points": 25
       },
       {
-        "text": "Cartoon panel",
+        "text": "Energy",
         "aliases": [
-          "comic panel"
+          "never tired"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Screenshot",
+        "text": "Loud toys",
         "aliases": [
-          "screen capture"
+          "noisy toys"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Stock photo",
+        "text": "Screen time",
         "aliases": [
-          "stock image"
+          "video games"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Famous painting",
+        "text": "Excuses",
         "aliases": [
-          "artwork"
+          "ways out of chores"
         ],
         "points": 5
       }
@@ -1766,96 +1769,96 @@
   {
     "id": "culture-347",
     "category": "Pop culture",
-    "prompt": "Name a reason someone decides not to publish a social media post they drafted.",
+    "prompt": "What would be embarrassing to admit to a fairy-tale hero who saved you?",
     "answers": [
       {
-        "text": "Too personal",
+        "text": "You caused the problem",
         "aliases": [
-          "private information"
+          "it was your fault"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Written while angry",
+        "text": "You fancied the villain",
         "aliases": [
-          "angry post"
+          "crush on villain"
         ],
         "points": 24
       },
       {
-        "text": "Typo",
+        "text": "You were not actually trapped",
         "aliases": [
-          "spelling mistake"
+          "could leave"
         ],
         "points": 18
       },
       {
-        "text": "Wrong photo",
+        "text": "You forgot their name",
         "aliases": [
-          "incorrect picture"
+          "don't know their name"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Outdated information",
+        "text": "You cannot pay them",
         "aliases": [
-          "old news"
+          "no reward"
         ],
         "points": 9
       },
       {
-        "text": "Already posted it",
+        "text": "You slept through the rescue",
         "aliases": [
-          "duplicate post"
+          "missed everything"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-348",
     "category": "Pop culture",
-    "prompt": "Name a place someone might look to find an online video they watched before.",
+    "prompt": "Name something a nervous passenger would ask on their first magic-carpet ride.",
     "answers": [
       {
-        "text": "Watch history",
+        "text": "Where is the seat belt",
         "aliases": [
-          "viewing history"
+          "how do I strap in"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Saved list",
+        "text": "How high are we going",
         "aliases": [
-          "bookmarks"
+          "altitude"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Search bar",
+        "text": "Can we slow down",
         "aliases": [
-          "search"
+          "too fast"
         ],
         "points": 18
       },
       {
-        "text": "Liked videos",
+        "text": "What if it rains",
         "aliases": [
-          "likes"
+          "weather"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Creator's page",
+        "text": "Where are we landing",
         "aliases": [
-          "channel"
+          "destination"
         ],
         "points": 8
       },
       {
-        "text": "Message from a friend",
+        "text": "Can this thing break",
         "aliases": [
-          "shared link"
+          "is it safe"
         ],
         "points": 6
       }
@@ -1864,47 +1867,47 @@
   {
     "id": "culture-349",
     "category": "Pop culture",
-    "prompt": "Name a way viewers can participate during an interactive livestream.",
+    "prompt": "What human habit might a mermaid find ridiculous at the beach?",
     "answers": [
       {
-        "text": "Ask a question",
+        "text": "Paying to sit near water",
         "aliases": [
-          "submit a question"
+          "renting beach chairs"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Answer a poll",
+        "text": "Being scared to get wet",
         "aliases": [
-          "vote"
+          "avoiding water"
         ],
         "points": 23
       },
       {
-        "text": "Send an emoji",
+        "text": "Collecting shells",
         "aliases": [
-          "emoji reaction"
+          "taking shells"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Make a request",
+        "text": "Taking endless photos",
         "aliases": [
-          "request a topic"
+          "selfies"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Guess an answer",
+        "text": "Wearing fake tans",
         "aliases": [
-          "join a quiz"
+          "tanning lotion"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Share an experience",
+        "text": "Leaving rubbish",
         "aliases": [
-          "tell a story"
+          "littering"
         ],
         "points": 6
       }
@@ -1913,47 +1916,47 @@
   {
     "id": "culture-350",
     "category": "Pop culture",
-    "prompt": "Name a message people might express with a digital sticker.",
+    "prompt": "What would make living in a castle less glamorous than it sounds?",
     "answers": [
       {
-        "text": "Thank you",
+        "text": "Cold rooms",
         "aliases": [
-          "thanks"
+          "no heating"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Love",
+        "text": "Too many stairs",
         "aliases": [
-          "affection"
+          "staircases"
         ],
         "points": 25
       },
       {
-        "text": "Laughter",
+        "text": "Cleaning it",
         "aliases": [
-          "that is funny"
+          "housework"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Congratulations",
+        "text": "High bills",
         "aliases": [
-          "well done"
+          "maintenance costs"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Good morning",
+        "text": "No privacy",
         "aliases": [
-          "morning greeting"
+          "servants everywhere"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Sorry",
+        "text": "Ghosts",
         "aliases": [
-          "apology"
+          "haunting"
         ],
         "points": 5
       }
@@ -1962,96 +1965,96 @@
   {
     "id": "culture-351",
     "category": "Pop culture",
-    "prompt": "Name something a creator does before publishing a finished video.",
+    "prompt": "Name a reason a reader says one more chapter and then keeps going.",
     "answers": [
       {
-        "text": "Write a title",
+        "text": "A cliffhanger",
         "aliases": [
-          "add title"
+          "suspense"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Choose a thumbnail",
+        "text": "A romance heats up",
         "aliases": [
-          "pick cover image"
+          "love story"
         ],
         "points": 24
       },
       {
-        "text": "Write a description",
+        "text": "They cannot sleep",
         "aliases": [
-          "add description"
+          "insomnia"
         ],
         "points": 18
       },
       {
-        "text": "Add captions",
+        "text": "The villain might get caught",
         "aliases": [
-          "subtitles"
+          "solving the crime"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Set visibility",
+        "text": "Only a few pages remain",
         "aliases": [
-          "privacy settings"
+          "nearly finished"
         ],
         "points": 9
       },
       {
-        "text": "Watch it through",
+        "text": "They lost track of time",
         "aliases": [
-          "final preview"
+          "didn't notice time"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-352",
     "category": "Pop culture",
-    "prompt": "Name something people add or change when making a photo into a meme.",
+    "prompt": "Name a sign someone lost track of an audiobook.",
     "answers": [
       {
-        "text": "Caption",
+        "text": "They rewind repeatedly",
         "aliases": [
-          "funny text"
+          "go back"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Crop",
+        "text": "They ask who a character is",
         "aliases": [
-          "trim the image"
+          "confused about names"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Stickers",
+        "text": "They missed a death",
         "aliases": [
-          "digital stickers"
+          "major event surprise"
         ],
         "points": 18
       },
       {
-        "text": "Font",
+        "text": "They start the wrong chapter",
         "aliases": [
-          "lettering style"
+          "wrong place"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Filter",
+        "text": "They cannot explain the plot",
         "aliases": [
-          "color effect"
+          "don't know what happened"
         ],
         "points": 8
       },
       {
-        "text": "Another image",
+        "text": "They fell asleep",
         "aliases": [
-          "second picture"
+          "sleeping"
         ],
         "points": 6
       }
@@ -2060,47 +2063,47 @@
   {
     "id": "culture-353",
     "category": "Pop culture",
-    "prompt": "Name a rule a friendly online fan group might have.",
+    "prompt": "What would make you hide the cover of a book on the train?",
     "answers": [
       {
-        "text": "Be respectful",
+        "text": "A shirtless model",
         "aliases": [
-          "be kind"
+          "romance cover"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "No spam",
+        "text": "An embarrassing title",
         "aliases": [
-          "no advertising"
+          "silly title"
         ],
         "points": 23
       },
       {
-        "text": "Stay on topic",
+        "text": "A self-help topic",
         "aliases": [
-          "relevant posts only"
+          "personal problem"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Hide spoilers",
+        "text": "A children's cover",
         "aliases": [
-          "mark spoilers"
+          "kids book"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Credit artists",
+        "text": "A lurid horror picture",
         "aliases": [
-          "name the creator"
+          "gory cover"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Protect privacy",
+        "text": "Someone you know wrote it",
         "aliases": [
-          "no personal information"
+          "friend's book"
         ],
         "points": 6
       }
@@ -2109,47 +2112,47 @@
   {
     "id": "culture-354",
     "category": "Pop culture",
-    "prompt": "Name an online event a creative hobby group might organize.",
+    "prompt": "Name a place you might open a book to discourage conversation.",
     "answers": [
       {
-        "text": "Art workshop",
+        "text": "On a train",
         "aliases": [
-          "drawing lesson"
+          "public transport"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Photo contest",
+        "text": "A waiting room",
         "aliases": [
-          "photography competition"
+          "doctor's office"
         ],
         "points": 25
       },
       {
-        "text": "Craft demonstration",
+        "text": "An airplane",
         "aliases": [
-          "craft tutorial"
+          "flight"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Museum tour",
+        "text": "At work during lunch",
         "aliases": [
-          "virtual gallery tour"
+          "break room"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Creator interview",
+        "text": "A cafe",
         "aliases": [
-          "artist questions"
+          "coffee shop"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Show and tell",
+        "text": "At home with relatives",
         "aliases": [
-          "share finished work"
+          "family gathering"
         ],
         "points": 5
       }
@@ -2158,94 +2161,96 @@
   {
     "id": "culture-355",
     "category": "Pop culture",
-    "prompt": "Name something people check before sharing a surprising story they saw online.",
+    "prompt": "What might someone do at book club when they have not read the book?",
     "answers": [
       {
-        "text": "Source",
+        "text": "Stay quiet",
         "aliases": [
-          "publisher"
+          "listen"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Date",
+        "text": "Talk about the film",
         "aliases": [
-          "when it was posted"
+          "movie version"
         ],
         "points": 24
       },
       {
-        "text": "Full article",
+        "text": "Agree with everyone",
         "aliases": [
-          "read past headline"
+          "nod along"
         ],
         "points": 18
       },
       {
-        "text": "Other reports",
+        "text": "Ask vague questions",
         "aliases": [
-          "other sources"
+          "general questions"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Image context",
+        "text": "Change the subject",
         "aliases": [
-          "where photo came from"
+          "talk about something else"
         ],
         "points": 9
       },
       {
-        "text": "Supporting evidence",
+        "text": "Admit it",
         "aliases": [
-          "proof"
+          "confess"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-356",
     "category": "Pop culture",
-    "prompt": "Name a basic supply someone might forget to bring to an art class.",
+    "prompt": "What can make you give up on a book you really wanted to like?",
     "answers": [
       {
-        "text": "Pencil",
+        "text": "A slow start",
         "aliases": [
-          "drawing pencil"
+          "boring opening"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Paper",
+        "text": "An annoying main character",
         "aliases": [
-          "sketchpad"
+          "unlikable hero"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Paintbrush",
+        "text": "Confusing writing",
         "aliases": [
-          "brush"
+          "hard to follow"
         ],
         "points": 18
       },
       {
-        "text": "Eraser",
+        "text": "Too much description",
         "aliases": [
-          "rubber"
+          "endless details"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Paint",
-        "aliases": [],
+        "text": "A predictable plot",
+        "aliases": [
+          "obvious story"
+        ],
         "points": 8
       },
       {
-        "text": "Water container",
+        "text": "A ridiculous twist",
         "aliases": [
-          "water cup"
+          "unbelievable plot"
         ],
         "points": 6
       }
@@ -2254,47 +2259,47 @@
   {
     "id": "culture-357",
     "category": "Pop culture",
-    "prompt": "Name something from a craft project that is hard to clean off a table.",
+    "prompt": "Name something you might use as a bookmark in an emergency.",
     "answers": [
       {
-        "text": "Glitter",
+        "text": "A receipt",
         "aliases": [
-          "sparkles"
+          "shopping receipt"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Glue",
+        "text": "A tissue",
         "aliases": [
-          "adhesive"
+          "napkin"
         ],
         "points": 23
       },
       {
-        "text": "Paint",
+        "text": "A banknote",
         "aliases": [
-          "paint splashes"
+          "cash"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Wax",
+        "text": "A photo",
         "aliases": [
-          "candle wax"
+          "photograph"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Clay",
+        "text": "A train ticket",
         "aliases": [
-          "dried clay"
+          "ticket"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Ink",
+        "text": "A hair tie",
         "aliases": [
-          "ink stains"
+          "elastic band"
         ],
         "points": 6
       }
@@ -2303,47 +2308,47 @@
   {
     "id": "culture-358",
     "category": "Pop culture",
-    "prompt": "Name something a beginner might practice drawing in a sketchbook.",
+    "prompt": "What might a friend do to your borrowed book that would annoy you?",
     "answers": [
       {
-        "text": "Face",
+        "text": "Bend the corners",
         "aliases": [
-          "portrait"
+          "dog ear pages"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Flower",
+        "text": "Spill on it",
         "aliases": [
-          "plant"
+          "water damage"
         ],
         "points": 25
       },
       {
-        "text": "Pet",
+        "text": "Lose it",
         "aliases": [
-          "animal"
+          "misplace it"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Landscape",
+        "text": "Write in it",
         "aliases": [
-          "scenery"
+          "make notes"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Building",
+        "text": "Break the spine",
         "aliases": [
-          "house"
+          "bend the cover"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Cup",
+        "text": "Lend it to someone else",
         "aliases": [
-          "drinking cup"
+          "pass it on"
         ],
         "points": 5
       }
@@ -2352,92 +2357,100 @@
   {
     "id": "culture-359",
     "category": "Pop culture",
-    "prompt": "Name a part of a face that people find difficult to draw.",
+    "prompt": "Name something a gripping book could make you forget to do.",
     "answers": [
       {
-        "text": "Eyes",
-        "aliases": [],
-        "points": 30
+        "text": "Sleep",
+        "aliases": [
+          "go to bed"
+        ],
+        "points": 32
       },
       {
-        "text": "Nose",
+        "text": "Eat",
         "aliases": [
-          "nostrils"
+          "have dinner"
         ],
         "points": 24
       },
       {
-        "text": "Mouth",
+        "text": "Get off the train",
         "aliases": [
-          "lips"
+          "miss a stop"
         ],
         "points": 18
       },
       {
-        "text": "Ears",
-        "aliases": [],
-        "points": 13
+        "text": "Do your work",
+        "aliases": [
+          "finish work"
+        ],
+        "points": 12
       },
       {
-        "text": "Hair",
+        "text": "Reply to messages",
         "aliases": [
-          "hairstyle"
+          "text back"
         ],
         "points": 9
       },
       {
-        "text": "Teeth",
+        "text": "Pick someone up",
         "aliases": [
-          "tooth"
+          "collect someone"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-360",
     "category": "Pop culture",
-    "prompt": "Name a place an artist might look for fresh inspiration.",
+    "prompt": "Name something fans do while waiting forever for the next book in a series.",
     "answers": [
       {
-        "text": "Nature",
+        "text": "Reread the earlier books",
         "aliases": [
-          "outdoors"
+          "read the series again",
+          "reread"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Museum",
+        "text": "Ask the author for updates",
         "aliases": [
-          "art gallery"
+          "nag the author",
+          "check author updates"
         ],
         "points": 24
       },
       {
-        "text": "Old photographs",
+        "text": "Make up theories",
         "aliases": [
-          "photo album"
+          "fan theories",
+          "guess the plot"
         ],
         "points": 18
       },
       {
-        "text": "Music",
+        "text": "Read fan fiction",
         "aliases": [
-          "favorite songs"
+          "fanfiction"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Friends",
+        "text": "Start another series",
         "aliases": [
-          "people they know"
+          "read other books"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Random prompt",
+        "text": "Forget the characters",
         "aliases": [
-          "drawing prompt"
+          "forget the names",
+          "forget the story"
         ],
         "points": 6
       }
@@ -2446,45 +2459,47 @@
   {
     "id": "culture-361",
     "category": "Pop culture",
-    "prompt": "Name something people make in a pottery class.",
+    "prompt": "What might make you buy a book before reading a single page?",
     "answers": [
       {
-        "text": "Bowl",
-        "aliases": [],
-        "points": 28
+        "text": "A beautiful cover",
+        "aliases": [
+          "cover art"
+        ],
+        "points": 34
       },
       {
-        "text": "Mug",
+        "text": "A friend's recommendation",
         "aliases": [
-          "cup"
+          "friend suggested it"
         ],
         "points": 23
       },
       {
-        "text": "Vase",
+        "text": "A favorite author",
         "aliases": [
-          "flower vase"
+          "author name"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Plate",
+        "text": "A sale",
         "aliases": [
-          "dish"
+          "cheap price"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Sculpture",
+        "text": "The title",
         "aliases": [
-          "figurine"
+          "interesting title"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Plant pot",
+        "text": "A signed copy",
         "aliases": [
-          "planter"
+          "autograph"
         ],
         "points": 6
       }
@@ -2493,47 +2508,47 @@
   {
     "id": "culture-362",
     "category": "Pop culture",
-    "prompt": "Name something people like to fold out of paper.",
+    "prompt": "What makes a quick trip to a bookstore take two hours?",
     "answers": [
       {
-        "text": "Airplane",
+        "text": "Browsing random shelves",
         "aliases": [
-          "paper plane"
+          "wandering"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Crane",
+        "text": "Reading the first chapter",
         "aliases": [
-          "paper crane"
+          "sampling books"
         ],
         "points": 25
       },
       {
-        "text": "Boat",
+        "text": "Talking to the bookseller",
         "aliases": [
-          "paper boat"
+          "staff recommendations"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Flower",
+        "text": "A cafe inside",
         "aliases": [
-          "paper flower"
+          "coffee"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Frog",
+        "text": "Finding a sale",
         "aliases": [
-          "jumping frog"
+          "discount section"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Butterfly",
+        "text": "Trying to choose one book",
         "aliases": [
-          "paper butterfly"
+          "can't decide"
         ],
         "points": 5
       }
@@ -2542,94 +2557,96 @@
   {
     "id": "culture-363",
     "category": "Pop culture",
-    "prompt": "Name something a knitter might make as a gift.",
+    "prompt": "Name a reason people keep a book they know they will never reread.",
     "answers": [
       {
-        "text": "Scarf",
+        "text": "Sentimental value",
         "aliases": [
-          "neck scarf"
+          "memories"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Hat",
+        "text": "It looks good on a shelf",
         "aliases": [
-          "beanie"
+          "decoration"
         ],
         "points": 24
       },
       {
-        "text": "Blanket",
+        "text": "It was a gift",
         "aliases": [
-          "throw"
+          "present"
         ],
         "points": 18
       },
       {
-        "text": "Socks",
-        "aliases": [],
-        "points": 13
+        "text": "They might lend it",
+        "aliases": [
+          "share it"
+        ],
+        "points": 12
       },
       {
-        "text": "Sweater",
+        "text": "It is signed",
         "aliases": [
-          "jumper"
+          "author autograph"
         ],
         "points": 9
       },
       {
-        "text": "Mittens",
+        "text": "It completes a collection",
         "aliases": [
-          "gloves"
+          "part of a set"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-364",
     "category": "Pop culture",
-    "prompt": "Name a keepsake someone might put in a scrapbook besides photographs.",
+    "prompt": "If you could vacation inside a novel, what would you want the setting to have?",
     "answers": [
       {
-        "text": "Ticket",
+        "text": "A beach",
         "aliases": [
-          "ticket stub"
+          "tropical island"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Letter",
+        "text": "Magic",
         "aliases": [
-          "handwritten note"
+          "magical world"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Postcard",
+        "text": "A castle",
         "aliases": [
-          "post card"
+          "palace"
         ],
         "points": 18
       },
       {
-        "text": "Pressed flower",
+        "text": "Beautiful scenery",
         "aliases": [
-          "dried flower"
+          "mountains"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Map",
+        "text": "Great food",
         "aliases": [
-          "travel map"
+          "feasts"
         ],
         "points": 8
       },
       {
-        "text": "Ribbon",
+        "text": "Friendly creatures",
         "aliases": [
-          "award ribbon"
+          "talking animals"
         ],
         "points": 6
       }
@@ -2638,47 +2655,47 @@
   {
     "id": "culture-365",
     "category": "Pop culture",
-    "prompt": "Name a material someone might use in a collage.",
+    "prompt": "Name a quality you would want in a fictional sidekick if you were the hero.",
     "answers": [
       {
-        "text": "Magazine pictures",
+        "text": "Loyalty",
         "aliases": [
-          "magazine cutouts"
+          "trustworthy"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Newspaper",
+        "text": "A sense of humor",
         "aliases": [
-          "newsprint"
+          "funny"
         ],
         "points": 23
       },
       {
-        "text": "Fabric scraps",
+        "text": "Brains",
         "aliases": [
-          "cloth"
+          "clever"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Photographs",
+        "text": "Fighting skills",
         "aliases": [
-          "photos"
+          "strong"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Wrapping paper",
+        "text": "Useful gadgets",
         "aliases": [
-          "gift wrap"
+          "technology"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Leaves",
+        "text": "A calm head",
         "aliases": [
-          "dried leaves"
+          "doesn't panic"
         ],
         "points": 6
       }
@@ -2687,47 +2704,47 @@
   {
     "id": "culture-366",
     "category": "Pop culture",
-    "prompt": "Name a scent someone might choose for a homemade candle.",
+    "prompt": "What would make you doubt a fictional detective could solve your case?",
     "answers": [
       {
-        "text": "Vanilla",
+        "text": "They are drunk",
         "aliases": [
-          "vanilla bean"
+          "drinking"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Lavender",
+        "text": "They lose evidence",
         "aliases": [
-          "lavender flower"
+          "careless"
         ],
         "points": 25
       },
       {
-        "text": "Cinnamon",
+        "text": "They accuse everyone",
         "aliases": [
-          "spice"
+          "random guesses"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Citrus",
+        "text": "They ignore you",
         "aliases": [
-          "lemon or orange"
+          "won't listen"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Pine",
+        "text": "They keep falling asleep",
         "aliases": [
-          "evergreen"
+          "sleeping"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Ocean breeze",
+        "text": "They are helping the suspect",
         "aliases": [
-          "sea breeze"
+          "corrupt"
         ],
         "points": 5
       }
@@ -2736,94 +2753,96 @@
   {
     "id": "culture-367",
     "category": "Pop culture",
-    "prompt": "Name something someone might need to make a beaded bracelet.",
+    "prompt": "What could make you secretly root for the villain in a book?",
     "answers": [
       {
-        "text": "Beads",
-        "aliases": [],
-        "points": 30
+        "text": "A tragic past",
+        "aliases": [
+          "sad backstory"
+        ],
+        "points": 32
       },
       {
-        "text": "Cord",
+        "text": "A good sense of humor",
         "aliases": [
-          "string"
+          "funny"
         ],
         "points": 24
       },
       {
-        "text": "Clasp",
+        "text": "A convincing point",
         "aliases": [
-          "fastener"
+          "right about something"
         ],
         "points": 18
       },
       {
-        "text": "Scissors",
+        "text": "Charm",
         "aliases": [
-          "cutters"
+          "charismatic"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Pliers",
+        "text": "An awful hero",
         "aliases": [
-          "jewelry pliers"
+          "annoying protagonist"
         ],
         "points": 9
       },
       {
-        "text": "Measuring tape",
+        "text": "A chance to change",
         "aliases": [
-          "tape measure"
+          "redemption"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-368",
     "category": "Pop culture",
-    "prompt": "Name a reason a craft project sits unfinished for months.",
+    "prompt": "Name something fictional heroes do that ordinary people would struggle with.",
     "answers": [
       {
-        "text": "No time",
+        "text": "Fight off a whole gang",
         "aliases": [
-          "too busy"
+          "beat many attackers"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Lost interest",
+        "text": "Survive huge injuries",
         "aliases": [
-          "got bored"
+          "walk off wounds"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Missing supplies",
+        "text": "Go days without sleep",
         "aliases": [
-          "ran out of materials"
+          "never sleep"
         ],
         "points": 18
       },
       {
-        "text": "Too difficult",
+        "text": "Make perfect speeches",
         "aliases": [
-          "harder than expected"
+          "always know what to say"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Made a mistake",
+        "text": "Solve everything instantly",
         "aliases": [
-          "need to redo it"
+          "always have answers"
         ],
         "points": 8
       },
       {
-        "text": "No workspace",
+        "text": "Run forever",
         "aliases": [
-          "not enough room"
+          "never get tired"
         ],
         "points": 6
       }
@@ -2832,47 +2851,47 @@
   {
     "id": "culture-369",
     "category": "Pop culture",
-    "prompt": "Name a reason an adult might sign up for an art class.",
+    "prompt": "What might you do when an author kills your favorite character?",
     "answers": [
       {
-        "text": "Learn a skill",
+        "text": "Cry",
         "aliases": [
-          "improve technique"
+          "weep"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Relax",
+        "text": "Stop reading",
         "aliases": [
-          "reduce stress"
+          "put the book down"
         ],
         "points": 23
       },
       {
-        "text": "Meet people",
+        "text": "Reread the scene",
         "aliases": [
-          "make friends"
+          "check it happened"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Try a new hobby",
+        "text": "Complain to a friend",
         "aliases": [
-          "find a hobby"
+          "rant"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Find inspiration",
+        "text": "Look for spoilers",
         "aliases": [
-          "fresh ideas"
+          "see if they return"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Build confidence",
+        "text": "Write an angry review",
         "aliases": [
-          "feel more confident"
+          "bad review"
         ],
         "points": 6
       }
@@ -2881,47 +2900,47 @@
   {
     "id": "culture-370",
     "category": "Pop culture",
-    "prompt": "Name a challenge an artist might face while painting outdoors.",
+    "prompt": "Name a modern thing you would miss if you got stuck in a fantasy kingdom.",
     "answers": [
       {
-        "text": "Wind",
+        "text": "Your phone",
         "aliases": [
-          "windy weather"
+          "internet"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Rain",
+        "text": "A proper toilet",
         "aliases": [
-          "wet weather"
+          "plumbing"
         ],
         "points": 25
       },
       {
-        "text": "Changing light",
+        "text": "Medicine",
         "aliases": [
-          "moving shadows"
+          "healthcare"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Insects",
+        "text": "Electricity",
         "aliases": [
-          "bugs"
+          "lights"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Carrying supplies",
+        "text": "A car",
         "aliases": [
-          "heavy equipment"
+          "transport"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Curious spectators",
+        "text": "Your favorite food",
         "aliases": [
-          "people watching"
+          "takeaway"
         ],
         "points": 5
       }
@@ -2930,96 +2949,96 @@
   {
     "id": "culture-371",
     "category": "Pop culture",
-    "prompt": "Name something people cover or protect before a messy painting session.",
+    "prompt": "If you met your favorite author, what would you be tempted to ask?",
     "answers": [
       {
-        "text": "Table",
+        "text": "Why they killed a character",
         "aliases": [
-          "work surface"
+          "explain that death"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Clothes",
+        "text": "When the next book is coming",
         "aliases": [
-          "clothing"
+          "release date"
         ],
         "points": 24
       },
       {
-        "text": "Floor",
+        "text": "To sign your book",
         "aliases": [
-          "carpet"
+          "autograph"
         ],
         "points": 18
       },
       {
-        "text": "Hands",
+        "text": "How the story ends",
         "aliases": [
-          "skin"
+          "spoiler"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Hair",
+        "text": "Where ideas come from",
         "aliases": [
-          "tie back hair"
+          "inspiration"
         ],
         "points": 9
       },
       {
-        "text": "Nearby furniture",
+        "text": "To name a character after you",
         "aliases": [
-          "sofa or chairs"
+          "put me in a book"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-372",
     "category": "Pop culture",
-    "prompt": "Name something that can go wrong while assembling a model kit.",
+    "prompt": "Why might a child insist you read the same bedtime story again?",
     "answers": [
       {
-        "text": "Lost piece",
+        "text": "They love it",
         "aliases": [
-          "missing part"
+          "favorite story"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Too much glue",
+        "text": "They want to stay awake",
         "aliases": [
-          "glue spill"
+          "delay bedtime"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Part fitted backward",
+        "text": "They like the pictures",
         "aliases": [
-          "wrong way around"
+          "illustrations"
         ],
         "points": 18
       },
       {
-        "text": "Paint smudge",
+        "text": "They want your attention",
         "aliases": [
-          "messy paint"
+          "time together"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Broken part",
+        "text": "They know all the words",
         "aliases": [
-          "snapped piece"
+          "join in"
         ],
         "points": 8
       },
       {
-        "text": "Pieces do not line up",
+        "text": "The ending comforts them",
         "aliases": [
-          "bad fit"
+          "feel safe"
         ],
         "points": 6
       }
@@ -3028,47 +3047,47 @@
   {
     "id": "culture-373",
     "category": "Pop culture",
-    "prompt": "Name something a hobbyist might add to a miniature landscape.",
+    "prompt": "Name a sound you would hate your body to make in a silent library.",
     "answers": [
       {
-        "text": "Trees",
+        "text": "A fart",
         "aliases": [
-          "tiny trees"
+          "passing gas"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Buildings",
+        "text": "A stomach growl",
         "aliases": [
-          "houses"
+          "rumbling tummy"
         ],
         "points": 23
       },
       {
-        "text": "Grass",
+        "text": "A sneeze",
         "aliases": [
-          "turf"
+          "sneezing"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Rocks",
+        "text": "A cough",
         "aliases": [
-          "stones"
+          "coughing"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Road",
+        "text": "A burp",
         "aliases": [
-          "path"
+          "belching"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Pond",
+        "text": "Loud hiccups",
         "aliases": [
-          "water feature"
+          "hiccup"
         ],
         "points": 6
       }
@@ -3077,47 +3096,47 @@
   {
     "id": "culture-374",
     "category": "Pop culture",
-    "prompt": "Name a simple design a beginner might embroider.",
+    "prompt": "Name something that makes reading in bed less relaxing than it should be.",
     "answers": [
       {
-        "text": "Flower",
+        "text": "Bad lighting",
         "aliases": [
-          "floral pattern"
+          "too dark"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Initials",
+        "text": "A snoring partner",
         "aliases": [
-          "letters"
+          "snoring"
         ],
         "points": 25
       },
       {
-        "text": "Heart",
+        "text": "A heavy book",
         "aliases": [
-          "heart shape"
+          "book hurts to hold"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Star",
+        "text": "An uncomfortable position",
         "aliases": [
-          "star shape"
+          "neck ache"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Leaf",
+        "text": "A pet on the book",
         "aliases": [
-          "leaves"
+          "cat on the page"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Animal",
+        "text": "Being too hot",
         "aliases": [
-          "small animal"
+          "too warm"
         ],
         "points": 5
       }
@@ -3126,96 +3145,97 @@
   {
     "id": "culture-375",
     "category": "Pop culture",
-    "prompt": "Name a mistake someone might make while sewing.",
+    "prompt": "Name a romance-novel habit that would be a red flag in real life.",
     "answers": [
       {
-        "text": "Wrong measurements",
+        "text": "Stalking",
         "aliases": [
-          "wrong size"
+          "following someone"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Crooked seam",
+        "text": "Jealousy",
         "aliases": [
-          "uneven stitching"
+          "possessiveness"
         ],
         "points": 24
       },
       {
-        "text": "Tangled thread",
+        "text": "Ignoring a no",
         "aliases": [
-          "thread knot"
+          "won't accept rejection"
         ],
         "points": 18
       },
       {
-        "text": "Fabric inside out",
+        "text": "Constant fighting",
         "aliases": [
-          "wrong side out"
+          "arguing"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Mismatched fabric",
+        "text": "Huge secrets",
         "aliases": [
-          "wrong fabric piece"
+          "lying"
         ],
         "points": 9
       },
       {
-        "text": "Skipped stitches",
+        "text": "Showing up uninvited",
         "aliases": [
-          "missing stitches"
+          "surprise visits everywhere"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-376",
     "category": "Pop culture",
-    "prompt": "Name a household item someone could use as a tool when shaping clay.",
+    "prompt": "What could make a book a terrible present for someone?",
     "answers": [
       {
-        "text": "Toothpick",
+        "text": "They already own it",
         "aliases": [
-          "cocktail stick"
+          "duplicate"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Spoon",
+        "text": "They hate the subject",
         "aliases": [
-          "teaspoon"
+          "wrong topic"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Fork",
+        "text": "It insults them",
         "aliases": [
-          "dinner fork"
+          "pointed self help"
         ],
         "points": 18
       },
       {
-        "text": "Rolling pin",
+        "text": "It is far too long",
         "aliases": [
-          "dough roller"
+          "too many pages",
+          "huge book"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Cookie cutter",
+        "text": "It is damaged",
         "aliases": [
-          "biscuit cutter"
+          "torn pages"
         ],
         "points": 8
       },
       {
-        "text": "Sponge",
+        "text": "It is in a language they cannot read",
         "aliases": [
-          "damp sponge"
+          "wrong language"
         ],
         "points": 6
       }
@@ -3224,47 +3244,48 @@
   {
     "id": "culture-377",
     "category": "Pop culture",
-    "prompt": "Name something someone does before framing a drawing.",
+    "prompt": "Name a book someone might claim they bought for research.",
     "answers": [
       {
-        "text": "Measure it",
+        "text": "A steamy romance",
         "aliases": [
-          "check size"
+          "romance novel"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Choose a frame",
+        "text": "A celebrity memoir",
         "aliases": [
-          "pick frame"
+          "famous person's autobiography"
         ],
         "points": 23
       },
       {
-        "text": "Choose a mat",
+        "text": "A true-crime book",
         "aliases": [
-          "pick a mount"
+          "crime stories"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Clean the glass",
+        "text": "A dating guide",
         "aliases": [
-          "wipe glass"
+          "relationship advice"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Sign the artwork",
+        "text": "A conspiracy book",
         "aliases": [
-          "add signature"
+          "conspiracy theories"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Flatten the paper",
+        "text": "An astrology guide",
         "aliases": [
-          "remove wrinkles"
+          "horoscopes",
+          "star signs"
         ],
         "points": 6
       }
@@ -3273,47 +3294,47 @@
   {
     "id": "culture-378",
     "category": "Pop culture",
-    "prompt": "Name information a visitor might see beside an artwork in a gallery.",
+    "prompt": "What might a book club spend more time discussing than the book?",
     "answers": [
       {
-        "text": "Artist's name",
+        "text": "Relationships",
         "aliases": [
-          "creator name"
+          "dating"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Title",
+        "text": "Work",
         "aliases": [
-          "name of artwork"
+          "jobs"
         ],
         "points": 25
       },
       {
-        "text": "Materials",
+        "text": "Children",
         "aliases": [
-          "medium"
+          "kids"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Date made",
+        "text": "Gossip",
         "aliases": [
-          "year"
+          "other people"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Description",
+        "text": "The food",
         "aliases": [
-          "explanation"
+          "snacks"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Price",
+        "text": "Holiday plans",
         "aliases": [
-          "cost"
+          "vacations"
         ],
         "points": 5
       }
@@ -3322,96 +3343,96 @@
   {
     "id": "culture-379",
     "category": "Pop culture",
-    "prompt": "Name a rule visitors are often asked to follow in an art museum.",
+    "prompt": "What makes keeping track of characters in a long novel difficult?",
     "answers": [
       {
-        "text": "Do not touch",
+        "text": "Similar names",
         "aliases": [
-          "hands off"
+          "names sound alike"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Keep voices low",
+        "text": "Too many characters",
         "aliases": [
-          "be quiet"
+          "huge cast"
         ],
         "points": 24
       },
       {
-        "text": "No flash photography",
+        "text": "Long gaps between reading",
         "aliases": [
-          "turn flash off"
+          "forgetting"
         ],
         "points": 18
       },
       {
-        "text": "Keep food outside",
+        "text": "Characters using nicknames",
         "aliases": [
-          "no eating"
+          "multiple names"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Stay behind barriers",
+        "text": "Constant time jumps",
         "aliases": [
-          "keep your distance"
+          "different timelines"
         ],
         "points": 9
       },
       {
-        "text": "Follow bag rules",
+        "text": "Everyone is related",
         "aliases": [
-          "check large bags"
+          "complicated family"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-380",
     "category": "Pop culture",
-    "prompt": "Name a subject a street artist might paint on a wall.",
+    "prompt": "Name something in a children's story that sounds terrifying to an adult.",
     "answers": [
       {
-        "text": "Portrait",
+        "text": "Being eaten",
         "aliases": [
-          "face"
+          "swallowed alive"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Animals",
+        "text": "Being abandoned",
         "aliases": [
-          "wildlife"
+          "left in woods"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Lettering",
+        "text": "A child locked up",
         "aliases": [
-          "words"
+          "kidnapping"
         ],
         "points": 18
       },
       {
-        "text": "Flowers",
+        "text": "A wicked parent",
         "aliases": [
-          "plants"
+          "cruel stepmother"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Abstract shapes",
+        "text": "Talking to strangers",
         "aliases": [
-          "geometric shapes"
+          "stranger danger"
         ],
         "points": 8
       },
       {
-        "text": "City scene",
+        "text": "Turning into an animal",
         "aliases": [
-          "buildings"
+          "transformation"
         ],
         "points": 6
       }
@@ -3420,47 +3441,47 @@
   {
     "id": "culture-381",
     "category": "Pop culture",
-    "prompt": "Name something a maker might sell at a local art fair.",
+    "prompt": "Name something from childhood you wish you could experience for the first time again.",
     "answers": [
       {
-        "text": "Prints",
+        "text": "A favorite game",
         "aliases": [
-          "art prints"
+          "video game"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Jewelry",
+        "text": "A favorite book",
         "aliases": [
-          "handmade jewelry"
+          "story"
         ],
         "points": 23
       },
       {
-        "text": "Pottery",
+        "text": "A theme park",
         "aliases": [
-          "ceramics"
+          "amusement park"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Paintings",
+        "text": "A first bike ride",
         "aliases": [
-          "original paintings"
+          "learning to cycle"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Stickers",
+        "text": "A birthday surprise",
         "aliases": [
-          "art stickers"
+          "birthday party"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Woven goods",
+        "text": "A snow day",
         "aliases": [
-          "weaving"
+          "school closed"
         ],
         "points": 6
       }
@@ -3469,47 +3490,47 @@
   {
     "id": "culture-382",
     "category": "Pop culture",
-    "prompt": "Name something an artist might change after stepping back to look at a painting.",
+    "prompt": "Name an old toy an adult might refuse to throw away.",
     "answers": [
       {
-        "text": "Colors",
+        "text": "A teddy bear",
         "aliases": [
-          "color scheme"
+          "stuffed animal"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Background",
+        "text": "A doll",
         "aliases": [
-          "backdrop"
+          "childhood doll"
         ],
         "points": 25
       },
       {
-        "text": "Composition",
+        "text": "Building blocks",
         "aliases": [
-          "arrangement"
+          "lego"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Lighting",
+        "text": "An action figure",
         "aliases": [
-          "highlights"
+          "toy soldier"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Size of an object",
+        "text": "A toy car",
         "aliases": [
-          "proportions"
+          "model car"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Facial expression",
+        "text": "A game console",
         "aliases": [
-          "expression"
+          "old console"
         ],
         "points": 5
       }
@@ -3518,96 +3539,96 @@
   {
     "id": "culture-383",
     "category": "Pop culture",
-    "prompt": "Name a digital drawing mistake that might make an artist press Undo.",
+    "prompt": "Name something you swore you would never say until you became an adult.",
     "answers": [
       {
-        "text": "Stray stroke",
+        "text": "Because I said so",
         "aliases": [
-          "wrong line"
+          "that's why"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Wrong color",
+        "text": "Turn that down",
         "aliases": [
-          "incorrect color"
+          "too loud"
         ],
         "points": 24
       },
       {
-        "text": "Deleted layer",
+        "text": "Money does not grow on trees",
         "aliases": [
-          "removed layer"
+          "not made of money"
         ],
         "points": 18
       },
       {
-        "text": "Moved an object",
+        "text": "When I was your age",
         "aliases": [
-          "accidental move"
+          "back in my day"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Unwanted fill",
+        "text": "Were you raised in a barn",
         "aliases": [
-          "filled wrong area"
+          "close the door"
         ],
         "points": 9
       },
       {
-        "text": "Accidental resizing",
+        "text": "Go to bed",
         "aliases": [
-          "changed size"
+          "bedtime"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-384",
     "category": "Pop culture",
-    "prompt": "Name something a digital artist might keep on its own layer.",
+    "prompt": "What makes looking at an old school photo painful?",
     "answers": [
       {
-        "text": "Sketch",
+        "text": "Your haircut",
         "aliases": [
-          "rough drawing"
+          "hairstyle"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Outlines",
+        "text": "Your clothes",
         "aliases": [
-          "line art"
+          "outfit"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Base colors",
+        "text": "Your pose",
         "aliases": [
-          "flat colors"
+          "awkward stance"
         ],
         "points": 18
       },
       {
-        "text": "Shadows",
+        "text": "Your forced smile",
         "aliases": [
-          "shading"
+          "facial expression"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Background",
+        "text": "A crush standing nearby",
         "aliases": [
-          "backdrop"
+          "old crush"
         ],
         "points": 8
       },
       {
-        "text": "Text",
+        "text": "Remembering that year",
         "aliases": [
-          "lettering"
+          "embarrassing memories"
         ],
         "points": 6
       }
@@ -3616,45 +3637,47 @@
   {
     "id": "culture-385",
     "category": "Pop culture",
-    "prompt": "Name an occasion for which someone might make a handmade card.",
+    "prompt": "Name something children get surprisingly serious about on a playground.",
     "answers": [
       {
-        "text": "Birthday",
-        "aliases": [],
-        "points": 28
+        "text": "Whose turn it is",
+        "aliases": [
+          "taking turns"
+        ],
+        "points": 34
       },
       {
-        "text": "Thank you",
+        "text": "The rules",
         "aliases": [
-          "thanks"
+          "cheating"
         ],
         "points": 23
       },
       {
-        "text": "Wedding",
+        "text": "Picking teams",
         "aliases": [
-          "marriage"
+          "who is on a team"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Anniversary",
+        "text": "Who is fastest",
         "aliases": [
-          "wedding anniversary"
+          "running races"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "New baby",
+        "text": "A favorite swing",
         "aliases": [
-          "birth"
+          "who gets the swing"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Graduation",
+        "text": "Being best friends",
         "aliases": [
-          "finishing school"
+          "friendship arguments"
         ],
         "points": 6
       }
@@ -3663,47 +3686,47 @@
   {
     "id": "culture-386",
     "category": "Pop culture",
-    "prompt": "Name something someone might add to plain gift wrapping to decorate it.",
+    "prompt": "Name something cartoons made you think would happen often in adult life.",
     "answers": [
       {
-        "text": "Ribbon",
+        "text": "Quicksand",
         "aliases": [
-          "decorative ribbon"
+          "sinking sand"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Gift tag",
+        "text": "Anvils falling",
         "aliases": [
-          "name tag"
+          "falling anvils"
         ],
         "points": 25
       },
       {
-        "text": "Dried flowers",
+        "text": "Slipping on bananas",
         "aliases": [
-          "pressed flowers"
+          "banana peels"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Stickers",
+        "text": "Getting stuck in a trap",
         "aliases": [
-          "decorative stickers"
+          "booby traps"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Doodles",
+        "text": "Exploding dynamite",
         "aliases": [
-          "hand drawings"
+          "dynamite"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Twine",
+        "text": "Animals talking",
         "aliases": [
-          "decorative string"
+          "talking animals"
         ],
         "points": 5
       }
@@ -3712,96 +3735,96 @@
   {
     "id": "culture-387",
     "category": "Pop culture",
-    "prompt": "Name a problem that can spoil an otherwise good photograph.",
+    "prompt": "Name a smell that can instantly take someone back to childhood.",
     "answers": [
       {
-        "text": "Blurry image",
+        "text": "Crayons",
         "aliases": [
-          "out of focus"
+          "wax crayons"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Too dark",
+        "text": "School lunches",
         "aliases": [
-          "underexposed"
+          "cafeteria"
         ],
         "points": 24
       },
       {
-        "text": "Bad framing",
+        "text": "A grandparent's cooking",
         "aliases": [
-          "cut off subject"
+          "grandma's kitchen"
         ],
         "points": 18
       },
       {
-        "text": "Flash glare",
+        "text": "A swimming pool",
         "aliases": [
-          "reflection"
+          "chlorine"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Closed eyes",
+        "text": "Play dough",
         "aliases": [
-          "blinking"
+          "modelling dough"
         ],
         "points": 9
       },
       {
-        "text": "Finger over the lens",
+        "text": "Fresh-cut grass",
         "aliases": [
-          "blocked lens"
+          "cut grass"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-388",
     "category": "Pop culture",
-    "prompt": "Name an instruction someone taking a group photo might call out.",
+    "prompt": "Name something kids try to hide from parents at a sleepover.",
     "answers": [
       {
-        "text": "Smile",
+        "text": "Staying up all night",
         "aliases": [
-          "say cheese"
+          "not sleeping"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Move closer",
+        "text": "Scary films",
         "aliases": [
-          "squeeze together"
+          "horror movies"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Look at the camera",
+        "text": "Prank calls",
         "aliases": [
-          "look here"
+          "phone pranks"
         ],
         "points": 18
       },
       {
-        "text": "Stand up straight",
+        "text": "Extra sweets",
         "aliases": [
-          "straighten up"
+          "sneaking candy"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Take off sunglasses",
+        "text": "Gossip about crushes",
         "aliases": [
-          "remove shades"
+          "talking about boys"
         ],
         "points": 8
       },
       {
-        "text": "Hold still",
+        "text": "Going outside",
         "aliases": [
-          "do not move"
+          "sneaking out"
         ],
         "points": 6
       }
@@ -3810,47 +3833,47 @@
   {
     "id": "culture-389",
     "category": "Pop culture",
-    "prompt": "Name a kind of shot for which a photographer might use a tripod.",
+    "prompt": "What might you find in a childhood treasure box that is actually worthless?",
     "answers": [
       {
-        "text": "Long exposure",
+        "text": "A shiny rock",
         "aliases": [
-          "slow shutter shot"
+          "pebble"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Group photo including themselves",
+        "text": "A broken toy",
         "aliases": [
-          "self timer photo"
+          "toy piece"
         ],
         "points": 23
       },
       {
-        "text": "Time lapse",
+        "text": "A sweet wrapper",
         "aliases": [
-          "timelapse"
+          "candy wrapper"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Steady video",
+        "text": "A sticker",
         "aliases": [
-          "video recording"
+          "old stickers"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Panorama",
+        "text": "A bottle cap",
         "aliases": [
-          "wide stitched view"
+          "bottle top"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Close-up detail",
+        "text": "A friendship bracelet",
         "aliases": [
-          "macro photo"
+          "homemade bracelet"
         ],
         "points": 6
       }
@@ -3859,47 +3882,47 @@
   {
     "id": "culture-390",
     "category": "Pop culture",
-    "prompt": "Name something a photographer might carry in a camera bag.",
+    "prompt": "Name something people were desperate to collect as children.",
     "answers": [
       {
-        "text": "Camera",
+        "text": "Trading cards",
         "aliases": [
-          "camera body"
+          "pokemon cards"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Extra lens",
+        "text": "Stickers",
         "aliases": [
-          "spare lens"
+          "sticker album"
         ],
         "points": 25
       },
       {
-        "text": "Spare battery",
+        "text": "Toy figures",
         "aliases": [
-          "extra battery"
+          "action figures"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Memory card",
+        "text": "Marbles",
         "aliases": [
-          "storage card"
+          "glass marbles"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Lens cloth",
+        "text": "Coins",
         "aliases": [
-          "cleaning cloth"
+          "coin collection"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Small tripod",
+        "text": "Shells",
         "aliases": [
-          "mini tripod"
+          "seashells"
         ],
         "points": 5
       }
@@ -3908,94 +3931,96 @@
   {
     "id": "culture-391",
     "category": "Pop culture",
-    "prompt": "Name a surface in which photographers might capture a reflection.",
+    "prompt": "Name a cartoon character who would be a nightmare as your boss.",
     "answers": [
       {
-        "text": "Mirror",
+        "text": "Homer Simpson",
         "aliases": [
-          "looking glass"
+          "Homer"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Lake",
+        "text": "Donald Duck",
         "aliases": [
-          "still water"
+          "Donald"
         ],
         "points": 24
       },
       {
-        "text": "Window",
+        "text": "SpongeBob",
         "aliases": [
-          "glass window"
+          "SpongeBob SquarePants"
         ],
         "points": 18
       },
       {
-        "text": "Puddle",
+        "text": "Daffy Duck",
         "aliases": [
-          "rain puddle"
+          "Daffy"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Sunglasses",
+        "text": "Cartman",
         "aliases": [
-          "shades"
+          "Eric Cartman"
         ],
         "points": 9
       },
       {
-        "text": "Shiny metal",
+        "text": "The Grinch",
         "aliases": [
-          "polished metal"
+          "Grinch"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-392",
     "category": "Pop culture",
-    "prompt": "Name a prop a family might bring to an outdoor portrait session.",
+    "prompt": "What made a friend's family seem rich when you were a child?",
     "answers": [
       {
-        "text": "Blanket",
+        "text": "A swimming pool",
         "aliases": [
-          "picnic blanket"
+          "pool"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Flowers",
+        "text": "A huge house",
         "aliases": [
-          "bouquet"
+          "big home"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Sign",
+        "text": "Lots of game consoles",
         "aliases": [
-          "message board"
+          "video games"
         ],
         "points": 18
       },
       {
-        "text": "Balloons",
-        "aliases": [],
-        "points": 12
+        "text": "Fancy holidays",
+        "aliases": [
+          "vacations"
+        ],
+        "points": 13
       },
       {
-        "text": "Chair",
+        "text": "A new car",
         "aliases": [
-          "stool"
+          "expensive car"
         ],
         "points": 8
       },
       {
-        "text": "Hats",
+        "text": "Brand-name clothes",
         "aliases": [
-          "matching hats"
+          "designer clothes"
         ],
         "points": 6
       }
@@ -4004,47 +4029,47 @@
   {
     "id": "culture-393",
     "category": "Pop culture",
-    "prompt": "Name something people make using their favorite photographs.",
+    "prompt": "Name a childhood fashion choice someone might hope never comes back.",
     "answers": [
       {
-        "text": "Photo album",
+        "text": "Bowl cuts",
         "aliases": [
-          "photo book"
+          "bowl haircut"
         ],
-        "points": 28
+        "points": 34
       },
       {
-        "text": "Framed print",
+        "text": "Light-up shoes",
         "aliases": [
-          "framed photo"
+          "flashing trainers"
         ],
         "points": 23
       },
       {
-        "text": "Calendar",
+        "text": "Low-rise jeans",
         "aliases": [
-          "photo calendar"
+          "low waisted jeans"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Greeting card",
+        "text": "Massive shoulder pads",
         "aliases": [
-          "photo card"
+          "shoulder pads"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Scrapbook",
+        "text": "Plastic jewelry",
         "aliases": [
-          "memory book"
+          "jelly bracelets"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Photo mug",
+        "text": "Matching family outfits",
         "aliases": [
-          "printed mug"
+          "matching clothes"
         ],
         "points": 6
       }
@@ -4053,47 +4078,47 @@
   {
     "id": "culture-394",
     "category": "Pop culture",
-    "prompt": "Name a challenge someone might have when taking photographs at a zoo.",
+    "prompt": "What would be embarrassing to find in a time capsule you buried as a child?",
     "answers": [
       {
-        "text": "Animals keep moving",
+        "text": "A love letter",
         "aliases": [
-          "moving subject"
+          "letter to a crush"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Fence in the way",
+        "text": "A diary entry",
         "aliases": [
-          "wire barrier"
+          "journal"
         ],
         "points": 25
       },
       {
-        "text": "Crowds",
+        "text": "An awful photo",
         "aliases": [
-          "people blocking view"
+          "picture"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Glass glare",
+        "text": "A prediction about your future",
         "aliases": [
-          "reflections"
+          "future plans"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Animal too far away",
+        "text": "Your old drawings",
         "aliases": [
-          "distance"
+          "bad artwork"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Animal hiding",
+        "text": "A list of enemies",
         "aliases": [
-          "out of sight"
+          "people you hated"
         ],
         "points": 5
       }
@@ -4102,94 +4127,96 @@
   {
     "id": "culture-395",
     "category": "Pop culture",
-    "prompt": "Name a way people sort their digital photograph collection.",
+    "prompt": "What did you think you would be allowed to do every day as an adult?",
     "answers": [
       {
-        "text": "By date",
+        "text": "Eat sweets for dinner",
         "aliases": [
-          "chronological order"
+          "candy for meals"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "By event",
+        "text": "Stay up all night",
         "aliases": [
-          "occasion"
+          "no bedtime"
         ],
         "points": 24
       },
       {
-        "text": "By location",
+        "text": "Buy anything",
         "aliases": [
-          "place"
+          "unlimited spending"
         ],
         "points": 18
       },
       {
-        "text": "By person",
+        "text": "Play games all day",
         "aliases": [
-          "who is in them"
+          "video games"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Favorites",
+        "text": "Never do homework",
         "aliases": [
-          "best photos"
+          "no studying"
         ],
         "points": 9
       },
       {
-        "text": "By subject",
+        "text": "Go wherever you wanted",
         "aliases": [
-          "topic"
+          "travel freely"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "culture-396",
     "category": "Pop culture",
-    "prompt": "Name something a photographer might head outdoors specifically to photograph.",
+    "prompt": "Name a reason a live TV interview might get cut short.",
     "answers": [
       {
-        "text": "Sunset",
+        "text": "Swearing",
         "aliases": [
-          "sunrise"
+          "bad language"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Wildlife",
+        "text": "Losing the connection",
         "aliases": [
-          "animals"
+          "technical problems"
         ],
         "points": 24
       },
       {
-        "text": "Flowers",
+        "text": "The guest walks out",
         "aliases": [
-          "wildflowers"
+          "storming off"
         ],
         "points": 18
       },
       {
-        "text": "Old buildings",
+        "text": "A fire alarm",
         "aliases": [
-          "architecture"
+          "emergency alarm"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Waterfall",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Boats",
+        "text": "A child interrupts",
         "aliases": [
-          "ships"
+          "kid walks in"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Uncontrollable laughter",
+        "aliases": [
+          "cannot stop laughing"
         ],
         "points": 6
       }
@@ -4198,47 +4225,47 @@
   {
     "id": "culture-397",
     "category": "Pop culture",
-    "prompt": "Name a pose people might try in a photo booth.",
+    "prompt": "Name someone you would deliberately leave out of your acceptance speech.",
     "answers": [
       {
-        "text": "Funny face",
+        "text": "An ex",
         "aliases": [
-          "silly face"
+          "former partner"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Peace sign",
+        "text": "A bad boss",
         "aliases": [
-          "two fingers"
+          "former boss"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Kiss on the cheek",
+        "text": "A school bully",
         "aliases": [
-          "cheek kiss"
+          "childhood bully"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Thumbs up",
+        "text": "An unsupportive teacher",
         "aliases": [
-          "thumb raised"
+          "teacher who doubted me"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Surprised expression",
+        "text": "A rival",
         "aliases": [
-          "shocked face"
+          "competitor"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Flexing muscles",
+        "text": "A two-faced friend",
         "aliases": [
-          "strong pose"
+          "fake friend"
         ],
         "points": 6
       }
@@ -4247,47 +4274,47 @@
   {
     "id": "culture-398",
     "category": "Pop culture",
-    "prompt": "Name something members of a craft group might share with one another.",
+    "prompt": "What ordinary errand would be much harder if everyone recognized you?",
     "answers": [
       {
-        "text": "Technique tips",
+        "text": "Grocery shopping",
         "aliases": [
-          "how to advice"
+          "supermarket"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Supplies",
+        "text": "Getting a haircut",
         "aliases": [
-          "materials"
+          "barber"
         ],
         "points": 25
       },
       {
-        "text": "Feedback on work",
+        "text": "Going to the doctor",
         "aliases": [
-          "project feedback"
+          "medical appointment"
         ],
-        "points": 16
+        "points": 18
       },
       {
-        "text": "Finished projects",
+        "text": "Buying underwear",
         "aliases": [
-          "completed work"
+          "underwear shopping"
         ],
-        "points": 11
+        "points": 12
       },
       {
-        "text": "Inspiration",
+        "text": "Picking up your kids",
         "aliases": [
-          "ideas"
+          "school run"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Encouragement",
+        "text": "Collecting a takeaway",
         "aliases": [
-          "support"
+          "getting dinner"
         ],
         "points": 5
       }
@@ -4296,47 +4323,47 @@
   {
     "id": "culture-399",
     "category": "Pop culture",
-    "prompt": "Name an object someone might reuse in a homemade craft project.",
+    "prompt": "Name a reason you would make a terrible celebrity bodyguard.",
     "answers": [
       {
-        "text": "Glass jar",
+        "text": "Cannot fight",
         "aliases": [
-          "jam jar"
+          "bad at fighting"
         ],
         "points": 30
       },
       {
-        "text": "Cardboard tube",
+        "text": "Slow runner",
         "aliases": [
-          "paper towel roll"
+          "cannot run fast"
         ],
         "points": 24
       },
       {
-        "text": "Tin can",
+        "text": "Falls asleep",
         "aliases": [
-          "food can"
+          "dozes off"
         ],
         "points": 18
       },
       {
-        "text": "Old T-shirt",
+        "text": "Cannot keep secrets",
         "aliases": [
-          "old shirt"
+          "talks too much"
         ],
         "points": 13
       },
       {
-        "text": "Egg carton",
+        "text": "Scared of crowds",
         "aliases": [
-          "egg box"
+          "afraid of crowds"
         ],
         "points": 9
       },
       {
-        "text": "Plastic bottle",
+        "text": "Gets starstruck",
         "aliases": [
-          "water bottle"
+          "too excited around celebrities"
         ],
         "points": 6
       }
@@ -4345,47 +4372,48 @@
   {
     "id": "culture-400",
     "category": "Pop culture",
-    "prompt": "Name something a hobbyist might use to organize a craft room.",
+    "prompt": "What would you hide before a celebrity-style tour of your house?",
     "answers": [
       {
-        "text": "Storage bins",
+        "text": "Dirty laundry",
         "aliases": [
-          "plastic boxes"
+          "piles of clothes"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Drawers",
+        "text": "An unmade bed",
         "aliases": [
-          "drawer unit"
+          "messy bed",
+          "unmade beds"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Pegboard",
+        "text": "Embarrassing photos",
         "aliases": [
-          "tool board"
+          "bad pictures"
         ],
         "points": 18
       },
       {
-        "text": "Jars",
+        "text": "Cheap possessions",
         "aliases": [
-          "glass jars"
+          "budget items"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Shelves",
+        "text": "Personal documents",
         "aliases": [
-          "shelving"
+          "private papers"
         ],
         "points": 8
       },
       {
-        "text": "Baskets",
+        "text": "Secret snacks",
         "aliases": [
-          "woven baskets"
+          "junk food stash"
         ],
         "points": 6
       }

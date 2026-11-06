@@ -2,41 +2,47 @@
   {
     "id": "travel-041",
     "category": "Travel & places",
-    "prompt": "Name a job someone might have at an airport.",
+    "prompt": "Name something that makes one person the hardest to share a vacation budget with.",
     "answers": [
       {
-        "text": "Pilot",
-        "aliases": [],
+        "text": "Always picks expensive places",
+        "aliases": [
+          "expensive taste"
+        ],
         "points": 30
       },
       {
-        "text": "Flight attendant",
+        "text": "Never pays their share",
         "aliases": [
-          "cabin crew"
+          "does not pay"
         ],
         "points": 24
       },
       {
-        "text": "Security officer",
+        "text": "Counts every penny",
         "aliases": [
-          "security guard"
+          "stingy"
         ],
         "points": 18
       },
       {
-        "text": "Baggage handler",
-        "aliases": [],
+        "text": "Borrows money",
+        "aliases": [
+          "asks for loans"
+        ],
         "points": 13
       },
       {
-        "text": "Air traffic controller",
-        "aliases": [],
+        "text": "Buys things for everyone without asking",
+        "aliases": [
+          "unwanted spending"
+        ],
         "points": 9
       },
       {
-        "text": "Check-in agent",
+        "text": "Changes plans after booking",
         "aliases": [
-          "check in clerk"
+          "late changes"
         ],
         "points": 6
       }
@@ -45,45 +51,47 @@
   {
     "id": "travel-042",
     "category": "Travel & places",
-    "prompt": "Name something people pay for inside an airport terminal.",
+    "prompt": "Name something people do in a hotel elevator to avoid awkward conversation.",
     "answers": [
       {
-        "text": "Food",
+        "text": "Look at their phone",
         "aliases": [
-          "meal"
+          "check phone"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Coffee",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Souvenirs",
+        "text": "Watch the floor numbers",
         "aliases": [
-          "gifts"
+          "look at display"
         ],
-        "points": 18
+        "points": 23
       },
       {
-        "text": "Lounge access",
+        "text": "Stare at the doors",
         "aliases": [
-          "airport lounge"
+          "face doors"
         ],
-        "points": 12
+        "points": 19
       },
       {
-        "text": "Currency exchange",
+        "text": "Look at their shoes",
         "aliases": [
-          "changing money"
+          "look down"
         ],
-        "points": 8
+        "points": 14
       },
       {
-        "text": "Luggage cart",
+        "text": "Read the notice",
         "aliases": [
-          "baggage trolley"
+          "read sign"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Pretend to search their bag",
+        "aliases": [
+          "rummage in bag"
         ],
         "points": 6
       }
@@ -92,131 +100,145 @@
   {
     "id": "travel-043",
     "category": "Travel & places",
-    "prompt": "Name something an airline check-in agent might ask a passenger.",
+    "prompt": "Name a reason someone is always the last person ready on vacation.",
     "answers": [
       {
-        "text": "Where they are flying",
+        "text": "Takes too long to dress",
         "aliases": [
-          "destination"
+          "choosing outfit"
         ],
-        "points": 28
-      },
-      {
-        "text": "To show identification",
-        "aliases": [
-          "show ID"
-        ],
-        "points": 23
-      },
-      {
-        "text": "How many bags they have",
-        "aliases": [
-          "number of bags"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Whether they packed their own bag",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Which seat they prefer",
-        "aliases": [
-          "seat preference"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Whether they need assistance",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-044",
-    "category": "Travel & places",
-    "prompt": "Name information shown on an airport departures board.",
-    "answers": [
-      {
-        "text": "Destination",
-        "aliases": [],
         "points": 35
       },
       {
-        "text": "Departure time",
+        "text": "Long shower",
         "aliases": [
-          "flight time"
+          "bathroom time"
         ],
         "points": 25
       },
       {
-        "text": "Gate number",
+        "text": "Sleeps through alarms",
         "aliases": [
-          "departure gate"
+          "oversleeps"
         ],
         "points": 16
       },
       {
-        "text": "Flight number",
-        "aliases": [],
+        "text": "Cannot find belongings",
+        "aliases": [
+          "lost stuff"
+        ],
         "points": 11
       },
       {
-        "text": "Airline",
-        "aliases": [],
+        "text": "Needs more food",
+        "aliases": [
+          "still eating"
+        ],
         "points": 8
       },
       {
-        "text": "Flight status",
+        "text": "Keeps taking photos",
         "aliases": [
-          "on time or delayed"
+          "selfies"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-045",
+    "id": "travel-044",
     "category": "Travel & places",
-    "prompt": "Name an announcement a gate agent might make before boarding.",
+    "prompt": "Name something a vacation planner puts on the schedule that everyone groans about.",
     "answers": [
       {
-        "text": "Boarding group called",
+        "text": "An early start",
         "aliases": [
-          "group number"
+          "early morning"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Gate change",
-        "aliases": [],
+        "text": "A long hike",
+        "aliases": [
+          "hiking"
+        ],
         "points": 24
       },
       {
-        "text": "Final call",
+        "text": "A museum marathon",
         "aliases": [
-          "last call"
+          "too many museums"
         ],
         "points": 18
       },
       {
-        "text": "Carry-on bags must be checked",
+        "text": "A shopping trip",
         "aliases": [
-          "gate check bags"
+          "shopping"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A formal dinner",
+        "aliases": [
+          "fancy dinner"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A group workout",
+        "aliases": [
+          "exercise"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-045",
+    "category": "Travel & places",
+    "prompt": "Name something that makes it hard to sleep in a room away from home.",
+    "answers": [
+      {
+        "text": "Unfamiliar noises",
+        "aliases": [
+          "strange sounds"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Different pillow",
+        "aliases": [
+          "bad pillow"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Too much light",
+        "aliases": [
+          "bright room"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Wrong temperature",
+        "aliases": [
+          "hot room"
         ],
         "points": 13
       },
       {
-        "text": "Volunteers wanted to change flights",
-        "aliases": [],
+        "text": "Missing your partner",
+        "aliases": [
+          "sleeping alone"
+        ],
         "points": 9
       },
       {
-        "text": "Families may board early",
+        "text": "Worrying about oversleeping",
         "aliases": [
-          "family boarding"
+          "alarm anxiety"
         ],
         "points": 6
       }
@@ -225,43 +247,47 @@
   {
     "id": "travel-046",
     "category": "Travel & places",
-    "prompt": "Name something an airport uses to help people get between terminals.",
+    "prompt": "Name something a friend does on vacation that embarrasses the whole group.",
     "answers": [
       {
-        "text": "Shuttle train",
+        "text": "Talks too loudly",
         "aliases": [
-          "airport train"
+          "loud voice"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Shuttle bus",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Moving walkway",
+        "text": "Is rude to staff",
         "aliases": [
-          "travelator"
+          "rude behavior"
         ],
-        "points": 18
+        "points": 23
       },
       {
-        "text": "Footbridge",
+        "text": "Gets very drunk",
         "aliases": [
-          "pedestrian bridge"
+          "drunk"
         ],
-        "points": 12
+        "points": 19
       },
       {
-        "text": "Escalator",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Elevator",
+        "text": "Wears something outrageous",
         "aliases": [
-          "lift"
+          "loud outfit"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Takes photos of strangers",
+        "aliases": [
+          "photographing people"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Complains about everything",
+        "aliases": [
+          "constant complaints"
         ],
         "points": 6
       }
@@ -270,133 +296,145 @@
   {
     "id": "travel-047",
     "category": "Travel & places",
-    "prompt": "Name something people do while waiting at a baggage carousel.",
+    "prompt": "Name a reason people return to the same vacation spot every year.",
     "answers": [
       {
-        "text": "Watch for their suitcase",
+        "text": "Happy memories",
         "aliases": [
-          "look for their bag"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Check their phone",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Check the carousel number",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Move closer to the belt",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Get a luggage cart",
-        "aliases": [
-          "fetch a trolley"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Compare baggage claim tags",
-        "aliases": [
-          "check bag receipt"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-048",
-    "category": "Travel & places",
-    "prompt": "Name something people do when greeting a traveler at arrivals.",
-    "answers": [
-      {
-        "text": "Hug",
-        "aliases": [
-          "embrace"
+          "nostalgia"
         ],
         "points": 35
       },
       {
-        "text": "Wave",
-        "aliases": [],
+        "text": "They know their way around",
+        "aliases": [
+          "familiarity"
+        ],
         "points": 25
       },
       {
-        "text": "Hold up a sign",
+        "text": "Family lives there",
         "aliases": [
-          "name sign"
+          "visiting relatives"
         ],
         "points": 16
       },
       {
-        "text": "Take a photo",
+        "text": "It is affordable",
         "aliases": [
-          "take pictures"
+          "cheap"
         ],
         "points": 11
       },
       {
-        "text": "Help carry bags",
+        "text": "Favorite place to stay",
         "aliases": [
-          "take their luggage"
+          "same hotel"
         ],
         "points": 8
       },
       {
-        "text": "Cry",
+        "text": "A yearly event",
         "aliases": [
-          "shed happy tears"
+          "annual festival"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-049",
+    "id": "travel-048",
     "category": "Travel & places",
-    "prompt": "Name something that could slow a passenger rushing to their gate.",
+    "prompt": "Name something you would rather hotel staff did not recognize you for.",
     "answers": [
       {
-        "text": "Long security line",
-        "aliases": [],
-        "points": 30
+        "text": "Losing your key",
+        "aliases": [
+          "getting locked out"
+        ],
+        "points": 32
       },
       {
-        "text": "Gate moved to another terminal",
+        "text": "Noise complaints",
         "aliases": [
-          "gate change"
+          "loud parties"
         ],
         "points": 24
       },
       {
-        "text": "Crowded hallway",
-        "aliases": [],
+        "text": "Spilling something",
+        "aliases": [
+          "a big spill"
+        ],
         "points": 18
       },
       {
-        "text": "Broken escalator",
+        "text": "Constant requests",
         "aliases": [
-          "escalator out of service"
+          "asking for everything"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Sneaking in extra guests",
+        "aliases": [
+          "extra people"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Leaving a tiny tip",
+        "aliases": [
+          "poor tipping"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-049",
+    "category": "Travel & places",
+    "prompt": "Name something a friend borrows every day because they failed to pack it.",
+    "answers": [
+      {
+        "text": "Phone charger",
+        "aliases": [
+          "charging cable"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Sunscreen",
+        "aliases": [
+          "sun cream"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Toothpaste",
+        "aliases": [
+          "tooth paste"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Hair dryer",
+        "aliases": [
+          "blow dryer"
         ],
         "points": 13
       },
       {
-        "text": "Getting lost",
+        "text": "Clothes",
         "aliases": [
-          "wrong direction"
+          "shirt"
         ],
         "points": 9
       },
       {
-        "text": "Missed terminal shuttle",
+        "text": "Deodorant",
         "aliases": [
-          "missed shuttle train"
+          "antiperspirant"
         ],
         "points": 6
       }
@@ -405,47 +443,47 @@
   {
     "id": "travel-050",
     "category": "Travel & places",
-    "prompt": "Name something a traveler might ask an airport information desk to help them find.",
+    "prompt": "Name a reason someone books a hotel far above their usual budget.",
     "answers": [
       {
-        "text": "Departure gate",
+        "text": "Honeymoon",
         "aliases": [
-          "their gate"
+          "wedding trip"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Baggage claim",
+        "text": "Anniversary",
         "aliases": [
-          "luggage carousel"
+          "romantic occasion"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Restroom",
+        "text": "Birthday",
         "aliases": [
-          "toilet"
+          "special birthday"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Ground transportation",
+        "text": "Wanting to impress someone",
         "aliases": [
-          "bus or taxi"
+          "show off"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Lost and found",
+        "text": "Once-in-a-lifetime trip",
         "aliases": [
-          "lost property office"
+          "dream vacation"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Currency exchange desk",
+        "text": "A big discount",
         "aliases": [
-          "money exchange"
+          "special deal"
         ],
         "points": 6
       }
@@ -454,139 +492,145 @@
   {
     "id": "travel-051",
     "category": "Travel & places",
-    "prompt": "Name a place inside an airport where people might stand in line.",
+    "prompt": "Name something people do in a hotel robe that makes them feel rich.",
     "answers": [
       {
-        "text": "Security checkpoint",
+        "text": "Eat breakfast",
         "aliases": [
-          "security screening"
+          "breakfast in bed"
         ],
-        "points": 28
-      },
-      {
-        "text": "Check-in counter",
-        "aliases": [
-          "check in desk"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Boarding gate",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Coffee shop",
-        "aliases": [
-          "cafe"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Restroom",
-        "aliases": [
-          "toilet"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Passport control",
-        "aliases": [
-          "immigration"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-052",
-    "category": "Travel & places",
-    "prompt": "Name a place at an airport where a tired traveler might try to nap.",
-    "answers": [
-      {
-        "text": "Lounge",
-        "aliases": [],
         "points": 35
       },
       {
-        "text": "Empty gate",
+        "text": "Order room service",
         "aliases": [
-          "unused boarding area"
+          "order food"
         ],
         "points": 25
       },
       {
-        "text": "Sleeping pod",
+        "text": "Pose for photos",
         "aliases": [
-          "sleep pod"
+          "take selfies"
         ],
         "points": 16
       },
       {
-        "text": "Airport hotel",
-        "aliases": [],
+        "text": "Drink champagne",
+        "aliases": [
+          "drink wine"
+        ],
         "points": 11
       },
       {
-        "text": "Prayer room",
+        "text": "Lounge on the balcony",
         "aliases": [
-          "chapel"
+          "sit on balcony"
         ],
         "points": 8
       },
       {
-        "text": "Quiet corner",
+        "text": "Visit the spa",
         "aliases": [
-          "secluded corner"
+          "spa treatment"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-053",
+    "id": "travel-052",
     "category": "Travel & places",
-    "prompt": "Name something passengers are asked to do before an airplane takes off.",
+    "prompt": "Name something people do after discovering their room key does not work.",
     "answers": [
       {
-        "text": "Fasten their seat belt",
+        "text": "Try it again",
         "aliases": [
-          "buckle up"
+          "swipe again"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Put their seat upright",
+        "text": "Check the room number",
         "aliases": [
-          "straighten seat"
+          "wrong room"
         ],
         "points": 24
       },
       {
-        "text": "Stow their bag",
+        "text": "Turn the card around",
         "aliases": [
-          "put luggage away"
+          "flip card"
         ],
         "points": 18
       },
       {
-        "text": "Fold up their tray table",
+        "text": "Go to reception",
         "aliases": [
-          "close tray table"
+          "front desk"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Call their roommate",
+        "aliases": [
+          "phone friend"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Knock on the door",
+        "aliases": [
+          "knock"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-053",
+    "category": "Travel & places",
+    "prompt": "Name something people regret agreeing to on a group trip.",
+    "answers": [
+      {
+        "text": "Sharing a room",
+        "aliases": [
+          "roommate"
+        ],
+        "points": 30
+      },
+      {
+        "text": "An early wake-up",
+        "aliases": [
+          "early start"
+        ],
+        "points": 24
+      },
+      {
+        "text": "An expensive activity",
+        "aliases": [
+          "costly excursion"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Being the organizer",
+        "aliases": [
+          "planning everything"
         ],
         "points": 13
       },
       {
-        "text": "Switch to airplane mode",
+        "text": "Staying an extra week",
         "aliases": [
-          "flight mode"
+          "longer trip"
         ],
         "points": 9
       },
       {
-        "text": "Open their window shade",
+        "text": "Traveling with a new couple",
         "aliases": [
-          "raise window blind"
+          "couple drama"
         ],
         "points": 6
       }
@@ -595,41 +639,47 @@
   {
     "id": "travel-054",
     "category": "Travel & places",
-    "prompt": "Name something a flight attendant might hand to a passenger.",
+    "prompt": "Name something that makes unpacking after a trip feel like a punishment.",
     "answers": [
       {
-        "text": "Drink",
+        "text": "Dirty laundry",
         "aliases": [
-          "beverage"
+          "washing clothes"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Snack",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Blanket",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Headphones",
+        "text": "Going back to work",
         "aliases": [
-          "earphones"
+          "work tomorrow"
         ],
-        "points": 12
+        "points": 23
       },
       {
-        "text": "Pillow",
-        "aliases": [],
-        "points": 8
-      },
-      {
-        "text": "Arrival form",
+        "text": "Too much stuff",
         "aliases": [
-          "landing card"
+          "overpacking"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Missing the vacation",
+        "aliases": [
+          "holiday blues"
+        ],
+        "points": 14
+      },
+      {
+        "text": "No space to put things",
+        "aliases": [
+          "full closet"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Spilled toiletries",
+        "aliases": [
+          "leaking shampoo"
         ],
         "points": 6
       }
@@ -638,141 +688,146 @@
   {
     "id": "travel-055",
     "category": "Travel & places",
-    "prompt": "Name something you might find in an airplane seat-back pocket.",
+    "prompt": "Name something people buy because their luggage failed to arrive.",
     "answers": [
       {
-        "text": "Safety card",
+        "text": "Underwear",
         "aliases": [
-          "safety instructions"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Air sickness bag",
-        "aliases": [
-          "sick bag"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Airline magazine",
-        "aliases": [
-          "inflight magazine"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Menu",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Headphones",
-        "aliases": [
-          "earphones"
-        ],
-        "points": 10
-      },
-      {
-        "text": "A previous passenger's book",
-        "aliases": [
-          "left behind book"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-056",
-    "category": "Travel & places",
-    "prompt": "Name something a seatmate might do that annoys someone on a flight.",
-    "answers": [
-      {
-        "text": "Take both armrests",
-        "aliases": [
-          "hog the armrest"
+          "underpants"
         ],
         "points": 35
       },
       {
-        "text": "Talk loudly",
+        "text": "Toothbrush",
         "aliases": [
-          "be noisy"
+          "tooth brush"
         ],
         "points": 25
       },
       {
-        "text": "Recline into their space",
+        "text": "Shirt",
         "aliases": [
-          "lean seat back"
+          "top",
+          "new shirt"
         ],
         "points": 16
       },
       {
-        "text": "Keep getting up",
-        "aliases": [],
+        "text": "Deodorant",
+        "aliases": [
+          "antiperspirant"
+        ],
         "points": 11
       },
       {
-        "text": "Play audio without headphones",
+        "text": "A phone charger",
         "aliases": [
-          "loud videos"
+          "charging cable"
         ],
         "points": 8
       },
       {
-        "text": "Put feet in their space",
+        "text": "A suitcase",
         "aliases": [
-          "stretch feet over"
+          "replacement bag"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-057",
+    "id": "travel-056",
     "category": "Travel & places",
-    "prompt": "Name a situation when a passenger might press the flight attendant call button.",
+    "prompt": "Name a reason your travel buddy keeps asking to stop for a break.",
     "answers": [
       {
-        "text": "Feeling ill",
+        "text": "Tired feet",
         "aliases": [
-          "getting sick"
+          "feet hurt"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Spilled drink",
+        "text": "Hungry",
         "aliases": [
-          "drink spill"
+          "needs food"
         ],
         "points": 24
       },
       {
-        "text": "Broken seat",
+        "text": "Needs the bathroom",
         "aliases": [
-          "seat problem"
+          "toilet"
         ],
         "points": 18
       },
       {
-        "text": "Missing meal",
+        "text": "Wants a photo",
         "aliases": [
-          "meal not served"
+          "taking pictures"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Too hot",
+        "aliases": [
+          "overheating"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Wants to shop",
+        "aliases": [
+          "shopping"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-057",
+    "category": "Travel & places",
+    "prompt": "Name a sign your roommate has been through your suitcase.",
+    "answers": [
+      {
+        "text": "Clothes are unfolded",
+        "aliases": [
+          "messy clothes"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Something is missing",
+        "aliases": [
+          "missing belongings"
+        ],
+        "points": 24
+      },
+      {
+        "text": "The zipper is open",
+        "aliases": [
+          "bag open"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Your stuff has moved",
+        "aliases": [
+          "things moved"
         ],
         "points": 13
       },
       {
-        "text": "Disruptive neighbor",
+        "text": "They are wearing your clothes",
         "aliases": [
-          "rowdy passenger"
+          "borrowed outfit"
         ],
         "points": 9
       },
       {
-        "text": "Lost item",
+        "text": "They mention something you packed",
         "aliases": [
-          "missing belonging"
+          "know what is inside"
         ],
         "points": 6
       }
@@ -781,43 +836,47 @@
   {
     "id": "travel-058",
     "category": "Travel & places",
-    "prompt": "Name something that might come on an airline meal tray.",
+    "prompt": "Name an excuse someone uses to avoid paying for the shared vacation groceries.",
     "answers": [
       {
-        "text": "Bread roll",
+        "text": "Forgot their wallet",
         "aliases": [
-          "bread"
+          "no wallet"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Salad",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Chicken dish",
+        "text": "Already paid for something else",
         "aliases": [
-          "chicken"
+          "paid for the room"
         ],
-        "points": 18
+        "points": 23
       },
       {
-        "text": "Rice",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Dessert",
+        "text": "Will pay you back later",
         "aliases": [
-          "cake"
+          "iou"
         ],
-        "points": 8
+        "points": 19
       },
       {
-        "text": "Butter packet",
+        "text": "Did not eat much",
         "aliases": [
-          "butter"
+          "barely ate"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Their card does not work",
+        "aliases": [
+          "card declined"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Brought food from home",
+        "aliases": [
+          "own food"
         ],
         "points": 6
       }
@@ -826,137 +885,145 @@
   {
     "id": "travel-059",
     "category": "Travel & places",
-    "prompt": "Name something a passenger might photograph through an airplane window.",
+    "prompt": "Name something a hotel guest might leave a very dramatic review about.",
     "answers": [
       {
-        "text": "Clouds",
-        "aliases": [],
-        "points": 28
-      },
-      {
-        "text": "City lights",
+        "text": "A rude receptionist",
         "aliases": [
-          "city at night"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Sunset",
-        "aliases": [
-          "setting sun"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Mountains",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Coastline",
-        "aliases": [
-          "shoreline"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Airplane wing",
-        "aliases": [
-          "wing"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-060",
-    "category": "Travel & places",
-    "prompt": "Name something about flying that can make a passenger nervous.",
-    "answers": [
-      {
-        "text": "Turbulence",
-        "aliases": [
-          "bumpy air"
+          "rude staff"
         ],
         "points": 35
       },
       {
-        "text": "Takeoff",
+        "text": "Noise all night",
         "aliases": [
-          "taking off"
+          "no sleep"
         ],
         "points": 25
       },
       {
-        "text": "Landing",
-        "aliases": [],
+        "text": "A dirty room",
+        "aliases": [
+          "filthy room"
+        ],
         "points": 16
       },
       {
-        "text": "Unfamiliar noises",
+        "text": "A tiny breakfast",
         "aliases": [
-          "strange sounds"
+          "bad breakfast"
         ],
         "points": 11
       },
       {
-        "text": "Being high above the ground",
+        "text": "Hidden fees",
         "aliases": [
-          "height"
+          "extra charges"
         ],
         "points": 8
       },
       {
-        "text": "Feeling enclosed",
+        "text": "A misleading view",
         "aliases": [
-          "confined cabin"
+          "bad view"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-061",
+    "id": "travel-060",
     "category": "Travel & places",
-    "prompt": "Name something pointed out during an airplane safety demonstration.",
+    "prompt": "Name something in a vacation rental that mysteriously takes three people to operate.",
     "answers": [
       {
-        "text": "Seat belt",
+        "text": "Television",
         "aliases": [
-          "safety belt"
+          "tv remote"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Oxygen mask",
-        "aliases": [],
+        "text": "Shower",
+        "aliases": [
+          "shower controls"
+        ],
         "points": 24
       },
       {
-        "text": "Life jacket",
+        "text": "Air conditioning",
         "aliases": [
-          "life vest"
+          "thermostat"
         ],
         "points": 18
       },
       {
-        "text": "Emergency exit",
+        "text": "Coffee machine",
         "aliases": [
-          "exit door"
+          "coffee maker"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Door lock",
+        "aliases": [
+          "keypad"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Washing machine",
+        "aliases": [
+          "washer"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-061",
+    "category": "Travel & places",
+    "prompt": "Name a reason someone wants to leave a vacation early.",
+    "answers": [
+      {
+        "text": "Homesick",
+        "aliases": [
+          "misses home"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Feels ill",
+        "aliases": [
+          "sick"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Ran out of money",
+        "aliases": [
+          "too expensive"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Fighting with companion",
+        "aliases": [
+          "argument"
         ],
         "points": 13
       },
       {
-        "text": "Floor lighting",
+        "text": "Bad weather",
         "aliases": [
-          "escape path lights"
+          "rain all week"
         ],
         "points": 9
       },
       {
-        "text": "Safety card",
+        "text": "Misses their pet",
         "aliases": [
-          "instruction card"
+          "wants pet"
         ],
         "points": 6
       }
@@ -965,47 +1032,47 @@
   {
     "id": "travel-062",
     "category": "Travel & places",
-    "prompt": "Name a reason a passenger might prefer an aisle seat.",
+    "prompt": "Name something people do when the hotel Wi-Fi is terrible.",
     "answers": [
       {
-        "text": "Easy bathroom access",
+        "text": "Complain to reception",
         "aliases": [
-          "get to toilet"
+          "call front desk"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Stretching their legs",
+        "text": "Use mobile data",
         "aliases": [
-          "more room to stretch"
+          "hotspot"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Getting off quickly",
+        "text": "Sit near the lobby",
         "aliases": [
-          "quicker exit"
+          "move closer"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Reaching the overhead bin",
+        "text": "Restart their device",
         "aliases": [
-          "access to bag"
+          "reboot phone"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Avoiding the window view",
+        "text": "Go to a cafe",
         "aliases": [
-          "fear of heights"
+          "find other wifi"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Feeling less trapped",
+        "text": "Give up and relax",
         "aliases": [
-          "less confined"
+          "go offline"
         ],
         "points": 6
       }
@@ -1014,139 +1081,145 @@
   {
     "id": "travel-063",
     "category": "Travel & places",
-    "prompt": "Name a physical discomfort people complain about after a long flight.",
+    "prompt": "Name something parents insist on doing before the family leaves the hotel.",
     "answers": [
       {
-        "text": "Stiff neck",
+        "text": "Check every drawer",
         "aliases": [
-          "neck pain"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Swollen feet",
-        "aliases": [
-          "puffy ankles"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Sore back",
-        "aliases": [
-          "backache"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Dry throat",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Blocked ears",
-        "aliases": [
-          "popping ears"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Dry eyes",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-064",
-    "category": "Travel & places",
-    "prompt": "Name information a pilot might share in an in-flight announcement.",
-    "answers": [
-      {
-        "text": "Arrival time",
-        "aliases": [
-          "estimated arrival"
+          "look for belongings"
         ],
         "points": 35
       },
       {
-        "text": "Weather at the destination",
+        "text": "Make everyone use the bathroom",
         "aliases": [
-          "destination weather"
+          "toilet break"
         ],
         "points": 25
       },
       {
-        "text": "Flying altitude",
+        "text": "Take a family photo",
         "aliases": [
-          "height"
+          "group picture"
         ],
         "points": 16
       },
       {
-        "text": "Route",
+        "text": "Pack snacks",
         "aliases": [
-          "flight path"
+          "bring food"
         ],
         "points": 11
       },
       {
-        "text": "Expected turbulence",
+        "text": "Confirm the plan",
         "aliases": [
-          "bumpy conditions"
+          "review schedule"
         ],
         "points": 8
       },
       {
-        "text": "Beginning the descent",
+        "text": "Clean the room",
         "aliases": [
-          "starting to land"
+          "tidy up"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-065",
+    "id": "travel-064",
     "category": "Travel & places",
-    "prompt": "Name something passengers do shortly after their airplane lands.",
+    "prompt": "Name a small comfort that feels amazing after a long day of sightseeing.",
     "answers": [
       {
-        "text": "Turn on their phones",
+        "text": "Sitting down",
         "aliases": [
-          "check phone"
+          "a seat"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Unfasten seat belts",
+        "text": "Taking off your shoes",
         "aliases": [
-          "unbuckle"
+          "shoes off"
         ],
         "points": 24
       },
       {
-        "text": "Collect belongings",
+        "text": "A hot shower",
         "aliases": [
-          "gather bags"
+          "shower"
         ],
         "points": 18
       },
       {
-        "text": "Stretch",
-        "aliases": [],
+        "text": "A cold drink",
+        "aliases": [
+          "water"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A nap",
+        "aliases": [
+          "sleep"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Air conditioning",
+        "aliases": [
+          "cool air"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-065",
+    "category": "Travel & places",
+    "prompt": "Name something people accuse their travel companion of hogging.",
+    "answers": [
+      {
+        "text": "The bathroom",
+        "aliases": [
+          "shower"
+        ],
+        "points": 30
+      },
+      {
+        "text": "The bed",
+        "aliases": [
+          "bed space"
+        ],
+        "points": 24
+      },
+      {
+        "text": "The mirror",
+        "aliases": [
+          "mirror time"
+        ],
+        "points": 18
+      },
+      {
+        "text": "The charger",
+        "aliases": [
+          "charging outlet"
+        ],
         "points": 13
       },
       {
-        "text": "Look for the arrival gate",
+        "text": "The itinerary",
         "aliases": [
-          "look out at terminal"
+          "making all decisions"
         ],
         "points": 9
       },
       {
-        "text": "Thank the crew",
+        "text": "The conversation",
         "aliases": [
-          "thank flight attendants"
+          "talking too much"
         ],
         "points": 6
       }
@@ -1155,46 +1228,48 @@
   {
     "id": "travel-066",
     "category": "Travel & places",
-    "prompt": "Name something a passenger might choose on an airplane's entertainment screen.",
+    "prompt": "Name a reason someone leaves the Do Not Disturb sign up all day.",
     "answers": [
       {
-        "text": "Movie",
+        "text": "Sleeping in",
         "aliases": [
-          "film"
+          "sleeping"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "TV episode",
+        "text": "Spending time with their partner",
         "aliases": [
-          "television show"
+          "romance"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Flight map",
+        "text": "Working",
         "aliases": [
-          "route map"
+          "work calls"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Music",
+        "text": "The room is a mess",
         "aliases": [
-          "songs"
+          "messy room"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Game",
+        "text": "Feeling sick",
         "aliases": [
-          "video game"
+          "ill"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "News",
-        "aliases": [],
+        "text": "Forgot it was there",
+        "aliases": [
+          "forgot to remove it"
+        ],
         "points": 6
       }
     ]
@@ -1202,143 +1277,150 @@
   {
     "id": "travel-067",
     "category": "Travel & places",
-    "prompt": "Name something a passenger might take from an overhead bag during a flight.",
+    "prompt": "Name something a vacationing couple does that annoys their single friends.",
     "answers": [
       {
-        "text": "Medicine",
+        "text": "Constant kissing",
         "aliases": [
-          "medication"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Sweater",
-        "aliases": [
-          "jumper"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Snack",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Phone charger",
-        "aliases": [
-          "charging cable"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Reading glasses",
-        "aliases": [
-          "glasses"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Book",
-        "aliases": [
-          "novel"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-068",
-    "category": "Travel & places",
-    "prompt": "Name good news a traveler would be happy to hear about their flight.",
-    "answers": [
-      {
-        "text": "Free seat upgrade",
-        "aliases": [
-          "upgraded cabin"
+          "public affection"
         ],
         "points": 35
       },
       {
-        "text": "Empty seat beside them",
+        "text": "Disappears alone",
         "aliases": [
-          "no seatmate"
+          "leaves group"
         ],
         "points": 25
       },
       {
-        "text": "Early arrival",
+        "text": "Argues in public",
         "aliases": [
-          "landing early"
+          "fights"
         ],
         "points": 16
       },
       {
-        "text": "Free Wi-Fi",
+        "text": "Takes couple photos",
         "aliases": [
-          "free internet"
+          "romantic selfies"
         ],
         "points": 11
       },
       {
-        "text": "Smooth weather ahead",
+        "text": "Uses baby talk",
         "aliases": [
-          "clear skies"
+          "pet names"
         ],
         "points": 8
       },
       {
-        "text": "Family seated together",
+        "text": "Changes plans for each other",
         "aliases": [
-          "seats together"
+          "couple decisions"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-069",
+    "id": "travel-068",
     "category": "Travel & places",
-    "prompt": "Name something a train conductor might do during a journey.",
+    "prompt": "Name something that gets skipped when a vacation itinerary is too crowded.",
     "answers": [
       {
-        "text": "Check tickets",
+        "text": "A nearby town",
         "aliases": [
-          "inspect tickets"
+        "another town"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Announce stops",
+        "text": "A museum",
         "aliases": [
-          "call station names"
+          "museum visit",
+          "museums"
         ],
         "points": 24
       },
       {
-        "text": "Answer passenger questions",
+        "text": "Shopping",
         "aliases": [
-          "give information"
+          "souvenir shopping",
+          "shopping trip"
         ],
         "points": 18
       },
       {
-        "text": "Collect fares",
+        "text": "A hike",
         "aliases": [
-          "sell tickets"
+          "hiking",
+          "long walk"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A leisurely breakfast",
+        "aliases": [
+          "slow breakfast",
+          "big breakfast"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A nap",
+        "aliases": [
+          "sleep",
+          "afternoon rest"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-069",
+    "category": "Travel & places",
+    "prompt": "Name something you might do after accidentally entering the wrong hotel room.",
+    "answers": [
+      {
+        "text": "Apologize",
+        "aliases": [
+          "say sorry"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Back out quickly",
+        "aliases": [
+          "leave"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Check the room number",
+        "aliases": [
+          "look at number"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Scream",
+        "aliases": [
+          "shout"
         ],
         "points": 13
       },
       {
-        "text": "Help with luggage",
+        "text": "Go to reception",
         "aliases": [
-          "assist with bags"
+          "front desk"
         ],
         "points": 9
       },
       {
-        "text": "Ask people to keep noise down",
+        "text": "Laugh nervously",
         "aliases": [
-          "enforce quiet carriage"
+          "nervous laugh"
         ],
         "points": 6
       }
@@ -1347,43 +1429,47 @@
   {
     "id": "travel-070",
     "category": "Travel & places",
-    "prompt": "Name something you might see on a railway platform.",
+    "prompt": "Name something you hope your travel companion will offer to pay for.",
     "answers": [
       {
-        "text": "Bench",
+        "text": "Dinner",
         "aliases": [
-          "seating"
+          "a meal"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Clock",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Platform number sign",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Yellow safety line",
+        "text": "The hotel",
         "aliases": [
-          "platform edge line"
+          "accommodation"
         ],
-        "points": 12
+        "points": 23
       },
       {
-        "text": "Shelter",
+        "text": "An activity",
         "aliases": [
-          "canopy"
+          "excursion"
         ],
-        "points": 8
+        "points": 19
       },
       {
-        "text": "Departure display",
+        "text": "Coffee",
         "aliases": [
-          "information screen"
+          "drinks"
+        ],
+        "points": 14
+      },
+      {
+        "text": "The taxi",
+        "aliases": [
+          "cab"
+        ],
+        "points": 10
+      },
+      {
+        "text": "The tip",
+        "aliases": [
+          "gratuity"
         ],
         "points": 6
       }
@@ -1392,143 +1478,145 @@
   {
     "id": "travel-071",
     "category": "Travel & places",
-    "prompt": "Name a reason a passenger might miss their train stop.",
+    "prompt": "Name a vacation expense that feels especially annoying to pay.",
     "answers": [
       {
-        "text": "Fell asleep",
+        "text": "Resort fees",
         "aliases": [
-          "slept through it"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Did not hear the announcement",
-        "aliases": [
-          "headphones on"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Did not recognize the station",
-        "aliases": [
-          "unfamiliar station"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Got caught in a conversation",
-        "aliases": [
-          "talking"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Could not get past the crowd",
-        "aliases": [
-          "blocked doorway"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Could not gather bags in time",
-        "aliases": [
-          "slow with luggage"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-072",
-    "category": "Travel & places",
-    "prompt": "Name something you might see or hear at a railway crossing.",
-    "answers": [
-      {
-        "text": "Flashing red lights",
-        "aliases": [
-          "warning lights"
+          "hotel fees"
         ],
         "points": 35
       },
       {
-        "text": "Lowered barrier",
+        "text": "Parking",
         "aliases": [
-          "crossing gate"
+          "parking charge"
         ],
         "points": 25
       },
       {
-        "text": "Warning bell",
+        "text": "Bottled water",
         "aliases": [
-          "ringing bell"
+          "water"
         ],
         "points": 16
       },
       {
-        "text": "Passing train",
-        "aliases": [],
+        "text": "Baggage fees",
+        "aliases": [
+          "luggage fees"
+        ],
         "points": 11
       },
       {
-        "text": "Crossing sign",
+        "text": "Tourist tax",
         "aliases": [
-          "crossbuck"
+          "city tax"
         ],
         "points": 8
       },
       {
-        "text": "Cars waiting",
+        "text": "Internet access",
         "aliases": [
-          "traffic queue"
+          "wifi charge"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-073",
+    "id": "travel-072",
     "category": "Travel & places",
-    "prompt": "Name something that feels unusual about sleeping on an overnight train.",
+    "prompt": "Name something people do to stretch the last day of their vacation.",
     "answers": [
       {
-        "text": "Narrow bunk",
+        "text": "Ask for late checkout",
         "aliases": [
-          "small bed"
+          "extend checkout"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Rocking motion",
+        "text": "Book a later departure",
         "aliases": [
-          "swaying"
+          "leave later"
         ],
         "points": 24
       },
       {
-        "text": "Wheel noise",
+        "text": "Skip packing",
         "aliases": [
-          "rattling wheels"
+          "delay packing"
         ],
         "points": 18
       },
       {
-        "text": "Sharing a cabin",
+        "text": "Have one more meal",
         "aliases": [
-          "roommate"
+          "extra meal"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Buy last-minute souvenirs",
+        "aliases": [
+          "souvenir shopping"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Take one last photo",
+        "aliases": [
+          "final picture"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-073",
+    "category": "Travel & places",
+    "prompt": "Name something a friend always wants to do when everyone else wants to sleep.",
+    "answers": [
+      {
+        "text": "Go out dancing",
+        "aliases": [
+          "clubbing"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Talk",
+        "aliases": [
+          "chat"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Watch television",
+        "aliases": [
+          "watch a movie"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Order food",
+        "aliases": [
+          "eat"
         ],
         "points": 13
       },
       {
-        "text": "Climbing a bunk ladder",
+        "text": "Make plans",
         "aliases": [
-          "ladder"
+          "plan tomorrow"
         ],
         "points": 9
       },
       {
-        "text": "Waking in a different city",
+        "text": "Play a game",
         "aliases": [
-          "new city in morning"
+          "cards"
         ],
         "points": 6
       }
@@ -1537,45 +1625,47 @@
   {
     "id": "travel-074",
     "category": "Travel & places",
-    "prompt": "Name something transported by freight train.",
+    "prompt": "Name something people find in their suitcase weeks after a vacation.",
     "answers": [
       {
-        "text": "Coal",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Shipping containers",
+        "text": "Dirty socks",
         "aliases": [
-          "cargo containers"
+          "dirty laundry"
         ],
-        "points": 24
+        "points": 28
       },
       {
-        "text": "Cars",
+        "text": "Receipts",
         "aliases": [
-          "automobiles"
+          "old receipts"
         ],
-        "points": 18
+        "points": 23
       },
       {
-        "text": "Logs",
+        "text": "Leftover snacks",
         "aliases": [
-          "timber"
+          "food"
         ],
-        "points": 12
+        "points": 19
       },
       {
-        "text": "Grain",
+        "text": "Hotel key card",
         "aliases": [
-          "wheat"
+          "room key"
         ],
-        "points": 8
+        "points": 14
       },
       {
-        "text": "Oil",
+        "text": "Sand",
         "aliases": [
-          "petroleum"
+          "beach sand"
+        ],
+        "points": 10
+      },
+      {
+        "text": "A souvenir",
+        "aliases": [
+          "keepsake"
         ],
         "points": 6
       }
@@ -1584,143 +1674,145 @@
   {
     "id": "travel-075",
     "category": "Travel & places",
-    "prompt": "Name a clue that a train is approaching a station.",
+    "prompt": "Name something that makes a short trip feel much longer.",
     "answers": [
       {
-        "text": "It slows down",
+        "text": "Constant arguments",
         "aliases": [
-          "brakes"
-        ],
-        "points": 28
-      },
-      {
-        "text": "An announcement plays",
-        "aliases": [
-          "station announced"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Passengers gather their bags",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Station signs appear",
-        "aliases": [
-          "platform sign"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Door chime sounds",
-        "aliases": [
-          "doors beep"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Arrival time is close",
-        "aliases": [
-          "nearly time to arrive"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-076",
-    "category": "Travel & places",
-    "prompt": "Name a kind of train a child might name.",
-    "answers": [
-      {
-        "text": "Steam train",
-        "aliases": [
-          "steam engine"
+          "fighting"
         ],
         "points": 35
       },
       {
-        "text": "Freight train",
+        "text": "Bad weather",
         "aliases": [
-          "goods train"
+          "raining"
         ],
         "points": 25
       },
       {
-        "text": "Subway train",
+        "text": "Too many activities",
         "aliases": [
-          "metro"
+          "packed schedule"
         ],
         "points": 16
       },
       {
-        "text": "Bullet train",
+        "text": "Poor sleep",
         "aliases": [
-          "high speed train"
+          "tiredness"
         ],
         "points": 11
       },
       {
-        "text": "Sleeper train",
+        "text": "Getting lost",
         "aliases": [
-          "overnight train"
+          "wrong directions"
         ],
         "points": 8
       },
       {
-        "text": "Commuter train",
+        "text": "Travel delays",
         "aliases": [
-          "suburban train"
+          "waiting"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-077",
+    "id": "travel-076",
     "category": "Travel & places",
-    "prompt": "Name something people associate with an old steam train.",
+    "prompt": "Name something you might hear from the person who always gets the vacation discount.",
     "answers": [
       {
-        "text": "Cloud of steam",
+        "text": "I found a code",
         "aliases": [
-          "steam"
+          "discount code"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Loud whistle",
+        "text": "We should wait to book",
         "aliases": [
-          "train whistle"
+          "prices will drop"
         ],
         "points": 24
       },
       {
-        "text": "Coal fire",
+        "text": "I have points",
         "aliases": [
-          "burning coal"
+          "rewards points"
         ],
         "points": 18
       },
       {
-        "text": "Chimney",
+        "text": "I know the manager",
         "aliases": [
-          "smokestack"
+          "knows someone"
+        ],
+        "points": 12
+      },
+      {
+        "text": "There is a cheaper one",
+        "aliases": [
+          "better deal"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Split it with more people",
+        "aliases": [
+          "share the cost"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-077",
+    "category": "Travel & places",
+    "prompt": "Name something a couple adds to an ordinary hotel stay to make it feel like a honeymoon.",
+    "answers": [
+      {
+        "text": "Champagne",
+        "aliases": [
+          "sparkling wine"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Rose petals",
+        "aliases": [
+          "flowers on the bed"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Romantic music",
+        "aliases": [
+          "love songs"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Breakfast in bed",
+        "aliases": [
+          "room service breakfast"
         ],
         "points": 13
       },
       {
-        "text": "Large driving wheels",
+        "text": "A couples massage",
         "aliases": [
-          "big wheels"
+          "massage"
         ],
         "points": 9
       },
       {
-        "text": "Soot",
+        "text": "Chocolate",
         "aliases": [
-          "black grime"
+          "chocolates"
         ],
         "points": 6
       }
@@ -1729,47 +1821,47 @@
   {
     "id": "travel-078",
     "category": "Travel & places",
-    "prompt": "Name a clue that a passenger has boarded the wrong train.",
+    "prompt": "Name a reason you would refuse to share a suitcase with your partner.",
     "answers": [
       {
-        "text": "Wrong destination displayed",
+        "text": "They overpack",
         "aliases": [
-          "wrong destination sign"
+          "too much stuff"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Unexpected station stop",
+        "text": "Their clothes smell",
         "aliases": [
-          "unfamiliar stop"
+          "dirty clothes"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Traveling in the wrong direction",
+        "text": "They lose things",
         "aliases": [
-          "wrong way"
+          "careless"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Conductor rejects their ticket",
+        "text": "Different packing styles",
         "aliases": [
-          "ticket not valid"
+          "messy packing"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Reserved seat does not exist",
+        "text": "They need it at different times",
         "aliases": [
-          "wrong coach layout"
+          "separate plans"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Route map does not match",
+        "text": "They pack leaking bottles",
         "aliases": [
-          "different route map"
+          "toiletry spills"
         ],
         "points": 6
       }
@@ -1778,145 +1870,145 @@
   {
     "id": "travel-079",
     "category": "Travel & places",
-    "prompt": "Name an inconvenience of traveling on an underground subway.",
+    "prompt": "Name something that might get a hotel guest a warning from the staff.",
     "answers": [
       {
-        "text": "No phone signal",
+        "text": "Loud party",
         "aliases": [
-          "no reception"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Crowded carriages",
-        "aliases": [
-          "packed train"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Many stairs",
-        "aliases": [
-          "lots of steps"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Hot platforms",
-        "aliases": [
-          "heat"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Service shutdown",
-        "aliases": [
-          "line closed"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Confusing transfers",
-        "aliases": [
-          "difficult interchange"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-080",
-    "category": "Travel & places",
-    "prompt": "Name someone a subway passenger might offer their seat to.",
-    "answers": [
-      {
-        "text": "Older person",
-        "aliases": [
-          "elderly passenger"
+          "too much noise"
         ],
         "points": 35
       },
       {
-        "text": "Pregnant person",
+        "text": "Smoking in the room",
         "aliases": [
-          "expectant mother"
+          "smoking"
         ],
         "points": 25
       },
       {
-        "text": "Person on crutches",
+        "text": "Bringing extra guests",
         "aliases": [
-          "injured passenger"
+          "too many people"
         ],
         "points": 16
       },
       {
-        "text": "Adult holding a baby",
+        "text": "Letting a pet run loose",
         "aliases": [
-          "parent with infant"
+          "uncontrolled dog"
         ],
         "points": 11
       },
       {
-        "text": "Young child",
+        "text": "Running in the halls",
         "aliases": [
-          "small child"
+          "hallway games"
         ],
         "points": 8
       },
       {
-        "text": "Passenger carrying heavy bags",
+        "text": "Taking pool towels away",
         "aliases": [
-          "person with heavy luggage"
+          "missing towels"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-081",
+    "id": "travel-080",
     "category": "Travel & places",
-    "prompt": "Name something a traveler might do while changing trains.",
+    "prompt": "Name something you might discover while looking under a hotel bed.",
     "answers": [
       {
-        "text": "Check the route map",
+        "text": "A sock",
         "aliases": [
-          "read transit map"
+          "lost sock"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Move to another platform",
+        "text": "Dust",
         "aliases": [
-          "change platforms"
+          "dust bunnies"
         ],
         "points": 24
       },
       {
-        "text": "Look for direction signs",
+        "text": "A shoe",
         "aliases": [
-          "follow signs"
+          "lost shoe"
         ],
         "points": 18
       },
       {
-        "text": "Ask for directions",
+        "text": "A phone charger",
         "aliases": [
-          "ask staff"
+          "charging cable"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Food wrappers",
+        "aliases": [
+          "trash"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A toy",
+        "aliases": [
+          "child toy"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-081",
+    "category": "Travel & places",
+    "prompt": "Name a reason you would avoid someone you recognize at a hotel.",
+    "answers": [
+      {
+        "text": "Still in pajamas",
+        "aliases": [
+          "not dressed"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Bad hair",
+        "aliases": [
+          "messy hair"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Do not like them",
+        "aliases": [
+          "avoiding them"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Want privacy",
+        "aliases": [
+          "alone time"
         ],
         "points": 13
       },
       {
-        "text": "Buy an onward ticket",
+        "text": "With someone unexpected",
         "aliases": [
-          "purchase next ticket"
+          "secret date"
         ],
         "points": 9
       },
       {
-        "text": "Wait for the connecting train",
+        "text": "In a hurry",
         "aliases": [
-          "wait for next train"
+          "running late"
         ],
         "points": 6
       }
@@ -1925,47 +2017,47 @@
   {
     "id": "travel-082",
     "category": "Travel & places",
-    "prompt": "Name something a passenger might say to a bus driver.",
+    "prompt": "Name something you would not want the hotel receptionist announcing out loud.",
     "answers": [
       {
-        "text": "Ask if it is the right bus",
+        "text": "Your room number",
         "aliases": [
-          "ask the route"
+          "room location"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Ask the fare",
+        "text": "How much you paid",
         "aliases": [
-          "ticket price"
+          "price"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Request a stop",
+        "text": "Your card was declined",
         "aliases": [
-          "ask to get off"
+          "payment failed"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Say thank you",
+        "text": "You lost your key again",
         "aliases": [
-          "thanks"
+          "locked out"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Ask about a lost item",
+        "text": "Your private request",
         "aliases": [
-          "lost property"
+          "personal request"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Ask how long the ride takes",
+        "text": "Your full home address",
         "aliases": [
-          "journey time"
+          "address"
         ],
         "points": 6
       }
@@ -1974,133 +2066,145 @@
   {
     "id": "travel-083",
     "category": "Travel & places",
-    "prompt": "Name a place you might board a bus other than a regular street stop.",
+    "prompt": "Name something people compete over during a vacation.",
     "answers": [
       {
-        "text": "Bus station",
+        "text": "Who gets the best room",
         "aliases": [
-          "coach terminal"
+          "room choice"
         ],
-        "points": 28
-      },
-      {
-        "text": "Airport",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "School",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Hotel",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Park-and-ride lot",
-        "aliases": [
-          "park and ride"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Shopping center",
-        "aliases": [
-          "mall"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-084",
-    "category": "Travel & places",
-    "prompt": "Name something you might see on the front of a city bus.",
-    "answers": [
-      {
-        "text": "Route number",
-        "aliases": [],
         "points": 35
       },
       {
-        "text": "Destination sign",
-        "aliases": [],
+        "text": "Who found the best deal",
+        "aliases": [
+          "cheapest trip"
+        ],
         "points": 25
       },
       {
-        "text": "Windshield",
+        "text": "Who takes the best photos",
         "aliases": [
-          "windscreen"
+          "photography"
         ],
         "points": 16
       },
       {
-        "text": "Headlights",
+        "text": "Who walks the most",
         "aliases": [
-          "headlamps"
+          "step count"
         ],
         "points": 11
       },
       {
-        "text": "Side mirrors",
+        "text": "Who gets the best tan",
         "aliases": [
-          "wing mirrors"
+          "tanning"
         ],
         "points": 8
       },
       {
-        "text": "License plate",
+        "text": "Who tries the strangest food",
         "aliases": [
-          "registration plate"
+          "adventurous eating"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-085",
+    "id": "travel-084",
     "category": "Travel & places",
-    "prompt": "Name a reason someone might miss their bus.",
+    "prompt": "Name a reason a friend turns down every hotel you suggest.",
     "answers": [
       {
-        "text": "Arrived late",
+        "text": "Too expensive",
         "aliases": [
-          "ran late"
+          "costs too much"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Waited at the wrong stop",
+        "text": "Too far away",
         "aliases": [
-          "wrong bus stop"
+          "bad location"
         ],
         "points": 24
       },
       {
-        "text": "Bus was full",
+        "text": "Bad reviews",
         "aliases": [
-          "no room"
+          "low rating"
         ],
         "points": 18
       },
       {
-        "text": "Bus left early",
-        "aliases": [],
+        "text": "No pool",
+        "aliases": [
+          "missing pool"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Rooms too small",
+        "aliases": [
+          "small rooms"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Not photogenic enough",
+        "aliases": [
+          "ugly decor"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-085",
+    "category": "Travel & places",
+    "prompt": "Name something you might try to rescue from a suitcase after a shampoo explosion.",
+    "answers": [
+      {
+        "text": "Clothes",
+        "aliases": [
+          "shirts"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Electronics",
+        "aliases": [
+          "phone charger"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Passport",
+        "aliases": [
+          "documents"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Shoes",
+        "aliases": [
+          "footwear"
+        ],
         "points": 13
       },
       {
-        "text": "Could not find their fare",
+        "text": "Makeup",
         "aliases": [
-          "lost bus pass"
+          "cosmetics"
         ],
         "points": 9
       },
       {
-        "text": "Driver did not see them",
+        "text": "A book",
         "aliases": [
-          "driver passed them"
+          "paperback"
         ],
         "points": 6
       }
@@ -2109,45 +2213,47 @@
   {
     "id": "travel-086",
     "category": "Travel & places",
-    "prompt": "Name a rule children might hear on a school bus.",
+    "prompt": "Name a sign the vacation is starting to get too expensive.",
     "answers": [
       {
-        "text": "Stay seated",
+        "text": "Checking the bank balance constantly",
         "aliases": [
-          "sit down"
+          "checking account"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Keep the noise down",
+        "text": "Skipping meals",
         "aliases": [
-          "be quiet"
+          "not eating"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "No eating",
+        "text": "Arguing about prices",
         "aliases": [
-          "no food"
+          "money arguments"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Keep the aisle clear",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Keep arms inside",
+        "text": "Using a credit card for everything",
         "aliases": [
-          "do not reach out windows"
+          "putting it on credit"
         ],
-        "points": 8
+        "points": 14
       },
       {
-        "text": "Wait until the bus stops",
+        "text": "Canceling activities",
         "aliases": [
-          "wait before standing"
+          "dropping plans"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Calling home for money",
+        "aliases": [
+          "asking for cash"
         ],
         "points": 6
       }
@@ -2156,143 +2262,145 @@
   {
     "id": "travel-087",
     "category": "Travel & places",
-    "prompt": "Name something unexpected that might make a bus driver stop the bus.",
+    "prompt": "Name something a friend says to justify taking another vacation photo.",
     "answers": [
       {
-        "text": "Road blocked",
+        "text": "The light is better now",
         "aliases": [
-          "obstruction"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Passenger falls",
-        "aliases": [
-          "injured passenger"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Animal in the road",
-        "aliases": [
-          "dog ahead"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Fight between passengers",
-        "aliases": [
-          "argument"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Engine warning light",
-        "aliases": [
-          "mechanical trouble"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Lost child on board",
-        "aliases": [
-          "unaccompanied child"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-088",
-    "category": "Travel & places",
-    "prompt": "Name a group likely to travel together on a chartered bus.",
-    "answers": [
-      {
-        "text": "School class",
-        "aliases": [
-          "students"
+          "better lighting"
         ],
         "points": 35
       },
       {
-        "text": "Tour group",
+        "text": "You blinked",
         "aliases": [
-          "tourists"
+          "eyes closed"
         ],
         "points": 25
       },
       {
-        "text": "Sports team",
+        "text": "This is my good side",
         "aliases": [
-          "athletes"
+          "better angle"
         ],
         "points": 16
       },
       {
-        "text": "Wedding guests",
-        "aliases": [],
+        "text": "We may never come back",
+        "aliases": [
+          "once in a lifetime"
+        ],
         "points": 11
       },
       {
-        "text": "Work colleagues",
+        "text": "That person was in the way",
         "aliases": [
-          "company staff"
+          "photobomber"
         ],
         "points": 8
       },
       {
-        "text": "Church group",
+        "text": "My hair looked bad",
         "aliases": [
-          "congregation"
+          "fix my hair"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-089",
+    "id": "travel-088",
     "category": "Travel & places",
-    "prompt": "Name a clue that a bus is about to pull away from a stop.",
+    "prompt": "Name something that makes people miss their own bathroom while traveling.",
     "answers": [
       {
-        "text": "Doors close",
+        "text": "Poor shower pressure",
         "aliases": [
-          "door shuts"
+          "weak shower"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Engine revs",
+        "text": "No privacy",
         "aliases": [
-          "motor revs"
+          "shared bathroom"
         ],
         "points": 24
       },
       {
-        "text": "Turn signal flashes",
+        "text": "Tiny towels",
         "aliases": [
-          "indicator blinks"
+          "small towels"
         ],
         "points": 18
       },
       {
-        "text": "Driver checks the mirrors",
+        "text": "Strange toilet",
         "aliases": [
-          "driver looks in mirrors"
+          "unfamiliar toilet"
+        ],
+        "points": 12
+      },
+      {
+        "text": "No favorite toiletries",
+        "aliases": [
+          "own products"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Not enough counter space",
+        "aliases": [
+          "small counter"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-089",
+    "category": "Travel & places",
+    "prompt": "Name something a travel companion might do instead of helping carry the bags inside.",
+    "answers": [
+      {
+        "text": "Claim a bed",
+        "aliases": [
+          "choose a bedroom"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Check their phone",
+        "aliases": [
+          "scroll"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Open a drink",
+        "aliases": [
+          "start drinking"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Explore the property",
+        "aliases": [
+          "look around"
         ],
         "points": 13
       },
       {
-        "text": "Passengers hurry to sit",
+        "text": "Jump in the pool",
         "aliases": [
-          "people take seats"
+          "swim"
         ],
         "points": 9
       },
       {
-        "text": "Air brakes hiss",
+        "text": "Use the bathroom",
         "aliases": [
-          "brakes release"
+          "go to the toilet"
         ],
         "points": 6
       }
@@ -2301,47 +2409,47 @@
   {
     "id": "travel-090",
     "category": "Travel & places",
-    "prompt": "Name something people argue about during a family car trip.",
+    "prompt": "Name a reason someone wants their own room even on a tight travel budget.",
     "answers": [
       {
-        "text": "Music choice",
+        "text": "Needs quiet",
         "aliases": [
-          "radio station"
+          "peace"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Directions",
+        "text": "Wants privacy",
         "aliases": [
-          "which route"
+          "alone time"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Temperature",
+        "text": "Different sleep schedule",
         "aliases": [
-          "air conditioning"
+          "early riser"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Who gets which seat",
+        "text": "Has a romantic guest",
         "aliases": [
-          "seating"
+          "date"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "When to stop",
+        "text": "Needs a private bathroom",
         "aliases": [
-          "next break"
+          "bathroom privacy"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Sharing snacks",
+        "text": "Does not trust companions",
         "aliases": [
-          "food portions"
+          "belongings security"
         ],
         "points": 6
       }
@@ -2350,141 +2458,145 @@
   {
     "id": "travel-091",
     "category": "Travel & places",
-    "prompt": "Name a game people play aloud during a road trip.",
+    "prompt": "Name something people say after paying too much for a terrible souvenir.",
     "answers": [
       {
-        "text": "I spy",
-        "aliases": [],
-        "points": 28
-      },
-      {
-        "text": "Twenty questions",
+        "text": "It is the thought that counts",
         "aliases": [
-          "20 questions"
-        ],
-        "points": 23
-      },
-      {
-        "text": "License plate game",
-        "aliases": [
-          "spot license plates"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Alphabet game",
-        "aliases": [
-          "road sign alphabet"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Name that tune",
-        "aliases": [
-          "guess the song"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Would you rather",
-        "aliases": [],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-092",
-    "category": "Travel & places",
-    "prompt": "Name a sign that a child is getting bored on a long drive.",
-    "answers": [
-      {
-        "text": "Asks if we are there yet",
-        "aliases": [
-          "are we there yet"
+          "thoughtful gift"
         ],
         "points": 35
       },
       {
-        "text": "Whines",
+        "text": "It looked better in the shop",
         "aliases": [
-          "complains"
+          "shop lighting"
         ],
         "points": 25
       },
       {
-        "text": "Kicks the seat",
+        "text": "It was handmade",
         "aliases": [
-          "seat kicking"
+          "local craft"
         ],
         "points": 16
       },
       {
-        "text": "Argues with a sibling",
+        "text": "I had to buy something",
         "aliases": [
-          "sibling fight"
+          "needed a gift"
         ],
         "points": 11
       },
       {
-        "text": "Asks for a phone",
+        "text": "Do not ask how much",
         "aliases": [
-          "wants a screen"
+          "cost too much"
         ],
         "points": 8
       },
       {
-        "text": "Fidgets with the seat belt",
+        "text": "We can laugh about it",
         "aliases": [
-          "plays with seat belt"
+          "funny memory"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-093",
+    "id": "travel-092",
     "category": "Travel & places",
-    "prompt": "Name a warning light a driver would hate to see during a road trip.",
+    "prompt": "Name a reason friends decide never to vacation together again.",
     "answers": [
       {
-        "text": "Low fuel",
+        "text": "Constant fighting",
         "aliases": [
-          "fuel warning"
+          "arguing"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Check engine",
+        "text": "Someone never pays",
         "aliases": [
-          "engine light"
+          "money trouble"
         ],
         "points": 24
       },
       {
-        "text": "Oil pressure",
+        "text": "Different interests",
         "aliases": [
-          "oil warning"
+          "nothing in common"
         ],
         "points": 18
       },
       {
-        "text": "Tire pressure",
+        "text": "Someone controls everything",
         "aliases": [
-          "flat tire warning"
+          "bossy planner"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Someone drinks too much",
+        "aliases": [
+          "drunken behavior"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A secret gets revealed",
+        "aliases": [
+          "broken trust"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-093",
+    "category": "Travel & places",
+    "prompt": "Name something people brag about doing less of on vacation.",
+    "answers": [
+      {
+        "text": "Working",
+        "aliases": [
+          "checking work"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Looking at their phone",
+        "aliases": [
+          "screen time"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cooking",
+        "aliases": [
+          "making meals"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cleaning",
+        "aliases": [
+          "housework"
         ],
         "points": 13
       },
       {
-        "text": "Battery",
+        "text": "Waking up early",
         "aliases": [
-          "charging light"
+          "early mornings"
         ],
         "points": 9
       },
       {
-        "text": "Overheating",
+        "text": "Worrying",
         "aliases": [
-          "temperature warning"
+          "stress"
         ],
         "points": 6
       }
@@ -2493,45 +2605,47 @@
   {
     "id": "travel-094",
     "category": "Travel & places",
-    "prompt": "Name something that falls into the gap between car seats.",
+    "prompt": "Name something people do when their vacation room has only one power outlet.",
     "answers": [
       {
-        "text": "Phone",
+        "text": "Take turns charging",
         "aliases": [
-          "mobile"
+          "share charger"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Coin",
+        "text": "Unplug the lamp",
         "aliases": [
-          "loose change"
+          "remove lamp plug"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "French fry",
+        "text": "Use a power bank",
         "aliases": [
-          "chip"
+          "portable charger"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Pen",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Key",
+        "text": "Ask for an extension cord",
         "aliases": [
-          "car key"
+          "power strip"
         ],
-        "points": 8
+        "points": 14
       },
       {
-        "text": "Earbud",
+        "text": "Charge in the lobby",
         "aliases": [
-          "earphone"
+          "lobby outlet"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Argue over it",
+        "aliases": [
+          "fight for outlet"
         ],
         "points": 6
       }
@@ -2540,143 +2654,151 @@
   {
     "id": "travel-095",
     "category": "Travel & places",
-    "prompt": "Name something that can make it hard for a driver to see the road.",
+    "prompt": "Name something that makes a group vacation photo take forever.",
     "answers": [
       {
-        "text": "Bright sunlight",
+        "text": "Someone is missing",
         "aliases": [
-          "sun glare"
+          "waiting for a person"
         ],
-        "points": 28
-      },
-      {
-        "text": "Heavy rain",
-        "aliases": [
-          "downpour"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Fog",
-        "aliases": [
-          "mist"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Dirty windshield",
-        "aliases": [
-          "dirty windscreen"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Large truck ahead",
-        "aliases": [
-          "lorry ahead"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Snow on the glass",
-        "aliases": [
-          "snow covered windshield"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-096",
-    "category": "Travel & places",
-    "prompt": "Name something that makes driving in an unfamiliar city difficult.",
-    "answers": [
-      {
-        "text": "One-way streets",
-        "aliases": [],
         "points": 35
       },
       {
-        "text": "Heavy traffic",
+        "text": "People blink",
         "aliases": [
-          "congestion"
+          "closed eyes"
         ],
         "points": 25
       },
       {
-        "text": "Confusing road signs",
+        "text": "Everyone wants their phone used",
         "aliases": [
-          "unclear signs"
+          "many cameras"
         ],
         "points": 16
       },
       {
-        "text": "Limited parking",
+        "text": "Someone hates their appearance",
         "aliases": [
-          "nowhere to park"
+          "unhappy with looks"
         ],
         "points": 11
       },
       {
-        "text": "Narrow streets",
+        "text": "Children will not stand still",
         "aliases": [
-          "tight roads"
+          "fidgeting kids"
         ],
         "points": 8
       },
       {
-        "text": "Many pedestrians",
+        "text": "The timer is confusing",
         "aliases": [
-          "people crossing"
+          "self timer"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-097",
+    "id": "travel-096",
     "category": "Travel & places",
-    "prompt": "Name a road-trip expense other than fuel.",
+    "prompt": "Name something people secretly judge about another guest at a hotel pool.",
     "answers": [
       {
-        "text": "Tolls",
+        "text": "Swimsuit",
         "aliases": [
-          "road toll"
+          "bathing suit",
+          "swimwear"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Parking fees",
+        "text": "Loud voice",
         "aliases": [
-          "parking"
+          "being loud",
+          "shouting"
         ],
         "points": 24
       },
       {
-        "text": "Meals",
+        "text": "Hogging pool chairs",
         "aliases": [
-          "food"
+          "chair hogging",
+          "saving loungers"
         ],
         "points": 18
       },
       {
-        "text": "Overnight lodging",
+        "text": "Drinking heavily",
         "aliases": [
-          "hotel room"
+          "being drunk",
+          "too much alcohol"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Taking selfies",
+        "aliases": [
+          "selfies",
+          "posing for photos"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Public kissing",
+        "aliases": [
+          "kissing",
+          "public affection"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-097",
+    "category": "Travel & places",
+    "prompt": "Name a reason the person who booked the vacation feels underappreciated.",
+    "answers": [
+      {
+        "text": "Nobody says thanks",
+        "aliases": [
+          "no gratitude"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Everyone complains",
+        "aliases": [
+          "complaints"
+        ],
+        "points": 24
+      },
+      {
+        "text": "People will not pay them back",
+        "aliases": [
+          "owed money"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Everyone is late",
+        "aliases": [
+          "lateness"
         ],
         "points": 13
       },
       {
-        "text": "Car repairs",
+        "text": "Plans are ignored",
         "aliases": [
-          "mechanic"
+          "people skip activities"
         ],
         "points": 9
       },
       {
-        "text": "Traffic ticket",
+        "text": "They handle every problem",
         "aliases": [
-          "speeding fine"
+          "all the work"
         ],
         "points": 6
       }
@@ -2685,47 +2807,47 @@
   {
     "id": "travel-098",
     "category": "Travel & places",
-    "prompt": "Name something you might see inside a road tunnel.",
+    "prompt": "Name something people pretend not to notice in a cheap hotel.",
     "answers": [
       {
-        "text": "Ceiling lights",
+        "text": "A stain",
         "aliases": [
-          "lighting"
+          "dirty carpet"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Emergency exit",
+        "text": "A strange smell",
         "aliases": [
-          "escape door"
+          "bad odor"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Ventilation fans",
+        "text": "Thin walls",
         "aliases": [
-          "fans"
+          "noise"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Wall tiles",
+        "text": "Dated furniture",
         "aliases": [
-          "tiled walls"
+          "old decor"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Traffic cameras",
+        "text": "A tiny room",
         "aliases": [
-          "cctv"
+          "small space"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Lane signs",
+        "text": "A broken fixture",
         "aliases": [
-          "overhead signals"
+          "something broken"
         ],
         "points": 6
       }
@@ -2734,139 +2856,145 @@
   {
     "id": "travel-099",
     "category": "Travel & places",
-    "prompt": "Name a smell that can fill a car during a road trip.",
+    "prompt": "Name something a friend might do to make you glad they came on vacation.",
     "answers": [
       {
-        "text": "Fast food",
+        "text": "Makes everyone laugh",
         "aliases": [
-          "takeout"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Air freshener",
-        "aliases": [],
-        "points": 23
-      },
-      {
-        "text": "Coffee",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Wet clothes",
-        "aliases": [
-          "damp clothing"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Dog",
-        "aliases": [
-          "pet smell"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Sunscreen",
-        "aliases": [
-          "sun cream"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-100",
-    "category": "Travel & places",
-    "prompt": "Name a reason a passenger might ask a driver to slow down.",
-    "answers": [
-      {
-        "text": "Car sickness",
-        "aliases": [
-          "motion sickness"
+          "funny"
         ],
         "points": 35
       },
       {
-        "text": "Sharp bend",
+        "text": "Handles a problem calmly",
         "aliases": [
-          "tight curve"
+          "fixes a crisis"
         ],
         "points": 25
       },
       {
-        "text": "Animal ahead",
+        "text": "Pays for a meal",
         "aliases": [
-          "wildlife"
+          "buys dinner"
         ],
         "points": 16
       },
       {
-        "text": "Potholes",
+        "text": "Takes great photos",
         "aliases": [
-          "bumpy road"
+          "good photographer"
         ],
         "points": 11
       },
       {
-        "text": "Heavy rain",
+        "text": "Remembers your birthday",
         "aliases": [
-          "bad visibility"
+          "celebrates you"
         ],
         "points": 8
       },
       {
-        "text": "Lower speed limit",
+        "text": "Gives you time alone",
         "aliases": [
-          "speed limit sign"
+          "respects space"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-101",
+    "id": "travel-100",
     "category": "Travel & places",
-    "prompt": "Name a snack that can make a mess in the car.",
+    "prompt": "Name something people wish they had done before posting their vacation pictures.",
     "answers": [
       {
-        "text": "Potato chips",
+        "text": "Checked the background",
         "aliases": [
-          "crisps"
+          "background embarrassment"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Chocolate",
+        "text": "Asked permission",
         "aliases": [
-          "chocolate bar"
+          "got consent"
         ],
         "points": 24
       },
       {
-        "text": "Ice cream",
+        "text": "Fixed their hair",
         "aliases": [
-          "ice cream cone"
+          "hair check"
         ],
         "points": 18
       },
       {
-        "text": "Powdered doughnut",
+        "text": "Removed the location",
         "aliases": [
-          "sugary donut"
+          "location privacy"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Edited out a stranger",
+        "aliases": [
+          "crop photobomber"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Told their boss they were away",
+        "aliases": [
+          "work excuse"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-101",
+    "category": "Travel & places",
+    "prompt": "Name something you might say when the hotel bathtub is larger than your bathroom at home.",
+    "answers": [
+      {
+        "text": "I am never leaving",
+        "aliases": [
+          "staying here forever"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Take a picture",
+        "aliases": [
+          "photo"
+        ],
+        "points": 24
+      },
+      {
+        "text": "How much did this cost",
+        "aliases": [
+          "expensive"
+        ],
+        "points": 18
+      },
+      {
+        "text": "We could both fit",
+        "aliases": [
+          "room for two"
         ],
         "points": 13
       },
       {
-        "text": "Popcorn",
-        "aliases": [],
+        "text": "I need bubbles",
+        "aliases": [
+          "bubble bath"
+        ],
         "points": 9
       },
       {
-        "text": "Juicy fruit",
+        "text": "Do not disturb me",
         "aliases": [
-          "peach"
+          "leave me alone"
         ],
         "points": 6
       }
@@ -2875,45 +3003,47 @@
   {
     "id": "travel-102",
     "category": "Travel & places",
-    "prompt": "Name something people carry on the roof of a car for a trip.",
+    "prompt": "Name something that makes you feel awkward asking your travel companion for money.",
     "answers": [
       {
-        "text": "Luggage box",
+        "text": "They paid last time",
         "aliases": [
-          "roof box"
+          "owe them already"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Bicycle",
+        "text": "They earn less",
         "aliases": [
-          "bike"
+          "different incomes"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Kayak",
+        "text": "It is a tiny amount",
         "aliases": [
-          "canoe"
+          "small debt"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Surfboard",
-        "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Skis",
+        "text": "You forgot the amount",
         "aliases": [
-          "ski equipment"
+          "lost track"
         ],
-        "points": 8
+        "points": 14
       },
       {
-        "text": "Rooftop tent",
+        "text": "They bought a gift",
         "aliases": [
-          "roof tent"
+          "gave you something"
+        ],
+        "points": 10
+      },
+      {
+        "text": "They are your date",
+        "aliases": [
+          "romantic partner"
         ],
         "points": 6
       }
@@ -2922,141 +3052,145 @@
   {
     "id": "travel-103",
     "category": "Travel & places",
-    "prompt": "Name something you might see when a car breaks down at the roadside.",
+    "prompt": "Name something a person brings on a romantic getaway that makes it feel less romantic.",
     "answers": [
       {
-        "text": "Raised hood",
+        "text": "Work laptop",
         "aliases": [
-          "open bonnet"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Flashing hazard lights",
-        "aliases": [
-          "hazards"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Warning triangle",
-        "aliases": [
-          "reflective triangle"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Tow truck",
-        "aliases": [
-          "recovery truck"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Spare tire",
-        "aliases": [
-          "spare wheel"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Driver making a phone call",
-        "aliases": [
-          "calling for help"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-104",
-    "category": "Travel & places",
-    "prompt": "Name something people clean off a car after a long drive.",
-    "answers": [
-      {
-        "text": "Dead bugs",
-        "aliases": [
-          "insects"
+          "laptop"
         ],
         "points": 35
       },
       {
-        "text": "Mud",
-        "aliases": [],
+        "text": "Their parents",
+        "aliases": [
+          "mom and dad"
+        ],
         "points": 25
       },
       {
-        "text": "Bird droppings",
+        "text": "Their children",
         "aliases": [
-          "bird mess"
+          "kids"
         ],
         "points": 16
       },
       {
-        "text": "Road salt",
+        "text": "A gaming console",
         "aliases": [
-          "salt residue"
+          "video games"
         ],
         "points": 11
       },
       {
-        "text": "Dust",
-        "aliases": [],
+        "text": "A detailed work schedule",
+        "aliases": [
+          "meetings"
+        ],
         "points": 8
       },
       {
-        "text": "Tree sap",
+        "text": "Dirty laundry",
         "aliases": [
-          "sticky sap"
+          "washing bag"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-105",
+    "id": "travel-104",
     "category": "Travel & places",
-    "prompt": "Name a car sound that might worry a driver.",
+    "prompt": "Name a reason your friend spends the whole trip searching for Wi-Fi.",
     "answers": [
       {
-        "text": "Rattle",
+        "text": "Posting photos",
         "aliases": [
-          "rattling"
+          "social media"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Brake squeal",
+        "text": "Working",
         "aliases": [
-          "squeaking brakes"
+          "work email"
         ],
         "points": 24
       },
       {
-        "text": "Grinding",
+        "text": "Calling home",
         "aliases": [
-          "metal grinding"
+          "video calls"
         ],
         "points": 18
       },
       {
-        "text": "Engine knocking",
+        "text": "Playing games",
         "aliases": [
-          "knocking"
+          "online games"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Checking directions",
+        "aliases": [
+          "maps"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Streaming shows",
+        "aliases": [
+          "watching videos"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-105",
+    "category": "Travel & places",
+    "prompt": "Name something people do at the end of a vacation that feels like saying goodbye.",
+    "answers": [
+      {
+        "text": "Take a final photo",
+        "aliases": [
+          "last picture"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Watch one last sunset",
+        "aliases": [
+          "sunset"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Have a favorite meal again",
+        "aliases": [
+          "last dinner"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Thank the staff",
+        "aliases": [
+          "say thanks"
         ],
         "points": 13
       },
       {
-        "text": "Tire flapping",
+        "text": "Promise to come back",
         "aliases": [
-          "flat tire sound"
+          "return someday"
         ],
         "points": 9
       },
       {
-        "text": "Hissing",
+        "text": "Buy one last souvenir",
         "aliases": [
-          "air leak"
+          "keepsake"
         ],
         "points": 6
       }
@@ -3065,47 +3199,47 @@
   {
     "id": "travel-106",
     "category": "Travel & places",
-    "prompt": "Name something a GPS does that frustrates drivers.",
+    "prompt": "Name something you would hate to find in your hotel bed.",
     "answers": [
       {
-        "text": "Gives a wrong turn",
+        "text": "Bedbugs",
         "aliases": [
-          "wrong directions"
+          "insects"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Keeps rerouting",
+        "text": "Someone else's hair",
         "aliases": [
-          "recalculating"
+          "hair"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Loses its signal",
+        "text": "Dirty sheets",
         "aliases": [
-          "no gps signal"
+          "stains"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Gives instructions too late",
+        "text": "A stranger",
         "aliases": [
-          "late directions"
+          "another person"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Repeats warnings",
+        "text": "Crumbs",
         "aliases": [
-          "constant alerts"
+          "food"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Interrupts music",
+        "text": "Wet patches",
         "aliases": [
-          "talks over a song"
+          "wet bedding"
         ],
         "points": 6
       }
@@ -3114,143 +3248,145 @@
   {
     "id": "travel-107",
     "category": "Travel & places",
-    "prompt": "Name something a front-seat passenger might pass to the back seat.",
+    "prompt": "Name something people suddenly become very particular about when sharing a room.",
     "answers": [
       {
-        "text": "Snack",
+        "text": "Room temperature",
         "aliases": [
-          "food"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Drink",
-        "aliases": [
-          "water bottle"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Wet wipe",
-        "aliases": [
-          "wipe"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Toy",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Charging cable",
-        "aliases": [
-          "phone charger"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Tissue",
-        "aliases": [
-          "kleenex"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-108",
-    "category": "Travel & places",
-    "prompt": "Name something a taxi driver might ask a passenger.",
-    "answers": [
-      {
-        "text": "Destination",
-        "aliases": [
-          "where to go"
+          "thermostat"
         ],
         "points": 35
       },
       {
-        "text": "Preferred route",
+        "text": "Lights",
         "aliases": [
-          "which way"
+          "darkness"
         ],
         "points": 25
       },
       {
-        "text": "Payment method",
+        "text": "Noise",
         "aliases": [
-          "cash or card"
+          "quiet"
         ],
         "points": 16
       },
       {
-        "text": "Whether they need a receipt",
+        "text": "Bedtime",
         "aliases": [
-          "receipt wanted"
+          "sleep schedule"
         ],
         "points": 11
       },
       {
-        "text": "Whether they have bags",
+        "text": "Cleanliness",
         "aliases": [
-          "luggage"
+          "tidiness"
         ],
         "points": 8
       },
       {
-        "text": "Whether the temperature is comfortable",
+        "text": "Bathroom privacy",
         "aliases": [
-          "air conditioning setting"
+          "privacy"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-109",
+    "id": "travel-108",
     "category": "Travel & places",
-    "prompt": "Name something people check to identify their booked rideshare car.",
+    "prompt": "Name something people bring on vacation to prove they will be productive.",
     "answers": [
       {
-        "text": "License plate",
+        "text": "Work laptop",
         "aliases": [
-          "registration number"
+          "computer"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Driver's name",
+        "text": "Running shoes",
         "aliases": [
-          "driver name"
+          "trainers"
         ],
         "points": 24
       },
       {
-        "text": "Car make",
+        "text": "A stack of books",
         "aliases": [
-          "vehicle brand"
+          "reading list"
         ],
         "points": 18
       },
       {
-        "text": "Car color",
+        "text": "A notebook",
         "aliases": [
-          "vehicle colour"
+          "journal"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Study materials",
+        "aliases": [
+          "textbooks"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Exercise equipment",
+        "aliases": [
+          "resistance bands"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-109",
+    "category": "Travel & places",
+    "prompt": "Name a reason someone chooses a staycation over going away.",
+    "answers": [
+      {
+        "text": "Save money",
+        "aliases": [
+          "cheaper"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Avoid travel stress",
+        "aliases": [
+          "less hassle"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Enjoy their own bed",
+        "aliases": [
+          "sleep at home"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Care for a pet",
+        "aliases": [
+          "pets"
         ],
         "points": 13
       },
       {
-        "text": "Driver's photo",
+        "text": "Limited time off",
         "aliases": [
-          "profile picture"
+          "short break"
         ],
         "points": 9
       },
       {
-        "text": "Car model",
+        "text": "Explore their own area",
         "aliases": [
-          "vehicle model"
+          "local attractions"
         ],
         "points": 6
       }
@@ -3259,47 +3395,47 @@
   {
     "id": "travel-110",
     "category": "Travel & places",
-    "prompt": "Name something you might see mounted inside a taxi.",
+    "prompt": "Name something that turns a vacation group chat into chaos.",
     "answers": [
       {
-        "text": "Fare meter",
+        "text": "Too many suggestions",
         "aliases": [
-          "taximeter"
+          "different plans"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Navigation screen",
+        "text": "Nobody commits",
         "aliases": [
-          "satnav"
+          "no decisions"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Driver's phone",
+        "text": "Prices keep changing",
         "aliases": [
-          "mobile phone"
+          "budget"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Two-way radio",
+        "text": "Memes bury the plans",
         "aliases": [
-          "dispatch radio"
+          "too many jokes"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Driver identification",
+        "text": "Someone adds extra people",
         "aliases": [
-          "taxi license card"
+          "new guests"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Dash camera",
+        "text": "People reply days late",
         "aliases": [
-          "dashcam"
+          "slow replies"
         ],
         "points": 6
       }
@@ -3308,141 +3444,145 @@
   {
     "id": "travel-111",
     "category": "Travel & places",
-    "prompt": "Name something that might add to the price of a taxi ride.",
+    "prompt": "Name something people do when they cannot sleep and everyone else in the hotel room can.",
     "answers": [
       {
-        "text": "Airport pickup fee",
+        "text": "Scroll on their phone",
         "aliases": [
-          "airport surcharge"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Road toll",
-        "aliases": [
-          "toll charge"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Waiting time",
-        "aliases": [
-          "waiting charge"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Extra stop",
-        "aliases": [
-          "additional stop"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Large luggage fee",
-        "aliases": [
-          "baggage charge"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Late-night surcharge",
-        "aliases": [
-          "night rate"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-112",
-    "category": "Travel & places",
-    "prompt": "Name a reason someone might book a larger taxi.",
-    "answers": [
-      {
-        "text": "Traveling in a group",
-        "aliases": [
-          "many passengers"
+          "use phone"
         ],
         "points": 35
       },
       {
-        "text": "Lots of luggage",
+        "text": "Read",
         "aliases": [
-          "many suitcases"
+          "read a book"
         ],
         "points": 25
       },
       {
-        "text": "Wheelchair access",
+        "text": "Watch television quietly",
         "aliases": [
-          "wheelchair space"
+          "tv"
         ],
         "points": 16
       },
       {
-        "text": "Baby stroller",
+        "text": "Go for a walk",
         "aliases": [
-          "pushchair"
+          "leave room"
         ],
         "points": 11
       },
       {
-        "text": "Large pet",
+        "text": "Listen to headphones",
         "aliases": [
-          "big dog"
+          "music"
         ],
         "points": 8
       },
       {
-        "text": "Bulky sports equipment",
+        "text": "Count sheep",
         "aliases": [
-          "golf clubs"
+          "try to relax"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-113",
+    "id": "travel-112",
     "category": "Travel & places",
-    "prompt": "Name a subject a passenger might chat about with a taxi driver.",
+    "prompt": "Name something a parent worries about while their grown child is on vacation.",
     "answers": [
       {
-        "text": "Weather",
-        "aliases": [],
-        "points": 30
+        "text": "Safety",
+        "aliases": [
+          "getting hurt"
+        ],
+        "points": 32
       },
       {
-        "text": "Traffic",
-        "aliases": [],
+        "text": "Money",
+        "aliases": [
+          "running out of money"
+        ],
         "points": 24
       },
       {
-        "text": "Local attractions",
+        "text": "Bad company",
         "aliases": [
-          "places to visit"
+          "who they are with"
         ],
         "points": 18
       },
       {
-        "text": "The driver's day",
+        "text": "Getting lost",
         "aliases": [
-          "how work is going"
+          "lost"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Not answering the phone",
+        "aliases": [
+          "no contact"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Missing the return trip",
+        "aliases": [
+          "not getting home"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-113",
+    "category": "Travel & places",
+    "prompt": "Name something that makes a vacation friendship stronger.",
+    "answers": [
+      {
+        "text": "Surviving a mishap together",
+        "aliases": [
+          "solving a problem"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Sharing a room happily",
+        "aliases": [
+          "good roommate"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Trying something new together",
+        "aliases": [
+          "new experience"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Long honest conversations",
+        "aliases": [
+          "deep talks"
         ],
         "points": 13
       },
       {
-        "text": "Sports",
+        "text": "Making each other laugh",
         "aliases": [
-          "football"
+          "inside jokes"
         ],
         "points": 9
       },
       {
-        "text": "Their vacation",
+        "text": "Helping when someone is sick",
         "aliases": [
-          "holiday plans"
+          "caring for friend"
         ],
         "points": 6
       }
@@ -3451,47 +3591,47 @@
   {
     "id": "travel-114",
     "category": "Travel & places",
-    "prompt": "Name something that might travel on a vehicle ferry.",
+    "prompt": "Name something people say when a friend suggests extending the vacation.",
     "answers": [
       {
-        "text": "Car",
+        "text": "I have work",
         "aliases": [
-          "automobile"
+          "job"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Truck",
+        "text": "I cannot afford it",
         "aliases": [
-          "lorry"
+          "no money"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Bus",
+        "text": "Absolutely",
         "aliases": [
-          "coach"
+          "yes"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Bicycle",
+        "text": "Who will watch the pet",
         "aliases": [
-          "bike"
+          "pet care"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Motorcycle",
+        "text": "We need clean clothes",
         "aliases": [
-          "motorbike"
+          "laundry"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Pedestrian",
+        "text": "Let me change the booking",
         "aliases": [
-          "foot passenger"
+          "rebook"
         ],
         "points": 6
       }
@@ -3500,141 +3640,145 @@
   {
     "id": "travel-115",
     "category": "Travel & places",
-    "prompt": "Name something that could blow away on an open ferry deck.",
+    "prompt": "Name something people suddenly miss when vacationing somewhere remote.",
     "answers": [
       {
-        "text": "Hat",
+        "text": "Internet",
         "aliases": [
-          "cap"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Paper ticket",
-        "aliases": [
-          "boarding ticket"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Scarf",
-        "aliases": [],
-        "points": 19
-      },
-      {
-        "text": "Napkin",
-        "aliases": [
-          "serviette"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Newspaper",
-        "aliases": [
-          "paper"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Empty shopping bag",
-        "aliases": [
-          "lightweight bag"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-116",
-    "category": "Travel & places",
-    "prompt": "Name something you might see on a ferry deck.",
-    "answers": [
-      {
-        "text": "Life ring",
-        "aliases": [
-          "lifebuoy"
+          "wifi"
         ],
         "points": 35
       },
       {
-        "text": "Bench",
+        "text": "Favorite food",
         "aliases": [
-          "seat"
+          "usual food"
         ],
         "points": 25
       },
       {
-        "text": "Safety railing",
+        "text": "A comfortable bed",
         "aliases": [
-          "guardrail"
+          "own bed"
         ],
         "points": 16
       },
       {
-        "text": "Flag",
-        "aliases": [],
+        "text": "Hot showers",
+        "aliases": [
+          "hot water"
+        ],
         "points": 11
       },
       {
-        "text": "Lifeboat",
+        "text": "Nearby shops",
         "aliases": [
-          "rescue boat"
+          "stores"
         ],
         "points": 8
       },
       {
-        "text": "Coiled rope",
+        "text": "Their friends",
         "aliases": [
-          "mooring rope"
+          "people at home"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-117",
+    "id": "travel-116",
     "category": "Travel & places",
-    "prompt": "Name a reason a ferry passenger might stay inside the cabin.",
+    "prompt": "Name something a person might do after discovering a celebrity is staying at their hotel.",
     "answers": [
       {
-        "text": "Bad weather",
+        "text": "Take a photo",
         "aliases": [
-          "rain"
+          "snap a picture"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Seasickness",
+        "text": "Tell their friends",
         "aliases": [
-          "feeling sick"
+          "call a friend"
         ],
         "points": 24
       },
       {
-        "text": "Wanting a meal",
+        "text": "Wait in the lobby",
         "aliases": [
-          "getting food"
+          "hang around reception"
         ],
         "points": 18
       },
       {
-        "text": "Needing a nap",
+        "text": "Ask the staff about them",
         "aliases": [
-          "sleeping"
+          "ask reception"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Pretend not to care",
+        "aliases": [
+          "act casual"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Dress up",
+        "aliases": [
+          "fix their appearance"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-117",
+    "category": "Travel & places",
+    "prompt": "Name something a friend does that makes them the best person to get lost with.",
+    "answers": [
+      {
+        "text": "Stays calm",
+        "aliases": [
+          "does not panic"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Makes you laugh",
+        "aliases": [
+          "jokes"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Asks for directions",
+        "aliases": [
+          "talks to locals"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Has snacks",
+        "aliases": [
+          "food"
         ],
         "points": 13
       },
       {
-        "text": "Looking after a baby",
+        "text": "Reads a map well",
         "aliases": [
-          "caring for an infant"
+          "navigation"
         ],
         "points": 9
       },
       {
-        "text": "Preferring a soft seat",
+        "text": "Treats it as an adventure",
         "aliases": [
-          "comfortable seating"
+          "positive attitude"
         ],
         "points": 6
       }
@@ -3643,47 +3787,47 @@
   {
     "id": "travel-118",
     "category": "Travel & places",
-    "prompt": "Name something ferry crew members do when arriving at a dock.",
+    "prompt": "Name something that would make you climb straight back out of a hotel hot tub.",
     "answers": [
       {
-        "text": "Tie mooring ropes",
+        "text": "Dirty water",
         "aliases": [
-          "secure ropes"
+          "murky water"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Lower the vehicle ramp",
+        "text": "Too hot",
         "aliases": [
-          "open ramp"
+          "burning water"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Direct cars",
+        "text": "A stranger gets too close",
         "aliases": [
-          "guide vehicles"
+          "crowded by stranger"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Help foot passengers",
+        "text": "Something floating",
         "aliases": [
-          "assist pedestrians"
+          "floating debris"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Announce arrival",
+        "text": "A bad smell",
         "aliases": [
-          "arrival announcement"
+          "chlorine smell"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Release vehicle restraints",
+        "text": "Someone pees in it",
         "aliases": [
-          "unfasten lashings"
+          "pee in the water"
         ],
         "points": 6
       }
@@ -3692,143 +3836,145 @@
   {
     "id": "travel-119",
     "category": "Travel & places",
-    "prompt": "Name a sign that a ferry is leaving the dock.",
+    "prompt": "Name something you might blame for being grumpy on the last day of vacation.",
     "answers": [
       {
-        "text": "Horn sounds",
+        "text": "Lack of sleep",
         "aliases": [
-          "ship horn"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Ramp is raised",
-        "aliases": [
-          "ramp closes"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Ropes are released",
-        "aliases": [
-          "untied ropes"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Engines start",
-        "aliases": [
-          "motor starts"
-        ],
-        "points": 14
-      },
-      {
-        "text": "People wave goodbye",
-        "aliases": [
-          "waving"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Shore moves farther away",
-        "aliases": [
-          "dock recedes"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-120",
-    "category": "Travel & places",
-    "prompt": "Name something a driver might see at a border crossing.",
-    "answers": [
-      {
-        "text": "Inspection booth",
-        "aliases": [
-          "customs booth"
+          "tired"
         ],
         "points": 35
       },
       {
-        "text": "Barrier",
+        "text": "Having to leave",
         "aliases": [
-          "gate"
+          "trip ending"
         ],
         "points": 25
       },
       {
-        "text": "Country flags",
+        "text": "Packing",
         "aliases": [
-          "national flags"
+          "packing suitcase"
         ],
         "points": 16
       },
       {
-        "text": "Border officer",
+        "text": "Work tomorrow",
         "aliases": [
-          "customs officer"
+          "back to work"
         ],
         "points": 11
       },
       {
-        "text": "Vehicle queue",
+        "text": "Running out of money",
         "aliases": [
-          "line of cars"
+          "broke"
         ],
         "points": 8
       },
       {
-        "text": "Security camera",
+        "text": "A hangover",
         "aliases": [
-          "surveillance camera"
+          "hungover"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-121",
+    "id": "travel-120",
     "category": "Travel & places",
-    "prompt": "Name something people might do after spotting a celebrity at an airport.",
+    "prompt": "Name something you wish a travel companion would ask before doing.",
     "answers": [
       {
-        "text": "Ask for an autograph",
+        "text": "Changing the plans",
         "aliases": [
-          "get a signature"
+          "schedule changes"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Take a selfie",
+        "text": "Borrowing your clothes",
         "aliases": [
-          "ask for a photo"
+          "using your things"
         ],
         "points": 24
       },
       {
-        "text": "Whisper to a friend",
+        "text": "Inviting someone along",
         "aliases": [
-          "point them out quietly"
+          "extra guest"
         ],
         "points": 18
       },
       {
-        "text": "Follow them",
+        "text": "Posting your photo",
         "aliases": [
-          "walk after them"
+          "social media photo"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Spending shared money",
+        "aliases": [
+          "using group funds"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Waking you up",
+        "aliases": [
+          "early alarm"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-121",
+    "category": "Travel & places",
+    "prompt": "Name something people worry housekeeping will accidentally throw away.",
+    "answers": [
+      {
+        "text": "A receipt",
+        "aliases": [
+          "receipts"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Medication",
+        "aliases": [
+          "medicine"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A souvenir",
+        "aliases": [
+          "keepsake"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Food they were saving",
+        "aliases": [
+          "leftovers"
         ],
         "points": 13
       },
       {
-        "text": "Wave",
-        "aliases": [],
+        "text": "Contact lenses",
+        "aliases": [
+          "contacts"
+        ],
         "points": 9
       },
       {
-        "text": "Call someone",
+        "text": "Travel documents",
         "aliases": [
-          "phone a friend"
+          "tickets"
         ],
         "points": 6
       }
@@ -3837,45 +3983,47 @@
   {
     "id": "travel-122",
     "category": "Travel & places",
-    "prompt": "Name something that can go wrong when picking someone up at an airport.",
+    "prompt": "Name something people do to make a cheap vacation feel luxurious.",
     "answers": [
       {
-        "text": "Wrong terminal",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Wrong level",
+        "text": "Dress up for dinner",
         "aliases": [
-          "arrivals versus departures"
+          "fancy outfit"
         ],
-        "points": 24
+        "points": 28
       },
       {
-        "text": "Wrong pickup door",
+        "text": "Buy nice drinks",
         "aliases": [
-          "wrong exit"
+          "champagne"
         ],
-        "points": 18
+        "points": 23
       },
       {
-        "text": "Mistaking another car",
+        "text": "Have breakfast in bed",
         "aliases": [
-          "wrong car"
+          "food in bed"
         ],
-        "points": 12
+        "points": 19
       },
       {
-        "text": "Nowhere to stop",
+        "text": "Book one spa treatment",
         "aliases": [
-          "no parking"
+          "massage"
         ],
-        "points": 8
+        "points": 14
       },
       {
-        "text": "Passenger's phone battery dies",
+        "text": "Upgrade one night",
         "aliases": [
-          "cannot contact passenger"
+          "better room"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Take glamorous photos",
+        "aliases": [
+          "fancy pictures"
         ],
         "points": 6
       }
@@ -3884,139 +4032,145 @@
   {
     "id": "travel-123",
     "category": "Travel & places",
-    "prompt": "Name a reason a rideshare passenger might leave a poor rating.",
+    "prompt": "Name something people say they will remember from a trip but quickly forget.",
     "answers": [
       {
-        "text": "Rude driver",
+        "text": "People's names",
         "aliases": [
-          "unfriendly driver"
+          "names"
         ],
-        "points": 28
-      },
-      {
-        "text": "Dirty car",
-        "aliases": [
-          "messy vehicle"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Late pickup",
-        "aliases": [
-          "driver late"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Unsafe driving",
-        "aliases": [
-          "reckless driving"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Wrong route",
-        "aliases": [
-          "unnecessary detour"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Loud music",
-        "aliases": [
-          "radio too loud"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-124",
-    "category": "Travel & places",
-    "prompt": "Name a job someone might do aboard a large cruise ship.",
-    "answers": [
-      {
-        "text": "Captain",
-        "aliases": [],
         "points": 35
       },
       {
-        "text": "Cabin steward",
+        "text": "Street names",
         "aliases": [
-          "room attendant"
+          "roads"
         ],
         "points": 25
       },
       {
-        "text": "Waiter",
+        "text": "A phrase in another language",
         "aliases": [
-          "dining server"
+          "foreign words"
         ],
         "points": 16
       },
       {
-        "text": "Entertainer",
+        "text": "A recipe",
         "aliases": [
-          "performer"
+          "how food was made"
         ],
         "points": 11
       },
       {
-        "text": "Engineer",
+        "text": "The hotel room number",
         "aliases": [
-          "ship mechanic"
+          "room number"
         ],
         "points": 8
       },
       {
-        "text": "Lifeguard",
+        "text": "What a landmark was called",
         "aliases": [
-          "pool attendant"
+          "place names"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-125",
+    "id": "travel-124",
     "category": "Travel & places",
-    "prompt": "Name something that could interrupt sleep on an overnight journey.",
+    "prompt": "Name a reason a group vacation needs one person to be the responsible adult.",
     "answers": [
       {
-        "text": "Snoring",
-        "aliases": [],
-        "points": 30
+        "text": "Nobody watches the budget",
+        "aliases": [
+          "money"
+        ],
+        "points": 32
       },
       {
-        "text": "Loud announcement",
+        "text": "Everyone loses things",
         "aliases": [
-          "public address"
+          "lost belongings"
         ],
         "points": 24
       },
       {
-        "text": "Bright lights",
+        "text": "People drink too much",
         "aliases": [
-          "lights turning on"
+          "drunk"
         ],
         "points": 18
       },
       {
-        "text": "Bumps",
+        "text": "Nobody keeps track of time",
         "aliases": [
-          "jolts"
+          "late"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Nobody reads the booking details",
+        "aliases": [
+          "reservations"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Arguments need settling",
+        "aliases": [
+          "fighting"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-125",
+    "category": "Travel & places",
+    "prompt": "Name something a hotel guest might wear when answering an unexpected knock.",
+    "answers": [
+      {
+        "text": "Pajamas",
+        "aliases": [
+          "sleepwear"
+        ],
+        "points": 30
+      },
+      {
+        "text": "A bathrobe",
+        "aliases": [
+          "robe"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A towel",
+        "aliases": [
+          "bath towel"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Underwear",
+        "aliases": [
+          "underpants"
         ],
         "points": 13
       },
       {
-        "text": "Crying baby",
-        "aliases": [],
+        "text": "Regular clothes",
+        "aliases": [
+          "street clothes"
+        ],
         "points": 9
       },
       {
-        "text": "Seatmate moving",
+        "text": "Nothing",
         "aliases": [
-          "neighbor getting up"
+          "naked"
         ],
         "points": 6
       }
@@ -4025,45 +4179,47 @@
   {
     "id": "travel-126",
     "category": "Travel & places",
-    "prompt": "Name something a passenger might leave behind in a taxi.",
+    "prompt": "Name something that makes you think your vacation has officially started.",
     "answers": [
       {
-        "text": "Phone",
+        "text": "Turning off work notifications",
         "aliases": [
-          "mobile"
+          "out of office"
         ],
-        "points": 32
+        "points": 28
       },
       {
-        "text": "Wallet",
+        "text": "Checking into the hotel",
         "aliases": [
-          "purse"
+          "getting room key"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Umbrella",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Sunglasses",
+        "text": "Changing into comfy clothes",
         "aliases": [
-          "shades"
+          "holiday clothes"
         ],
-        "points": 12
+        "points": 19
       },
       {
-        "text": "Keys",
+        "text": "Ordering a special drink",
         "aliases": [
-          "keyring"
+          "vacation drink"
         ],
-        "points": 8
+        "points": 14
       },
       {
-        "text": "Shopping bag",
+        "text": "Seeing a beautiful view",
         "aliases": [
-          "purchases"
+          "scenery"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Sleeping past the alarm",
+        "aliases": [
+          "sleeping in"
         ],
         "points": 6
       }
@@ -4072,141 +4228,145 @@
   {
     "id": "travel-127",
     "category": "Travel & places",
-    "prompt": "Name a safety warning you might hear at a train station.",
+    "prompt": "Name something a family might turn into a vacation tradition.",
     "answers": [
       {
-        "text": "Stand behind the line",
+        "text": "A photo in the same spot",
         "aliases": [
-          "keep back from edge"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Mind the gap",
-        "aliases": [
-          "watch the gap"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Watch your belongings",
-        "aliases": [
-          "guard your bags"
-        ],
-        "points": 19
-      },
-      {
-        "text": "No smoking",
-        "aliases": [],
-        "points": 14
-      },
-      {
-        "text": "Keep exits clear",
-        "aliases": [
-          "do not block doors"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Do not cross the tracks",
-        "aliases": [
-          "stay off tracks"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "travel-128",
-    "category": "Travel & places",
-    "prompt": "Name something an airport ground worker might wear or carry.",
-    "answers": [
-      {
-        "text": "Reflective vest",
-        "aliases": [
-          "high visibility vest"
+          "annual picture"
         ],
         "points": 35
       },
       {
-        "text": "Uniform",
-        "aliases": [],
+        "text": "Eating at a favorite restaurant",
+        "aliases": [
+          "same meal"
+        ],
         "points": 25
       },
       {
-        "text": "ID lanyard",
+        "text": "Buying a matching souvenir",
         "aliases": [
-          "identification badge"
+          "keepsake"
         ],
         "points": 16
       },
       {
-        "text": "Ear protection",
+        "text": "Playing a particular game",
         "aliases": [
-          "ear defenders"
+          "family game"
         ],
         "points": 11
       },
       {
-        "text": "Work gloves",
+        "text": "Watching the sunset",
         "aliases": [
-          "protective gloves"
+          "sunset ritual"
         ],
         "points": 8
       },
       {
-        "text": "Radio",
+        "text": "Having a silly competition",
         "aliases": [
-          "walkie talkie"
+          "family contest"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "travel-129",
+    "id": "travel-128",
     "category": "Travel & places",
-    "prompt": "Name something a front-seat passenger does to help the driver.",
+    "prompt": "Name a reason you would pay extra for late checkout.",
     "answers": [
       {
-        "text": "Read directions",
+        "text": "Want to sleep in",
         "aliases": [
-          "navigate"
+          "more sleep"
         ],
-        "points": 30
+        "points": 32
       },
       {
-        "text": "Adjust the music",
+        "text": "Leave town late",
         "aliases": [
-          "change radio"
+          "late departure"
         ],
         "points": 24
       },
       {
-        "text": "Pass food or drinks",
+        "text": "Need a shower",
         "aliases": [
-          "hand over snacks"
+          "freshen up"
         ],
         "points": 18
       },
       {
-        "text": "Watch for road signs",
+        "text": "Want one more swim",
         "aliases": [
-          "spot signs"
+          "pool time"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Someone feels sick",
+        "aliases": [
+          "illness"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Need time to pack",
+        "aliases": [
+          "packing"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-129",
+    "category": "Travel & places",
+    "prompt": "Name something you might say when a friend has already planned your next vacation before this one ends.",
+    "answers": [
+      {
+        "text": "Let me recover first",
+        "aliases": [
+          "need a break"
+        ],
+        "points": 30
+      },
+      {
+        "text": "I need more money",
+        "aliases": [
+          "cannot afford it"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Count me in",
+        "aliases": [
+          "yes"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Can we go somewhere different",
+        "aliases": [
+          "new destination"
         ],
         "points": 13
       },
       {
-        "text": "Entertain the children",
+        "text": "Please pick better dates",
         "aliases": [
-          "keep kids busy"
+          "dates"
         ],
         "points": 9
       },
       {
-        "text": "Answer the driver's phone",
+        "text": "You plan too much",
         "aliases": [
-          "take calls"
+          "slow down"
         ],
         "points": 6
       }
@@ -4215,43 +4375,47 @@
   {
     "id": "travel-130",
     "category": "Travel & places",
-    "prompt": "Name a place a shuttle bus might take people.",
+    "prompt": "Name something people miss about vacation on their first day back at work.",
     "answers": [
       {
-        "text": "Airport",
-        "aliases": [],
-        "points": 32
-      },
-      {
-        "text": "Hotel",
-        "aliases": [],
-        "points": 24
-      },
-      {
-        "text": "Parking lot",
+        "text": "Sleeping in",
         "aliases": [
-          "car park"
+          "late mornings"
         ],
-        "points": 18
+        "points": 28
       },
       {
-        "text": "Theme park",
+        "text": "Relaxing",
         "aliases": [
-          "amusement park"
+          "no stress"
         ],
-        "points": 12
+        "points": 23
       },
       {
-        "text": "Ski resort",
+        "text": "Good food",
         "aliases": [
-          "ski slopes"
+          "holiday food"
         ],
-        "points": 8
+        "points": 19
       },
       {
-        "text": "Convention center",
+        "text": "Warm weather",
         "aliases": [
-          "conference venue"
+          "sunshine"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Being with friends",
+        "aliases": [
+          "travel companions"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Ignoring email",
+        "aliases": [
+          "no work messages"
         ],
         "points": 6
       }

@@ -2,96 +2,96 @@
   {
     "id": "everyday-131",
     "category": "Everyday life",
-    "prompt": "Name something a teacher writes on the classroom board.",
+    "prompt": "Name something students do the second a teacher steps out of the room.",
     "answers": [
       {
-        "text": "Homework assignment",
+        "text": "Talk",
         "aliases": [
-          "homework"
+          "chat"
         ],
-        "points": 30
+        "points": 35
       },
       {
-        "text": "The date",
+        "text": "Check their phone",
         "aliases": [
-          "today's date"
+          "text"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Lesson title",
+        "text": "Throw paper",
         "aliases": [
-          "topic"
+          "paper airplane"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Math problem",
+        "text": "Swap seats",
         "aliases": [
-          "equation"
+          "change seats"
         ],
-        "points": 13
+        "points": 11
       },
       {
-        "text": "Spelling words",
+        "text": "Eat a snack",
         "aliases": [
-          "vocabulary words"
+          "eat"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "A reminder",
+        "text": "Copy homework",
         "aliases": [
-          "announcement"
+          "copy answers"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "everyday-132",
     "category": "Everyday life",
-    "prompt": "Name something displayed on a classroom wall.",
+    "prompt": "Name a moment when a student really hopes the teacher doesn't call their name.",
     "answers": [
       {
-        "text": "Map",
+        "text": "Didn't study",
         "aliases": [
-          "world map"
+          "unprepared"
         ],
-        "points": 32
+        "points": 30
       },
       {
-        "text": "Alphabet",
+        "text": "Was daydreaming",
         "aliases": [
-          "alphabet chart"
+          "not listening"
         ],
         "points": 24
       },
       {
-        "text": "Student artwork",
+        "text": "Was talking",
         "aliases": [
-          "children's drawings"
+          "chatting"
         ],
         "points": 18
       },
       {
-        "text": "Class rules",
+        "text": "Was asleep",
         "aliases": [
-          "classroom rules"
+          "sleeping"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Clock",
+        "text": "Forgot homework",
         "aliases": [
-          "wall clock"
+          "no homework"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Calendar",
+        "text": "Needs the bathroom",
         "aliases": [
-          "class calendar"
+          "needs to pee"
         ],
         "points": 6
       }
@@ -100,47 +100,47 @@
   {
     "id": "everyday-133",
     "category": "Everyday life",
-    "prompt": "Name a classroom job a teacher might give a student.",
+    "prompt": "Name something a kid secretly hopes will be interrupted by a fire drill.",
     "answers": [
       {
-        "text": "Erase the board",
+        "text": "A test",
         "aliases": [
-          "clean the board"
+          "exam"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Hand out papers",
+        "text": "A presentation",
         "aliases": [
-          "distribute worksheets"
+          "giving a speech"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Water plants",
+        "text": "Math class",
         "aliases": [
-          "water the class plant"
+          "maths"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Lead the line",
+        "text": "Detention",
         "aliases": [
-          "line leader"
+          "after school detention"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Collect homework",
+        "text": "Gym class",
         "aliases": [
-          "collect assignments"
+          "PE"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Tidy the books",
+        "text": "A boring assembly",
         "aliases": [
-          "straighten the bookshelf"
+          "school assembly"
         ],
         "points": 6
       }
@@ -149,96 +149,96 @@
   {
     "id": "everyday-134",
     "category": "Everyday life",
-    "prompt": "Name something that might interrupt a school lesson.",
+    "prompt": "Name a sign the teacher has officially run out of patience.",
     "answers": [
       {
-        "text": "Fire drill",
+        "text": "Raises their voice",
         "aliases": [
-          "fire alarm"
+          "shouts"
         ],
-        "points": 35
+        "points": 27
       },
       {
-        "text": "Loudspeaker announcement",
+        "text": "Goes completely silent",
         "aliases": [
-          "school announcement"
+          "stops talking"
         ],
-        "points": 25
+        "points": 23
       },
       {
-        "text": "Knock at the door",
+        "text": "Moves students apart",
         "aliases": [
-          "visitor"
+          "changes seats"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Ringing phone",
+        "text": "Hands out detention",
         "aliases": [
-          "phone call"
+          "detention"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Power outage",
+        "text": "Calls parents",
         "aliases": [
-          "power cut"
+          "phones parents"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "A student feeling ill",
+        "text": "Sends someone to the principal",
         "aliases": [
-          "sick student"
+          "headteacher"
         ],
-        "points": 5
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-135",
     "category": "Everyday life",
-    "prompt": "Name a reason a teacher calls a student to the front of the class.",
+    "prompt": "Name an excuse a bored student uses to leave the classroom.",
     "answers": [
       {
-        "text": "Solve a problem on the board",
+        "text": "Use the bathroom",
         "aliases": [
-          "work out an equation"
+          "toilet"
         ],
-        "points": 30
+        "points": 31
       },
       {
-        "text": "Read aloud",
+        "text": "Visit the nurse",
         "aliases": [
-          "read to the class"
+          "feel sick"
         ],
         "points": 24
       },
       {
-        "text": "Present a project",
+        "text": "Get water",
         "aliases": [
-          "give a presentation"
+          "drink"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Receive an award",
+        "text": "Go to the office",
         "aliases": [
-          "collect a certificate"
+          "principal's office"
         ],
         "points": 13
       },
       {
-        "text": "Demonstrate an activity",
+        "text": "Get something from their locker",
         "aliases": [
-          "show the class how"
+          "locker"
         ],
         "points": 9
       },
       {
-        "text": "Erase the board",
+        "text": "Take a parent's call",
         "aliases": [
-          "clean the board"
+          "mom called"
         ],
         "points": 6
       }
@@ -247,96 +247,96 @@
   {
     "id": "everyday-136",
     "category": "Everyday life",
-    "prompt": "Name something that often ends up in a school's lost-and-found box.",
+    "prompt": "Name something a student frantically searches for right before a test starts.",
     "answers": [
       {
-        "text": "Jacket",
+        "text": "Pencil",
         "aliases": [
-          "coat"
+          "pen"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Lunchbox",
+        "text": "Calculator",
         "aliases": [
-          "lunch bag"
+          "calculators"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Water bottle",
+        "text": "Notes",
         "aliases": [
-          "drink bottle"
+          "study guide"
         ],
-        "points": 18
-      },
-      {
-        "text": "Hat",
-        "aliases": [
-          "cap"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Pencil case",
-        "aliases": [
-          "pencil pouch"
-        ],
-        "points": 8
+        "points": 16
       },
       {
         "text": "Glasses",
         "aliases": [
-          "eyeglasses"
+          "spectacles"
         ],
-        "points": 6
+        "points": 11
+      },
+      {
+        "text": "Eraser",
+        "aliases": [
+          "rubber"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Lucky charm",
+        "aliases": [
+          "good luck charm"
+        ],
+        "points": 5
       }
     ]
   },
   {
     "id": "everyday-137",
     "category": "Everyday life",
-    "prompt": "Name a noisy place at a school.",
+    "prompt": "Name an announcement from a teacher that makes the whole class groan.",
     "answers": [
       {
-        "text": "Cafeteria",
+        "text": "Pop quiz",
         "aliases": [
-          "lunchroom"
+          "surprise test"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Playground",
+        "text": "More homework",
         "aliases": [
-          "schoolyard"
+          "homework"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Gym",
+        "text": "Assigned partners",
         "aliases": [
-          "gymnasium"
+          "assigned groups"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Hallway",
+        "text": "Phones away",
         "aliases": [
-          "corridor"
+          "no phones"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "School bus",
+        "text": "Stay after the bell",
         "aliases": [
-          "bus"
+          "stay late"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Music room",
+        "text": "Give a presentation",
         "aliases": [
-          "band room"
+          "class presentation"
         ],
         "points": 6
       }
@@ -345,145 +345,145 @@
   {
     "id": "everyday-138",
     "category": "Everyday life",
-    "prompt": "Name an activity children do during indoor recess.",
+    "prompt": "Name a seat in a classroom that students fight to get.",
     "answers": [
       {
-        "text": "Play board games",
+        "text": "Next to a friend",
         "aliases": [
-          "board games"
+          "beside friends"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Draw pictures",
+        "text": "Back row",
         "aliases": [
-          "drawing"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Read books",
-        "aliases": [
-          "reading"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Do puzzles",
-        "aliases": [
-          "puzzles"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Watch a video",
-        "aliases": [
-          "watch a movie"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Do classroom exercises",
-        "aliases": [
-          "indoor exercise"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "everyday-139",
-    "category": "Everyday life",
-    "prompt": "Name a reward a teacher might give for good work.",
-    "answers": [
-      {
-        "text": "Sticker",
-        "aliases": [
-          "gold star"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Praise",
-        "aliases": [
-          "compliment"
+          "at the back"
         ],
         "points": 24
       },
       {
-        "text": "Certificate",
+        "text": "By the window",
         "aliases": [
-          "award certificate"
+          "window seat"
         ],
         "points": 18
       },
       {
-        "text": "Extra playtime",
+        "text": "Near the door",
         "aliases": [
-          "extra recess"
+          "by the exit"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Class points",
+        "text": "Near a power outlet",
         "aliases": [
-          "merit points"
+          "by a socket"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Small toy",
+        "text": "Front row",
         "aliases": [
-          "toy prize"
+          "at the front"
         ],
         "points": 6
       }
     ]
   },
   {
+    "id": "everyday-139",
+    "category": "Everyday life",
+    "prompt": "Name a clue that someone is trying to copy your test.",
+    "answers": [
+      {
+        "text": "Keeps looking sideways",
+        "aliases": [
+          "glancing at my paper"
+        ],
+        "points": 27
+      },
+      {
+        "text": "Leans toward your desk",
+        "aliases": [
+          "leaning over"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Whispers for an answer",
+        "aliases": [
+          "asks answers"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Has the same wrong answers",
+        "aliases": [
+          "identical mistakes"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Moves their paper beside yours",
+        "aliases": [
+          "slides paper over"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Signals for help",
+        "aliases": [
+          "hand signals"
+        ],
+        "points": 7
+      }
+    ]
+  },
+  {
     "id": "everyday-140",
     "category": "Everyday life",
-    "prompt": "Name a reason a student might turn in homework late.",
+    "prompt": "Name an excuse a student gives for doing absolutely no homework all weekend.",
     "answers": [
       {
         "text": "Forgot about it",
         "aliases": [
-          "forgot homework"
+          "forgot"
         ],
-        "points": 32
+        "points": 31
       },
       {
-        "text": "Internet stopped working",
+        "text": "Didn't understand it",
         "aliases": [
-          "no internet"
+          "confused"
         ],
         "points": 24
       },
       {
-        "text": "Did not understand it",
+        "text": "Internet went down",
         "aliases": [
-          "confusing assignment"
+          "no wifi"
         ],
-        "points": 18
+        "points": 17
       },
       {
         "text": "Was sick",
         "aliases": [
-          "illness"
+          "ill"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Lost the worksheet",
+        "text": "Printer wouldn't work",
         "aliases": [
-          "lost homework"
+          "broken printer"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Ran out of time",
+        "text": "Had family plans",
         "aliases": [
-          "too busy"
+          "family emergency"
         ],
         "points": 6
       }
@@ -492,145 +492,145 @@
   {
     "id": "everyday-141",
     "category": "Everyday life",
-    "prompt": "Name something students do to prepare for a test.",
+    "prompt": "Name something a student does after realizing a big project is due tomorrow.",
     "answers": [
       {
-        "text": "Review notes",
+        "text": "Searches online",
         "aliases": [
-          "read notes"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Do practice questions",
-        "aliases": [
-          "practice test"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Use flashcards",
-        "aliases": [
-          "study cards"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Study with friends",
-        "aliases": [
-          "study group"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Ask the teacher for help",
-        "aliases": [
-          "ask questions"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Get enough sleep",
-        "aliases": [
-          "go to bed early"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-142",
-    "category": "Everyday life",
-    "prompt": "Name a rule a teacher gives before a test.",
-    "answers": [
-      {
-        "text": "No talking",
-        "aliases": [
-          "stay quiet"
+          "googles"
         ],
         "points": 35
       },
       {
-        "text": "Put phones away",
+        "text": "Messages their partner",
         "aliases": [
-          "no phones"
+          "texts group"
         ],
         "points": 25
       },
       {
-        "text": "Do your own work",
+        "text": "Makes coffee",
         "aliases": [
-          "no cheating"
+          "energy drink"
         ],
         "points": 16
       },
       {
-        "text": "Finish within the time limit",
+        "text": "Asks for more time",
         "aliases": [
-          "watch the time"
+          "extension"
         ],
         "points": 11
       },
       {
-        "text": "Write your name",
+        "text": "Hunts for supplies",
         "aliases": [
-          "put your name on the paper"
+          "buys supplies"
         ],
         "points": 8
       },
       {
-        "text": "Raise a hand for help",
+        "text": "Has a little cry",
         "aliases": [
-          "ask permission to speak"
+          "panics"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-143",
+    "id": "everyday-142",
     "category": "Everyday life",
-    "prompt": "Name a supply children might use to make a school project.",
+    "prompt": "Name something students desperately want to know about a substitute teacher.",
     "answers": [
       {
-        "text": "Poster board",
+        "text": "Are they strict",
         "aliases": [
-          "cardboard"
+          "how strict"
         ],
         "points": 30
       },
       {
-        "text": "Glue",
+        "text": "Will they give homework",
         "aliases": [
-          "glue stick"
+          "homework"
         ],
         "points": 24
       },
       {
-        "text": "Scissors",
+        "text": "Can we use phones",
         "aliases": [
-          "safety scissors"
+          "phone rules"
         ],
         "points": 18
       },
       {
-        "text": "Colored markers",
+        "text": "What is their name",
         "aliases": [
-          "felt tip pens"
+          "name"
         ],
         "points": 13
       },
       {
-        "text": "Photographs",
+        "text": "Do they know the subject",
         "aliases": [
-          "photos"
+          "can they teach"
         ],
         "points": 9
       },
       {
-        "text": "Modeling clay",
+        "text": "Will they put on a movie",
         "aliases": [
-          "clay"
+          "watch a film"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-143",
+    "category": "Everyday life",
+    "prompt": "Name something a parent finds in a backpack that should have come out months ago.",
+    "answers": [
+      {
+        "text": "Old food",
+        "aliases": [
+          "rotten lunch"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Crumpled homework",
+        "aliases": [
+          "old papers"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Dirty clothes",
+        "aliases": [
+          "gym kit"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A toy",
+        "aliases": [
+          "toys"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Library book",
+        "aliases": [
+          "overdue book"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Report card",
+        "aliases": [
+          "school report"
         ],
         "points": 6
       }
@@ -639,96 +639,96 @@
   {
     "id": "everyday-144",
     "category": "Everyday life",
-    "prompt": "Name something found in a school science laboratory.",
+    "prompt": "Name something a classroom pet could do that is more interesting than the lesson.",
     "answers": [
       {
-        "text": "Microscope",
+        "text": "Escape",
         "aliases": [
-          "microscopes"
+          "get loose"
         ],
-        "points": 32
+        "points": 27
       },
       {
-        "text": "Test tube",
+        "text": "Eat",
         "aliases": [
-          "test tubes"
+          "have a snack"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Safety goggles",
+        "text": "Fall asleep",
         "aliases": [
-          "goggles"
+          "sleep"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Beaker",
+        "text": "Poop",
         "aliases": [
-          "beakers"
+          "take a dump"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Scale",
+        "text": "Have babies",
         "aliases": [
-          "balance"
+          "give birth"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Thermometer",
+        "text": "Fight another pet",
         "aliases": [
-          "temperature probe"
+          "fighting"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-145",
     "category": "Everyday life",
-    "prompt": "Name an activity students might do in gym class.",
+    "prompt": "Name something kids compete over even when the teacher isn't keeping score.",
     "answers": [
       {
-        "text": "Basketball",
+        "text": "Grades",
         "aliases": [
-          "shooting hoops"
+          "test scores"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Soccer",
+        "text": "Sports",
         "aliases": [
-          "football"
+          "athletic ability"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Jumping jacks",
+        "text": "Popularity",
         "aliases": [
-          "star jumps"
+          "friends"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Jump rope",
+        "text": "Clothes",
         "aliases": [
-          "skipping rope"
+          "fashion"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Stretching",
+        "text": "Art",
         "aliases": [
-          "stretches"
+          "drawing"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Tag",
+        "text": "Video games",
         "aliases": [
-          "play tag"
+          "gaming"
         ],
         "points": 6
       }
@@ -737,47 +737,47 @@
   {
     "id": "everyday-146",
     "category": "Everyday life",
-    "prompt": "Name something a student does in the school library.",
+    "prompt": "Name something a student worries will look bad in their yearbook photo.",
     "answers": [
       {
-        "text": "Borrow a book",
+        "text": "Hair",
         "aliases": [
-          "check out a book"
+          "hairstyle"
         ],
         "points": 35
       },
       {
-        "text": "Return a book",
+        "text": "Smile",
         "aliases": [
-          "bring books back"
+          "teeth"
         ],
         "points": 25
       },
       {
-        "text": "Research a topic",
+        "text": "A pimple",
         "aliases": [
-          "look up information"
+          "acne"
         ],
         "points": 16
       },
       {
-        "text": "Read quietly",
+        "text": "Their outfit",
         "aliases": [
-          "read a book"
+          "clothes"
         ],
         "points": 11
       },
       {
-        "text": "Use a computer",
+        "text": "Closed eyes",
         "aliases": [
-          "work on a computer"
+          "blinking"
         ],
         "points": 8
       },
       {
-        "text": "Ask the librarian for help",
+        "text": "Braces",
         "aliases": [
-          "talk to the librarian"
+          "retainer"
         ],
         "points": 5
       }
@@ -786,47 +786,47 @@
   {
     "id": "everyday-147",
     "category": "Everyday life",
-    "prompt": "Name something that might happen at a school assembly.",
+    "prompt": "Name something that would make kids actually excited about a school assembly.",
     "answers": [
       {
-        "text": "Principal gives a speech",
+        "text": "A magician",
         "aliases": [
-          "principal talks"
+          "magic show"
         ],
         "points": 30
       },
       {
-        "text": "Students perform music",
+        "text": "An animal",
         "aliases": [
-          "school concert"
+          "live animals"
         ],
         "points": 24
       },
       {
-        "text": "Awards are handed out",
+        "text": "A band",
         "aliases": [
-          "prize giving"
+          "concert"
         ],
         "points": 18
       },
       {
-        "text": "Announcements are made",
+        "text": "A famous guest",
         "aliases": [
-          "school news"
+          "celebrity"
         ],
         "points": 13
       },
       {
-        "text": "Guest speaker talks",
+        "text": "A dance performance",
         "aliases": [
-          "visiting speaker"
+          "dancers"
         ],
         "points": 9
       },
       {
-        "text": "School song is sung",
+        "text": "Early dismissal",
         "aliases": [
-          "sing the school song"
+          "go home early"
         ],
         "points": 6
       }
@@ -835,47 +835,47 @@
   {
     "id": "everyday-148",
     "category": "Everyday life",
-    "prompt": "Name a place a class might visit on a field trip.",
+    "prompt": "Name something that can make a long field-trip bus ride feel much shorter.",
     "answers": [
       {
-        "text": "Museum",
+        "text": "Sitting with friends",
         "aliases": [
-          "history museum"
+          "friends"
         ],
         "points": 32
       },
       {
-        "text": "Zoo",
+        "text": "Snacks",
         "aliases": [
-          "animal park"
+          "food"
         ],
         "points": 24
       },
       {
-        "text": "Aquarium",
+        "text": "Headphones",
         "aliases": [
-          "sea life center"
+          "music"
         ],
         "points": 18
       },
       {
-        "text": "Farm",
+        "text": "A good window view",
         "aliases": [
-          "working farm"
+          "window seat"
         ],
         "points": 12
       },
       {
-        "text": "Theater",
+        "text": "Phone games",
         "aliases": [
-          "theatre"
+          "games on phone"
         ],
         "points": 8
       },
       {
-        "text": "Fire station",
+        "text": "A nap",
         "aliases": [
-          "firehouse"
+          "sleep"
         ],
         "points": 6
       }
@@ -884,194 +884,194 @@
   {
     "id": "everyday-149",
     "category": "Everyday life",
-    "prompt": "Name something a teacher might mark as a mistake on schoolwork.",
+    "prompt": "Name something you learned in school that you still mess up as an adult.",
     "answers": [
+      {
+        "text": "Math",
+        "aliases": [
+          "maths"
+        ],
+        "points": 27
+      },
       {
         "text": "Spelling",
         "aliases": [
-          "misspelled word"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Punctuation",
-        "aliases": [
-          "missing punctuation"
+          "spell"
         ],
         "points": 23
       },
       {
-        "text": "Messy handwriting",
+        "text": "Handwriting",
         "aliases": [
-          "illegible writing"
+          "writing neatly"
         ],
         "points": 19
       },
       {
-        "text": "Math answer",
+        "text": "Geography",
         "aliases": [
-          "calculation error"
+          "maps"
         ],
         "points": 14
       },
       {
-        "text": "Missing name",
+        "text": "A foreign language",
         "aliases": [
-          "no name"
+          "languages"
         ],
         "points": 10
       },
       {
-        "text": "Incomplete answer",
+        "text": "Public speaking",
         "aliases": [
-          "unfinished answer"
+          "giving speeches"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-150",
     "category": "Everyday life",
-    "prompt": "Name something a teacher asks students to stop doing.",
+    "prompt": "Name something a teacher could confiscate that would ruin a kid's day.",
     "answers": [
       {
-        "text": "Talking",
+        "text": "Phone",
         "aliases": [
-          "chatting"
+          "cellphone"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Running indoors",
+        "text": "Game console",
         "aliases": [
-          "running in the hallway"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Chewing gum",
-        "aliases": [
-          "gum chewing"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Using phones",
-        "aliases": [
-          "playing on phones"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Rocking their chairs",
-        "aliases": [
-          "tipping back in a chair"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Passing notes",
-        "aliases": [
-          "sending notes"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "everyday-151",
-    "category": "Everyday life",
-    "prompt": "Name something students might do near the end of the school year.",
-    "answers": [
-      {
-        "text": "Sign yearbooks",
-        "aliases": [
-          "yearbook signing"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Have field day",
-        "aliases": [
-          "sports day"
+          "handheld game"
         ],
         "points": 24
       },
       {
-        "text": "Clean out lockers",
+        "text": "Toy",
         "aliases": [
-          "empty lockers"
+          "fidget toy"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Return textbooks",
+        "text": "Snack",
         "aliases": [
-          "hand in school books"
+          "candy"
         ],
         "points": 13
       },
       {
-        "text": "Have a class party",
+        "text": "Earbuds",
         "aliases": [
-          "end of year party"
+          "headphones"
         ],
         "points": 9
       },
       {
-        "text": "Take final exams",
+        "text": "Comic book",
         "aliases": [
-          "finals"
+          "comic"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "everyday-152",
+    "id": "everyday-151",
     "category": "Everyday life",
-    "prompt": "Name a reason a student might visit the school nurse.",
+    "prompt": "Name a part of school life you wish came with an adult job.",
     "answers": [
       {
-        "text": "Headache",
+        "text": "Summer vacation",
         "aliases": [
-          "head hurts"
+          "summer off"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Stomachache",
+        "text": "Recess",
         "aliases": [
-          "upset stomach"
+          "playtime"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Scraped knee",
+        "text": "Snow days",
         "aliases": [
-          "cut knee"
+          "snow day"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Nosebleed",
+        "text": "Free lunch",
         "aliases": [
-          "bloody nose"
+          "school lunch"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Fever",
+        "text": "Shorter days",
         "aliases": [
-          "high temperature"
+          "finish early"
         ],
         "points": 8
       },
       {
-        "text": "Feeling dizzy",
+        "text": "Field trips",
         "aliases": [
-          "dizziness"
+          "class trips"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-152",
+    "category": "Everyday life",
+    "prompt": "Name a reason a kid visits the school nurse when they aren't really sick.",
+    "answers": [
+      {
+        "text": "Skip a test",
+        "aliases": [
+          "avoid exam"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Go home early",
+        "aliases": [
+          "go home"
+        ],
+        "points": 24
+      },
+      {
+        "text": "See a friend",
+        "aliases": [
+          "visit friend"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Take a nap",
+        "aliases": [
+          "sleep"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Get an ice pack",
+        "aliases": [
+          "ice pack"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Avoid a bully",
+        "aliases": [
+          "escape bully"
         ],
         "points": 6
       }
@@ -1080,47 +1080,47 @@
   {
     "id": "everyday-153",
     "category": "Everyday life",
-    "prompt": "Name a food often served for school lunch.",
+    "prompt": "Name something in a packed school lunch that a kid might try to trade away.",
     "answers": [
-      {
-        "text": "Pizza",
-        "aliases": [
-          "pizza slice"
-        ],
-        "points": 28
-      },
       {
         "text": "Sandwich",
         "aliases": [
           "sandwiches"
         ],
-        "points": 23
+        "points": 32
       },
       {
-        "text": "Pasta",
+        "text": "Fruit",
         "aliases": [
-          "spaghetti"
+          "apple"
         ],
-        "points": 19
+        "points": 24
       },
       {
-        "text": "Chicken nuggets",
+        "text": "Vegetables",
         "aliases": [
-          "nuggets"
+          "carrot sticks"
         ],
-        "points": 14
+        "points": 18
       },
       {
-        "text": "Salad",
+        "text": "Yogurt",
         "aliases": [
-          "green salad"
+          "yoghurt"
         ],
-        "points": 10
+        "points": 12
       },
       {
-        "text": "Tacos",
+        "text": "Milk",
         "aliases": [
-          "taco"
+          "carton of milk"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Leftovers",
+        "aliases": [
+          "last night's dinner"
         ],
         "points": 6
       }
@@ -1129,96 +1129,96 @@
   {
     "id": "everyday-154",
     "category": "Everyday life",
-    "prompt": "Name something children do on a long school bus ride.",
+    "prompt": "Name something students do on a bus that tests the driver's patience.",
     "answers": [
       {
-        "text": "Talk to friends",
+        "text": "Scream",
         "aliases": [
-          "chat"
+          "shout"
         ],
-        "points": 35
+        "points": 27
       },
       {
-        "text": "Sing songs",
+        "text": "Fight",
         "aliases": [
-          "singing"
+          "argue"
         ],
-        "points": 25
+        "points": 23
       },
       {
-        "text": "Look out the window",
+        "text": "Play loud music",
         "aliases": [
-          "watch the scenery"
+          "music"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Take a nap",
+        "text": "Make a food mess",
         "aliases": [
-          "sleep"
+          "spill snacks"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Play a game",
+        "text": "Stand while moving",
         "aliases": [
-          "play games"
+          "leave their seat"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Eat a snack",
+        "text": "Kick the seats",
         "aliases": [
-          "snack"
+          "kick seat backs"
         ],
-        "points": 5
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-155",
     "category": "Everyday life",
-    "prompt": "Name a sign that a school group project is going badly.",
+    "prompt": "Name an excuse the group-project freeloader gives when asked what they've done.",
     "answers": [
       {
-        "text": "One person does all the work",
+        "text": "Too busy",
         "aliases": [
-          "unequal workload"
+          "I've been busy"
         ],
-        "points": 30
+        "points": 31
       },
       {
-        "text": "People argue",
+        "text": "Nobody messaged me",
         "aliases": [
-          "arguments"
+          "no one texted"
         ],
         "points": 24
       },
       {
-        "text": "Deadlines are missed",
+        "text": "Didn't know what to do",
         "aliases": [
-          "late work"
+          "tell me what to do"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Nobody communicates",
+        "text": "Couldn't open the file",
         "aliases": [
-          "no communication"
+          "file wouldn't work"
         ],
         "points": 13
       },
       {
-        "text": "Roles are unclear",
+        "text": "We have plenty of time",
         "aliases": [
-          "nobody knows their job"
+          "loads of time"
         ],
         "points": 9
       },
       {
-        "text": "People get off topic",
+        "text": "I'll do the presenting",
         "aliases": [
-          "goofing around"
+          "I'll present"
         ],
         "points": 6
       }
@@ -1227,96 +1227,96 @@
   {
     "id": "everyday-156",
     "category": "Everyday life",
-    "prompt": "Name a role a student might take in a group project.",
+    "prompt": "Name something that can turn group-project partners into enemies.",
     "answers": [
       {
-        "text": "Researcher",
+        "text": "Doing no work",
         "aliases": [
-          "find information"
+          "not helping"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Writer",
+        "text": "Missing deadlines",
         "aliases": [
-          "write the report"
+          "late work"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Presenter",
+        "text": "Taking all the credit",
         "aliases": [
-          "give the presentation"
+          "stealing credit"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Artist",
+        "text": "Ignoring messages",
         "aliases": [
-          "draw the pictures"
+          "not replying"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Editor",
+        "text": "Changing everyone else's work",
         "aliases": [
-          "proofreader"
+          "rewriting everything"
         ],
         "points": 8
       },
       {
-        "text": "Timekeeper",
+        "text": "Deleting the files",
         "aliases": [
-          "watch the time"
+          "lost the project"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "everyday-157",
     "category": "Everyday life",
-    "prompt": "Name something a reader might use to keep their place in a book.",
+    "prompt": "Name something a kid does to make a fake sick day look convincing.",
     "answers": [
       {
-        "text": "Bookmark",
+        "text": "Holds their stomach",
         "aliases": [
-          "book marker"
+          "stomach ache"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Finger",
+        "text": "Coughs",
         "aliases": [
-          "their finger"
+          "fake cough"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Ruler",
+        "text": "Stays in bed",
         "aliases": [
-          "straightedge"
+          "won't get up"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Sticky note",
+        "text": "Heats the thermometer",
         "aliases": [
-          "post it note"
+          "hot thermometer"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Paper clip",
+        "text": "Uses a weak voice",
         "aliases": [
-          "paperclip"
+          "talks quietly"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Folded page corner",
+        "text": "Walks slowly",
         "aliases": [
-          "dog ear"
+          "shuffles"
         ],
         "points": 6
       }
@@ -1325,145 +1325,145 @@
   {
     "id": "everyday-158",
     "category": "Everyday life",
-    "prompt": "Name a technology problem that can disrupt a class.",
+    "prompt": "Name something a kid hopes won't come up at a parent-teacher meeting.",
     "answers": [
       {
-        "text": "Frozen screen",
+        "text": "Bad grades",
         "aliases": [
-          "computer freezes"
+          "test scores"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "No Wi-Fi",
+        "text": "Talking in class",
         "aliases": [
-          "no internet"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Dead battery",
-        "aliases": [
-          "flat battery"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Forgotten password",
-        "aliases": [
-          "cannot log in"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Broken headphones",
-        "aliases": [
-          "headphones do not work"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Printer jam",
-        "aliases": [
-          "paper jam"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "everyday-159",
-    "category": "Everyday life",
-    "prompt": "Name an expense a college student has to budget for.",
-    "answers": [
-      {
-        "text": "Tuition",
-        "aliases": [
-          "course fees"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Textbooks",
-        "aliases": [
-          "books"
+          "disrupting class"
         ],
         "points": 24
       },
       {
-        "text": "Rent",
+        "text": "Missing homework",
         "aliases": [
-          "housing"
+          "late assignments"
         ],
         "points": 18
       },
       {
-        "text": "Food",
+        "text": "A school fight",
         "aliases": [
-          "groceries"
+          "fighting"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Transportation",
+        "text": "Cheating",
         "aliases": [
-          "bus fare"
+          "copied a test"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Laundry",
+        "text": "Their crush",
         "aliases": [
-          "washing clothes"
+          "boyfriend or girlfriend"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "everyday-160",
+    "id": "everyday-159",
     "category": "Everyday life",
-    "prompt": "Name something a graduate might wear at a graduation ceremony.",
+    "prompt": "Name something a college student does too much of after moving away from home.",
     "answers": [
       {
-        "text": "Cap",
+        "text": "Stays up late",
         "aliases": [
-          "mortarboard"
+          "all nighters"
         ],
-        "points": 32
+        "points": 27
       },
       {
-        "text": "Gown",
+        "text": "Skips class",
         "aliases": [
-          "graduation robe"
+          "misses lectures"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Spends money",
+        "aliases": [
+          "shopping"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Eats junk food",
+        "aliases": [
+          "takeout"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Parties",
+        "aliases": [
+          "goes out drinking"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Takes on too many commitments",
+        "aliases": [
+          "overloads their schedule"
+        ],
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": "everyday-160",
+    "category": "Everyday life",
+    "prompt": "Name something that could go wrong during your big graduation moment.",
+    "answers": [
+      {
+        "text": "Trip on stage",
+        "aliases": [
+          "fall"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Name is said wrong",
+        "aliases": [
+          "mispronounced name"
         ],
         "points": 24
       },
       {
-        "text": "Stole",
+        "text": "Cap falls off",
         "aliases": [
-          "graduation sash"
+          "lose cap"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Medal",
+        "text": "Arrive late",
         "aliases": [
-          "honor medal"
+          "miss the ceremony"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Dress shoes",
+        "text": "Diploma isn't ready",
         "aliases": [
-          "smart shoes"
+          "no diploma"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Flower lei",
+        "text": "Burst into tears",
         "aliases": [
-          "lei"
+          "cry"
         ],
         "points": 6
       }
@@ -1472,145 +1472,145 @@
   {
     "id": "everyday-161",
     "category": "Everyday life",
-    "prompt": "Name an appliance or fixture in a shared office kitchen.",
+    "prompt": "Name something an employee hides when the boss suddenly approaches their desk.",
     "answers": [
       {
-        "text": "Microwave",
+        "text": "Phone",
         "aliases": [
-          "microwave oven"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Refrigerator",
-        "aliases": [
-          "fridge"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Coffee maker",
-        "aliases": [
-          "coffee machine"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Sink",
-        "aliases": [
-          "kitchen sink"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Toaster",
-        "aliases": [
-          "toaster oven"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Kettle",
-        "aliases": [
-          "electric kettle"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-162",
-    "category": "Everyday life",
-    "prompt": "Name a problem people have with an office photocopier.",
-    "answers": [
-      {
-        "text": "Paper jam",
-        "aliases": [
-          "jammed paper"
+          "cellphone"
         ],
         "points": 35
       },
       {
-        "text": "Empty toner",
+        "text": "Snacks",
         "aliases": [
-          "out of ink"
+          "food"
         ],
         "points": 25
       },
       {
-        "text": "No paper",
+        "text": "Job applications",
         "aliases": [
-          "empty paper tray"
+          "resume"
         ],
         "points": 16
       },
       {
-        "text": "Wrong paper size",
+        "text": "A pillow",
         "aliases": [
-          "paper size error"
+          "blanket"
         ],
         "points": 11
       },
       {
-        "text": "Will not turn on",
+        "text": "A game",
         "aliases": [
-          "no power"
+          "video game"
         ],
         "points": 8
       },
       {
-        "text": "Streaks on copies",
+        "text": "Alcohol",
         "aliases": [
-          "lines on the page"
+          "booze"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-163",
+    "id": "everyday-162",
     "category": "Everyday life",
-    "prompt": "Name something that makes a meeting take too long.",
+    "prompt": "Name a place where bumping into your boss could get awkward fast.",
     "answers": [
       {
-        "text": "Repeating the same points",
+        "text": "A bar",
         "aliases": [
-          "repetition"
+          "pub"
         ],
         "points": 30
       },
       {
-        "text": "Going off topic",
+        "text": "Another job interview",
         "aliases": [
-          "unrelated discussion"
+          "competitor's office"
         ],
         "points": 24
       },
       {
-        "text": "Late arrivals",
+        "text": "Doctor's waiting room",
         "aliases": [
-          "people arrive late"
+          "clinic"
         ],
         "points": 18
       },
       {
-        "text": "Too many slides",
+        "text": "Gym",
         "aliases": [
-          "long presentation"
+          "fitness center"
         ],
         "points": 13
       },
       {
-        "text": "Technical problems",
+        "text": "A date restaurant",
         "aliases": [
-          "equipment trouble"
+          "on a date"
         ],
         "points": 9
       },
       {
-        "text": "Nobody makes a decision",
+        "text": "Beach",
         "aliases": [
-          "indecision"
+          "swimming pool"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-163",
+    "category": "Everyday life",
+    "prompt": "Name something people do during a meeting that should have been an email.",
+    "answers": [
+      {
+        "text": "Zone out",
+        "aliases": [
+          "daydream"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Check their phone",
+        "aliases": [
+          "text"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Doodle",
+        "aliases": [
+          "draw"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Plan lunch",
+        "aliases": [
+          "think about food"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Do other work",
+        "aliases": [
+          "answer emails"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Watch the clock",
+        "aliases": [
+          "count the minutes"
         ],
         "points": 6
       }
@@ -1619,96 +1619,96 @@
   {
     "id": "everyday-164",
     "category": "Everyday life",
-    "prompt": "Name an embarrassing thing that can happen during a video meeting.",
+    "prompt": "Name something coworkers might hear when you think your microphone is muted.",
     "answers": [
       {
-        "text": "Microphone picks up private remarks",
+        "text": "A complaint about the boss",
         "aliases": [
-          "forgot to mute"
+          "insulting the boss"
         ],
-        "points": 32
+        "points": 27
       },
       {
-        "text": "Messy room is visible",
+        "text": "Toilet flushing",
         "aliases": [
-          "untidy background"
+          "bathroom noises"
         ],
-        "points": 24
+        "points": 23
       },
       {
-        "text": "Pet jumps into view",
+        "text": "A pet",
         "aliases": [
-          "pet on camera"
+          "dog barking"
         ],
-        "points": 18
+        "points": 19
       },
       {
-        "text": "Camera is too close",
+        "text": "An argument",
         "aliases": [
-          "unflattering camera angle"
+          "fighting"
         ],
-        "points": 12
+        "points": 14
       },
       {
-        "text": "Wrong window is shared",
+        "text": "Chewing",
         "aliases": [
-          "wrong screen share"
+          "eating"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Family member walks in",
+        "text": "The television",
         "aliases": [
-          "someone walks behind them"
+          "TV"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-165",
     "category": "Everyday life",
-    "prompt": "Name something people check before joining a video call.",
+    "prompt": "Name something someone might secretly do during a camera-off work call.",
     "answers": [
       {
-        "text": "Camera",
+        "text": "Eat",
         "aliases": [
-          "webcam"
+          "have lunch"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Microphone",
+        "text": "Stay in bed",
         "aliases": [
-          "mic"
+          "sleep"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Open browser tabs",
+        "text": "Housework",
         "aliases": [
-          "open windows"
+          "laundry"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Lighting",
+        "text": "Exercise",
         "aliases": [
-          "room light"
+          "work out"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Background",
+        "text": "Drive",
         "aliases": [
-          "what is behind them"
+          "commute"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Meeting link",
+        "text": "Play a game",
         "aliases": [
-          "call link"
+          "gaming"
         ],
         "points": 6
       }
@@ -1717,47 +1717,47 @@
   {
     "id": "everyday-166",
     "category": "Everyday life",
-    "prompt": "Name a task someone might be assigned during a work meeting.",
+    "prompt": "Name something a new employee nods along to without understanding a word.",
     "answers": [
       {
-        "text": "Take notes",
+        "text": "Company acronyms",
         "aliases": [
-          "write the minutes"
+          "abbreviations"
         ],
         "points": 35
       },
       {
-        "text": "Lead the discussion",
+        "text": "New software",
         "aliases": [
-          "chair the meeting"
+          "computer system"
         ],
         "points": 25
       },
       {
-        "text": "Keep track of time",
+        "text": "Who's in charge",
         "aliases": [
-          "timekeeper"
+          "office hierarchy"
         ],
         "points": 16
       },
       {
-        "text": "Present a report",
+        "text": "An inside joke",
         "aliases": [
-          "give an update"
+          "office joke"
         ],
         "points": 11
       },
       {
-        "text": "Run the equipment",
+        "text": "Task instructions",
         "aliases": [
-          "manage the projector"
+          "directions"
         ],
         "points": 8
       },
       {
-        "text": "Welcome visitors",
+        "text": "The company mission",
         "aliases": [
-          "greet guests"
+          "corporate goals"
         ],
         "points": 5
       }
@@ -1766,47 +1766,47 @@
   {
     "id": "everyday-167",
     "category": "Everyday life",
-    "prompt": "Name something people do when a work meeting is canceled.",
+    "prompt": "Name something you'd do if work unexpectedly ended two hours early.",
     "answers": [
       {
-        "text": "Feel relieved",
+        "text": "Take a nap",
         "aliases": [
-          "sigh with relief"
+          "sleep"
         ],
         "points": 30
       },
       {
-        "text": "Get other work done",
+        "text": "Run errands",
         "aliases": [
-          "catch up on work"
+          "do errands"
         ],
         "points": 24
       },
       {
-        "text": "Tell the other attendees",
+        "text": "Go for a drink",
         "aliases": [
-          "notify colleagues"
+          "bar"
         ],
         "points": 18
       },
       {
-        "text": "Remove the calendar reminder",
+        "text": "Exercise",
         "aliases": [
-          "delete the event"
+          "gym"
         ],
         "points": 13
       },
       {
-        "text": "Take a break",
+        "text": "See friends",
         "aliases": [
-          "get a coffee"
+          "meet friends"
         ],
         "points": 9
       },
       {
-        "text": "Reschedule it",
+        "text": "Start a weekend trip",
         "aliases": [
-          "pick another date"
+          "leave town"
         ],
         "points": 6
       }
@@ -1815,47 +1815,47 @@
   {
     "id": "everyday-168",
     "category": "Everyday life",
-    "prompt": "Name information a worker leaves for someone covering their vacation.",
+    "prompt": "Name a place an employee disappears to when avoiding a boring task.",
     "answers": [
       {
-        "text": "Task list",
+        "text": "Bathroom",
         "aliases": [
-          "jobs to do"
+          "toilet"
         ],
         "points": 32
       },
       {
-        "text": "Deadlines",
+        "text": "Break room",
         "aliases": [
-          "due dates"
+          "staff kitchen"
         ],
         "points": 24
       },
       {
-        "text": "Contact details",
+        "text": "Outside",
         "aliases": [
-          "phone numbers"
+          "smoking area"
         ],
         "points": 18
       },
       {
-        "text": "File locations",
+        "text": "Another department",
         "aliases": [
-          "where documents are saved"
+          "coworker's office"
         ],
         "points": 12
       },
       {
-        "text": "Project status",
+        "text": "Their car",
         "aliases": [
-          "progress update"
+          "parking lot"
         ],
         "points": 8
       },
       {
-        "text": "Coverage assignments",
+        "text": "Storage room",
         "aliases": [
-          "who is handling what"
+          "supply closet"
         ],
         "points": 6
       }
@@ -1864,194 +1864,194 @@
   {
     "id": "everyday-169",
     "category": "Everyday life",
-    "prompt": "Name something posted on an office noticeboard.",
+    "prompt": "Name something coworkers race to claim when the company gives it away free.",
     "answers": [
       {
-        "text": "Event flyer",
+        "text": "Food",
         "aliases": [
-          "event poster"
+          "lunch"
         ],
-        "points": 28
+        "points": 27
       },
       {
-        "text": "Safety notice",
+        "text": "Parking space",
         "aliases": [
-          "safety rules"
+          "parking"
         ],
         "points": 23
       },
       {
-        "text": "Job vacancy",
+        "text": "Office chair",
         "aliases": [
-          "job posting"
+          "chair"
         ],
         "points": 19
       },
       {
-        "text": "Staff photo",
+        "text": "Computer equipment",
         "aliases": [
-          "team picture"
+          "laptop"
         ],
         "points": 14
       },
       {
-        "text": "Holiday schedule",
+        "text": "Event tickets",
         "aliases": [
-          "closure dates"
+          "tickets"
         ],
         "points": 10
       },
       {
-        "text": "Lost item note",
+        "text": "Company merchandise",
         "aliases": [
-          "lost and found notice"
+          "free shirt"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-170",
     "category": "Everyday life",
-    "prompt": "Name an occasion coworkers might celebrate in the office.",
+    "prompt": "Name something that can make an office birthday celebration awkward.",
     "answers": [
       {
-        "text": "Birthday",
+        "text": "Wrong name on the cake",
         "aliases": [
-          "someone's birthday"
+          "wrong name"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Promotion",
+        "text": "Saying the wrong age",
         "aliases": [
-          "new position"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Retirement",
-        "aliases": [
-          "retirement party"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Project success",
-        "aliases": [
-          "completed project"
-        ],
-        "points": 11
-      },
-      {
-        "text": "New baby",
-        "aliases": [
-          "birth of a baby"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Work anniversary",
-        "aliases": [
-          "years of service"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "everyday-171",
-    "category": "Everyday life",
-    "prompt": "Name a complaint people make about a shared office kitchen.",
-    "answers": [
-      {
-        "text": "Dirty dishes in the sink",
-        "aliases": [
-          "unwashed dishes"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Food gets stolen",
-        "aliases": [
-          "missing lunch"
+          "age"
         ],
         "points": 24
       },
       {
-        "text": "Coffee runs out",
+        "text": "Nobody knows the person",
         "aliases": [
-          "empty coffee pot"
+          "stranger"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Fridge smells bad",
+        "text": "No cake",
         "aliases": [
-          "smelly refrigerator"
+          "forgot the cake"
         ],
         "points": 13
       },
       {
-        "text": "Microwave is splattered",
+        "text": "Singing",
         "aliases": [
-          "dirty microwave"
+          "birthday song"
         ],
         "points": 9
       },
       {
-        "text": "Trash bin overflows",
+        "text": "Food allergies",
         "aliases": [
-          "full garbage bin"
+          "can't eat the cake"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "everyday-172",
+    "id": "everyday-171",
     "category": "Everyday life",
-    "prompt": "Name information a receptionist might ask a visitor for.",
+    "prompt": "Name an office kitchen habit that could turn coworkers into enemies.",
     "answers": [
       {
-        "text": "Name",
+        "text": "Stealing lunch",
         "aliases": [
-          "full name"
+          "eating someone else's food"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Company",
+        "text": "Leaving dirty dishes",
         "aliases": [
-          "employer"
+          "dishes in sink"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Person they are visiting",
+        "text": "Microwaving fish",
         "aliases": [
-          "host's name"
+          "smelly food"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Appointment time",
+        "text": "Finishing the coffee",
         "aliases": [
-          "time of meeting"
+          "empty coffee pot"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Photo identification",
+        "text": "Leaving rotten food",
         "aliases": [
-          "id"
+          "old food in fridge"
         ],
         "points": 8
       },
       {
-        "text": "Phone number",
+        "text": "Using someone else's mug",
         "aliases": [
-          "contact number"
+          "taking mugs"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-172",
+    "category": "Everyday life",
+    "prompt": "Name something a new employee might accidentally do on their first day.",
+    "answers": [
+      {
+        "text": "Use the wrong name",
+        "aliases": [
+          "forget a name"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Get lost",
+        "aliases": [
+          "wrong floor"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Arrive late",
+        "aliases": [
+          "be late"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Break equipment",
+        "aliases": [
+          "break something"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Forget a password",
+        "aliases": [
+          "can't log in"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Sit at the wrong desk",
+        "aliases": [
+          "take someone's seat"
         ],
         "points": 6
       }
@@ -2060,47 +2060,47 @@
   {
     "id": "everyday-173",
     "category": "Everyday life",
-    "prompt": "Name a problem that can happen when an office moves buildings.",
+    "prompt": "Name something people miss about an old job even after a dramatic resignation.",
     "answers": [
       {
-        "text": "Furniture is too heavy",
+        "text": "Coworkers",
         "aliases": [
-          "heavy desks"
+          "friends"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Cables get tangled",
+        "text": "Pay",
         "aliases": [
-          "tangled wires"
+          "salary"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Boxes go missing",
+        "text": "Schedule",
         "aliases": [
-          "lost boxes"
+          "hours"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Files get mixed up",
+        "text": "Perks",
         "aliases": [
-          "disorganized paperwork"
+          "benefits"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Computers need setting up",
+        "text": "Easy work",
         "aliases": [
-          "computer setup trouble"
+          "less stress"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Work gets interrupted",
+        "text": "Location",
         "aliases": [
-          "business disruption"
+          "short commute"
         ],
         "points": 6
       }
@@ -2109,96 +2109,96 @@
   {
     "id": "everyday-174",
     "category": "Everyday life",
-    "prompt": "Name something people add to make their workstation more comfortable.",
+    "prompt": "Name something an employee hopes their boss has completely forgotten about.",
     "answers": [
       {
-        "text": "Cushion",
+        "text": "A deadline",
         "aliases": [
-          "seat pad"
+          "due date"
         ],
-        "points": 35
+        "points": 27
       },
       {
-        "text": "Footrest",
+        "text": "A mistake",
         "aliases": [
-          "foot stool"
+          "error"
         ],
-        "points": 25
+        "points": 23
       },
       {
-        "text": "Desk fan",
+        "text": "Unfinished training",
         "aliases": [
-          "small fan"
+          "training course"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Desk lamp",
+        "text": "Arriving late",
         "aliases": [
-          "task light"
+          "lateness"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Wrist rest",
+        "text": "A performance review",
         "aliases": [
-          "keyboard rest"
+          "appraisal"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Monitor stand",
+        "text": "Something they volunteered for",
         "aliases": [
-          "screen riser"
+          "extra task"
         ],
-        "points": 5
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-175",
     "category": "Everyday life",
-    "prompt": "Name a reason an employee contacts the IT help desk.",
+    "prompt": "Name something people blame when they miss a work deadline.",
     "answers": [
       {
-        "text": "Locked account",
+        "text": "Computer trouble",
         "aliases": [
-          "locked out"
+          "computer crashed"
         ],
-        "points": 30
+        "points": 31
       },
       {
-        "text": "Slow computer",
+        "text": "Internet",
         "aliases": [
-          "computer running slowly"
+          "wifi"
         ],
         "points": 24
       },
       {
-        "text": "Broken printer",
+        "text": "A coworker",
         "aliases": [
-          "printer not working"
+          "someone else"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Missing software",
+        "text": "Too much work",
         "aliases": [
-          "need a program installed"
+          "workload"
         ],
         "points": 13
       },
       {
-        "text": "No internet connection",
+        "text": "Illness",
         "aliases": [
-          "network down"
+          "sickness"
         ],
         "points": 9
       },
       {
-        "text": "Suspicious email",
+        "text": "Unclear instructions",
         "aliases": [
-          "possible phishing"
+          "confusing brief"
         ],
         "points": 6
       }
@@ -2207,96 +2207,96 @@
   {
     "id": "everyday-176",
     "category": "Everyday life",
-    "prompt": "Name a mistake someone might make when sending a work email.",
+    "prompt": "Name a work email mistake that makes you wish you could disappear.",
     "answers": [
       {
-        "text": "Reply to everyone",
+        "text": "Replying to everyone",
         "aliases": [
           "reply all"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Forget the attachment",
-        "aliases": [
-          "missing attachment"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Misspell a name",
-        "aliases": [
-          "wrong spelling of a name"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Send it to the wrong person",
+        "text": "Sending to the wrong person",
         "aliases": [
           "wrong recipient"
         ],
-        "points": 12
+        "points": 25
       },
       {
-        "text": "Put the wrong date",
+        "text": "Forgetting the attachment",
         "aliases": [
-          "incorrect date"
+          "no attachment"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Misspelling a name",
+        "aliases": [
+          "wrong name"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Including a private complaint",
+        "aliases": [
+          "gossip in email"
         ],
         "points": 8
       },
       {
-        "text": "Leave editing notes in it",
+        "text": "Sending an unfinished draft",
         "aliases": [
-          "draft notes still included"
+          "unfinished email"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "everyday-177",
     "category": "Everyday life",
-    "prompt": "Name a type of message that arrives in a work inbox.",
+    "prompt": "Name a message from your boss that instantly ruins your mood.",
     "answers": [
       {
-        "text": "Meeting invitation",
+        "text": "Work this weekend",
         "aliases": [
-          "calendar invite"
+          "weekend shift"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Customer question",
+        "text": "Time off denied",
         "aliases": [
-          "customer inquiry"
+          "no vacation"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Company announcement",
+        "text": "Do it again",
         "aliases": [
-          "staff announcement"
+          "redo the work"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Invoice",
+        "text": "Deadline moved earlier",
         "aliases": [
-          "bill"
+          "due sooner"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Newsletter",
+        "text": "Customer complained",
         "aliases": [
-          "mailing list update"
+          "complaint"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Job application",
+        "text": "Pay is being cut",
         "aliases": [
-          "applicant email"
+          "pay cut"
         ],
         "points": 6
       }
@@ -2305,146 +2305,145 @@
   {
     "id": "everyday-178",
     "category": "Everyday life",
-    "prompt": "Name something used to hold sheets of paper together.",
+    "prompt": "Name something coworkers borrow and conveniently forget to give back.",
     "answers": [
       {
-        "text": "Staple",
+        "text": "Pen",
         "aliases": [
-          "staples"
+          "pencil"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Paper clip",
+        "text": "Charger",
         "aliases": [
-          "paperclip"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Binder clip",
-        "aliases": [
-          "bulldog clip"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Ring binder",
-        "aliases": [
-          "three ring binder"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Rubber band",
-        "aliases": [
-          "elastic band"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Brass fastener",
-        "aliases": [
-          "split pin",
-          "paper brad"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "everyday-179",
-    "category": "Everyday life",
-    "prompt": "Name a document someone might sign at work.",
-    "answers": [
-      {
-        "text": "Employment contract",
-        "aliases": [
-          "job contract"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Timesheet",
-        "aliases": [
-          "time sheet"
+          "charging cable"
         ],
         "points": 24
       },
       {
-        "text": "Expense claim",
+        "text": "Stapler",
         "aliases": [
-          "expense report"
+          "staples"
         ],
         "points": 18
       },
       {
-        "text": "Delivery receipt",
+        "text": "Mug",
         "aliases": [
-          "proof of delivery"
+          "coffee cup"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Permission form",
+        "text": "Scissors",
         "aliases": [
-          "consent form"
+          "scissor"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Attendance sheet",
+        "text": "Money",
         "aliases": [
-          "sign in sheet"
+          "cash"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "everyday-180",
+    "id": "everyday-179",
     "category": "Everyday life",
-    "prompt": "Name something people put name labels on in an office.",
+    "prompt": "Name a clue that a coworker might be secretly job hunting.",
     "answers": [
       {
-        "text": "Mugs",
+        "text": "Dressed for an interview",
         "aliases": [
-          "coffee cups"
+          "smart clothes"
         ],
-        "points": 32
+        "points": 27
       },
       {
-        "text": "Desks",
+        "text": "Private phone calls",
         "aliases": [
-          "workstations"
+          "secret calls"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Unusual time off",
+        "aliases": [
+          "appointments"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Updated online profile",
+        "aliases": [
+          "LinkedIn"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Constantly complains",
+        "aliases": [
+          "hates the job"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Resume on screen",
+        "aliases": [
+          "CV open"
+        ],
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": "everyday-180",
+    "category": "Everyday life",
+    "prompt": "Name something people pretend to enjoy at work.",
+    "answers": [
+      {
+        "text": "Team building",
+        "aliases": [
+          "team activities"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Small talk",
+        "aliases": [
+          "chatting"
         ],
         "points": 24
       },
       {
-        "text": "Food containers",
+        "text": "Office parties",
         "aliases": [
-          "lunch containers"
+          "work parties"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Cables",
+        "text": "The boss's jokes",
         "aliases": [
-          "power cords"
+          "boss jokes"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Printers",
+        "text": "Meetings",
         "aliases": [
-          "shared printers"
+          "staff meetings"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Coat hooks",
+        "text": "Training",
         "aliases": [
-          "coat pegs"
+          "workshops"
         ],
         "points": 6
       }
@@ -2453,145 +2452,145 @@
   {
     "id": "everyday-181",
     "category": "Everyday life",
-    "prompt": "Name something people do to prepare a meeting room.",
+    "prompt": "Name something that makes a worker start counting down to Friday on Monday morning.",
     "answers": [
       {
-        "text": "Arrange chairs",
+        "text": "An awful boss",
         "aliases": [
-          "set out chairs"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Wipe the table",
-        "aliases": [
-          "clean the table"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Connect the projector",
-        "aliases": [
-          "set up the projector"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Write the agenda on the board",
-        "aliases": [
-          "put up the agenda"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Put out water",
-        "aliases": [
-          "set out drinks"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Adjust the blinds",
-        "aliases": [
-          "close the blinds"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-182",
-    "category": "Everyday life",
-    "prompt": "Name something people do just after arriving at the office.",
-    "answers": [
-      {
-        "text": "Check email",
-        "aliases": [
-          "read emails"
+          "bad boss"
         ],
         "points": 35
       },
       {
-        "text": "Make coffee",
+        "text": "Long hours",
         "aliases": [
-          "get coffee"
+          "overtime"
         ],
         "points": 25
       },
       {
-        "text": "Hang up their coat",
+        "text": "A big deadline",
         "aliases": [
-          "put coat away"
+          "stressful project"
         ],
         "points": 16
       },
       {
-        "text": "Turn on their computer",
+        "text": "Boring work",
         "aliases": [
-          "start the computer"
+          "dull tasks"
         ],
         "points": 11
       },
       {
-        "text": "Greet coworkers",
+        "text": "Exciting weekend plans",
         "aliases": [
-          "say hello"
+          "weekend trip"
         ],
         "points": 8
       },
       {
-        "text": "Check their calendar",
+        "text": "The commute",
         "aliases": [
-          "look at appointments"
+          "traffic"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-183",
+    "id": "everyday-182",
     "category": "Everyday life",
-    "prompt": "Name something people do before leaving the office for the day.",
+    "prompt": "Name something an employee might do only because the rest of the office does it.",
     "answers": [
       {
-        "text": "Save their files",
+        "text": "Stay late",
         "aliases": [
-          "save work"
+          "work overtime"
         ],
         "points": 30
       },
       {
-        "text": "Shut down their computer",
+        "text": "Go for drinks",
         "aliases": [
-          "turn computer off"
+          "after work drinks"
         ],
         "points": 24
       },
       {
-        "text": "Tidy their desk",
+        "text": "Bring food",
         "aliases": [
-          "clear the desk"
+          "bake for coworkers"
         ],
         "points": 18
       },
       {
-        "text": "Lock a drawer",
+        "text": "Donate money",
         "aliases": [
-          "lock the cabinet"
+          "office collection"
         ],
         "points": 13
       },
       {
-        "text": "Turn off the lights",
+        "text": "Drink coffee",
         "aliases": [
-          "switch lights off"
+          "coffee break"
         ],
         "points": 9
       },
       {
-        "text": "Make tomorrow's task list",
+        "text": "Use business jargon",
         "aliases": [
-          "plan tomorrow"
+          "corporate language"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-183",
+    "category": "Everyday life",
+    "prompt": "Name something people spend their very first paycheck on.",
+    "answers": [
+      {
+        "text": "Clothes",
+        "aliases": [
+          "new outfit"
+        ],
+        "points": 32
+      },
+      {
+        "text": "A meal out",
+        "aliases": [
+          "dinner"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A gift for their parents",
+        "aliases": [
+          "parents"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Bills",
+        "aliases": [
+          "rent"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A phone",
+        "aliases": [
+          "new phone"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Savings",
+        "aliases": [
+          "save it"
         ],
         "points": 6
       }
@@ -2600,96 +2599,96 @@
   {
     "id": "everyday-184",
     "category": "Everyday life",
-    "prompt": "Name a distraction people face while working from home.",
+    "prompt": "Name something at home that wins the battle against your work-from-home productivity.",
     "answers": [
+      {
+        "text": "Bed",
+        "aliases": [
+          "napping"
+        ],
+        "points": 27
+      },
+      {
+        "text": "Television",
+        "aliases": [
+          "TV"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Pet",
+        "aliases": [
+          "dog or cat"
+        ],
+        "points": 19
+      },
       {
         "text": "Children",
         "aliases": [
           "kids"
         ],
-        "points": 32
+        "points": 14
       },
       {
-        "text": "Pets",
+        "text": "The fridge",
         "aliases": [
-          "dog or cat"
+          "snacking"
         ],
-        "points": 24
+        "points": 10
       },
       {
-        "text": "Television",
-        "aliases": [
-          "tv"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Household chores",
+        "text": "Chores",
         "aliases": [
           "housework"
         ],
-        "points": 12
-      },
-      {
-        "text": "Doorbell",
-        "aliases": [
-          "delivery at the door"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Social media",
-        "aliases": [
-          "scrolling social media"
-        ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-185",
     "category": "Everyday life",
-    "prompt": "Name a place someone looks for a missing computer document.",
+    "prompt": "Name something people exaggerate on their resume.",
     "answers": [
       {
-        "text": "Recycle bin",
+        "text": "Experience",
         "aliases": [
-          "trash folder"
+          "years worked"
         ],
-        "points": 28
+        "points": 31
       },
       {
-        "text": "Computer search results",
+        "text": "Skills",
         "aliases": [
-          "search the computer"
+          "abilities"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Cloud backup",
+        "text": "Job title",
         "aliases": [
-          "online backup"
+          "position"
         ],
-        "points": 19
+        "points": 17
       },
       {
-        "text": "Shared drive",
+        "text": "Education",
         "aliases": [
-          "team folder"
+          "qualifications"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Email attachments",
+        "text": "Achievements",
         "aliases": [
-          "sent emails"
+          "accomplishments"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Recent documents list",
+        "text": "Leadership",
         "aliases": [
-          "recent files"
+          "management experience"
         ],
         "points": 6
       }
@@ -2698,47 +2697,47 @@
   {
     "id": "everyday-186",
     "category": "Everyday life",
-    "prompt": "Name something someone does when the office feels too cold.",
+    "prompt": "Name something coworkers argue about that seems too small to argue about.",
     "answers": [
       {
-        "text": "Put on a sweater",
+        "text": "Temperature",
         "aliases": [
-          "wear a jacket"
+          "thermostat"
         ],
         "points": 35
       },
       {
-        "text": "Adjust the thermostat",
+        "text": "Music",
         "aliases": [
-          "turn up the heat"
+          "radio"
         ],
         "points": 25
       },
       {
-        "text": "Drink something hot",
+        "text": "Parking",
         "aliases": [
-          "have hot tea"
+          "parking spaces"
         ],
         "points": 16
       },
       {
-        "text": "Use a space heater",
+        "text": "Food smells",
         "aliases": [
-          "portable heater"
+          "smelly lunch"
         ],
         "points": 11
       },
       {
-        "text": "Move to a warmer seat",
+        "text": "Desk space",
         "aliases": [
-          "sit in the sun"
+          "office space"
         ],
         "points": 8
       },
       {
-        "text": "Use a blanket",
+        "text": "Whose turn to make coffee",
         "aliases": [
-          "wrap up in a blanket"
+          "coffee duty"
         ],
         "points": 5
       }
@@ -2747,47 +2746,47 @@
   {
     "id": "everyday-187",
     "category": "Everyday life",
-    "prompt": "Name something needed to mail a package from an office.",
+    "prompt": "Name something you don't want your boss to see in your browser history.",
     "answers": [
       {
-        "text": "Box",
+        "text": "Job listings",
         "aliases": [
-          "shipping carton"
+          "job search"
         ],
         "points": 30
       },
       {
-        "text": "Packing tape",
+        "text": "Shopping",
         "aliases": [
-          "parcel tape"
+          "online stores"
         ],
         "points": 24
       },
       {
-        "text": "Address label",
+        "text": "Games",
         "aliases": [
-          "shipping label"
+          "gaming sites"
         ],
         "points": 18
       },
       {
-        "text": "Postage",
+        "text": "Social media",
         "aliases": [
-          "stamps"
+          "Instagram"
         ],
         "points": 13
       },
       {
-        "text": "Bubble wrap",
+        "text": "Vacation planning",
         "aliases": [
-          "protective padding"
+          "holiday booking"
         ],
         "points": 9
       },
       {
-        "text": "Scale",
+        "text": "Salary comparisons",
         "aliases": [
-          "weighing scales"
+          "pay comparisons"
         ],
         "points": 6
       }
@@ -2796,47 +2795,47 @@
   {
     "id": "everyday-188",
     "category": "Everyday life",
-    "prompt": "Name something an employee does when training a new coworker.",
+    "prompt": "Name something a new coworker does that makes you think, 'This could be a long year.'",
     "answers": [
       {
-        "text": "Demonstrate software",
+        "text": "Arrives late",
         "aliases": [
-          "show how a program works"
+          "always late"
         ],
         "points": 32
       },
       {
-        "text": "Explain daily tasks",
+        "text": "Gossips",
         "aliases": [
-          "describe the job"
+          "spreads rumors"
         ],
         "points": 24
       },
       {
-        "text": "Introduce the team",
+        "text": "Blames others",
         "aliases": [
-          "meet colleagues"
+          "passes blame"
         ],
         "points": 18
       },
       {
-        "text": "Give a building tour",
+        "text": "Brags",
         "aliases": [
-          "show them around"
+          "shows off"
         ],
         "points": 12
       },
       {
-        "text": "Review company rules",
+        "text": "Never listens",
         "aliases": [
-          "explain policies"
+          "interrupts"
         ],
         "points": 8
       },
       {
-        "text": "Answer questions",
+        "text": "Asks to borrow money",
         "aliases": [
-          "help with questions"
+          "asks for cash"
         ],
         "points": 6
       }
@@ -2845,194 +2844,194 @@
   {
     "id": "everyday-189",
     "category": "Everyday life",
-    "prompt": "Name a food coworkers might bring to share in the break room.",
+    "prompt": "Name a topic that spreads around an office faster than official company news.",
     "answers": [
       {
-        "text": "Donuts",
+        "text": "A workplace romance",
         "aliases": [
-          "doughnuts"
+          "dating"
         ],
-        "points": 28
+        "points": 27
       },
       {
-        "text": "Cookies",
+        "text": "Someone quitting",
         "aliases": [
-          "biscuits"
+          "resignation"
         ],
         "points": 23
       },
       {
-        "text": "Fruit",
+        "text": "Pay rises",
         "aliases": [
-          "fruit platter"
+          "raises"
         ],
         "points": 19
       },
       {
-        "text": "Cake",
+        "text": "Layoffs",
         "aliases": [
-          "cupcakes"
+          "job cuts"
         ],
         "points": 14
       },
       {
-        "text": "Candy",
+        "text": "An argument",
         "aliases": [
-          "sweets"
+          "office fight"
         ],
         "points": 10
       },
       {
-        "text": "Bagels",
+        "text": "A new boss",
         "aliases": [
-          "bagel"
+          "management change"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-190",
     "category": "Everyday life",
-    "prompt": "Name something someone might accidentally spill at work.",
+    "prompt": "Name something a coworker says right before handing you more work.",
     "answers": [
       {
-        "text": "Coffee",
+        "text": "Just a quick favor",
         "aliases": [
-          "cup of coffee"
+          "quick favor"
         ],
-        "points": 35
+        "points": 31
       },
       {
-        "text": "Water",
+        "text": "You're good at this",
         "aliases": [
-          "drinking water"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Tea",
-        "aliases": [
-          "cup of tea"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Soda",
-        "aliases": [
-          "soft drink"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Soup",
-        "aliases": [
-          "bowl of soup"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Ink",
-        "aliases": [
-          "printer ink"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "everyday-191",
-    "category": "Everyday life",
-    "prompt": "Name a job that usually involves wearing a uniform.",
-    "answers": [
-      {
-        "text": "Nurse",
-        "aliases": [
-          "nursing"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Police officer",
-        "aliases": [
-          "police"
+          "your expertise"
         ],
         "points": 24
       },
       {
-        "text": "Firefighter",
+        "text": "I'm swamped",
         "aliases": [
-          "fire fighter"
+          "too busy"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Chef",
+        "text": "It won't take long",
         "aliases": [
-          "cook"
+          "only five minutes"
         ],
         "points": 13
       },
       {
-        "text": "Flight attendant",
+        "text": "Be a team player",
         "aliases": [
-          "cabin crew"
+          "help the team"
         ],
         "points": 9
       },
       {
-        "text": "Mechanic",
+        "text": "It's urgent",
         "aliases": [
-          "auto mechanic"
+          "urgent deadline"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "everyday-192",
+    "id": "everyday-191",
     "category": "Everyday life",
-    "prompt": "Name a job that involves working outdoors.",
+    "prompt": "Name a job you thought sounded cooler before you learned what it actually involves.",
     "answers": [
       {
-        "text": "Gardener",
+        "text": "Doctor",
         "aliases": [
-          "landscaper"
+          "physician"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Construction worker",
+        "text": "Lawyer",
         "aliases": [
-          "builder"
+          "attorney"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Mail carrier",
+        "text": "Actor",
         "aliases": [
-          "postal worker"
+          "acting"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Lifeguard",
+        "text": "Police officer",
         "aliases": [
-          "beach lifeguard"
+          "cop"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Farmer",
+        "text": "Teacher",
         "aliases": [
-          "farm worker"
+          "teaching"
         ],
         "points": 8
       },
       {
-        "text": "Park ranger",
+        "text": "Video game tester",
         "aliases": [
-          "forest ranger"
+          "game testing"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-192",
+    "category": "Everyday life",
+    "prompt": "Name a job where being terrible at remembering names would get embarrassing.",
+    "answers": [
+      {
+        "text": "Teacher",
+        "aliases": [
+          "professor"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Politician",
+        "aliases": [
+          "mayor"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Receptionist",
+        "aliases": [
+          "front desk"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Doctor",
+        "aliases": [
+          "physician"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Server",
+        "aliases": [
+          "waiter"
+        ],
+        "points": 9
+      },
+      {
+        "text": "TV host",
+        "aliases": [
+          "talk show host"
         ],
         "points": 6
       }
@@ -3041,47 +3040,47 @@
   {
     "id": "everyday-193",
     "category": "Everyday life",
-    "prompt": "Name a job that may involve working through the night.",
+    "prompt": "Name something that makes working the night shift especially tough.",
     "answers": [
       {
-        "text": "Security guard",
+        "text": "Staying awake",
         "aliases": [
-          "night watchman"
+          "sleepiness"
         ],
-        "points": 28
+        "points": 32
       },
       {
-        "text": "Nurse",
+        "text": "Missing social events",
         "aliases": [
-          "nursing"
+          "no social life"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Hotel receptionist",
+        "text": "Daytime noise when sleeping",
         "aliases": [
-          "night auditor"
+          "can't sleep"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Baker",
+        "text": "Nowhere open for food",
         "aliases": [
-          "bread baker"
+          "no food"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Factory worker",
+        "text": "Being alone",
         "aliases": [
-          "production worker"
+          "loneliness"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Truck driver",
+        "text": "Finding childcare",
         "aliases": [
-          "long haul driver"
+          "babysitter"
         ],
         "points": 6
       }
@@ -3090,96 +3089,96 @@
   {
     "id": "everyday-194",
     "category": "Everyday life",
-    "prompt": "Name a job where someone talks for much of the day.",
+    "prompt": "Name something a customer says that makes a worker's smile disappear.",
     "answers": [
       {
-        "text": "Teacher",
+        "text": "I want the manager",
         "aliases": [
-          "schoolteacher"
+          "speak to your manager"
         ],
-        "points": 35
+        "points": 27
       },
       {
-        "text": "Call center agent",
+        "text": "It's cheaper online",
         "aliases": [
-          "telephone operator"
+          "cheaper elsewhere"
         ],
-        "points": 25
+        "points": 23
       },
       {
-        "text": "Tour guide",
+        "text": "No price means it's free",
         "aliases": [
-          "sightseeing guide"
+          "must be free"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Radio host",
+        "text": "You're too slow",
         "aliases": [
-          "radio presenter"
+          "hurry up"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Auctioneer",
+        "text": "But you just closed",
         "aliases": [
-          "auction caller"
+          "after closing"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Salesperson",
+        "text": "You people always do this",
         "aliases": [
-          "sales representative"
+          "always a problem"
         ],
-        "points": 5
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-195",
     "category": "Everyday life",
-    "prompt": "Name a worker a customer might give a tip to.",
+    "prompt": "Name a worker you're especially nice to when you desperately need a favor.",
     "answers": [
       {
-        "text": "Waiter",
+        "text": "Receptionist",
         "aliases": [
-          "server"
+          "front desk"
         ],
-        "points": 30
+        "points": 31
       },
       {
-        "text": "Barber",
+        "text": "Server",
         "aliases": [
-          "hairdresser"
+          "waiter"
         ],
         "points": 24
       },
       {
-        "text": "Taxi driver",
+        "text": "IT support",
         "aliases": [
-          "cab driver"
+          "help desk"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Hotel bellhop",
+        "text": "Mechanic",
         "aliases": [
-          "porter"
+          "car mechanic"
         ],
         "points": 13
       },
       {
-        "text": "Delivery driver",
+        "text": "Security guard",
         "aliases": [
-          "food delivery driver"
+          "security"
         ],
         "points": 9
       },
       {
-        "text": "Tour guide",
+        "text": "Boss's assistant",
         "aliases": [
-          "tour leader"
+          "personal assistant"
         ],
         "points": 6
       }
@@ -3188,96 +3187,96 @@
   {
     "id": "everyday-196",
     "category": "Everyday life",
-    "prompt": "Name a reason a customer complains to a business.",
+    "prompt": "Name something in a job ad that makes you suspect there's a catch.",
     "answers": [
       {
-        "text": "Wrong order",
+        "text": "No salary listed",
         "aliases": [
-          "incorrect order"
+          "pay not shown"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Long wait",
+        "text": "Always hiring",
         "aliases": [
-          "slow service"
+          "high turnover"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "High price",
+        "text": "We're like a family",
         "aliases": [
-          "too expensive"
+          "like family"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Broken item",
+        "text": "Unpaid trial",
         "aliases": [
-          "damaged product"
+          "free work"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Rude staff",
+        "text": "Vague duties",
         "aliases": [
-          "unfriendly employee"
+          "unclear job"
         ],
         "points": 8
       },
       {
-        "text": "Dirty premises",
+        "text": "Must always be available",
         "aliases": [
-          "unclean store"
+          "on call"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "everyday-197",
     "category": "Everyday life",
-    "prompt": "Name something restaurant workers do before opening.",
+    "prompt": "Name something people enjoy about a sick day once they start feeling a little better.",
     "answers": [
       {
-        "text": "Set tables",
+        "text": "Sleeping in",
         "aliases": [
-          "lay the tables"
+          "sleep"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Prepare ingredients",
+        "text": "Watching TV",
         "aliases": [
-          "food prep"
+          "television"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Turn on ovens",
+        "text": "Wearing pajamas",
         "aliases": [
-          "heat up equipment"
+          "pjs"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Check reservations",
+        "text": "Takeout food",
         "aliases": [
-          "review bookings"
+          "delivery"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Sweep the floor",
+        "text": "Peace and quiet",
         "aliases": [
-          "clean the floor"
+          "quiet"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Stock napkins",
+        "text": "Video games",
         "aliases": [
-          "refill napkin holders"
+          "gaming"
         ],
         "points": 6
       }
@@ -3286,145 +3285,145 @@
   {
     "id": "everyday-198",
     "category": "Everyday life",
-    "prompt": "Name something a cashier might ask a customer.",
+    "prompt": "Name something adults secretly look up instructions for because it seems too basic to ask.",
     "answers": [
       {
-        "text": "Do you need a bag",
+        "text": "Laundry",
         "aliases": [
-          "bag"
+          "washing clothes"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Would you like a receipt",
+        "text": "Boiling an egg",
         "aliases": [
-          "receipt"
-        ],
-        "points": 25
-      },
-      {
-        "text": "How are you paying",
-        "aliases": [
-          "payment method"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Do you have a loyalty card",
-        "aliases": [
-          "rewards card"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Would you like to donate",
-        "aliases": [
-          "charity donation"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Did you find everything",
-        "aliases": [
-          "found what you needed"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "everyday-199",
-    "category": "Everyday life",
-    "prompt": "Name a task a store worker does in the aisles.",
-    "answers": [
-      {
-        "text": "Stock shelves",
-        "aliases": [
-          "put products out"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Face labels forward",
-        "aliases": [
-          "straighten products"
+          "cook an egg"
         ],
         "points": 24
       },
       {
-        "text": "Check expiration dates",
+        "text": "Writing a check",
         "aliases": [
-          "check use by dates"
+          "writing a cheque"
         ],
         "points": 18
       },
       {
-        "text": "Update price tags",
+        "text": "Tying a tie",
         "aliases": [
-          "change prices"
+          "necktie"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Clean shelves",
+        "text": "Ironing a shirt",
         "aliases": [
-          "dust shelves"
+          "ironing"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Count inventory",
+        "text": "Changing a light bulb",
         "aliases": [
-          "stock count"
+          "replace bulb"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "everyday-200",
+    "id": "everyday-199",
     "category": "Everyday life",
-    "prompt": "Name something a hotel guest asks the front desk for.",
+    "prompt": "Name a grown-up purchase that makes you miss spending money on toys.",
     "answers": [
       {
-        "text": "Room key",
+        "text": "Insurance",
         "aliases": [
-          "key card"
+          "insurance policy"
         ],
-        "points": 32
+        "points": 27
       },
       {
-        "text": "Wi-Fi password",
+        "text": "Mattress",
         "aliases": [
-          "internet password"
+          "new bed"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Vacuum cleaner",
+        "aliases": [
+          "vacuum"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Car tires",
+        "aliases": [
+          "tyres"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Water heater",
+        "aliases": [
+          "boiler"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Toilet paper",
+        "aliases": [
+          "bathroom tissue"
+        ],
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": "everyday-200",
+    "category": "Everyday life",
+    "prompt": "Name something that makes you feel rich for about five minutes.",
+    "answers": [
+      {
+        "text": "Payday",
+        "aliases": [
+          "getting paid"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Tax refund",
+        "aliases": [
+          "tax return"
         ],
         "points": 24
       },
       {
-        "text": "Checkout time",
+        "text": "Finding cash",
         "aliases": [
-          "when to check out"
+          "money in pocket"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Directions",
+        "text": "Winning a prize",
         "aliases": [
-          "local directions"
+          "contest win"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Wake-up call",
+        "text": "Gift card",
         "aliases": [
-          "morning call"
+          "voucher"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Extra towels",
+        "text": "Someone repays you",
         "aliases": [
-          "more towels"
+          "paid back"
         ],
         "points": 6
       }
@@ -3433,145 +3432,145 @@
   {
     "id": "everyday-201",
     "category": "Everyday life",
-    "prompt": "Name something people do to prepare for a job interview.",
+    "prompt": "Name something that gives away how nervous you are in a job interview.",
     "answers": [
       {
-        "text": "Research the company",
+        "text": "Sweating",
         "aliases": [
-          "read about the employer"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Practice answers",
-        "aliases": [
-          "mock interview"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Choose an outfit",
-        "aliases": [
-          "pick clothes"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Print a resume",
-        "aliases": [
-          "bring cv copies"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Plan the route",
-        "aliases": [
-          "check directions"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Prepare questions",
-        "aliases": [
-          "questions for the interviewer"
-        ],
-        "points": 6
-      }
-    ]
-  },
-  {
-    "id": "everyday-202",
-    "category": "Everyday life",
-    "prompt": "Name a topic an interviewer might ask a job candidate about.",
-    "answers": [
-      {
-        "text": "Previous jobs",
-        "aliases": [
-          "work experience"
+          "sweaty"
         ],
         "points": 35
       },
       {
-        "text": "Strengths",
+        "text": "Talking too fast",
         "aliases": [
-          "what they do well"
+          "rushing words"
         ],
         "points": 25
       },
       {
-        "text": "Weaknesses",
+        "text": "Shaky hands",
         "aliases": [
-          "areas to improve"
+          "trembling"
         ],
         "points": 16
       },
       {
-        "text": "Why they want the job",
+        "text": "Mind goes blank",
         "aliases": [
-          "reason for applying"
+          "forget answers"
         ],
         "points": 11
       },
       {
-        "text": "Salary expectations",
+        "text": "Nervous laughter",
         "aliases": [
-          "desired pay"
+          "awkward laugh"
         ],
         "points": 8
       },
       {
-        "text": "Availability",
+        "text": "Fidgeting",
         "aliases": [
-          "when they can start"
+          "can't sit still"
         ],
         "points": 5
       }
     ]
   },
   {
-    "id": "everyday-203",
+    "id": "everyday-202",
     "category": "Everyday life",
-    "prompt": "Name something people include on a resume.",
+    "prompt": "Name something people panic about the night before a job interview.",
     "answers": [
       {
-        "text": "Work history",
+        "text": "What to wear",
         "aliases": [
-          "past jobs"
+          "outfit"
         ],
         "points": 30
       },
       {
-        "text": "Education",
+        "text": "What they'll be asked",
         "aliases": [
-          "qualifications"
+          "interview questions"
         ],
         "points": 24
       },
       {
-        "text": "Contact information",
+        "text": "Their resume",
         "aliases": [
-          "phone number and email"
+          "CV"
         ],
         "points": 18
       },
       {
-        "text": "Skills",
+        "text": "Getting there",
         "aliases": [
-          "abilities"
+          "directions"
         ],
         "points": 13
       },
       {
-        "text": "References",
+        "text": "Waking up on time",
         "aliases": [
-          "referees"
+          "alarm"
         ],
         "points": 9
       },
       {
-        "text": "Awards",
+        "text": "Knowing the company",
         "aliases": [
-          "achievements"
+          "company research"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-203",
+    "category": "Everyday life",
+    "prompt": "Name something that can wreck a job interview before the first real question.",
+    "answers": [
+      {
+        "text": "Arriving late",
+        "aliases": [
+          "late"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Using the wrong name",
+        "aliases": [
+          "wrong company name"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Phone ringing",
+        "aliases": [
+          "cellphone"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Bad handshake",
+        "aliases": [
+          "weak handshake"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Being rude to reception",
+        "aliases": [
+          "rude to receptionist"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Food stuck in teeth",
+        "aliases": [
+          "dirty teeth"
         ],
         "points": 6
       }
@@ -3580,96 +3579,96 @@
   {
     "id": "everyday-204",
     "category": "Everyday life",
-    "prompt": "Name something people consider when choosing between two job offers.",
+    "prompt": "Name a reason someone turns down a job even when they need money.",
     "answers": [
       {
-        "text": "Salary",
+        "text": "Pay is too low",
         "aliases": [
-          "pay"
+          "low salary"
         ],
-        "points": 32
+        "points": 27
       },
       {
-        "text": "Working hours",
+        "text": "Long commute",
+        "aliases": [
+          "too far"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Awful boss",
+        "aliases": [
+          "bad manager"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Bad hours",
         "aliases": [
           "schedule"
         ],
-        "points": 24
+        "points": 14
       },
       {
-        "text": "Commute",
+        "text": "Dangerous work",
         "aliases": [
-          "travel time"
+          "unsafe"
         ],
-        "points": 18
+        "points": 10
       },
       {
-        "text": "Benefits",
+        "text": "Unpaid work required",
         "aliases": [
-          "perks"
+          "unpaid training"
         ],
-        "points": 12
-      },
-      {
-        "text": "Coworkers",
-        "aliases": [
-          "team"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Promotion opportunities",
-        "aliases": [
-          "career growth"
-        ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-205",
     "category": "Everyday life",
-    "prompt": "Name a benefit an employer might offer besides salary.",
+    "prompt": "Name a job perk that would almost make you forgive a terrible boss.",
     "answers": [
+      {
+        "text": "Lots of paid leave",
+        "aliases": [
+          "vacation days"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Flexible hours",
+        "aliases": [
+          "flextime"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Working from home",
+        "aliases": [
+          "remote work"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Free food",
+        "aliases": [
+          "free meals"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Company car",
+        "aliases": [
+          "free car"
+        ],
+        "points": 9
+      },
       {
         "text": "Health insurance",
         "aliases": [
-          "medical coverage"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Paid vacation",
-        "aliases": [
-          "paid time off"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Free meals",
-        "aliases": [
-          "staff meals"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Retirement plan",
-        "aliases": [
-          "pension"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Gym membership",
-        "aliases": [
-          "fitness membership"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Childcare",
-        "aliases": [
-          "day care"
+          "medical benefits"
         ],
         "points": 6
       }
@@ -3678,47 +3677,47 @@
   {
     "id": "everyday-206",
     "category": "Everyday life",
-    "prompt": "Name a warning or safety sign seen at a workplace.",
+    "prompt": "Name something a new employee is afraid to admit they still don't know.",
     "answers": [
       {
-        "text": "Wet floor",
+        "text": "The boss's name",
         "aliases": [
-          "slippery floor"
+          "manager's name"
         ],
         "points": 35
       },
       {
-        "text": "Hard hats required",
+        "text": "Where the bathroom is",
         "aliases": [
-          "wear a hard hat"
+          "toilet location"
         ],
         "points": 25
       },
       {
-        "text": "No entry",
+        "text": "Their password",
         "aliases": [
-          "keep out"
+          "login"
         ],
         "points": 16
       },
       {
-        "text": "Fire exit",
+        "text": "What their job involves",
         "aliases": [
-          "emergency exit"
+          "job duties"
         ],
         "points": 11
       },
       {
-        "text": "High voltage",
+        "text": "When payday is",
         "aliases": [
-          "electrical danger"
+          "pay date"
         ],
         "points": 8
       },
       {
-        "text": "Forklift traffic",
+        "text": "Who to ask for help",
         "aliases": [
-          "watch for forklifts"
+          "right contact"
         ],
         "points": 5
       }
@@ -3727,47 +3726,47 @@
   {
     "id": "everyday-207",
     "category": "Everyday life",
-    "prompt": "Name equipment a worker might use in a warehouse.",
+    "prompt": "Name something that gets harder the moment someone starts watching you do it.",
     "answers": [
       {
-        "text": "Forklift",
+        "text": "Typing",
         "aliases": [
-          "fork lift"
+          "using a keyboard"
         ],
         "points": 30
       },
       {
-        "text": "Pallet jack",
+        "text": "Parking",
         "aliases": [
-          "pallet truck"
+          "parallel parking"
         ],
         "points": 24
       },
       {
-        "text": "Barcode scanner",
+        "text": "Tying a tie",
         "aliases": [
-          "handheld scanner"
+          "tie a knot"
         ],
         "points": 18
       },
       {
-        "text": "Conveyor belt",
+        "text": "Mental math",
         "aliases": [
-          "conveyor"
+          "calculations"
         ],
         "points": 13
       },
       {
-        "text": "Packing table",
+        "text": "Unlocking a door",
         "aliases": [
-          "packing station"
+          "using a key"
         ],
         "points": 9
       },
       {
-        "text": "Hand truck",
+        "text": "Fixing a computer",
         "aliases": [
-          "dolly"
+          "tech repair"
         ],
         "points": 6
       }
@@ -3776,47 +3775,47 @@
   {
     "id": "everyday-208",
     "category": "Everyday life",
-    "prompt": "Name something a gardener might wear while working.",
+    "prompt": "Name something people feel qualified to do after watching just one how-to video.",
     "answers": [
       {
-        "text": "Gloves",
+        "text": "Cook",
         "aliases": [
-          "gardening gloves"
+          "cooking"
         ],
         "points": 32
       },
       {
-        "text": "Boots",
+        "text": "Home repairs",
         "aliases": [
-          "work boots"
+          "DIY"
         ],
         "points": 24
       },
       {
-        "text": "Sun hat",
+        "text": "Makeup",
         "aliases": [
-          "wide brimmed hat"
+          "beauty treatment"
         ],
         "points": 18
       },
       {
-        "text": "Knee pads",
+        "text": "Exercise",
         "aliases": [
-          "kneepads"
+          "workout"
         ],
         "points": 12
       },
       {
-        "text": "Overalls",
+        "text": "Invest money",
         "aliases": [
-          "coveralls"
+          "investing"
         ],
         "points": 8
       },
       {
-        "text": "Safety glasses",
+        "text": "Dance",
         "aliases": [
-          "protective goggles"
+          "dancing"
         ],
         "points": 6
       }
@@ -3825,194 +3824,194 @@
   {
     "id": "everyday-209",
     "category": "Everyday life",
-    "prompt": "Name something a substitute teacher needs to know.",
+    "prompt": "Name something a teacher probably needs after spending a day with your old class.",
     "answers": [
       {
-        "text": "Class schedule",
+        "text": "A nap",
         "aliases": [
-          "timetable"
+          "sleep"
         ],
-        "points": 28
+        "points": 27
       },
       {
-        "text": "Students' names",
+        "text": "Coffee",
         "aliases": [
-          "class roster"
+          "caffeine"
         ],
         "points": 23
       },
       {
-        "text": "Classroom rules",
+        "text": "Silence",
         "aliases": [
-          "behavior rules"
+          "peace and quiet"
         ],
         "points": 19
       },
       {
-        "text": "Lesson plan",
+        "text": "A vacation",
         "aliases": [
-          "what to teach"
+          "holiday"
         ],
         "points": 14
       },
       {
-        "text": "Emergency procedures",
+        "text": "A massage",
         "aliases": [
-          "fire drill instructions"
+          "back rub"
         ],
         "points": 10
       },
       {
-        "text": "Bathroom location",
+        "text": "A glass of wine",
         "aliases": [
-          "where the toilets are"
+          "a drink"
         ],
-        "points": 6
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-210",
     "category": "Everyday life",
-    "prompt": "Name a skill people might take an evening class to learn.",
+    "prompt": "Name a class an adult might sign up for mostly to meet people.",
     "answers": [
+      {
+        "text": "Dance",
+        "aliases": [
+          "dancing"
+        ],
+        "points": 31
+      },
       {
         "text": "Cooking",
         "aliases": [
           "cookery"
         ],
-        "points": 35
-      },
-      {
-        "text": "A foreign language",
-        "aliases": [
-          "language lessons"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Dancing",
-        "aliases": [
-          "dance"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Photography",
-        "aliases": [
-          "taking photos"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Pottery",
-        "aliases": [
-          "ceramics"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Sewing",
-        "aliases": [
-          "dressmaking"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "everyday-211",
-    "category": "Everyday life",
-    "prompt": "Name something that makes a workplace training session useful.",
-    "answers": [
-      {
-        "text": "Clear handouts",
-        "aliases": [
-          "printed instructions"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Live demonstration",
-        "aliases": [
-          "show how it is done"
-        ],
         "points": 24
       },
       {
-        "text": "Group exercises",
+        "text": "Language",
         "aliases": [
-          "hands on activity"
+          "foreign language"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Time for questions",
+        "text": "Yoga",
         "aliases": [
-          "question and answer session"
+          "yoga class"
         ],
         "points": 13
       },
       {
-        "text": "Real examples",
+        "text": "Art",
         "aliases": [
-          "case studies"
+          "painting"
         ],
         "points": 9
       },
       {
-        "text": "Regular breaks",
+        "text": "Acting",
         "aliases": [
-          "break time"
+          "drama"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "everyday-212",
+    "id": "everyday-211",
     "category": "Everyday life",
-    "prompt": "Name clothing an employer might say is unsuitable for work.",
+    "prompt": "Name something people do when they realize they've been nodding without listening.",
     "answers": [
       {
-        "text": "Flip-flops",
+        "text": "Ask them to repeat",
         "aliases": [
-          "beach sandals"
+          "say that again"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Offensive T-shirts",
+        "text": "Pretend to agree",
         "aliases": [
-          "rude slogans"
+          "say yes"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Ripped jeans",
+        "text": "Laugh",
         "aliases": [
-          "torn jeans"
+          "chuckle"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Very short shorts",
+        "text": "Change the subject",
         "aliases": [
-          "short shorts"
+          "new topic"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Baseball caps",
+        "text": "Ask a vague question",
         "aliases": [
-          "caps"
+          "how did that go"
         ],
         "points": 8
       },
       {
+        "text": "Blame the noise",
+        "aliases": [
+          "couldn't hear"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-212",
+    "category": "Everyday life",
+    "prompt": "Name something you'd only wear to work if you were sure the boss was away.",
+    "answers": [
+      {
         "text": "Pajamas",
         "aliases": [
-          "pyjamas"
+          "pjs"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Flip-flops",
+        "aliases": [
+          "sandals"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Shorts",
+        "aliases": [
+          "short pants"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A silly T-shirt",
+        "aliases": [
+          "funny shirt"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Tracksuit",
+        "aliases": [
+          "sweatpants"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Baseball cap",
+        "aliases": [
+          "hat"
         ],
         "points": 6
       }
@@ -4021,47 +4020,47 @@
   {
     "id": "everyday-213",
     "category": "Everyday life",
-    "prompt": "Name a job where people spend much of their day standing.",
+    "prompt": "Name a job that makes people say, 'I could never do that.'",
     "answers": [
       {
-        "text": "Waiter",
+        "text": "Surgeon",
         "aliases": [
-          "server"
+          "surgery"
         ],
-        "points": 28
+        "points": 32
       },
       {
         "text": "Teacher",
         "aliases": [
-          "schoolteacher"
+          "teaching"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Retail clerk",
+        "text": "Garbage collector",
         "aliases": [
-          "shop assistant"
+          "sanitation worker"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Hairdresser",
+        "text": "High-rise window cleaner",
         "aliases": [
-          "barber"
+          "window washer"
         ],
-        "points": 14
+        "points": 12
       },
       {
-        "text": "Factory worker",
+        "text": "Funeral director",
         "aliases": [
-          "assembly line worker"
+          "undertaker"
         ],
-        "points": 10
+        "points": 8
       },
       {
-        "text": "Nurse",
+        "text": "Police officer",
         "aliases": [
-          "nursing"
+          "cop"
         ],
         "points": 6
       }
@@ -4070,96 +4069,96 @@
   {
     "id": "everyday-214",
     "category": "Everyday life",
-    "prompt": "Name something that might force a workplace to close for the day.",
+    "prompt": "Name something that can make you cheer when it gets canceled.",
     "answers": [
       {
-        "text": "Snowstorm",
+        "text": "A meeting",
         "aliases": [
-          "heavy snow"
+          "work meeting"
         ],
-        "points": 35
+        "points": 27
       },
       {
-        "text": "Power failure",
+        "text": "An exam",
         "aliases": [
-          "power outage"
+          "test"
         ],
-        "points": 25
+        "points": 23
       },
       {
-        "text": "Flood",
+        "text": "A dentist appointment",
         "aliases": [
-          "flooding"
+          "dental visit"
         ],
-        "points": 16
+        "points": 19
       },
       {
-        "text": "Fire",
+        "text": "A work shift",
         "aliases": [
-          "building fire"
+          "overtime"
         ],
-        "points": 11
+        "points": 14
       },
       {
-        "text": "Water main break",
+        "text": "An awkward family dinner",
         "aliases": [
-          "no water supply"
+          "family event"
         ],
-        "points": 8
+        "points": 10
       },
       {
-        "text": "Gas leak",
+        "text": "A presentation",
         "aliases": [
-          "leaking gas"
+          "giving a speech"
         ],
-        "points": 5
+        "points": 7
       }
     ]
   },
   {
     "id": "everyday-215",
     "category": "Everyday life",
-    "prompt": "Name something made in a factory.",
+    "prompt": "Name something you were excited to do as an adult until you actually had to do it.",
     "answers": [
       {
-        "text": "Cars",
+        "text": "Work",
         "aliases": [
-          "automobiles"
+          "have a job"
         ],
-        "points": 30
+        "points": 31
       },
       {
-        "text": "Clothes",
+        "text": "Pay bills",
         "aliases": [
-          "clothing"
+          "budget"
         ],
         "points": 24
       },
       {
-        "text": "Toys",
+        "text": "Cook every day",
         "aliases": [
-          "toy"
+          "make dinner"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Furniture",
+        "text": "Drive everywhere",
         "aliases": [
-          "chairs and tables"
+          "commute"
         ],
         "points": 13
       },
       {
-        "text": "Packaged food",
+        "text": "Clean your own home",
         "aliases": [
-          "canned food"
+          "housework"
         ],
         "points": 9
       },
       {
-        "text": "Computers",
+        "text": "Book appointments",
         "aliases": [
-          "electronics"
+          "make appointments"
         ],
         "points": 6
       }
@@ -4168,96 +4167,96 @@
   {
     "id": "everyday-216",
     "category": "Everyday life",
-    "prompt": "Name a job that involves caring for animals.",
+    "prompt": "Name something people wish came with a practice round.",
     "answers": [
       {
-        "text": "Veterinarian",
+        "text": "Job interview",
         "aliases": [
-          "vet"
+          "interview"
         ],
-        "points": 32
+        "points": 35
       },
       {
-        "text": "Zookeeper",
+        "text": "First date",
         "aliases": [
-          "zoo keeper"
+          "dating"
         ],
-        "points": 24
+        "points": 25
       },
       {
-        "text": "Dog walker",
+        "text": "Driving test",
         "aliases": [
-          "pet walker"
+          "road test"
         ],
-        "points": 18
+        "points": 16
       },
       {
-        "text": "Pet groomer",
+        "text": "Parenthood",
         "aliases": [
-          "dog groomer"
+          "being a parent"
         ],
-        "points": 12
+        "points": 11
       },
       {
-        "text": "Farmer",
+        "text": "Public speaking",
         "aliases": [
-          "livestock farmer"
+          "giving a speech"
         ],
         "points": 8
       },
       {
-        "text": "Animal shelter worker",
+        "text": "First day at work",
         "aliases": [
-          "shelter volunteer"
+          "new job"
         ],
-        "points": 6
+        "points": 5
       }
     ]
   },
   {
     "id": "everyday-217",
     "category": "Everyday life",
-    "prompt": "Name a reason a store employee calls the manager.",
+    "prompt": "Name something people wish they could put on a resume and get paid for.",
     "answers": [
       {
-        "text": "Refund needs approval",
+        "text": "Napping",
         "aliases": [
-          "approve a refund"
+          "sleeping"
         ],
-        "points": 28
+        "points": 30
       },
       {
-        "text": "Angry customer",
+        "text": "Eating",
         "aliases": [
-          "customer complaint"
+          "snacking"
         ],
-        "points": 23
+        "points": 24
       },
       {
-        "text": "Price does not match",
+        "text": "Watching TV",
         "aliases": [
-          "price discrepancy"
+          "binge watching"
         ],
-        "points": 19
+        "points": 18
       },
       {
-        "text": "Not enough staff",
+        "text": "Video games",
         "aliases": [
-          "staff shortage"
+          "gaming"
         ],
-        "points": 14
+        "points": 13
       },
       {
-        "text": "Someone is injured",
+        "text": "Gossiping",
         "aliases": [
-          "accident"
+          "talking about people"
         ],
-        "points": 10
+        "points": 9
       },
       {
-        "text": "Suspected theft",
+        "text": "Shopping",
         "aliases": [
-          "shoplifting"
+          "buying things"
         ],
         "points": 6
       }
@@ -4266,145 +4265,145 @@
   {
     "id": "everyday-218",
     "category": "Everyday life",
-    "prompt": "Name something an employee might need a key to open.",
+    "prompt": "Name something an adult dreads checking after ignoring it for a week.",
     "answers": [
       {
-        "text": "Office door",
+        "text": "Email",
         "aliases": [
-          "building entrance"
+          "inbox"
         ],
-        "points": 35
+        "points": 32
       },
       {
-        "text": "Filing cabinet",
+        "text": "Bank balance",
         "aliases": [
-          "file cabinet"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Locker",
-        "aliases": [
-          "staff locker"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Company car",
-        "aliases": [
-          "work vehicle"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Supply cupboard",
-        "aliases": [
-          "supply closet"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Safe",
-        "aliases": [
-          "cash safe"
-        ],
-        "points": 5
-      }
-    ]
-  },
-  {
-    "id": "everyday-219",
-    "category": "Everyday life",
-    "prompt": "Name something a student does when stuck on a difficult assignment.",
-    "answers": [
-      {
-        "text": "Ask someone for help",
-        "aliases": [
-          "ask the teacher"
-        ],
-        "points": 30
-      },
-      {
-        "text": "Take a break",
-        "aliases": [
-          "step away"
+          "bank account"
         ],
         "points": 24
       },
       {
-        "text": "Reread the instructions",
+        "text": "Voicemail",
         "aliases": [
-          "check the directions"
+          "missed calls"
         ],
         "points": 18
       },
       {
-        "text": "Search online",
+        "text": "Laundry pile",
         "aliases": [
-          "look it up"
+          "dirty clothes"
         ],
-        "points": 13
+        "points": 12
       },
       {
-        "text": "Try a different approach",
+        "text": "Mail",
         "aliases": [
-          "try another method"
+          "letters"
         ],
-        "points": 9
+        "points": 8
       },
       {
-        "text": "Do an easier part first",
+        "text": "The fridge",
         "aliases": [
-          "skip ahead"
+          "refrigerator"
         ],
         "points": 6
       }
     ]
   },
   {
-    "id": "everyday-220",
+    "id": "everyday-219",
     "category": "Everyday life",
-    "prompt": "Name something that can go wrong during a work presentation.",
+    "prompt": "Name something people do while waiting for the motivation to start a big task.",
     "answers": [
       {
-        "text": "Projector fails",
+        "text": "Scroll on their phone",
         "aliases": [
-          "projector will not work"
+          "social media"
         ],
-        "points": 32
+        "points": 27
       },
       {
-        "text": "Slides are missing",
+        "text": "Have a snack",
         "aliases": [
-          "wrong slide file"
+          "eat"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Make coffee",
+        "aliases": [
+          "get a drink"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Clean something else",
+        "aliases": [
+          "tidy"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Watch TV",
+        "aliases": [
+          "watch a show"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Write a to-do list",
+        "aliases": [
+          "make a plan"
+        ],
+        "points": 7
+      }
+    ]
+  },
+  {
+    "id": "everyday-220",
+    "category": "Everyday life",
+    "prompt": "Name something that can make a confident speaker forget every word.",
+    "answers": [
+      {
+        "text": "Microphone failure",
+        "aliases": [
+          "mic stops working"
+        ],
+        "points": 31
+      },
+      {
+        "text": "Audience starts laughing",
+        "aliases": [
+          "being laughed at"
         ],
         "points": 24
       },
       {
-        "text": "Presenter forgets what to say",
+        "text": "Their crush is watching",
         "aliases": [
-          "mind goes blank"
+          "someone they fancy"
         ],
-        "points": 18
+        "points": 17
       },
       {
-        "text": "Audience cannot hear",
+        "text": "Wrong slides",
         "aliases": [
-          "microphone too quiet"
+          "wrong presentation"
         ],
-        "points": 12
+        "points": 13
       },
       {
-        "text": "Time runs out",
+        "text": "A ringing phone",
         "aliases": [
-          "presentation runs over"
+          "phone call"
         ],
-        "points": 8
+        "points": 9
       },
       {
-        "text": "Clicker stops working",
+        "text": "An unexpected question",
         "aliases": [
-          "remote does not work"
+          "interruption"
         ],
         "points": 6
       }
