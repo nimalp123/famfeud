@@ -1,4 +1,4 @@
-import type { PublicRoom, RoomState } from "./types.ts";
+import type { PublicRoom, RoomRepository, RoomState } from "./types.ts";
 
 interface RoomRow {
   state: string;
@@ -15,7 +15,24 @@ export class RoomStorageError extends Error {
   }
 }
 
-export class RoomStore {
+/** Apply one intent to the newest committed state until its revision wins. */
+export async function mutateRoom(
+  code: string,
+  update: (room: RoomState) => RoomState,
+  read: (code: string) => Promise<RoomState>,
+  compareAndSet: (previous: RoomState, next: RoomState) => Promise<boolean>,
+): Promise<RoomState> {
+  for (let attempt = 0; attempt < 12; attempt += 1) {
+    const previous = await read(code);
+    const next = update(structuredClone(previous));
+    if (JSON.stringify(next) === JSON.stringify(previous)) return previous;
+    next.revision = previous.revision + 1;
+    if (await compareAndSet(previous, next)) return next;
+  }
+  throw new RoomStorageError("The room is busy. Please try your action again.", 409);
+}
+
+export class RoomStore implements RoomRepository {
   private database: D1Database;
 
   constructor(database: D1Database) {
@@ -60,13 +77,7 @@ export class RoomStore {
     code: string,
     update: (room: RoomState) => RoomState,
   ): Promise<RoomState> {
-    for (let attempt = 0; attempt < 12; attempt += 1) {
-      const previous = await this.get(code);
-      const next = update(structuredClone(previous));
-      if (JSON.stringify(next) === JSON.stringify(previous)) {
-        return previous;
-      }
-      next.revision = previous.revision + 1;
+    return mutateRoom(code, update, (roomCode) => this.get(roomCode), async (previous, next) => {
       const result = next.players.length === 0
         ? await this.database.prepare("DELETE FROM rooms WHERE code = ? AND revision = ?")
           .bind(code, previous.revision).run()
@@ -76,12 +87,8 @@ export class RoomStore {
           JSON.stringify(next), next.revision, Number(next.isPublic), next.phase, next.updatedAt,
           code, previous.revision,
         ).run();
-      if (result.meta.changes === 1) {
-        return next;
-      }
-      // Re-read and apply the same intent to the winning version on contention.
-    }
-    throw new RoomStorageError("The room is busy. Please try your action again.", 409);
+      return result.meta.changes === 1;
+    });
   }
 
   async listPublic(now: number): Promise<PublicRoom[]> {

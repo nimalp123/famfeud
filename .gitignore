@@ -43,3 +43,22 @@ yarn-error.log*
 
 # OS metadata
 .DS_Store
+
+# Cloud platform local credentials
+/.insforge/
+/.vercel/
+
+# InsForge & AI agent skills
+.insforge
+.agent
+.agents
+.augment
+.claude
+.cline
+.github/copilot*
+.kilocode
+.qoder
+.qwen
+.roo
+.trae
+.windsurf

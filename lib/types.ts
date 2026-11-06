@@ -143,6 +143,27 @@ export interface ApiSessionResponse {
   room: RoomView;
 }
 
-export interface GameEnvironment {
-  DB: D1Database;
+export interface RoomRepository {
+  consumeRateLimit(scope: string, key: string, limit: number, windowMs: number, now: number): Promise<void>;
+  get(code: string): Promise<RoomState>;
+  create(room: RoomState): Promise<boolean>;
+  mutate(code: string, update: (room: RoomState) => RoomState): Promise<RoomState>;
+  listPublic(now: number): Promise<PublicRoom[]>;
 }
+
+export interface StoredQuestion {
+  id: string;
+  category: string;
+  prompt: string;
+  answers: unknown;
+}
+
+export interface GameBackend {
+  rooms: RoomRepository;
+  countQuestions(): Promise<number>;
+  sampleQuestions(category: string, excludedIds: string[], limit: number): Promise<StoredQuestion[]>;
+}
+
+export type GameEnvironment =
+  | { DB: D1Database; backend?: never }
+  | { DB?: never; backend: GameBackend };

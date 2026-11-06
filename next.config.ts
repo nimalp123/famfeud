@@ -1,7 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  webpack(config) {
+    // The existing Sites build resolves this module inside Cloudflare Workers.
+    // Vercel uses InsForge and never executes the Cloudflare fallback.
+    config.externals.push("cloudflare:workers");
+    return config;
+  },
 };
 
 export default nextConfig;

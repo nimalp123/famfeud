@@ -3,7 +3,7 @@ import { generateQuestions } from "./questions.ts";
 import { questionCount } from "./question-bank.ts";
 import { PLAYER_AVATARS, QUESTION_CATEGORIES } from "./constants.ts";
 import { RoomStorageError, RoomStore } from "./storage.ts";
-import type { ClientAction, GameEnvironment, Player, RoomSettings, RoomState } from "./types.ts";
+import type { ClientAction, GameEnvironment, Player, RoomRepository, RoomSettings, RoomState } from "./types.ts";
 
 const CODE_ALPHABET = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
 const BODY_LIMIT = 4096;
@@ -198,7 +198,7 @@ function recoverGeneration(room: RoomState, now: number): RoomState {
   };
 }
 
-async function touchRoom(store: RoomStore, code: string, hash: string): Promise<RoomState> {
+async function touchRoom(store: RoomRepository, code: string, hash: string): Promise<RoomState> {
   return store.mutate(code, (room) => {
     const player = currentPlayer(room, hash);
     const now = Date.now();
@@ -229,7 +229,7 @@ async function touchRoom(store: RoomStore, code: string, hash: string): Promise<
   });
 }
 
-async function beginGame(store: RoomStore, code: string, hash: string, environment: GameEnvironment): Promise<RoomState> {
+async function beginGame(store: RoomRepository, code: string, hash: string, environment: GameEnvironment): Promise<RoomState> {
   const generationId = `${Date.now()}:${crypto.randomUUID()}`;
   const pending = await store.mutate(code, (room) => {
     const host = currentPlayer(room, hash);
@@ -273,11 +273,14 @@ export async function handleApi(request: Request, environment: GameEnvironment):
   try {
     const url = new URL(request.url);
     const path = url.pathname.replace(/\/+$/, "");
-    if (!environment.DB) throw new ApiError("The game database is not configured yet.", 503);
+    if (!environment.DB && !environment.backend) throw new ApiError("The game database is not configured yet.", 503);
     if (request.method === "GET" && path === "/api/health") {
-      return json({ ok: true, questionCount: await questionCount(environment.DB) });
+      const count = environment.backend
+        ? await environment.backend.countQuestions()
+        : await questionCount(environment.DB);
+      return json({ ok: true, questionCount: count });
     }
-    const store = new RoomStore(environment.DB);
+    const store = environment.backend?.rooms ?? new RoomStore(environment.DB!);
     if (request.method === "GET" && path === "/api/rooms") {
       return json({ rooms: await store.listPublic(Date.now()) });
     }

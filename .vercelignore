@@ -1,0 +1,12 @@
+.env*
+.insforge
+.git
+.agents
+.codex
+.wrangler
+.sites-runtime
+outputs
+work
+node_modules
+dist
+.next
