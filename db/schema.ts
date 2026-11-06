@@ -16,3 +16,10 @@ export const rateLimits = sqliteTable("rate_limits", {
   hits: integer("hits").notNull(),
   expiresAt: integer("expires_at").notNull(),
 }, (table) => [primaryKey({ columns: [table.scope, table.key] })]);
+
+export const questionBank = sqliteTable("question_bank", {
+  id: text("id").primaryKey(),
+  category: text("category").notNull(),
+  prompt: text("prompt").notNull().unique(),
+  answers: text("answers").notNull(),
+}, (table) => [index("question_bank_category_idx").on(table.category)]);

@@ -1,5 +1,6 @@
 import { addPlayer, advanceTime, applyAction, createRoom, startGame, toRoomView, validateSettings } from "./game.ts";
 import { generateQuestions } from "./questions.ts";
+import { questionCount } from "./question-bank.ts";
 import { PLAYER_AVATARS, QUESTION_CATEGORIES } from "./constants.ts";
 import { RoomStorageError, RoomStore } from "./storage.ts";
 import type { ClientAction, GameEnvironment, Player, RoomSettings, RoomState } from "./types.ts";
@@ -193,7 +194,7 @@ function recoverGeneration(room: RoomState, now: number): RoomState {
   if (Number.isFinite(started) && now - started < 90_000) return room;
   return {
     ...room, phase: "lobby", generationId: null, updatedAt: now,
-    error: "Question generation took too long. The host can try again.",
+    error: "Loading questions took too long. The host can try again.",
   };
 }
 
@@ -246,13 +247,13 @@ async function beginGame(store: RoomStore, code: string, hash: string, environme
     return { ...room, phase: "generating", generationId, error: null, updatedAt: Date.now() };
   });
   try {
-    const generated = await generateQuestions(pending.settings, environment);
+    const generated = await generateQuestions(pending.settings, environment, pending.usedQuestionIds);
     return await store.mutate(code, (room) => {
       currentPlayer(room, hash);
       if (room.phase !== "generating" || room.generationId !== generationId) {
-        throw new ApiError("This question generation is no longer active.", 409);
+        throw new ApiError("This game start is no longer active.", 409);
       }
-      return gameCall(() => startGame(room, generated.questions, generated.source, Date.now()));
+      return gameCall(() => ({ ...startGame(room, generated.questions, generated.source, Date.now()), usedQuestionIds: generated.usedQuestionIds }));
     });
   } catch (error) {
     if (error instanceof RoomStorageError && error.status === 404) throw error;
@@ -260,7 +261,7 @@ async function beginGame(store: RoomStore, code: string, hash: string, environme
       if (room.phase !== "generating" || room.generationId !== generationId) return room;
       return {
         ...room, phase: "lobby", generationId: null, updatedAt: Date.now(),
-        error: "We could not generate this game's questions. Please try again.",
+        error: "We could not load this game's questions. Please try again.",
       };
     });
     currentPlayer(recovered, hash);
@@ -272,10 +273,10 @@ export async function handleApi(request: Request, environment: GameEnvironment):
   try {
     const url = new URL(request.url);
     const path = url.pathname.replace(/\/+$/, "");
-    if (request.method === "GET" && path === "/api/health") {
-      return json({ ok: true, aiConfigured: Boolean(environment.OPENAI_API_KEY) });
-    }
     if (!environment.DB) throw new ApiError("The game database is not configured yet.", 503);
+    if (request.method === "GET" && path === "/api/health") {
+      return json({ ok: true, questionCount: await questionCount(environment.DB) });
+    }
     const store = new RoomStore(environment.DB);
     if (request.method === "GET" && path === "/api/rooms") {
       return json({ rooms: await store.listPublic(Date.now()) });

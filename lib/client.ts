@@ -28,7 +28,7 @@ async function request<T>(path: string, options: RequestInit = {}, session?: Ses
 }
 
 export const api = {
-  health: () => request<{ ok: boolean; aiConfigured: boolean }>("/api/health"),
+  health: () => request<{ ok: boolean; questionCount: number }>("/api/health"),
   publicRooms: () => request<{ rooms: PublicRoom[] }>("/api/rooms"),
   create: (name: string, avatar: number, settings: RoomSettings) =>
     request<ApiSessionResponse>("/api/rooms", { method: "POST", body: JSON.stringify({ name, avatar, settings }) }),

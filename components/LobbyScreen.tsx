@@ -62,7 +62,7 @@ export default function LobbyScreen({ room, session, onAction, onLeave, busy, er
   else if (!allReady) startHint = "Waiting for everyone to ready up.";
 
   return <main className="lobby-page">
-    <div className="lobby-page-heading"><div><div className="lobby-eyebrow"><span className="home-live-dot" /> PRE-GAME HANGOUT</div><h1>Your people. Your showdown.</h1><p>{generating ? "Getting fresh questions ready for your game…" : "Claim a seat, warm up your guesses, and get everyone ready."}</p></div><button className="button button-ghost lobby-leave" type="button" onClick={() => void onLeave()} disabled={busy || generating}><LogOut size={16} /> Leave lobby</button></div>
+    <div className="lobby-page-heading"><div><div className="lobby-eyebrow"><span className="home-live-dot" /> PRE-GAME HANGOUT</div><h1>Your people. Your showdown.</h1><p>{generating ? "Picking questions from the bank…" : "Claim a seat, warm up your guesses, and get everyone ready."}</p></div><button className="button button-ghost lobby-leave" type="button" onClick={() => void onLeave()} disabled={busy || generating}><LogOut size={16} /> Leave lobby</button></div>
 
     <div className="lobby-layout">
       <div className="lobby-main-column">
@@ -74,7 +74,7 @@ export default function LobbyScreen({ room, session, onAction, onLeave, busy, er
         </section>
 
         {(error || room.error) && <div className="lobby-error" role="alert">{error || room.error}</div>}
-        <div className={`lobby-start-panel ${generating ? "is-generating" : ""}`}><div>{generating ? <Sparkles size={24} className="lobby-generating-icon" /> : <Zap size={24} />}<span><strong>{generating ? "Building your game…" : isHost ? "All eyes on you, host." : "The host will kick things off."}</strong><small>{generating ? "Fresh questions and answer boards are on their way." : startHint}</small></span></div>{isHost && <button className="button button-primary" type="button" disabled={busy || generating || !canStart} onClick={() => void onAction({ type: "start" })}>{generating ? "Generating…" : "Start the showdown"}<ArrowRight size={19} /></button>}</div>
+        <div className={`lobby-start-panel ${generating ? "is-generating" : ""}`}><div>{generating ? <Sparkles size={24} className="lobby-generating-icon" /> : <Zap size={24} />}<span><strong>{generating ? "Getting your game ready…" : isHost ? "All eyes on you, host." : "The host will kick things off."}</strong><small>{generating ? "Your questions and answer boards are on their way." : startHint}</small></span></div>{isHost && <button className="button button-primary" type="button" disabled={busy || generating || !canStart} onClick={() => void onAction({ type: "start" })}>{generating ? "Getting ready…" : "Start the showdown"}<ArrowRight size={19} /></button>}</div>
       </div>
 
       <aside className="lobby-sidebar">
@@ -85,7 +85,7 @@ export default function LobbyScreen({ room, session, onAction, onLeave, busy, er
           <div className="lobby-public-setting"><div><span className="lobby-public-icon">{room.isPublic ? <Globe2 size={19} /> : <LockKeyhole size={19} />}</span><div><strong>Open to everyone</strong><p>{room.isPublic ? "Players can find your lobby." : "Only people with the code can join."}</p></div></div><button className={`lobby-toggle ${room.isPublic ? "is-on" : ""}`} role="switch" aria-checked={room.isPublic} aria-label="Open lobby to public players" type="button" disabled={!isHost || busy || generating} onClick={() => void onAction({ type: "settings", settings: {}, isPublic: !room.isPublic })}><span /></button></div>
         </section>
 
-        <section className="lobby-how-to panel" aria-labelledby="lobby-how-heading"><span className="lobby-how-icon">{room.settings.mode === "teams" ? <Users size={24} /> : <Zap size={24} />}</span><h2 id="lobby-how-heading">{room.settings.mode === "teams" ? "Better together. Sweeter to win." : "One board. Every player for themselves."}</h2>{room.settings.mode === "teams" ? <ol><li>Take turns guessing with your team.</li><li>Three misses gives the other team a chance to steal the bank.</li><li>Collect the most points to take the crown.</li></ol> : <ol><li>Everyone guesses at the same time.</li><li>Claim an answer first to score its points.</li><li>Three misses and you sit out the round.</li></ol>}<p><Sparkles size={13} />{generating ? "Fresh rounds are being prepared." : "Your answer boards lock in before play."}</p></section>
+        <section className="lobby-how-to panel" aria-labelledby="lobby-how-heading"><span className="lobby-how-icon">{room.settings.mode === "teams" ? <Users size={24} /> : <Zap size={24} />}</span><h2 id="lobby-how-heading">{room.settings.mode === "teams" ? "Better together. Sweeter to win." : "One board. Every player for themselves."}</h2>{room.settings.mode === "teams" ? <ol><li>Take turns guessing with your team.</li><li>Three misses gives the other team a chance to steal the bank.</li><li>Collect the most points to take the crown.</li></ol> : <ol><li>Everyone guesses at the same time.</li><li>Claim an answer first to score its points.</li><li>Three misses and you sit out the round.</li></ol>}<p><Sparkles size={13} />{generating ? "Rounds are being selected." : "Your answer boards lock in before play."}</p></section>
       </aside>
     </div>
   </main>;

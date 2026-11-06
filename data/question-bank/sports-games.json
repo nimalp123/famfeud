@@ -1,0 +1,1994 @@
+[
+  {
+    "id": "games-001",
+    "category": "Sports & games",
+    "prompt": "Name a game children play on a school playground.",
+    "answers": [
+      {
+        "text": "Tag",
+        "aliases": [
+          "tig",
+          "chase"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Hide-and-seek",
+        "aliases": [
+          "hide and seek"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hopscotch",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Four square",
+        "aliases": [
+          "foursquare"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Dodgeball",
+        "aliases": [
+          "dodge ball"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Kickball",
+        "aliases": [
+          "kick ball"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-002",
+    "category": "Sports & games",
+    "prompt": "Name something an athlete packs in a sports bag.",
+    "answers": [
+      {
+        "text": "Water bottle",
+        "aliases": [
+          "bottle of water"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Sports shoes",
+        "aliases": [
+          "sneakers",
+          "trainers"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Towel",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Uniform",
+        "aliases": [
+          "team kit"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Protective gear",
+        "aliases": [
+          "pads",
+          "safety pads"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Snack",
+        "aliases": [
+          "energy bar",
+          "protein bar"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-003",
+    "category": "Sports & games",
+    "prompt": "Name a reason a referee blows a whistle.",
+    "answers": [
+      {
+        "text": "Foul",
+        "aliases": [
+          "a foul",
+          "illegal contact"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Ball out of bounds",
+        "aliases": [
+          "out of bounds",
+          "ball went out"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Time-out",
+        "aliases": [
+          "timeout",
+          "time out"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Start or resume play",
+        "aliases": [
+          "start the game",
+          "restart play",
+          "resume play"
+        ],
+        "points": 14
+      },
+      {
+        "text": "End of a period",
+        "aliases": [
+          "end of the game",
+          "full time"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Injured player",
+        "aliases": [
+          "player injury",
+          "someone is hurt"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-004",
+    "category": "Sports & games",
+    "prompt": "Name something a fan might hold while sitting in a stadium.",
+    "answers": [
+      {
+        "text": "Drink",
+        "aliases": [
+          "soda",
+          "cup"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Food",
+        "aliases": [
+          "snack",
+          "hot dog"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Phone",
+        "aliases": [
+          "mobile",
+          "cellphone"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Team flag",
+        "aliases": [
+          "flag"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Foam finger",
+        "aliases": [
+          "foam hand"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ticket",
+        "aliases": [
+          "ticket stub"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-005",
+    "category": "Sports & games",
+    "prompt": "Name a place people meet to play board games.",
+    "answers": [
+      {
+        "text": "Home",
+        "aliases": [
+          "living room",
+          "house"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Cafe",
+        "aliases": [
+          "coffee shop",
+          "board game cafe"
+        ],
+        "points": 24
+      },
+      {
+        "text": "School",
+        "aliases": [
+          "classroom"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Community center",
+        "aliases": [
+          "community centre",
+          "recreation center"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Library",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Park",
+        "aliases": [
+          "picnic table"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-006",
+    "category": "Sports & games",
+    "prompt": "Name a board or tabletop game that uses dice.",
+    "answers": [
+      {
+        "text": "Monopoly",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Yahtzee",
+        "aliases": [
+          "yatzy"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Backgammon",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Snakes and Ladders",
+        "aliases": [
+          "chutes and ladders"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Ludo",
+        "aliases": [
+          "parcheesi"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Clue",
+        "aliases": [
+          "cluedo"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-007",
+    "category": "Sports & games",
+    "prompt": "Name a game people play on a beach.",
+    "answers": [
+      {
+        "text": "Volleyball",
+        "aliases": [
+          "beach volleyball"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Frisbee",
+        "aliases": [
+          "flying disc"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Soccer",
+        "aliases": [
+          "beach soccer",
+          "football"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Paddleball",
+        "aliases": [
+          "beach tennis",
+          "paddle ball"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Cricket",
+        "aliases": [
+          "beach cricket"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Bocce",
+        "aliases": [
+          "bocce ball",
+          "beach bowls"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-008",
+    "category": "Sports & games",
+    "prompt": "Name something that interrupts a family game night.",
+    "answers": [
+      {
+        "text": "Phone call",
+        "aliases": [
+          "ringing phone"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Rule disagreement",
+        "aliases": [
+          "rules argument",
+          "debating rules"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Bathroom break",
+        "aliases": [
+          "toilet break"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Snack break",
+        "aliases": [
+          "getting snacks"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Missing game piece",
+        "aliases": [
+          "lost piece"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Doorbell",
+        "aliases": [
+          "someone at the door"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-009",
+    "category": "Sports & games",
+    "prompt": "Name a part of a board game that often goes missing.",
+    "answers": [
+      {
+        "text": "Dice",
+        "aliases": [
+          "die"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Player token",
+        "aliases": [
+          "playing piece",
+          "pawn"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cards",
+        "aliases": [
+          "card"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Instructions",
+        "aliases": [
+          "rulebook",
+          "rules booklet"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Play money",
+        "aliases": [
+          "paper money",
+          "monopoly money"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Box lid",
+        "aliases": [
+          "lid"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-010",
+    "category": "Sports & games",
+    "prompt": "Name an outdoor activity children try at summer camp.",
+    "answers": [
+      {
+        "text": "Swimming",
+        "aliases": [
+          "swim"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Hiking",
+        "aliases": [
+          "nature hike"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Archery",
+        "aliases": [
+          "bow and arrow"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Canoeing",
+        "aliases": [
+          "canoe"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Capture the flag",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Rock climbing",
+        "aliases": [
+          "climbing wall"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-011",
+    "category": "Sports & games",
+    "prompt": "Name a place families store sports equipment at home.",
+    "answers": [
+      {
+        "text": "Garage",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Closet",
+        "aliases": [
+          "cupboard"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Car trunk",
+        "aliases": [
+          "car boot",
+          "trunk"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Basement",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Bedroom",
+        "aliases": [
+          "under the bed"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Shed",
+        "aliases": [
+          "garden shed"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-012",
+    "category": "Sports & games",
+    "prompt": "Name something you see on a bowling lane.",
+    "answers": [
+      {
+        "text": "Pins",
+        "aliases": [
+          "bowling pins"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Bowling ball",
+        "aliases": [
+          "ball"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Gutters",
+        "aliases": [
+          "gutter"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Foul line",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Aiming arrows",
+        "aliases": [
+          "arrows",
+          "lane arrows"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pinsetter",
+        "aliases": [
+          "pin setting machine"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-013",
+    "category": "Sports & games",
+    "prompt": "Name something people blame for a bad bowling score.",
+    "answers": [
+      {
+        "text": "Heavy ball",
+        "aliases": [
+          "wrong ball",
+          "bowling ball"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Slippery lane",
+        "aliases": [
+          "oily lane",
+          "lane conditions"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Rental shoes",
+        "aliases": [
+          "bowling shoes",
+          "shoes"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Bad aim",
+        "aliases": [
+          "poor aim"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Distractions",
+        "aliases": [
+          "noise",
+          "friends distracting them"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Bad luck",
+        "aliases": [
+          "unlucky"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-014",
+    "category": "Sports & games",
+    "prompt": "Name something teammates do to celebrate a win.",
+    "answers": [
+      {
+        "text": "High-five",
+        "aliases": [
+          "high five"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Cheer",
+        "aliases": [
+          "shout",
+          "yell"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hug",
+        "aliases": [
+          "group hug"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Victory dance",
+        "aliases": [
+          "dance"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Fist pump",
+        "aliases": [
+          "pump their fists"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Lift a trophy",
+        "aliases": [
+          "hold up the trophy",
+          "raise the trophy"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-015",
+    "category": "Sports & games",
+    "prompt": "Name a reason a neighborhood sports match might start late.",
+    "answers": [
+      {
+        "text": "Rain",
+        "aliases": [
+          "bad weather"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Players are late",
+        "aliases": [
+          "late players",
+          "missing players"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Referee is late",
+        "aliases": [
+          "late referee",
+          "missing referee"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Field is occupied",
+        "aliases": [
+          "someone using the field",
+          "previous match"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Equipment is missing",
+        "aliases": [
+          "missing equipment",
+          "forgot the ball"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Traffic",
+        "aliases": [
+          "traffic jam"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-016",
+    "category": "Sports & games",
+    "prompt": "Name a sport or activity where people wear a helmet.",
+    "answers": [
+      {
+        "text": "Cycling",
+        "aliases": [
+          "biking",
+          "bike riding"
+        ],
+        "points": 35
+      },
+      {
+        "text": "American football",
+        "aliases": [
+          "football"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Ice hockey",
+        "aliases": [
+          "hockey"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Baseball",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Skateboarding",
+        "aliases": [
+          "skating on a skateboard"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cricket",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-017",
+    "category": "Sports & games",
+    "prompt": "Name a sport people compete in on ice.",
+    "answers": [
+      {
+        "text": "Ice hockey",
+        "aliases": [
+          "hockey"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Figure skating",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Speed skating",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Curling",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Bobsledding",
+        "aliases": [
+          "bobsled",
+          "bobsleigh"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Luge",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-018",
+    "category": "Sports & games",
+    "prompt": "Name a place people watch a big game on a television.",
+    "answers": [
+      {
+        "text": "Their living room",
+        "aliases": [
+          "home",
+          "living room"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Sports bar",
+        "aliases": [
+          "pub",
+          "bar"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Friend's house",
+        "aliases": [
+          "friends house"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Gym",
+        "aliases": [
+          "fitness center",
+          "fitness centre"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Airport",
+        "aliases": [
+          "airport lounge"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Restaurant",
+        "aliases": [
+          "diner"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-019",
+    "category": "Sports & games",
+    "prompt": "Name something an organizer uses at a school sports day.",
+    "answers": [
+      {
+        "text": "Whistle",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Stopwatch",
+        "aliases": [
+          "timer"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Cones",
+        "aliases": [
+          "marker cones",
+          "traffic cones"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Race bibs",
+        "aliases": [
+          "number bibs",
+          "race numbers"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Medals",
+        "aliases": [
+          "awards"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Starting flag",
+        "aliases": [
+          "flag"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-020",
+    "category": "Sports & games",
+    "prompt": "Name a game people play with a standard deck of cards.",
+    "answers": [
+      {
+        "text": "Poker",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Go Fish",
+        "aliases": [
+          "gofish"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Solitaire",
+        "aliases": [
+          "patience"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Crazy Eights",
+        "aliases": [
+          "crazy 8s"
+        ],
+        "points": 11
+      },
+      {
+        "text": "War",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Bridge",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-021",
+    "category": "Sports & games",
+    "prompt": "Name something players argue about during a board game.",
+    "answers": [
+      {
+        "text": "The rules",
+        "aliases": [
+          "rules",
+          "rule interpretation"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Whose turn it is",
+        "aliases": [
+          "turn order",
+          "whose turn"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cheating",
+        "aliases": [
+          "someone cheated"
+        ],
+        "points": 18
+      },
+      {
+        "text": "The score",
+        "aliases": [
+          "scorekeeping",
+          "points"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Team choices",
+        "aliases": [
+          "picking teams",
+          "unfair teams"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Who won",
+        "aliases": [
+          "the winner",
+          "winner"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-022",
+    "category": "Sports & games",
+    "prompt": "Name an exercise people do to warm up before a game.",
+    "answers": [
+      {
+        "text": "Jumping jacks",
+        "aliases": [
+          "star jumps"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Jogging",
+        "aliases": [
+          "light jogging",
+          "jog"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Stretching",
+        "aliases": [
+          "stretches"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Lunges",
+        "aliases": [
+          "lunge"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Arm circles",
+        "aliases": [
+          "arm rotations"
+        ],
+        "points": 8
+      },
+      {
+        "text": "High knees",
+        "aliases": [
+          "high knee running"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-023",
+    "category": "Sports & games",
+    "prompt": "Name a phone game people play while waiting.",
+    "answers": [
+      {
+        "text": "Candy Crush",
+        "aliases": [
+          "candy crush saga"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Wordle",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Sudoku",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Solitaire",
+        "aliases": [
+          "patience"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Subway Surfers",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Angry Birds",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-024",
+    "category": "Sports & games",
+    "prompt": "Name something a video game character might do to get past an obstacle.",
+    "answers": [
+      {
+        "text": "Jump",
+        "aliases": [
+          "jump over it"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Climb",
+        "aliases": [
+          "climb over it"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Run",
+        "aliases": [
+          "sprint"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Swim",
+        "aliases": [
+          "swim around it"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Fly",
+        "aliases": [
+          "fly over it"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Crawl",
+        "aliases": [
+          "crawl under it"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-025",
+    "category": "Sports & games",
+    "prompt": "Name a sound you hear at a sporting event.",
+    "answers": [
+      {
+        "text": "Cheering",
+        "aliases": [
+          "cheers",
+          "crowd cheering"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Whistle",
+        "aliases": [
+          "referee whistle"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Buzzer",
+        "aliases": [
+          "horn"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Clapping",
+        "aliases": [
+          "applause"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Announcer",
+        "aliases": [
+          "commentary",
+          "public address announcement"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Music",
+        "aliases": [
+          "stadium music"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-026",
+    "category": "Sports & games",
+    "prompt": "Name an obstacle you might find on a mini-golf course.",
+    "answers": [
+      {
+        "text": "Windmill",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Ramp",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Tunnel",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Water hazard",
+        "aliases": [
+          "pond",
+          "water"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Hill",
+        "aliases": [
+          "mound"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Loop",
+        "aliases": [
+          "loop the loop"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-027",
+    "category": "Sports & games",
+    "prompt": "Name a sport played with a racket or paddle.",
+    "answers": [
+      {
+        "text": "Tennis",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Badminton",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Table tennis",
+        "aliases": [
+          "ping pong",
+          "ping-pong"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Squash",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Pickleball",
+        "aliases": [
+          "pickle ball"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Racquetball",
+        "aliases": [
+          "racketball"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-028",
+    "category": "Sports & games",
+    "prompt": "Name an object children use as a makeshift goalpost.",
+    "answers": [
+      {
+        "text": "Shoes",
+        "aliases": [
+          "shoe",
+          "sneakers"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Bags",
+        "aliases": [
+          "school bags",
+          "backpacks"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Cones",
+        "aliases": [
+          "cone"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Chairs",
+        "aliases": [
+          "chair"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Jackets",
+        "aliases": [
+          "coats",
+          "jumpers"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Water bottles",
+        "aliases": [
+          "water bottle",
+          "bottles"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-029",
+    "category": "Sports & games",
+    "prompt": "Name a treat parents bring after a children's team game.",
+    "answers": [
+      {
+        "text": "Pizza",
+        "aliases": [
+          "pizza slices"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Orange slices",
+        "aliases": [
+          "oranges"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Juice boxes",
+        "aliases": [
+          "fruit juice",
+          "juice"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Cupcakes",
+        "aliases": [
+          "cupcake"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Cookies",
+        "aliases": [
+          "biscuits"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-030",
+    "category": "Sports & games",
+    "prompt": "Name a reason a spectator complains about their stadium seat.",
+    "answers": [
+      {
+        "text": "Blocked view",
+        "aliases": [
+          "cannot see",
+          "obstructed view"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Too far away",
+        "aliases": [
+          "far from the field",
+          "too distant"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Direct sunlight",
+        "aliases": [
+          "sun in their eyes",
+          "too sunny"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Loud nearby fans",
+        "aliases": [
+          "noisy neighbors",
+          "noisy neighbours"
+        ],
+        "points": 12
+      },
+      {
+        "text": "No rain cover",
+        "aliases": [
+          "getting wet",
+          "exposed to rain"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Uncomfortable seat",
+        "aliases": [
+          "hard seat",
+          "too cramped"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-031",
+    "category": "Sports & games",
+    "prompt": "Name an animal someone might act out in a game of charades.",
+    "answers": [
+      {
+        "text": "Dog",
+        "aliases": [
+          "puppy"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Cat",
+        "aliases": [
+          "kitten"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Monkey",
+        "aliases": [
+          "ape"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Elephant",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Lion",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Bird",
+        "aliases": [
+          "chicken"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-032",
+    "category": "Sports & games",
+    "prompt": "Name something people do before starting a board game.",
+    "answers": [
+      {
+        "text": "Read the rules",
+        "aliases": [
+          "read instructions",
+          "explain the rules"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Set up the board",
+        "aliases": [
+          "unfold the board",
+          "place the board"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Choose playing pieces",
+        "aliases": [
+          "pick tokens",
+          "choose a token"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Shuffle the cards",
+        "aliases": [
+          "shuffle cards"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Decide who goes first",
+        "aliases": [
+          "pick first player",
+          "roll for first turn"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Get snacks",
+        "aliases": [
+          "prepare snacks",
+          "grab snacks"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-033",
+    "category": "Sports & games",
+    "prompt": "Name something people rent for an active day outdoors.",
+    "answers": [
+      {
+        "text": "Bicycle",
+        "aliases": [
+          "bike"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Kayak",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Paddleboard",
+        "aliases": [
+          "paddle board",
+          "stand up paddleboard"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Skates",
+        "aliases": [
+          "roller skates",
+          "inline skates"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Skis",
+        "aliases": [
+          "ski equipment"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Golf cart",
+        "aliases": [
+          "golf buggy"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-034",
+    "category": "Sports & games",
+    "prompt": "Name something a cyclist checks before a long ride.",
+    "answers": [
+      {
+        "text": "Tires",
+        "aliases": [
+          "tyres",
+          "tire pressure"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Brakes",
+        "aliases": [
+          "brake"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Helmet",
+        "aliases": [
+          "helmet fit"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Chain",
+        "aliases": [
+          "bike chain"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Weather",
+        "aliases": [
+          "weather forecast"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Route",
+        "aliases": [
+          "directions",
+          "map"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-035",
+    "category": "Sports & games",
+    "prompt": "Name a piece of equipment people use in a swimming pool.",
+    "answers": [
+      {
+        "text": "Goggles",
+        "aliases": [
+          "swimming goggles"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Pool noodle",
+        "aliases": [
+          "noodle"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Kickboard",
+        "aliases": [
+          "kick board"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Swim fins",
+        "aliases": [
+          "flippers",
+          "fins"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Inflatable ring",
+        "aliases": [
+          "swim ring",
+          "rubber ring"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Diving rings",
+        "aliases": [
+          "dive rings",
+          "underwater rings"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-036",
+    "category": "Sports & games",
+    "prompt": "Name something a sports mascot does to entertain the crowd.",
+    "answers": [
+      {
+        "text": "Dance",
+        "aliases": [
+          "dancing",
+          "do a dance"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Take photos with fans",
+        "aliases": [
+          "pose for photos",
+          "take pictures",
+          "pose for pictures"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Throw T-shirts",
+        "aliases": [
+          "toss shirts",
+          "t shirt toss",
+          "throw shirts"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Lead cheers",
+        "aliases": [
+          "lead a chant",
+          "get the crowd cheering",
+          "start a cheer"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Do acrobatics",
+        "aliases": [
+          "cartwheel",
+          "backflip",
+          "do flips"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Play pranks",
+        "aliases": [
+          "prank people",
+          "tease fans",
+          "play a joke"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-037",
+    "category": "Sports & games",
+    "prompt": "Name a reason a family stops playing a game for the evening.",
+    "answers": [
+      {
+        "text": "Bedtime",
+        "aliases": [
+          "too tired",
+          "time for bed"
+        ],
+        "points": 30
+      },
+      {
+        "text": "The game is finished",
+        "aliases": [
+          "game over",
+          "someone won"
+        ],
+        "points": 24
+      },
+      {
+        "text": "An argument",
+        "aliases": [
+          "fighting",
+          "quarrel"
+        ],
+        "points": 18
+      },
+      {
+        "text": "People get bored",
+        "aliases": [
+          "boredom",
+          "bored"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Someone has to leave",
+        "aliases": [
+          "guest leaving",
+          "going home"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Mealtime",
+        "aliases": [
+          "dinner is ready",
+          "time to eat"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-038",
+    "category": "Sports & games",
+    "prompt": "Name a sport where competitors line up at a starting line.",
+    "answers": [
+      {
+        "text": "Running",
+        "aliases": [
+          "sprinting",
+          "track race"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Swimming",
+        "aliases": [
+          "swim race"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cycling",
+        "aliases": [
+          "bike racing"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Horse racing",
+        "aliases": [
+          "horse race"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Skiing",
+        "aliases": [
+          "cross country skiing"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Rowing",
+        "aliases": [
+          "rowing race"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-039",
+    "category": "Sports & games",
+    "prompt": "Name something people use at a gym.",
+    "answers": [
+      {
+        "text": "Treadmill",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Dumbbells",
+        "aliases": [
+          "dumbbell",
+          "hand weights"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Exercise bike",
+        "aliases": [
+          "stationary bike",
+          "spin bike"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Rowing machine",
+        "aliases": [
+          "rower"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Yoga mat",
+        "aliases": [
+          "exercise mat",
+          "mat"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Weight bench",
+        "aliases": [
+          "bench press bench"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-040",
+    "category": "Sports & games",
+    "prompt": "Name a competition people organize at an outdoor family picnic.",
+    "answers": [
+      {
+        "text": "Tug-of-war",
+        "aliases": [
+          "tug of war"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Egg-and-spoon race",
+        "aliases": [
+          "egg and spoon race"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Sack race",
+        "aliases": [
+          "potato sack race"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Three-legged race",
+        "aliases": [
+          "three legged race"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Relay race",
+        "aliases": [
+          "relay"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Water-balloon toss",
+        "aliases": [
+          "water balloon toss",
+          "balloon toss"
+        ],
+        "points": 5
+      }
+    ]
+  }
+]

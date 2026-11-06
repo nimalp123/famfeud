@@ -1,0 +1,2029 @@
+[
+  {
+    "id": "food-001",
+    "category": "Food & drink",
+    "prompt": "Name a topping people put on pizza.",
+    "answers": [
+      {
+        "text": "Pepperoni",
+        "aliases": [
+          "pepperonis"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Extra cheese",
+        "aliases": [
+          "cheese",
+          "mozzarella"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Mushrooms",
+        "aliases": [
+          "mushroom"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Sausage",
+        "aliases": [
+          "italian sausage"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Pineapple",
+        "aliases": [
+          "pineapple chunks"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Olives",
+        "aliases": [
+          "black olives",
+          "olive"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-002",
+    "category": "Food & drink",
+    "prompt": "Name a snack people buy at a movie theater.",
+    "answers": [
+      {
+        "text": "Popcorn",
+        "aliases": [
+          "buttered popcorn"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Candy",
+        "aliases": [
+          "sweets"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Nachos",
+        "aliases": [
+          "nacho chips"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Hot dog",
+        "aliases": [
+          "hotdog"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Pretzel",
+        "aliases": [
+          "soft pretzel"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-003",
+    "category": "Food & drink",
+    "prompt": "Name something people spread on toast.",
+    "answers": [
+      {
+        "text": "Butter",
+        "aliases": [
+          "margarine"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Jam",
+        "aliases": [
+          "jelly",
+          "preserves"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Peanut butter",
+        "aliases": [
+          "pb"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Avocado",
+        "aliases": [
+          "smashed avocado"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Honey",
+        "aliases": [
+          "runny honey"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Chocolate spread",
+        "aliases": [
+          "nutella",
+          "hazelnut spread"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-004",
+    "category": "Food & drink",
+    "prompt": "Name a filling people put in a sandwich.",
+    "answers": [
+      {
+        "text": "Cheese",
+        "aliases": [
+          "sliced cheese"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Ham",
+        "aliases": [
+          "sliced ham"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Turkey",
+        "aliases": [
+          "sliced turkey"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Tuna",
+        "aliases": [
+          "tuna salad"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Chicken",
+        "aliases": [
+          "chicken salad"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Egg",
+        "aliases": [
+          "egg salad"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-005",
+    "category": "Food & drink",
+    "prompt": "Name a food people want when they have a cold.",
+    "answers": [
+      {
+        "text": "Chicken soup",
+        "aliases": [
+          "chicken noodle soup",
+          "soup"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Toast",
+        "aliases": [
+          "dry toast"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Porridge",
+        "aliases": [
+          "oatmeal"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Rice",
+        "aliases": [
+          "plain rice"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Crackers",
+        "aliases": [
+          "saltines"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Banana",
+        "aliases": [
+          "bananas"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-006",
+    "category": "Food & drink",
+    "prompt": "Name an ingredient in a basic cake.",
+    "answers": [
+      {
+        "text": "Flour",
+        "aliases": [
+          "cake flour"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Sugar",
+        "aliases": [
+          "caster sugar"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Eggs",
+        "aliases": [
+          "egg"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Butter",
+        "aliases": [
+          "margarine"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Milk",
+        "aliases": [
+          "whole milk"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Raising agent",
+        "aliases": [
+          "baking powder",
+          "baking soda"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-007",
+    "category": "Food & drink",
+    "prompt": "Name a food people complain about when it goes soggy.",
+    "answers": [
+      {
+        "text": "Fries",
+        "aliases": [
+          "french fries",
+          "chips"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Cereal",
+        "aliases": [
+          "breakfast cereal"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Toast",
+        "aliases": [
+          "toasted bread"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Nachos",
+        "aliases": [
+          "tortilla chips"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Fried chicken",
+        "aliases": [
+          "chicken coating"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Crackers",
+        "aliases": [
+          "crispbread"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-008",
+    "category": "Food & drink",
+    "prompt": "Name a food that is difficult to eat without making a mess.",
+    "answers": [
+      {
+        "text": "Ribs",
+        "aliases": [
+          "barbecue ribs"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Spaghetti",
+        "aliases": [
+          "pasta with sauce"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Tacos",
+        "aliases": [
+          "hard shell tacos"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Chicken wings",
+        "aliases": [
+          "buffalo wings",
+          "wings"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Sloppy joe",
+        "aliases": [
+          "sloppy joes"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ice cream cone",
+        "aliases": [
+          "melting ice cream"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-009",
+    "category": "Food & drink",
+    "prompt": "Name a drink people usually serve hot.",
+    "answers": [
+      {
+        "text": "Coffee",
+        "aliases": [
+          "hot coffee"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Tea",
+        "aliases": [
+          "hot tea"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hot chocolate",
+        "aliases": [
+          "cocoa",
+          "hot cocoa"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Mulled cider",
+        "aliases": [
+          "hot apple cider"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Hot lemon and honey",
+        "aliases": [
+          "lemon honey drink"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Warm milk",
+        "aliases": [
+          "hot milk"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-010",
+    "category": "Food & drink",
+    "prompt": "Name a food people pack for a picnic.",
+    "answers": [
+      {
+        "text": "Sandwiches",
+        "aliases": [
+          "sandwich"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Fruit",
+        "aliases": [
+          "fresh fruit"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Potato salad",
+        "aliases": [
+          "potato salads"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cheese",
+        "aliases": [
+          "cheese cubes"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Crackers",
+        "aliases": [
+          "crispbread"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pasta salad",
+        "aliases": [
+          "cold pasta salad"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-011",
+    "category": "Food & drink",
+    "prompt": "Name something people use to season a savory dish.",
+    "answers": [
+      {
+        "text": "Salt",
+        "aliases": [
+          "sea salt"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Pepper",
+        "aliases": [
+          "black pepper"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Garlic",
+        "aliases": [
+          "garlic powder"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Chili",
+        "aliases": [
+          "chili flakes",
+          "chilli"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Paprika",
+        "aliases": [
+          "smoked paprika"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Oregano",
+        "aliases": [
+          "dried oregano"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-012",
+    "category": "Food & drink",
+    "prompt": "Name a tool someone uses when baking cookies.",
+    "answers": [
+      {
+        "text": "Baking tray",
+        "aliases": [
+          "cookie sheet",
+          "baking sheet"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Mixing bowl",
+        "aliases": [
+          "bowl"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Rolling pin",
+        "aliases": [
+          "dough roller"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Cookie cutter",
+        "aliases": [
+          "biscuit cutter"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Measuring cup",
+        "aliases": [
+          "measuring cups"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Whisk",
+        "aliases": [
+          "hand whisk"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-013",
+    "category": "Food & drink",
+    "prompt": "Name something a diner asks a server to bring more of.",
+    "answers": [
+      {
+        "text": "Water",
+        "aliases": [
+          "drinking water"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Bread",
+        "aliases": [
+          "bread rolls"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Napkins",
+        "aliases": [
+          "serviettes"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Sauce",
+        "aliases": [
+          "dipping sauce",
+          "ketchup"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Coffee",
+        "aliases": [
+          "coffee refill"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Butter",
+        "aliases": [
+          "butter packets"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-014",
+    "category": "Food & drink",
+    "prompt": "Name a reason people send a meal back at a restaurant.",
+    "answers": [
+      {
+        "text": "It is cold",
+        "aliases": [
+          "cold food",
+          "not hot"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Wrong order",
+        "aliases": [
+          "wrong dish",
+          "not what i ordered"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Undercooked",
+        "aliases": [
+          "raw",
+          "not cooked"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Burnt",
+        "aliases": [
+          "burned",
+          "overcooked"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Hair in food",
+        "aliases": [
+          "found a hair"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Allergy ingredient",
+        "aliases": [
+          "contains an allergen",
+          "allergen"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-015",
+    "category": "Food & drink",
+    "prompt": "Name a food smell that makes people hungry.",
+    "answers": [
+      {
+        "text": "Fresh bread",
+        "aliases": [
+          "baking bread"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Grilled meat",
+        "aliases": [
+          "barbecue",
+          "bbq"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Pizza",
+        "aliases": [
+          "baking pizza"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Bacon",
+        "aliases": [
+          "frying bacon"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Cookies",
+        "aliases": [
+          "baking cookies"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Garlic",
+        "aliases": [
+          "frying garlic"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-016",
+    "category": "Food & drink",
+    "prompt": "Name a vegetable children might leave on their plate.",
+    "answers": [
+      {
+        "text": "Broccoli",
+        "aliases": [
+          "broccoli florets"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Brussels sprouts",
+        "aliases": [
+          "brussel sprouts",
+          "sprouts"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Spinach",
+        "aliases": [
+          "cooked spinach"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Peas",
+        "aliases": [
+          "green peas"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Carrots",
+        "aliases": [
+          "carrot"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cabbage",
+        "aliases": [
+          "cooked cabbage"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-017",
+    "category": "Food & drink",
+    "prompt": "Name a fruit people put in a smoothie.",
+    "answers": [
+      {
+        "text": "Banana",
+        "aliases": [
+          "bananas"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Strawberry",
+        "aliases": [
+          "strawberries"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Mango",
+        "aliases": [
+          "mangoes"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Blueberry",
+        "aliases": [
+          "blueberries"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Pineapple",
+        "aliases": [
+          "pineapple chunks"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Peach",
+        "aliases": [
+          "peaches"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-018",
+    "category": "Food & drink",
+    "prompt": "Name a food people keep in the freezer.",
+    "answers": [
+      {
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Frozen vegetables",
+        "aliases": [
+          "vegetables",
+          "frozen peas"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Meat",
+        "aliases": [
+          "frozen meat"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Pizza",
+        "aliases": [
+          "frozen pizza"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Bread",
+        "aliases": [
+          "frozen bread"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Fish",
+        "aliases": [
+          "frozen fish"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-019",
+    "category": "Food & drink",
+    "prompt": "Name a food served on a stick.",
+    "answers": [
+      {
+        "text": "Popsicle",
+        "aliases": [
+          "ice lolly",
+          "ice pop"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Corn dog",
+        "aliases": [
+          "corndog"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Kebab",
+        "aliases": [
+          "kabob",
+          "skewer"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Lollipop",
+        "aliases": [
+          "lolly"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Candy apple",
+        "aliases": [
+          "toffee apple",
+          "caramel apple"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Cake pop",
+        "aliases": [
+          "cake pops"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-020",
+    "category": "Food & drink",
+    "prompt": "Name a food made in layers.",
+    "answers": [
+      {
+        "text": "Lasagna",
+        "aliases": [
+          "lasagne"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Cake",
+        "aliases": [
+          "layer cake"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Sandwich",
+        "aliases": [
+          "club sandwich"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Trifle",
+        "aliases": [
+          "english trifle"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Baklava",
+        "aliases": [
+          "baklawa"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Parfait",
+        "aliases": [
+          "yogurt parfait"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-021",
+    "category": "Food & drink",
+    "prompt": "Name something people dip in melted chocolate.",
+    "answers": [
+      {
+        "text": "Strawberries",
+        "aliases": [
+          "strawberry"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Marshmallows",
+        "aliases": [
+          "marshmallow"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Bananas",
+        "aliases": [
+          "banana slices"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Pretzels",
+        "aliases": [
+          "pretzel"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Cookies",
+        "aliases": [
+          "biscuits"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Churros",
+        "aliases": [
+          "churro"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-022",
+    "category": "Food & drink",
+    "prompt": "Name a drink people have with breakfast.",
+    "answers": [
+      {
+        "text": "Coffee",
+        "aliases": [
+          "cup of coffee"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Orange juice",
+        "aliases": [
+          "oj"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Tea",
+        "aliases": [
+          "cup of tea"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Milk",
+        "aliases": [
+          "glass of milk"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Water",
+        "aliases": [
+          "glass of water"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Smoothie",
+        "aliases": [
+          "fruit smoothie"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-023",
+    "category": "Food & drink",
+    "prompt": "Name a type of food people order for delivery.",
+    "answers": [
+      {
+        "text": "Pizza",
+        "aliases": [
+          "pizzas"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Chinese food",
+        "aliases": [
+          "chinese takeaway",
+          "chinese takeout"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Burgers",
+        "aliases": [
+          "burger",
+          "hamburger"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Indian food",
+        "aliases": [
+          "curry",
+          "indian takeaway"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Sushi",
+        "aliases": [
+          "sushi rolls"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Mexican food",
+        "aliases": [
+          "burritos",
+          "tacos"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-024",
+    "category": "Food & drink",
+    "prompt": "Name a food people commonly eat with chopsticks.",
+    "answers": [
+      {
+        "text": "Noodles",
+        "aliases": [
+          "ramen",
+          "noodle"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Sushi",
+        "aliases": [
+          "sushi roll"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Dumplings",
+        "aliases": [
+          "dumpling",
+          "gyoza"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Rice",
+        "aliases": [
+          "fried rice"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Stir-fry",
+        "aliases": [
+          "stir fry"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Tofu",
+        "aliases": [
+          "bean curd"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-025",
+    "category": "Food & drink",
+    "prompt": "Name something that gets spilled on a kitchen counter.",
+    "answers": [
+      {
+        "text": "Water",
+        "aliases": [
+          "tap water"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Milk",
+        "aliases": [
+          "dairy milk"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Flour",
+        "aliases": [
+          "plain flour"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Coffee",
+        "aliases": [
+          "spilled coffee"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Sugar",
+        "aliases": [
+          "granulated sugar"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Cooking oil",
+        "aliases": [
+          "oil",
+          "vegetable oil"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-026",
+    "category": "Food & drink",
+    "prompt": "Name a food that often goes bad before people finish it.",
+    "answers": [
+      {
+        "text": "Milk",
+        "aliases": [
+          "dairy milk"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Bread",
+        "aliases": [
+          "loaf of bread"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Lettuce",
+        "aliases": [
+          "salad leaves"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Berries",
+        "aliases": [
+          "fresh berries"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Yogurt",
+        "aliases": [
+          "yoghurt"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Avocado",
+        "aliases": [
+          "avocados"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-027",
+    "category": "Food & drink",
+    "prompt": "Name a way to prepare potatoes.",
+    "answers": [
+      {
+        "text": "French fries",
+        "aliases": [
+          "fries",
+          "chips"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Mashed potatoes",
+        "aliases": [
+          "mash",
+          "mashed"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Baked potato",
+        "aliases": [
+          "jacket potato",
+          "baked"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Roast potatoes",
+        "aliases": [
+          "roasted potatoes",
+          "roasted"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Hash browns",
+        "aliases": [
+          "hashbrowns"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Boiled potatoes",
+        "aliases": [
+          "boiled"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-028",
+    "category": "Food & drink",
+    "prompt": "Name a food people serve at a child's birthday party.",
+    "answers": [
+      {
+        "text": "Cake",
+        "aliases": [
+          "birthday cake"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Pizza",
+        "aliases": [
+          "mini pizza"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Candy",
+        "aliases": [
+          "sweets"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Cupcakes",
+        "aliases": [
+          "cupcake"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Chicken nuggets",
+        "aliases": [
+          "nuggets"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-029",
+    "category": "Food & drink",
+    "prompt": "Name something people add to a green salad.",
+    "answers": [
+      {
+        "text": "Tomato",
+        "aliases": [
+          "tomatoes"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Cucumber",
+        "aliases": [
+          "cucumbers"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Croutons",
+        "aliases": [
+          "crouton"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Carrot",
+        "aliases": [
+          "carrots",
+          "shredded carrot"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Onion",
+        "aliases": [
+          "onions",
+          "red onion"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Cheese",
+        "aliases": [
+          "feta",
+          "shredded cheese"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-030",
+    "category": "Food & drink",
+    "prompt": "Name something people add to hot chocolate.",
+    "answers": [
+      {
+        "text": "Marshmallows",
+        "aliases": [
+          "marshmallow"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Whipped cream",
+        "aliases": [
+          "cream"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Milk",
+        "aliases": [
+          "extra milk"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cinnamon",
+        "aliases": [
+          "ground cinnamon"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Chocolate shavings",
+        "aliases": [
+          "grated chocolate",
+          "chocolate sprinkles"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Caramel syrup",
+        "aliases": [
+          "caramel"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-031",
+    "category": "Food & drink",
+    "prompt": "Name something put in a lunchbox besides a sandwich.",
+    "answers": [
+      {
+        "text": "Fruit",
+        "aliases": [
+          "apple",
+          "banana"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Chips",
+        "aliases": [
+          "crisps",
+          "potato chips"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Yogurt",
+        "aliases": [
+          "yoghurt"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Cookies",
+        "aliases": [
+          "biscuits"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Juice box",
+        "aliases": [
+          "juice carton",
+          "juice"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Carrot sticks",
+        "aliases": [
+          "baby carrots",
+          "carrots"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-032",
+    "category": "Food & drink",
+    "prompt": "Name a food people dunk into another food or drink.",
+    "answers": [
+      {
+        "text": "Cookies",
+        "aliases": [
+          "biscuits",
+          "cookie"
+        ],
+        "points": 35
+      },
+      {
+        "text": "French fries",
+        "aliases": [
+          "fries",
+          "chips"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Doughnuts",
+        "aliases": [
+          "donuts",
+          "doughnut"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Chicken nuggets",
+        "aliases": [
+          "nuggets"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Bread",
+        "aliases": [
+          "breadsticks",
+          "bread sticks"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pretzels",
+        "aliases": [
+          "pretzel"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-033",
+    "category": "Food & drink",
+    "prompt": "Name a sound you hear while someone is cooking.",
+    "answers": [
+      {
+        "text": "Sizzling",
+        "aliases": [
+          "frying",
+          "sizzle"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Chopping",
+        "aliases": [
+          "knife chopping"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Blender",
+        "aliases": [
+          "blending",
+          "mixer"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Kettle whistle",
+        "aliases": [
+          "whistling kettle"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Timer beeping",
+        "aliases": [
+          "oven timer",
+          "timer"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Running water",
+        "aliases": [
+          "tap running",
+          "faucet"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-034",
+    "category": "Food & drink",
+    "prompt": "Name a breakfast food people make when they have extra time.",
+    "answers": [
+      {
+        "text": "Pancakes",
+        "aliases": [
+          "pancake"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Waffles",
+        "aliases": [
+          "waffle"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Omelet",
+        "aliases": [
+          "omelette"
+        ],
+        "points": 18
+      },
+      {
+        "text": "French toast",
+        "aliases": [
+          "eggy bread"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Bacon",
+        "aliases": [
+          "fried bacon"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Breakfast sausages",
+        "aliases": [
+          "sausage",
+          "sausages"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-035",
+    "category": "Food & drink",
+    "prompt": "Name a food people cook over a campfire.",
+    "answers": [
+      {
+        "text": "Marshmallows",
+        "aliases": [
+          "marshmallow",
+          "smores",
+          "s'mores"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Hot dogs",
+        "aliases": [
+          "hotdog",
+          "hot dog"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Corn",
+        "aliases": [
+          "corn on the cob"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Potatoes",
+        "aliases": [
+          "baked potato",
+          "jacket potato"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Kebabs",
+        "aliases": [
+          "kebab",
+          "skewers"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Fish",
+        "aliases": [
+          "fresh fish"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-036",
+    "category": "Food & drink",
+    "prompt": "Name something people describe as tasting bitter.",
+    "answers": [
+      {
+        "text": "Coffee",
+        "aliases": [
+          "black coffee"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Dark chocolate",
+        "aliases": [
+          "unsweetened chocolate"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Grapefruit",
+        "aliases": [
+          "grapefruits"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Kale",
+        "aliases": [
+          "raw kale"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Tonic water",
+        "aliases": [
+          "tonic"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Olives",
+        "aliases": [
+          "olive"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-037",
+    "category": "Food & drink",
+    "prompt": "Name a food or drink people bring home as a vacation souvenir.",
+    "answers": [
+      {
+        "text": "Chocolate",
+        "aliases": [
+          "local chocolate"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Candy",
+        "aliases": [
+          "local candy",
+          "sweets"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Tea",
+        "aliases": [
+          "tea leaves"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Coffee",
+        "aliases": [
+          "coffee beans"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Spices",
+        "aliases": [
+          "spice mix"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Olive oil",
+        "aliases": [
+          "local olive oil"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-038",
+    "category": "Food & drink",
+    "prompt": "Name something people check on a packaged food label.",
+    "answers": [
+      {
+        "text": "Expiration date",
+        "aliases": [
+          "expiry date",
+          "best before date",
+          "use by date"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Ingredients",
+        "aliases": [
+          "ingredient list"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Calories",
+        "aliases": [
+          "calorie count",
+          "energy"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Allergens",
+        "aliases": [
+          "allergy information",
+          "allergen"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Sugar content",
+        "aliases": [
+          "sugar",
+          "added sugar"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Serving size",
+        "aliases": [
+          "portion size"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-039",
+    "category": "Food & drink",
+    "prompt": "Name a cold drink people enjoy on a hot day.",
+    "answers": [
+      {
+        "text": "Lemonade",
+        "aliases": [
+          "fresh lemonade"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Water",
+        "aliases": [
+          "ice water",
+          "cold water"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Iced tea",
+        "aliases": [
+          "ice tea"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Soda",
+        "aliases": [
+          "pop",
+          "soft drink"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Smoothie",
+        "aliases": [
+          "fruit smoothie"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Iced coffee",
+        "aliases": [
+          "cold brew",
+          "ice coffee"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-040",
+    "category": "Food & drink",
+    "prompt": "Name something people find on a restaurant table.",
+    "answers": [
+      {
+        "text": "Menu",
+        "aliases": [
+          "menus"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Napkins",
+        "aliases": [
+          "serviettes"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Cutlery",
+        "aliases": [
+          "silverware",
+          "utensils"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Salt",
+        "aliases": [
+          "salt shaker"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Pepper",
+        "aliases": [
+          "pepper shaker"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ketchup",
+        "aliases": [
+          "tomato ketchup",
+          "ketchup bottle"
+        ],
+        "points": 5
+      }
+    ]
+  }
+]

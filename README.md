@@ -18,16 +18,17 @@ npm ci
 npm run build
 node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js d1 execute DB --local --config dist/server/wrangler.json --persist-to .wrangler/state --file drizzle/0000_handy_wither.sql
 node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js d1 execute DB --local --config dist/server/wrangler.json --persist-to .wrangler/state --file drizzle/0001_faithful_caretaker.sql
+node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js d1 execute DB --local --config dist/server/wrangler.json --persist-to .wrangler/state --file drizzle/0002_striped_barracuda.sql
 npm run dev
 ```
 
 Open the printed localhost URL in separate tabs to play as separate guests. Player credentials are stored in session storage, so a refresh preserves your seat. Closing the tab ends that browser seat’s saved session.
 
-## AI question generation
+## Stored question bank
 
-The server uses the OpenAI Responses API with a strict JSON schema. Set `OPENAI_API_KEY` as a server-only secret. `OPENAI_MODEL` defaults to `gpt-4.1-mini`. For local development, use an ignored `.dev.vars` file with those names. For hosted play, set them in the Site’s runtime environment and redeploy.
+The game uses 200 authored survey-style rounds stored in Cloudflare D1. Each has six ranked answers with spelling and synonym aliases, for 1,200 answers total. The five categories have 40 rounds each. “Anything goes” mixes all 200.
 
-With no key, the game clearly labels its curated practice boards. A configured provider failure returns the lobby to a retryable state. AI-estimated popularity scores are game values. No real survey is claimed. A new board is generated for each match and stays fixed during that match.
+The JSON sources are in `data/question-bank/`. The server validates them and seeds the database idempotently on first use. Source corrections update stored rows on a new server instance, while active matches keep their original fixed boards. A room remembers used questions across rematches and exhausts its selected category before recycling questions. Points are estimated game weights and sum to 100 per board.
 
 ## Checks
 
@@ -37,7 +38,7 @@ npm test
 npm run build
 ```
 
-The test suite covers both modes, matching, hidden-answer protection, simultaneous claims, lobby authorization, host succession, generation failure, and rate limits. API tests run production SQL against SQLite with a D1-compatible adapter. Browser and Cloudflare runtime checks are separate.
+The test suite covers both modes, matching, hidden-answer protection, simultaneous claims, lobby authorization, host succession, the full 200-question cycle, and rate limits. API tests run production SQL against SQLite with a D1-compatible adapter. Browser and Cloudflare runtime checks are separate.
 
 ## Hosting
 

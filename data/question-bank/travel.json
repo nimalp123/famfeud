@@ -1,0 +1,2173 @@
+[
+  {
+    "id": "travel-001",
+    "category": "Travel & places",
+    "prompt": "Name something people pack for a beach vacation.",
+    "answers": [
+      {
+        "text": "Sunscreen",
+        "aliases": [
+          "sunblock",
+          "sun cream"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Swimsuit",
+        "aliases": [
+          "bathing suit",
+          "swimwear"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Beach towel",
+        "aliases": [
+          "towel"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Sunglasses",
+        "aliases": [
+          "shades"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Sandals",
+        "aliases": [
+          "flip flops",
+          "flip-flops"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Sun hat",
+        "aliases": [
+          "hat",
+          "beach hat"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-002",
+    "category": "Travel & places",
+    "prompt": "Name something you can see through an airport terminal window.",
+    "answers": [
+      {
+        "text": "Airplane",
+        "aliases": [
+          "plane",
+          "aircraft"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Runway",
+        "aliases": [
+          "landing strip"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Luggage cart",
+        "aliases": [
+          "baggage cart",
+          "baggage trolley"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Control tower",
+        "aliases": [
+          "air traffic control tower"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Fuel truck",
+        "aliases": [
+          "fuel tanker",
+          "refuelling truck"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ground crew",
+        "aliases": [
+          "airport workers",
+          "ramp workers"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-003",
+    "category": "Travel & places",
+    "prompt": "Name a reason a flight might be delayed.",
+    "answers": [
+      {
+        "text": "Bad weather",
+        "aliases": [
+          "weather",
+          "storm"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Mechanical problem",
+        "aliases": [
+          "maintenance",
+          "technical problem"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Late incoming airplane",
+        "aliases": [
+          "late plane",
+          "late aircraft"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Air traffic",
+        "aliases": [
+          "air traffic control",
+          "busy runway"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Crew shortage",
+        "aliases": [
+          "missing crew",
+          "late crew"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Security issue",
+        "aliases": [
+          "security check",
+          "security problem"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-004",
+    "category": "Travel & places",
+    "prompt": "Name something you expect to find in a hotel room.",
+    "answers": [
+      {
+        "text": "Bed",
+        "aliases": [
+          "beds"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Television",
+        "aliases": [
+          "tv"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Towels",
+        "aliases": [
+          "bath towel"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Mini fridge",
+        "aliases": [
+          "minibar",
+          "refrigerator"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Safe",
+        "aliases": [
+          "room safe",
+          "security safe"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Lamp",
+        "aliases": [
+          "bedside lamp",
+          "light"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-005",
+    "category": "Travel & places",
+    "prompt": "Name a way to travel between two cities.",
+    "answers": [
+      {
+        "text": "Car",
+        "aliases": [
+          "automobile",
+          "driving"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Airplane",
+        "aliases": [
+          "plane",
+          "flight"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Train",
+        "aliases": [
+          "rail",
+          "railway"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Bus",
+        "aliases": [
+          "coach"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Boat",
+        "aliases": [
+          "ferry",
+          "ship"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Bicycle",
+        "aliases": [
+          "bike",
+          "cycling"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-006",
+    "category": "Travel & places",
+    "prompt": "Name something tourists love to photograph.",
+    "answers": [
+      {
+        "text": "Famous landmark",
+        "aliases": [
+          "landmark",
+          "monument"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Beach",
+        "aliases": [
+          "seaside",
+          "coast"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Mountains",
+        "aliases": [
+          "mountain range",
+          "peaks"
+        ],
+        "points": 18
+      },
+      {
+        "text": "City skyline",
+        "aliases": [
+          "skyline",
+          "cityscape"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Wildlife",
+        "aliases": [
+          "animals",
+          "wild animals"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sunset",
+        "aliases": [
+          "setting sun"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-007",
+    "category": "Travel & places",
+    "prompt": "Name something people do while waiting to board a flight.",
+    "answers": [
+      {
+        "text": "Use their phone",
+        "aliases": [
+          "phone",
+          "scroll",
+          "text"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Read",
+        "aliases": [
+          "read a book",
+          "reading"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Shop",
+        "aliases": [
+          "shopping",
+          "browse stores"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Sleep",
+        "aliases": [
+          "nap",
+          "doze"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Walk around",
+        "aliases": [
+          "walk",
+          "stretch their legs"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Watch airplanes",
+        "aliases": [
+          "plane spotting",
+          "watch planes"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-008",
+    "category": "Travel & places",
+    "prompt": "Name a souvenir tourists buy.",
+    "answers": [
+      {
+        "text": "Magnet",
+        "aliases": [
+          "fridge magnet",
+          "refrigerator magnet"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Postcard",
+        "aliases": [
+          "postcards"
+        ],
+        "points": 25
+      },
+      {
+        "text": "T-shirt",
+        "aliases": [
+          "shirt",
+          "tee"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Keychain",
+        "aliases": [
+          "keyring",
+          "key chain"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Mug",
+        "aliases": [
+          "coffee mug",
+          "souvenir cup"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Local craft",
+        "aliases": [
+          "handicraft",
+          "handmade ornament"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-009",
+    "category": "Travel & places",
+    "prompt": "Name a place a lost tourist might ask for directions.",
+    "answers": [
+      {
+        "text": "Hotel reception",
+        "aliases": [
+          "hotel desk",
+          "front desk"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Information booth",
+        "aliases": [
+          "information desk",
+          "tourist information"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Shop",
+        "aliases": [
+          "store",
+          "local shop"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Police station",
+        "aliases": [
+          "police officer",
+          "police"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Train station",
+        "aliases": [
+          "railway station",
+          "station"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Gas station",
+        "aliases": [
+          "service station",
+          "petrol station",
+          "gas station"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-010",
+    "category": "Travel & places",
+    "prompt": "Name something people check before booking a hotel.",
+    "answers": [
+      {
+        "text": "Price",
+        "aliases": [
+          "cost",
+          "room rate"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Location",
+        "aliases": [
+          "distance",
+          "neighborhood"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Reviews",
+        "aliases": [
+          "ratings",
+          "guest reviews"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cleanliness",
+        "aliases": [
+          "clean rooms",
+          "hygiene"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Amenities",
+        "aliases": [
+          "facilities",
+          "hotel features"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Parking",
+        "aliases": [
+          "car parking",
+          "parking availability"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-011",
+    "category": "Travel & places",
+    "prompt": "Name something you need for an overnight camping trip.",
+    "answers": [
+      {
+        "text": "Tent",
+        "aliases": [
+          "camping tent"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Sleeping bag",
+        "aliases": [
+          "sleeping bags"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Flashlight",
+        "aliases": [
+          "torch",
+          "headlamp"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Matches",
+        "aliases": [
+          "lighter",
+          "fire starter"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Insect repellent",
+        "aliases": [
+          "bug spray",
+          "mosquito repellent"
+        ],
+        "points": 10
+      },
+      {
+        "text": "First-aid kit",
+        "aliases": [
+          "first aid",
+          "medical kit"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-012",
+    "category": "Travel & places",
+    "prompt": "Name a reason to stop during a long road trip.",
+    "answers": [
+      {
+        "text": "Get fuel",
+        "aliases": [
+          "gas",
+          "petrol",
+          "refuel"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Use the bathroom",
+        "aliases": [
+          "bathroom break",
+          "toilet",
+          "restroom"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Eat",
+        "aliases": [
+          "meal",
+          "food",
+          "get a snack"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Stretch",
+        "aliases": [
+          "stretch legs",
+          "walk around"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Take photos",
+        "aliases": [
+          "photo stop",
+          "scenic view"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Rest",
+        "aliases": [
+          "sleep",
+          "take a nap"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-013",
+    "category": "Travel & places",
+    "prompt": "Name a sign you might see beside a highway.",
+    "answers": [
+      {
+        "text": "Speed limit",
+        "aliases": [
+          "speed sign",
+          "maximum speed"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Exit",
+        "aliases": [
+          "exit sign",
+          "off ramp"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Rest area",
+        "aliases": [
+          "rest stop",
+          "services"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Road work",
+        "aliases": [
+          "construction",
+          "roadworks"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Animal crossing",
+        "aliases": [
+          "deer crossing",
+          "wildlife crossing"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Distance to a city",
+        "aliases": [
+          "distance sign",
+          "mileage sign"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-014",
+    "category": "Travel & places",
+    "prompt": "Name a document a traveler might keep handy.",
+    "answers": [
+      {
+        "text": "Passport",
+        "aliases": [
+          "travel passport"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Boarding pass",
+        "aliases": [
+          "flight boarding pass"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Visa",
+        "aliases": [
+          "travel visa",
+          "entry visa"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Driver's license",
+        "aliases": [
+          "driving licence",
+          "drivers license"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Itinerary",
+        "aliases": [
+          "travel itinerary",
+          "schedule"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hotel confirmation",
+        "aliases": [
+          "hotel reservation",
+          "booking confirmation"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-015",
+    "category": "Travel & places",
+    "prompt": "Name an activity families do on vacation.",
+    "answers": [
+      {
+        "text": "Sightseeing",
+        "aliases": [
+          "touring",
+          "see landmarks"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Swimming",
+        "aliases": [
+          "swim",
+          "go swimming"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Visit a theme park",
+        "aliases": [
+          "theme park",
+          "amusement park"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Visit museums",
+        "aliases": [
+          "museum",
+          "go to a museum"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Hiking",
+        "aliases": [
+          "hike",
+          "nature walk"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Shopping",
+        "aliases": [
+          "shop",
+          "buy souvenirs"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-016",
+    "category": "Travel & places",
+    "prompt": "Name a place travelers accidentally leave their belongings.",
+    "answers": [
+      {
+        "text": "Hotel",
+        "aliases": [
+          "hotel room"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Airplane",
+        "aliases": [
+          "plane",
+          "aircraft"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Taxi",
+        "aliases": [
+          "cab",
+          "rideshare"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Airport",
+        "aliases": [
+          "terminal",
+          "departure gate"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Restaurant",
+        "aliases": [
+          "cafe",
+          "diner"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Train",
+        "aliases": [
+          "rail carriage",
+          "railway carriage"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-017",
+    "category": "Travel & places",
+    "prompt": "Name something that makes a long train ride more pleasant.",
+    "answers": [
+      {
+        "text": "Comfortable seat",
+        "aliases": [
+          "comfy seat",
+          "soft seat"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Scenic view",
+        "aliases": [
+          "nice view",
+          "scenery"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Quiet carriage",
+        "aliases": [
+          "quiet",
+          "silence"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Extra legroom",
+        "aliases": [
+          "legroom",
+          "space to stretch"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Wi-Fi",
+        "aliases": [
+          "wifi",
+          "internet"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Air conditioning",
+        "aliases": [
+          "ac",
+          "cool air"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-018",
+    "category": "Travel & places",
+    "prompt": "Name a sound you hear at an airport.",
+    "answers": [
+      {
+        "text": "Announcements",
+        "aliases": [
+          "public address",
+          "boarding announcement"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Jet engines",
+        "aliases": [
+          "airplane engines",
+          "plane engine"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Rolling suitcases",
+        "aliases": [
+          "luggage wheels",
+          "suitcase wheels"
+        ],
+        "points": 18
+      },
+      {
+        "text": "People talking",
+        "aliases": [
+          "conversations",
+          "chatter"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Crying baby",
+        "aliases": [
+          "baby crying",
+          "crying children"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Security alarm",
+        "aliases": [
+          "alarm",
+          "scanner beeping"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-019",
+    "category": "Travel & places",
+    "prompt": "Name something you pack for a mountain hike.",
+    "answers": [
+      {
+        "text": "Hiking boots",
+        "aliases": [
+          "walking boots",
+          "boots"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Water bottle",
+        "aliases": [
+          "water",
+          "drinking water"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Jacket",
+        "aliases": [
+          "coat",
+          "rain jacket"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Backpack",
+        "aliases": [
+          "rucksack",
+          "daypack"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Map",
+        "aliases": [
+          "trail map",
+          "navigation map"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Camera",
+        "aliases": [
+          "photo camera"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-020",
+    "category": "Travel & places",
+    "prompt": "Name a tourist attraction where people wait in a long line.",
+    "answers": [
+      {
+        "text": "Theme park ride",
+        "aliases": [
+          "roller coaster",
+          "amusement park ride"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Famous museum",
+        "aliases": [
+          "museum",
+          "art museum"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Observation deck",
+        "aliases": [
+          "viewing platform",
+          "skyscraper viewpoint"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Historic landmark",
+        "aliases": [
+          "landmark",
+          "monument"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Cable car",
+        "aliases": [
+          "gondola",
+          "aerial tram"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Boat tour",
+        "aliases": [
+          "sightseeing cruise",
+          "tour boat"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-021",
+    "category": "Travel & places",
+    "prompt": "Name something you might see at an old castle.",
+    "answers": [
+      {
+        "text": "Towers",
+        "aliases": [
+          "tower",
+          "turret"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Moat",
+        "aliases": [
+          "water moat"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Drawbridge",
+        "aliases": [
+          "draw bridge"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Stone walls",
+        "aliases": [
+          "castle wall",
+          "fortifications"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Courtyard",
+        "aliases": [
+          "castle courtyard"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Throne",
+        "aliases": [
+          "royal throne",
+          "throne room"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-022",
+    "category": "Travel & places",
+    "prompt": "Name an animal visitors hope to see at a zoo.",
+    "answers": [
+      {
+        "text": "Lion",
+        "aliases": [
+          "lions"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Elephant",
+        "aliases": [
+          "elephants"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Giraffe",
+        "aliases": [
+          "giraffes"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Monkey",
+        "aliases": [
+          "monkeys",
+          "ape"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Penguin",
+        "aliases": [
+          "penguins"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Tiger",
+        "aliases": [
+          "tigers"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-023",
+    "category": "Travel & places",
+    "prompt": "Name a place tourists visit on a city walking tour.",
+    "answers": [
+      {
+        "text": "Historic square",
+        "aliases": [
+          "town square",
+          "main square"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Museum",
+        "aliases": [
+          "city museum"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Cathedral",
+        "aliases": [
+          "church",
+          "old church"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Park",
+        "aliases": [
+          "city park",
+          "public garden"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Market",
+        "aliases": [
+          "street market",
+          "historic market"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Bridge",
+        "aliases": [
+          "historic bridge",
+          "famous bridge"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-024",
+    "category": "Travel & places",
+    "prompt": "Name a complaint a hotel guest might make.",
+    "answers": [
+      {
+        "text": "Too much noise",
+        "aliases": [
+          "noise",
+          "noisy neighbors"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Dirty room",
+        "aliases": [
+          "unclean room",
+          "dirt"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Uncomfortable bed",
+        "aliases": [
+          "hard mattress",
+          "bad bed"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Broken air conditioning",
+        "aliases": [
+          "no ac",
+          "room too hot"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Poor Wi-Fi",
+        "aliases": [
+          "slow wifi",
+          "bad internet"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Rude staff",
+        "aliases": [
+          "bad service",
+          "unfriendly staff"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-025",
+    "category": "Travel & places",
+    "prompt": "Name something people do after checking into a hotel.",
+    "answers": [
+      {
+        "text": "Unpack",
+        "aliases": [
+          "unpack luggage",
+          "put clothes away"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Rest",
+        "aliases": [
+          "lie down",
+          "take a nap"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Take a shower",
+        "aliases": [
+          "shower",
+          "wash up"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Explore the hotel",
+        "aliases": [
+          "look around",
+          "hotel tour"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Connect to Wi-Fi",
+        "aliases": [
+          "connect wifi",
+          "go online"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Call family",
+        "aliases": [
+          "phone home",
+          "call home"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-026",
+    "category": "Travel & places",
+    "prompt": "Name something you buy a ticket for while traveling.",
+    "answers": [
+      {
+        "text": "Train ride",
+        "aliases": [
+          "train",
+          "rail journey"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Museum admission",
+        "aliases": [
+          "museum",
+          "museum entry"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Ferry ride",
+        "aliases": [
+          "ferry",
+          "boat ride"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Guided tour",
+        "aliases": [
+          "tour",
+          "sightseeing tour"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Theme park",
+        "aliases": [
+          "amusement park",
+          "theme park entry"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cable car ride",
+        "aliases": [
+          "cable car",
+          "gondola ride"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-027",
+    "category": "Travel & places",
+    "prompt": "Name a color you often see on suitcases.",
+    "answers": [
+      {
+        "text": "Black",
+        "aliases": [
+          "jet black"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Blue",
+        "aliases": [
+          "navy",
+          "navy blue"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Red",
+        "aliases": [
+          "crimson",
+          "bright red"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Gray",
+        "aliases": [
+          "grey",
+          "silver"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Pink",
+        "aliases": [
+          "hot pink",
+          "rose pink"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Green",
+        "aliases": [
+          "dark green",
+          "lime green"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-028",
+    "category": "Travel & places",
+    "prompt": "Name something people do at the beach.",
+    "answers": [
+      {
+        "text": "Swim",
+        "aliases": [
+          "swimming",
+          "go swimming"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Sunbathe",
+        "aliases": [
+          "sunbathing",
+          "tan"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Build sandcastles",
+        "aliases": [
+          "sandcastle",
+          "make sandcastles"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Collect seashells",
+        "aliases": [
+          "shell collecting",
+          "collect shells"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Walk",
+        "aliases": [
+          "beach walk",
+          "stroll"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Surf",
+        "aliases": [
+          "surfing",
+          "ride waves"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-029",
+    "category": "Travel & places",
+    "prompt": "Name something you might request when renting a car.",
+    "answers": [
+      {
+        "text": "GPS",
+        "aliases": [
+          "satnav",
+          "navigation system"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Child seat",
+        "aliases": [
+          "car seat",
+          "booster seat"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Automatic transmission",
+        "aliases": [
+          "automatic",
+          "automatic car"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Extra driver",
+        "aliases": [
+          "additional driver",
+          "second driver"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Insurance",
+        "aliases": [
+          "rental insurance",
+          "extra coverage"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Larger vehicle",
+        "aliases": [
+          "bigger car",
+          "upgrade"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-030",
+    "category": "Travel & places",
+    "prompt": "Name a reason someone chooses a train instead of flying.",
+    "answers": [
+      {
+        "text": "Lower price",
+        "aliases": [
+          "cheaper",
+          "save money"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Scenery",
+        "aliases": [
+          "views",
+          "scenic route"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Fear of flying",
+        "aliases": [
+          "flying anxiety",
+          "afraid of planes"
+        ],
+        "points": 18
+      },
+      {
+        "text": "More legroom",
+        "aliases": [
+          "legroom",
+          "more space"
+        ],
+        "points": 12
+      },
+      {
+        "text": "City-center station",
+        "aliases": [
+          "central station",
+          "city centre arrival"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Fewer luggage restrictions",
+        "aliases": [
+          "more baggage",
+          "luggage allowance"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-031",
+    "category": "Travel & places",
+    "prompt": "Name something parents bring to entertain a child on a flight.",
+    "answers": [
+      {
+        "text": "Tablet",
+        "aliases": [
+          "ipad",
+          "kids tablet"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Toy",
+        "aliases": [
+          "small toy",
+          "toys"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Coloring book",
+        "aliases": [
+          "colouring book",
+          "coloring pages"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Storybook",
+        "aliases": [
+          "picture book",
+          "children's book"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Puzzle",
+        "aliases": [
+          "travel puzzle",
+          "activity puzzle"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Playing cards",
+        "aliases": [
+          "card game",
+          "cards"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-032",
+    "category": "Travel & places",
+    "prompt": "Name something shown on a map.",
+    "answers": [
+      {
+        "text": "Cities",
+        "aliases": [
+          "city",
+          "towns"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Roads",
+        "aliases": [
+          "road",
+          "highways"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Rivers",
+        "aliases": [
+          "river",
+          "waterway"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Mountains",
+        "aliases": [
+          "mountain",
+          "mountain range"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Country borders",
+        "aliases": [
+          "borders",
+          "boundaries"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Lakes",
+        "aliases": [
+          "lake",
+          "bodies of water"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-033",
+    "category": "Travel & places",
+    "prompt": "Name a place to take a bathroom break during a road trip.",
+    "answers": [
+      {
+        "text": "Gas station",
+        "aliases": [
+          "petrol station",
+          "service station"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Rest area",
+        "aliases": [
+          "rest stop",
+          "highway services"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Restaurant",
+        "aliases": [
+          "fast food restaurant",
+          "diner"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Public restroom",
+        "aliases": [
+          "public toilet",
+          "bathroom building"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Shopping center",
+        "aliases": [
+          "mall",
+          "shopping centre"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Campground",
+        "aliases": [
+          "campsite",
+          "camping ground"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-034",
+    "category": "Travel & places",
+    "prompt": "Name something you might see on a coastal boat tour.",
+    "answers": [
+      {
+        "text": "Dolphins",
+        "aliases": [
+          "dolphin"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Lighthouse",
+        "aliases": [
+          "light house"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Seabirds",
+        "aliases": [
+          "seagulls",
+          "gulls"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cliffs",
+        "aliases": [
+          "sea cliffs",
+          "cliff"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Island",
+        "aliases": [
+          "islands"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Harbor",
+        "aliases": [
+          "harbour",
+          "marina"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-035",
+    "category": "Travel & places",
+    "prompt": "Name a travel mishap that can ruin the start of a vacation.",
+    "answers": [
+      {
+        "text": "Lost luggage",
+        "aliases": [
+          "missing bags",
+          "lost suitcase"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Missed flight",
+        "aliases": [
+          "missed plane",
+          "missing a flight"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Forgotten passport",
+        "aliases": [
+          "left passport at home",
+          "no passport"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Flat tire",
+        "aliases": [
+          "flat tyre",
+          "puncture"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Canceled booking",
+        "aliases": [
+          "cancelled reservation",
+          "canceled reservation"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Wrong turn",
+        "aliases": [
+          "getting lost",
+          "lost route"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-036",
+    "category": "Travel & places",
+    "prompt": "Name an indoor place tourists visit when it rains.",
+    "answers": [
+      {
+        "text": "Museum",
+        "aliases": [
+          "history museum",
+          "science museum"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Art gallery",
+        "aliases": [
+          "gallery",
+          "art exhibition"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Aquarium",
+        "aliases": [
+          "indoor aquarium"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Shopping mall",
+        "aliases": [
+          "mall",
+          "shopping center"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Movie theater",
+        "aliases": [
+          "cinema",
+          "movie theatre"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cafe",
+        "aliases": [
+          "coffee shop",
+          "café"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-037",
+    "category": "Travel & places",
+    "prompt": "Name a famous landmark people recognize in a photograph.",
+    "answers": [
+      {
+        "text": "Eiffel Tower",
+        "aliases": [
+          "eiffel"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Statue of Liberty",
+        "aliases": [
+          "lady liberty"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pyramids of Giza",
+        "aliases": [
+          "pyramids",
+          "egyptian pyramids"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Great Wall of China",
+        "aliases": [
+          "great wall",
+          "china wall"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Taj Mahal",
+        "aliases": [
+          "tajmahal"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Colosseum",
+        "aliases": [
+          "coliseum",
+          "roman colosseum"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-038",
+    "category": "Travel & places",
+    "prompt": "Name a natural place people travel to explore.",
+    "answers": [
+      {
+        "text": "Forest",
+        "aliases": [
+          "woods",
+          "rainforest"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Waterfall",
+        "aliases": [
+          "waterfalls",
+          "falls"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Canyon",
+        "aliases": [
+          "gorge",
+          "grand canyon"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cave",
+        "aliases": [
+          "cavern",
+          "caves"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Desert",
+        "aliases": [
+          "sand dunes",
+          "dunes"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Volcano",
+        "aliases": [
+          "volcanic mountain",
+          "volcanoes"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-039",
+    "category": "Travel & places",
+    "prompt": "Name something travelers may remove before an airport security scan.",
+    "answers": [
+      {
+        "text": "Laptop",
+        "aliases": [
+          "laptop computer",
+          "computer"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Jacket",
+        "aliases": [
+          "coat",
+          "outerwear"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Shoes",
+        "aliases": [
+          "footwear",
+          "boots"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Belt",
+        "aliases": [
+          "waist belt"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Liquids",
+        "aliases": [
+          "liquid bag",
+          "toiletries bag"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Watch",
+        "aliases": [
+          "wristwatch",
+          "smartwatch"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-040",
+    "category": "Travel & places",
+    "prompt": "Name a hotel feature that makes a vacation feel luxurious.",
+    "answers": [
+      {
+        "text": "Swimming pool",
+        "aliases": [
+          "pool",
+          "infinity pool"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Spa",
+        "aliases": [
+          "wellness spa",
+          "massage facilities"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Private balcony",
+        "aliases": [
+          "balcony",
+          "terrace"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Room service",
+        "aliases": [
+          "in room dining",
+          "in-room dining"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Ocean view",
+        "aliases": [
+          "sea view",
+          "water view"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hot tub",
+        "aliases": [
+          "jacuzzi",
+          "whirlpool"
+        ],
+        "points": 5
+      }
+    ]
+  }
+]

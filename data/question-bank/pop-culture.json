@@ -1,0 +1,2020 @@
+[
+  {
+    "id": "culture-001",
+    "category": "Pop culture",
+    "prompt": "Name a superhero people recognize by their costume.",
+    "answers": [
+      {
+        "text": "Spider-Man",
+        "aliases": [
+          "spiderman",
+          "spider man"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Batman",
+        "aliases": [
+          "bat man"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Superman",
+        "aliases": [
+          "super man"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Wonder Woman",
+        "aliases": [
+          "wonderwoman"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Iron Man",
+        "aliases": [
+          "ironman"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Captain America",
+        "aliases": [
+          "captainamerica"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-002",
+    "category": "Pop culture",
+    "prompt": "Name something a fan might buy at a concert.",
+    "answers": [
+      {
+        "text": "T-shirt",
+        "aliases": [
+          "shirt",
+          "tee"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Drink",
+        "aliases": [
+          "beverage"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Poster",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Hoodie",
+        "aliases": [
+          "sweatshirt"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Hat",
+        "aliases": [
+          "cap"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Light stick",
+        "aliases": [
+          "lightstick",
+          "glow stick"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-003",
+    "category": "Pop culture",
+    "prompt": "Name a type of movie people choose for date night.",
+    "answers": [
+      {
+        "text": "Romantic comedy",
+        "aliases": [
+          "romcom",
+          "rom com"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Horror",
+        "aliases": [
+          "scary movie"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Action",
+        "aliases": [
+          "action movie"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Drama",
+        "aliases": [
+          "drama movie"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Animated",
+        "aliases": [
+          "animation",
+          "cartoon"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Musical",
+        "aliases": [
+          "musicals"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-004",
+    "category": "Pop culture",
+    "prompt": "Name something inside a movie theater besides the moviegoers.",
+    "answers": [
+      {
+        "text": "Screen",
+        "aliases": [
+          "movie screen"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Seats",
+        "aliases": [
+          "chairs",
+          "recliners"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Projector",
+        "aliases": [
+          "film projector"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Speakers",
+        "aliases": [
+          "sound system"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Exit signs",
+        "aliases": [
+          "exit sign"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Movie posters",
+        "aliases": [
+          "posters"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-005",
+    "category": "Pop culture",
+    "prompt": "Name a reason someone pauses a movie at home.",
+    "answers": [
+      {
+        "text": "Bathroom break",
+        "aliases": [
+          "use the bathroom",
+          "toilet"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Get snacks",
+        "aliases": [
+          "snack break",
+          "food"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Answer the phone",
+        "aliases": [
+          "phone call"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Someone is at the door",
+        "aliases": [
+          "doorbell",
+          "answer the door"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Explain the plot",
+        "aliases": [
+          "ask a question",
+          "confused"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Find the subtitles",
+        "aliases": [
+          "turn on subtitles",
+          "captions"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-006",
+    "category": "Pop culture",
+    "prompt": "Name something you expect to see in a science-fiction movie.",
+    "answers": [
+      {
+        "text": "Spaceship",
+        "aliases": [
+          "spacecraft",
+          "space ship"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Alien",
+        "aliases": [
+          "extraterrestrial"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Robot",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Laser gun",
+        "aliases": [
+          "blaster",
+          "ray gun"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Time machine",
+        "aliases": [
+          "time travel"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Distant planet",
+        "aliases": [
+          "another planet",
+          "new planet"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-007",
+    "category": "Pop culture",
+    "prompt": "Name an animal often used as a cartoon character.",
+    "answers": [
+      {
+        "text": "Mouse",
+        "aliases": [
+          "mice"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Rabbit",
+        "aliases": [
+          "bunny"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Cat",
+        "aliases": [
+          "kitten"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Dog",
+        "aliases": [
+          "puppy"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Duck",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Bear",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-008",
+    "category": "Pop culture",
+    "prompt": "Name something you might find in a fantasy adventure story.",
+    "answers": [
+      {
+        "text": "Dragon",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Wizard",
+        "aliases": [
+          "sorcerer"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Castle",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Enchanted sword",
+        "aliases": [
+          "magic sword",
+          "sword"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Magic potion",
+        "aliases": [
+          "potion"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Elf",
+        "aliases": [
+          "elves"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-009",
+    "category": "Pop culture",
+    "prompt": "Name a sound that makes a horror movie feel scary.",
+    "answers": [
+      {
+        "text": "Scream",
+        "aliases": [
+          "screaming"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Creaking door",
+        "aliases": [
+          "door creak",
+          "creaking"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Footsteps",
+        "aliases": [
+          "footstep"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Thunder",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Evil laughter",
+        "aliases": [
+          "evil laugh",
+          "creepy laugh"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Spooky music",
+        "aliases": [
+          "scary music",
+          "eerie music"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-010",
+    "category": "Pop culture",
+    "prompt": "Name a talent someone might perform on a television talent show.",
+    "answers": [
+      {
+        "text": "Singing",
+        "aliases": [
+          "sing"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Dancing",
+        "aliases": [
+          "dance"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Magic",
+        "aliases": [
+          "magic tricks",
+          "illusion"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Juggling",
+        "aliases": [
+          "juggle"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Comedy",
+        "aliases": [
+          "stand up",
+          "stand-up comedy"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Acrobatics",
+        "aliases": [
+          "acrobat",
+          "gymnastics"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-011",
+    "category": "Pop culture",
+    "prompt": "Name a section you might browse in a bookstore.",
+    "answers": [
+      {
+        "text": "Mystery",
+        "aliases": [
+          "crime",
+          "detective stories"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Fantasy",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Romance",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Science fiction",
+        "aliases": [
+          "sci fi",
+          "scifi"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Biography",
+        "aliases": [
+          "biographies",
+          "memoir"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Children's books",
+        "aliases": [
+          "kids books",
+          "children books"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-012",
+    "category": "Pop culture",
+    "prompt": "Name a place people settle down to read a novel.",
+    "answers": [
+      {
+        "text": "Bed",
+        "aliases": [
+          "in bed"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Couch",
+        "aliases": [
+          "sofa"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Beach",
+        "aliases": [
+          "at the beach"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Library",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Train",
+        "aliases": [
+          "on a train"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Park",
+        "aliases": [
+          "park bench"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-013",
+    "category": "Pop culture",
+    "prompt": "Name something people use as a bookmark when they cannot find one.",
+    "answers": [
+      {
+        "text": "Receipt",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Photo",
+        "aliases": [
+          "photograph",
+          "picture"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Ticket",
+        "aliases": [
+          "ticket stub"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Business card",
+        "aliases": [
+          "businesscard"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Sticky note",
+        "aliases": [
+          "post it",
+          "post-it"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Ribbon",
+        "aliases": [
+          "string"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-014",
+    "category": "Pop culture",
+    "prompt": "Name something a fan might ask a celebrity to autograph.",
+    "answers": [
+      {
+        "text": "Photo",
+        "aliases": [
+          "photograph",
+          "picture"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Poster",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "T-shirt",
+        "aliases": [
+          "shirt",
+          "tee"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Book",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Album",
+        "aliases": [
+          "record",
+          "cd"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hat",
+        "aliases": [
+          "cap"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-015",
+    "category": "Pop culture",
+    "prompt": "Name something people check before choosing a movie on a streaming app.",
+    "answers": [
+      {
+        "text": "Plot summary",
+        "aliases": [
+          "synopsis",
+          "description"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Rating",
+        "aliases": [
+          "reviews",
+          "stars"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Trailer",
+        "aliases": [
+          "preview"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Runtime",
+        "aliases": [
+          "length",
+          "running time"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Cast",
+        "aliases": [
+          "actors",
+          "who is in it"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Subtitles",
+        "aliases": [
+          "languages",
+          "language options"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-016",
+    "category": "Pop culture",
+    "prompt": "Name a reason someone watches the same movie again.",
+    "answers": [
+      {
+        "text": "It is comforting",
+        "aliases": [
+          "comfort",
+          "feel good"
+        ],
+        "points": 35
+      },
+      {
+        "text": "A favorite scene",
+        "aliases": [
+          "favorite part"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Nostalgia",
+        "aliases": [
+          "childhood memories",
+          "memories"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Show a friend",
+        "aliases": [
+          "show someone",
+          "friend has not seen it"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Notice missed details",
+        "aliases": [
+          "missed details",
+          "understand it better"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Learn the lines",
+        "aliases": [
+          "memorize quotes",
+          "quote along"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-017",
+    "category": "Pop culture",
+    "prompt": "Name an instrument a solo musician might play on a stage.",
+    "answers": [
+      {
+        "text": "Guitar",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Piano",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Violin",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Saxophone",
+        "aliases": [
+          "sax"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Trumpet",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Flute",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-018",
+    "category": "Pop culture",
+    "prompt": "Name something a DJ uses during a performance.",
+    "answers": [
+      {
+        "text": "Headphones",
+        "aliases": [
+          "headset"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Turntables",
+        "aliases": [
+          "record decks",
+          "decks"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Mixer",
+        "aliases": [
+          "mixing desk",
+          "mixing console"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Laptop",
+        "aliases": [
+          "computer"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Microphone",
+        "aliases": [
+          "mic"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Speakers",
+        "aliases": [
+          "sound system"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-019",
+    "category": "Pop culture",
+    "prompt": "Name a style of music that gets people dancing at a party.",
+    "answers": [
+      {
+        "text": "Pop",
+        "aliases": [
+          "pop music"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Hip-hop",
+        "aliases": [
+          "hip hop",
+          "rap"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Dance music",
+        "aliases": [
+          "edm",
+          "electronic dance"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Disco",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Rock",
+        "aliases": [
+          "rock music"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Reggae",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-020",
+    "category": "Pop culture",
+    "prompt": "Name a moment at a wedding when music is often played.",
+    "answers": [
+      {
+        "text": "First dance",
+        "aliases": [
+          "couple's dance",
+          "couples dance"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Walking down the aisle",
+        "aliases": [
+          "processional",
+          "bridal entrance"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Reception entrance",
+        "aliases": [
+          "grand entrance"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Dinner",
+        "aliases": [
+          "meal",
+          "dinner music"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Cake cutting",
+        "aliases": [
+          "cutting the cake"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bouquet toss",
+        "aliases": [
+          "throwing the bouquet"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-021",
+    "category": "Pop culture",
+    "prompt": "Name a dance move people like to imitate at a party.",
+    "answers": [
+      {
+        "text": "Moonwalk",
+        "aliases": [
+          "moon walk"
+        ],
+        "points": 30
+      },
+      {
+        "text": "The robot",
+        "aliases": [
+          "robot dance",
+          "robot"
+        ],
+        "points": 24
+      },
+      {
+        "text": "The floss",
+        "aliases": [
+          "floss dance",
+          "flossing"
+        ],
+        "points": 18
+      },
+      {
+        "text": "The twist",
+        "aliases": [
+          "twist"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Macarena",
+        "aliases": [
+          "the macarena"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Running man",
+        "aliases": [
+          "the running man"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-022",
+    "category": "Pop culture",
+    "prompt": "Name something a nervous person might do during karaoke.",
+    "answers": [
+      {
+        "text": "Sing off-key",
+        "aliases": [
+          "off key",
+          "miss notes"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Forget the lyrics",
+        "aliases": [
+          "forget words",
+          "lose the words"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Read the screen",
+        "aliases": [
+          "stare at lyrics",
+          "read lyrics"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Laugh",
+        "aliases": [
+          "giggle"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Ask for a duet",
+        "aliases": [
+          "ask a friend to join",
+          "sing with a friend"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hold the microphone tightly",
+        "aliases": [
+          "grip the mic",
+          "grip microphone"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-023",
+    "category": "Pop culture",
+    "prompt": "Name something that helps make a stage musical spectacular.",
+    "answers": [
+      {
+        "text": "Costumes",
+        "aliases": [
+          "costume"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Songs",
+        "aliases": [
+          "singing"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Dancing",
+        "aliases": [
+          "choreography"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Scenery",
+        "aliases": [
+          "sets",
+          "set design"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Live orchestra",
+        "aliases": [
+          "orchestra",
+          "musicians"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Lighting",
+        "aliases": [
+          "spotlights",
+          "stage lights"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-024",
+    "category": "Pop culture",
+    "prompt": "Name something a performer might wear as part of a costume.",
+    "answers": [
+      {
+        "text": "Wig",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Hat",
+        "aliases": [
+          "headpiece"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Mask",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Cape",
+        "aliases": [
+          "cloak"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Boots",
+        "aliases": [
+          "boot"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Gloves",
+        "aliases": [
+          "glove"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-025",
+    "category": "Pop culture",
+    "prompt": "Name something you expect to see on a television game show.",
+    "answers": [
+      {
+        "text": "Host",
+        "aliases": [
+          "presenter"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Buzzer",
+        "aliases": [
+          "buzzers"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Prizes",
+        "aliases": [
+          "prize",
+          "cash prize"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Scoreboard",
+        "aliases": [
+          "score board"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Timer",
+        "aliases": [
+          "countdown",
+          "clock"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Audience",
+        "aliases": [
+          "studio audience"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-026",
+    "category": "Pop culture",
+    "prompt": "Name a clue a detective might examine in a mystery show.",
+    "answers": [
+      {
+        "text": "Fingerprints",
+        "aliases": [
+          "fingerprint"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Footprints",
+        "aliases": [
+          "footprint",
+          "shoe print"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Security footage",
+        "aliases": [
+          "camera footage",
+          "cctv"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Witness statement",
+        "aliases": [
+          "witness account",
+          "testimony"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Handwritten note",
+        "aliases": [
+          "note",
+          "letter"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Weapon",
+        "aliases": [
+          "murder weapon"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-027",
+    "category": "Pop culture",
+    "prompt": "Name a problem a contestant might face on a cooking competition.",
+    "answers": [
+      {
+        "text": "Burned food",
+        "aliases": [
+          "burnt food",
+          "burning food"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Running out of time",
+        "aliases": [
+          "time limit",
+          "not enough time"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Missing ingredient",
+        "aliases": [
+          "forgot ingredient"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Undercooked food",
+        "aliases": [
+          "raw food",
+          "not cooked"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Dropping a dish",
+        "aliases": [
+          "dropped food",
+          "drop a plate"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Broken equipment",
+        "aliases": [
+          "equipment failure",
+          "broken oven"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-028",
+    "category": "Pop culture",
+    "prompt": "Name a place where a sitcom family often has a conversation.",
+    "answers": [
+      {
+        "text": "Living room",
+        "aliases": [
+          "lounge"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Kitchen",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Dining table",
+        "aliases": [
+          "dinner table",
+          "dining room"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Front porch",
+        "aliases": [
+          "porch"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Bedroom",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Backyard",
+        "aliases": [
+          "back yard",
+          "garden"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-029",
+    "category": "Pop culture",
+    "prompt": "Name something that might get a live studio audience to applaud.",
+    "answers": [
+      {
+        "text": "A funny joke",
+        "aliases": [
+          "joke",
+          "punchline"
+        ],
+        "points": 30
+      },
+      {
+        "text": "A musical performance",
+        "aliases": [
+          "song",
+          "singing performance"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Winning a prize",
+        "aliases": [
+          "contestant wins",
+          "winner"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A surprise guest",
+        "aliases": [
+          "celebrity guest",
+          "guest entrance"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A touching reunion",
+        "aliases": [
+          "reunion"
+        ],
+        "points": 9
+      },
+      {
+        "text": "The final bow",
+        "aliases": [
+          "curtain call",
+          "bow"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-030",
+    "category": "Pop culture",
+    "prompt": "Name something a movie villain is often known for.",
+    "answers": [
+      {
+        "text": "Evil laugh",
+        "aliases": [
+          "evil laughter",
+          "sinister laugh"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Mask",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Dark costume",
+        "aliases": [
+          "black clothing",
+          "dark clothes"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Henchmen",
+        "aliases": [
+          "minions",
+          "henchman"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Secret lair",
+        "aliases": [
+          "lair",
+          "hideout"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Dramatic speech",
+        "aliases": [
+          "monologue",
+          "villain speech"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-031",
+    "category": "Pop culture",
+    "prompt": "Name something people do at a comic convention.",
+    "answers": [
+      {
+        "text": "Cosplay",
+        "aliases": [
+          "dress in costume",
+          "wear costumes"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Get autographs",
+        "aliases": [
+          "autograph signing",
+          "collect signatures"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Buy collectibles",
+        "aliases": [
+          "shop for merchandise",
+          "buy merch"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Attend panels",
+        "aliases": [
+          "panel discussion",
+          "watch panels"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Take photos",
+        "aliases": [
+          "photographs",
+          "take pictures"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Try game demos",
+        "aliases": [
+          "play demos",
+          "game demonstrations"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-032",
+    "category": "Pop culture",
+    "prompt": "Name merchandise that might feature a favorite fictional character.",
+    "answers": [
+      {
+        "text": "T-shirt",
+        "aliases": [
+          "shirt",
+          "tee"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Action figure",
+        "aliases": [
+          "figurine"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Mug",
+        "aliases": [
+          "cup"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Poster",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Plush toy",
+        "aliases": [
+          "stuffed toy",
+          "stuffed animal"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Keychain",
+        "aliases": [
+          "key ring",
+          "keyring"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-033",
+    "category": "Pop culture",
+    "prompt": "Name a job title people look for in movie credits.",
+    "answers": [
+      {
+        "text": "Actor",
+        "aliases": [
+          "cast",
+          "actress"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Director",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Writer",
+        "aliases": [
+          "screenwriter"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Composer",
+        "aliases": [
+          "music composer"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Producer",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Costume designer",
+        "aliases": [
+          "costume design"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-034",
+    "category": "Pop culture",
+    "prompt": "Name a kind of photo people often share on social media.",
+    "answers": [
+      {
+        "text": "Selfie",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Pet",
+        "aliases": [
+          "pet photo",
+          "pets"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Meal",
+        "aliases": [
+          "food photo",
+          "food"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Vacation",
+        "aliases": [
+          "travel photo",
+          "holiday photo"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Sunrise or sunset",
+        "aliases": [
+          "sunset",
+          "sunrise"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Celebration",
+        "aliases": [
+          "birthday photo",
+          "party photo"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-035",
+    "category": "Pop culture",
+    "prompt": "Name a reason someone turns on subtitles while watching a show.",
+    "answers": [
+      {
+        "text": "Dialogue is hard to hear",
+        "aliases": [
+          "quiet dialogue",
+          "cannot hear words"
+        ],
+        "points": 28
+      },
+      {
+        "text": "A different language",
+        "aliases": [
+          "foreign language",
+          "translation"
+        ],
+        "points": 23
+      },
+      {
+        "text": "A noisy room",
+        "aliases": [
+          "background noise",
+          "loud room"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Watching quietly",
+        "aliases": [
+          "sound off",
+          "mute"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Unfamiliar accents",
+        "aliases": [
+          "strong accents",
+          "accent"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Catching every detail",
+        "aliases": [
+          "catch details",
+          "not miss words"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-036",
+    "category": "Pop culture",
+    "prompt": "Name a type of video people watch to learn something online.",
+    "answers": [
+      {
+        "text": "Cooking tutorial",
+        "aliases": [
+          "recipe video",
+          "cooking lesson"
+        ],
+        "points": 35
+      },
+      {
+        "text": "DIY tutorial",
+        "aliases": [
+          "how to fix",
+          "home repair"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Makeup tutorial",
+        "aliases": [
+          "beauty tutorial"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Fitness workout",
+        "aliases": [
+          "exercise video",
+          "workout"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Language lesson",
+        "aliases": [
+          "learn a language"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Instrument lesson",
+        "aliases": [
+          "music lesson",
+          "guitar lesson"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-037",
+    "category": "Pop culture",
+    "prompt": "Name a way fans enjoy a favorite fictional series beyond watching it.",
+    "answers": [
+      {
+        "text": "Read the books",
+        "aliases": [
+          "read novels",
+          "books"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Listen to podcasts",
+        "aliases": [
+          "podcast"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Join fan discussions",
+        "aliases": [
+          "fan forums",
+          "discussion boards"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Create fan art",
+        "aliases": [
+          "fanart",
+          "draw characters"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Read fan fiction",
+        "aliases": [
+          "fanfiction",
+          "fan fic"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Collect merchandise",
+        "aliases": [
+          "collect merch",
+          "collectibles"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-038",
+    "category": "Pop culture",
+    "prompt": "Name an object that might come to life in a cartoon.",
+    "answers": [
+      {
+        "text": "Toy",
+        "aliases": [
+          "toys"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Car",
+        "aliases": [
+          "cars"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Broom",
+        "aliases": [
+          "broomstick"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Teapot",
+        "aliases": [
+          "tea pot"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Snowman",
+        "aliases": [
+          "snow man"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Tree",
+        "aliases": [
+          "trees"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-039",
+    "category": "Pop culture",
+    "prompt": "Name a kind of item people can borrow from a public library.",
+    "answers": [
+      {
+        "text": "Novel",
+        "aliases": [
+          "fiction book",
+          "fiction"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Audiobook",
+        "aliases": [
+          "audio book"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Movie",
+        "aliases": [
+          "dvd",
+          "film"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Magazine",
+        "aliases": [
+          "periodical"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Comic book",
+        "aliases": [
+          "graphic novel",
+          "comics"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Board game",
+        "aliases": [
+          "tabletop game"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-040",
+    "category": "Pop culture",
+    "prompt": "Name something people use to recognize a song.",
+    "answers": [
+      {
+        "text": "Lyrics",
+        "aliases": [
+          "words",
+          "song words"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Melody",
+        "aliases": [
+          "tune"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Singer's voice",
+        "aliases": [
+          "voice",
+          "vocalist"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Guitar riff",
+        "aliases": [
+          "riff"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Drum beat",
+        "aliases": [
+          "beat",
+          "rhythm"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Music video",
+        "aliases": [
+          "video clip"
+        ],
+        "points": 5
+      }
+    ]
+  }
+]

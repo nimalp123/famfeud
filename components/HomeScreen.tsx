@@ -11,10 +11,10 @@ interface HomeScreenProps {
   publicRooms: PublicRoom[];
   busy: boolean;
   error: string | null;
-  aiConfigured: boolean;
+  questionCount: number;
 }
 
-export default function HomeScreen({ onCreate, onJoin, publicRooms, busy, error, aiConfigured }: HomeScreenProps) {
+export default function HomeScreen({ onCreate, onJoin, publicRooms, busy, error, questionCount }: HomeScreenProps) {
   const [tab, setTab] = useState<"create" | "join">("create");
   const [name, setName] = useState("");
   const [avatar, setAvatar] = useState(0);
@@ -58,7 +58,7 @@ export default function HomeScreen({ onCreate, onJoin, publicRooms, busy, error,
           <p className="home-hero-description">Think you know what everyone’s thinking? Grab your friends, guess the top answers, and settle it on the board.</p>
           <div className="home-feature-list">
             <span><Zap size={16} /> Jump in. No signup.</span>
-            <span><Sparkles size={16} /> {aiConfigured ? "Fresh AI-generated rounds" : "Curated rounds ready to play"}</span>
+            <span><Sparkles size={16} /> {questionCount} ready-to-play rounds</span>
           </div>
           <div className="home-demo-board" aria-hidden="true">
             <div className="home-demo-heading"><span>NAME A GAME NIGHT ESSENTIAL</span><Sparkles size={16} /></div>

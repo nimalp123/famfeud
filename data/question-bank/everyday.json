@@ -1,0 +1,2192 @@
+[
+  {
+    "id": "everyday-001",
+    "category": "Everyday life",
+    "prompt": "Name something people realize they forgot after leaving home.",
+    "answers": [
+      {
+        "text": "Phone",
+        "aliases": [
+          "mobile",
+          "cellphone"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Keys",
+        "aliases": [
+          "house keys",
+          "car keys"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Wallet",
+        "aliases": [
+          "purse",
+          "billfold"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Glasses",
+        "aliases": [
+          "eyeglasses",
+          "reading glasses"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Work badge",
+        "aliases": [
+          "badge",
+          "employee id"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Umbrella",
+        "aliases": [
+          "rain umbrella"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-002",
+    "category": "Everyday life",
+    "prompt": "Name something people do soon after waking up.",
+    "answers": [
+      {
+        "text": "Brush their teeth",
+        "aliases": [
+          "brush teeth",
+          "toothbrushing"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Take a shower",
+        "aliases": [
+          "shower",
+          "bathe"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Check their phone",
+        "aliases": [
+          "check phone",
+          "look at phone"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Use the bathroom",
+        "aliases": [
+          "go to the toilet",
+          "use toilet"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Get dressed",
+        "aliases": [
+          "put on clothes",
+          "dress"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Make the bed",
+        "aliases": [
+          "make bed",
+          "straighten the bed"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-003",
+    "category": "Everyday life",
+    "prompt": "Name something people keep on a bedside table.",
+    "answers": [
+      {
+        "text": "Phone",
+        "aliases": [
+          "cellphone",
+          "mobile"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Lamp",
+        "aliases": [
+          "bedside lamp",
+          "reading lamp"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Book",
+        "aliases": [
+          "novel",
+          "reading book"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Glasses",
+        "aliases": [
+          "eyeglasses",
+          "reading glasses"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Alarm clock",
+        "aliases": [
+          "clock",
+          "bedside clock"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Tissues",
+        "aliases": [
+          "tissue box",
+          "facial tissues"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-004",
+    "category": "Everyday life",
+    "prompt": "Name a household chore people put off doing.",
+    "answers": [
+      {
+        "text": "Laundry",
+        "aliases": [
+          "washing clothes",
+          "doing laundry"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Washing dishes",
+        "aliases": [
+          "dishes",
+          "washing up"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Vacuuming",
+        "aliases": [
+          "vacuum",
+          "hoovering"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Cleaning the bathroom",
+        "aliases": [
+          "clean bathroom",
+          "scrubbing the toilet"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Dusting",
+        "aliases": [
+          "dust",
+          "dust furniture"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Taking out trash",
+        "aliases": [
+          "take out garbage",
+          "empty bins"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-005",
+    "category": "Everyday life",
+    "prompt": "Name something you might borrow from a neighbor for a household job.",
+    "answers": [
+      {
+        "text": "Ladder",
+        "aliases": [
+          "stepladder",
+          "step ladder"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Drill",
+        "aliases": [
+          "power drill",
+          "electric drill"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Shovel",
+        "aliases": [
+          "spade",
+          "garden shovel"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Extension cord",
+        "aliases": [
+          "extension cable",
+          "power extension"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Vacuum cleaner",
+        "aliases": [
+          "vacuum",
+          "hoover"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Sewing kit",
+        "aliases": [
+          "needle and thread",
+          "sewing supplies"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-006",
+    "category": "Everyday life",
+    "prompt": "Name something you would find in a junk drawer.",
+    "answers": [
+      {
+        "text": "Batteries",
+        "aliases": [
+          "battery",
+          "spare batteries"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Pens",
+        "aliases": [
+          "pen",
+          "ballpoint pen"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Tape",
+        "aliases": [
+          "sticky tape",
+          "adhesive tape"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Coins",
+        "aliases": [
+          "loose change",
+          "spare change"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Old keys",
+        "aliases": [
+          "keys",
+          "spare keys"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Scissors",
+        "aliases": [
+          "pair of scissors"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-007",
+    "category": "Everyday life",
+    "prompt": "Name something you might need on your first day at a new office job.",
+    "answers": [
+      {
+        "text": "Identification",
+        "aliases": [
+          "id",
+          "identity document"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Laptop",
+        "aliases": [
+          "computer",
+          "work laptop"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Notebook",
+        "aliases": [
+          "notepad",
+          "writing pad"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Access badge",
+        "aliases": [
+          "keycard",
+          "entry pass"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Completed paperwork",
+        "aliases": [
+          "forms",
+          "employment forms"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Login details",
+        "aliases": [
+          "password",
+          "username"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-008",
+    "category": "Everyday life",
+    "prompt": "Name something students keep in a school backpack.",
+    "answers": [
+      {
+        "text": "Notebooks",
+        "aliases": [
+          "notebook",
+          "exercise books"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Pencils",
+        "aliases": [
+          "pencil",
+          "writing pencils"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Textbooks",
+        "aliases": [
+          "textbook",
+          "school books"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Laptop",
+        "aliases": [
+          "computer",
+          "tablet"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Eraser",
+        "aliases": [
+          "rubber",
+          "pencil eraser"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ruler",
+        "aliases": [
+          "measuring ruler",
+          "straightedge"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-009",
+    "category": "Everyday life",
+    "prompt": "Name a place where people are expected to speak quietly.",
+    "answers": [
+      {
+        "text": "Library",
+        "aliases": [
+          "public library",
+          "school library"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Hospital",
+        "aliases": [
+          "hospital ward",
+          "clinic"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Classroom",
+        "aliases": [
+          "class",
+          "school classroom"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Place of worship",
+        "aliases": [
+          "church",
+          "temple"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Office",
+        "aliases": [
+          "work office",
+          "workplace"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Bedroom",
+        "aliases": [
+          "room where someone is sleeping",
+          "sleeping room"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-010",
+    "category": "Everyday life",
+    "prompt": "Name something you would find in a home first-aid kit.",
+    "answers": [
+      {
+        "text": "Adhesive bandages",
+        "aliases": [
+          "bandages",
+          "band aids"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Antiseptic wipes",
+        "aliases": [
+          "disinfectant wipes",
+          "alcohol wipes"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Gauze",
+        "aliases": [
+          "gauze pads",
+          "sterile gauze"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Medical tape",
+        "aliases": [
+          "surgical tape",
+          "first aid tape"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Tweezers",
+        "aliases": [
+          "splinter tweezers",
+          "pair of tweezers"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Thermometer",
+        "aliases": [
+          "digital thermometer",
+          "temperature thermometer"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-011",
+    "category": "Everyday life",
+    "prompt": "Name something people discover they own too many of while decluttering.",
+    "answers": [
+      {
+        "text": "Clothes",
+        "aliases": [
+          "clothing",
+          "shirts"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Shoes",
+        "aliases": [
+          "footwear",
+          "pairs of shoes"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Mugs",
+        "aliases": [
+          "cups",
+          "coffee mugs"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Cables",
+        "aliases": [
+          "chargers",
+          "charging cables"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Plastic bags",
+        "aliases": [
+          "shopping bags",
+          "carrier bags"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Cushions",
+        "aliases": [
+          "throw pillows",
+          "decorative pillows"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-012",
+    "category": "Everyday life",
+    "prompt": "Name someone who might ring your doorbell during the day.",
+    "answers": [
+      {
+        "text": "Delivery driver",
+        "aliases": [
+          "courier",
+          "package delivery"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Neighbor",
+        "aliases": [
+          "neighbour",
+          "person next door"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Friend",
+        "aliases": [
+          "pal",
+          "visiting friend"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Family member",
+        "aliases": [
+          "relative",
+          "visiting family"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Salesperson",
+        "aliases": [
+          "door to door seller",
+          "solicitor"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Repair worker",
+        "aliases": [
+          "technician",
+          "repair person"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-013",
+    "category": "Everyday life",
+    "prompt": "Name something in a home that gets washed regularly.",
+    "answers": [
+      {
+        "text": "Clothes",
+        "aliases": [
+          "clothing",
+          "laundry"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Bedsheets",
+        "aliases": [
+          "bed sheets",
+          "sheets"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Towels",
+        "aliases": [
+          "bath towels",
+          "hand towels"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Floors",
+        "aliases": [
+          "floor",
+          "kitchen floor"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Dishes",
+        "aliases": [
+          "plates",
+          "crockery"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Windows",
+        "aliases": [
+          "window",
+          "window glass"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-014",
+    "category": "Everyday life",
+    "prompt": "Name an excuse someone gives for arriving late to a meeting.",
+    "answers": [
+      {
+        "text": "Traffic",
+        "aliases": [
+          "traffic jam",
+          "stuck in traffic"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Previous meeting ran over",
+        "aliases": [
+          "another meeting",
+          "meeting overran"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Overslept",
+        "aliases": [
+          "slept in",
+          "alarm did not go off"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Childcare problem",
+        "aliases": [
+          "kids",
+          "school drop off"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Lost their keys",
+        "aliases": [
+          "could not find keys",
+          "missing keys"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Wrong calendar time",
+        "aliases": [
+          "mixed up the time",
+          "calendar mistake"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-015",
+    "category": "Everyday life",
+    "prompt": "Name something people do when they cannot remember a password.",
+    "answers": [
+      {
+        "text": "Reset it",
+        "aliases": [
+          "password reset",
+          "forgot password button"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Try old passwords",
+        "aliases": [
+          "guess",
+          "keep guessing"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Check a password manager",
+        "aliases": [
+          "password manager",
+          "saved passwords"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Ask technical support",
+        "aliases": [
+          "ask it",
+          "contact support"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Look for a written note",
+        "aliases": [
+          "check notes",
+          "password notebook"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Use fingerprint login",
+        "aliases": [
+          "fingerprint",
+          "face id"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-016",
+    "category": "Everyday life",
+    "prompt": "Name a sign that someone is getting sleepy.",
+    "answers": [
+      {
+        "text": "Yawning",
+        "aliases": [
+          "yawn",
+          "big yawns"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Heavy eyelids",
+        "aliases": [
+          "eyes closing",
+          "drooping eyes"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Nodding off",
+        "aliases": [
+          "head dropping",
+          "dozing"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Rubbing their eyes",
+        "aliases": [
+          "rub eyes",
+          "eye rubbing"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Slow responses",
+        "aliases": [
+          "sluggish",
+          "slow talking"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Stretching",
+        "aliases": [
+          "stretch",
+          "big stretch"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-017",
+    "category": "Everyday life",
+    "prompt": "Name something people do at home before guests arrive.",
+    "answers": [
+      {
+        "text": "Tidy up",
+        "aliases": [
+          "declutter",
+          "put things away"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Vacuum",
+        "aliases": [
+          "vacuuming",
+          "hoover"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Clean the bathroom",
+        "aliases": [
+          "clean bathroom",
+          "scrub the toilet"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Change clothes",
+        "aliases": [
+          "get dressed",
+          "dress up"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Set out chairs",
+        "aliases": [
+          "arrange seating",
+          "extra chairs"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Light a scented candle",
+        "aliases": [
+          "air freshener",
+          "make the house smell nice"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-018",
+    "category": "Everyday life",
+    "prompt": "Name a household supply that is annoying to run out of.",
+    "answers": [
+      {
+        "text": "Toilet paper",
+        "aliases": [
+          "toilet roll",
+          "bathroom tissue"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Soap",
+        "aliases": [
+          "hand soap",
+          "body soap"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Trash bags",
+        "aliases": [
+          "garbage bags",
+          "bin liners"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Light bulbs",
+        "aliases": [
+          "bulbs",
+          "lightbulbs"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Batteries",
+        "aliases": [
+          "battery",
+          "spare batteries"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Laundry detergent",
+        "aliases": [
+          "washing powder",
+          "laundry soap"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-019",
+    "category": "Everyday life",
+    "prompt": "Name something that always seems to break at an inconvenient time.",
+    "answers": [
+      {
+        "text": "Phone",
+        "aliases": [
+          "cellphone",
+          "mobile"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Car",
+        "aliases": [
+          "vehicle",
+          "automobile"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Washing machine",
+        "aliases": [
+          "washer",
+          "laundry machine"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Computer",
+        "aliases": [
+          "laptop",
+          "desktop"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Toilet",
+        "aliases": [
+          "loo",
+          "bathroom toilet"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Door lock",
+        "aliases": [
+          "lock",
+          "front door lock"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-020",
+    "category": "Everyday life",
+    "prompt": "Name a noise that might wake you up at home.",
+    "answers": [
+      {
+        "text": "Alarm",
+        "aliases": [
+          "alarm clock",
+          "phone alarm"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Dog barking",
+        "aliases": [
+          "barking",
+          "barking dog"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Baby crying",
+        "aliases": [
+          "crying baby",
+          "baby"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Snoring",
+        "aliases": [
+          "someone snoring",
+          "snore"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Vacuum cleaner",
+        "aliases": [
+          "vacuum",
+          "hoover"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Doorbell",
+        "aliases": [
+          "door bell",
+          "someone at the door"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-021",
+    "category": "Everyday life",
+    "prompt": "Name something you would find on an office desk.",
+    "answers": [
+      {
+        "text": "Computer",
+        "aliases": [
+          "laptop",
+          "monitor"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Keyboard",
+        "aliases": [
+          "computer keyboard"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Mouse",
+        "aliases": [
+          "computer mouse",
+          "trackpad"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Notepad",
+        "aliases": [
+          "notebook",
+          "writing pad"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Pen",
+        "aliases": [
+          "pens",
+          "ballpoint"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Desk lamp",
+        "aliases": [
+          "lamp",
+          "task light"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-022",
+    "category": "Everyday life",
+    "prompt": "Name a place people find forgotten loose change.",
+    "answers": [
+      {
+        "text": "Sofa cushions",
+        "aliases": [
+          "couch",
+          "down the sofa"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Clothing pockets",
+        "aliases": [
+          "pockets",
+          "coat pocket"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Car",
+        "aliases": [
+          "car seat",
+          "car cup holder"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Drawer",
+        "aliases": [
+          "junk drawer",
+          "desk drawer"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Washing machine",
+        "aliases": [
+          "washer",
+          "laundry machine"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Old bag",
+        "aliases": [
+          "old handbag",
+          "old purse"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-023",
+    "category": "Everyday life",
+    "prompt": "Name a household job a parent might give a child.",
+    "answers": [
+      {
+        "text": "Tidy their room",
+        "aliases": [
+          "clean room",
+          "put toys away"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Make their bed",
+        "aliases": [
+          "make bed",
+          "straighten the bed"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Take out trash",
+        "aliases": [
+          "empty bins",
+          "take out garbage"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Feed a pet",
+        "aliases": [
+          "feed the dog",
+          "feed the cat"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Fold laundry",
+        "aliases": [
+          "fold clothes",
+          "laundry folding"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Water plants",
+        "aliases": [
+          "water the flowers",
+          "plant watering"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-024",
+    "category": "Everyday life",
+    "prompt": "Name something people write on a calendar.",
+    "answers": [
+      {
+        "text": "Birthdays",
+        "aliases": [
+          "birthday",
+          "birth dates"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Appointments",
+        "aliases": [
+          "doctor appointments",
+          "dentist appointment"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Meetings",
+        "aliases": [
+          "meeting",
+          "work meetings"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Anniversaries",
+        "aliases": [
+          "anniversary",
+          "wedding anniversary"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Deadlines",
+        "aliases": [
+          "due dates",
+          "assignment deadlines"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Holidays",
+        "aliases": [
+          "vacation dates",
+          "days off"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-025",
+    "category": "Everyday life",
+    "prompt": "Name something you would find beside a bathroom sink.",
+    "answers": [
+      {
+        "text": "Toothbrush",
+        "aliases": [
+          "toothbrushes",
+          "electric toothbrush"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Soap",
+        "aliases": [
+          "hand soap",
+          "soap dispenser"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Toothpaste",
+        "aliases": [
+          "tooth paste",
+          "tube of toothpaste"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Hand towel",
+        "aliases": [
+          "towel",
+          "face towel"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Hairbrush",
+        "aliases": [
+          "hair brush",
+          "comb"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Razor",
+        "aliases": [
+          "shaver",
+          "shaving razor"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-026",
+    "category": "Everyday life",
+    "prompt": "Name a household item that needs to be plugged in.",
+    "answers": [
+      {
+        "text": "Phone charger",
+        "aliases": [
+          "charger",
+          "charging cable"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Laptop",
+        "aliases": [
+          "computer",
+          "laptop charger"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Vacuum cleaner",
+        "aliases": [
+          "vacuum",
+          "hoover"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Lamp",
+        "aliases": [
+          "light",
+          "table lamp"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Fan",
+        "aliases": [
+          "electric fan",
+          "desk fan"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Printer",
+        "aliases": [
+          "home printer",
+          "computer printer"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-027",
+    "category": "Everyday life",
+    "prompt": "Name something people do just before going to bed.",
+    "answers": [
+      {
+        "text": "Brush their teeth",
+        "aliases": [
+          "brush teeth",
+          "toothbrushing"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Set an alarm",
+        "aliases": [
+          "set alarm",
+          "alarm clock"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Lock the doors",
+        "aliases": [
+          "lock up",
+          "check locks"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Put on pajamas",
+        "aliases": [
+          "pajamas",
+          "change into pyjamas"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Turn off lights",
+        "aliases": [
+          "switch off lights",
+          "lights out"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Charge their phone",
+        "aliases": [
+          "charge phone",
+          "plug in phone"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-028",
+    "category": "Everyday life",
+    "prompt": "Name something you might borrow from a coworker.",
+    "answers": [
+      {
+        "text": "Pen",
+        "aliases": [
+          "ballpoint",
+          "writing pen"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Phone charger",
+        "aliases": [
+          "charger",
+          "charging cable"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Stapler",
+        "aliases": [
+          "stapling machine"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Scissors",
+        "aliases": [
+          "pair of scissors"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Tape",
+        "aliases": [
+          "sticky tape",
+          "adhesive tape"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Notebook",
+        "aliases": [
+          "notepad",
+          "writing pad"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-029",
+    "category": "Everyday life",
+    "prompt": "Name something people keep near their front door.",
+    "answers": [
+      {
+        "text": "Shoes",
+        "aliases": [
+          "footwear",
+          "shoe rack"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Coats",
+        "aliases": [
+          "jackets",
+          "coat rack"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Keys",
+        "aliases": [
+          "key hooks",
+          "key bowl"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Umbrella",
+        "aliases": [
+          "umbrella stand",
+          "umbrellas"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Doormat",
+        "aliases": [
+          "welcome mat",
+          "door mat"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Mail",
+        "aliases": [
+          "letters",
+          "post"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-030",
+    "category": "Everyday life",
+    "prompt": "Name something people reach for during a power outage.",
+    "answers": [
+      {
+        "text": "Flashlight",
+        "aliases": [
+          "torch",
+          "electric torch"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Candles",
+        "aliases": [
+          "candle",
+          "tea lights"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Phone",
+        "aliases": [
+          "cellphone",
+          "mobile"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Matches",
+        "aliases": [
+          "lighter",
+          "matchbox"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Battery radio",
+        "aliases": [
+          "portable radio",
+          "radio"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Blanket",
+        "aliases": [
+          "blankets",
+          "warm blanket"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-031",
+    "category": "Everyday life",
+    "prompt": "Name something people hang on a wall.",
+    "answers": [
+      {
+        "text": "Pictures",
+        "aliases": [
+          "photos",
+          "photographs"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Clock",
+        "aliases": [
+          "wall clock"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Mirror",
+        "aliases": [
+          "wall mirror"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Calendar",
+        "aliases": [
+          "wall calendar"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Shelves",
+        "aliases": [
+          "shelf",
+          "wall shelf"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Coat hooks",
+        "aliases": [
+          "hooks",
+          "coat rack"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-032",
+    "category": "Everyday life",
+    "prompt": "Name something that piles up during a busy week.",
+    "answers": [
+      {
+        "text": "Laundry",
+        "aliases": [
+          "dirty clothes",
+          "washing"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Dishes",
+        "aliases": [
+          "dirty plates",
+          "washing up"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Mail",
+        "aliases": [
+          "letters",
+          "post"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Paperwork",
+        "aliases": [
+          "documents",
+          "forms"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Trash",
+        "aliases": [
+          "garbage",
+          "rubbish"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Unread messages",
+        "aliases": [
+          "emails",
+          "unread emails"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-033",
+    "category": "Everyday life",
+    "prompt": "Name something people store in a closet.",
+    "answers": [
+      {
+        "text": "Clothes",
+        "aliases": [
+          "clothing",
+          "outfits"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Shoes",
+        "aliases": [
+          "footwear",
+          "boots"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hangers",
+        "aliases": [
+          "coat hangers",
+          "clothes hangers"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Storage boxes",
+        "aliases": [
+          "boxes",
+          "storage bins"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Blankets",
+        "aliases": [
+          "spare bedding",
+          "comforters"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Suitcases",
+        "aliases": [
+          "luggage",
+          "travel bags"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-034",
+    "category": "Everyday life",
+    "prompt": "Name a noise that can be distracting in an office.",
+    "answers": [
+      {
+        "text": "Loud conversation",
+        "aliases": [
+          "talking",
+          "chatting"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Ringing phone",
+        "aliases": [
+          "phone ringing",
+          "ringtone"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Keyboard typing",
+        "aliases": [
+          "typing",
+          "keyboard clicking"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Printer",
+        "aliases": [
+          "printing",
+          "copy machine"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Construction",
+        "aliases": [
+          "drilling",
+          "building work"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Coughing",
+        "aliases": [
+          "cough",
+          "someone coughing"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-035",
+    "category": "Everyday life",
+    "prompt": "Name something children learn to do by themselves.",
+    "answers": [
+      {
+        "text": "Tie their shoes",
+        "aliases": [
+          "tie shoes",
+          "tie shoelaces"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Brush their teeth",
+        "aliases": [
+          "brush teeth",
+          "toothbrushing"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Get dressed",
+        "aliases": [
+          "dress themselves",
+          "put on clothes"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Read",
+        "aliases": [
+          "reading",
+          "read a book"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Tell the time",
+        "aliases": [
+          "read a clock",
+          "telling time"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Ride a bicycle",
+        "aliases": [
+          "ride a bike",
+          "cycling"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-036",
+    "category": "Everyday life",
+    "prompt": "Name a reason someone wakes up in the middle of the night.",
+    "answers": [
+      {
+        "text": "Need the bathroom",
+        "aliases": [
+          "need the toilet",
+          "bathroom trip"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Heard a noise",
+        "aliases": [
+          "loud noise",
+          "noise"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Bad dream",
+        "aliases": [
+          "nightmare",
+          "scary dream"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Too hot",
+        "aliases": [
+          "overheating",
+          "hot room"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Thirsty",
+        "aliases": [
+          "thirst",
+          "need water"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pet woke them",
+        "aliases": [
+          "dog",
+          "cat"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "everyday-037",
+    "category": "Everyday life",
+    "prompt": "Name a sign that a room needs cleaning.",
+    "answers": [
+      {
+        "text": "Dust",
+        "aliases": [
+          "dusty surfaces",
+          "dust buildup"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Clutter",
+        "aliases": [
+          "mess",
+          "things everywhere"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Full trash can",
+        "aliases": [
+          "overflowing bin",
+          "garbage pile"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Dirty dishes",
+        "aliases": [
+          "dirty plates",
+          "used cups"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Crumbs on the floor",
+        "aliases": [
+          "crumbs",
+          "floor debris"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Streaky windows",
+        "aliases": [
+          "dirty windows",
+          "smudged glass"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-038",
+    "category": "Everyday life",
+    "prompt": "Name a tool people keep for simple home repairs.",
+    "answers": [
+      {
+        "text": "Hammer",
+        "aliases": [
+          "claw hammer"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Screwdriver",
+        "aliases": [
+          "screw driver",
+          "phillips screwdriver"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pliers",
+        "aliases": [
+          "pair of pliers"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Wrench",
+        "aliases": [
+          "spanner",
+          "adjustable wrench"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Tape measure",
+        "aliases": [
+          "measuring tape",
+          "tape measurer"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Drill",
+        "aliases": [
+          "power drill",
+          "electric drill"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-039",
+    "category": "Everyday life",
+    "prompt": "Name something employees look forward to at work.",
+    "answers": [
+      {
+        "text": "Payday",
+        "aliases": [
+          "getting paid",
+          "paycheck"
+        ],
+        "points": 28
+      },
+      {
+        "text": "The weekend",
+        "aliases": [
+          "weekend",
+          "friday"
+        ],
+        "points": 23
+      },
+      {
+        "text": "A break",
+        "aliases": [
+          "lunch break",
+          "break time"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Vacation time",
+        "aliases": [
+          "time off",
+          "annual leave"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Promotion",
+        "aliases": [
+          "getting promoted",
+          "new role"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Finishing a project",
+        "aliases": [
+          "project completion",
+          "finishing work"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "everyday-040",
+    "category": "Everyday life",
+    "prompt": "Name something you might find in a pocket before doing laundry.",
+    "answers": [
+      {
+        "text": "Tissues",
+        "aliases": [
+          "tissue",
+          "used tissue"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Coins",
+        "aliases": [
+          "loose change",
+          "spare change"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Receipts",
+        "aliases": [
+          "receipt",
+          "paper receipt"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Keys",
+        "aliases": [
+          "key",
+          "house keys"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Pen",
+        "aliases": [
+          "ballpoint",
+          "pens"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hair tie",
+        "aliases": [
+          "hairband",
+          "elastic hair band"
+        ],
+        "points": 5
+      }
+    ]
+  }
+]

@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import { readdir, readFile } from "node:fs/promises";
 import { DatabaseSync } from "node:sqlite";
 import { setImmediate } from "node:timers/promises";
-import test from "node:test";
+import test, { type TestContext } from "node:test";
 import { handleApi } from "../lib/api.ts";
 import type {
   ApiSessionResponse,
@@ -222,7 +222,7 @@ test("starting requires readiness and keeps the entire unrevealed board server-s
   assert.ok((await action(f.env, guest.session, { type: "start" })).response.status >= 400);
   assert.ok((await action(f.env, host.session, { type: "start" })).response.status >= 400);
   const room = await start(f, host, guest);
-  assert.equal(room.source, "curated");
+  assert.equal(room.source, "bank");
   assert.equal("questions" in room, false);
   assert.ok(room.round && room.round.answers.length >= 5);
   assert.ok(room.round.answers.every((answer) => answer.text === null && answer.points === null));
@@ -518,4 +518,84 @@ test("an offline host transfers once to the earliest connected player and retain
   assert.equal(returned.response.status, 200);
   assert.equal(returned.data.room.hostId, first.session.playerId);
   assert.equal(returned.data.room.players.find((player) => player.id === host.session.playerId)?.connected, true);
+});
+
+test("health seeds exactly 200 stored boards once and reports the bank without networking", async (t) => {
+  const f = await fixture();
+  t.after(f.close);
+  t.mock.method(globalThis, "fetch", () => { throw new Error("Stored-bank mode must not use the network."); });
+  const first = await request<{ ok: boolean; questionCount: number }>(f.env, "/api/health");
+  assert.equal(first.response.status, 200);
+  assert.deepEqual(first.data, { ok: true, questionCount: 200 });
+  const changes = f.database.prepare("SELECT total_changes() AS count").get()!.count;
+  const second = await request<{ ok: boolean; questionCount: number }>(f.env, "/api/health");
+  assert.deepEqual(second.data, first.data);
+  assert.equal(f.database.prepare("SELECT total_changes() AS count").get()!.count, changes);
+  assert.equal(f.database.prepare("SELECT COUNT(*) AS count FROM question_bank").get()!.count, 200);
+  const categories = f.database.prepare("SELECT category, COUNT(*) AS count FROM question_bank GROUP BY category").all();
+  assert.equal(categories.length, 5);
+  assert.ok(categories.every((category) => category.count === 40));
+  const host = await create(f.env);
+  const guest = await join(f.env, host.session.code);
+  assert.equal((await start(f, host, guest)).source, "bank");
+});
+
+async function exhaustBankThroughRematches(
+  t: TestContext,
+  category: string,
+  poolSize: number,
+) {
+  const clock = { now: Date.now() };
+  t.mock.method(Date, "now", () => clock.now);
+  const f = await fixture();
+  t.after(f.close);
+  const host = await create(f.env, "Host", { category, rounds: 5 });
+  const guest = await join(f.env, host.session.code);
+  const seen = new Set<string>();
+
+  async function finishAndRematch() {
+    for (let round = 0; round < 5; round += 1) {
+      clock.now += 61_000;
+      const expired = storedRoom(f, host.session.code);
+      expired.round!.deadline = clock.now - 1;
+      saveStoredRoom(f, expired);
+      const polled = await request<{ room: RoomView }>(f.env, `/api/rooms/${host.session.code}`, {
+        token: guest.session.token,
+      });
+      assert.equal(polled.data.room.phase, "round-ended");
+      const next = await action(f.env, host.session, { type: "next" });
+      assert.equal(next.response.status, 200, JSON.stringify(next.data));
+    }
+    assert.equal(storedRoom(f, host.session.code).phase, "finished");
+    assert.equal((await action(f.env, host.session, { type: "rematch" })).data.room.phase, "lobby");
+    // Keep starts below the independent hourly anti-abuse quota.
+    clock.now += 60_000;
+  }
+
+  for (let match = 0; match < poolSize / 5; match += 1) {
+    await start(f, host, guest);
+    const state = storedRoom(f, host.session.code);
+    assert.equal(new Set(state.questions.map((question) => question.id)).size, 5);
+    for (const question of state.questions) {
+      assert.equal(seen.has(question.id), false, `${question.id} repeated before the ${poolSize}-board pool was exhausted`);
+      seen.add(question.id);
+      const stored = f.database.prepare("SELECT category FROM question_bank WHERE id = ?").get(question.id);
+      assert.ok(stored, "Selected question must have a persisted bank row.");
+      if (category !== "Anything goes") assert.equal(stored.category, category);
+    }
+    await finishAndRematch();
+  }
+  assert.equal(seen.size, poolSize);
+  await start(f, host, guest);
+  const recycled = storedRoom(f, host.session.code).questions;
+  assert.equal(new Set(recycled.map((question) => question.id)).size, 5);
+  assert.ok(recycled.every((question) => seen.has(question.id)));
+}
+
+test("a category cycles its 40 stored boards across rematches before repeating", async (t) => {
+  await exhaustBankThroughRematches(t, "Food & drink", 40);
+});
+
+test("Anything goes cycles all 200 stored boards across rematches before repeating", async (t) => {
+  await exhaustBankThroughRematches(t, "Anything goes", 200);
 });

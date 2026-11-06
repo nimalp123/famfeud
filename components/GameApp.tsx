@@ -13,7 +13,7 @@ export default function GameApp() {
   const [session, setSession] = useState<Session | null>(null);
   const [room, setRoom] = useState<RoomView | null>(null);
   const [publicRooms, setPublicRooms] = useState<PublicRoom[]>([]);
-  const [aiConfigured, setAiConfigured] = useState(false);
+  const [questionCount, setQuestionCount] = useState(200);
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [connectionLost, setConnectionLost] = useState(false);
@@ -28,7 +28,7 @@ export default function GameApp() {
   useEffect(() => {
     setSession(readSession());
     setInitialized(true);
-    api.health().then((data) => setAiConfigured(data.aiConfigured)).catch(() => {});
+    api.health().then((data) => setQuestionCount(data.questionCount)).catch(() => {});
   }, []);
 
   useEffect(() => {
@@ -124,7 +124,7 @@ export default function GameApp() {
       ) : (
         <MatchScreen {...{ room, session, onAction, onLeave, busy, error }} />
       ) : (
-        <HomeScreen {...{ onCreate, onJoin, publicRooms, busy, error, aiConfigured }} />
+        <HomeScreen {...{ onCreate, onJoin, publicRooms, busy, error, questionCount }} />
       )}
       <footer className="site-footer"><span>Good company. Questionable guesses.</span><span>Fresh boards. Real rivalries. <span aria-hidden="true">✦</span></span></footer>
     </div>

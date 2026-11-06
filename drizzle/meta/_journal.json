@@ -15,6 +15,13 @@
       "when": 1794001594516,
       "tag": "0001_faithful_caretaker",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1794002048007,
+      "tag": "0002_striped_barracuda",
+      "breakpoints": true
     }
   ]
 }

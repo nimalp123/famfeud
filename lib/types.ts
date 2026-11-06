@@ -1,7 +1,7 @@
 export type GameMode = "solo" | "teams";
 export type RoomPhase = "lobby" | "generating" | "playing" | "round-ended" | "finished";
 export type Team = 0 | 1;
-export type QuestionSource = "ai" | "curated";
+export type QuestionSource = "bank" | "ai" | "curated";
 
 export interface Answer {
   id: string;
@@ -73,6 +73,7 @@ export interface RoomState {
   createdAt: number;
   updatedAt: number;
   generationId: string | null;
+  usedQuestionIds?: string[];
   error: string | null;
 }
 
@@ -144,6 +145,4 @@ export interface ApiSessionResponse {
 
 export interface GameEnvironment {
   DB: D1Database;
-  OPENAI_API_KEY?: string;
-  OPENAI_MODEL?: string;
 }

@@ -112,7 +112,7 @@ export default function MatchScreen({ room, session, onAction, onLeave, busy, er
           <div className="match-loading-orbit" aria-hidden="true"><span>?</span><span>!</span><Sparkles size={36} /></div>
           <span className="badge">A little suspense never hurt</span>
           <h1>Setting the stage.</h1>
-          <p>Getting {room.settings.rounds} fresh rounds ready for your room. The first question is coming right up.</p>
+          <p>Picking {room.settings.rounds} rounds from the question bank for your room. The first question is coming right up.</p>
           <div className="match-loading-steps"><span /><span /><span /></div>
           <small>Keep this tab open. Everyone will start together.</small>
         </div>
@@ -128,7 +128,7 @@ export default function MatchScreen({ room, session, onAction, onLeave, busy, er
               <div className="match-question-eyebrow"><Sparkles size={15} /> {room.settings.category}</div>
               <h1>{round.prompt}</h1>
               <div className="match-question-footer">
-                <span className="badge">{room.source === "ai" ? "AI-generated board" : "Practice board"}</span>
+                <span className="badge">{room.source === "bank" ? "Question bank" : "Saved board"}</span>
                 {isPlaying ? (
                   <div className={`match-timer ${secondsLeft <= 5 ? "is-urgent" : ""}`} role="timer" aria-label={`${secondsLeft} seconds remaining`}>
                     <Clock3 size={18} /><span>{secondsLeft}<small>s</small></span>
@@ -219,7 +219,7 @@ export default function MatchScreen({ room, session, onAction, onLeave, busy, er
               <h3>JUST HAPPENED</h3>
               {room.events.slice(-4).reverse().map((event) => <p key={event.id} className={`match-event is-${event.kind}`}>{event.text}</p>)}
             </div>
-            <p className="score-footnote">{room.source === "ai" ? "Points are AI-estimated popularity, made fresh for this game." : "You’re playing a curated practice board."}</p>
+            <p className="score-footnote">Game points are estimated popularity. Each board stays fixed for the match.</p>
           </aside>
         </div>
       ) : <div className="panel match-generating" role="status"><h1>Joining the game…</h1><p>Your board will appear in a moment.</p></div>}
