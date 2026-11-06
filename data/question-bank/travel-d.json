@@ -1,0 +1,4220 @@
+[
+  {
+    "id": "travel-221",
+    "category": "Travel & places",
+    "prompt": "Name a sound that is part of a relaxing day by the sea.",
+    "answers": [
+      {
+        "text": "Waves",
+        "aliases": [
+          "surf"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Seagulls",
+        "aliases": [
+          "gulls"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Wind",
+        "aliases": [
+          "sea breeze"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Children laughing",
+        "aliases": [
+          "laughter"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Boat engines",
+        "aliases": [
+          "motorboats"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Music",
+        "aliases": [
+          "beach music"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-222",
+    "category": "Travel & places",
+    "prompt": "Name something a child might use to decorate a sandcastle.",
+    "answers": [
+      {
+        "text": "Seashells",
+        "aliases": [
+          "shells"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Pebbles",
+        "aliases": [
+          "small stones"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Seaweed",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Small flags",
+        "aliases": [
+          "flags"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Driftwood",
+        "aliases": [
+          "sticks"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Feathers",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-223",
+    "category": "Travel & places",
+    "prompt": "Name something visitors hope to spot in a tide pool.",
+    "answers": [
+      {
+        "text": "Crab",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Starfish",
+        "aliases": [
+          "sea star"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Sea anemone",
+        "aliases": [
+          "anemone"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Sea snail",
+        "aliases": [
+          "snail"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Small fish",
+        "aliases": [
+          "fish"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Seaweed",
+        "aliases": [
+          "marine plants"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-224",
+    "category": "Travel & places",
+    "prompt": "Name something a visitor might rent at a seaside activity stand.",
+    "answers": [
+      {
+        "text": "Beach umbrella",
+        "aliases": [
+          "parasol"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Deck chair",
+        "aliases": [
+          "sun lounger"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Surfboard",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Paddleboard",
+        "aliases": [
+          "SUP"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Kayak",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Snorkeling gear",
+        "aliases": [
+          "snorkel set"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-225",
+    "category": "Travel & places",
+    "prompt": "Name something people draw or write in the sand for a photograph.",
+    "answers": [
+      {
+        "text": "Their name",
+        "aliases": [
+          "name"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Heart",
+        "aliases": [
+          "love heart"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Date",
+        "aliases": [
+          "vacation date"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Love message",
+        "aliases": [
+          "romantic message"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Smiley face",
+        "aliases": [
+          "happy face"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Team name",
+        "aliases": [
+          "team logo"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-226",
+    "category": "Travel & places",
+    "prompt": "Name something that catches your eye while walking through beach dunes.",
+    "answers": [
+      {
+        "text": "Tall grass",
+        "aliases": [
+          "dune grass"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Footprints",
+        "aliases": [
+          "tracks"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Ripples in the sand",
+        "aliases": [
+          "sand ripples"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Wooden fences",
+        "aliases": [
+          "dune fences"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Seabirds",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Driftwood",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-227",
+    "category": "Travel & places",
+    "prompt": "Name something people complain about getting sand inside after a beach visit.",
+    "answers": [
+      {
+        "text": "Shoes",
+        "aliases": [
+          "sandals"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Clothes",
+        "aliases": [
+          "swimsuit"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Food",
+        "aliases": [
+          "sandwiches"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Phone",
+        "aliases": [
+          "cell phone"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Car",
+        "aliases": [
+          "car seats"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Hair",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-228",
+    "category": "Travel & places",
+    "prompt": "Name a place someone displays shells collected on a seaside holiday.",
+    "answers": [
+      {
+        "text": "Glass jar",
+        "aliases": [
+          "jar"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Bookshelf",
+        "aliases": [
+          "shelf"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Windowsill",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Picture frame",
+        "aliases": [
+          "photo frame"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Garden",
+        "aliases": [
+          "flower bed"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Decorative bowl",
+        "aliases": [
+          "bowl"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-229",
+    "category": "Travel & places",
+    "prompt": "Name a reason a family settles under a beach umbrella.",
+    "answers": [
+      {
+        "text": "Cool down",
+        "aliases": [
+          "escape the heat"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Let a baby nap",
+        "aliases": [
+          "baby sleeping"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Eat lunch",
+        "aliases": [
+          "have a picnic"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Read comfortably",
+        "aliases": [
+          "read"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Avoid screen glare",
+        "aliases": [
+          "see their phone"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Keep drinks cool",
+        "aliases": [
+          "shade the cooler"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-230",
+    "category": "Travel & places",
+    "prompt": "Name a sight that tells you a beach is especially crowded.",
+    "answers": [
+      {
+        "text": "Rows of umbrellas",
+        "aliases": [
+          "many umbrellas"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Full parking lot",
+        "aliases": [
+          "no parking spaces"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Queues at food stands",
+        "aliases": [
+          "food lines"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Towels close together",
+        "aliases": [
+          "packed towels"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Busy volleyball games",
+        "aliases": [
+          "beach games"
+        ],
+        "points": 8
+      },
+      {
+        "text": "People wading shoulder to shoulder",
+        "aliases": [
+          "crowded water"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-231",
+    "category": "Travel & places",
+    "prompt": "Name a refreshment people buy from a beach kiosk.",
+    "answers": [
+      {
+        "text": "Ice cream",
+        "aliases": [
+          "ice lolly"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Bottled water",
+        "aliases": [
+          "water"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Lemonade",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Hot dog",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "French fries",
+        "aliases": [
+          "chips"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Fresh fruit",
+        "aliases": [
+          "fruit cup"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-232",
+    "category": "Travel & places",
+    "prompt": "Name something a family might realize they left behind on the beach.",
+    "answers": [
+      {
+        "text": "Towel",
+        "aliases": [
+          "beach towel"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Sunglasses",
+        "aliases": [
+          "shades"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Flip-flops",
+        "aliases": [
+          "sandals"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Bucket and spade",
+        "aliases": [
+          "sand toys"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Beach chair",
+        "aliases": [
+          "folding chair"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hat",
+        "aliases": [
+          "sun hat"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-233",
+    "category": "Travel & places",
+    "prompt": "Name something visitors look for inside a national park visitor center.",
+    "answers": [
+      {
+        "text": "Trail maps",
+        "aliases": [
+          "maps"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Nature exhibits",
+        "aliases": [
+          "displays"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Gift shop",
+        "aliases": [
+          "souvenir shop"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Restrooms",
+        "aliases": [
+          "toilets"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Ranger information desk",
+        "aliases": [
+          "help desk"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Park film",
+        "aliases": [
+          "orientation video"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-234",
+    "category": "Travel & places",
+    "prompt": "Name a topic on an information panel along a nature trail.",
+    "answers": [
+      {
+        "text": "Local wildlife",
+        "aliases": [
+          "animals"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Trees",
+        "aliases": [
+          "plants"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Area history",
+        "aliases": [
+          "local history"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Rock formations",
+        "aliases": [
+          "geology"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Conservation",
+        "aliases": [
+          "habitat protection"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Indigenous culture",
+        "aliases": [
+          "traditional land use"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-235",
+    "category": "Travel & places",
+    "prompt": "Name a question visitors ask a park ranger before exploring.",
+    "answers": [
+      {
+        "text": "Which trail is best",
+        "aliases": [
+          "trail recommendation"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Where are the bathrooms",
+        "aliases": [
+          "restroom location"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Where can we see wildlife",
+        "aliases": [
+          "animal sightings"
+        ],
+        "points": 19
+      },
+      {
+        "text": "When does the park close",
+        "aliases": [
+          "closing time"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Where can we picnic",
+        "aliases": [
+          "picnic location"
+        ],
+        "points": 10
+      },
+      {
+        "text": "What is the forecast",
+        "aliases": [
+          "weather forecast"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-236",
+    "category": "Travel & places",
+    "prompt": "Name a landmark friends use as a meeting point in a large park.",
+    "answers": [
+      {
+        "text": "Fountain",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Playground",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Bandstand",
+        "aliases": [
+          "gazebo"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Big tree",
+        "aliases": [
+          "old oak"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Main entrance",
+        "aliases": [
+          "front gate"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Statue",
+        "aliases": [
+          "monument"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-237",
+    "category": "Travel & places",
+    "prompt": "Name a reason someone spends an afternoon in a botanical garden.",
+    "answers": [
+      {
+        "text": "See the flowers",
+        "aliases": [
+          "flower displays"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Relax",
+        "aliases": [
+          "peace and quiet"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Take photographs",
+        "aliases": [
+          "photography"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Get gardening ideas",
+        "aliases": [
+          "garden inspiration"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Go on a date",
+        "aliases": [
+          "romantic outing"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Learn about plants",
+        "aliases": [
+          "plant education"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-238",
+    "category": "Travel & places",
+    "prompt": "Name a themed area visitors enjoy in a botanical garden.",
+    "answers": [
+      {
+        "text": "Rose garden",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Orchid house",
+        "aliases": [
+          "orchid greenhouse"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cactus garden",
+        "aliases": [
+          "succulent garden"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Herb garden",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Japanese garden",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Butterfly garden",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-239",
+    "category": "Travel & places",
+    "prompt": "Name something that interrupts a peaceful picnic in a park.",
+    "answers": [
+      {
+        "text": "Ants",
+        "aliases": [
+          "insects on the food"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Rain",
+        "aliases": [
+          "shower"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Wind blowing things away",
+        "aliases": [
+          "gust of wind"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Dropped food",
+        "aliases": [
+          "food on the ground"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Spilled drink",
+        "aliases": [
+          "drink spill"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Hungry birds",
+        "aliases": [
+          "birds stealing food"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-240",
+    "category": "Travel & places",
+    "prompt": "Name a reason visitors enjoy a boardwalk through a nature reserve.",
+    "answers": [
+      {
+        "text": "Easy walking",
+        "aliases": [
+          "smooth path"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Dry feet",
+        "aliases": [
+          "avoid mud"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Birdwatching",
+        "aliases": [
+          "bird views"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Wheelchair access",
+        "aliases": [
+          "accessible route"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Clear route",
+        "aliases": [
+          "easy to follow"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Viewing platforms",
+        "aliases": [
+          "overlooks"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-241",
+    "category": "Travel & places",
+    "prompt": "Name an organized event that draws a crowd to a public park.",
+    "answers": [
+      {
+        "text": "Concert",
+        "aliases": [
+          "live music"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Festival",
+        "aliases": [
+          "community festival"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Farmers market",
+        "aliases": [
+          "outdoor market"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Yoga class",
+        "aliases": [
+          "group yoga"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Outdoor movie",
+        "aliases": [
+          "movie screening"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Fun run",
+        "aliases": [
+          "charity run"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-242",
+    "category": "Travel & places",
+    "prompt": "Name something that gets children excited at a park pond.",
+    "answers": [
+      {
+        "text": "Ducks",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Turtles",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Fish",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Lily pads",
+        "aliases": [
+          "water lilies"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Fountain",
+        "aliases": [
+          "water jets"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Little bridge",
+        "aliases": [
+          "footbridge"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-243",
+    "category": "Travel & places",
+    "prompt": "Name somewhere people sit when taking a break in a park.",
+    "answers": [
+      {
+        "text": "Bench",
+        "aliases": [
+          "park bench"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Grass",
+        "aliases": [
+          "lawn"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Picnic table",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Fallen log",
+        "aliases": [
+          "log"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Steps",
+        "aliases": [
+          "stairway"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Blanket",
+        "aliases": [
+          "picnic blanket"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-244",
+    "category": "Travel & places",
+    "prompt": "Name a national park someone might put on a vacation wish list.",
+    "answers": [
+      {
+        "text": "Yellowstone",
+        "aliases": [
+          "Yellowstone National Park"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Yosemite",
+        "aliases": [
+          "Yosemite National Park"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Grand Canyon",
+        "aliases": [
+          "Grand Canyon National Park"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Banff",
+        "aliases": [
+          "Banff National Park"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Zion",
+        "aliases": [
+          "Zion National Park"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Serengeti",
+        "aliases": [
+          "Serengeti National Park"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-245",
+    "category": "Travel & places",
+    "prompt": "Name a smell people associate with a woodland walk.",
+    "answers": [
+      {
+        "text": "Pine",
+        "aliases": [
+          "pine trees"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Damp earth",
+        "aliases": [
+          "wet soil"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Wildflowers",
+        "aliases": [
+          "flowers"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Woodsmoke",
+        "aliases": [
+          "campfire smoke"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Wild garlic",
+        "aliases": [
+          "garlic"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Fallen leaves",
+        "aliases": [
+          "rotting leaves"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-246",
+    "category": "Travel & places",
+    "prompt": "Name a small discovery that makes a child stop on a nature walk.",
+    "answers": [
+      {
+        "text": "Butterfly",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Mushroom",
+        "aliases": [
+          "toadstool"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Animal footprints",
+        "aliases": [
+          "animal tracks"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Spiderweb",
+        "aliases": [
+          "cobweb"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Squirrel",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Acorn",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-247",
+    "category": "Travel & places",
+    "prompt": "Name a reason hikers pause halfway up a hill.",
+    "answers": [
+      {
+        "text": "Catch their breath",
+        "aliases": [
+          "rest"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Enjoy the view",
+        "aliases": [
+          "admire the scenery"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Take a photograph",
+        "aliases": [
+          "take pictures"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Eat a snack",
+        "aliases": [
+          "snack break"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Tie a shoelace",
+        "aliases": [
+          "fix their laces"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Check the map",
+        "aliases": [
+          "check the route"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-248",
+    "category": "Travel & places",
+    "prompt": "Name something that makes a hike less enjoyable than expected.",
+    "answers": [
+      {
+        "text": "Blisters",
+        "aliases": [
+          "sore feet"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Biting insects",
+        "aliases": [
+          "bugs"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Mud",
+        "aliases": [
+          "muddy path"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Steep climbs",
+        "aliases": [
+          "uphill sections"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Crowds",
+        "aliases": [
+          "busy trail"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Rain",
+        "aliases": [
+          "wet weather"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-249",
+    "category": "Travel & places",
+    "prompt": "Name a surface you might walk over on a hiking trail.",
+    "answers": [
+      {
+        "text": "Dirt",
+        "aliases": [
+          "earth"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Rocks",
+        "aliases": [
+          "stone"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Gravel",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Wooden steps",
+        "aliases": [
+          "timber stairs"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Tree roots",
+        "aliases": [
+          "roots"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Sand",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-250",
+    "category": "Travel & places",
+    "prompt": "Name a landmark hikers mention when describing a trail route.",
+    "answers": [
+      {
+        "text": "Bridge",
+        "aliases": [
+          "footbridge"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Signpost",
+        "aliases": [
+          "trail sign"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Large boulder",
+        "aliases": [
+          "big rock"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Fallen tree",
+        "aliases": [
+          "downed tree"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Stream crossing",
+        "aliases": [
+          "creek crossing"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Fork in the path",
+        "aliases": [
+          "trail junction"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-251",
+    "category": "Travel & places",
+    "prompt": "Name something hikers hope to find around the next bend.",
+    "answers": [
+      {
+        "text": "Scenic view",
+        "aliases": [
+          "viewpoint"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Waterfall",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Shade",
+        "aliases": [
+          "shady trees"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Bench",
+        "aliases": [
+          "place to sit"
+        ],
+        "points": 14
+      },
+      {
+        "text": "End of the trail",
+        "aliases": [
+          "trail exit"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Stream",
+        "aliases": [
+          "creek"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-252",
+    "category": "Travel & places",
+    "prompt": "Name something that makes a forest trail feel magical.",
+    "answers": [
+      {
+        "text": "Moss-covered trees",
+        "aliases": [
+          "moss"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Ancient trees",
+        "aliases": [
+          "huge old trees"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Sunbeams",
+        "aliases": [
+          "shafts of light"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Mist",
+        "aliases": [
+          "fog"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Wildflowers",
+        "aliases": [
+          "flower carpet"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Birdsong",
+        "aliases": [
+          "singing birds"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-253",
+    "category": "Travel & places",
+    "prompt": "Name a sound that makes walkers stop and listen in the woods.",
+    "answers": [
+      {
+        "text": "Woodpecker",
+        "aliases": [
+          "tapping bird"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Running stream",
+        "aliases": [
+          "flowing creek"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Rustling leaves",
+        "aliases": [
+          "leaves moving"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Distant waterfall",
+        "aliases": [
+          "roaring falls"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Buzzing insects",
+        "aliases": [
+          "bees buzzing"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Frogs",
+        "aliases": [
+          "croaking"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-254",
+    "category": "Travel & places",
+    "prompt": "Name a game children turn a nature walk into.",
+    "answers": [
+      {
+        "text": "Treasure hunt",
+        "aliases": [
+          "scavenger hunt"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Race",
+        "aliases": [
+          "running race"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Bug hunt",
+        "aliases": [
+          "insect hunt"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Storytelling game",
+        "aliases": [
+          "imaginary adventure"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Follow the leader",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Rock collecting",
+        "aliases": [
+          "stone collecting"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-255",
+    "category": "Travel & places",
+    "prompt": "Name something on a nature path that slows down a stroller.",
+    "answers": [
+      {
+        "text": "Steps",
+        "aliases": [
+          "stairs"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Tree roots",
+        "aliases": [
+          "roots"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Deep mud",
+        "aliases": [
+          "mud"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Narrow sections",
+        "aliases": [
+          "narrow path"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Large rocks",
+        "aliases": [
+          "boulders"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Steep slopes",
+        "aliases": [
+          "steep hill"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-256",
+    "category": "Travel & places",
+    "prompt": "Name a reward people look forward to after a long hike.",
+    "answers": [
+      {
+        "text": "Cold drink",
+        "aliases": [
+          "refreshing drink"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Big meal",
+        "aliases": [
+          "dinner"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Hot shower",
+        "aliases": [
+          "shower"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Putting their feet up",
+        "aliases": [
+          "resting"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Taking off their boots",
+        "aliases": [
+          "changing shoes"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-257",
+    "category": "Travel & places",
+    "prompt": "Name a place along a trail where visitors are pleased to find a bench.",
+    "answers": [
+      {
+        "text": "Scenic overlook",
+        "aliases": [
+          "viewpoint"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Trail junction",
+        "aliases": [
+          "path crossroads"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Beside a pond",
+        "aliases": [
+          "pond edge"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Top of a steep climb",
+        "aliases": [
+          "hilltop"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Trail entrance",
+        "aliases": [
+          "trailhead"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Near a waterfall",
+        "aliases": [
+          "waterfall viewpoint"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-258",
+    "category": "Travel & places",
+    "prompt": "Name something a good nature guide adds to a walk.",
+    "answers": [
+      {
+        "text": "Animal identification",
+        "aliases": [
+          "names of animals"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Interesting stories",
+        "aliases": [
+          "local stories"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hidden spots",
+        "aliases": [
+          "secret viewpoints"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Help finding the way",
+        "aliases": [
+          "route guidance"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Answers to questions",
+        "aliases": [
+          "expert knowledge"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Friendly company",
+        "aliases": [
+          "conversation"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-259",
+    "category": "Travel & places",
+    "prompt": "Name something you look up and see above a forest path.",
+    "answers": [
+      {
+        "text": "Branches",
+        "aliases": [
+          "tree limbs"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Leaves",
+        "aliases": [
+          "leaf canopy"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Birds",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Patches of sky",
+        "aliases": [
+          "sky"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Hanging vines",
+        "aliases": [
+          "vines"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Treehouse",
+        "aliases": [
+          "tree house"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-260",
+    "category": "Travel & places",
+    "prompt": "Name something that makes a woodland setting feel spooky.",
+    "answers": [
+      {
+        "text": "Fog",
+        "aliases": [
+          "mist"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Darkness",
+        "aliases": [
+          "nightfall"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Creaking trees",
+        "aliases": [
+          "creaking branches"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Owl calls",
+        "aliases": [
+          "hooting"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Shadows",
+        "aliases": [
+          "moving shadows"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Abandoned cabin",
+        "aliases": [
+          "empty hut"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-261",
+    "category": "Travel & places",
+    "prompt": "Name a pose people strike for a photo after reaching a mountain summit.",
+    "answers": [
+      {
+        "text": "Arms raised",
+        "aliases": [
+          "hands in the air"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Jumping",
+        "aliases": [
+          "jump shot"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pointing at the view",
+        "aliases": [
+          "pointing"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Victory sign",
+        "aliases": [
+          "peace sign"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Hugging",
+        "aliases": [
+          "group hug"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Back to back",
+        "aliases": [
+          "back-to-back pose"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-262",
+    "category": "Travel & places",
+    "prompt": "Name something that gives a mountain village its picture-postcard look.",
+    "answers": [
+      {
+        "text": "Snowy peaks",
+        "aliases": [
+          "snowcapped mountains"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Wooden chalets",
+        "aliases": [
+          "alpine houses"
+        ],
+        "points": 24
+      },
+      {
+        "text": "River",
+        "aliases": [
+          "mountain stream"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Pine forests",
+        "aliases": [
+          "evergreen trees"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Cable cars",
+        "aliases": [
+          "gondolas"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Flower-filled balconies",
+        "aliases": [
+          "flower boxes"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-263",
+    "category": "Travel & places",
+    "prompt": "Name a winter mountain activity for someone who does not ski.",
+    "answers": [
+      {
+        "text": "Sledding",
+        "aliases": [
+          "tobogganing"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Snowshoeing",
+        "aliases": [
+          "snowshoe walk"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Ice skating",
+        "aliases": [
+          "skating"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Snow tubing",
+        "aliases": [
+          "tubing"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Soaking in hot springs",
+        "aliases": [
+          "hot springs"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Scenic winter walk",
+        "aliases": [
+          "winter hiking"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-264",
+    "category": "Travel & places",
+    "prompt": "Name something skiers do during a break in a mountain lodge.",
+    "answers": [
+      {
+        "text": "Drink hot chocolate",
+        "aliases": [
+          "hot drink"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Warm up",
+        "aliases": [
+          "sit by the fire"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Eat lunch",
+        "aliases": [
+          "eat a snack"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Dry their gloves",
+        "aliases": [
+          "dry wet gear"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Adjust their equipment",
+        "aliases": [
+          "fix their boots"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Take photographs",
+        "aliases": [
+          "take photos"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-265",
+    "category": "Travel & places",
+    "prompt": "Name something passengers admire from a mountain chairlift.",
+    "answers": [
+      {
+        "text": "Ski slopes",
+        "aliases": [
+          "ski runs"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Mountain peaks",
+        "aliases": [
+          "summits"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Forests",
+        "aliases": [
+          "trees"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Valleys",
+        "aliases": [
+          "valley floor"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Lake",
+        "aliases": [
+          "mountain lake"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Wildlife",
+        "aliases": [
+          "animals"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-266",
+    "category": "Travel & places",
+    "prompt": "Name a change visitors notice in the mountains when spring arrives.",
+    "answers": [
+      {
+        "text": "Melting snow",
+        "aliases": [
+          "snowmelt"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Flowers blooming",
+        "aliases": [
+          "wildflowers"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Rushing streams",
+        "aliases": [
+          "full streams"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Green meadows",
+        "aliases": [
+          "green grass"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Birds returning",
+        "aliases": [
+          "more birds"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Longer daylight",
+        "aliases": [
+          "longer days"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-267",
+    "category": "Travel & places",
+    "prompt": "Name a feature that makes a mountain overlook popular with visitors.",
+    "answers": [
+      {
+        "text": "Wide view",
+        "aliases": [
+          "panorama"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Easy access",
+        "aliases": [
+          "short walk"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Nearby parking",
+        "aliases": [
+          "parking"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Sunrise view",
+        "aliases": [
+          "sunrise"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Few crowds",
+        "aliases": [
+          "quiet atmosphere"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Picnic space",
+        "aliases": [
+          "picnic tables"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-268",
+    "category": "Travel & places",
+    "prompt": "Name something people do while visiting a natural hot spring.",
+    "answers": [
+      {
+        "text": "Soak",
+        "aliases": [
+          "bathe"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Relax",
+        "aliases": [
+          "unwind"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Take photographs",
+        "aliases": [
+          "take pictures"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Chat",
+        "aliases": [
+          "talk"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Admire the scenery",
+        "aliases": [
+          "enjoy the view"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cool off between dips",
+        "aliases": [
+          "take a cooling break"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-269",
+    "category": "Travel & places",
+    "prompt": "Name something visitors hope to see on a guided cave tour.",
+    "answers": [
+      {
+        "text": "Stalactites",
+        "aliases": [
+          "hanging formations"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Underground river",
+        "aliases": [
+          "subterranean stream"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Bats",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Huge chambers",
+        "aliases": [
+          "caverns"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Crystals",
+        "aliases": [
+          "sparkling minerals"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Ancient cave paintings",
+        "aliases": [
+          "rock art"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-270",
+    "category": "Travel & places",
+    "prompt": "Name something visitors make during a snowy day in the mountains.",
+    "answers": [
+      {
+        "text": "Snowman",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Snow angel",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Snowball",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Igloo",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Footprint trail",
+        "aliases": [
+          "tracks in the snow"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Snow fort",
+        "aliases": [
+          "snow castle"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-271",
+    "category": "Travel & places",
+    "prompt": "Name something people say when a spectacular mountain view appears.",
+    "answers": [
+      {
+        "text": "Wow",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "It is beautiful",
+        "aliases": [
+          "beautiful"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Look how high it is",
+        "aliases": [
+          "so high"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Take a picture",
+        "aliases": [
+          "take a photo"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Look at the snow",
+        "aliases": [
+          "so much snow"
+        ],
+        "points": 10
+      },
+      {
+        "text": "We climbed that",
+        "aliases": [
+          "we made it up there"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-272",
+    "category": "Travel & places",
+    "prompt": "Name a color that makes people stop to admire a lake.",
+    "answers": [
+      {
+        "text": "Blue",
+        "aliases": [
+          "deep blue"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Turquoise",
+        "aliases": [
+          "aqua"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Green",
+        "aliases": [
+          "emerald"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Silver",
+        "aliases": [
+          "silvery"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Pink",
+        "aliases": [
+          "rosy"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Gold",
+        "aliases": [
+          "golden"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-273",
+    "category": "Travel & places",
+    "prompt": "Name a way to spend a summer afternoon beside a lake without swimming.",
+    "answers": [
+      {
+        "text": "Fishing",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Boating",
+        "aliases": [
+          "paddling"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Picnicking",
+        "aliases": [
+          "having a picnic"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Walking",
+        "aliases": [
+          "lakeside stroll"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Birdwatching",
+        "aliases": [
+          "watching birds"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Skipping stones",
+        "aliases": [
+          "skimming stones"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-274",
+    "category": "Travel & places",
+    "prompt": "Name something you notice along the edge of a lakeside marina.",
+    "answers": [
+      {
+        "text": "Sailboats",
+        "aliases": [
+          "yachts"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Docks",
+        "aliases": [
+          "jetties"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Buoys",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Boathouse",
+        "aliases": [
+          "boat shed"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Fishing rods",
+        "aliases": [
+          "fishing poles"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Life rings",
+        "aliases": [
+          "lifebuoys"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-275",
+    "category": "Travel & places",
+    "prompt": "Name something that makes a striking reflection in a still lake.",
+    "answers": [
+      {
+        "text": "Mountains",
+        "aliases": [
+          "peaks"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Trees",
+        "aliases": [
+          "forest"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Clouds",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Bridge",
+        "aliases": [
+          "footbridge"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Cabins",
+        "aliases": [
+          "lakeside houses"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Sunset",
+        "aliases": [
+          "setting sun"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-276",
+    "category": "Travel & places",
+    "prompt": "Name something a visitor does to test the echo in a canyon.",
+    "answers": [
+      {
+        "text": "Shout hello",
+        "aliases": [
+          "yell hello"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Clap",
+        "aliases": [
+          "clap their hands"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Whistle",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Call their name",
+        "aliases": [
+          "shout their name"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Sing a note",
+        "aliases": [
+          "sing"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Whoop",
+        "aliases": [
+          "make a whooping sound"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-277",
+    "category": "Travel & places",
+    "prompt": "Name a reason someone prefers a lakeside holiday to a seaside holiday.",
+    "answers": [
+      {
+        "text": "Calmer water",
+        "aliases": [
+          "less surf"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Fresh water",
+        "aliases": [
+          "no salt water"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Closer to home",
+        "aliases": [
+          "shorter journey"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Quieter surroundings",
+        "aliases": [
+          "fewer crowds"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Fishing opportunities",
+        "aliases": [
+          "good fishing"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Forest scenery",
+        "aliases": [
+          "wooded setting"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-278",
+    "category": "Travel & places",
+    "prompt": "Name a detail people remember after standing near a huge waterfall.",
+    "answers": [
+      {
+        "text": "Loud roar",
+        "aliases": [
+          "noise"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Spray on their face",
+        "aliases": [
+          "mist"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Rainbow",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Long walk",
+        "aliases": [
+          "many steps"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Cool air",
+        "aliases": [
+          "cold breeze"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Dramatic height",
+        "aliases": [
+          "height of the falls"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-279",
+    "category": "Travel & places",
+    "prompt": "Name something a child floats down a stream during a countryside outing.",
+    "answers": [
+      {
+        "text": "Leaf",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Stick",
+        "aliases": [
+          "twig"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Piece of bark",
+        "aliases": [
+          "bark"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Pinecone",
+        "aliases": [
+          "pine cone"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Paper boat",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Flower",
+        "aliases": [
+          "petal"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-280",
+    "category": "Travel & places",
+    "prompt": "Name an animal visitors hope to see on a swamp tour.",
+    "answers": [
+      {
+        "text": "Alligator",
+        "aliases": [
+          "gator"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Heron",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Turtle",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Frog",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Snake",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Otter",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-281",
+    "category": "Travel & places",
+    "prompt": "Name a sight that makes everyone react on a whale-watching trip.",
+    "answers": [
+      {
+        "text": "Whale jumping",
+        "aliases": [
+          "breach"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Tail above the water",
+        "aliases": [
+          "tail fluke"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Blowhole spray",
+        "aliases": [
+          "spout"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Fin breaking the surface",
+        "aliases": [
+          "dorsal fin"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Whale beside the boat",
+        "aliases": [
+          "close whale"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Baby whale",
+        "aliases": [
+          "calf"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-282",
+    "category": "Travel & places",
+    "prompt": "Name a moment people hope to experience on a safari.",
+    "answers": [
+      {
+        "text": "Animal crossing the track",
+        "aliases": [
+          "animal crossing the road"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Herd at a watering hole",
+        "aliases": [
+          "animals drinking"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hearing a lion roar",
+        "aliases": [
+          "lion roar"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Giraffe close to the vehicle",
+        "aliases": [
+          "close giraffe"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Sunset over the savanna",
+        "aliases": [
+          "savanna sunset"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Seeing a baby animal",
+        "aliases": [
+          "animal with its young"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-283",
+    "category": "Travel & places",
+    "prompt": "Name a bird that would make a birdwatcher excited on a nature trip.",
+    "answers": [
+      {
+        "text": "Eagle",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Owl",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Kingfisher",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Hummingbird",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Heron",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Puffin",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-284",
+    "category": "Travel & places",
+    "prompt": "Name something that spoils a wildlife photograph.",
+    "answers": [
+      {
+        "text": "Animal moving",
+        "aliases": [
+          "motion blur"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Branch in the way",
+        "aliases": [
+          "blocked view"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Glare",
+        "aliases": [
+          "harsh sunlight"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Low light",
+        "aliases": [
+          "too dark"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Animal too far away",
+        "aliases": [
+          "too distant"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Camera shake",
+        "aliases": [
+          "shaky hands"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-285",
+    "category": "Travel & places",
+    "prompt": "Name a snack a squirrel might try to steal during a park visit.",
+    "answers": [
+      {
+        "text": "Nuts",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Bread",
+        "aliases": [
+          "sandwich bread"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Fruit",
+        "aliases": [
+          "apple slice"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Crackers",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Granola bar",
+        "aliases": [
+          "cereal bar"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Chips",
+        "aliases": [
+          "crisps"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-286",
+    "category": "Travel & places",
+    "prompt": "Name something visitors enjoy looking at in a butterfly sanctuary.",
+    "answers": [
+      {
+        "text": "Colorful wings",
+        "aliases": [
+          "wing patterns"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Flowers",
+        "aliases": [
+          "flower beds"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Caterpillars",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Chrysalises",
+        "aliases": [
+          "cocoons"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Feeding dishes",
+        "aliases": [
+          "fruit trays"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Information displays",
+        "aliases": [
+          "educational signs"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-287",
+    "category": "Travel & places",
+    "prompt": "Name something a nature visitor looks at through binoculars.",
+    "answers": [
+      {
+        "text": "Birds",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Whales",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Distant deer",
+        "aliases": [
+          "deer"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Distant waterfall",
+        "aliases": [
+          "waterfall"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Seals",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Mountain goats",
+        "aliases": [
+          "ibex"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-288",
+    "category": "Travel & places",
+    "prompt": "Name something people hope to spot on a nighttime nature walk.",
+    "answers": [
+      {
+        "text": "Bats",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Owls",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Fireflies",
+        "aliases": [
+          "glowworms"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Stars",
+        "aliases": [
+          "starry sky"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Possum",
+        "aliases": [
+          "opossum"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Moths",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-289",
+    "category": "Travel & places",
+    "prompt": "Name an animal whose footprints you might notice on a muddy walking trail.",
+    "answers": [
+      {
+        "text": "Deer",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Dog",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Bird",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Raccoon",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Rabbit",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Bear",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-290",
+    "category": "Travel & places",
+    "prompt": "Name something visitors record in a wildlife hide's sightings logbook.",
+    "answers": [
+      {
+        "text": "Animal name",
+        "aliases": [
+          "species"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Date",
+        "aliases": [
+          "day of sighting"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Time",
+        "aliases": [
+          "sighting time"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Sketch",
+        "aliases": [
+          "drawing"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Number of animals",
+        "aliases": [
+          "animal count"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Weather",
+        "aliases": [
+          "weather conditions"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-291",
+    "category": "Travel & places",
+    "prompt": "Name something people do when they first spot a large wild animal.",
+    "answers": [
+      {
+        "text": "Reach for a camera",
+        "aliases": [
+          "take a photograph"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Point it out",
+        "aliases": [
+          "point"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Go quiet",
+        "aliases": [
+          "stop talking"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Smile",
+        "aliases": [
+          "grin"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Gasp",
+        "aliases": [
+          "gasp in surprise"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Step back",
+        "aliases": [
+          "move backward"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-292",
+    "category": "Travel & places",
+    "prompt": "Name an animal sound children imitate after a wildlife outing.",
+    "answers": [
+      {
+        "text": "Lion roar",
+        "aliases": [
+          "roaring"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Birdsong",
+        "aliases": [
+          "bird call"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Monkey chatter",
+        "aliases": [
+          "chattering"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Elephant trumpet",
+        "aliases": [
+          "trumpeting"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Frog croak",
+        "aliases": [
+          "croaking"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Wolf howl",
+        "aliases": [
+          "howling"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-293",
+    "category": "Travel & places",
+    "prompt": "Name a sight people hope to see on a desert vacation.",
+    "answers": [
+      {
+        "text": "Sand dunes",
+        "aliases": [
+          "dunes"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Oasis",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Rock arch",
+        "aliases": [
+          "natural arch"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Star-filled sky",
+        "aliases": [
+          "stars"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Camels",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Deep canyon",
+        "aliases": [
+          "canyon"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-294",
+    "category": "Travel & places",
+    "prompt": "Name a color people travel to see in autumn leaves.",
+    "answers": [
+      {
+        "text": "Red",
+        "aliases": [
+          "scarlet"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Orange",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Yellow",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Brown",
+        "aliases": [
+          "bronze"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Green",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Purple",
+        "aliases": [
+          "burgundy"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-295",
+    "category": "Travel & places",
+    "prompt": "Name a flower people travel to see in bloom.",
+    "answers": [
+      {
+        "text": "Tulip",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Cherry blossom",
+        "aliases": [
+          "sakura"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Rose",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Daffodil",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Lavender",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Sunflower",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-296",
+    "category": "Travel & places",
+    "prompt": "Name something that makes a coastal sunset photograph more interesting.",
+    "answers": [
+      {
+        "text": "Palm tree",
+        "aliases": [
+          "palm silhouette"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Sailboat",
+        "aliases": [
+          "boat silhouette"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Pier",
+        "aliases": [
+          "jetty"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Rock arch",
+        "aliases": [
+          "sea arch"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Lighthouse",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Couple",
+        "aliases": [
+          "people holding hands"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-297",
+    "category": "Travel & places",
+    "prompt": "Name a natural event someone might plan a whole trip around.",
+    "answers": [
+      {
+        "text": "Solar eclipse",
+        "aliases": [
+          "eclipse"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Meteor shower",
+        "aliases": [
+          "shooting stars"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Autumn foliage",
+        "aliases": [
+          "fall colors"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Flower bloom",
+        "aliases": [
+          "superbloom"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Whale migration",
+        "aliases": [
+          "migrating whales"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Northern lights",
+        "aliases": [
+          "aurora"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-298",
+    "category": "Travel & places",
+    "prompt": "Name something visitors want from a countryside stargazing spot.",
+    "answers": [
+      {
+        "text": "Dark sky",
+        "aliases": [
+          "little light pollution"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Clear weather",
+        "aliases": [
+          "no clouds"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Quiet",
+        "aliases": [
+          "peace and quiet"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Wide horizon",
+        "aliases": [
+          "open view"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Flat ground",
+        "aliases": [
+          "level ground"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Warm shelter nearby",
+        "aliases": [
+          "place to warm up"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-299",
+    "category": "Travel & places",
+    "prompt": "Name something people hope to spot in the night sky on a rural vacation.",
+    "answers": [
+      {
+        "text": "Shooting star",
+        "aliases": [
+          "meteor"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Milky Way",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Moon",
+        "aliases": [
+          "full moon"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Constellation",
+        "aliases": [
+          "star pattern"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Planet",
+        "aliases": [
+          "visible planet"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Northern lights",
+        "aliases": [
+          "aurora"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-300",
+    "category": "Travel & places",
+    "prompt": "Name something visitors enjoy seeing from a treetop walkway.",
+    "answers": [
+      {
+        "text": "Leaf canopy",
+        "aliases": [
+          "treetops"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Birds",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "River",
+        "aliases": [
+          "stream"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Valley",
+        "aliases": [
+          "valley view"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Monkeys",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Suspension bridges",
+        "aliases": [
+          "hanging bridges"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-301",
+    "category": "Travel & places",
+    "prompt": "Name an animal children ask to feed during a countryside farm visit.",
+    "answers": [
+      {
+        "text": "Goat",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Sheep",
+        "aliases": [
+          "lamb"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Horse",
+        "aliases": [
+          "pony"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Chicken",
+        "aliases": [
+          "hen"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Alpaca",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Rabbit",
+        "aliases": [
+          "bunny"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-302",
+    "category": "Travel & places",
+    "prompt": "Name an activity families enjoy at a pick-your-own orchard.",
+    "answers": [
+      {
+        "text": "Picking fruit",
+        "aliases": [
+          "fruit picking"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Tasting fruit",
+        "aliases": [
+          "sampling fruit"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Drinking cider",
+        "aliases": [
+          "cider tasting"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Taking photographs",
+        "aliases": [
+          "taking photos"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Wagon ride",
+        "aliases": [
+          "hayride"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Picnic",
+        "aliases": [
+          "picnicking"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-303",
+    "category": "Travel & places",
+    "prompt": "Name a sight that makes a countryside drive feel peaceful.",
+    "answers": [
+      {
+        "text": "Fields",
+        "aliases": [
+          "farmland"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Barns",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Grazing cows",
+        "aliases": [
+          "cattle"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Windmills",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Rolling hills",
+        "aliases": [
+          "hills"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Orchards",
+        "aliases": [
+          "fruit trees"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-304",
+    "category": "Travel & places",
+    "prompt": "Name a reason someone chooses a nature holiday instead of a city break.",
+    "answers": [
+      {
+        "text": "Quiet",
+        "aliases": [
+          "less noise"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Fresh air",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Scenery",
+        "aliases": [
+          "beautiful landscapes"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Wildlife",
+        "aliases": [
+          "animals"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Open space",
+        "aliases": [
+          "more room"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Slower pace",
+        "aliases": [
+          "relaxation"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-305",
+    "category": "Travel & places",
+    "prompt": "Name something that makes a landscape look like a postcard.",
+    "answers": [
+      {
+        "text": "Dramatic light",
+        "aliases": [
+          "beautiful lighting"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Vivid colors",
+        "aliases": [
+          "bright colors"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Reflections",
+        "aliases": [
+          "mirror-like water"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Unusual rocks",
+        "aliases": [
+          "rock formations"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Snowy peak",
+        "aliases": [
+          "snowcapped mountain"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Waterfall",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-306",
+    "category": "Travel & places",
+    "prompt": "Name a reason a walking route beside water becomes a favorite.",
+    "answers": [
+      {
+        "text": "Beautiful views",
+        "aliases": [
+          "scenery"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Cool breeze",
+        "aliases": [
+          "fresh breeze"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Wildlife sightings",
+        "aliases": [
+          "birds and animals"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Level path",
+        "aliases": [
+          "flat walking"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Picnic spots",
+        "aliases": [
+          "places for lunch"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Soothing sounds",
+        "aliases": [
+          "sound of water"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-307",
+    "category": "Travel & places",
+    "prompt": "Name an activity people remember from a childhood nature camp.",
+    "answers": [
+      {
+        "text": "Nature hike",
+        "aliases": [
+          "hiking"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Canoeing",
+        "aliases": [
+          "paddling a canoe"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Making crafts",
+        "aliases": [
+          "craft activities"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Campfire songs",
+        "aliases": [
+          "singing around a fire"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Scavenger hunt",
+        "aliases": [
+          "treasure hunt"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Stargazing",
+        "aliases": [
+          "watching stars"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-308",
+    "category": "Travel & places",
+    "prompt": "Name something people count for fun on a nature walk.",
+    "answers": [
+      {
+        "text": "Birds",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Steps",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Butterflies",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Mushrooms",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Bridges",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Flowers",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-309",
+    "category": "Travel & places",
+    "prompt": "Name a reason someone returns to the same favorite nature spot.",
+    "answers": [
+      {
+        "text": "Seasonal changes",
+        "aliases": [
+          "different seasons"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Peaceful feeling",
+        "aliases": [
+          "relaxation"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Family tradition",
+        "aliases": [
+          "annual tradition"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Wildlife sightings",
+        "aliases": [
+          "favorite animals"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Favorite walking trail",
+        "aliases": [
+          "favorite walk"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Happy memories",
+        "aliases": [
+          "nostalgia"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-310",
+    "category": "Travel & places",
+    "prompt": "Name a weather effect people hope to capture in a landscape photograph.",
+    "answers": [
+      {
+        "text": "Rainbow",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Fog",
+        "aliases": [
+          "mist"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Sunbeams",
+        "aliases": [
+          "rays of sunshine"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Lightning",
+        "aliases": [
+          "lightning bolt"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Frost",
+        "aliases": [
+          "frosty trees"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Dramatic clouds",
+        "aliases": [
+          "storm clouds"
+        ],
+        "points": 6
+      }
+    ]
+  }
+]

@@ -1,0 +1,4379 @@
+[
+  {
+    "id": "culture-131",
+    "category": "Pop culture",
+    "prompt": "Name a reason music fans arrive at a concert hours early.",
+    "answers": [
+      {
+        "text": "Get close to the stage",
+        "aliases": [
+          "Get a front row spot"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Avoid traffic",
+        "aliases": [
+          "Beat traffic"
+        ],
+        "points": 24
+      },
+      {
+        "text": "See the opening act",
+        "aliases": [
+          "See the opener"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Meet friends",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Avoid long lines",
+        "aliases": [
+          "Beat the queues"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Find parking",
+        "aliases": [
+          "Get a parking space"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-132",
+    "category": "Pop culture",
+    "prompt": "Name something that can block your view at a concert.",
+    "answers": [
+      {
+        "text": "A tall person",
+        "aliases": [
+          "Tall people"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Raised phones",
+        "aliases": [
+          "Phones held up"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A pillar",
+        "aliases": [
+          "Column"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A large hat",
+        "aliases": [
+          "Big hat"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A banner",
+        "aliases": [
+          "Sign"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Stage smoke",
+        "aliases": [
+          "Fog"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-133",
+    "category": "Pop culture",
+    "prompt": "Name something people do while waiting for the main act at a concert.",
+    "answers": [
+      {
+        "text": "Talk to friends",
+        "aliases": [
+          "Chat"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Take photos",
+        "aliases": [
+          "Take selfies"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Eat snacks",
+        "aliases": [
+          "Get food"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Check their phone",
+        "aliases": [
+          "Text"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Guess the set list",
+        "aliases": [
+          "Predict the songs"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Watch the stage crew",
+        "aliases": [
+          "Watch the setup"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-134",
+    "category": "Pop culture",
+    "prompt": "Name something a singer might say between songs at a concert.",
+    "answers": [
+      {
+        "text": "Thank you",
+        "aliases": [
+          "Thanks everyone"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Sing along",
+        "aliases": [
+          "Sing with me"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Introduce the next song",
+        "aliases": [
+          "Song introduction"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Introduce the band",
+        "aliases": [
+          "Band introductions"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Ask how the crowd is doing",
+        "aliases": [
+          "How are you"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Dedicate a song",
+        "aliases": [
+          "Song dedication"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-135",
+    "category": "Pop culture",
+    "prompt": "Name a reason a concert might start late.",
+    "answers": [
+      {
+        "text": "Technical problems",
+        "aliases": [
+          "Equipment problems"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Bad weather",
+        "aliases": [
+          "Weather"
+        ],
+        "points": 24
+      },
+      {
+        "text": "The performer is late",
+        "aliases": [
+          "Late artist"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Traffic delays",
+        "aliases": [
+          "Traffic"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Security checks",
+        "aliases": [
+          "Long security lines"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A medical emergency",
+        "aliases": [
+          "Medical issue"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-136",
+    "category": "Pop culture",
+    "prompt": "Name something concertgoers do to ask for an encore.",
+    "answers": [
+      {
+        "text": "Clap",
+        "aliases": [
+          "Applaud"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Chant for more",
+        "aliases": [
+          "Chant encore"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cheer",
+        "aliases": [
+          "Shout"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Stomp their feet",
+        "aliases": [
+          "Stomp"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Whistle",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Wave lights",
+        "aliases": [
+          "Hold up lights"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-137",
+    "category": "Pop culture",
+    "prompt": "Name something useful to pack for an outdoor music festival.",
+    "answers": [
+      {
+        "text": "Water",
+        "aliases": [
+          "Water bottle"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Sunscreen",
+        "aliases": [
+          "Sunblock"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Rain poncho",
+        "aliases": [
+          "Poncho"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Hat",
+        "aliases": [
+          "Sun hat"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Blanket",
+        "aliases": [
+          "Picnic blanket"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Portable charger",
+        "aliases": [
+          "Power bank"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-138",
+    "category": "Pop culture",
+    "prompt": "Name an area you might look for on a music festival map.",
+    "answers": [
+      {
+        "text": "Stages",
+        "aliases": [
+          "Performance stages"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Food stalls",
+        "aliases": [
+          "Food court"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Restrooms",
+        "aliases": [
+          "Toilets"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Camping area",
+        "aliases": [
+          "Campsite"
+        ],
+        "points": 11
+      },
+      {
+        "text": "First aid station",
+        "aliases": [
+          "Medical tent"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Merchandise stalls",
+        "aliases": [
+          "Merch tent"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-139",
+    "category": "Pop culture",
+    "prompt": "Name a reason someone chooses a seated ticket instead of standing at a concert.",
+    "answers": [
+      {
+        "text": "Comfort",
+        "aliases": [
+          "Rest their legs"
+        ],
+        "points": 30
+      },
+      {
+        "text": "A health condition",
+        "aliases": [
+          "Injury"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A better view",
+        "aliases": [
+          "See the stage"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Bringing children",
+        "aliases": [
+          "With kids"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Keep a reserved spot",
+        "aliases": [
+          "Assigned seat"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Avoid crowds",
+        "aliases": [
+          "More personal space"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-140",
+    "category": "Pop culture",
+    "prompt": "Name a place where a street musician might attract a crowd.",
+    "answers": [
+      {
+        "text": "Train station",
+        "aliases": [
+          "Subway station"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Town square",
+        "aliases": [
+          "Public square"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Park",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Outdoor market",
+        "aliases": [
+          "Market"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Shopping street",
+        "aliases": [
+          "Pedestrian street"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Waterfront",
+        "aliases": [
+          "Boardwalk"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-141",
+    "category": "Pop culture",
+    "prompt": "Name something musicians might complain about while on tour.",
+    "answers": [
+      {
+        "text": "Missing home",
+        "aliases": [
+          "Homesickness"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Not enough sleep",
+        "aliases": [
+          "Lack of sleep"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Long journeys",
+        "aliases": [
+          "Too much travel"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Bad food",
+        "aliases": [
+          "Poor meals"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Lost luggage",
+        "aliases": [
+          "Missing bags"
+        ],
+        "points": 10
+      },
+      {
+        "text": "No privacy",
+        "aliases": [
+          "Lack of privacy"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-142",
+    "category": "Pop culture",
+    "prompt": "Name a job a roadie might do for a touring band.",
+    "answers": [
+      {
+        "text": "Carry equipment",
+        "aliases": [
+          "Load equipment"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Set up instruments",
+        "aliases": [
+          "Instrument setup"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Check the sound",
+        "aliases": [
+          "Soundcheck"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Pack up after the show",
+        "aliases": [
+          "Pack equipment"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Drive the van",
+        "aliases": [
+          "Drive the truck"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Repair equipment",
+        "aliases": [
+          "Fix equipment"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-143",
+    "category": "Pop culture",
+    "prompt": "Name something a musician checks during a soundcheck.",
+    "answers": [
+      {
+        "text": "Microphone volume",
+        "aliases": [
+          "Mic level"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Instrument tuning",
+        "aliases": [
+          "Tuning"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Monitor sound",
+        "aliases": [
+          "Stage monitors"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Feedback",
+        "aliases": [
+          "Squealing"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Backing tracks",
+        "aliases": [
+          "Recorded tracks"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Balance between instruments",
+        "aliases": [
+          "Sound balance"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-144",
+    "category": "Pop culture",
+    "prompt": "Name a place that regularly hosts live music.",
+    "answers": [
+      {
+        "text": "Concert hall",
+        "aliases": [
+          "Music hall"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Bar",
+        "aliases": [
+          "Pub"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Restaurant",
+        "aliases": [
+          "Cafe"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Park",
+        "aliases": [
+          "Outdoor park"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Church",
+        "aliases": [
+          "Place of worship"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Arena",
+        "aliases": [
+          "Stadium"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-145",
+    "category": "Pop culture",
+    "prompt": "Name something a concertgoer checks they still have before leaving the venue.",
+    "answers": [
+      {
+        "text": "Phone",
+        "aliases": [
+          "Cell phone"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Wallet",
+        "aliases": [
+          "Purse"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Keys",
+        "aliases": [
+          "Car keys"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Jacket",
+        "aliases": [
+          "Coat"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Bag",
+        "aliases": [
+          "Backpack"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Friends",
+        "aliases": [
+          "Everyone in their group"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-146",
+    "category": "Pop culture",
+    "prompt": "Name a way a pop star could make a dramatic entrance onstage.",
+    "answers": [
+      {
+        "text": "Rise through the floor",
+        "aliases": [
+          "Rising platform"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Appear through smoke",
+        "aliases": [
+          "Smoke entrance"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Step into a spotlight",
+        "aliases": [
+          "Spotlight"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Come down from above",
+        "aliases": [
+          "Lowered from the ceiling"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Emerge behind a curtain",
+        "aliases": [
+          "Curtain reveal"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Arrive in a vehicle",
+        "aliases": [
+          "Ride onto the stage"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-147",
+    "category": "Pop culture",
+    "prompt": "Name a concert moment fans might talk about for years.",
+    "answers": [
+      {
+        "text": "A surprise guest",
+        "aliases": [
+          "Unexpected guest"
+        ],
+        "points": 30
+      },
+      {
+        "text": "A huge singalong",
+        "aliases": [
+          "Crowd singing"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A marriage proposal",
+        "aliases": [
+          "Proposal"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A favorite old song",
+        "aliases": [
+          "Classic hit"
+        ],
+        "points": 13
+      },
+      {
+        "text": "An amazing solo",
+        "aliases": [
+          "Instrumental solo"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Fireworks",
+        "aliases": [
+          "Firework display"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-148",
+    "category": "Pop culture",
+    "prompt": "Name someone who works at a concert besides the performers.",
+    "answers": [
+      {
+        "text": "Security guard",
+        "aliases": [
+          "Security"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Sound engineer",
+        "aliases": [
+          "Sound technician"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Usher",
+        "aliases": [
+          "Seat attendant"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Lighting technician",
+        "aliases": [
+          "Lighting operator"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Ticket checker",
+        "aliases": [
+          "Ticket taker"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Stage manager",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-149",
+    "category": "Pop culture",
+    "prompt": "Name something a passerby might do when they enjoy a street musician.",
+    "answers": [
+      {
+        "text": "Leave a tip",
+        "aliases": [
+          "Give money"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Stop to listen",
+        "aliases": [
+          "Listen"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Clap",
+        "aliases": [
+          "Applaud"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Request a song",
+        "aliases": [
+          "Make a request"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Record a video",
+        "aliases": [
+          "Film the performance"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Dance",
+        "aliases": [
+          "Start dancing"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-150",
+    "category": "Pop culture",
+    "prompt": "Name someone a musician might thank when accepting an award.",
+    "answers": [
+      {
+        "text": "Fans",
+        "aliases": [
+          "Supporters"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Family",
+        "aliases": [
+          "Parents"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Bandmates",
+        "aliases": [
+          "Their band"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Producer",
+        "aliases": [
+          "Record producer"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Manager",
+        "aliases": [
+          "Management"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Music teacher",
+        "aliases": [
+          "Teacher"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-151",
+    "category": "Pop culture",
+    "prompt": "Name an occasion someone might make a special music playlist for.",
+    "answers": [
+      {
+        "text": "A party",
+        "aliases": [
+          "Party"
+        ],
+        "points": 30
+      },
+      {
+        "text": "A road trip",
+        "aliases": [
+          "Road trip"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A workout",
+        "aliases": [
+          "Exercise"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Studying",
+        "aliases": [
+          "Study session"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Relaxing",
+        "aliases": [
+          "Unwinding"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A romantic evening",
+        "aliases": [
+          "Date night"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-152",
+    "category": "Pop culture",
+    "prompt": "Name a place you might hear a catchy song without choosing to play it.",
+    "answers": [
+      {
+        "text": "A store",
+        "aliases": [
+          "Shop"
+        ],
+        "points": 32
+      },
+      {
+        "text": "A car radio",
+        "aliases": [
+          "Radio"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A television commercial",
+        "aliases": [
+          "TV ad"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A restaurant",
+        "aliases": [
+          "Cafe"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Someone else's phone",
+        "aliases": [
+          "Another person's phone"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A passing car",
+        "aliases": [
+          "Car driving by"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-153",
+    "category": "Pop culture",
+    "prompt": "Name a reason someone skips a song halfway through.",
+    "answers": [
+      {
+        "text": "They dislike it",
+        "aliases": [
+          "Do not like it"
+        ],
+        "points": 28
+      },
+      {
+        "text": "They have heard it too often",
+        "aliases": [
+          "Overplayed"
+        ],
+        "points": 23
+      },
+      {
+        "text": "It does not match their mood",
+        "aliases": [
+          "Wrong mood"
+        ],
+        "points": 19
+      },
+      {
+        "text": "The intro is too long",
+        "aliases": [
+          "Long intro"
+        ],
+        "points": 14
+      },
+      {
+        "text": "It is too slow",
+        "aliases": [
+          "Too slow"
+        ],
+        "points": 10
+      },
+      {
+        "text": "The lyrics are unsuitable",
+        "aliases": [
+          "Inappropriate lyrics"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-154",
+    "category": "Pop culture",
+    "prompt": "Name a sound you might hear in music made for relaxation.",
+    "answers": [
+      {
+        "text": "Rain",
+        "aliases": [
+          "Rainfall"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Ocean waves",
+        "aliases": [
+          "Waves"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Piano",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Birdsong",
+        "aliases": [
+          "Birds"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Flute",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "A flowing stream",
+        "aliases": [
+          "Running water"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-155",
+    "category": "Pop culture",
+    "prompt": "Name something people do while singing to themselves.",
+    "answers": [
+      {
+        "text": "Shower",
+        "aliases": [
+          "Take a shower"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Drive",
+        "aliases": [
+          "Driving"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Clean the house",
+        "aliases": [
+          "Cleaning"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cook",
+        "aliases": [
+          "Cooking"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Garden",
+        "aliases": [
+          "Gardening"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Exercise",
+        "aliases": [
+          "Work out"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-156",
+    "category": "Pop culture",
+    "prompt": "Name a way to keep time with a song without using an instrument.",
+    "answers": [
+      {
+        "text": "Clap your hands",
+        "aliases": [
+          "Clapping"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Tap your foot",
+        "aliases": [
+          "Foot tapping"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Snap your fingers",
+        "aliases": [
+          "Finger snapping"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Bob your head",
+        "aliases": [
+          "Nod your head"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Tap a table",
+        "aliases": [
+          "Drum on a table"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pat your thighs",
+        "aliases": [
+          "Slap your thighs"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-157",
+    "category": "Pop culture",
+    "prompt": "Name a problem that can interrupt listening through headphones.",
+    "answers": [
+      {
+        "text": "Dead battery",
+        "aliases": [
+          "Battery runs out"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Tangled cord",
+        "aliases": [
+          "Tangled wires"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Connection drops",
+        "aliases": [
+          "Bluetooth disconnects"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Only one side works",
+        "aliases": [
+          "One ear stops working"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Uncomfortable fit",
+        "aliases": [
+          "Hurt ears"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Outside noise",
+        "aliases": [
+          "Background noise"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-158",
+    "category": "Pop culture",
+    "prompt": "Name a way a music collector might organize their albums.",
+    "answers": [
+      {
+        "text": "By artist",
+        "aliases": [
+          "Artist name"
+        ],
+        "points": 35
+      },
+      {
+        "text": "By album title",
+        "aliases": [
+          "Album title",
+          "Album name"
+        ],
+        "points": 25
+      },
+      {
+        "text": "By genre",
+        "aliases": [
+          "Music style"
+        ],
+        "points": 16
+      },
+      {
+        "text": "By release year",
+        "aliases": [
+          "Chronological order"
+        ],
+        "points": 11
+      },
+      {
+        "text": "By cover color",
+        "aliases": [
+          "Color"
+        ],
+        "points": 8
+      },
+      {
+        "text": "By mood",
+        "aliases": [
+          "Mood"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-159",
+    "category": "Pop culture",
+    "prompt": "Name a reason someone buys a physical album when they can stream it.",
+    "answers": [
+      {
+        "text": "Collecting",
+        "aliases": [
+          "Build a collection"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Cover artwork",
+        "aliases": [
+          "Album art"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Support the artist",
+        "aliases": [
+          "Support the band"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Better sound",
+        "aliases": [
+          "Sound quality"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A gift",
+        "aliases": [
+          "Give as a gift"
+        ],
+        "points": 9
+      },
+      {
+        "text": "An autograph",
+        "aliases": [
+          "Signed copy"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-160",
+    "category": "Pop culture",
+    "prompt": "Name something you might see hanging on a musician's practice-room wall.",
+    "answers": [
+      {
+        "text": "Guitar",
+        "aliases": [
+          "Guitars"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Band poster",
+        "aliases": [
+          "Music poster"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Sound panels",
+        "aliases": [
+          "Acoustic panels"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Records",
+        "aliases": [
+          "Vinyl records"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Photos",
+        "aliases": [
+          "Photographs"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sheet music",
+        "aliases": [
+          "Music sheets"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-161",
+    "category": "Pop culture",
+    "prompt": "Name a quality that makes a song suitable as a lullaby.",
+    "answers": [
+      {
+        "text": "A slow tempo",
+        "aliases": [
+          "Slow"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Soft volume",
+        "aliases": [
+          "Quiet"
+        ],
+        "points": 23
+      },
+      {
+        "text": "A gentle melody",
+        "aliases": [
+          "Soothing tune"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Repetition",
+        "aliases": [
+          "Repeated phrases"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Comforting words",
+        "aliases": [
+          "Reassuring lyrics"
+        ],
+        "points": 10
+      },
+      {
+        "text": "A familiar tune",
+        "aliases": [
+          "Familiarity"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-162",
+    "category": "Pop culture",
+    "prompt": "Name a type of song a whole group might already know the words to.",
+    "answers": [
+      {
+        "text": "Birthday song",
+        "aliases": [
+          "Happy birthday"
+        ],
+        "points": 35
+      },
+      {
+        "text": "National anthem",
+        "aliases": [
+          "Anthem"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Holiday carol",
+        "aliases": [
+          "Christmas carol"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Nursery rhyme",
+        "aliases": [
+          "Children's rhyme"
+        ],
+        "points": 11
+      },
+      {
+        "text": "School song",
+        "aliases": [
+          "School anthem"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sports chant",
+        "aliases": [
+          "Team chant"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-163",
+    "category": "Pop culture",
+    "prompt": "Name an emotion a song can bring out in a listener.",
+    "answers": [
+      {
+        "text": "Happiness",
+        "aliases": [
+          "Joy"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Sadness",
+        "aliases": [
+          "Sorrow"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Nostalgia",
+        "aliases": [
+          "Feeling nostalgic"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Excitement",
+        "aliases": [
+          "Feeling excited"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Calm",
+        "aliases": [
+          "Peace"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Anger",
+        "aliases": [
+          "Frustration"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-164",
+    "category": "Pop culture",
+    "prompt": "Name something passengers might disagree about when music is playing in the car.",
+    "answers": [
+      {
+        "text": "Volume",
+        "aliases": [
+          "How loud it is"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Music genre",
+        "aliases": [
+          "Style of music"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Who chooses the songs",
+        "aliases": [
+          "Who controls the music"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Radio station",
+        "aliases": [
+          "Station"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Singing along",
+        "aliases": [
+          "Someone singing"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Repeating a song",
+        "aliases": [
+          "Playing it again"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-165",
+    "category": "Pop culture",
+    "prompt": "Name a memory a particular song might bring back.",
+    "answers": [
+      {
+        "text": "A wedding",
+        "aliases": [
+          "Wedding day"
+        ],
+        "points": 28
+      },
+      {
+        "text": "A first date",
+        "aliases": [
+          "First date"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Childhood",
+        "aliases": [
+          "Growing up"
+        ],
+        "points": 19
+      },
+      {
+        "text": "A holiday",
+        "aliases": [
+          "Vacation"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Graduation",
+        "aliases": [
+          "School graduation"
+        ],
+        "points": 10
+      },
+      {
+        "text": "A loved one",
+        "aliases": [
+          "Someone they miss"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-166",
+    "category": "Pop culture",
+    "prompt": "Name a reason a musician performs a cover of someone else's song.",
+    "answers": [
+      {
+        "text": "They love the song",
+        "aliases": [
+          "Favorite song"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Pay tribute",
+        "aliases": [
+          "Honor the artist"
+        ],
+        "points": 25
+      },
+      {
+        "text": "The audience knows it",
+        "aliases": [
+          "Crowd favorite"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Show their own style",
+        "aliases": [
+          "New interpretation"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Practice their skills",
+        "aliases": [
+          "Learn from it"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Mark a special occasion",
+        "aliases": [
+          "Special event"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-167",
+    "category": "Pop culture",
+    "prompt": "Name a setting often used for a music video.",
+    "answers": [
+      {
+        "text": "City street",
+        "aliases": [
+          "City"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Beach",
+        "aliases": [
+          "Seaside"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Nightclub",
+        "aliases": [
+          "Club"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Desert",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Mansion",
+        "aliases": [
+          "Big house"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Warehouse",
+        "aliases": [
+          "Empty warehouse"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-168",
+    "category": "Pop culture",
+    "prompt": "Name a subject that songwriters often write songs about.",
+    "answers": [
+      {
+        "text": "Love",
+        "aliases": [
+          "Romance"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Heartbreak",
+        "aliases": [
+          "Breakups"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Friendship",
+        "aliases": [
+          "Friends"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Celebrating",
+        "aliases": [
+          "Partying"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Hope",
+        "aliases": [
+          "Dreams"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Home",
+        "aliases": [
+          "Hometown"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-169",
+    "category": "Pop culture",
+    "prompt": "Name something that might catch your eye on an album cover.",
+    "answers": [
+      {
+        "text": "The artist's photo",
+        "aliases": [
+          "Singer's picture"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Bright colors",
+        "aliases": [
+          "Color scheme"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Abstract shapes",
+        "aliases": [
+          "Geometric shapes",
+          "Abstract patterns"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Album title",
+        "aliases": [
+          "Title"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Unusual lettering",
+        "aliases": [
+          "Font"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Band logo",
+        "aliases": [
+          "Artist logo"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-170",
+    "category": "Pop culture",
+    "prompt": "Name a reason someone joins a choir.",
+    "answers": [
+      {
+        "text": "Love of singing",
+        "aliases": [
+          "Enjoy singing"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Meet people",
+        "aliases": [
+          "Make friends"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Improve their voice",
+        "aliases": [
+          "Learn to sing"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Perform in public",
+        "aliases": [
+          "Give concerts"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Religious involvement",
+        "aliases": [
+          "Sing at church"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Relieve stress",
+        "aliases": [
+          "Relax"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-171",
+    "category": "Pop culture",
+    "prompt": "Name a role a person might have in a rock band.",
+    "answers": [
+      {
+        "text": "Lead singer",
+        "aliases": [
+          "Vocalist"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Guitarist",
+        "aliases": [
+          "Guitar player"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Drummer",
+        "aliases": [
+          "Drums"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Bass player",
+        "aliases": [
+          "Bassist"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Keyboard player",
+        "aliases": [
+          "Keyboardist"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Backing singer",
+        "aliases": [
+          "Backup vocalist"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-172",
+    "category": "Pop culture",
+    "prompt": "Name something that could inspire a band's name.",
+    "answers": [
+      {
+        "text": "An animal",
+        "aliases": [
+          "Animal"
+        ],
+        "points": 32
+      },
+      {
+        "text": "A place",
+        "aliases": [
+          "Hometown"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A phrase",
+        "aliases": [
+          "Saying"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A member's name",
+        "aliases": [
+          "Surname"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A number",
+        "aliases": [
+          "Number"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A food",
+        "aliases": [
+          "Food"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-173",
+    "category": "Pop culture",
+    "prompt": "Name something bandmates might argue about.",
+    "answers": [
+      {
+        "text": "Money",
+        "aliases": [
+          "Splitting earnings"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Song choices",
+        "aliases": [
+          "Set list"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Musical direction",
+        "aliases": [
+          "Creative direction"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Rehearsal times",
+        "aliases": [
+          "Practice schedule"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Who gets credit",
+        "aliases": [
+          "Songwriting credit"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Being too loud",
+        "aliases": [
+          "Volume"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-174",
+    "category": "Pop culture",
+    "prompt": "Name something a band tries to improve during rehearsal.",
+    "answers": [
+      {
+        "text": "Playing in time",
+        "aliases": [
+          "Timing"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Harmonies",
+        "aliases": [
+          "Vocal harmonies"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Remembering lyrics",
+        "aliases": [
+          "Learning the words"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Song transitions",
+        "aliases": [
+          "Moving between songs"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Song endings",
+        "aliases": [
+          "Finishing together"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Stage movement",
+        "aliases": [
+          "Stage presence"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-175",
+    "category": "Pop culture",
+    "prompt": "Name a reason an instrument bought with good intentions ends up unused.",
+    "answers": [
+      {
+        "text": "No time to practice",
+        "aliases": [
+          "Too busy"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Learning is difficult",
+        "aliases": [
+          "Too hard"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Lost interest",
+        "aliases": [
+          "Got bored"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Too noisy",
+        "aliases": [
+          "Disturbs others"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Needs repairs",
+        "aliases": [
+          "Broken"
+        ],
+        "points": 9
+      },
+      {
+        "text": "No space",
+        "aliases": [
+          "Nowhere to play"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-176",
+    "category": "Pop culture",
+    "prompt": "Name something a guitarist might keep in a guitar case besides the guitar.",
+    "answers": [
+      {
+        "text": "Picks",
+        "aliases": [
+          "Plectrums"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Spare strings",
+        "aliases": [
+          "Extra strings"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Tuner",
+        "aliases": [
+          "Electronic tuner"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Strap",
+        "aliases": [
+          "Guitar strap"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Capo",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Sheet music",
+        "aliases": [
+          "Songbook"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-177",
+    "category": "Pop culture",
+    "prompt": "Name something musicians do to take care of their instruments.",
+    "answers": [
+      {
+        "text": "Wipe them clean",
+        "aliases": [
+          "Clean them"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Keep them in cases",
+        "aliases": [
+          "Use a case"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Tune them",
+        "aliases": [
+          "Tuning"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Replace worn strings",
+        "aliases": [
+          "Change strings"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Oil moving parts",
+        "aliases": [
+          "Lubricate valves"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Remove moisture",
+        "aliases": [
+          "Dry them"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-178",
+    "category": "Pop culture",
+    "prompt": "Name a mistake a nervous pianist might make during a recital.",
+    "answers": [
+      {
+        "text": "Play a wrong note",
+        "aliases": [
+          "Wrong notes"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Forget the music",
+        "aliases": [
+          "Memory lapse"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Play too fast",
+        "aliases": [
+          "Rush"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Lose their place",
+        "aliases": [
+          "Get lost in the music"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Use the wrong pedal",
+        "aliases": [
+          "Pedal mistake"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Forget to bow",
+        "aliases": [
+          "Miss the bow"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-179",
+    "category": "Pop culture",
+    "prompt": "Name something a beginner guitarist might find frustrating.",
+    "answers": [
+      {
+        "text": "Sore fingertips",
+        "aliases": [
+          "Finger pain"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Changing chords",
+        "aliases": [
+          "Chord changes"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Keeping the guitar in tune",
+        "aliases": [
+          "Tuning"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Barre chords",
+        "aliases": [
+          "Bar chords"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Strumming evenly",
+        "aliases": [
+          "Strumming rhythm"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Buzzing strings",
+        "aliases": [
+          "String buzz"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-180",
+    "category": "Pop culture",
+    "prompt": "Name a reminder a music teacher might give a student.",
+    "answers": [
+      {
+        "text": "Practice regularly",
+        "aliases": [
+          "Practice every day"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Slow down",
+        "aliases": [
+          "Play slowly"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Count the beat",
+        "aliases": [
+          "Count"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Sit up straight",
+        "aliases": [
+          "Good posture"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Listen carefully",
+        "aliases": [
+          "Listen"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Relax your hands",
+        "aliases": [
+          "Loosen up"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-181",
+    "category": "Pop culture",
+    "prompt": "Name something you expect to see in a marching band at a parade.",
+    "answers": [
+      {
+        "text": "Matching uniforms",
+        "aliases": [
+          "Uniforms"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Drums",
+        "aliases": [
+          "Drumline"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Brass instruments",
+        "aliases": [
+          "Trumpets"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Flags",
+        "aliases": [
+          "Color guard"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Marching formations",
+        "aliases": [
+          "Formations"
+        ],
+        "points": 10
+      },
+      {
+        "text": "A drum major",
+        "aliases": [
+          "Band leader"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-182",
+    "category": "Pop culture",
+    "prompt": "Name something an orchestra conductor uses to communicate with musicians.",
+    "answers": [
+      {
+        "text": "Baton",
+        "aliases": [
+          "Conducting baton"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Hands",
+        "aliases": [
+          "Hand signals"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Facial expressions",
+        "aliases": [
+          "Face"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Eye contact",
+        "aliases": [
+          "Their eyes"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Body movement",
+        "aliases": [
+          "Gestures"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Spoken instructions",
+        "aliases": [
+          "Words"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-183",
+    "category": "Pop culture",
+    "prompt": "Name a sound you might hear from someone who has just started learning an instrument.",
+    "answers": [
+      {
+        "text": "Wrong notes",
+        "aliases": [
+          "Mistakes"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Squeaks",
+        "aliases": [
+          "Squeaking"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Scales",
+        "aliases": [
+          "Playing scales"
+        ],
+        "points": 18
+      },
+      {
+        "text": "The same phrase repeatedly",
+        "aliases": [
+          "Repeated passage"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A metronome",
+        "aliases": [
+          "Ticking"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Frustrated sighs",
+        "aliases": [
+          "Sighing"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-184",
+    "category": "Pop culture",
+    "prompt": "Name something you can find printed on a page of sheet music.",
+    "answers": [
+      {
+        "text": "Notes",
+        "aliases": [
+          "Musical notes"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Song title",
+        "aliases": [
+          "Title"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Lyrics",
+        "aliases": [
+          "Words"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Clef",
+        "aliases": [
+          "Treble clef"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Time signature",
+        "aliases": [
+          "Time signatures"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Tempo marking",
+        "aliases": [
+          "Tempo"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-185",
+    "category": "Pop culture",
+    "prompt": "Name a reason a band might record the same song again in the studio.",
+    "answers": [
+      {
+        "text": "Wrong notes",
+        "aliases": [
+          "Instrument mistake"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Background noise",
+        "aliases": [
+          "Unwanted noise"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Bad timing",
+        "aliases": [
+          "Out of time"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Wrong lyrics",
+        "aliases": [
+          "Forgot the words"
+        ],
+        "points": 14
+      },
+      {
+        "text": "A cracked voice",
+        "aliases": [
+          "Voice crack"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Distorted sound",
+        "aliases": [
+          "Recording distortion"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-186",
+    "category": "Pop culture",
+    "prompt": "Name something people associate with a rock star's image.",
+    "answers": [
+      {
+        "text": "Electric guitar",
+        "aliases": [
+          "Guitar"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Long hair",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Leather jacket",
+        "aliases": [
+          "Leather clothes"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Tattoos",
+        "aliases": [
+          "Tattoo"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Sunglasses",
+        "aliases": [
+          "Dark glasses"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Tour bus",
+        "aliases": [
+          "Band bus"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-187",
+    "category": "Pop culture",
+    "prompt": "Name a way a musician might personalize an instrument.",
+    "answers": [
+      {
+        "text": "Paint it",
+        "aliases": [
+          "Custom color"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Add stickers",
+        "aliases": [
+          "Stickers"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Engrave a name",
+        "aliases": [
+          "Engraving"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Use a special strap",
+        "aliases": [
+          "Custom strap"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Change the hardware",
+        "aliases": [
+          "Custom hardware"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Add a signature",
+        "aliases": [
+          "Sign it"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-188",
+    "category": "Pop culture",
+    "prompt": "Name something at home that can distract a person from practicing music.",
+    "answers": [
+      {
+        "text": "Phone",
+        "aliases": [
+          "Messages"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Television",
+        "aliases": [
+          "TV"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pet",
+        "aliases": [
+          "Pets"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Visitors",
+        "aliases": [
+          "Someone at the door"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Hunger",
+        "aliases": [
+          "Wanting a snack"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Household noise",
+        "aliases": [
+          "Family noise"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-189",
+    "category": "Pop culture",
+    "prompt": "Name a way a local band might advertise an upcoming gig.",
+    "answers": [
+      {
+        "text": "Social media post",
+        "aliases": [
+          "Post online"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Posters",
+        "aliases": [
+          "Put up posters"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Word of mouth",
+        "aliases": [
+          "Tell friends"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Flyers",
+        "aliases": [
+          "Hand out flyers"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Local radio",
+        "aliases": [
+          "Radio announcement"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Email",
+        "aliases": [
+          "Mailing list"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-190",
+    "category": "Pop culture",
+    "prompt": "Name a place where an amateur band might rehearse.",
+    "answers": [
+      {
+        "text": "Garage",
+        "aliases": [
+          "Someone's garage"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Basement",
+        "aliases": [
+          "Cellar"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Rehearsal studio",
+        "aliases": [
+          "Practice studio"
+        ],
+        "points": 16
+      },
+      {
+        "text": "School music room",
+        "aliases": [
+          "School"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Living room",
+        "aliases": [
+          "Someone's house"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Community hall",
+        "aliases": [
+          "Community center"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-191",
+    "category": "Pop culture",
+    "prompt": "Name an exercise a dancer might do to warm up.",
+    "answers": [
+      {
+        "text": "Stretching",
+        "aliases": [
+          "Stretch"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Jogging in place",
+        "aliases": [
+          "Light jogging"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Ankle circles",
+        "aliases": [
+          "Ankle rolls"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Leg swings",
+        "aliases": [
+          "Swing their legs"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Shoulder rolls",
+        "aliases": [
+          "Roll shoulders"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Plies",
+        "aliases": [
+          "Knee bends"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-192",
+    "category": "Pop culture",
+    "prompt": "Name a style of dance someone might take lessons in.",
+    "answers": [
+      {
+        "text": "Ballet",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Hip-hop",
+        "aliases": [
+          "Hip hop"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Salsa",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Tap",
+        "aliases": [
+          "Tap dancing"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Ballroom",
+        "aliases": [
+          "Ballroom dancing"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Jazz",
+        "aliases": [
+          "Jazz dance"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-193",
+    "category": "Pop culture",
+    "prompt": "Name something a person might worry about at their first dance class.",
+    "answers": [
+      {
+        "text": "Forgetting the steps",
+        "aliases": [
+          "Remembering steps"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Looking silly",
+        "aliases": [
+          "Being judged"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Keeping up",
+        "aliases": [
+          "Too difficult"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Finding a partner",
+        "aliases": [
+          "No partner"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Losing balance",
+        "aliases": [
+          "Falling"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Being unfit",
+        "aliases": [
+          "Getting tired"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-194",
+    "category": "Pop culture",
+    "prompt": "Name something a dancer might carry in a dance bag.",
+    "answers": [
+      {
+        "text": "Dance shoes",
+        "aliases": [
+          "Shoes"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Water bottle",
+        "aliases": [
+          "Water"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Change of clothes",
+        "aliases": [
+          "Spare clothes"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Towel",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Hair ties",
+        "aliases": [
+          "Hair bands"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Snack",
+        "aliases": [
+          "Food"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-195",
+    "category": "Pop culture",
+    "prompt": "Name a quality people want in a dance partner.",
+    "answers": [
+      {
+        "text": "Good rhythm",
+        "aliases": [
+          "Sense of rhythm"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Patience",
+        "aliases": [
+          "Patient"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Clear communication",
+        "aliases": [
+          "Communication"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Confidence",
+        "aliases": [
+          "Confident"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Respect",
+        "aliases": [
+          "Considerate"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Sense of humor",
+        "aliases": [
+          "Funny"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-196",
+    "category": "Pop culture",
+    "prompt": "Name something on a stage floor that could make dancing difficult.",
+    "answers": [
+      {
+        "text": "Spilled water",
+        "aliases": [
+          "Wet floor"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Loose cables",
+        "aliases": [
+          "Wires"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Slippery surface",
+        "aliases": [
+          "Too slippery"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Debris",
+        "aliases": [
+          "Objects on the floor"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Uneven boards",
+        "aliases": [
+          "Uneven floor"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Too many people",
+        "aliases": [
+          "Crowded stage"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-197",
+    "category": "Pop culture",
+    "prompt": "Name an occasion where you might see couples slow dancing.",
+    "answers": [
+      {
+        "text": "Wedding reception",
+        "aliases": [
+          "Wedding"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Prom",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Anniversary party",
+        "aliases": [
+          "Anniversary"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Military ball",
+        "aliases": [
+          "Military dance",
+          "Armed forces ball"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Cruise",
+        "aliases": [
+          "On a cruise ship"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Valentine's party",
+        "aliases": [
+          "Valentine's dance"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-198",
+    "category": "Pop culture",
+    "prompt": "Name something a choreographer decides for a dance performance.",
+    "answers": [
+      {
+        "text": "Dance steps",
+        "aliases": [
+          "Moves"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Music",
+        "aliases": [
+          "Song choice"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Formations",
+        "aliases": [
+          "Where dancers stand"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Timing",
+        "aliases": [
+          "Counts"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Entrances and exits",
+        "aliases": [
+          "When dancers enter"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Costumes",
+        "aliases": [
+          "What dancers wear"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-199",
+    "category": "Pop culture",
+    "prompt": "Name something an audience might notice during a ballet performance.",
+    "answers": [
+      {
+        "text": "Pointe shoes",
+        "aliases": [
+          "Dancing on toes"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Tutus",
+        "aliases": [
+          "Tutu"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Leaps",
+        "aliases": [
+          "Jumps"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Spins",
+        "aliases": [
+          "Pirouettes"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Graceful movement",
+        "aliases": [
+          "Grace"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Partner lifts",
+        "aliases": [
+          "Lifts"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-200",
+    "category": "Pop culture",
+    "prompt": "Name a physical sign that a performer has stage fright.",
+    "answers": [
+      {
+        "text": "Shaking hands",
+        "aliases": [
+          "Trembling"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Sweating",
+        "aliases": [
+          "Sweaty palms"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Fast heartbeat",
+        "aliases": [
+          "Racing heart"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Dry mouth",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Butterflies in the stomach",
+        "aliases": [
+          "Nervous stomach"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Weak knees",
+        "aliases": [
+          "Wobbly knees"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-201",
+    "category": "Pop culture",
+    "prompt": "Name something judges might score in a dance competition.",
+    "answers": [
+      {
+        "text": "Technique",
+        "aliases": [
+          "Skill"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Timing",
+        "aliases": [
+          "Musical timing"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Expression",
+        "aliases": [
+          "Emotion"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Originality",
+        "aliases": [
+          "Creativity"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Teamwork",
+        "aliases": [
+          "Synchronization"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Costumes",
+        "aliases": [
+          "Presentation"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-202",
+    "category": "Pop culture",
+    "prompt": "Name a reason a child might enjoy going to dance class.",
+    "answers": [
+      {
+        "text": "The music",
+        "aliases": [
+          "Songs"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Seeing friends",
+        "aliases": [
+          "Friends"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Moving around",
+        "aliases": [
+          "Being active"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Dressing up",
+        "aliases": [
+          "Costumes"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Performing",
+        "aliases": [
+          "Being onstage"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Using imagination",
+        "aliases": [
+          "Pretending"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-203",
+    "category": "Pop culture",
+    "prompt": "Name something that can go wrong with a dancer's costume during a performance.",
+    "answers": [
+      {
+        "text": "A seam tears",
+        "aliases": [
+          "Ripped costume"
+        ],
+        "points": 30
+      },
+      {
+        "text": "A shoelace comes undone",
+        "aliases": [
+          "Untied shoelace"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A hat falls off",
+        "aliases": [
+          "Lost hat"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A strap slips",
+        "aliases": [
+          "Slipping strap"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A zipper breaks",
+        "aliases": [
+          "Broken zipper"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Jewelry falls off",
+        "aliases": [
+          "Lost jewelry"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-204",
+    "category": "Pop culture",
+    "prompt": "Name a prop dancers might use during a performance.",
+    "answers": [
+      {
+        "text": "Ribbon",
+        "aliases": [
+          "Ribbons"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Fan",
+        "aliases": [
+          "Fans"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hat",
+        "aliases": [
+          "Hats"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cane",
+        "aliases": [
+          "Canes"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Chair",
+        "aliases": [
+          "Chairs"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Umbrella",
+        "aliases": [
+          "Umbrellas"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-205",
+    "category": "Pop culture",
+    "prompt": "Name a place or person you might turn to when learning a new dance.",
+    "answers": [
+      {
+        "text": "Dance class",
+        "aliases": [
+          "Dance school"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Online tutorial",
+        "aliases": [
+          "Video lesson"
+        ],
+        "points": 23
+      },
+      {
+        "text": "A friend",
+        "aliases": [
+          "Friends"
+        ],
+        "points": 19
+      },
+      {
+        "text": "A party",
+        "aliases": [
+          "Social event"
+        ],
+        "points": 14
+      },
+      {
+        "text": "School",
+        "aliases": [
+          "School lesson"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Cultural festival",
+        "aliases": [
+          "Community festival"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-206",
+    "category": "Pop culture",
+    "prompt": "Name a rule audiences are asked to follow during a stage play.",
+    "answers": [
+      {
+        "text": "Silence phones",
+        "aliases": [
+          "Turn off phones"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Do not talk",
+        "aliases": [
+          "Stay quiet"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Arrive on time",
+        "aliases": [
+          "Do not arrive late"
+        ],
+        "points": 16
+      },
+      {
+        "text": "No flash photography",
+        "aliases": [
+          "No flash"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Keep aisles clear",
+        "aliases": [
+          "Clear the aisles"
+        ],
+        "points": 8
+      },
+      {
+        "text": "No recording",
+        "aliases": [
+          "Do not film"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-207",
+    "category": "Pop culture",
+    "prompt": "Name something actors do backstage just before the curtain rises.",
+    "answers": [
+      {
+        "text": "Check costumes",
+        "aliases": [
+          "Fix costumes"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Warm up their voices",
+        "aliases": [
+          "Vocal warmups"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Apply makeup",
+        "aliases": [
+          "Makeup"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Review lines",
+        "aliases": [
+          "Practice lines"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Check props",
+        "aliases": [
+          "Find their props"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Take deep breaths",
+        "aliases": [
+          "Calm their nerves"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-208",
+    "category": "Pop culture",
+    "prompt": "Name something relatives look forward to at a child's school play.",
+    "answers": [
+      {
+        "text": "Seeing their child perform",
+        "aliases": [
+          "Their child's part"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Taking photos",
+        "aliases": [
+          "Pictures"
+        ],
+        "points": 24
+      },
+      {
+        "text": "The costumes",
+        "aliases": [
+          "Costumes"
+        ],
+        "points": 18
+      },
+      {
+        "text": "The songs",
+        "aliases": [
+          "Singing"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Funny mistakes",
+        "aliases": [
+          "Cute mistakes"
+        ],
+        "points": 8
+      },
+      {
+        "text": "The final bow",
+        "aliases": [
+          "Curtain call"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-209",
+    "category": "Pop culture",
+    "prompt": "Name a gift someone might give an actor on opening night.",
+    "answers": [
+      {
+        "text": "Flowers",
+        "aliases": [
+          "Bouquet"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Card",
+        "aliases": [
+          "Good luck card"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Chocolates",
+        "aliases": [
+          "Candy"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Stuffed animal",
+        "aliases": [
+          "Plush toy"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Balloons",
+        "aliases": [
+          "Balloon"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Lucky charm",
+        "aliases": [
+          "Good luck charm"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-210",
+    "category": "Pop culture",
+    "prompt": "Name something an actor might do after forgetting a line onstage.",
+    "answers": [
+      {
+        "text": "Improvise",
+        "aliases": [
+          "Make something up"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Wait for a cue",
+        "aliases": [
+          "Listen for a prompt"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Let another actor help",
+        "aliases": [
+          "Get help from a castmate"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Skip to the next line",
+        "aliases": [
+          "Skip ahead"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Repeat an earlier line",
+        "aliases": [
+          "Repeat themselves"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pretend to examine a prop",
+        "aliases": [
+          "Use a prop to stall"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-211",
+    "category": "Pop culture",
+    "prompt": "Name something you might read in a theater program.",
+    "answers": [
+      {
+        "text": "Cast list",
+        "aliases": [
+          "Actors' names"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Actor biographies",
+        "aliases": [
+          "Cast biographies"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Scene list",
+        "aliases": [
+          "Act list"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Production credits",
+        "aliases": [
+          "Crew credits"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Advertisements",
+        "aliases": [
+          "Ads"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Thank-you messages",
+        "aliases": [
+          "Acknowledgments"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-212",
+    "category": "Pop culture",
+    "prompt": "Name something a stagehand might move between scenes of a play.",
+    "answers": [
+      {
+        "text": "Furniture",
+        "aliases": [
+          "Tables and chairs"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Props",
+        "aliases": [
+          "Stage props"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Backdrops",
+        "aliases": [
+          "Scenery"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Curtains",
+        "aliases": [
+          "Drapes"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Microphones",
+        "aliases": [
+          "Mics"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Platforms",
+        "aliases": [
+          "Stage platforms"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-213",
+    "category": "Pop culture",
+    "prompt": "Name something an actor could change to play a much older character.",
+    "answers": [
+      {
+        "text": "Makeup",
+        "aliases": [
+          "Age makeup"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Voice",
+        "aliases": [
+          "Speaking voice"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Walk",
+        "aliases": [
+          "Way of walking"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Hair",
+        "aliases": [
+          "Gray wig"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Posture",
+        "aliases": [
+          "Stoop"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Clothing",
+        "aliases": [
+          "Costume"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-214",
+    "category": "Pop culture",
+    "prompt": "Name something a director might ask someone to do at a theater audition.",
+    "answers": [
+      {
+        "text": "Perform a monologue",
+        "aliases": [
+          "Monologue"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Read a scene",
+        "aliases": [
+          "Read lines"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Sing",
+        "aliases": [
+          "Sing a song"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Dance",
+        "aliases": [
+          "Perform a dance"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Improvise",
+        "aliases": [
+          "Improvisation"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Introduce themselves",
+        "aliases": [
+          "Self introduction"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-215",
+    "category": "Pop culture",
+    "prompt": "Name something children might enjoy about a puppet show.",
+    "answers": [
+      {
+        "text": "Funny puppets",
+        "aliases": [
+          "Puppet characters"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Silly voices",
+        "aliases": [
+          "Funny voices"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Jokes",
+        "aliases": [
+          "Humor"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Songs",
+        "aliases": [
+          "Music"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Joining in",
+        "aliases": [
+          "Audience participation"
+        ],
+        "points": 9
+      },
+      {
+        "text": "The adventure",
+        "aliases": [
+          "Story"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-216",
+    "category": "Pop culture",
+    "prompt": "Name something a person might use to make a puppet.",
+    "answers": [
+      {
+        "text": "Felt",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Wood",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "String",
+        "aliases": [
+          "Thread"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Foam",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Paint",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Buttons",
+        "aliases": [
+          "Button eyes"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-217",
+    "category": "Pop culture",
+    "prompt": "Name an object a magician often uses during a show.",
+    "answers": [
+      {
+        "text": "Playing cards",
+        "aliases": [
+          "Deck of cards"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Hat",
+        "aliases": [
+          "Top hat"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Wand",
+        "aliases": [
+          "Magic wand"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Coins",
+        "aliases": [
+          "Coin"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Rope",
+        "aliases": [
+          "Piece of rope"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Box",
+        "aliases": [
+          "Magic box"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-218",
+    "category": "Pop culture",
+    "prompt": "Name an act you might watch at a circus.",
+    "answers": [
+      {
+        "text": "Clowns",
+        "aliases": [
+          "Clown act"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Trapeze",
+        "aliases": [
+          "Trapeze artists"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Juggling",
+        "aliases": [
+          "Jugglers"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Tightrope walking",
+        "aliases": [
+          "Tightrope walker"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Acrobatics",
+        "aliases": [
+          "Acrobats"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Unicycling",
+        "aliases": [
+          "Unicyclist"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-219",
+    "category": "Pop culture",
+    "prompt": "Name something a magician might ask an audience volunteer to do.",
+    "answers": [
+      {
+        "text": "Choose a card",
+        "aliases": [
+          "Pick a card"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Inspect a box",
+        "aliases": [
+          "Check a box"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hold a rope",
+        "aliases": [
+          "Hold the rope"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Say a magic word",
+        "aliases": [
+          "Say abracadabra"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Hide a coin",
+        "aliases": [
+          "Conceal a coin"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Pick a number",
+        "aliases": [
+          "Choose a number"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-220",
+    "category": "Pop culture",
+    "prompt": "Name a subject a stand-up comedian might tell jokes about.",
+    "answers": [
+      {
+        "text": "Family",
+        "aliases": [
+          "Relatives"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Work",
+        "aliases": [
+          "Jobs"
+        ],
+        "points": 24
+      },
+      {
+        "text": "School",
+        "aliases": [
+          "Teachers"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Travel",
+        "aliases": [
+          "Holidays"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Technology",
+        "aliases": [
+          "Gadgets"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Dating",
+        "aliases": [
+          "Relationships"
+        ],
+        "points": 6
+      }
+    ]
+  }
+]

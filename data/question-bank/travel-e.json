@@ -1,0 +1,4206 @@
+[
+  {
+    "id": "travel-311",
+    "category": "Travel & places",
+    "prompt": "Name a city people associate with a romantic getaway.",
+    "answers": [
+      {
+        "text": "Paris",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Venice",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Rome",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Prague",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Vienna",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Lisbon",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-312",
+    "category": "Travel & places",
+    "prompt": "Name a U.S. city someone might visit mainly for live entertainment.",
+    "answers": [
+      {
+        "text": "New York City",
+        "aliases": [
+          "New York",
+          "NYC"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Las Vegas",
+        "aliases": [
+          "Vegas"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Los Angeles",
+        "aliases": [
+          "LA"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Nashville",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "New Orleans",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Chicago",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-313",
+    "category": "Travel & places",
+    "prompt": "Name a city a traveler interested in ancient civilizations might visit.",
+    "answers": [
+      {
+        "text": "Rome",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Athens",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Cairo",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Istanbul",
+        "aliases": [
+          "Constantinople"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Pompeii",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Luxor",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-314",
+    "category": "Travel & places",
+    "prompt": "Name a city where tourists might enjoy exploring canals.",
+    "answers": [
+      {
+        "text": "Venice",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Amsterdam",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Bruges",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Bangkok",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Copenhagen",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Suzhou",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-315",
+    "category": "Travel & places",
+    "prompt": "Name a city someone might visit to admire its skyscrapers.",
+    "answers": [
+      {
+        "text": "New York City",
+        "aliases": [
+          "New York",
+          "NYC"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Dubai",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Hong Kong",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Shanghai",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Chicago",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Singapore",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-316",
+    "category": "Travel & places",
+    "prompt": "Name a city an art lover might choose for a museum vacation.",
+    "answers": [
+      {
+        "text": "Paris",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "London",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "New York City",
+        "aliases": [
+          "New York",
+          "NYC"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Florence",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Madrid",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Amsterdam",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-317",
+    "category": "Travel & places",
+    "prompt": "Name a city a food lover might dream of visiting.",
+    "answers": [
+      {
+        "text": "Tokyo",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Paris",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Rome",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Bangkok",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "New Orleans",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Barcelona",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-318",
+    "category": "Travel & places",
+    "prompt": "Name a city people associate with lively markets or bazaars.",
+    "answers": [
+      {
+        "text": "Istanbul",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Marrakech",
+        "aliases": [
+          "Marrakesh"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Bangkok",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "London",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Mexico City",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Hong Kong",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-319",
+    "category": "Travel & places",
+    "prompt": "Name a city someone might visit to explore its musical heritage.",
+    "answers": [
+      {
+        "text": "Nashville",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "New Orleans",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Memphis",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Vienna",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Liverpool",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Austin",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-320",
+    "category": "Travel & places",
+    "prompt": "Name a city people might visit for its historic old town.",
+    "answers": [
+      {
+        "text": "Prague",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Dubrovnik",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Edinburgh",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Quebec City",
+        "aliases": [
+          "Quebec"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Tallinn",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Krakow",
+        "aliases": [
+          "Cracow"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-321",
+    "category": "Travel & places",
+    "prompt": "Name a question tourists often ask a local tour guide.",
+    "answers": [
+      {
+        "text": "How old is it?",
+        "aliases": [
+          "When was it built"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Who lived here?",
+        "aliases": [
+          "Who used to live here"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Can we take photos?",
+        "aliases": [
+          "Is photography allowed"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Where is the restroom?",
+        "aliases": [
+          "Where is the bathroom"
+        ],
+        "points": 14
+      },
+      {
+        "text": "What should we eat?",
+        "aliases": [
+          "What food do you recommend"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Is there a local legend?",
+        "aliases": [
+          "Is it haunted"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-322",
+    "category": "Travel & places",
+    "prompt": "Name something a local guide can explain better than a street map.",
+    "answers": [
+      {
+        "text": "Local history",
+        "aliases": [
+          "History"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Local legends",
+        "aliases": [
+          "Folklore"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Food traditions",
+        "aliases": [
+          "Local cuisine"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Customs",
+        "aliases": [
+          "Traditions"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Architectural details",
+        "aliases": [
+          "Architecture"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hidden places",
+        "aliases": [
+          "Hidden gems"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-323",
+    "category": "Travel & places",
+    "prompt": "Name a part of a museum visit that can take longer than expected.",
+    "answers": [
+      {
+        "text": "Reading exhibit labels",
+        "aliases": [
+          "Reading descriptions"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Watching exhibit films",
+        "aliases": [
+          "Watching videos"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Trying interactive exhibits",
+        "aliases": [
+          "Hands on exhibits"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Browsing the gift shop",
+        "aliases": [
+          "Shopping"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Waiting for a popular display",
+        "aliases": [
+          "Queuing for an exhibit"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Listening to an audio guide",
+        "aliases": [
+          "Audio tour"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-324",
+    "category": "Travel & places",
+    "prompt": "Name an exhibit children might be excited to find at a science museum.",
+    "answers": [
+      {
+        "text": "Robot",
+        "aliases": [
+          "Robotics display"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Flight simulator",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Planetarium",
+        "aliases": [
+          "Star show"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Electricity demonstration",
+        "aliases": [
+          "Lightning demonstration"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Space capsule",
+        "aliases": [
+          "Spacecraft"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Giant model of the human body",
+        "aliases": [
+          "Human body exhibit"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-325",
+    "category": "Travel & places",
+    "prompt": "Name an everyday object that might appear in a history museum.",
+    "answers": [
+      {
+        "text": "Old clothing",
+        "aliases": [
+          "Historical costumes"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Coins",
+        "aliases": [
+          "Old money"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Cooking utensils",
+        "aliases": [
+          "Kitchen tools"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Letters",
+        "aliases": [
+          "Correspondence"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Farm tools",
+        "aliases": [
+          "Agricultural tools"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Pottery",
+        "aliases": [
+          "Ceramics"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-326",
+    "category": "Travel & places",
+    "prompt": "Name a kind of art someone might see during an art museum visit.",
+    "answers": [
+      {
+        "text": "Painting",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Sculpture",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Photograph",
+        "aliases": [
+          "Photography"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Tapestry",
+        "aliases": [
+          "Woven art"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Print",
+        "aliases": [
+          "Printmaking"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Video installation",
+        "aliases": [
+          "Video art"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-327",
+    "category": "Travel & places",
+    "prompt": "Name something visitors might explore at an aviation museum.",
+    "answers": [
+      {
+        "text": "Historic airplane",
+        "aliases": [
+          "Old aircraft"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Cockpit",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Flight simulator",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Jet engine",
+        "aliases": [
+          "Aircraft engine"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Pilot uniform",
+        "aliases": [
+          "Aviator uniform"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Model airplane",
+        "aliases": [
+          "Scale aircraft"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-328",
+    "category": "Travel & places",
+    "prompt": "Name an activity children might try at a children's museum.",
+    "answers": [
+      {
+        "text": "Build with blocks",
+        "aliases": [
+          "Block building"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Play at a water table",
+        "aliases": [
+          "Water play"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Dress up",
+        "aliases": [
+          "Try costumes"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Make art",
+        "aliases": [
+          "Arts and crafts"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Run an experiment",
+        "aliases": [
+          "Science experiment"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Climb a play structure",
+        "aliases": [
+          "Climbing"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-329",
+    "category": "Travel & places",
+    "prompt": "Name an old vehicle visitors might see in a transportation museum.",
+    "answers": [
+      {
+        "text": "Steam locomotive",
+        "aliases": [
+          "Steam train"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Vintage bus",
+        "aliases": [
+          "Old bus"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Streetcar",
+        "aliases": [
+          "Tram",
+          "Trolley"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Horse carriage",
+        "aliases": [
+          "Horse drawn carriage"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Early bicycle",
+        "aliases": [
+          "Penny farthing"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Classic car",
+        "aliases": [
+          "Antique automobile"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-330",
+    "category": "Travel & places",
+    "prompt": "Name something an archaeology exhibit might display.",
+    "answers": [
+      {
+        "text": "Pottery",
+        "aliases": [
+          "Ceramic vessels"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Jewelry",
+        "aliases": [
+          "Ornaments"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Ancient tools",
+        "aliases": [
+          "Stone tools"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Burial objects",
+        "aliases": [
+          "Grave goods"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Statues",
+        "aliases": [
+          "Figurines"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Clay tablets",
+        "aliases": [
+          "Inscribed tablets"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-331",
+    "category": "Travel & places",
+    "prompt": "Name something in a historic house that shows how people lived before electricity.",
+    "answers": [
+      {
+        "text": "Oil lamp",
+        "aliases": [
+          "Kerosene lamp"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Cooking hearth",
+        "aliases": [
+          "Open fireplace"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Washboard",
+        "aliases": [
+          "Wash board"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Hand water pump",
+        "aliases": [
+          "Water pump"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Spinning wheel",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Chamber pot",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-332",
+    "category": "Travel & places",
+    "prompt": "Name something a fan might do when visiting a movie filming location.",
+    "answers": [
+      {
+        "text": "Recreate a scene",
+        "aliases": [
+          "Act out a scene"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Compare it with a movie still",
+        "aliases": [
+          "Compare photographs"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Take a guided tour",
+        "aliases": [
+          "Join a tour"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Buy movie merchandise",
+        "aliases": [
+          "Buy memorabilia"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Find the exact camera angle",
+        "aliases": [
+          "Match the shot"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sit where a character sat",
+        "aliases": [
+          "Sit in a famous seat"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-333",
+    "category": "Travel & places",
+    "prompt": "Name a creature visitors might look for at an aquarium.",
+    "answers": [
+      {
+        "text": "Shark",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Jellyfish",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Sea turtle",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Stingray",
+        "aliases": [
+          "Ray"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Octopus",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Seahorse",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-334",
+    "category": "Travel & places",
+    "prompt": "Name a feature people enjoy at a botanical garden.",
+    "answers": [
+      {
+        "text": "Colorful flower beds",
+        "aliases": [
+          "Flower displays"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Greenhouse",
+        "aliases": [
+          "Conservatory"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Pond",
+        "aliases": [
+          "Water garden"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Fountain",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Hedge maze",
+        "aliases": [
+          "Maze"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sculpture garden",
+        "aliases": [
+          "Outdoor sculptures"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-335",
+    "category": "Travel & places",
+    "prompt": "Name something visitors might admire above them in a grand cathedral.",
+    "answers": [
+      {
+        "text": "Stained glass window",
+        "aliases": [
+          "Stained glass"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Vaulted ceiling",
+        "aliases": [
+          "Vaults"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Dome",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Ceiling painting",
+        "aliases": [
+          "Fresco"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Chandelier",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Organ pipes",
+        "aliases": [
+          "Pipe organ"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-336",
+    "category": "Travel & places",
+    "prompt": "Name a detail visitors might notice at a war memorial.",
+    "answers": [
+      {
+        "text": "Names of the fallen",
+        "aliases": [
+          "Names"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Commemorative inscription",
+        "aliases": [
+          "Inscription"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Statue",
+        "aliases": [
+          "Sculpture"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Wreath",
+        "aliases": [
+          "Flowers"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Eternal flame",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Flags",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-337",
+    "category": "Travel & places",
+    "prompt": "Name something tourists do while spending time in a city square.",
+    "answers": [
+      {
+        "text": "People watch",
+        "aliases": [
+          "Watch people"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Eat at a cafe",
+        "aliases": [
+          "Have a coffee"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Browse market stalls",
+        "aliases": [
+          "Visit the market"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Watch street performers",
+        "aliases": [
+          "Watch buskers"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Take photographs",
+        "aliases": [
+          "Take pictures"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Meet friends",
+        "aliases": [
+          "Meet their group"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-338",
+    "category": "Travel & places",
+    "prompt": "Name a detail that makes a historic neighborhood feel different from a modern one.",
+    "answers": [
+      {
+        "text": "Cobblestone streets",
+        "aliases": [
+          "Cobbles"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Narrow lanes",
+        "aliases": [
+          "Small alleyways"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Old building facades",
+        "aliases": [
+          "Historic facades"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Gas lamps",
+        "aliases": [
+          "Old streetlights"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Historical plaques",
+        "aliases": [
+          "Heritage markers"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Antique shopfronts",
+        "aliases": [
+          "Old storefronts"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-339",
+    "category": "Travel & places",
+    "prompt": "Name something a visitor might do along a city's waterfront.",
+    "answers": [
+      {
+        "text": "Watch the boats",
+        "aliases": [
+          "Boat watching"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Eat outdoors",
+        "aliases": [
+          "Waterfront dining"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Stroll on the promenade",
+        "aliases": [
+          "Walk along the water"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Explore a pier",
+        "aliases": [
+          "Visit the pier"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Watch the sunset",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Visit a dockside market",
+        "aliases": [
+          "Harbor market"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-340",
+    "category": "Travel & places",
+    "prompt": "Name something besides the view that tourists might find on an observation deck.",
+    "answers": [
+      {
+        "text": "Telescope",
+        "aliases": [
+          "Viewing binoculars"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Glass floor",
+        "aliases": [
+          "Transparent floor"
+        ],
+        "points": 24
+      },
+      {
+        "text": "City map",
+        "aliases": [
+          "Panoramic map"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Photo booth",
+        "aliases": [
+          "Photo station"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Gift shop",
+        "aliases": [
+          "Souvenir shop"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cafe",
+        "aliases": [
+          "Coffee shop"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-341",
+    "category": "Travel & places",
+    "prompt": "Name a way someone preserves memories of a vacation.",
+    "answers": [
+      {
+        "text": "Photographs",
+        "aliases": [
+          "Photos"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Videos",
+        "aliases": [
+          "Film clips"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Travel journal",
+        "aliases": [
+          "Diary"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Scrapbook",
+        "aliases": [
+          "Memory book"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Sketches",
+        "aliases": [
+          "Drawings"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Postcards sent home",
+        "aliases": [
+          "Sending postcards"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-342",
+    "category": "Travel & places",
+    "prompt": "Name a souvenir someone might worry about breaking on the way home.",
+    "answers": [
+      {
+        "text": "Pottery",
+        "aliases": [
+          "Ceramic bowl"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Glass ornament",
+        "aliases": [
+          "Glass decoration"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Snow globe",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Porcelain figurine",
+        "aliases": [
+          "China figurine"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Decorative plate",
+        "aliases": [
+          "Souvenir plate"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Carved eggshell",
+        "aliases": [
+          "Decorated egg"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-343",
+    "category": "Travel & places",
+    "prompt": "Name a souvenir someone could use around the house.",
+    "answers": [
+      {
+        "text": "Tea towel",
+        "aliases": [
+          "Dish towel"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Apron",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Bottle opener",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Shopping bag",
+        "aliases": [
+          "Tote bag"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Coaster",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Oven mitt",
+        "aliases": [
+          "Oven glove"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-344",
+    "category": "Travel & places",
+    "prompt": "Name a way tourists might get a bird's-eye view of a city.",
+    "answers": [
+      {
+        "text": "Visit an observation deck",
+        "aliases": [
+          "Observation deck",
+          "Skyscraper viewpoint"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Go to a hilltop lookout",
+        "aliases": [
+          "Hilltop",
+          "Hilltop viewpoint"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Ride a Ferris wheel",
+        "aliases": [
+          "Ferris wheel",
+          "Observation wheel"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Take a cable car",
+        "aliases": [
+          "Cable car",
+          "Aerial gondola"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Climb a church tower",
+        "aliases": [
+          "Church tower",
+          "Bell tower"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Take a helicopter tour",
+        "aliases": [
+          "Helicopter ride",
+          "Helicopter"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-345",
+    "category": "Travel & places",
+    "prompt": "Name a reason someone regrets buying a vacation souvenir.",
+    "answers": [
+      {
+        "text": "It broke",
+        "aliases": [
+          "It got damaged"
+        ],
+        "points": 28
+      },
+      {
+        "text": "It was overpriced",
+        "aliases": [
+          "Cost too much"
+        ],
+        "points": 23
+      },
+      {
+        "text": "It takes up too much space",
+        "aliases": [
+          "Too bulky"
+        ],
+        "points": 19
+      },
+      {
+        "text": "It looked different at home",
+        "aliases": [
+          "Did not suit the house"
+        ],
+        "points": 14
+      },
+      {
+        "text": "It was cheaply made",
+        "aliases": [
+          "Poor quality"
+        ],
+        "points": 10
+      },
+      {
+        "text": "It was not locally made",
+        "aliases": [
+          "Imported souvenir"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-346",
+    "category": "Travel & places",
+    "prompt": "Name a craft tourists enjoy watching a local artisan demonstrate.",
+    "answers": [
+      {
+        "text": "Pottery making",
+        "aliases": [
+          "Throwing pots"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Weaving",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Wood carving",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Glassblowing",
+        "aliases": [
+          "Blowing glass"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Jewelry making",
+        "aliases": [
+          "Making jewelry"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Basket making",
+        "aliases": [
+          "Basket weaving"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-347",
+    "category": "Travel & places",
+    "prompt": "Name something a traveler considers before buying a souvenir.",
+    "answers": [
+      {
+        "text": "Price",
+        "aliases": [
+          "Cost"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Space in their bag",
+        "aliases": [
+          "Luggage space"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Authenticity",
+        "aliases": [
+          "Whether it is local"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Quality",
+        "aliases": [
+          "Craftsmanship"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Who it is for",
+        "aliases": [
+          "Recipient"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Whether it will be useful",
+        "aliases": [
+          "Usefulness"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-348",
+    "category": "Travel & places",
+    "prompt": "Name a place at home where people display vacation mementos.",
+    "answers": [
+      {
+        "text": "Refrigerator",
+        "aliases": [
+          "Fridge"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Shelf",
+        "aliases": [
+          "Bookshelf"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Wall",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Desk",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Display cabinet",
+        "aliases": [
+          "Curio cabinet"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Mantelpiece",
+        "aliases": [
+          "Mantel"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-349",
+    "category": "Travel & places",
+    "prompt": "Name something friends need to agree on before planning a vacation together.",
+    "answers": [
+      {
+        "text": "Budget",
+        "aliases": [
+          "Spending limit"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Destination",
+        "aliases": [
+          "Where to go"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Dates",
+        "aliases": [
+          "When to go"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Activities",
+        "aliases": [
+          "What to do"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Pace of the trip",
+        "aliases": [
+          "Busy or relaxed"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Room arrangements",
+        "aliases": [
+          "Who shares a room"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-350",
+    "category": "Travel & places",
+    "prompt": "Name something travelers research about a destination before leaving home.",
+    "answers": [
+      {
+        "text": "Weather",
+        "aliases": [
+          "Climate"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Attractions",
+        "aliases": [
+          "Things to see"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Local customs",
+        "aliases": [
+          "Etiquette"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Typical costs",
+        "aliases": [
+          "Prices"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Language",
+        "aliases": [
+          "Common phrases"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Entry requirements",
+        "aliases": [
+          "Visa requirements"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-351",
+    "category": "Travel & places",
+    "prompt": "Name an expense a traveler includes in a vacation budget.",
+    "answers": [
+      {
+        "text": "Accommodation",
+        "aliases": [
+          "Lodging"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Transportation",
+        "aliases": [
+          "Getting around"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Meals",
+        "aliases": [
+          "Food"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Attraction tickets",
+        "aliases": [
+          "Admissions"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Souvenirs",
+        "aliases": [
+          "Shopping"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Emergency fund",
+        "aliases": [
+          "Unexpected expenses"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-352",
+    "category": "Travel & places",
+    "prompt": "Name a milestone someone might celebrate with a special trip.",
+    "answers": [
+      {
+        "text": "Honeymoon",
+        "aliases": [
+          "Getting married"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Anniversary",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Birthday",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Graduation",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Retirement",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Family reunion",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-353",
+    "category": "Travel & places",
+    "prompt": "Name a reason someone returns to the same vacation destination.",
+    "answers": [
+      {
+        "text": "They love the food",
+        "aliases": [
+          "Favorite food"
+        ],
+        "points": 28
+      },
+      {
+        "text": "To see family",
+        "aliases": [
+          "Visit relatives"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Happy memories",
+        "aliases": [
+          "Nostalgia"
+        ],
+        "points": 19
+      },
+      {
+        "text": "More sights to explore",
+        "aliases": [
+          "Unfinished sightseeing"
+        ],
+        "points": 14
+      },
+      {
+        "text": "An annual event",
+        "aliases": [
+          "Yearly festival"
+        ],
+        "points": 10
+      },
+      {
+        "text": "It feels relaxing",
+        "aliases": [
+          "Familiar comfort"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-354",
+    "category": "Travel & places",
+    "prompt": "Name a reason a tourist might add an extra day in a city.",
+    "answers": [
+      {
+        "text": "Visit another museum",
+        "aliases": [
+          "More museum time"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Go shopping",
+        "aliases": [
+          "Shopping day"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Attend a show",
+        "aliases": [
+          "See a performance"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Take a day trip",
+        "aliases": [
+          "Explore nearby"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Rest",
+        "aliases": [
+          "Recover from sightseeing"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Meet a friend",
+        "aliases": [
+          "Visit friends"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-355",
+    "category": "Travel & places",
+    "prompt": "Name something a family considers before joining a theme park ride queue.",
+    "answers": [
+      {
+        "text": "Waiting time",
+        "aliases": [
+          "Queue length"
+        ],
+        "points": 30
+      },
+      {
+        "text": "How scary it is",
+        "aliases": [
+          "Thrill level"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Height requirement",
+        "aliases": [
+          "Height restriction"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Whether everyone wants to ride",
+        "aliases": [
+          "Group interest"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Ride duration",
+        "aliases": [
+          "How long it lasts"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Whether they will get wet",
+        "aliases": [
+          "Water splashes"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-356",
+    "category": "Travel & places",
+    "prompt": "Name a vacation activity people often reserve ahead of time.",
+    "answers": [
+      {
+        "text": "Popular restaurant meal",
+        "aliases": [
+          "Dinner reservation"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Theater show",
+        "aliases": [
+          "Play"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Guided tour",
+        "aliases": [
+          "Organized tour"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Timed museum entry",
+        "aliases": [
+          "Museum time slot"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Special exhibition",
+        "aliases": [
+          "Temporary exhibition"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Concert",
+        "aliases": [
+          "Live music show"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-357",
+    "category": "Travel & places",
+    "prompt": "Name a reason a tourist pays for a guided tour.",
+    "answers": [
+      {
+        "text": "Local knowledge",
+        "aliases": [
+          "Expert explanation"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Convenience",
+        "aliases": [
+          "Easy planning"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Meet other travelers",
+        "aliases": [
+          "Socializing"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Language help",
+        "aliases": [
+          "Translation"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Special access",
+        "aliases": [
+          "Behind the scenes access"
+        ],
+        "points": 10
+      },
+      {
+        "text": "A planned route",
+        "aliases": [
+          "Organized itinerary"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-358",
+    "category": "Travel & places",
+    "prompt": "Name a page in a travel guidebook someone might bookmark.",
+    "answers": [
+      {
+        "text": "City map",
+        "aliases": [
+          "Map"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Major attractions",
+        "aliases": [
+          "Top sights"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Restaurants",
+        "aliases": [
+          "Places to eat"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Walking route",
+        "aliases": [
+          "Walking tour"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Useful phrases",
+        "aliases": [
+          "Language guide"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Opening hours",
+        "aliases": [
+          "Visiting times"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-359",
+    "category": "Travel & places",
+    "prompt": "Name something a tour guide might use to keep a group together.",
+    "answers": [
+      {
+        "text": "Flag",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Umbrella",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Headset",
+        "aliases": [
+          "Radio earpiece"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Sign",
+        "aliases": [
+          "Placard"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Matching shirts",
+        "aliases": [
+          "Group shirts"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Whistle",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-360",
+    "category": "Travel & places",
+    "prompt": "Name something that can slow down a sightseeing group.",
+    "answers": [
+      {
+        "text": "Bathroom break",
+        "aliases": [
+          "Restroom stop"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Taking photographs",
+        "aliases": [
+          "Photo stops"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Shopping",
+        "aliases": [
+          "Browsing shops"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Someone gets lost",
+        "aliases": [
+          "Missing group member"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Late arrival",
+        "aliases": [
+          "Someone running late"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Tired walkers",
+        "aliases": [
+          "Fatigue"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-361",
+    "category": "Travel & places",
+    "prompt": "Name a time tourists might choose to visit an attraction to avoid crowds.",
+    "answers": [
+      {
+        "text": "Early morning",
+        "aliases": [
+          "Opening time"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Weekday",
+        "aliases": [
+          "Midweek"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Off season",
+        "aliases": [
+          "Low season"
+        ],
+        "points": 19
+      },
+      {
+        "text": "During lunch",
+        "aliases": [
+          "Lunchtime"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Near closing time",
+        "aliases": [
+          "Late afternoon"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Rainy day",
+        "aliases": [
+          "Bad weather day"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-362",
+    "category": "Travel & places",
+    "prompt": "Name a rule visitors might see posted inside a historic building.",
+    "answers": [
+      {
+        "text": "No flash photography",
+        "aliases": [
+          "No flash"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Do not touch",
+        "aliases": [
+          "Keep hands off"
+        ],
+        "points": 25
+      },
+      {
+        "text": "No food or drinks",
+        "aliases": [
+          "No eating"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Keep quiet",
+        "aliases": [
+          "Silence"
+        ],
+        "points": 11
+      },
+      {
+        "text": "No entry",
+        "aliases": [
+          "Restricted area"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Stay behind the barrier",
+        "aliases": [
+          "Do not cross the rope"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-363",
+    "category": "Travel & places",
+    "prompt": "Name a mistake a tourist might make when planning a day of sightseeing.",
+    "answers": [
+      {
+        "text": "Go on a closed day",
+        "aliases": [
+          "Ignore closing days"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Underestimate distances",
+        "aliases": [
+          "Plan too much walking"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Forget a reservation",
+        "aliases": [
+          "Fail to book"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Choose the wrong address",
+        "aliases": [
+          "Go to the wrong location"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Allow too little time",
+        "aliases": [
+          "Overbook the day"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Ignore the weather",
+        "aliases": [
+          "Fail to check the forecast"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-364",
+    "category": "Travel & places",
+    "prompt": "Name a way tourists save money on sightseeing.",
+    "answers": [
+      {
+        "text": "City pass",
+        "aliases": [
+          "Attraction pass"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Free admission day",
+        "aliases": [
+          "Free museum day"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Free walking tour",
+        "aliases": [
+          "Pay what you want tour"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Student discount",
+        "aliases": [
+          "Discount ticket"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Visit free attractions",
+        "aliases": [
+          "Free sights"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Buy a combined ticket",
+        "aliases": [
+          "Combo ticket"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-365",
+    "category": "Travel & places",
+    "prompt": "Name something travelers compare when choosing between two attractions.",
+    "answers": [
+      {
+        "text": "Personal interest",
+        "aliases": [
+          "What interests them"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Price",
+        "aliases": [
+          "Admission cost"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Time needed",
+        "aliases": [
+          "Visit duration"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Distance",
+        "aliases": [
+          "How far away"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Crowds",
+        "aliases": [
+          "How busy it is"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Weather suitability",
+        "aliases": [
+          "Indoor or outdoor"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-366",
+    "category": "Travel & places",
+    "prompt": "Name a place a tourist might rest during a busy day of sightseeing.",
+    "answers": [
+      {
+        "text": "Cafe",
+        "aliases": [
+          "Coffee shop"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Public park",
+        "aliases": [
+          "Park bench"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Hotel",
+        "aliases": [
+          "Their room"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Library",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Waterfront",
+        "aliases": [
+          "Riverside bench"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cinema",
+        "aliases": [
+          "Movie theater"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-367",
+    "category": "Travel & places",
+    "prompt": "Name something that draws a tourist into an unfamiliar restaurant.",
+    "answers": [
+      {
+        "text": "Local specialty",
+        "aliases": [
+          "Regional dish"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Reasonable prices",
+        "aliases": [
+          "Affordable menu"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Good reviews",
+        "aliases": [
+          "Recommendations"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Attractive view",
+        "aliases": [
+          "Scenic location"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Busy tables",
+        "aliases": [
+          "Lots of customers"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Food on display",
+        "aliases": [
+          "Appetizing food"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-368",
+    "category": "Travel & places",
+    "prompt": "Name a local custom a visitor might want to learn before a trip.",
+    "answers": [
+      {
+        "text": "Tipping",
+        "aliases": [
+          "Gratuities"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Greetings",
+        "aliases": [
+          "How to greet people"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Removing shoes",
+        "aliases": [
+          "Shoes indoors"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Appropriate clothing",
+        "aliases": [
+          "Dress code"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Table manners",
+        "aliases": [
+          "Dining etiquette"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hand gestures",
+        "aliases": [
+          "Gestures"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-369",
+    "category": "Travel & places",
+    "prompt": "Name a phrase travelers often learn in another language.",
+    "answers": [
+      {
+        "text": "Hello",
+        "aliases": [
+          "Good morning"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Thank you",
+        "aliases": [
+          "Thanks"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Please",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Goodbye",
+        "aliases": [
+          "See you later"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Excuse me",
+        "aliases": [
+          "Pardon me"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Where is the bathroom?",
+        "aliases": [
+          "Where is the restroom"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-370",
+    "category": "Travel & places",
+    "prompt": "Name a sound that can add character to a sightseeing walk in a city.",
+    "answers": [
+      {
+        "text": "Church bells",
+        "aliases": [
+          "Bells ringing"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Street musicians",
+        "aliases": [
+          "Buskers"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Market vendors",
+        "aliases": [
+          "Vendors calling"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Traffic",
+        "aliases": [
+          "Car horns"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Fountain water",
+        "aliases": [
+          "Splashing fountains"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Trams",
+        "aliases": [
+          "Streetcars"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-371",
+    "category": "Travel & places",
+    "prompt": "Name a smell that might tempt a tourist at a street food market.",
+    "answers": [
+      {
+        "text": "Grilled meat",
+        "aliases": [
+          "Barbecue"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Fresh bread",
+        "aliases": [
+          "Baking bread"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Spices",
+        "aliases": [
+          "Spiced food"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Coffee",
+        "aliases": [
+          "Roasting coffee"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Sweet pastries",
+        "aliases": [
+          "Baked sweets"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Fried food",
+        "aliases": [
+          "Frying oil"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-372",
+    "category": "Travel & places",
+    "prompt": "Name a street performer tourists might stop to watch.",
+    "answers": [
+      {
+        "text": "Musician",
+        "aliases": [
+          "Busker"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Magician",
+        "aliases": [
+          "Conjurer"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Juggler",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Mime",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Dancer",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Living statue",
+        "aliases": [
+          "Human statue"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-373",
+    "category": "Travel & places",
+    "prompt": "Name a new use a historic building might have today.",
+    "answers": [
+      {
+        "text": "Museum",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Hotel",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Library",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Restaurant",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Event venue",
+        "aliases": [
+          "Wedding venue"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Government office",
+        "aliases": [
+          "Civic offices"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-374",
+    "category": "Travel & places",
+    "prompt": "Name an industrial site that might be turned into a tourist attraction.",
+    "answers": [
+      {
+        "text": "Factory",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Mine",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Mill",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Railway station",
+        "aliases": [
+          "Train station"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Dockyard",
+        "aliases": [
+          "Shipyard"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Warehouse",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-375",
+    "category": "Travel & places",
+    "prompt": "Name something that makes a local festival appealing to tourists.",
+    "answers": [
+      {
+        "text": "Parade",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Food stalls",
+        "aliases": [
+          "Local food"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Live music",
+        "aliases": [
+          "Bands"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Dancing",
+        "aliases": [
+          "Dance performances"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Costumes",
+        "aliases": [
+          "Traditional dress"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Fireworks",
+        "aliases": [
+          "Firework display"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-376",
+    "category": "Travel & places",
+    "prompt": "Name something visitors might see at a historical reenactment.",
+    "answers": [
+      {
+        "text": "Period costumes",
+        "aliases": [
+          "Historical clothing"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Traditional cooking",
+        "aliases": [
+          "Old fashioned cooking"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Horse riders",
+        "aliases": [
+          "Cavalry"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Craft demonstration",
+        "aliases": [
+          "Traditional crafts"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Historical speeches",
+        "aliases": [
+          "Actors giving speeches"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Old instruments",
+        "aliases": [
+          "Period music"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-377",
+    "category": "Travel & places",
+    "prompt": "Name a place a family might explore at a living history village.",
+    "answers": [
+      {
+        "text": "Blacksmith shop",
+        "aliases": [
+          "Smithy"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Bakery",
+        "aliases": [
+          "Bakehouse"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Schoolhouse",
+        "aliases": [
+          "Old school"
+        ],
+        "points": 19
+      },
+      {
+        "text": "General store",
+        "aliases": [
+          "Village shop"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Mill",
+        "aliases": [
+          "Gristmill"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Print shop",
+        "aliases": [
+          "Printing press"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-378",
+    "category": "Travel & places",
+    "prompt": "Name a reason a museum visitor might not finish seeing every exhibit.",
+    "answers": [
+      {
+        "text": "Museum closes",
+        "aliases": [
+          "Closing time"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Tired children",
+        "aliases": [
+          "Kids get tired"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Another reservation",
+        "aliases": [
+          "Next appointment"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Hunger",
+        "aliases": [
+          "Need to eat"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Collection is too large",
+        "aliases": [
+          "Too much to see"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Long exhibit queues",
+        "aliases": [
+          "Waiting for displays"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-379",
+    "category": "Travel & places",
+    "prompt": "Name an accessibility feature someone might check for at a tourist attraction.",
+    "answers": [
+      {
+        "text": "Elevator",
+        "aliases": [
+          "Lift"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Ramp",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Accessible restroom",
+        "aliases": [
+          "Disabled toilet"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Rest seating",
+        "aliases": [
+          "Benches"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Audio guide",
+        "aliases": [
+          "Spoken descriptions"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Accessible parking",
+        "aliases": [
+          "Disabled parking"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-380",
+    "category": "Travel & places",
+    "prompt": "Name a special museum event that might attract a repeat visitor.",
+    "answers": [
+      {
+        "text": "New exhibition",
+        "aliases": [
+          "Temporary exhibit"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Expert lecture",
+        "aliases": [
+          "Talk"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Creative workshop",
+        "aliases": [
+          "Art class"
+        ],
+        "points": 18
+      },
+      {
+        "text": "After hours tour",
+        "aliases": [
+          "Evening opening"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Live performance",
+        "aliases": [
+          "Museum concert"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Family activity day",
+        "aliases": [
+          "Family day"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-381",
+    "category": "Travel & places",
+    "prompt": "Name an unplanned discovery that can become a vacation highlight.",
+    "answers": [
+      {
+        "text": "Great local meal",
+        "aliases": [
+          "Unexpected restaurant"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Friendly local person",
+        "aliases": [
+          "Memorable conversation"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Street performance",
+        "aliases": [
+          "Busker show"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Small museum",
+        "aliases": [
+          "Little gallery"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Neighborhood festival",
+        "aliases": [
+          "Local celebration"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Hidden courtyard",
+        "aliases": [
+          "Secret garden"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-382",
+    "category": "Travel & places",
+    "prompt": "Name something a visitor might admire inside a famous public library.",
+    "answers": [
+      {
+        "text": "Reading room",
+        "aliases": [
+          "Grand reading room"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Rare books",
+        "aliases": [
+          "Historic books"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Ornate ceiling",
+        "aliases": [
+          "Decorated ceiling"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Old globe",
+        "aliases": [
+          "Historic globe"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Special exhibition",
+        "aliases": [
+          "Temporary display"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Wooden bookcases",
+        "aliases": [
+          "Carved shelves"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-383",
+    "category": "Travel & places",
+    "prompt": "Name a theme for a specialty walking tour.",
+    "answers": [
+      {
+        "text": "Food",
+        "aliases": [
+          "Food tasting"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Ghost stories",
+        "aliases": [
+          "Haunted places"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Architecture",
+        "aliases": [
+          "Buildings"
+        ],
+        "points": 18
+      },
+      {
+        "text": "History",
+        "aliases": [
+          "Historical events"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Street art",
+        "aliases": [
+          "Murals"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Movie locations",
+        "aliases": [
+          "Film locations"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-384",
+    "category": "Travel & places",
+    "prompt": "Name something tourists might admire on a city tour after dark.",
+    "answers": [
+      {
+        "text": "Illuminated bridge",
+        "aliases": [
+          "Lit bridge"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Lit monuments",
+        "aliases": [
+          "Illuminated landmarks"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Dancing fountains",
+        "aliases": [
+          "Lighted fountains"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Theater district",
+        "aliases": [
+          "Theater lights"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Skyline",
+        "aliases": [
+          "City lights"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Night market",
+        "aliases": [
+          "Evening market"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-385",
+    "category": "Travel & places",
+    "prompt": "Name something tourists might notice while crossing a famous city bridge.",
+    "answers": [
+      {
+        "text": "River below",
+        "aliases": [
+          "Water below"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Passing boats",
+        "aliases": [
+          "Boats"
+        ],
+        "points": 23
+      },
+      {
+        "text": "City skyline",
+        "aliases": [
+          "Buildings"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Street musicians",
+        "aliases": [
+          "Buskers"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Love locks",
+        "aliases": [
+          "Padlocks"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Statues",
+        "aliases": [
+          "Sculptures"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-386",
+    "category": "Travel & places",
+    "prompt": "Name something an art museum audio guide might explain about a painting.",
+    "answers": [
+      {
+        "text": "Artist's life",
+        "aliases": [
+          "Artist biography"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Historical context",
+        "aliases": [
+          "History of the period"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Hidden symbolism",
+        "aliases": [
+          "Meaning of symbols"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Painting technique",
+        "aliases": [
+          "How it was painted"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Materials used",
+        "aliases": [
+          "Paint and canvas"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Restoration work",
+        "aliases": [
+          "Conservation"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-387",
+    "category": "Travel & places",
+    "prompt": "Name something a visitor might ask a museum employee about.",
+    "answers": [
+      {
+        "text": "Restroom location",
+        "aliases": [
+          "Where the toilets are"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Temporary exhibitions",
+        "aliases": [
+          "Special exhibits"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Coat check",
+        "aliases": [
+          "Cloakroom"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Closing time",
+        "aliases": [
+          "When it closes"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Photography rules",
+        "aliases": [
+          "Photo permission"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Accessibility",
+        "aliases": [
+          "Wheelchair access"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-388",
+    "category": "Travel & places",
+    "prompt": "Name a hands-on class someone might take while on vacation.",
+    "answers": [
+      {
+        "text": "Cooking",
+        "aliases": [
+          "Local cooking class"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Pottery",
+        "aliases": [
+          "Ceramics"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Painting",
+        "aliases": [
+          "Art class"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Weaving",
+        "aliases": [
+          "Textile class"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Gardening",
+        "aliases": [
+          "Plant workshop"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Jewelry making",
+        "aliases": [
+          "Silversmithing"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-389",
+    "category": "Travel & places",
+    "prompt": "Name a topic a local history tour might cover.",
+    "answers": [
+      {
+        "text": "Famous residents",
+        "aliases": [
+          "Notable people"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Historic battles",
+        "aliases": [
+          "Wars"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Great fires",
+        "aliases": [
+          "City fires"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Local industry",
+        "aliases": [
+          "Traditional trades"
+        ],
+        "points": 14
+      },
+      {
+        "text": "City founding",
+        "aliases": [
+          "Origins of the city"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Immigration",
+        "aliases": [
+          "People settling there"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-390",
+    "category": "Travel & places",
+    "prompt": "Name something a traveler might write about on a postcard.",
+    "answers": [
+      {
+        "text": "Weather",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Food",
+        "aliases": [
+          "Meals"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Places visited",
+        "aliases": [
+          "Sights"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Funny incident",
+        "aliases": [
+          "Amusing story"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Travel companions",
+        "aliases": [
+          "Who they are with"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Next destination",
+        "aliases": [
+          "Where they go next"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-391",
+    "category": "Travel & places",
+    "prompt": "Name a vacation moment someone might describe as the highlight of the trip.",
+    "answers": [
+      {
+        "text": "Wonderful meal",
+        "aliases": [
+          "Great food"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Surprise view",
+        "aliases": [
+          "Unexpected scenery"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Amazing show",
+        "aliases": [
+          "Great performance"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Making a friend",
+        "aliases": [
+          "Meeting someone"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Trying a new activity",
+        "aliases": [
+          "First time experience"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Special family moment",
+        "aliases": [
+          "Time with family"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-392",
+    "category": "Travel & places",
+    "prompt": "Name a reason a famous landmark might disappoint a visitor.",
+    "answers": [
+      {
+        "text": "Too crowded",
+        "aliases": [
+          "Too many people"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Covered in scaffolding",
+        "aliases": [
+          "Under renovation"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Smaller than expected",
+        "aliases": [
+          "Looked small"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Expensive admission",
+        "aliases": [
+          "Costs too much"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Bad weather",
+        "aliases": [
+          "Poor visibility"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Unfriendly service",
+        "aliases": [
+          "Rude staff"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-393",
+    "category": "Travel & places",
+    "prompt": "Name a material visitors might see used in sculptures at an art museum.",
+    "answers": [
+      {
+        "text": "Bronze",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Marble",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Wood",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Clay",
+        "aliases": [
+          "Terracotta"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Glass",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Steel",
+        "aliases": [
+          "Stainless steel"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-394",
+    "category": "Travel & places",
+    "prompt": "Name something a tourist might pick up at a visitor information center.",
+    "answers": [
+      {
+        "text": "Map",
+        "aliases": [
+          "Street map"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Event calendar",
+        "aliases": [
+          "What's on guide"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Local history booklet",
+        "aliases": [
+          "History pamphlet"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Tour brochure",
+        "aliases": [
+          "Tour leaflet"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Restaurant guide",
+        "aliases": [
+          "Dining guide"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Discount coupon",
+        "aliases": [
+          "Voucher"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-395",
+    "category": "Travel & places",
+    "prompt": "Name an extra service visitors appreciate at a major attraction.",
+    "answers": [
+      {
+        "text": "Audio guide",
+        "aliases": [
+          "Audio tour"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Free map",
+        "aliases": [
+          "Site map"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Locker",
+        "aliases": [
+          "Bag storage"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Shuttle",
+        "aliases": [
+          "Courtesy bus"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Wi-Fi",
+        "aliases": [
+          "Internet access"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Water refill station",
+        "aliases": [
+          "Drinking fountain"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-396",
+    "category": "Travel & places",
+    "prompt": "Name something tourists might be asked to find in a city scavenger hunt.",
+    "answers": [
+      {
+        "text": "Statue",
+        "aliases": [
+          "Sculpture"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Fountain",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Historical plaque",
+        "aliases": [
+          "Commemorative plaque"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Mural",
+        "aliases": [
+          "Wall painting"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Public clock",
+        "aliases": [
+          "Clock tower"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Gargoyle",
+        "aliases": [
+          "Stone creature"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-397",
+    "category": "Travel & places",
+    "prompt": "Name something visitors might see on a behind-the-scenes tour of a historic theater.",
+    "answers": [
+      {
+        "text": "Stage",
+        "aliases": [
+          "Main stage"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Dressing room",
+        "aliases": [
+          "Actors dressing room"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Costumes",
+        "aliases": [
+          "Stage clothes"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Scenery workshop",
+        "aliases": [
+          "Set workshop"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Prop collection",
+        "aliases": [
+          "Stage props"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Orchestra pit",
+        "aliases": [
+          "Musicians pit"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-398",
+    "category": "Travel & places",
+    "prompt": "Name something that helps keep children interested in a historic site.",
+    "answers": [
+      {
+        "text": "Scavenger hunt",
+        "aliases": [
+          "Treasure hunt"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Hands-on demonstration",
+        "aliases": [
+          "Interactive demonstration"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Dress-up costumes",
+        "aliases": [
+          "Period dress up"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Short stories",
+        "aliases": [
+          "Interesting stories"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Quiz",
+        "aliases": [
+          "Trivia challenge"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Scale model",
+        "aliases": [
+          "Miniature model"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "travel-399",
+    "category": "Travel & places",
+    "prompt": "Name a way tourists get everyone into a group vacation photo.",
+    "answers": [
+      {
+        "text": "Camera timer",
+        "aliases": [
+          "Self timer"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Ask a stranger",
+        "aliases": [
+          "Ask someone nearby"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Tripod",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Selfie stick",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Wide angle selfie",
+        "aliases": [
+          "Group selfie"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Hire a photographer",
+        "aliases": [
+          "Professional photo"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "travel-400",
+    "category": "Travel & places",
+    "prompt": "Name a quality people value in a vacation companion.",
+    "answers": [
+      {
+        "text": "Similar budget",
+        "aliases": [
+          "Same spending habits"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Shared interests",
+        "aliases": [
+          "Similar interests"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Patience",
+        "aliases": [
+          "Being patient"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Flexibility",
+        "aliases": [
+          "Willingness to compromise"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Sense of humor",
+        "aliases": [
+          "Good humor"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Reliability",
+        "aliases": [
+          "Dependability"
+        ],
+        "points": 6
+      }
+    ]
+  }
+]

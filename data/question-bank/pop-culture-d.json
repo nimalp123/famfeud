@@ -1,0 +1,4408 @@
+[
+  {
+    "id": "culture-221",
+    "category": "Pop culture",
+    "prompt": "Name a reason a reader gives up on a novel before finishing it.",
+    "answers": [
+      {
+        "text": "Slow plot",
+        "aliases": [
+          "Too slow"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Unlikable characters",
+        "aliases": [
+          "Cannot like the characters"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Confusing story",
+        "aliases": [
+          "Hard to follow"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Poor writing",
+        "aliases": [
+          "Bad writing"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Too upsetting",
+        "aliases": [
+          "Too sad"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Too long",
+        "aliases": [
+          "Length"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-222",
+    "category": "Pop culture",
+    "prompt": "Name an image on a book cover that suggests a mystery novel.",
+    "answers": [
+      {
+        "text": "Shadowy figure",
+        "aliases": [
+          "Silhouette"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Dark alley",
+        "aliases": [
+          "Empty alley"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Magnifying glass",
+        "aliases": [
+          "Detective glass"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Old mansion",
+        "aliases": [
+          "Large creepy house"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Locked door",
+        "aliases": [
+          "Closed door"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Crime scene tape",
+        "aliases": [
+          "Police tape"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-223",
+    "category": "Pop culture",
+    "prompt": "Name something readers want a back-cover blurb to tell them.",
+    "answers": [
+      {
+        "text": "Main problem",
+        "aliases": [
+          "Central conflict"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Who the hero is",
+        "aliases": [
+          "Main character"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Where it takes place",
+        "aliases": [
+          "Setting"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Type of story",
+        "aliases": [
+          "Genre"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Main character's goal",
+        "aliases": [
+          "What the hero wants"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Time period",
+        "aliases": [
+          "When it happens"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-224",
+    "category": "Pop culture",
+    "prompt": "Name something a reader might write down to keep track of a complicated novel.",
+    "answers": [
+      {
+        "text": "Character names",
+        "aliases": [
+          "Who is who"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Family relationships",
+        "aliases": [
+          "Family tree"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Timeline",
+        "aliases": [
+          "Order of events"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Important clues",
+        "aliases": [
+          "Mystery clues"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Place names",
+        "aliases": [
+          "Locations"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Favorite passages",
+        "aliases": [
+          "Memorable lines"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-225",
+    "category": "Pop culture",
+    "prompt": "Name something a book club might disagree about.",
+    "answers": [
+      {
+        "text": "The ending",
+        "aliases": [
+          "How it ends"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Favorite character",
+        "aliases": [
+          "Best character"
+        ],
+        "points": 24
+      },
+      {
+        "text": "What a scene means",
+        "aliases": [
+          "Interpretation"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Whether it was enjoyable",
+        "aliases": [
+          "Whether it was good"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A character's decision",
+        "aliases": [
+          "Character choices"
+        ],
+        "points": 9
+      },
+      {
+        "text": "What to read next",
+        "aliases": [
+          "Next book"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-226",
+    "category": "Pop culture",
+    "prompt": "Name a reading setting someone might adjust on an e-reader.",
+    "answers": [
+      {
+        "text": "Font size",
+        "aliases": [
+          "Text size"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Screen brightness",
+        "aliases": [
+          "Brightness"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Dark mode",
+        "aliases": [
+          "Night mode"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Font style",
+        "aliases": [
+          "Typeface"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Line spacing",
+        "aliases": [
+          "Space between lines"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Page margins",
+        "aliases": [
+          "Margin width"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-227",
+    "category": "Pop culture",
+    "prompt": "Name something about an audiobook narrator's voice that can bother a listener.",
+    "answers": [
+      {
+        "text": "Speaking too slowly",
+        "aliases": [
+          "Slow pace"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Speaking too fast",
+        "aliases": [
+          "Fast pace"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Flat delivery",
+        "aliases": [
+          "Monotone"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Hard-to-understand accent",
+        "aliases": [
+          "Unclear accent"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Mouth noises",
+        "aliases": [
+          "Lip smacking"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Silly character voices",
+        "aliases": [
+          "Bad character voices"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-228",
+    "category": "Pop culture",
+    "prompt": "Name a reason someone prefers a printed novel to an e-book.",
+    "answers": [
+      {
+        "text": "Feel of the pages",
+        "aliases": [
+          "Holding a real book"
+        ],
+        "points": 35
+      },
+      {
+        "text": "No battery needed",
+        "aliases": [
+          "Never needs charging"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Easier on the eyes",
+        "aliases": [
+          "Less screen time"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Collecting books",
+        "aliases": [
+          "Display on a shelf"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Smell of paper",
+        "aliases": [
+          "Book smell"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Easy to lend",
+        "aliases": [
+          "Lending to friends"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-229",
+    "category": "Pop culture",
+    "prompt": "Name a way a favorite paperback gets damaged.",
+    "answers": [
+      {
+        "text": "Bent pages",
+        "aliases": [
+          "Dog ears"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Spilled drink",
+        "aliases": [
+          "Water damage"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Broken spine",
+        "aliases": [
+          "Cracked spine"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Torn cover",
+        "aliases": [
+          "Ripped cover"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Food stains",
+        "aliases": [
+          "Greasy fingers"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Pet chews it",
+        "aliases": [
+          "Dog eats it"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-230",
+    "category": "Pop culture",
+    "prompt": "Name a source that helps a reader discover a new author.",
+    "answers": [
+      {
+        "text": "Friend's recommendation",
+        "aliases": [
+          "Word of mouth"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Librarian",
+        "aliases": [
+          "Library staff"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Book review",
+        "aliases": [
+          "Reviewer"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Social media",
+        "aliases": [
+          "Book posts"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Bookstore display",
+        "aliases": [
+          "Staff picks"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Book club",
+        "aliases": [
+          "Reading group"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-231",
+    "category": "Pop culture",
+    "prompt": "Name a situation where someone might listen to a novel instead of reading it.",
+    "answers": [
+      {
+        "text": "Driving",
+        "aliases": [
+          "Commuting"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Doing housework",
+        "aliases": [
+          "Cleaning"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Exercising",
+        "aliases": [
+          "Working out"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Walking the dog",
+        "aliases": [
+          "Dog walk"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Resting tired eyes",
+        "aliases": [
+          "Eye strain"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Cooking",
+        "aliases": [
+          "Preparing dinner"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-232",
+    "category": "Pop culture",
+    "prompt": "Name an activity a bookstore might host for readers.",
+    "answers": [
+      {
+        "text": "Author signing",
+        "aliases": [
+          "Book signing"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Book club meeting",
+        "aliases": [
+          "Reading group"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Story time",
+        "aliases": [
+          "Children's reading"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Author talk",
+        "aliases": [
+          "Writer interview"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Poetry reading",
+        "aliases": [
+          "Poetry night"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Writing workshop",
+        "aliases": [
+          "Writing class"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-233",
+    "category": "Pop culture",
+    "prompt": "Name a detail about a novel that a reader would consider a spoiler.",
+    "answers": [
+      {
+        "text": "Who dies",
+        "aliases": [
+          "Character death"
+        ],
+        "points": 30
+      },
+      {
+        "text": "The culprit's identity",
+        "aliases": [
+          "Who did it"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A surprise betrayal",
+        "aliases": [
+          "Who betrays whom"
+        ],
+        "points": 18
+      },
+      {
+        "text": "How it ends",
+        "aliases": [
+          "The ending"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A secret relationship",
+        "aliases": [
+          "Hidden family connection"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Whether a couple stays together",
+        "aliases": [
+          "Romantic outcome"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-234",
+    "category": "Pop culture",
+    "prompt": "Name something a novel might make a reader stop and look up.",
+    "answers": [
+      {
+        "text": "Unfamiliar word",
+        "aliases": [
+          "Word definition"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Historical event",
+        "aliases": [
+          "History reference"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A real location",
+        "aliases": [
+          "Place on a map"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Foreign phrase",
+        "aliases": [
+          "Translation"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Mythological creature",
+        "aliases": [
+          "Legendary creature"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A song mentioned",
+        "aliases": [
+          "Music reference"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-235",
+    "category": "Pop culture",
+    "prompt": "Name something a reader may notice when returning to a childhood favorite book as an adult.",
+    "answers": [
+      {
+        "text": "Hidden jokes",
+        "aliases": [
+          "Adult humor"
+        ],
+        "points": 28
+      },
+      {
+        "text": "A sadder meaning",
+        "aliases": [
+          "Darker themes"
+        ],
+        "points": 23
+      },
+      {
+        "text": "A parent's point of view",
+        "aliases": [
+          "Understanding the parents"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Dated attitudes",
+        "aliases": [
+          "Old-fashioned ideas"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Clues missed before",
+        "aliases": [
+          "Foreshadowing"
+        ],
+        "points": 10
+      },
+      {
+        "text": "How short it is",
+        "aliases": [
+          "Shorter than remembered"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-236",
+    "category": "Pop culture",
+    "prompt": "Name something that might inspire a novelist's next story.",
+    "answers": [
+      {
+        "text": "Personal experience",
+        "aliases": [
+          "Something that happened to them"
+        ],
+        "points": 35
+      },
+      {
+        "text": "A dream",
+        "aliases": [
+          "Night dream"
+        ],
+        "points": 25
+      },
+      {
+        "text": "News story",
+        "aliases": [
+          "Newspaper article"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Travel",
+        "aliases": [
+          "A place they visited"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Family history",
+        "aliases": [
+          "Ancestor's story"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A photograph",
+        "aliases": [
+          "Old picture"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-237",
+    "category": "Pop culture",
+    "prompt": "Name a change an editor might suggest to improve a novel.",
+    "answers": [
+      {
+        "text": "Shorten slow scenes",
+        "aliases": [
+          "Cut boring parts"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Clarify the ending",
+        "aliases": [
+          "Explain the ending"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Develop the characters",
+        "aliases": [
+          "Add character depth"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Improve dialogue",
+        "aliases": [
+          "Make conversation natural"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Fix plot holes",
+        "aliases": [
+          "Resolve contradictions"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Remove repetition",
+        "aliases": [
+          "Cut repeated information"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-238",
+    "category": "Pop culture",
+    "prompt": "Name a reason a writer might publish novels under a pen name.",
+    "answers": [
+      {
+        "text": "Privacy",
+        "aliases": [
+          "Hide their identity"
+        ],
+        "points": 32
+      },
+      {
+        "text": "A memorable name",
+        "aliases": [
+          "Catchier name"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Writing a different genre",
+        "aliases": [
+          "Separate genres"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Avoid confusion with another author",
+        "aliases": [
+          "Same name as someone"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Keep a day job separate",
+        "aliases": [
+          "Professional separation"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Write with a partner",
+        "aliases": [
+          "Shared author name"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-239",
+    "category": "Pop culture",
+    "prompt": "Name an extra feature readers might find at the back of a fantasy novel.",
+    "answers": [
+      {
+        "text": "Glossary",
+        "aliases": [
+          "Definitions"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Character list",
+        "aliases": [
+          "Cast list"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Family tree",
+        "aliases": [
+          "Genealogy"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Map",
+        "aliases": [
+          "World map"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Pronunciation guide",
+        "aliases": [
+          "How to say names"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Preview of the next book",
+        "aliases": [
+          "Sequel excerpt"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-240",
+    "category": "Pop culture",
+    "prompt": "Name a feature you would expect on a map of an imaginary kingdom.",
+    "answers": [
+      {
+        "text": "Mountains",
+        "aliases": [
+          "Mountain range"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Rivers",
+        "aliases": [
+          "Waterways"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Capital city",
+        "aliases": [
+          "Royal city"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Forests",
+        "aliases": [
+          "Woods"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Castles",
+        "aliases": [
+          "Fortresses"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Borders",
+        "aliases": [
+          "Boundaries"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-241",
+    "category": "Pop culture",
+    "prompt": "Name a flaw that makes a fictional hero more interesting.",
+    "answers": [
+      {
+        "text": "Stubbornness",
+        "aliases": [
+          "Too stubborn"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Hot temper",
+        "aliases": [
+          "Anger"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pride",
+        "aliases": [
+          "Arrogance"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Fear",
+        "aliases": [
+          "Cowardice"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Impatience",
+        "aliases": [
+          "Rushing in"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Self-doubt",
+        "aliases": [
+          "Lack of confidence"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-242",
+    "category": "Pop culture",
+    "prompt": "Name a format an author might use to tell a fictional story besides ordinary narration.",
+    "answers": [
+      {
+        "text": "Letters",
+        "aliases": [
+          "Correspondence"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Diary entries",
+        "aliases": [
+          "Journal entries"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Text messages",
+        "aliases": [
+          "Chat messages"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Poems",
+        "aliases": [
+          "Verse"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Newspaper articles",
+        "aliases": [
+          "News clippings"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Interviews",
+        "aliases": [
+          "Interview transcripts"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-243",
+    "category": "Pop culture",
+    "prompt": "Name something a character might inherit at the beginning of a novel.",
+    "answers": [
+      {
+        "text": "An old house",
+        "aliases": [
+          "A mansion"
+        ],
+        "points": 28
+      },
+      {
+        "text": "A fortune",
+        "aliases": [
+          "Money"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Jewelry",
+        "aliases": [
+          "Family jewels"
+        ],
+        "points": 19
+      },
+      {
+        "text": "A family business",
+        "aliases": [
+          "A shop"
+        ],
+        "points": 14
+      },
+      {
+        "text": "A royal title",
+        "aliases": [
+          "A noble title"
+        ],
+        "points": 10
+      },
+      {
+        "text": "A mysterious diary",
+        "aliases": [
+          "An old journal"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-244",
+    "category": "Pop culture",
+    "prompt": "Name a reason a character might resist being called the chosen one.",
+    "answers": [
+      {
+        "text": "Afraid of danger",
+        "aliases": [
+          "Fear"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Wants an ordinary life",
+        "aliases": [
+          "Wants normality"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Does not believe the prophecy",
+        "aliases": [
+          "Doubts the prediction"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Feels unqualified",
+        "aliases": [
+          "Not good enough"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Does not trust the messenger",
+        "aliases": [
+          "Suspicious of the mentor"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Wants to protect family",
+        "aliases": [
+          "Keep family safe"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-245",
+    "category": "Pop culture",
+    "prompt": "Name a disguise a storybook hero might use to get past guards.",
+    "answers": [
+      {
+        "text": "Servant",
+        "aliases": [
+          "Cleaner"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Merchant",
+        "aliases": [
+          "Trader"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Guard",
+        "aliases": [
+          "Soldier"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Beggar",
+        "aliases": [
+          "Poor traveler"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Entertainer",
+        "aliases": [
+          "Musician"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Noble",
+        "aliases": [
+          "Royal visitor"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-246",
+    "category": "Pop culture",
+    "prompt": "Name something a hero might give up to save other people in a story.",
+    "answers": [
+      {
+        "text": "Their powers",
+        "aliases": [
+          "Magic abilities"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Their freedom",
+        "aliases": [
+          "Go to prison"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Their fortune",
+        "aliases": [
+          "All their money"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Their home",
+        "aliases": [
+          "Leave home forever"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Their reputation",
+        "aliases": [
+          "Take the blame"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A treasured possession",
+        "aliases": [
+          "Precious keepsake"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-247",
+    "category": "Pop culture",
+    "prompt": "Name a habit a fictional detective might have when thinking hard.",
+    "answers": [
+      {
+        "text": "Pacing",
+        "aliases": [
+          "Walking back and forth"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Talking aloud",
+        "aliases": [
+          "Thinking out loud"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Tapping a pencil",
+        "aliases": [
+          "Tapping a pen"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Staring out a window",
+        "aliases": [
+          "Looking into the distance"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Drinking coffee",
+        "aliases": [
+          "Sipping coffee"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Playing with a small object",
+        "aliases": [
+          "Fidgeting"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-248",
+    "category": "Pop culture",
+    "prompt": "Name a sign that a storyteller within a novel may not be telling the truth.",
+    "answers": [
+      {
+        "text": "Their story changes",
+        "aliases": [
+          "Contradictions"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Other characters disagree",
+        "aliases": [
+          "Conflicting accounts"
+        ],
+        "points": 25
+      },
+      {
+        "text": "They hide key details",
+        "aliases": [
+          "Leave things out"
+        ],
+        "points": 16
+      },
+      {
+        "text": "They cannot remember events",
+        "aliases": [
+          "Memory gaps"
+        ],
+        "points": 11
+      },
+      {
+        "text": "They make constant excuses",
+        "aliases": [
+          "Justify everything"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Evidence disproves them",
+        "aliases": [
+          "Facts do not match"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-249",
+    "category": "Pop culture",
+    "prompt": "Name a reason two fictional rivals might become allies.",
+    "answers": [
+      {
+        "text": "A common enemy",
+        "aliases": [
+          "Shared enemy"
+        ],
+        "points": 30
+      },
+      {
+        "text": "One saves the other",
+        "aliases": [
+          "Rescue"
+        ],
+        "points": 24
+      },
+      {
+        "text": "They need each other's skills",
+        "aliases": [
+          "Complementary abilities"
+        ],
+        "points": 18
+      },
+      {
+        "text": "They discover a misunderstanding",
+        "aliases": [
+          "Clear up a mistake"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Their families are threatened",
+        "aliases": [
+          "Protect loved ones"
+        ],
+        "points": 9
+      },
+      {
+        "text": "They share a secret",
+        "aliases": [
+          "Shared secret"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-250",
+    "category": "Pop culture",
+    "prompt": "Name something a teen character might write about in a diary in a novel.",
+    "answers": [
+      {
+        "text": "A secret crush",
+        "aliases": [
+          "Someone they like"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Arguments with parents",
+        "aliases": [
+          "Family arguments"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Friendship troubles",
+        "aliases": [
+          "Problems with friends"
+        ],
+        "points": 18
+      },
+      {
+        "text": "School worries",
+        "aliases": [
+          "Stress about school"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Future goals",
+        "aliases": [
+          "Plans for adulthood"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Embarrassing moments",
+        "aliases": [
+          "Humiliating experiences"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-251",
+    "category": "Pop culture",
+    "prompt": "Name a reason a character betrays a friend in a novel.",
+    "answers": [
+      {
+        "text": "Money",
+        "aliases": [
+          "A bribe"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Jealousy",
+        "aliases": [
+          "Envy"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Fear",
+        "aliases": [
+          "Threatened"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Revenge",
+        "aliases": [
+          "Payback"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Ambition",
+        "aliases": [
+          "Wanting power"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Protecting a loved one",
+        "aliases": [
+          "Family in danger"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-252",
+    "category": "Pop culture",
+    "prompt": "Name a deed that might show a former villain has changed.",
+    "answers": [
+      {
+        "text": "Saves an enemy",
+        "aliases": [
+          "Rescues the hero"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Admits the truth",
+        "aliases": [
+          "Confesses"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Returns what they stole",
+        "aliases": [
+          "Gives back treasure"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Protects someone vulnerable",
+        "aliases": [
+          "Defends the weak"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Accepts punishment",
+        "aliases": [
+          "Takes responsibility"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Gives up power",
+        "aliases": [
+          "Surrenders control"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-253",
+    "category": "Pop culture",
+    "prompt": "Name a way a minor character can unexpectedly become important to a story.",
+    "answers": [
+      {
+        "text": "Knows a secret",
+        "aliases": [
+          "Has crucial information"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Has a needed skill",
+        "aliases": [
+          "Special ability"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Witnessed a key event",
+        "aliases": [
+          "Saw what happened"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Owns an important object",
+        "aliases": [
+          "Holds the missing item"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Is related to someone powerful",
+        "aliases": [
+          "Secret family connection"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Arrives with help",
+        "aliases": [
+          "Brings reinforcements"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-254",
+    "category": "Pop culture",
+    "prompt": "Name a prank a trickster character might play in a folktale.",
+    "answers": [
+      {
+        "text": "Swaps identities",
+        "aliases": [
+          "Pretends to be someone else"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Hides treasure",
+        "aliases": [
+          "Hides valuables"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Makes a false bargain",
+        "aliases": [
+          "Tricks someone into a deal"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Steals a meal",
+        "aliases": [
+          "Takes someone's food"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Spreads a silly rumor",
+        "aliases": [
+          "Makes up a story"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sends someone the wrong way",
+        "aliases": [
+          "Gives false directions"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-255",
+    "category": "Pop culture",
+    "prompt": "Name a reason a fictional character hesitates to become the group's leader.",
+    "answers": [
+      {
+        "text": "Fear of failure",
+        "aliases": [
+          "Afraid of making mistakes"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Lack of experience",
+        "aliases": [
+          "Never led before"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Guilt over a past mistake",
+        "aliases": [
+          "Failed before"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Does not want responsibility",
+        "aliases": [
+          "Too much pressure"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Another goal matters more",
+        "aliases": [
+          "Personal mission"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Does not trust the group",
+        "aliases": [
+          "Doubts the others"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-256",
+    "category": "Pop culture",
+    "prompt": "Name something a pirate captain might keep in a locked chest in an adventure novel.",
+    "answers": [
+      {
+        "text": "Gold",
+        "aliases": [
+          "Coins"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Jewels",
+        "aliases": [
+          "Gemstones"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Treasure map",
+        "aliases": [
+          "Map to treasure"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Secret letters",
+        "aliases": [
+          "Hidden correspondence"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Stolen crown",
+        "aliases": [
+          "Royal treasure"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ship's log",
+        "aliases": [
+          "Captain's journal"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-257",
+    "category": "Pop culture",
+    "prompt": "Name a marking on a treasure map that would excite an adventurer.",
+    "answers": [
+      {
+        "text": "An X",
+        "aliases": [
+          "X marks the spot"
+        ],
+        "points": 30
+      },
+      {
+        "text": "A skull",
+        "aliases": [
+          "Skull and crossbones"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A hidden cave",
+        "aliases": [
+          "Secret cave"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A dotted trail",
+        "aliases": [
+          "Dotted line"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A warning",
+        "aliases": [
+          "Danger sign"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A strange symbol",
+        "aliases": [
+          "Mysterious rune"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-258",
+    "category": "Pop culture",
+    "prompt": "Name an obstacle a knight might face on a quest.",
+    "answers": [
+      {
+        "text": "Dragon",
+        "aliases": [
+          "Fire-breathing monster"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Raging river",
+        "aliases": [
+          "Flooded river"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Bandits",
+        "aliases": [
+          "Robbers"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Locked fortress",
+        "aliases": [
+          "Sealed castle"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Treacherous mountain",
+        "aliases": [
+          "Dangerous mountain pass"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A difficult riddle",
+        "aliases": [
+          "Impossible puzzle"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-259",
+    "category": "Pop culture",
+    "prompt": "Name a way a princess in a fairy tale could escape a locked tower.",
+    "answers": [
+      {
+        "text": "Climb down a rope",
+        "aliases": [
+          "Rope ladder"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Find a secret passage",
+        "aliases": [
+          "Hidden tunnel"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Fly away",
+        "aliases": [
+          "Magic flight"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Trick the guard",
+        "aliases": [
+          "Distract the guard"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Pick the lock",
+        "aliases": [
+          "Unlock the door"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Ride a rescuing dragon",
+        "aliases": [
+          "Dragon rescue"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-260",
+    "category": "Pop culture",
+    "prompt": "Name something a dragon in a story might be guarding.",
+    "answers": [
+      {
+        "text": "Treasure",
+        "aliases": [
+          "Gold hoard"
+        ],
+        "points": 35
+      },
+      {
+        "text": "A castle",
+        "aliases": [
+          "Fortress"
+        ],
+        "points": 25
+      },
+      {
+        "text": "An egg",
+        "aliases": [
+          "Dragon egg"
+        ],
+        "points": 16
+      },
+      {
+        "text": "A captive",
+        "aliases": [
+          "Prisoner"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A magical object",
+        "aliases": [
+          "Enchanted artifact"
+        ],
+        "points": 8
+      },
+      {
+        "text": "An entrance",
+        "aliases": [
+          "Gateway"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-261",
+    "category": "Pop culture",
+    "prompt": "Name a problem a friendly giant might accidentally cause in a village.",
+    "answers": [
+      {
+        "text": "Breaks roofs",
+        "aliases": [
+          "Damages houses"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Crushes crops",
+        "aliases": [
+          "Steps on fields"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Makes the ground shake",
+        "aliases": [
+          "Earthquake footsteps"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Blocks the road",
+        "aliases": [
+          "Stops traffic"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Drinks all the water",
+        "aliases": [
+          "Empties the well"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Wakes everyone up",
+        "aliases": [
+          "Too noisy"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-262",
+    "category": "Pop culture",
+    "prompt": "Name a wish in a fairy tale that might backfire.",
+    "answers": [
+      {
+        "text": "Endless money",
+        "aliases": [
+          "Unlimited wealth"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Living forever",
+        "aliases": [
+          "Immortality"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Being famous",
+        "aliases": [
+          "Fame"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Being beautiful",
+        "aliases": [
+          "Perfect looks"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Controlling the weather",
+        "aliases": [
+          "Weather powers"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Never having to work",
+        "aliases": [
+          "No chores"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-263",
+    "category": "Pop culture",
+    "prompt": "Name an ingredient a storybook witch might add to a bubbling potion.",
+    "answers": [
+      {
+        "text": "Frog",
+        "aliases": [
+          "Toad"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Spider",
+        "aliases": [
+          "Spider legs"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Mushrooms",
+        "aliases": [
+          "Toadstools"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Strange herbs",
+        "aliases": [
+          "Magic herbs"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Dragon scale",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Bat wing",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-264",
+    "category": "Pop culture",
+    "prompt": "Name a sign that a forest in a fantasy story is enchanted.",
+    "answers": [
+      {
+        "text": "Trees whisper",
+        "aliases": [
+          "Talking trees"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Animals speak",
+        "aliases": [
+          "Talking animals"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Paths keep changing",
+        "aliases": [
+          "Moving paths"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Flowers glow",
+        "aliases": [
+          "Glowing plants"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Time behaves strangely",
+        "aliases": [
+          "Time moves differently"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Music has no source",
+        "aliases": [
+          "Mysterious music"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-265",
+    "category": "Pop culture",
+    "prompt": "Name a class students might take at a school for magic.",
+    "answers": [
+      {
+        "text": "Potion making",
+        "aliases": [
+          "Brewing potions"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Spell casting",
+        "aliases": [
+          "Spells"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Flying",
+        "aliases": [
+          "Broomstick lessons"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Magical creatures",
+        "aliases": [
+          "Creature care"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Fortune telling",
+        "aliases": [
+          "Divination"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Herbology",
+        "aliases": [
+          "Magic plants"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-266",
+    "category": "Pop culture",
+    "prompt": "Name an accident an inexperienced wizard might cause with a wand.",
+    "answers": [
+      {
+        "text": "Turns someone into an animal",
+        "aliases": [
+          "Animal transformation"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Sets something on fire",
+        "aliases": [
+          "Starts a fire"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Makes furniture float",
+        "aliases": [
+          "Levitates furniture"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Breaks a window",
+        "aliases": [
+          "Shatters glass"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Makes someone disappear",
+        "aliases": [
+          "Accidental invisibility"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Changes someone's hair color",
+        "aliases": [
+          "Recolors hair"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-267",
+    "category": "Pop culture",
+    "prompt": "Name an unpleasant effect a cursed object might have in a story.",
+    "answers": [
+      {
+        "text": "Bad luck",
+        "aliases": [
+          "Misfortune"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Nightmares",
+        "aliases": [
+          "Bad dreams"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Turns its owner into something",
+        "aliases": [
+          "Transformation"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Makes its owner greedy",
+        "aliases": [
+          "Obsession"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Traps its owner",
+        "aliases": [
+          "Cannot escape"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Rapid aging",
+        "aliases": [
+          "Makes someone old"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-268",
+    "category": "Pop culture",
+    "prompt": "Name something a fairy-tale character might need to break a curse.",
+    "answers": [
+      {
+        "text": "True love",
+        "aliases": [
+          "Love's kiss"
+        ],
+        "points": 35
+      },
+      {
+        "text": "A magic potion",
+        "aliases": [
+          "Enchanted medicine"
+        ],
+        "points": 25
+      },
+      {
+        "text": "A rare flower",
+        "aliases": [
+          "Special blossom"
+        ],
+        "points": 16
+      },
+      {
+        "text": "A brave deed",
+        "aliases": [
+          "Act of courage"
+        ],
+        "points": 11
+      },
+      {
+        "text": "An apology",
+        "aliases": [
+          "Make amends"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Return a stolen object",
+        "aliases": [
+          "Give back what was taken"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-269",
+    "category": "Pop culture",
+    "prompt": "Name a reason a wizard's spell might fail in a fantasy story.",
+    "answers": [
+      {
+        "text": "Wrong words",
+        "aliases": [
+          "Mispronounced spell"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Missing ingredient",
+        "aliases": [
+          "Incomplete recipe"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Broken wand",
+        "aliases": [
+          "Damaged wand"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Loss of concentration",
+        "aliases": [
+          "Distracted"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Not enough power",
+        "aliases": [
+          "Too weak"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Wrong timing",
+        "aliases": [
+          "Wrong moon phase"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-270",
+    "category": "Pop culture",
+    "prompt": "Name a place in a story where a portal to another world might be hidden.",
+    "answers": [
+      {
+        "text": "Wardrobe",
+        "aliases": [
+          "Closet"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Mirror",
+        "aliases": [
+          "Looking glass"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Old tree",
+        "aliases": [
+          "Hollow tree"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cave",
+        "aliases": [
+          "Cavern"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Book",
+        "aliases": [
+          "Inside a book"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Painting",
+        "aliases": [
+          "Portrait"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-271",
+    "category": "Pop culture",
+    "prompt": "Name a useful thing a talking animal might do for a lost child in a story.",
+    "answers": [
+      {
+        "text": "Show the way home",
+        "aliases": [
+          "Give directions"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Warn of danger",
+        "aliases": [
+          "Sound a warning"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Find food",
+        "aliases": [
+          "Bring something to eat"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Carry a message",
+        "aliases": [
+          "Deliver a note"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Provide a ride",
+        "aliases": [
+          "Carry the child"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Find shelter",
+        "aliases": [
+          "Find a safe place"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-272",
+    "category": "Pop culture",
+    "prompt": "Name a feature that might make a book a collector's edition.",
+    "answers": [
+      {
+        "text": "Author's signature",
+        "aliases": [
+          "Signed by the author"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Special cover art",
+        "aliases": [
+          "Exclusive cover"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Extra illustrations",
+        "aliases": [
+          "Bonus artwork"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Deluxe binding",
+        "aliases": [
+          "Leather binding"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Numbered copy",
+        "aliases": [
+          "Limited numbered printing"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Presentation box",
+        "aliases": [
+          "Slipcase"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-273",
+    "category": "Pop culture",
+    "prompt": "Name an everyday problem an invisible character might have.",
+    "answers": [
+      {
+        "text": "People bump into them",
+        "aliases": [
+          "Gets walked into"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Cannot use a mirror",
+        "aliases": [
+          "Cannot see their reflection"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Clothes give them away",
+        "aliases": [
+          "Visible clothing"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cannot get attention",
+        "aliases": [
+          "Nobody notices them"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Gets locked out",
+        "aliases": [
+          "Door shuts on them"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Footprints reveal them",
+        "aliases": [
+          "Leaves tracks"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-274",
+    "category": "Pop culture",
+    "prompt": "Name a clue that a shapeshifter is impersonating a character in a fantasy novel.",
+    "answers": [
+      {
+        "text": "Does not know a shared memory",
+        "aliases": [
+          "Gets memories wrong"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Uses the wrong name",
+        "aliases": [
+          "Misnames a friend"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Eyes look different",
+        "aliases": [
+          "Wrong eye color"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Acts out of character",
+        "aliases": [
+          "Strange behavior"
+        ],
+        "points": 12
+      },
+      {
+        "text": "An animal notices",
+        "aliases": [
+          "Pet reacts badly"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A familiar scar is missing",
+        "aliases": [
+          "Missing birthmark"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-275",
+    "category": "Pop culture",
+    "prompt": "Name something a time traveler in a story might try hard not to change.",
+    "answers": [
+      {
+        "text": "Their parents meeting",
+        "aliases": [
+          "Family history"
+        ],
+        "points": 28
+      },
+      {
+        "text": "A famous historical event",
+        "aliases": [
+          "History"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Their own birth",
+        "aliases": [
+          "Being born"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Someone's survival",
+        "aliases": [
+          "Whether someone lives"
+        ],
+        "points": 14
+      },
+      {
+        "text": "An important invention",
+        "aliases": [
+          "Discovery"
+        ],
+        "points": 10
+      },
+      {
+        "text": "The outcome of a war",
+        "aliases": [
+          "War result"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-276",
+    "category": "Pop culture",
+    "prompt": "Name a secret a family might uncover about a haunted house in a novel.",
+    "answers": [
+      {
+        "text": "A hidden room",
+        "aliases": [
+          "Secret chamber"
+        ],
+        "points": 35
+      },
+      {
+        "text": "A former owner's tragedy",
+        "aliases": [
+          "Sad family history"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Buried treasure",
+        "aliases": [
+          "Hidden valuables"
+        ],
+        "points": 16
+      },
+      {
+        "text": "A trapped spirit",
+        "aliases": [
+          "Ghost cannot leave"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A false haunting",
+        "aliases": [
+          "Someone is pretending"
+        ],
+        "points": 8
+      },
+      {
+        "text": "An old promise",
+        "aliases": [
+          "Unfinished vow"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-277",
+    "category": "Pop culture",
+    "prompt": "Name a reason a ghost in a story might refuse to leave a house.",
+    "answers": [
+      {
+        "text": "Unfinished business",
+        "aliases": [
+          "Unresolved task"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Protecting family",
+        "aliases": [
+          "Watching over loved ones"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Lost love",
+        "aliases": [
+          "Waiting for a partner"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Hidden treasure",
+        "aliases": [
+          "Guarding valuables"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Seeking justice",
+        "aliases": [
+          "Wants the truth known"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Attached to the home",
+        "aliases": [
+          "Cannot let go of home"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-278",
+    "category": "Pop culture",
+    "prompt": "Name something about life on land that might puzzle a storybook mermaid.",
+    "answers": [
+      {
+        "text": "Shoes",
+        "aliases": [
+          "Footwear"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Walking",
+        "aliases": [
+          "Using legs"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cars",
+        "aliases": [
+          "Road traffic"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cooking fish",
+        "aliases": [
+          "Eating seafood"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Umbrellas",
+        "aliases": [
+          "Avoiding rain"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Paying for water",
+        "aliases": [
+          "Buying bottled water"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-279",
+    "category": "Pop culture",
+    "prompt": "Name something a vampire character might do to hide their secret.",
+    "answers": [
+      {
+        "text": "Work at night",
+        "aliases": [
+          "Night shift"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Avoid mirrors",
+        "aliases": [
+          "Stay away from reflections"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Wear sunglasses",
+        "aliases": [
+          "Hide eyes"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Blame an allergy",
+        "aliases": [
+          "Sun allergy excuse"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Skip shared meals",
+        "aliases": [
+          "Avoid eating with others"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Move frequently",
+        "aliases": [
+          "Change towns"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-280",
+    "category": "Pop culture",
+    "prompt": "Name a clue that a character in a fantasy novel might secretly be a werewolf.",
+    "answers": [
+      {
+        "text": "Vanishes at the full moon",
+        "aliases": [
+          "Full moon absences"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Howls",
+        "aliases": [
+          "Howling at night"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Has unexplained scratches",
+        "aliases": [
+          "Mystery injuries"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Reacts strangely to silver",
+        "aliases": [
+          "Avoids silver"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Has a powerful sense of smell",
+        "aliases": [
+          "Smells everything"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Wakes in the woods",
+        "aliases": [
+          "Cannot explain nighttime trips"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-281",
+    "category": "Pop culture",
+    "prompt": "Name something colonists on a fictional distant planet might miss about Earth.",
+    "answers": [
+      {
+        "text": "Family",
+        "aliases": [
+          "Loved ones"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Fresh food",
+        "aliases": [
+          "Home cooking"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Oceans",
+        "aliases": [
+          "The sea"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Trees",
+        "aliases": [
+          "Green forests"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Familiar animals",
+        "aliases": [
+          "Pets"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Blue sky",
+        "aliases": [
+          "Earth's sky"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-282",
+    "category": "Pop culture",
+    "prompt": "Name a human experience a robot character might find hard to understand.",
+    "answers": [
+      {
+        "text": "Love",
+        "aliases": [
+          "Falling in love"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Humor",
+        "aliases": [
+          "Jokes"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Crying",
+        "aliases": [
+          "Tears"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Dreaming",
+        "aliases": [
+          "Dreams"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Jealousy",
+        "aliases": [
+          "Envy"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Lying",
+        "aliases": [
+          "Dishonesty"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-283",
+    "category": "Pop culture",
+    "prompt": "Name something a controlling government might ban in a dystopian novel.",
+    "answers": [
+      {
+        "text": "Books",
+        "aliases": [
+          "Reading"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Music",
+        "aliases": [
+          "Songs"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Travel",
+        "aliases": [
+          "Leaving town"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Private conversations",
+        "aliases": [
+          "Secret meetings"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Independent news",
+        "aliases": [
+          "Free press"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Personal names",
+        "aliases": [
+          "Individual names"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-284",
+    "category": "Pop culture",
+    "prompt": "Name a hidden problem beneath a seemingly perfect society in a novel.",
+    "answers": [
+      {
+        "text": "Constant surveillance",
+        "aliases": [
+          "Everyone is watched"
+        ],
+        "points": 35
+      },
+      {
+        "text": "No freedom of choice",
+        "aliases": [
+          "Controlled lives"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Hidden poverty",
+        "aliases": [
+          "Poor people kept out of sight"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Erased memories",
+        "aliases": [
+          "Memory control"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Pollution outside its borders",
+        "aliases": [
+          "Hidden environmental damage"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Unfair treatment of outsiders",
+        "aliases": [
+          "Exclusion"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-285",
+    "category": "Pop culture",
+    "prompt": "Name an item survivors in a post-apocalyptic novel might trade for food.",
+    "answers": [
+      {
+        "text": "Medicine",
+        "aliases": [
+          "Medical supplies"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Batteries",
+        "aliases": [
+          "Battery power"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Tools",
+        "aliases": [
+          "Useful equipment"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Clean water",
+        "aliases": [
+          "Drinking water"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Fuel",
+        "aliases": [
+          "Gasoline"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Seeds",
+        "aliases": [
+          "Seeds for planting"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-286",
+    "category": "Pop culture",
+    "prompt": "Name an excuse a superhero might give for disappearing from their everyday job.",
+    "answers": [
+      {
+        "text": "Bathroom break",
+        "aliases": [
+          "Going to the restroom"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Feeling sick",
+        "aliases": [
+          "Sudden illness"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Family emergency",
+        "aliases": [
+          "Urgent family problem"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Forgot something",
+        "aliases": [
+          "Left something at home"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Important phone call",
+        "aliases": [
+          "Taking a call"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Errand",
+        "aliases": [
+          "Running an errand"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-287",
+    "category": "Pop culture",
+    "prompt": "Name an inconvenient drawback a superpower might have in a comic book.",
+    "answers": [
+      {
+        "text": "Exhaustion",
+        "aliases": [
+          "Drains energy"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Hard to control",
+        "aliases": [
+          "Accidental activation"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Damages belongings",
+        "aliases": [
+          "Breaks things"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Reveals a secret identity",
+        "aliases": [
+          "Attracts attention"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Needs recharging",
+        "aliases": [
+          "Runs out of power"
+        ],
+        "points": 10
+      },
+      {
+        "text": "A strange weakness",
+        "aliases": [
+          "Specific vulnerability"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-288",
+    "category": "Pop culture",
+    "prompt": "Name something a team of superheroes might argue about.",
+    "answers": [
+      {
+        "text": "Who is in charge",
+        "aliases": [
+          "Leadership"
+        ],
+        "points": 35
+      },
+      {
+        "text": "How to stop the villain",
+        "aliases": [
+          "The plan"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Keeping secrets",
+        "aliases": [
+          "Hidden information"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Who gets the credit",
+        "aliases": [
+          "Recognition"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Rules about using powers",
+        "aliases": [
+          "Power limits"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Damage to the city",
+        "aliases": [
+          "Collateral damage"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-289",
+    "category": "Pop culture",
+    "prompt": "Name a visual trick comic artists use to show movement.",
+    "answers": [
+      {
+        "text": "Speed lines",
+        "aliases": [
+          "Motion lines"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Blurred background",
+        "aliases": [
+          "Motion blur"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Repeated outlines",
+        "aliases": [
+          "Multiple positions"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Flying dust",
+        "aliases": [
+          "Dust cloud"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A tilted panel",
+        "aliases": [
+          "Angled panel"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Flowing clothes",
+        "aliases": [
+          "Windblown cape"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-290",
+    "category": "Pop culture",
+    "prompt": "Name a sound a comic book might show with large printed letters.",
+    "answers": [
+      {
+        "text": "Explosion",
+        "aliases": [
+          "Boom"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Punch",
+        "aliases": [
+          "Wham"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Crash",
+        "aliases": [
+          "Smash"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Door slam",
+        "aliases": [
+          "Bang"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Animal growl",
+        "aliases": [
+          "Grr"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Clock ticking",
+        "aliases": [
+          "Tick tock"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-291",
+    "category": "Pop culture",
+    "prompt": "Name a detail that helps a comic reader tell which character is speaking.",
+    "answers": [
+      {
+        "text": "Speech bubble tail",
+        "aliases": [
+          "Bubble pointer"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Lettering style",
+        "aliases": [
+          "Different font"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Bubble color",
+        "aliases": [
+          "Colored balloon"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Character's catchphrase",
+        "aliases": [
+          "Familiar phrase"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Face next to the words",
+        "aliases": [
+          "Speaker's picture"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Name in the dialogue",
+        "aliases": [
+          "Addressing someone by name"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-292",
+    "category": "Pop culture",
+    "prompt": "Name a feeling a comic artist might show with exaggerated marks around a character's face.",
+    "answers": [
+      {
+        "text": "Anger",
+        "aliases": [
+          "Fury"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Surprise",
+        "aliases": [
+          "Shock"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Embarrassment",
+        "aliases": [
+          "Blushing"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Confusion",
+        "aliases": [
+          "Puzzlement"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Love",
+        "aliases": [
+          "Affection"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Nervousness",
+        "aliases": [
+          "Anxiety"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-293",
+    "category": "Pop culture",
+    "prompt": "Name a way a comic hero might keep equipment close without carrying a backpack.",
+    "answers": [
+      {
+        "text": "Utility belt",
+        "aliases": [
+          "Tool belt"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Hidden pockets",
+        "aliases": [
+          "Secret pockets"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Wrist device",
+        "aliases": [
+          "Wrist gadget"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Inside boots",
+        "aliases": [
+          "Boot storage"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Inside a cape",
+        "aliases": [
+          "Cape pockets"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A companion carries it",
+        "aliases": [
+          "Sidekick holds it"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-294",
+    "category": "Pop culture",
+    "prompt": "Name a reason heroes from different comic series might clash when they first meet.",
+    "answers": [
+      {
+        "text": "Mistaken identity",
+        "aliases": [
+          "Mistake each other for villains"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Different methods",
+        "aliases": [
+          "Disagree on tactics"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Both want to lead",
+        "aliases": [
+          "Leadership rivalry"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A villain tricks them",
+        "aliases": [
+          "Manipulated into fighting"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Distrust of powers",
+        "aliases": [
+          "Fear unfamiliar abilities"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Competing missions",
+        "aliases": [
+          "Conflicting goals"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-295",
+    "category": "Pop culture",
+    "prompt": "Name a detail a graphic novel can show without describing it in words.",
+    "answers": [
+      {
+        "text": "Facial expression",
+        "aliases": [
+          "Emotion on a face"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Clothing",
+        "aliases": [
+          "What someone wears"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Room layout",
+        "aliases": [
+          "Where furniture is"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Weather",
+        "aliases": [
+          "Rain or sunshine"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Body language",
+        "aliases": [
+          "Posture"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Time of day",
+        "aliases": [
+          "Day or night"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-296",
+    "category": "Pop culture",
+    "prompt": "Name an event in a novel's opening chapter that might hook a reader.",
+    "answers": [
+      {
+        "text": "A disappearance",
+        "aliases": [
+          "Someone goes missing"
+        ],
+        "points": 35
+      },
+      {
+        "text": "A mysterious letter",
+        "aliases": [
+          "Unexpected message"
+        ],
+        "points": 25
+      },
+      {
+        "text": "A strange discovery",
+        "aliases": [
+          "Finding something unusual"
+        ],
+        "points": 16
+      },
+      {
+        "text": "A chase",
+        "aliases": [
+          "Pursuit"
+        ],
+        "points": 11
+      },
+      {
+        "text": "An unexpected visitor",
+        "aliases": [
+          "Stranger arrives"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A disaster",
+        "aliases": [
+          "Sudden catastrophe"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-297",
+    "category": "Pop culture",
+    "prompt": "Name something a reader might do when the library book they want is already checked out.",
+    "answers": [
+      {
+        "text": "Place a hold",
+        "aliases": [
+          "Join the waiting list"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Borrow the e-book",
+        "aliases": [
+          "Try the digital edition"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pick a different book",
+        "aliases": [
+          "Choose another title"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Try another library",
+        "aliases": [
+          "Check another branch"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Buy a copy",
+        "aliases": [
+          "Purchase the book"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Borrow from a friend",
+        "aliases": [
+          "Ask a friend for a copy"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-298",
+    "category": "Pop culture",
+    "prompt": "Name a feature children enjoy in an interactive picture book.",
+    "answers": [
+      {
+        "text": "Pop-up pictures",
+        "aliases": [
+          "Pictures that pop up"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Flaps to lift",
+        "aliases": [
+          "Lift-the-flap pages"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Textures to touch",
+        "aliases": [
+          "Touch-and-feel patches"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Sound buttons",
+        "aliases": [
+          "Buttons that play sounds"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Pull tabs",
+        "aliases": [
+          "Sliding tabs"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Scratch-and-sniff patches",
+        "aliases": [
+          "Scented spots"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-299",
+    "category": "Pop culture",
+    "prompt": "Name something readers often want from the final chapter of a novel.",
+    "answers": [
+      {
+        "text": "Loose ends resolved",
+        "aliases": [
+          "Answers to remaining questions"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Justice",
+        "aliases": [
+          "Villain faces consequences"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Characters reunited",
+        "aliases": [
+          "Happy reunion"
+        ],
+        "points": 19
+      },
+      {
+        "text": "A hopeful future",
+        "aliases": [
+          "Hope"
+        ],
+        "points": 14
+      },
+      {
+        "text": "An earned surprise",
+        "aliases": [
+          "Unexpected but believable ending"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Emotional closure",
+        "aliases": [
+          "Sense of completion"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-300",
+    "category": "Pop culture",
+    "prompt": "Name an update an epilogue might give about a novel's characters.",
+    "answers": [
+      {
+        "text": "Who got married",
+        "aliases": [
+          "Romantic future"
+        ],
+        "points": 35
+      },
+      {
+        "text": "What happened to their children",
+        "aliases": [
+          "Next generation"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Their new career",
+        "aliases": [
+          "Future job"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Where they live",
+        "aliases": [
+          "New home"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Whether peace lasted",
+        "aliases": [
+          "Future of the kingdom"
+        ],
+        "points": 8
+      },
+      {
+        "text": "An old friend's return",
+        "aliases": [
+          "Reunion years later"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-301",
+    "category": "Pop culture",
+    "prompt": "Name a lesson an animal fable might teach children.",
+    "answers": [
+      {
+        "text": "Be honest",
+        "aliases": [
+          "Tell the truth"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Do not be greedy",
+        "aliases": [
+          "Avoid greed"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Kindness is rewarded",
+        "aliases": [
+          "Be kind"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Slow and steady effort pays off",
+        "aliases": [
+          "Keep trying"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Do not judge by appearances",
+        "aliases": [
+          "Looks can deceive"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Work together",
+        "aliases": [
+          "Cooperation"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-302",
+    "category": "Pop culture",
+    "prompt": "Name a warning a fairy-tale character might ignore.",
+    "answers": [
+      {
+        "text": "Stay on the path",
+        "aliases": [
+          "Do not wander"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Do not open the door",
+        "aliases": [
+          "Keep the door shut"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Return before midnight",
+        "aliases": [
+          "Be home on time"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Do not eat the food",
+        "aliases": [
+          "Avoid the feast"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Do not trust the stranger",
+        "aliases": [
+          "Beware of strangers"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Do not touch the object",
+        "aliases": [
+          "Leave it alone"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-303",
+    "category": "Pop culture",
+    "prompt": "Name a way characters might travel during a storybook quest.",
+    "answers": [
+      {
+        "text": "On horseback",
+        "aliases": [
+          "Ride a horse"
+        ],
+        "points": 28
+      },
+      {
+        "text": "On foot",
+        "aliases": [
+          "Walking"
+        ],
+        "points": 23
+      },
+      {
+        "text": "By ship",
+        "aliases": [
+          "Sailing"
+        ],
+        "points": 19
+      },
+      {
+        "text": "On a dragon",
+        "aliases": [
+          "Dragonback"
+        ],
+        "points": 14
+      },
+      {
+        "text": "In a carriage",
+        "aliases": [
+          "Coach"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Through a magic portal",
+        "aliases": [
+          "Teleportation"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-304",
+    "category": "Pop culture",
+    "prompt": "Name something servants in a fictional palace might gossip about.",
+    "answers": [
+      {
+        "text": "A secret romance",
+        "aliases": [
+          "Forbidden love"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Who inherits the throne",
+        "aliases": [
+          "Royal succession"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Missing jewels",
+        "aliases": [
+          "Stolen treasure"
+        ],
+        "points": 16
+      },
+      {
+        "text": "The king's health",
+        "aliases": [
+          "Sick ruler"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A coming war",
+        "aliases": [
+          "Threat of invasion"
+        ],
+        "points": 8
+      },
+      {
+        "text": "An unexpected guest",
+        "aliases": [
+          "Mysterious visitor"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-305",
+    "category": "Pop culture",
+    "prompt": "Name something a secret society in a novel might require from a new member.",
+    "answers": [
+      {
+        "text": "Swear an oath",
+        "aliases": [
+          "Promise loyalty"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Know a password",
+        "aliases": [
+          "Secret phrase"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pass a test",
+        "aliases": [
+          "Prove themselves"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Wear a symbol",
+        "aliases": [
+          "Special badge"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Keep a secret",
+        "aliases": [
+          "Promise silence"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Bring a special object",
+        "aliases": [
+          "Membership token"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-306",
+    "category": "Pop culture",
+    "prompt": "Name something a traveler might buy in a magical shop.",
+    "answers": [
+      {
+        "text": "Potion",
+        "aliases": [
+          "Magic drink"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Wand",
+        "aliases": [
+          "Magic wand"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Flying broom",
+        "aliases": [
+          "Broomstick"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Enchanted ring",
+        "aliases": [
+          "Magic ring"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Crystal ball",
+        "aliases": [
+          "Fortune-telling orb"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Invisibility cloak",
+        "aliases": [
+          "Cloak of invisibility"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-307",
+    "category": "Pop culture",
+    "prompt": "Name a sign that a door in a fantasy story should probably stay closed.",
+    "answers": [
+      {
+        "text": "Warning written on it",
+        "aliases": [
+          "Danger sign"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Strange noises behind it",
+        "aliases": [
+          "Scratching inside"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Heavy chains",
+        "aliases": [
+          "Chained shut"
+        ],
+        "points": 19
+      },
+      {
+        "text": "An evil glow",
+        "aliases": [
+          "Unnatural light"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Skulls nearby",
+        "aliases": [
+          "Bones at the entrance"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Everyone fears it",
+        "aliases": [
+          "Locals refuse to approach"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-308",
+    "category": "Pop culture",
+    "prompt": "Name something adventurers might learn by listening to talk in a fantasy inn.",
+    "answers": [
+      {
+        "text": "Where treasure is hidden",
+        "aliases": [
+          "Treasure rumor"
+        ],
+        "points": 35
+      },
+      {
+        "text": "A monster is nearby",
+        "aliases": [
+          "Creature sighting"
+        ],
+        "points": 25
+      },
+      {
+        "text": "A road is dangerous",
+        "aliases": [
+          "Bandits on the road"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Someone needs rescuing",
+        "aliases": [
+          "Missing person"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A ruler has a secret",
+        "aliases": [
+          "Royal scandal"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A guide is available",
+        "aliases": [
+          "Someone knows the way"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-309",
+    "category": "Pop culture",
+    "prompt": "Name a reason a reader mixes up two characters in a novel.",
+    "answers": [
+      {
+        "text": "Similar names",
+        "aliases": [
+          "Names sound alike"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Too many characters",
+        "aliases": [
+          "Large cast"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Similar personalities",
+        "aliases": [
+          "Act alike"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Long gap between reading sessions",
+        "aliases": [
+          "Forgot who is who"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Characters have several titles",
+        "aliases": [
+          "Multiple names"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Little description",
+        "aliases": [
+          "Not enough detail"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-310",
+    "category": "Pop culture",
+    "prompt": "Name something that would make an imaginary world an appealing place to live.",
+    "answers": [
+      {
+        "text": "Helpful magic",
+        "aliases": [
+          "Magic makes life easier"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Friendly creatures",
+        "aliases": [
+          "Kind magical animals"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Beautiful scenery",
+        "aliases": [
+          "Amazing landscapes"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Peace",
+        "aliases": [
+          "No wars"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A welcoming community",
+        "aliases": [
+          "Good neighbors"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Exciting adventures",
+        "aliases": [
+          "Interesting quests"
+        ],
+        "points": 6
+      }
+    ]
+  }
+]

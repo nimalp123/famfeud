@@ -1,0 +1,3949 @@
+[
+  {
+    "id": "food-221",
+    "category": "Food & drink",
+    "prompt": "Name a side dish people look forward to at Thanksgiving.",
+    "answers": [
+      {
+        "text": "Stuffing",
+        "aliases": [
+          "dressing"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Mashed potatoes",
+        "aliases": [
+          "mash"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Green bean casserole",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Sweet potatoes",
+        "aliases": [
+          "candied yams"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Cranberry sauce",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Dinner rolls",
+        "aliases": [
+          "bread rolls"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-222",
+    "category": "Food & drink",
+    "prompt": "Name a main course a family might serve for Christmas dinner.",
+    "answers": [
+      {
+        "text": "Roast turkey",
+        "aliases": [
+          "turkey"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Ham",
+        "aliases": [
+          "glazed ham"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Roast beef",
+        "aliases": [
+          "prime rib"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Roast chicken",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Roast goose",
+        "aliases": [
+          "goose"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Nut roast",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-223",
+    "category": "Food & drink",
+    "prompt": "Name a savory food served at an Easter brunch.",
+    "answers": [
+      {
+        "text": "Ham",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Quiche",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Deviled eggs",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Breakfast casserole",
+        "aliases": [
+          "egg casserole"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Smoked salmon",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Potato gratin",
+        "aliases": [
+          "scalloped potatoes"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-224",
+    "category": "Food & drink",
+    "prompt": "Name a food families might share for Lunar New Year.",
+    "answers": [
+      {
+        "text": "Dumplings",
+        "aliases": [
+          "jiaozi"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Whole fish",
+        "aliases": [
+          "steamed fish"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Noodles",
+        "aliases": [
+          "longevity noodles"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Spring rolls",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Rice cakes",
+        "aliases": [
+          "nian gao"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Roast duck",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-225",
+    "category": "Food & drink",
+    "prompt": "Name a dish someone might serve guests at an Eid feast.",
+    "answers": [
+      {
+        "text": "Biryani",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Kebabs",
+        "aliases": [
+          "kabobs"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Korma",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Samosas",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Sheer khurma",
+        "aliases": [
+          "sweet vermicelli"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Baklava",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-226",
+    "category": "Food & drink",
+    "prompt": "Name a food you might find at a Hanukkah family meal.",
+    "answers": [
+      {
+        "text": "Latkes",
+        "aliases": [
+          "potato pancakes"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Doughnuts",
+        "aliases": [
+          "sufganiyot"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Brisket",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Applesauce",
+        "aliases": [
+          "apple sauce"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Kugel",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Roast chicken",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-227",
+    "category": "Food & drink",
+    "prompt": "Name something placed on the table for a Passover seder.",
+    "answers": [
+      {
+        "text": "Matzo",
+        "aliases": [
+          "matzah"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Bitter herbs",
+        "aliases": [
+          "maror"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Charoset",
+        "aliases": [
+          "haroset"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Roasted egg",
+        "aliases": [
+          "egg"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Shank bone",
+        "aliases": [
+          "zeroa"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Parsley",
+        "aliases": [
+          "karpas"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-228",
+    "category": "Food & drink",
+    "prompt": "Name a sweet families might share during Diwali.",
+    "answers": [
+      {
+        "text": "Laddoo",
+        "aliases": [
+          "laddu"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Rasmalai",
+        "aliases": [
+          "ras malai"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Jalebi",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Gulab jamun",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Kaju katli",
+        "aliases": [
+          "cashew sweets"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Halwa",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-229",
+    "category": "Food & drink",
+    "prompt": "Name a pie people might serve after Thanksgiving dinner.",
+    "answers": [
+      {
+        "text": "Pumpkin pie",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Apple pie",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Pecan pie",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Sweet potato pie",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Cherry pie",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Chocolate cream pie",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-230",
+    "category": "Food & drink",
+    "prompt": "Name a food people eat at New Year because it is considered lucky.",
+    "answers": [
+      {
+        "text": "Black-eyed peas",
+        "aliases": [
+          "black eyed beans"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Grapes",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Lentils",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Long noodles",
+        "aliases": [
+          "noodles"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Leafy greens",
+        "aliases": [
+          "collard greens"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pork",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-231",
+    "category": "Food & drink",
+    "prompt": "Name a main dish someone might cook for a romantic dinner at home.",
+    "answers": [
+      {
+        "text": "Steak",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Pasta",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Salmon",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Roast chicken",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Lobster",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Risotto",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-232",
+    "category": "Food & drink",
+    "prompt": "Name something that can go wrong when serving breakfast in bed.",
+    "answers": [
+      {
+        "text": "Spill a drink",
+        "aliases": [
+          "spilled coffee"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Drop crumbs",
+        "aliases": [
+          "crumbs in bed"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Food gets cold",
+        "aliases": [
+          "cold food"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Tray tips over",
+        "aliases": [
+          "tipped tray"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Wake the person too early",
+        "aliases": [
+          "wake them up"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Forget the utensils",
+        "aliases": [
+          "no cutlery"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-233",
+    "category": "Food & drink",
+    "prompt": "Name a food people shape or decorate to look spooky for Halloween dinner.",
+    "answers": [
+      {
+        "text": "Hot dog mummies",
+        "aliases": [
+          "mummy dogs"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Pumpkin-shaped pizza",
+        "aliases": [
+          "pumpkin pizza"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Eyeball meatballs",
+        "aliases": [
+          "meatball eyeballs"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Spider deviled eggs",
+        "aliases": [
+          "spider eggs"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Stuffed pepper lanterns",
+        "aliases": [
+          "jack o lantern peppers"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Monster burgers",
+        "aliases": [
+          "monster sliders"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-234",
+    "category": "Food & drink",
+    "prompt": "Name a food that makes a Fourth of July cookout feel complete.",
+    "answers": [
+      {
+        "text": "Burgers",
+        "aliases": [
+          "hamburgers"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Hot dogs",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Corn on the cob",
+        "aliases": [
+          "grilled corn"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Barbecue ribs",
+        "aliases": [
+          "ribs"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Baked beans",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Watermelon",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-235",
+    "category": "Food & drink",
+    "prompt": "Name a hearty dish that can feed a crowd from one large pot.",
+    "answers": [
+      {
+        "text": "Chili",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Stew",
+        "aliases": [
+          "beef stew"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Soup",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Curry",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Jambalaya",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Spaghetti",
+        "aliases": [
+          "pasta"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-236",
+    "category": "Food & drink",
+    "prompt": "Name a food station where party guests can build their own meal.",
+    "answers": [
+      {
+        "text": "Taco bar",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Baked potato bar",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Pasta bar",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Salad bar",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Pizza station",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Rice bowl station",
+        "aliases": [
+          "grain bowl bar"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-237",
+    "category": "Food & drink",
+    "prompt": "Name something served from a carving station at a celebration.",
+    "answers": [
+      {
+        "text": "Roast beef",
+        "aliases": [
+          "prime rib"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Turkey",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Ham",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Roast lamb",
+        "aliases": [
+          "lamb"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Roast pork",
+        "aliases": [
+          "pork loin"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Roast chicken",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-238",
+    "category": "Food & drink",
+    "prompt": "Name a problem that can interrupt an outdoor meal.",
+    "answers": [
+      {
+        "text": "Rain",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Insects",
+        "aliases": [
+          "bugs"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Strong wind",
+        "aliases": [
+          "wind"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Too much heat",
+        "aliases": [
+          "hot weather"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Not enough seating",
+        "aliases": [
+          "no chairs"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Food spills",
+        "aliases": [
+          "spilled food"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-239",
+    "category": "Food & drink",
+    "prompt": "Name something a host asks about before planning a meal for guests.",
+    "answers": [
+      {
+        "text": "Food allergies",
+        "aliases": [
+          "allergies"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Dietary restrictions",
+        "aliases": [
+          "special diet"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Food dislikes",
+        "aliases": [
+          "dislikes"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Number of guests",
+        "aliases": [
+          "head count"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Arrival time",
+        "aliases": [
+          "what time"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Favorite foods",
+        "aliases": [
+          "preferences"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-240",
+    "category": "Food & drink",
+    "prompt": "Name something guests want to know about an unfamiliar potluck dish.",
+    "answers": [
+      {
+        "text": "Ingredients",
+        "aliases": [
+          "what is in it"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Allergens",
+        "aliases": [
+          "allergy information"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Spice level",
+        "aliases": [
+          "how spicy"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Dish name",
+        "aliases": [
+          "what it is called"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Whether it is vegetarian",
+        "aliases": [
+          "vegetarian"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Whether it should be heated",
+        "aliases": [
+          "serve hot or cold"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-241",
+    "category": "Food & drink",
+    "prompt": "Name something that takes up too much room on a holiday dinner table.",
+    "answers": [
+      {
+        "text": "Serving dishes",
+        "aliases": [
+          "platters"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Centerpiece",
+        "aliases": [
+          "table decorations"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Oversized plates",
+        "aliases": [
+          "large plates",
+          "big plates"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Drinking glasses",
+        "aliases": [
+          "glasses"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Condiment bottles",
+        "aliases": [
+          "sauces"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Candles",
+        "aliases": [
+          "candle holders"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-242",
+    "category": "Food & drink",
+    "prompt": "Name a job a child can do to help set the dinner table.",
+    "answers": [
+      {
+        "text": "Put out plates",
+        "aliases": [
+          "set out plates"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Fold napkins",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Lay out utensils",
+        "aliases": [
+          "set out cutlery"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Arrange placemats",
+        "aliases": [
+          "put out placemats"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Set out cups",
+        "aliases": [
+          "put out glasses"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Place a centerpiece",
+        "aliases": [
+          "add table decorations"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-243",
+    "category": "Food & drink",
+    "prompt": "Name a food that is awkward to divide equally among a group.",
+    "answers": [
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Pie",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Cake",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Whole chicken",
+        "aliases": [
+          "roast chicken"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Lasagna",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Rack of ribs",
+        "aliases": [
+          "ribs"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-244",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone arrives at a dinner party already full.",
+    "answers": [
+      {
+        "text": "Ate a late lunch",
+        "aliases": [
+          "late lunch"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Snacked on the way",
+        "aliases": [
+          "snacking"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Visited another party",
+        "aliases": [
+          "another party"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Forgot dinner was included",
+        "aliases": [
+          "did not expect food"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Stopped at a restaurant",
+        "aliases": [
+          "ate out first"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Tasted food while cooking",
+        "aliases": [
+          "cooking samples"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-245",
+    "category": "Food & drink",
+    "prompt": "Name a reason one potluck dish stays mostly untouched.",
+    "answers": [
+      {
+        "text": "Looks unappealing",
+        "aliases": [
+          "bad appearance"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Nobody knows what it is",
+        "aliases": [
+          "unfamiliar dish"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Too spicy",
+        "aliases": [
+          "spicy"
+        ],
+        "points": 18
+      },
+      {
+        "text": "It is cold",
+        "aliases": [
+          "cold food"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Another dish is more popular",
+        "aliases": [
+          "better choices"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Hard to serve",
+        "aliases": [
+          "no serving spoon"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-246",
+    "category": "Food & drink",
+    "prompt": "Name a food people expect at a backyard seafood boil.",
+    "answers": [
+      {
+        "text": "Shrimp",
+        "aliases": [
+          "prawns"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Corn on the cob",
+        "aliases": [
+          "corn"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Potatoes",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Sausage",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Crab",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Crawfish",
+        "aliases": [
+          "crayfish"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-247",
+    "category": "Food & drink",
+    "prompt": "Name a food people dip into cheese fondue at a shared meal.",
+    "answers": [
+      {
+        "text": "Bread",
+        "aliases": [
+          "bread cubes"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Potatoes",
+        "aliases": [
+          "baby potatoes"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Apples",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Broccoli",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Sausage",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Mushrooms",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-248",
+    "category": "Food & drink",
+    "prompt": "Name a barbecue food guests might wait hours for.",
+    "answers": [
+      {
+        "text": "Brisket",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Ribs",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Pulled pork",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Whole chicken",
+        "aliases": [
+          "smoked chicken"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Turkey",
+        "aliases": [
+          "smoked turkey"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Baked beans",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-249",
+    "category": "Food & drink",
+    "prompt": "Name something a dinner guest does that shows they loved the meal.",
+    "answers": [
+      {
+        "text": "Takes seconds",
+        "aliases": [
+          "second helping"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Compliments the cook",
+        "aliases": [
+          "praises the food"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Asks for the recipe",
+        "aliases": [
+          "recipe request"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Clears their plate",
+        "aliases": [
+          "finishes everything"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Asks to take leftovers",
+        "aliases": [
+          "take some home"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Takes a photo",
+        "aliases": [
+          "photographs the food"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-250",
+    "category": "Food & drink",
+    "prompt": "Name something that needs cleaning after a big family meal.",
+    "answers": [
+      {
+        "text": "Dishes",
+        "aliases": [
+          "plates and bowls"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Table",
+        "aliases": [
+          "dining table"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Floor",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Stove",
+        "aliases": [
+          "stovetop"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Grill",
+        "aliases": [
+          "barbecue"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Tablecloth",
+        "aliases": [
+          "table linen"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-251",
+    "category": "Food & drink",
+    "prompt": "Name a hot meal someone might want after a day of sledding.",
+    "answers": [
+      {
+        "text": "Soup",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Chili",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Stew",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Macaroni and cheese",
+        "aliases": [
+          "mac and cheese"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Grilled cheese",
+        "aliases": [
+          "toasted cheese sandwich"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Baked potato",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-252",
+    "category": "Food & drink",
+    "prompt": "Name a breakfast food people eat before an early sporting event.",
+    "answers": [
+      {
+        "text": "Oatmeal",
+        "aliases": [
+          "porridge"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Banana",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Toast",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Bagel",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Cereal",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Eggs",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-253",
+    "category": "Food & drink",
+    "prompt": "Name a reason a family packs a meal for a day out.",
+    "answers": [
+      {
+        "text": "Save money",
+        "aliases": [
+          "cheaper"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Dietary needs",
+        "aliases": [
+          "special diet"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Few places to buy food",
+        "aliases": [
+          "limited restaurants"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Children get hungry",
+        "aliases": [
+          "hungry kids"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Avoid waiting in lines",
+        "aliases": [
+          "avoid queues"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Use up leftovers",
+        "aliases": [
+          "leftovers"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-254",
+    "category": "Food & drink",
+    "prompt": "Name a main dish for a vegetarian cookout.",
+    "answers": [
+      {
+        "text": "Veggie burgers",
+        "aliases": [
+          "vegetarian burgers"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Stuffed peppers",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Portobello mushrooms",
+        "aliases": [
+          "mushroom steaks"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Grilled tofu",
+        "aliases": [
+          "tofu steaks"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Vegetable kebabs",
+        "aliases": [
+          "veggie skewers"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Veggie hot dogs",
+        "aliases": [
+          "vegetarian hot dogs"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-255",
+    "category": "Food & drink",
+    "prompt": "Name a breakfast food people grab on a rushed weekday.",
+    "answers": [
+      {
+        "text": "Cereal",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Toast",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Yogurt",
+        "aliases": [
+          "yoghurt"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Breakfast bar",
+        "aliases": [
+          "granola bar"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Fruit",
+        "aliases": [
+          "banana"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Instant oatmeal",
+        "aliases": [
+          "porridge"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-256",
+    "category": "Food & drink",
+    "prompt": "Name a breakfast dish people can prepare the night before.",
+    "answers": [
+      {
+        "text": "Overnight oats",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Breakfast casserole",
+        "aliases": [
+          "egg casserole"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Chia pudding",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Muffins",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Fruit salad",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Hard-boiled eggs",
+        "aliases": [
+          "boiled eggs"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-257",
+    "category": "Food & drink",
+    "prompt": "Name a meal someone might request for their birthday dinner at home.",
+    "answers": [
+      {
+        "text": "Steak",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Sushi",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Tacos",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Lasagna",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Fried chicken",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-258",
+    "category": "Food & drink",
+    "prompt": "Name a food family members often want cooked to different levels of doneness.",
+    "answers": [
+      {
+        "text": "Steak",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Eggs",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Toast",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Bacon",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Burgers",
+        "aliases": [
+          "hamburgers"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Vegetables",
+        "aliases": [
+          "cooked vegetables"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-259",
+    "category": "Food & drink",
+    "prompt": "Name something people serve with a bowl of tomato soup.",
+    "answers": [
+      {
+        "text": "Grilled cheese",
+        "aliases": [
+          "cheese toastie"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Bread",
+        "aliases": [
+          "bread roll"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Crackers",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Green salad",
+        "aliases": [
+          "side salad"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Baked potato",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Quesadilla",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-260",
+    "category": "Food & drink",
+    "prompt": "Name something served as part of a traditional Sunday roast.",
+    "answers": [
+      {
+        "text": "Roast beef",
+        "aliases": [
+          "beef"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Roast potatoes",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Carrots",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Yorkshire pudding",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Gravy",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Peas",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-261",
+    "category": "Food & drink",
+    "prompt": "Name something that interrupts a family dinner.",
+    "answers": [
+      {
+        "text": "Phone call",
+        "aliases": [
+          "ringing phone"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Doorbell",
+        "aliases": [
+          "someone at the door"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pet begging",
+        "aliases": [
+          "dog begging"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Spilled drink",
+        "aliases": [
+          "spill"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Television",
+        "aliases": [
+          "tv"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Crying baby",
+        "aliases": [
+          "baby crying"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-262",
+    "category": "Food & drink",
+    "prompt": "Name a topic families talk about during dinner.",
+    "answers": [
+      {
+        "text": "School",
+        "aliases": [
+          "school day"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Work",
+        "aliases": [
+          "work day"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Weekend plans",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "The food",
+        "aliases": [
+          "the meal"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Vacation plans",
+        "aliases": [
+          "holidays"
+        ],
+        "points": 8
+      },
+      {
+        "text": "News",
+        "aliases": [
+          "current events"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-263",
+    "category": "Food & drink",
+    "prompt": "Name a dinner dish a family might serve straight from its baking pan.",
+    "answers": [
+      {
+        "text": "Lasagna",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Baked ziti",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Baked macaroni and cheese",
+        "aliases": [
+          "baked mac and cheese"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Shepherds pie",
+        "aliases": [
+          "cottage pie"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Enchiladas",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Roast vegetables",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-264",
+    "category": "Food & drink",
+    "prompt": "Name a reason family members eat dinner at different times.",
+    "answers": [
+      {
+        "text": "Work schedules",
+        "aliases": [
+          "shift work"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Sports practice",
+        "aliases": [
+          "after school sports"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Late commute",
+        "aliases": [
+          "traffic"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Different appetites",
+        "aliases": [
+          "not hungry yet"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Homework",
+        "aliases": [
+          "studying"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Different bedtimes",
+        "aliases": [
+          "early bedtime"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-265",
+    "category": "Food & drink",
+    "prompt": "Name something a parent reminds a child to do at mealtime.",
+    "answers": [
+      {
+        "text": "Wash hands",
+        "aliases": [
+          "clean your hands"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Chew with mouth closed",
+        "aliases": [
+          "close your mouth"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Sit properly",
+        "aliases": [
+          "sit up"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Use utensils",
+        "aliases": [
+          "use your fork"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Say please and thank you",
+        "aliases": [
+          "use manners"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Clear the plate",
+        "aliases": [
+          "take plate to kitchen"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-266",
+    "category": "Food & drink",
+    "prompt": "Name a dinner food people call comfort food after a long day.",
+    "answers": [
+      {
+        "text": "Macaroni and cheese",
+        "aliases": [
+          "mac and cheese"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Chicken pot pie",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Meatloaf",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Grilled cheese",
+        "aliases": [
+          "cheese toastie"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Mashed potatoes",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Chicken soup",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-267",
+    "category": "Food & drink",
+    "prompt": "Name something a host does when an extra person stays for dinner.",
+    "answers": [
+      {
+        "text": "Adds a chair",
+        "aliases": [
+          "extra chair"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Sets another place",
+        "aliases": [
+          "extra plate"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Makes more food",
+        "aliases": [
+          "cooks extra"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Serves smaller portions",
+        "aliases": [
+          "stretch the meal"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Orders extra food",
+        "aliases": [
+          "orders pizza"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Shares a serving",
+        "aliases": [
+          "shares their food"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-268",
+    "category": "Food & drink",
+    "prompt": "Name a meal people make using leftover roast meat.",
+    "answers": [
+      {
+        "text": "Sandwiches",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Soup",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Fried rice",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Pot pie",
+        "aliases": [
+          "meat pie"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Tacos",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Stew",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-269",
+    "category": "Food & drink",
+    "prompt": "Name a reason a packed lunch might come home uneaten.",
+    "answers": [
+      {
+        "text": "Bought another lunch",
+        "aliases": [
+          "bought lunch"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Forgot to bring it",
+        "aliases": [
+          "left it at home"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Too busy to eat",
+        "aliases": [
+          "no lunch break"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Food spilled",
+        "aliases": [
+          "leaked lunch"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Was not hungry",
+        "aliases": [
+          "no appetite"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Traded food",
+        "aliases": [
+          "lunch swap"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-270",
+    "category": "Food & drink",
+    "prompt": "Name a food coworkers notice when someone heats it in the office microwave.",
+    "answers": [
+      {
+        "text": "Fish",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Popcorn",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Curry",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Broccoli",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Eggs",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-271",
+    "category": "Food & drink",
+    "prompt": "Name a place someone eats lunch without a dining table.",
+    "answers": [
+      {
+        "text": "Desk",
+        "aliases": [
+          "at work"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Car",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Park bench",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Couch",
+        "aliases": [
+          "sofa"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Schoolyard",
+        "aliases": [
+          "playground"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Picnic blanket",
+        "aliases": [
+          "on the grass"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-272",
+    "category": "Food & drink",
+    "prompt": "Name a reason a dinner table suddenly goes quiet.",
+    "answers": [
+      {
+        "text": "Everyone is eating",
+        "aliases": [
+          "mouths are full"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Food is very good",
+        "aliases": [
+          "enjoying the food"
+        ],
+        "points": 25
+      },
+      {
+        "text": "People are tired",
+        "aliases": [
+          "tiredness"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Awkward topic",
+        "aliases": [
+          "uncomfortable conversation"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Everyone checks a phone",
+        "aliases": [
+          "phones"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bad news",
+        "aliases": [
+          "upsetting news"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-273",
+    "category": "Food & drink",
+    "prompt": "Name someone who might get served first at a family celebration.",
+    "answers": [
+      {
+        "text": "Children",
+        "aliases": [
+          "kids"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Guest of honor",
+        "aliases": [
+          "birthday person"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Grandparents",
+        "aliases": [
+          "older relatives"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Out-of-town visitors",
+        "aliases": [
+          "out of town guests",
+          "visiting relatives"
+        ],
+        "points": 13
+      },
+      {
+        "text": "The cook",
+        "aliases": [
+          "chef"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Someone leaving early",
+        "aliases": [
+          "early departure"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-274",
+    "category": "Food & drink",
+    "prompt": "Name a detail families might disagree about when planning a holiday meal.",
+    "answers": [
+      {
+        "text": "Menu",
+        "aliases": [
+          "what to eat"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Meal time",
+        "aliases": [
+          "when to eat"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Who cooks",
+        "aliases": [
+          "cooking duties"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Seating",
+        "aliases": [
+          "where to sit"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Portion sizes",
+        "aliases": [
+          "how much food"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Who gets the leftovers",
+        "aliases": [
+          "leftovers"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-275",
+    "category": "Food & drink",
+    "prompt": "Name a dish a family might share at an Italian dinner.",
+    "answers": [
+      {
+        "text": "Lasagna",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Spaghetti and meatballs",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Risotto",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Chicken Parmesan",
+        "aliases": [
+          "chicken parmigiana"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Ravioli",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-276",
+    "category": "Food & drink",
+    "prompt": "Name a dish someone might choose for a shared dim sum meal.",
+    "answers": [
+      {
+        "text": "Pork shumai",
+        "aliases": [
+          "siu mai",
+          "pork siu mai"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Barbecue pork buns",
+        "aliases": [
+          "char siu bao"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Shrimp dumplings",
+        "aliases": [
+          "har gow"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Rice noodle rolls",
+        "aliases": [
+          "cheung fun"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Spring rolls",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Egg tarts",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-277",
+    "category": "Food & drink",
+    "prompt": "Name a dish families might share at an Indian feast.",
+    "answers": [
+      {
+        "text": "Biryani",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Butter chicken",
+        "aliases": [
+          "murgh makhani"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Dal",
+        "aliases": [
+          "lentil curry"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Chickpea curry",
+        "aliases": [
+          "chana masala"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Tandoori chicken",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Palak paneer",
+        "aliases": [
+          "spinach paneer"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-278",
+    "category": "Food & drink",
+    "prompt": "Name a Japanese meal commonly served in a bowl.",
+    "answers": [
+      {
+        "text": "Ramen",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Udon",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Beef rice bowl",
+        "aliases": [
+          "gyudon"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Japanese curry rice",
+        "aliases": [
+          "katsu curry"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Soba",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Chirashi sushi",
+        "aliases": [
+          "sushi rice bowl"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-279",
+    "category": "Food & drink",
+    "prompt": "Name a Mexican dish someone might serve at a family celebration.",
+    "answers": [
+      {
+        "text": "Tamales",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Pozole",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Mole",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Enchiladas",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Carnitas",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Barbacoa",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-280",
+    "category": "Food & drink",
+    "prompt": "Name a dish you might find on a Greek family dinner table.",
+    "answers": [
+      {
+        "text": "Moussaka",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Souvlaki",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Pastitsio",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Spanakopita",
+        "aliases": [
+          "spinach pie"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Dolmades",
+        "aliases": [
+          "stuffed grape leaves"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Greek salad",
+        "aliases": [
+          "horiatiki"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-281",
+    "category": "Food & drink",
+    "prompt": "Name something served alongside the meat at a Korean barbecue meal.",
+    "answers": [
+      {
+        "text": "Rice",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Kimchi",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Lettuce wraps",
+        "aliases": [
+          "lettuce leaves"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Steamed egg",
+        "aliases": [
+          "gyeran jjim"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Savory pancakes",
+        "aliases": [
+          "pajeon"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Glass noodles",
+        "aliases": [
+          "japchae"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-282",
+    "category": "Food & drink",
+    "prompt": "Name a Vietnamese dish that can be a complete meal.",
+    "answers": [
+      {
+        "text": "Pho",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Banh mi",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Bun cha",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Broken rice",
+        "aliases": [
+          "com tam"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Noodle salad",
+        "aliases": [
+          "bun thit nuong"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Savory crepes",
+        "aliases": [
+          "banh xeo"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-283",
+    "category": "Food & drink",
+    "prompt": "Name a Thai dish a group might share for dinner.",
+    "answers": [
+      {
+        "text": "Pad Thai",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Green curry",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Tom yum soup",
+        "aliases": [
+          "tom yum"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Massaman curry",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Thai fried rice",
+        "aliases": [
+          "khao pad"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Pad see ew",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-284",
+    "category": "Food & drink",
+    "prompt": "Name a French dish someone might make for a leisurely family lunch.",
+    "answers": [
+      {
+        "text": "Coq au vin",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Beef bourguignon",
+        "aliases": [
+          "boeuf bourguignon"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Ratatouille",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Quiche",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Cassoulet",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Roast chicken",
+        "aliases": [
+          "poulet roti"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-285",
+    "category": "Food & drink",
+    "prompt": "Name a Spanish dish people might share in the middle of the table.",
+    "answers": [
+      {
+        "text": "Paella",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Spanish omelet",
+        "aliases": [
+          "tortilla espanola"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Patatas bravas",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Croquettes",
+        "aliases": [
+          "croquetas"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Garlic shrimp",
+        "aliases": [
+          "gambas al ajillo"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Sliced cured ham",
+        "aliases": [
+          "jamon"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-286",
+    "category": "Food & drink",
+    "prompt": "Name a dish on a Middle Eastern mezze spread.",
+    "answers": [
+      {
+        "text": "Hummus",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Falafel",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Tabbouleh",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Baba ganoush",
+        "aliases": [
+          "eggplant dip"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Stuffed grape leaves",
+        "aliases": [
+          "dolma"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Kibbeh",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-287",
+    "category": "Food & drink",
+    "prompt": "Name a dish someone might serve at a Caribbean family gathering.",
+    "answers": [
+      {
+        "text": "Jerk chicken",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Curried goat",
+        "aliases": [
+          "curry goat"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Rice and peas",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Ackee and saltfish",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Brown stew chicken",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Oxtail stew",
+        "aliases": [
+          "oxtail"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-288",
+    "category": "Food & drink",
+    "prompt": "Name something served at a German-style supper.",
+    "answers": [
+      {
+        "text": "Bratwurst",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Schnitzel",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Sauerkraut",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Potato salad",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Pretzels",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Spaetzle",
+        "aliases": [
+          "spatzle"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-289",
+    "category": "Food & drink",
+    "prompt": "Name a food people serve at a British afternoon tea.",
+    "answers": [
+      {
+        "text": "Finger sandwiches",
+        "aliases": [
+          "tea sandwiches"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Scones",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Fruit cake",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Shortbread",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Victoria sponge",
+        "aliases": [
+          "sponge cake"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Eclairs",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-290",
+    "category": "Food & drink",
+    "prompt": "Name a dish someone might serve at a Polish family celebration.",
+    "answers": [
+      {
+        "text": "Pierogi",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Kielbasa",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Stuffed cabbage",
+        "aliases": [
+          "golabki"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Bigos",
+        "aliases": [
+          "hunters stew"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Potato pancakes",
+        "aliases": [
+          "placki"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Borscht",
+        "aliases": [
+          "barszcz"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-291",
+    "category": "Food & drink",
+    "prompt": "Name a bread people might use to scoop up curry.",
+    "answers": [
+      {
+        "text": "Naan",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Roti",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Paratha",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Puri",
+        "aliases": [
+          "poori"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Dosa",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Appam",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-292",
+    "category": "Food & drink",
+    "prompt": "Name a Turkish dish someone might serve at a family gathering.",
+    "answers": [
+      {
+        "text": "Kebabs",
+        "aliases": [
+          "kebap"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Pide",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Borek",
+        "aliases": [
+          "burek"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Dolma",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Lentil soup",
+        "aliases": [
+          "mercimek soup"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Manti",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-293",
+    "category": "Food & drink",
+    "prompt": "Name an Italian dessert served at the end of a family dinner.",
+    "answers": [
+      {
+        "text": "Tiramisu",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Cannoli",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Gelato",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Panna cotta",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Biscotti",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Zabaglione",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-294",
+    "category": "Food & drink",
+    "prompt": "Name a filled dumpling people might bring to an international potluck.",
+    "answers": [
+      {
+        "text": "Pierogi",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Gyoza",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Wontons",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Momos",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Bao",
+        "aliases": [
+          "steamed buns"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ravioli",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-295",
+    "category": "Food & drink",
+    "prompt": "Name a food organizers might provide after a charity race.",
+    "answers": [
+      {
+        "text": "Bananas",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Bagels",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Orange slices",
+        "aliases": [
+          "oranges"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Sandwiches",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Granola bars",
+        "aliases": [
+          "energy bars"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-296",
+    "category": "Food & drink",
+    "prompt": "Name a reason people eat a bigger breakfast while on vacation.",
+    "answers": [
+      {
+        "text": "It is included",
+        "aliases": [
+          "free breakfast"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Busy day ahead",
+        "aliases": [
+          "sightseeing"
+        ],
+        "points": 25
+      },
+      {
+        "text": "More choices",
+        "aliases": [
+          "buffet choices"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Woke up late",
+        "aliases": [
+          "brunch"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Trying local food",
+        "aliases": [
+          "new foods"
+        ],
+        "points": 8
+      },
+      {
+        "text": "May skip lunch",
+        "aliases": [
+          "late lunch"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-297",
+    "category": "Food & drink",
+    "prompt": "Name a food served alongside pancakes at a community breakfast.",
+    "answers": [
+      {
+        "text": "Sausage",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Bacon",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Scrambled eggs",
+        "aliases": [
+          "eggs"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Hash browns",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Fruit salad",
+        "aliases": [
+          "fruit"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Biscuits",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-298",
+    "category": "Food & drink",
+    "prompt": "Name a main dish a group might sell at a fundraising dinner.",
+    "answers": [
+      {
+        "text": "Spaghetti",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Chili",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Barbecue chicken",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Tacos",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Baked potatoes",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Fried fish",
+        "aliases": [
+          "fish fry"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-299",
+    "category": "Food & drink",
+    "prompt": "Name a meal someone might drop off for a family with a new baby.",
+    "answers": [
+      {
+        "text": "Lasagna",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Shepherd's pie",
+        "aliases": [
+          "cottage pie"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Soup",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Enchiladas",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Roast chicken",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Curry",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-300",
+    "category": "Food & drink",
+    "prompt": "Name a reason to serve a buffet at a large family celebration.",
+    "answers": [
+      {
+        "text": "Lots of choices",
+        "aliases": [
+          "variety"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Easy to feed a crowd",
+        "aliases": [
+          "large group"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Guests choose portions",
+        "aliases": [
+          "portion choice"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Different dietary needs",
+        "aliases": [
+          "special diets"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Less table service",
+        "aliases": [
+          "fewer servers"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Flexible meal times",
+        "aliases": [
+          "eat when ready"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-301",
+    "category": "Food & drink",
+    "prompt": "Name a dish someone might bring to an autumn harvest supper.",
+    "answers": [
+      {
+        "text": "Vegetable soup",
+        "aliases": [
+          "squash soup"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Roast vegetables",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Potato gratin",
+        "aliases": [
+          "scalloped potatoes"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Roast pork",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Apple pie",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Cornbread",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-302",
+    "category": "Food & drink",
+    "prompt": "Name a place people might spread out for a picnic meal.",
+    "answers": [
+      {
+        "text": "Park",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Beach",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Lakeside",
+        "aliases": [
+          "by a lake"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Campground",
+        "aliases": [
+          "campsite"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Backyard",
+        "aliases": [
+          "garden"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Roadside rest area",
+        "aliases": [
+          "rest stop"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-303",
+    "category": "Food & drink",
+    "prompt": "Name a picnic food ants would be especially eager to find.",
+    "answers": [
+      {
+        "text": "Fruit",
+        "aliases": [
+          "cut fruit"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Cake",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Jam sandwiches",
+        "aliases": [
+          "jelly sandwiches"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Cookies",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Candy",
+        "aliases": [
+          "sweets"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Sweet pastries",
+        "aliases": [
+          "danish pastries"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-304",
+    "category": "Food & drink",
+    "prompt": "Name something people realize they forgot once an outdoor meal begins.",
+    "answers": [
+      {
+        "text": "Napkins",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Utensils",
+        "aliases": [
+          "cutlery"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Bottle opener",
+        "aliases": [
+          "can opener"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Drinks",
+        "aliases": [
+          "water bottles"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Salt and pepper",
+        "aliases": [
+          "seasoning"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Trash bags",
+        "aliases": [
+          "garbage bags"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-305",
+    "category": "Food & drink",
+    "prompt": "Name a way a family decides what to have for dinner.",
+    "answers": [
+      {
+        "text": "Cook chooses",
+        "aliases": [
+          "whoever cooks decides"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Vote",
+        "aliases": [
+          "majority vote"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Use leftovers",
+        "aliases": [
+          "what is in the fridge"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Follow a meal plan",
+        "aliases": [
+          "weekly menu"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Take turns choosing",
+        "aliases": [
+          "rotate choices"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Honor a special request",
+        "aliases": [
+          "someone asks"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-306",
+    "category": "Food & drink",
+    "prompt": "Name a dinner food a pet might try to steal from the table.",
+    "answers": [
+      {
+        "text": "Chicken",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Steak",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Sausages",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Fish",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Mashed potatoes",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Bread rolls",
+        "aliases": [
+          "dinner rolls"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-307",
+    "category": "Food & drink",
+    "prompt": "Name a reason a host uses name cards at a holiday dinner.",
+    "answers": [
+      {
+        "text": "Avoid seating confusion",
+        "aliases": [
+          "assign seats"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Keep arguments apart",
+        "aliases": [
+          "separate feuding relatives"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Help strangers meet",
+        "aliases": [
+          "mix guests"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Honor a special guest",
+        "aliases": [
+          "guest of honor"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Group children together",
+        "aliases": [
+          "kids table"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Match special meals to guests",
+        "aliases": [
+          "dietary needs"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-308",
+    "category": "Food & drink",
+    "prompt": "Name a reason party food runs out sooner than the host expects.",
+    "answers": [
+      {
+        "text": "Extra guests",
+        "aliases": [
+          "unexpected guests"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Large appetites",
+        "aliases": [
+          "hungry guests"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Too little food prepared",
+        "aliases": [
+          "underestimated quantities"
+        ],
+        "points": 16
+      },
+      {
+        "text": "People take seconds",
+        "aliases": [
+          "second helpings"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Food gets spilled",
+        "aliases": [
+          "dropped food"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Guests pack food to go",
+        "aliases": [
+          "takeaway portions"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-309",
+    "category": "Food & drink",
+    "prompt": "Name a sign a long holiday meal is coming to an end.",
+    "answers": [
+      {
+        "text": "Plates are cleared",
+        "aliases": [
+          "clearing the table"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Coffee is offered",
+        "aliases": [
+          "coffee time"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Leftovers are packed",
+        "aliases": [
+          "packing leftovers"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Guests lean back",
+        "aliases": [
+          "full bellies"
+        ],
+        "points": 13
+      },
+      {
+        "text": "People start leaving",
+        "aliases": [
+          "goodbyes"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Someone starts washing dishes",
+        "aliases": [
+          "cleanup begins"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-310",
+    "category": "Food & drink",
+    "prompt": "Name a cold dish that could be the main meal on a hot summer evening.",
+    "answers": [
+      {
+        "text": "Pasta salad",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Chicken salad",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Gazpacho",
+        "aliases": [
+          "cold tomato soup"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cold noodle salad",
+        "aliases": [
+          "chilled noodles"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Grain bowl",
+        "aliases": [
+          "grain salad"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sushi",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  }
+]

@@ -23,3 +23,9 @@ export const questionBank = sqliteTable("question_bank", {
   prompt: text("prompt").notNull().unique(),
   answers: text("answers").notNull(),
 }, (table) => [index("question_bank_category_idx").on(table.category)]);
+
+export const questionBankMetadata = sqliteTable("question_bank_metadata", {
+  id: text("id").primaryKey(),
+  contentHash: text("content_hash").notNull(),
+  questionCount: integer("question_count").notNull(),
+});

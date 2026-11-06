@@ -1,0 +1,4379 @@
+[
+  {
+    "id": "games-221",
+    "category": "Sports & games",
+    "prompt": "Name something a child might say while riding a playground swing.",
+    "answers": [
+      {
+        "text": "Higher!",
+        "aliases": [
+          "Go higher"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Push me!",
+        "aliases": [
+          "Give me a push"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Watch me!",
+        "aliases": [
+          "Look at me"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Stop!",
+        "aliases": [
+          "I want to get off"
+        ],
+        "points": 13
+      },
+      {
+        "text": "I can do it myself!",
+        "aliases": [
+          "No help"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Your turn!",
+        "aliases": [
+          "Have a turn"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-222",
+    "category": "Sports & games",
+    "prompt": "Name a reason a child decides not to go down a playground slide.",
+    "answers": [
+      {
+        "text": "It is too high",
+        "aliases": [
+          "Scared of heights"
+        ],
+        "points": 32
+      },
+      {
+        "text": "The surface is hot",
+        "aliases": [
+          "Hot slide"
+        ],
+        "points": 24
+      },
+      {
+        "text": "It looks too steep",
+        "aliases": [
+          "Steep slide"
+        ],
+        "points": 18
+      },
+      {
+        "text": "The line is too long",
+        "aliases": [
+          "Long queue"
+        ],
+        "points": 12
+      },
+      {
+        "text": "The landing is muddy",
+        "aliases": [
+          "Mud at the bottom"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Another child blocks the way",
+        "aliases": [
+          "Someone in the way"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-223",
+    "category": "Sports & games",
+    "prompt": "Name a sound you hear at a busy playground.",
+    "answers": [
+      {
+        "text": "Children laughing",
+        "aliases": [
+          "Laughter"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Children shouting",
+        "aliases": [
+          "Yelling"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Swings squeaking",
+        "aliases": [
+          "Squeaky chains"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Running footsteps",
+        "aliases": [
+          "Feet running"
+        ],
+        "points": 14
+      },
+      {
+        "text": "A whistle",
+        "aliases": [
+          "Whistling"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Parents calling",
+        "aliases": [
+          "Adults calling children"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-224",
+    "category": "Sports & games",
+    "prompt": "Name a reason a seesaw ride might end quickly.",
+    "answers": [
+      {
+        "text": "The riders weigh very different amounts",
+        "aliases": [
+          "Uneven weights"
+        ],
+        "points": 35
+      },
+      {
+        "text": "A friend gets off",
+        "aliases": [
+          "Partner leaves"
+        ],
+        "points": 25
+      },
+      {
+        "text": "The landing feels too hard",
+        "aliases": [
+          "Bumpy landing"
+        ],
+        "points": 16
+      },
+      {
+        "text": "The seat is wet",
+        "aliases": [
+          "Wet seesaw"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A parent calls them away",
+        "aliases": [
+          "Time to leave"
+        ],
+        "points": 8
+      },
+      {
+        "text": "The riders get bored",
+        "aliases": [
+          "Boredom"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-225",
+    "category": "Sports & games",
+    "prompt": "Name something children draw with chalk to create an active game.",
+    "answers": [
+      {
+        "text": "Hopscotch grid",
+        "aliases": [
+          "Hopscotch"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Start and finish lines",
+        "aliases": [
+          "Race lines"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Direction arrows",
+        "aliases": [
+          "Arrows"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A balancing line",
+        "aliases": [
+          "Balance line"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Targets",
+        "aliases": [
+          "Bullseyes"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Stepping circles",
+        "aliases": [
+          "Circles to jump into"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-226",
+    "category": "Sports & games",
+    "prompt": "Name something that makes a child hard to catch in tag.",
+    "answers": [
+      {
+        "text": "Running fast",
+        "aliases": [
+          "Speed"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Changing direction suddenly",
+        "aliases": [
+          "Dodging"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hiding behind things",
+        "aliases": [
+          "Hiding"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Using playground obstacles",
+        "aliases": [
+          "Weaving through equipment"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Staying far from the tagger",
+        "aliases": [
+          "Keeping a distance"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Watching the tagger closely",
+        "aliases": [
+          "Staying alert"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-227",
+    "category": "Sports & games",
+    "prompt": "Name a good outdoor hiding place in a game of hide-and-seek.",
+    "answers": [
+      {
+        "text": "Behind a tree",
+        "aliases": [
+          "Tree"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Behind a bush",
+        "aliases": [
+          "Bush"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Behind a shed",
+        "aliases": [
+          "Shed"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Under a picnic table",
+        "aliases": [
+          "Picnic table"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Inside a playhouse",
+        "aliases": [
+          "Playhouse"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Behind a large rock",
+        "aliases": [
+          "Rock"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-228",
+    "category": "Sports & games",
+    "prompt": "Name a way children decide who will be the first tagger.",
+    "answers": [
+      {
+        "text": "Counting rhyme",
+        "aliases": [
+          "Eeny meeny miny moe"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Rock-paper-scissors",
+        "aliases": [
+          "Roshambo"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Drawing straws",
+        "aliases": [
+          "Shortest straw"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Someone volunteers",
+        "aliases": [
+          "Volunteer"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Picking the youngest",
+        "aliases": [
+          "Youngest child"
+        ],
+        "points": 8
+      },
+      {
+        "text": "The last winner chooses",
+        "aliases": [
+          "Winner picks"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-229",
+    "category": "Sports & games",
+    "prompt": "Name something children disagree about during tag.",
+    "answers": [
+      {
+        "text": "Whether a tag touched them",
+        "aliases": [
+          "You missed me"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Where the boundaries are",
+        "aliases": [
+          "Playing area"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Whether a base is safe",
+        "aliases": [
+          "Safe zone"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Tagging someone straight back",
+        "aliases": [
+          "No tag backs"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Who is the tagger",
+        "aliases": [
+          "Who is it"
+        ],
+        "points": 9
+      },
+      {
+        "text": "How long a turn lasts",
+        "aliases": [
+          "Time limit"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-230",
+    "category": "Sports & games",
+    "prompt": "Name a piece of playground equipment children might line up to use.",
+    "answers": [
+      {
+        "text": "Swings",
+        "aliases": [
+          "Swing set"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Slide",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Zip line",
+        "aliases": [
+          "Flying fox"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Climbing tower",
+        "aliases": [
+          "Climbing frame"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Trampoline",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Roundabout",
+        "aliases": [
+          "Merry go round"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-231",
+    "category": "Sports & games",
+    "prompt": "Name a jump-rope trick children like to show off.",
+    "answers": [
+      {
+        "text": "Jumping backward",
+        "aliases": [
+          "Backward skipping"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Crossing the handles",
+        "aliases": [
+          "Crisscross"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Two rope turns in one jump",
+        "aliases": [
+          "Double under"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Jumping on one foot",
+        "aliases": [
+          "One foot skipping"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Alternating feet",
+        "aliases": [
+          "Boxer step"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Jumping with a partner",
+        "aliases": [
+          "Partner skipping"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-232",
+    "category": "Sports & games",
+    "prompt": "Name a challenge people try with a hula hoop.",
+    "answers": [
+      {
+        "text": "Keep it spinning longest",
+        "aliases": [
+          "Endurance hooping"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Spin several hoops",
+        "aliases": [
+          "Multiple hoops"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Walk while hooping",
+        "aliases": [
+          "Walking with it"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Reverse the direction",
+        "aliases": [
+          "Change direction"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Pass it along a line",
+        "aliases": [
+          "Human chain"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Roll it toward a target",
+        "aliases": [
+          "Target rolling"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-233",
+    "category": "Sports & games",
+    "prompt": "Name something children do for fun in a snowy yard.",
+    "answers": [
+      {
+        "text": "Build a snowman",
+        "aliases": [
+          "Make a snowman"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Make snow angels",
+        "aliases": [
+          "Snow angels"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Build a snow fort",
+        "aliases": [
+          "Snow fortress"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Throw snowballs",
+        "aliases": [
+          "Snowball fight"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Go sledding",
+        "aliases": [
+          "Sled"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Make tracks in the snow",
+        "aliases": [
+          "Footprint trails"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-234",
+    "category": "Sports & games",
+    "prompt": "Name a body part children use to keep a balloon in the air.",
+    "answers": [
+      {
+        "text": "Hand",
+        "aliases": [
+          "Palm"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Head",
+        "aliases": [
+          "Forehead"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Foot",
+        "aliases": [
+          "Feet"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Knee",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Elbow",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Shoulder",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-235",
+    "category": "Sports & games",
+    "prompt": "Name a movement people make to get through an obstacle course.",
+    "answers": [
+      {
+        "text": "Crawl",
+        "aliases": [
+          "Crawling"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Jump",
+        "aliases": [
+          "Leap"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Balance",
+        "aliases": [
+          "Walk a balance beam"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Climb",
+        "aliases": [
+          "Clamber"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Weave",
+        "aliases": [
+          "Zigzag"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Hop",
+        "aliases": [
+          "Hopping on one foot"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-236",
+    "category": "Sports & games",
+    "prompt": "Name an everyday object used to build a backyard obstacle course.",
+    "answers": [
+      {
+        "text": "Chairs",
+        "aliases": [
+          "Garden chairs"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Cones",
+        "aliases": [
+          "Marker cones"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Rope",
+        "aliases": [
+          "Jump rope"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Pool noodles",
+        "aliases": [
+          "Foam noodles"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Cardboard boxes",
+        "aliases": [
+          "Boxes"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hula hoops",
+        "aliases": [
+          "Hoops"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-237",
+    "category": "Sports & games",
+    "prompt": "Name a rule that can make a game of tag more interesting.",
+    "answers": [
+      {
+        "text": "Tagged players must freeze",
+        "aliases": [
+          "Freeze tag"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Players work in teams",
+        "aliases": [
+          "Team tag"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Use two taggers",
+        "aliases": [
+          "Two people are it"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Add safe zones",
+        "aliases": [
+          "Bases"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Everyone must hop",
+        "aliases": [
+          "Hopping only"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Set a time limit",
+        "aliases": [
+          "Timed rounds"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-238",
+    "category": "Sports & games",
+    "prompt": "Name a reason a water balloon bursts before it is thrown.",
+    "answers": [
+      {
+        "text": "It is overfilled",
+        "aliases": [
+          "Too much water"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Someone drops it",
+        "aliases": [
+          "Dropped balloon"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A fingernail catches it",
+        "aliases": [
+          "Sharp nail"
+        ],
+        "points": 18
+      },
+      {
+        "text": "The rubber is old",
+        "aliases": [
+          "Worn out balloon"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Someone squeezes too hard",
+        "aliases": [
+          "Squeezed balloon"
+        ],
+        "points": 8
+      },
+      {
+        "text": "It is left in hot sun",
+        "aliases": [
+          "Heat"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-239",
+    "category": "Sports & games",
+    "prompt": "Name an object people use to carry water in a relay game.",
+    "answers": [
+      {
+        "text": "Sponge",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Cup",
+        "aliases": [
+          "Plastic cup"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Spoon",
+        "aliases": [
+          "Tablespoon"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Small bucket",
+        "aliases": [
+          "Pail"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Bottle",
+        "aliases": [
+          "Water bottle"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Ladle",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-240",
+    "category": "Sports & games",
+    "prompt": "Name a movement the leader might call out in Simon Says.",
+    "answers": [
+      {
+        "text": "Clap your hands",
+        "aliases": [
+          "Clapping"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Touch your toes",
+        "aliases": [
+          "Toe touch"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Turn around",
+        "aliases": [
+          "Spin"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Hop on one foot",
+        "aliases": [
+          "One foot hop"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Pat your head",
+        "aliases": [
+          "Head pat"
+        ],
+        "points": 8
+      },
+      {
+        "text": "March in place",
+        "aliases": [
+          "Marching"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-241",
+    "category": "Sports & games",
+    "prompt": "Name a pose a child might choose in musical statues.",
+    "answers": [
+      {
+        "text": "Superhero pose",
+        "aliases": [
+          "Superhero"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Ballet pose",
+        "aliases": [
+          "Ballerina"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Animal pose",
+        "aliases": [
+          "Pretend animal"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Standing on one leg",
+        "aliases": [
+          "One leg balance"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Robot pose",
+        "aliases": [
+          "Robot"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Squatting",
+        "aliases": [
+          "Squat"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-242",
+    "category": "Sports & games",
+    "prompt": "Name something children might collect on a nature scavenger hunt.",
+    "answers": [
+      {
+        "text": "Leaf",
+        "aliases": [
+          "Leaves"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Feather",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Smooth stone",
+        "aliases": [
+          "Rock"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Pinecone",
+        "aliases": [
+          "Pine cone"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Acorn",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Flower",
+        "aliases": [
+          "Blossom"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-243",
+    "category": "Sports & games",
+    "prompt": "Name something that can go wrong during an egg-and-spoon race.",
+    "answers": [
+      {
+        "text": "The egg rolls off",
+        "aliases": [
+          "Dropped egg"
+        ],
+        "points": 28
+      },
+      {
+        "text": "The egg cracks",
+        "aliases": [
+          "Broken egg"
+        ],
+        "points": 23
+      },
+      {
+        "text": "The spoon slips from a hand",
+        "aliases": [
+          "Dropped spoon"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Racers bump into each other",
+        "aliases": [
+          "Collision"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Someone trips",
+        "aliases": [
+          "Stumble"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Someone misses the turnaround",
+        "aliases": [
+          "Wrong route"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-244",
+    "category": "Sports & games",
+    "prompt": "Name something that helps a tug-of-war team win.",
+    "answers": [
+      {
+        "text": "Strong pullers",
+        "aliases": [
+          "Strength"
+        ],
+        "points": 35
+      },
+      {
+        "text": "A firm grip",
+        "aliases": [
+          "Good grip"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Pulling together",
+        "aliases": [
+          "Teamwork"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Shoes with traction",
+        "aliases": [
+          "Grippy shoes"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Leaning back",
+        "aliases": [
+          "Leaning backward"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Heavier teammates",
+        "aliases": [
+          "Body weight"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-245",
+    "category": "Sports & games",
+    "prompt": "Name a game children might play outdoors with glow sticks after dark.",
+    "answers": [
+      {
+        "text": "Tag",
+        "aliases": [
+          "Glow tag"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Hide-and-seek",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Treasure hunt",
+        "aliases": [
+          "Scavenger hunt"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Ring toss",
+        "aliases": [
+          "Glow ring toss"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Obstacle course",
+        "aliases": [
+          "Glow obstacle course"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Dance freeze",
+        "aliases": [
+          "Musical statues"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-246",
+    "category": "Sports & games",
+    "prompt": "Name somewhere a flying disc might land out of reach.",
+    "answers": [
+      {
+        "text": "In a tree",
+        "aliases": [
+          "Tree branches"
+        ],
+        "points": 32
+      },
+      {
+        "text": "On a roof",
+        "aliases": [
+          "Rooftop"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Over a fence",
+        "aliases": [
+          "Neighbor's yard"
+        ],
+        "points": 18
+      },
+      {
+        "text": "In a pond",
+        "aliases": [
+          "Water"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Under a parked car",
+        "aliases": [
+          "Under a car"
+        ],
+        "points": 8
+      },
+      {
+        "text": "In thick bushes",
+        "aliases": [
+          "Hedge"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-247",
+    "category": "Sports & games",
+    "prompt": "Name a reason someone misses the board in cornhole.",
+    "answers": [
+      {
+        "text": "Poor aim",
+        "aliases": [
+          "Bad aim"
+        ],
+        "points": 28
+      },
+      {
+        "text": "A gust of wind",
+        "aliases": [
+          "Wind"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Throwing too hard",
+        "aliases": [
+          "Overshooting"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Throwing too softly",
+        "aliases": [
+          "Not enough power"
+        ],
+        "points": 14
+      },
+      {
+        "text": "The bag slips early",
+        "aliases": [
+          "Bad release"
+        ],
+        "points": 10
+      },
+      {
+        "text": "The bag bounces away",
+        "aliases": [
+          "Bounce"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-248",
+    "category": "Sports & games",
+    "prompt": "Name a way to make a ring-toss game more challenging.",
+    "answers": [
+      {
+        "text": "Stand farther away",
+        "aliases": [
+          "Increase distance"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Use smaller targets",
+        "aliases": [
+          "Narrow targets"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Use smaller rings",
+        "aliases": [
+          "Little rings"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Throw with the other hand",
+        "aliases": [
+          "Nondominant hand"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Add a time limit",
+        "aliases": [
+          "Timed game"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Use a moving target",
+        "aliases": [
+          "Moving peg"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-249",
+    "category": "Sports & games",
+    "prompt": "Name something used to mark the boundaries of a backyard game.",
+    "answers": [
+      {
+        "text": "Chalk",
+        "aliases": [
+          "Chalk lines"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Cones",
+        "aliases": [
+          "Marker cones"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Ropes",
+        "aliases": [
+          "String"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Trees",
+        "aliases": [
+          "Tree line"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Coats",
+        "aliases": [
+          "Jackets"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A fence",
+        "aliases": [
+          "Garden fence"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-250",
+    "category": "Sports & games",
+    "prompt": "Name something children try to do with soap bubbles.",
+    "answers": [
+      {
+        "text": "Pop them",
+        "aliases": [
+          "Burst bubbles"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Chase them",
+        "aliases": [
+          "Run after them"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Blow a giant bubble",
+        "aliases": [
+          "Make huge bubbles"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Keep one floating",
+        "aliases": [
+          "Keep it in the air"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Catch one on a wand",
+        "aliases": [
+          "Catch a bubble"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Count them",
+        "aliases": [
+          "Count bubbles"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-251",
+    "category": "Sports & games",
+    "prompt": "Name a type of group fitness class people sign up for.",
+    "answers": [
+      {
+        "text": "Yoga",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Indoor cycling",
+        "aliases": [
+          "Spin class"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Pilates",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Dance fitness",
+        "aliases": [
+          "Zumba"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Kickboxing",
+        "aliases": [
+          "Cardio kickboxing"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Water aerobics",
+        "aliases": [
+          "Aqua aerobics"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-252",
+    "category": "Sports & games",
+    "prompt": "Name a reason someone prefers a group fitness class.",
+    "answers": [
+      {
+        "text": "Instructor guidance",
+        "aliases": [
+          "A teacher"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Extra motivation",
+        "aliases": [
+          "Encouragement"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Fun music",
+        "aliases": [
+          "Workout music"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Social atmosphere",
+        "aliases": [
+          "Meeting people"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A planned routine",
+        "aliases": [
+          "Structured workout"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A fixed appointment",
+        "aliases": [
+          "Scheduled commitment"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-253",
+    "category": "Sports & games",
+    "prompt": "Name a gym habit that annoys other people.",
+    "answers": [
+      {
+        "text": "Not wiping equipment",
+        "aliases": [
+          "Leaving sweat"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Leaving weights out",
+        "aliases": [
+          "Not reracking"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hogging a machine",
+        "aliases": [
+          "Taking too long"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Loud grunting",
+        "aliases": [
+          "Excessive noise"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Filming other people",
+        "aliases": [
+          "Unwanted recording"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Giving unsolicited advice",
+        "aliases": [
+          "Unasked for tips"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-254",
+    "category": "Sports & games",
+    "prompt": "Name something people do while waiting for a gym machine.",
+    "answers": [
+      {
+        "text": "Use another machine",
+        "aliases": [
+          "Do a different exercise"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Stretch",
+        "aliases": [
+          "Stretching"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Check their phone",
+        "aliases": [
+          "Look at phone"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Refill a water bottle",
+        "aliases": [
+          "Get water"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Ask to take turns",
+        "aliases": [
+          "Work in"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Review their workout plan",
+        "aliases": [
+          "Check routine"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-255",
+    "category": "Sports & games",
+    "prompt": "Name a short instruction a fitness teacher might call out.",
+    "answers": [
+      {
+        "text": "Keep going!",
+        "aliases": [
+          "Do not stop"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Breathe!",
+        "aliases": [
+          "Remember to breathe"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Switch sides!",
+        "aliases": [
+          "Other side"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Slow down!",
+        "aliases": [
+          "Go slower"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Stand tall!",
+        "aliases": [
+          "Straighten up"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Ten more!",
+        "aliases": [
+          "Ten more repetitions"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-256",
+    "category": "Sports & games",
+    "prompt": "Name a reason someone changes the music during a workout.",
+    "answers": [
+      {
+        "text": "The song is too slow",
+        "aliases": [
+          "Slow tempo"
+        ],
+        "points": 35
+      },
+      {
+        "text": "They dislike the song",
+        "aliases": [
+          "Bad song"
+        ],
+        "points": 25
+      },
+      {
+        "text": "The song keeps repeating",
+        "aliases": [
+          "Heard it too often"
+        ],
+        "points": 16
+      },
+      {
+        "text": "An advertisement interrupts",
+        "aliases": [
+          "Ad break"
+        ],
+        "points": 11
+      },
+      {
+        "text": "The lyrics are unsuitable",
+        "aliases": [
+          "Explicit lyrics"
+        ],
+        "points": 8
+      },
+      {
+        "text": "It is time to cool down",
+        "aliases": [
+          "Cooldown music"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-257",
+    "category": "Sports & games",
+    "prompt": "Name something that distracts someone during a home workout.",
+    "answers": [
+      {
+        "text": "Children",
+        "aliases": [
+          "Kids"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Pets",
+        "aliases": [
+          "Dog or cat"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Phone notifications",
+        "aliases": [
+          "Phone ringing"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A delivery",
+        "aliases": [
+          "Doorbell"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Household chores",
+        "aliases": [
+          "Unfinished housework"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Television",
+        "aliases": [
+          "TV"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-258",
+    "category": "Sports & games",
+    "prompt": "Name a household object someone might use as a workout weight.",
+    "answers": [
+      {
+        "text": "Water bottles",
+        "aliases": [
+          "Filled bottles"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Cans of food",
+        "aliases": [
+          "Food tins"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A loaded backpack",
+        "aliases": [
+          "Heavy backpack"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Books",
+        "aliases": [
+          "Stack of books"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Laundry detergent jug",
+        "aliases": [
+          "Detergent bottle"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A bag of rice",
+        "aliases": [
+          "Rice sack"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-259",
+    "category": "Sports & games",
+    "prompt": "Name a number people check on a fitness tracker.",
+    "answers": [
+      {
+        "text": "Step count",
+        "aliases": [
+          "Steps"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Distance",
+        "aliases": [
+          "Miles"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Workout time",
+        "aliases": [
+          "Duration"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Heart rate",
+        "aliases": [
+          "Pulse"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Calories burned",
+        "aliases": [
+          "Calories"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Hours of sleep",
+        "aliases": [
+          "Sleep time"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-260",
+    "category": "Sports & games",
+    "prompt": "Name something people do at the end of a fitness class.",
+    "answers": [
+      {
+        "text": "Get a drink",
+        "aliases": [
+          "Drink water"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Wipe down equipment",
+        "aliases": [
+          "Clean equipment"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Roll up a mat",
+        "aliases": [
+          "Pack their mat"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Put weights away",
+        "aliases": [
+          "Return weights"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Chat with classmates",
+        "aliases": [
+          "Talk to friends"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Thank the instructor",
+        "aliases": [
+          "Thank the teacher"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-261",
+    "category": "Sports & games",
+    "prompt": "Name something someone might notice about themselves in a gym mirror.",
+    "answers": [
+      {
+        "text": "Their exercise form",
+        "aliases": [
+          "Technique"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Messy hair",
+        "aliases": [
+          "Hair out of place"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A red face",
+        "aliases": [
+          "Flushed cheeks"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A twisted shirt",
+        "aliases": [
+          "Crooked clothing"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Untied shoelaces",
+        "aliases": [
+          "Loose laces"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Sweat marks",
+        "aliases": [
+          "Sweaty patches"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-262",
+    "category": "Sports & games",
+    "prompt": "Name a complaint someone has about a borrowed exercise mat.",
+    "answers": [
+      {
+        "text": "It is dirty",
+        "aliases": [
+          "Dirty mat"
+        ],
+        "points": 32
+      },
+      {
+        "text": "It is too thin",
+        "aliases": [
+          "No cushioning"
+        ],
+        "points": 24
+      },
+      {
+        "text": "It slides around",
+        "aliases": [
+          "Slippery mat"
+        ],
+        "points": 18
+      },
+      {
+        "text": "The edges curl up",
+        "aliases": [
+          "Curled corners"
+        ],
+        "points": 12
+      },
+      {
+        "text": "It is too short",
+        "aliases": [
+          "Small mat"
+        ],
+        "points": 8
+      },
+      {
+        "text": "It smells odd",
+        "aliases": [
+          "Bad smell"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-263",
+    "category": "Sports & games",
+    "prompt": "Name something that can spoil the quiet in a yoga class.",
+    "answers": [
+      {
+        "text": "A ringing phone",
+        "aliases": [
+          "Phone ringtone"
+        ],
+        "points": 28
+      },
+      {
+        "text": "People chatting",
+        "aliases": [
+          "Conversation"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Traffic outside",
+        "aliases": [
+          "Road noise"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Someone coughing",
+        "aliases": [
+          "Cough"
+        ],
+        "points": 14
+      },
+      {
+        "text": "A squeaky door",
+        "aliases": [
+          "Door squeak"
+        ],
+        "points": 10
+      },
+      {
+        "text": "A dropped water bottle",
+        "aliases": [
+          "Bottle hitting floor"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-264",
+    "category": "Sports & games",
+    "prompt": "Name an active way a family can spend a rainy afternoon indoors.",
+    "answers": [
+      {
+        "text": "Dance together",
+        "aliases": [
+          "Dance party"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Jump rope",
+        "aliases": [
+          "Skipping"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Play balloon volleyball",
+        "aliases": [
+          "Balloon game"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Make an obstacle course",
+        "aliases": [
+          "Indoor obstacle course"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Follow an exercise video",
+        "aliases": [
+          "Workout video"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Climb the stairs",
+        "aliases": [
+          "Stair climbing"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-265",
+    "category": "Sports & games",
+    "prompt": "Name a goal people set for a friendly fitness challenge.",
+    "answers": [
+      {
+        "text": "Take the most steps",
+        "aliases": [
+          "Step challenge"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Complete a five-kilometer run",
+        "aliases": [
+          "Finish a 5K"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hold a plank longer",
+        "aliases": [
+          "Plank challenge"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Attend a set number of classes",
+        "aliases": [
+          "Class attendance"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Log cycling miles",
+        "aliases": [
+          "Bike distance"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Learn to do a push-up",
+        "aliases": [
+          "First push up"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-266",
+    "category": "Sports & games",
+    "prompt": "Name something someone might accidentally leave in a pool changing room.",
+    "answers": [
+      {
+        "text": "Towel",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Swimsuit",
+        "aliases": [
+          "Bathing suit"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Goggles",
+        "aliases": [
+          "Swimming goggles"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Shoes",
+        "aliases": [
+          "Footwear"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Toiletries",
+        "aliases": [
+          "Shampoo"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Locker key",
+        "aliases": [
+          "Key"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-267",
+    "category": "Sports & games",
+    "prompt": "Name a complaint people have about swimming goggles.",
+    "answers": [
+      {
+        "text": "They fog up",
+        "aliases": [
+          "Foggy lenses"
+        ],
+        "points": 28
+      },
+      {
+        "text": "They leak",
+        "aliases": [
+          "Water gets in"
+        ],
+        "points": 23
+      },
+      {
+        "text": "The strap is too tight",
+        "aliases": [
+          "Tight strap"
+        ],
+        "points": 19
+      },
+      {
+        "text": "They leave marks",
+        "aliases": [
+          "Eye marks"
+        ],
+        "points": 14
+      },
+      {
+        "text": "They slip off",
+        "aliases": [
+          "Loose goggles"
+        ],
+        "points": 10
+      },
+      {
+        "text": "They distort the view",
+        "aliases": [
+          "Blurry view"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-268",
+    "category": "Sports & games",
+    "prompt": "Name a game families play in a swimming pool.",
+    "answers": [
+      {
+        "text": "Marco Polo",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Diving for treasure",
+        "aliases": [
+          "Retrieve diving toys"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Follow the leader",
+        "aliases": [
+          "Copy the leader"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Swimming races",
+        "aliases": [
+          "Race each other"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Pool volleyball",
+        "aliases": [
+          "Water volleyball"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pool basketball",
+        "aliases": [
+          "Water basketball"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-269",
+    "category": "Sports & games",
+    "prompt": "Name something a beginner swimmer is proud of doing for the first time.",
+    "answers": [
+      {
+        "text": "Putting their face underwater",
+        "aliases": [
+          "Face in the water"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Floating",
+        "aliases": [
+          "Float alone"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Swimming a whole length",
+        "aliases": [
+          "First length"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Jumping into the pool",
+        "aliases": [
+          "First jump"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Retrieving a diving toy",
+        "aliases": [
+          "Getting a ring"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Swimming without armbands",
+        "aliases": [
+          "No floaties"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-270",
+    "category": "Sports & games",
+    "prompt": "Name a playful shape for an inflatable pool float.",
+    "answers": [
+      {
+        "text": "Doughnut",
+        "aliases": [
+          "Donut"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Flamingo",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Unicorn",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Pizza slice",
+        "aliases": [
+          "Pizza"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Alligator",
+        "aliases": [
+          "Crocodile"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Airplane",
+        "aliases": [
+          "Plane"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-271",
+    "category": "Sports & games",
+    "prompt": "Name something that annoys people sharing a swimming lane.",
+    "answers": [
+      {
+        "text": "Stopping in the middle",
+        "aliases": [
+          "Blocking the lane"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Swimming the wrong way",
+        "aliases": [
+          "Wrong direction"
+        ],
+        "points": 23
+      },
+      {
+        "text": "An accidental kick",
+        "aliases": [
+          "Being kicked"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Overtaking too closely",
+        "aliases": [
+          "Passing too close"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Crowding the wall to chat",
+        "aliases": [
+          "Blocking the wall"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Trying to race everyone",
+        "aliases": [
+          "Competitive lane mate"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-272",
+    "category": "Sports & games",
+    "prompt": "Name a rule you might see on a swimming-pool sign.",
+    "answers": [
+      {
+        "text": "No running",
+        "aliases": [
+          "Walk only"
+        ],
+        "points": 35
+      },
+      {
+        "text": "No diving",
+        "aliases": [
+          "Do not dive"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Shower before swimming",
+        "aliases": [
+          "Shower first"
+        ],
+        "points": 16
+      },
+      {
+        "text": "No food",
+        "aliases": [
+          "No eating"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Children need adult supervision",
+        "aliases": [
+          "Children with adults"
+        ],
+        "points": 8
+      },
+      {
+        "text": "No glass",
+        "aliases": [
+          "No glass containers"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-273",
+    "category": "Sports & games",
+    "prompt": "Name a reason someone gets out of a swimming pool for a break.",
+    "answers": [
+      {
+        "text": "Feeling tired",
+        "aliases": [
+          "Tiredness"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Feeling cold",
+        "aliases": [
+          "Shivering"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Feeling hungry",
+        "aliases": [
+          "Snack time"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Thunder",
+        "aliases": [
+          "Storm"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A scheduled pool break",
+        "aliases": [
+          "Lifeguard break"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Goggle trouble",
+        "aliases": [
+          "Fix goggles"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-274",
+    "category": "Sports & games",
+    "prompt": "Name something a swimmer does between laps.",
+    "answers": [
+      {
+        "text": "Catch their breath",
+        "aliases": [
+          "Rest"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Adjust goggles",
+        "aliases": [
+          "Fix goggles"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Drink water",
+        "aliases": [
+          "Sip water"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Check their time",
+        "aliases": [
+          "Look at the clock"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Talk to a coach",
+        "aliases": [
+          "Listen to the instructor"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Stretch their arms",
+        "aliases": [
+          "Arm stretch"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-275",
+    "category": "Sports & games",
+    "prompt": "Name somewhere people sit beside an outdoor pool.",
+    "answers": [
+      {
+        "text": "Lounge chair",
+        "aliases": [
+          "Sun lounger"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Bench",
+        "aliases": [
+          "Pool bench"
+        ],
+        "points": 23
+      },
+      {
+        "text": "A towel on the ground",
+        "aliases": [
+          "Towel"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Grass",
+        "aliases": [
+          "Lawn"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Picnic table",
+        "aliases": [
+          "Table"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Bleachers",
+        "aliases": [
+          "Spectator stands"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-276",
+    "category": "Sports & games",
+    "prompt": "Name something people do when a wave pool starts making waves.",
+    "answers": [
+      {
+        "text": "Jump over waves",
+        "aliases": [
+          "Jump"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Float on their back",
+        "aliases": [
+          "Back float"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Hold onto a tube",
+        "aliases": [
+          "Use a tube"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Laugh",
+        "aliases": [
+          "Giggle"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Move to shallower water",
+        "aliases": [
+          "Go to the shallow end"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hold hands with a companion",
+        "aliases": [
+          "Hold hands"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-277",
+    "category": "Sports & games",
+    "prompt": "Name a movement people do in a water-aerobics class.",
+    "answers": [
+      {
+        "text": "March in place",
+        "aliases": [
+          "Marching"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Kick their legs",
+        "aliases": [
+          "Leg kicks"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Make arm circles",
+        "aliases": [
+          "Arm rotations"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Lift their knees",
+        "aliases": [
+          "Knee lifts"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Step sideways",
+        "aliases": [
+          "Side steps"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Jog in the water",
+        "aliases": [
+          "Water jogging"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-278",
+    "category": "Sports & games",
+    "prompt": "Name something children do with wet sand during a beach play session.",
+    "answers": [
+      {
+        "text": "Build a sandcastle",
+        "aliases": [
+          "Sandcastle"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Dig a moat",
+        "aliases": [
+          "Make a channel"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Draw pictures",
+        "aliases": [
+          "Sand drawings"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Make footprints",
+        "aliases": [
+          "Footprint trail"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Bury their feet",
+        "aliases": [
+          "Cover their feet"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Roll a ball along it",
+        "aliases": [
+          "Ball rolling"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-279",
+    "category": "Sports & games",
+    "prompt": "Name something that distracts a child during a swimming lesson.",
+    "answers": [
+      {
+        "text": "Pool toys",
+        "aliases": [
+          "Floating toys"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Other children",
+        "aliases": [
+          "Friends"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Big splashes",
+        "aliases": [
+          "Splashing"
+        ],
+        "points": 19
+      },
+      {
+        "text": "A parent watching",
+        "aliases": [
+          "Watching their parents"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Loud noises",
+        "aliases": [
+          "Noise"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Slipping goggles",
+        "aliases": [
+          "Loose goggles"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-280",
+    "category": "Sports & games",
+    "prompt": "Name a problem someone might have in a pool changing room.",
+    "answers": [
+      {
+        "text": "No empty lockers",
+        "aliases": [
+          "Full lockers"
+        ],
+        "points": 35
+      },
+      {
+        "text": "A lost locker key",
+        "aliases": [
+          "Missing key"
+        ],
+        "points": 25
+      },
+      {
+        "text": "A slippery floor",
+        "aliases": [
+          "Wet floor"
+        ],
+        "points": 16
+      },
+      {
+        "text": "A cold shower",
+        "aliases": [
+          "No hot water"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A stuck cubicle door",
+        "aliases": [
+          "Jammed door"
+        ],
+        "points": 8
+      },
+      {
+        "text": "No dry clothes",
+        "aliases": [
+          "Forgotten clothes"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-281",
+    "category": "Sports & games",
+    "prompt": "Name a reason cyclists stop during a scenic ride.",
+    "answers": [
+      {
+        "text": "Take a photograph",
+        "aliases": [
+          "Take pictures"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Have a snack",
+        "aliases": [
+          "Eat"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Use a restroom",
+        "aliases": [
+          "Toilet stop"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Fix a flat tire",
+        "aliases": [
+          "Puncture"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Check directions",
+        "aliases": [
+          "Look at a map"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Enjoy a lookout",
+        "aliases": [
+          "Admire the view"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-282",
+    "category": "Sports & games",
+    "prompt": "Name something a pedestrian might do after hearing a bicycle bell.",
+    "answers": [
+      {
+        "text": "Step aside",
+        "aliases": [
+          "Move over"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Turn around",
+        "aliases": [
+          "Look back"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Move their dog",
+        "aliases": [
+          "Shorten the leash"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Wave",
+        "aliases": [
+          "Raise a hand"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Say thanks",
+        "aliases": [
+          "Thank the cyclist"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Stop walking",
+        "aliases": [
+          "Stand still"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-283",
+    "category": "Sports & games",
+    "prompt": "Name something people add to personalize a bicycle.",
+    "answers": [
+      {
+        "text": "A colorful bell",
+        "aliases": [
+          "Bell"
+        ],
+        "points": 28
+      },
+      {
+        "text": "A basket",
+        "aliases": [
+          "Front basket"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Stickers",
+        "aliases": [
+          "Decals"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Spoke beads",
+        "aliases": [
+          "Beads"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Decorative lights",
+        "aliases": [
+          "Bike lights"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Colored handlebar grips",
+        "aliases": [
+          "Custom grips"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-284",
+    "category": "Sports & games",
+    "prompt": "Name something a cyclist might do on a steep hill.",
+    "answers": [
+      {
+        "text": "Change to an easier gear",
+        "aliases": [
+          "Shift down"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Stand on the pedals",
+        "aliases": [
+          "Ride standing"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Slow down",
+        "aliases": [
+          "Reduce speed"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Stop for a rest",
+        "aliases": [
+          "Take a break"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Walk the bicycle",
+        "aliases": [
+          "Push the bike"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Encourage a companion",
+        "aliases": [
+          "Cheer a friend on"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-285",
+    "category": "Sports & games",
+    "prompt": "Name a feature families look for in an easy cycling route.",
+    "answers": [
+      {
+        "text": "Few hills",
+        "aliases": [
+          "Flat route"
+        ],
+        "points": 30
+      },
+      {
+        "text": "No car traffic",
+        "aliases": [
+          "Traffic free path"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Attractive scenery",
+        "aliases": [
+          "Nice views"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Rest benches",
+        "aliases": [
+          "Places to sit"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Plenty of shade",
+        "aliases": [
+          "Shady path"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A loop back to the start",
+        "aliases": [
+          "Circular route"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-286",
+    "category": "Sports & games",
+    "prompt": "Name a reason a bicycle ride becomes slower than expected.",
+    "answers": [
+      {
+        "text": "A crowded path",
+        "aliases": [
+          "Lots of people"
+        ],
+        "points": 32
+      },
+      {
+        "text": "A steep hill",
+        "aliases": [
+          "Uphill section"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A headwind",
+        "aliases": [
+          "Wind"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Tired riders",
+        "aliases": [
+          "Fatigue"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A soft tire",
+        "aliases": [
+          "Low tire pressure"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Keeping pace with a child",
+        "aliases": [
+          "Riding with children"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-287",
+    "category": "Sports & games",
+    "prompt": "Name a place someone might lock up a bicycle.",
+    "answers": [
+      {
+        "text": "Bicycle rack",
+        "aliases": [
+          "Bike stand"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Railing",
+        "aliases": [
+          "Rail"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Lamp post",
+        "aliases": [
+          "Streetlight"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Fence",
+        "aliases": [
+          "Metal fence"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Tree",
+        "aliases": [
+          "Tree trunk"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Garage",
+        "aliases": [
+          "Bike garage"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-288",
+    "category": "Sports & games",
+    "prompt": "Name a sound a cyclist hears on a quiet ride.",
+    "answers": [
+      {
+        "text": "Birdsong",
+        "aliases": [
+          "Birds"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Wind",
+        "aliases": [
+          "Air rushing"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Tires on the path",
+        "aliases": [
+          "Tire hum"
+        ],
+        "points": 16
+      },
+      {
+        "text": "A clicking chain",
+        "aliases": [
+          "Chain noise"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A bicycle bell",
+        "aliases": [
+          "Bell"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A barking dog",
+        "aliases": [
+          "Dog barking"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-289",
+    "category": "Sports & games",
+    "prompt": "Name something a trail runner has to get around.",
+    "answers": [
+      {
+        "text": "Tree roots",
+        "aliases": [
+          "Roots"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Rocks",
+        "aliases": [
+          "Stones"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Mud",
+        "aliases": [
+          "Muddy patch"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Puddles",
+        "aliases": [
+          "Standing water"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Fallen branches",
+        "aliases": [
+          "Branches"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Other trail users",
+        "aliases": [
+          "Hikers"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-290",
+    "category": "Sports & games",
+    "prompt": "Name something runners count during a workout.",
+    "answers": [
+      {
+        "text": "Laps",
+        "aliases": [
+          "Circuits"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Steps",
+        "aliases": [
+          "Footsteps"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Miles",
+        "aliases": [
+          "Kilometers"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Minutes",
+        "aliases": [
+          "Time"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Breaths",
+        "aliases": [
+          "Breathing rhythm"
+        ],
+        "points": 8
+      },
+      {
+        "text": "People they pass",
+        "aliases": [
+          "Runners passed"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-291",
+    "category": "Sports & games",
+    "prompt": "Name something that makes a community fun run feel festive.",
+    "answers": [
+      {
+        "text": "Costumes",
+        "aliases": [
+          "Fancy dress"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Music",
+        "aliases": [
+          "Live music"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Colored powder",
+        "aliases": [
+          "Color throws"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Banners",
+        "aliases": [
+          "Decorations"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Face paint",
+        "aliases": [
+          "Painted faces"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Finishers' medals",
+        "aliases": [
+          "Medals"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-292",
+    "category": "Sports & games",
+    "prompt": "Name an excuse someone gives for skipping a planned jog.",
+    "answers": [
+      {
+        "text": "Bad weather",
+        "aliases": [
+          "Rain"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Not enough time",
+        "aliases": [
+          "Too busy"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Feeling tired",
+        "aliases": [
+          "Exhausted"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Oversleeping",
+        "aliases": [
+          "Woke up late"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Missing running shoes",
+        "aliases": [
+          "Cannot find shoes"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Already exercised",
+        "aliases": [
+          "Did another workout"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-293",
+    "category": "Sports & games",
+    "prompt": "Name something people often see on an early-morning jog.",
+    "answers": [
+      {
+        "text": "Dog walkers",
+        "aliases": [
+          "People walking dogs"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Sprinklers",
+        "aliases": [
+          "Garden sprinklers"
+        ],
+        "points": 24
+      },
+      {
+        "text": "The sunrise",
+        "aliases": [
+          "Sun coming up"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Delivery trucks",
+        "aliases": [
+          "Delivery vans"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Birds",
+        "aliases": [
+          "Morning birds"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Nearly empty streets",
+        "aliases": [
+          "Quiet roads"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-294",
+    "category": "Sports & games",
+    "prompt": "Name a sign that a pair of running shoes is getting old.",
+    "answers": [
+      {
+        "text": "Worn soles",
+        "aliases": [
+          "Smooth tread"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Holes",
+        "aliases": [
+          "Torn fabric"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A sole coming loose",
+        "aliases": [
+          "Peeling sole"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Flattened cushioning",
+        "aliases": [
+          "Flat padding"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Fraying laces",
+        "aliases": [
+          "Worn laces"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Faded colors",
+        "aliases": [
+          "Discoloration"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-295",
+    "category": "Sports & games",
+    "prompt": "Name a reward someone might choose after finishing a walking challenge.",
+    "answers": [
+      {
+        "text": "A favorite treat",
+        "aliases": [
+          "Special snack"
+        ],
+        "points": 28
+      },
+      {
+        "text": "New walking shoes",
+        "aliases": [
+          "New shoes"
+        ],
+        "points": 23
+      },
+      {
+        "text": "A relaxing day off",
+        "aliases": [
+          "Rest day"
+        ],
+        "points": 19
+      },
+      {
+        "text": "A massage",
+        "aliases": [
+          "Foot massage"
+        ],
+        "points": 14
+      },
+      {
+        "text": "A movie outing",
+        "aliases": [
+          "Cinema trip"
+        ],
+        "points": 10
+      },
+      {
+        "text": "A medal",
+        "aliases": [
+          "Trophy"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-296",
+    "category": "Sports & games",
+    "prompt": "Name somewhere a badly hit mini-golf ball might go.",
+    "answers": [
+      {
+        "text": "Into a pond",
+        "aliases": [
+          "Water hazard"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Into a flowerbed",
+        "aliases": [
+          "Flowers"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Onto the next hole",
+        "aliases": [
+          "Another hole"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Under a fence",
+        "aliases": [
+          "Beyond the fence"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Into a hedge",
+        "aliases": [
+          "Bushes"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Back to the starting point",
+        "aliases": [
+          "Back to the tee"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-297",
+    "category": "Sports & games",
+    "prompt": "Name something people do while waiting for their bowling turn.",
+    "answers": [
+      {
+        "text": "Eat a snack",
+        "aliases": [
+          "Have food"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Chat",
+        "aliases": [
+          "Talk to friends"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Check the score",
+        "aliases": [
+          "Look at the scoreboard"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Adjust their shoes",
+        "aliases": [
+          "Fix their laces"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Choose a ball",
+        "aliases": [
+          "Find a bowling ball"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Watch another bowler",
+        "aliases": [
+          "Watch the lane"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-298",
+    "category": "Sports & games",
+    "prompt": "Name something a person considers when choosing an indoor climbing route.",
+    "answers": [
+      {
+        "text": "Difficulty level",
+        "aliases": [
+          "Grade"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Hold color",
+        "aliases": [
+          "Route color"
+        ],
+        "points": 24
+      },
+      {
+        "text": "How crowded it is",
+        "aliases": [
+          "Other climbers"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Size of the holds",
+        "aliases": [
+          "Hold size"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Height",
+        "aliases": [
+          "How high it goes"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Wall angle",
+        "aliases": [
+          "Overhang"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-299",
+    "category": "Sports & games",
+    "prompt": "Name a reason someone pauses halfway up a climbing wall.",
+    "answers": [
+      {
+        "text": "Tired arms",
+        "aliases": [
+          "Arms need a rest"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Looking for the next hold",
+        "aliases": [
+          "Planning a move"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Feeling nervous about the height",
+        "aliases": [
+          "Fear of heights"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Needing more chalk",
+        "aliases": [
+          "Sweaty hands",
+          "Slippery hands"
+        ],
+        "points": 14
+      },
+      {
+        "text": "A loose shoe",
+        "aliases": [
+          "Shoe problem"
+        ],
+        "points": 10
+      },
+      {
+        "text": "The route is blocked",
+        "aliases": [
+          "Another climber in the way"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-300",
+    "category": "Sports & games",
+    "prompt": "Name a reason a roller rink briefly clears the skating floor.",
+    "answers": [
+      {
+        "text": "A speed race",
+        "aliases": [
+          "Race"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Cleaning",
+        "aliases": [
+          "Floor maintenance"
+        ],
+        "points": 25
+      },
+      {
+        "text": "A special performance",
+        "aliases": [
+          "Skating demonstration"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Someone needs assistance",
+        "aliases": [
+          "Skater fell"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A lost item on the floor",
+        "aliases": [
+          "Dropped object"
+        ],
+        "points": 8
+      },
+      {
+        "text": "The session is ending",
+        "aliases": [
+          "Closing time"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-301",
+    "category": "Sports & games",
+    "prompt": "Name a feature skateboarders look for at a skate park.",
+    "answers": [
+      {
+        "text": "Ramps",
+        "aliases": [
+          "Halfpipe"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Rails",
+        "aliases": [
+          "Grind rails"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Bowl",
+        "aliases": [
+          "Skate bowl"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Stairs",
+        "aliases": [
+          "Steps"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Ledges",
+        "aliases": [
+          "Grind ledges"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Smooth flat ground",
+        "aliases": [
+          "Flat practice area"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-302",
+    "category": "Sports & games",
+    "prompt": "Name a complaint someone has about a sledding hill.",
+    "answers": [
+      {
+        "text": "Not enough snow",
+        "aliases": [
+          "Bare patches"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Too many rocks",
+        "aliases": [
+          "Rocky slope"
+        ],
+        "points": 24
+      },
+      {
+        "text": "The run is too short",
+        "aliases": [
+          "Short hill"
+        ],
+        "points": 18
+      },
+      {
+        "text": "The walk back is tiring",
+        "aliases": [
+          "Long climb back"
+        ],
+        "points": 12
+      },
+      {
+        "text": "It is too steep",
+        "aliases": [
+          "Scary slope"
+        ],
+        "points": 8
+      },
+      {
+        "text": "It is too crowded",
+        "aliases": [
+          "Lots of sledders"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-303",
+    "category": "Sports & games",
+    "prompt": "Name a destination people hope to reach on a day hike.",
+    "answers": [
+      {
+        "text": "Waterfall",
+        "aliases": [
+          "Falls"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Mountain summit",
+        "aliases": [
+          "Peak"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Lake",
+        "aliases": [
+          "Mountain lake"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Scenic viewpoint",
+        "aliases": [
+          "Lookout"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Picnic spot",
+        "aliases": [
+          "Picnic area"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Cave",
+        "aliases": [
+          "Cavern"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-304",
+    "category": "Sports & games",
+    "prompt": "Name something people do while waiting for a fish to bite.",
+    "answers": [
+      {
+        "text": "Watch the float",
+        "aliases": [
+          "Watch the bobber"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Eat a snack",
+        "aliases": [
+          "Have a snack"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Chat with a companion",
+        "aliases": [
+          "Talk"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Read",
+        "aliases": [
+          "Read a book"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Untangle line",
+        "aliases": [
+          "Fix tangled line"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Change the bait",
+        "aliases": [
+          "Rebait the hook"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-305",
+    "category": "Sports & games",
+    "prompt": "Name something a golfer does before taking a shot.",
+    "answers": [
+      {
+        "text": "Take a practice swing",
+        "aliases": [
+          "Practice swing"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Line up the shot",
+        "aliases": [
+          "Aim"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Adjust their grip",
+        "aliases": [
+          "Check grip"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Check the wind",
+        "aliases": [
+          "Judge the wind"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Choose a club",
+        "aliases": [
+          "Select a club"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Take a deep breath",
+        "aliases": [
+          "Breathe"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-306",
+    "category": "Sports & games",
+    "prompt": "Name a reason a beginner's arrow might miss the target.",
+    "answers": [
+      {
+        "text": "Poor aim",
+        "aliases": [
+          "Bad aim"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Shaky hands",
+        "aliases": [
+          "Unsteady hands"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Wind",
+        "aliases": [
+          "Gust"
+        ],
+        "points": 18
+      },
+      {
+        "text": "An awkward stance",
+        "aliases": [
+          "Bad stance"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Releasing too early",
+        "aliases": [
+          "Early release"
+        ],
+        "points": 8
+      },
+      {
+        "text": "An unfamiliar bow",
+        "aliases": [
+          "New bow"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-307",
+    "category": "Sports & games",
+    "prompt": "Name something people enjoy spotting while paddling on a calm lake.",
+    "answers": [
+      {
+        "text": "Ducks",
+        "aliases": [
+          "Water birds"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Fish",
+        "aliases": [
+          "Fish below the surface"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Turtles",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Reeds",
+        "aliases": [
+          "Water plants"
+        ],
+        "points": 14
+      },
+      {
+        "text": "A sunset",
+        "aliases": [
+          "Setting sun"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Other boats",
+        "aliases": [
+          "Sailboats"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-308",
+    "category": "Sports & games",
+    "prompt": "Name a problem with setting up table tennis in a small room.",
+    "answers": [
+      {
+        "text": "Low ceiling",
+        "aliases": [
+          "Not enough height"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Too little space to move",
+        "aliases": [
+          "Cramped room"
+        ],
+        "points": 25
+      },
+      {
+        "text": "A breakable lamp nearby",
+        "aliases": [
+          "Fragile objects"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Uneven floor",
+        "aliases": [
+          "Table not level"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Clutter in the way",
+        "aliases": [
+          "Stored items"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Slippery flooring",
+        "aliases": [
+          "Slippery floor"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-309",
+    "category": "Sports & games",
+    "prompt": "Name something a beginner finds confusing in pickleball.",
+    "answers": [
+      {
+        "text": "Keeping score",
+        "aliases": [
+          "Scoring"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Serving",
+        "aliases": [
+          "Service rules"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Staying out of the kitchen",
+        "aliases": [
+          "Non volley zone"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Timing a hit",
+        "aliases": [
+          "Hitting the ball"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Holding the paddle",
+        "aliases": [
+          "Paddle grip"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Where to stand in doubles",
+        "aliases": [
+          "Doubles positioning"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-310",
+    "category": "Sports & games",
+    "prompt": "Name something that interrupts a backyard badminton rally.",
+    "answers": [
+      {
+        "text": "A gust of wind",
+        "aliases": [
+          "Wind"
+        ],
+        "points": 32
+      },
+      {
+        "text": "The shuttle lands in a tree",
+        "aliases": [
+          "Tree branches"
+        ],
+        "points": 24
+      },
+      {
+        "text": "A dog grabs the shuttle",
+        "aliases": [
+          "Dog interference"
+        ],
+        "points": 18
+      },
+      {
+        "text": "The shuttle goes over a fence",
+        "aliases": [
+          "Neighbor's yard"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A racket string breaks",
+        "aliases": [
+          "Broken string"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A sprinkler turns on",
+        "aliases": [
+          "Sprinkler"
+        ],
+        "points": 6
+      }
+    ]
+  }
+]

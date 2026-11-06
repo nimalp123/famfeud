@@ -1,0 +1,4248 @@
+[
+  {
+    "id": "games-131",
+    "category": "Sports & games",
+    "prompt": "Name a feature that helps someone choose a new board game.",
+    "answers": [
+      {
+        "text": "Number of players",
+        "aliases": [
+          "Player count"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Playing time",
+        "aliases": [
+          "Game length"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Easy rules",
+        "aliases": [
+          "Simple rules"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Theme",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Price",
+        "aliases": [
+          "Cost"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Artwork",
+        "aliases": [
+          "Art"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-132",
+    "category": "Sports & games",
+    "prompt": "Name something you might see illustrated on a board game box.",
+    "answers": [
+      {
+        "text": "Dragon",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Castle",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Spaceship",
+        "aliases": [
+          "Space ship"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Pirate",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Island",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Farm",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-133",
+    "category": "Sports & games",
+    "prompt": "Name a theme people enjoy in a strategy board game.",
+    "answers": [
+      {
+        "text": "Fantasy",
+        "aliases": [
+          "Magic"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Space exploration",
+        "aliases": [
+          "Outer space"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Mystery",
+        "aliases": [
+          "Detectives"
+        ],
+        "points": 19
+      },
+      {
+        "text": "History",
+        "aliases": [
+          "Historical"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Trains",
+        "aliases": [
+          "Railways"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Farming",
+        "aliases": [
+          "Agriculture"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-134",
+    "category": "Sports & games",
+    "prompt": "Name something used to organize the contents of a board game box.",
+    "answers": [
+      {
+        "text": "Plastic bags",
+        "aliases": [
+          "Baggies"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Compartments",
+        "aliases": [
+          "Dividers"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Small containers",
+        "aliases": [
+          "Little boxes"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Card holders",
+        "aliases": [
+          "Card trays"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Rubber bands",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Labels",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-135",
+    "category": "Sports & games",
+    "prompt": "Name a way players decide who takes the first turn.",
+    "answers": [
+      {
+        "text": "Roll a die",
+        "aliases": [
+          "Highest dice roll"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Youngest goes first",
+        "aliases": [
+          "Youngest player"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Rock paper scissors",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Flip a coin",
+        "aliases": [
+          "Coin toss"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Draw a card",
+        "aliases": [
+          "Highest card"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Take turns starting",
+        "aliases": [
+          "Rotate the first player"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-136",
+    "category": "Sports & games",
+    "prompt": "Name something a special square on a board game might tell you to do.",
+    "answers": [
+      {
+        "text": "Move forward",
+        "aliases": [
+          "Advance"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Go back",
+        "aliases": [
+          "Move backward"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Miss a turn",
+        "aliases": [
+          "Skip a turn"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Draw a card",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Collect money",
+        "aliases": [
+          "Gain coins"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Roll again",
+        "aliases": [
+          "Take another roll"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-137",
+    "category": "Sports & games",
+    "prompt": "Name a house rule a family might add to a board game.",
+    "answers": [
+      {
+        "text": "Extra starting money",
+        "aliases": [
+          "More money at the start"
+        ],
+        "points": 28
+      },
+      {
+        "text": "No time limit",
+        "aliases": [
+          "Unlimited time"
+        ],
+        "points": 23
+      },
+      {
+        "text": "One free do-over",
+        "aliases": [
+          "A second chance"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Free Parking prize",
+        "aliases": [
+          "Money on Free Parking"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Help younger players",
+        "aliases": [
+          "Give children hints"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Ignore exact finish rolls",
+        "aliases": [
+          "No exact roll to finish"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-138",
+    "category": "Sports & games",
+    "prompt": "Name where someone might find a game piece that fell off the table.",
+    "answers": [
+      {
+        "text": "Under the table",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Under the sofa",
+        "aliases": [
+          "Under the couch"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Behind a cabinet",
+        "aliases": [
+          "Behind furniture"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Inside a shoe",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Under a rug",
+        "aliases": [
+          "Under the carpet"
+        ],
+        "points": 8
+      },
+      {
+        "text": "In a pet bed",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-139",
+    "category": "Sports & games",
+    "prompt": "Name something that helps a beginner learn a complicated tabletop game.",
+    "answers": [
+      {
+        "text": "Example turn",
+        "aliases": [
+          "Demonstration turn"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Reference card",
+        "aliases": [
+          "Player aid"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Video tutorial",
+        "aliases": [
+          "How to play video"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Rulebook",
+        "aliases": [
+          "Instruction booklet"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Practice round",
+        "aliases": [
+          "Trial round"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Setup diagram",
+        "aliases": [
+          "Picture of the setup"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-140",
+    "category": "Sports & games",
+    "prompt": "Name something a considerate board game player does.",
+    "answers": [
+      {
+        "text": "Waits for their turn",
+        "aliases": [
+          "Takes turns"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Helps beginners",
+        "aliases": [
+          "Explains to new players"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Congratulates the winner",
+        "aliases": [
+          "Says well played"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Handles pieces gently",
+        "aliases": [
+          "Takes care of the pieces"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Accepts losing",
+        "aliases": [
+          "Is a good loser"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Puts their phone away",
+        "aliases": [
+          "Stays off their phone"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-141",
+    "category": "Sports & games",
+    "prompt": "Name a way a team can lose a cooperative board game.",
+    "answers": [
+      {
+        "text": "Time runs out",
+        "aliases": [
+          "Runs out of time"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Enemies overwhelm them",
+        "aliases": [
+          "Too many enemies"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Supplies run out",
+        "aliases": [
+          "Runs out of resources"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Their base is destroyed",
+        "aliases": [
+          "Loses the base"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Too many mistakes",
+        "aliases": [
+          "Makes too many errors"
+        ],
+        "points": 10
+      },
+      {
+        "text": "They fail to agree",
+        "aliases": [
+          "Cannot agree on a plan"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-142",
+    "category": "Sports & games",
+    "prompt": "Name a task players might share in a cooperative adventure board game.",
+    "answers": [
+      {
+        "text": "Healing teammates",
+        "aliases": [
+          "Helping injured players"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Sharing supplies",
+        "aliases": [
+          "Giving resources"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Planning moves",
+        "aliases": [
+          "Making a plan"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Defending the base",
+        "aliases": [
+          "Protecting the base"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Solving clues",
+        "aliases": [
+          "Working out clues"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Exploring new areas",
+        "aliases": [
+          "Scouting"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-143",
+    "category": "Sports & games",
+    "prompt": "Name a category people use for a quick word-guessing game.",
+    "answers": [
+      {
+        "text": "Animals",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Places",
+        "aliases": [
+          "Locations"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Food",
+        "aliases": [
+          "Foods"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Jobs",
+        "aliases": [
+          "Occupations"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Movies",
+        "aliases": [
+          "Films"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Household objects",
+        "aliases": [
+          "Things in the house"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-144",
+    "category": "Sports & games",
+    "prompt": "Name something easy to draw in a drawing-and-guessing game.",
+    "answers": [
+      {
+        "text": "House",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Tree",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Car",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Person",
+        "aliases": [
+          "Stick figure"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Sun",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Dog",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-145",
+    "category": "Sports & games",
+    "prompt": "Name a restriction a word game might put on your answer.",
+    "answers": [
+      {
+        "text": "Starts with a certain letter",
+        "aliases": [
+          "Required first letter"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Fits a category",
+        "aliases": [
+          "Stays in the category"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Has a certain length",
+        "aliases": [
+          "Required word length"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Rhymes with another word",
+        "aliases": [
+          "Must rhyme"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Cannot repeat a word",
+        "aliases": [
+          "No repeats"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Avoids certain letters",
+        "aliases": [
+          "Forbidden letters"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-146",
+    "category": "Sports & games",
+    "prompt": "Name a way to give a clue without saying the secret word.",
+    "answers": [
+      {
+        "text": "Describe its use",
+        "aliases": [
+          "Say what it does"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Give a synonym",
+        "aliases": [
+          "Use a similar word"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Name its opposite",
+        "aliases": [
+          "Give an antonym"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Make a sound",
+        "aliases": [
+          "Sound effect"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Act it out",
+        "aliases": [
+          "Mime"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Compare it to something",
+        "aliases": [
+          "Make a comparison"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-147",
+    "category": "Sports & games",
+    "prompt": "Name something people use to keep score in a tabletop game.",
+    "answers": [
+      {
+        "text": "Paper and pencil",
+        "aliases": [
+          "Notepad"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Phone app",
+        "aliases": [
+          "Scorekeeping app"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Whiteboard",
+        "aliases": [
+          "Dry erase board"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Score track",
+        "aliases": [
+          "Scoring track"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Coins",
+        "aliases": [
+          "Counters"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Tally sticks",
+        "aliases": [
+          "Matchsticks"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-148",
+    "category": "Sports & games",
+    "prompt": "Name a small object that can replace a missing board game token.",
+    "answers": [
+      {
+        "text": "Coin",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Button",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Bottle cap",
+        "aliases": [
+          "Bottle top"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Eraser",
+        "aliases": [
+          "Rubber"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Bean",
+        "aliases": [
+          "Dried bean"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Toy figure",
+        "aliases": [
+          "Figurine"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-149",
+    "category": "Sports & games",
+    "prompt": "Name a clue players might examine in a mystery board game.",
+    "answers": [
+      {
+        "text": "Fingerprint",
+        "aliases": [
+          "Fingerprints"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Handwritten note",
+        "aliases": [
+          "Letter"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Footprint",
+        "aliases": [
+          "Footprints"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Key",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Photograph",
+        "aliases": [
+          "Photo"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Map",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-150",
+    "category": "Sports & games",
+    "prompt": "Name something that makes the same board game feel different each time.",
+    "answers": [
+      {
+        "text": "Shuffled cards",
+        "aliases": [
+          "Different card order"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Different players",
+        "aliases": [
+          "New opponents"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Random board layout",
+        "aliases": [
+          "Changing board"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Different characters",
+        "aliases": [
+          "New characters"
+        ],
+        "points": 11
+      },
+      {
+        "text": "New goals",
+        "aliases": [
+          "Alternate objectives"
+        ],
+        "points": 8
+      },
+      {
+        "text": "An expansion",
+        "aliases": [
+          "Extra content"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-151",
+    "category": "Sports & games",
+    "prompt": "Name something that can make a tower fall in a stacking game.",
+    "answers": [
+      {
+        "text": "Shaky hands",
+        "aliases": [
+          "Trembling hands"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Bumped table",
+        "aliases": [
+          "Someone bumps the table"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Leaning tower",
+        "aliases": [
+          "The tower leans"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Uneven base",
+        "aliases": [
+          "Wobbly base"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Heavy piece on top",
+        "aliases": [
+          "Top heavy tower"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A sudden sneeze",
+        "aliases": [
+          "Sneezing"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-152",
+    "category": "Sports & games",
+    "prompt": "Name a feature players might match in a tile game.",
+    "answers": [
+      {
+        "text": "Color",
+        "aliases": [
+          "Colour"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Number",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Picture",
+        "aliases": [
+          "Image"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Shape",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Letter",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Pattern",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-153",
+    "category": "Sports & games",
+    "prompt": "Name something people do with a set of dominoes.",
+    "answers": [
+      {
+        "text": "Match the ends",
+        "aliases": [
+          "Match the dots"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Build a chain",
+        "aliases": [
+          "Make a line"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Count the dots",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Stand them up",
+        "aliases": [
+          "Set up a domino run"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Sort the tiles",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Make patterns",
+        "aliases": [
+          "Create designs"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-154",
+    "category": "Sports & games",
+    "prompt": "Name something a ball might knock over in a tabletop target game.",
+    "answers": [
+      {
+        "text": "Miniature pins",
+        "aliases": [
+          "Tiny bowling pins"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Dominoes",
+        "aliases": [
+          "Dominos"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Stacked blocks",
+        "aliases": [
+          "Block tower"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Plastic cups",
+        "aliases": [
+          "Cups"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Toy figures",
+        "aliases": [
+          "Little figures"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Standing targets",
+        "aliases": [
+          "Target cards"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-155",
+    "category": "Sports & games",
+    "prompt": "Name a small tabletop toy that can keep someone busy on a rainy afternoon.",
+    "answers": [
+      {
+        "text": "Dominoes",
+        "aliases": [
+          "Dominos"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Jacks",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Pick-up sticks",
+        "aliases": [
+          "Pickup sticks"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Spinning top",
+        "aliases": [
+          "Top"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Marbles",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Tangram",
+        "aliases": [
+          "Tangram puzzle"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-156",
+    "category": "Sports & games",
+    "prompt": "Name something a child could use to make a homemade board game.",
+    "answers": [
+      {
+        "text": "Cardboard",
+        "aliases": [
+          "Card"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Markers",
+        "aliases": [
+          "Felt pens"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Dice",
+        "aliases": [
+          "Die"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Buttons",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Index cards",
+        "aliases": [
+          "Note cards"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Stickers",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-157",
+    "category": "Sports & games",
+    "prompt": "Name a resource players might trade in a settlement-building board game.",
+    "answers": [
+      {
+        "text": "Wood",
+        "aliases": [
+          "Lumber"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Brick",
+        "aliases": [
+          "Bricks"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Grain",
+        "aliases": [
+          "Wheat"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Stone",
+        "aliases": [
+          "Rock"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Wool",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Metal",
+        "aliases": [
+          "Ore"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-158",
+    "category": "Sports & games",
+    "prompt": "Name a goal a board game might ask players to achieve.",
+    "answers": [
+      {
+        "text": "Score the most points",
+        "aliases": [
+          "Have the highest score"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Reach the finish",
+        "aliases": [
+          "Get to the end"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Collect a full set",
+        "aliases": [
+          "Complete a collection"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Checkmate the king",
+        "aliases": [
+          "Checkmate"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Solve a mystery",
+        "aliases": [
+          "Find the culprit"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Survive together",
+        "aliases": [
+          "Keep the team alive"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-159",
+    "category": "Sports & games",
+    "prompt": "Name something an organizer prepares for a board game tournament.",
+    "answers": [
+      {
+        "text": "Tables",
+        "aliases": [
+          "Playing tables"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Match schedule",
+        "aliases": [
+          "Brackets"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Timers",
+        "aliases": [
+          "Clocks"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Prizes",
+        "aliases": [
+          "Awards"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Sign-up sheet",
+        "aliases": [
+          "Registration list"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Tournament rules",
+        "aliases": [
+          "Competition rules"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-160",
+    "category": "Sports & games",
+    "prompt": "Name a personality trait someone might give a tabletop role-playing character.",
+    "answers": [
+      {
+        "text": "Brave",
+        "aliases": [
+          "Courageous"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Sneaky",
+        "aliases": [
+          "Secretive"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Funny",
+        "aliases": [
+          "Humorous"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Loyal",
+        "aliases": [
+          "Faithful"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Curious",
+        "aliases": [
+          "Inquisitive"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Grumpy",
+        "aliases": [
+          "Grouchy"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-161",
+    "category": "Sports & games",
+    "prompt": "Name something people do with their playing cards while waiting for a turn.",
+    "answers": [
+      {
+        "text": "Sort them",
+        "aliases": [
+          "Arrange them"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Fan them out",
+        "aliases": [
+          "Spread them in a fan"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Count them",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Tap them on the table",
+        "aliases": [
+          "Tap the cards"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Hold them close",
+        "aliases": [
+          "Keep them hidden"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Practice a card flourish",
+        "aliases": [
+          "Do a one-handed cut"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-162",
+    "category": "Sports & games",
+    "prompt": "Name a reason players might deal the cards again.",
+    "answers": [
+      {
+        "text": "Wrong number of cards",
+        "aliases": [
+          "Too many cards dealt"
+        ],
+        "points": 35
+      },
+      {
+        "text": "A card was exposed",
+        "aliases": [
+          "Someone saw a card"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Cards left in the box",
+        "aliases": [
+          "Missing cards in the deal"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Wrong dealer",
+        "aliases": [
+          "Dealt out of turn"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Two decks got mixed",
+        "aliases": [
+          "Mixed decks"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A drink spilled",
+        "aliases": [
+          "Wet cards"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-163",
+    "category": "Sports & games",
+    "prompt": "Name something someone might say during a family card game.",
+    "answers": [
+      {
+        "text": "Your turn",
+        "aliases": [
+          "It is your turn"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Draw a card",
+        "aliases": [
+          "Pick up a card"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Go Fish",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "You are skipped",
+        "aliases": [
+          "Skip you"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Uno",
+        "aliases": [
+          "One card left"
+        ],
+        "points": 9
+      },
+      {
+        "text": "I win",
+        "aliases": [
+          "I won"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-164",
+    "category": "Sports & games",
+    "prompt": "Name a design you might see on the back of playing cards.",
+    "answers": [
+      {
+        "text": "Diamonds",
+        "aliases": [
+          "Diamond pattern"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Stars",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Flowers",
+        "aliases": [
+          "Floral pattern"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Stripes",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "A logo",
+        "aliases": [
+          "Brand logo"
+        ],
+        "points": 8
+      },
+      {
+        "text": "An animal",
+        "aliases": [
+          "Animal picture"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-165",
+    "category": "Sports & games",
+    "prompt": "Name something people use playing cards for besides a card game.",
+    "answers": [
+      {
+        "text": "Magic tricks",
+        "aliases": [
+          "Card tricks"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Building a card house",
+        "aliases": [
+          "House of cards"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Craft projects",
+        "aliases": [
+          "Arts and crafts"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Bookmarks",
+        "aliases": [
+          "Book marker"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Learning numbers",
+        "aliases": [
+          "Number lessons"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Bicycle spoke noisemakers",
+        "aliases": [
+          "Cards in bike spokes"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-166",
+    "category": "Sports & games",
+    "prompt": "Name a way an audience reacts to an impressive card trick.",
+    "answers": [
+      {
+        "text": "Applauds",
+        "aliases": [
+          "Claps"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Gasps",
+        "aliases": [
+          "Gasps in surprise"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Laughs",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Asks to see it again",
+        "aliases": [
+          "Says do it again"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Inspects the deck",
+        "aliases": [
+          "Checks the cards"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Tries to guess the secret",
+        "aliases": [
+          "Explains how it works"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-167",
+    "category": "Sports & games",
+    "prompt": "Name a picture theme children enjoy in a matching-card game.",
+    "answers": [
+      {
+        "text": "Farm animals",
+        "aliases": [
+          "Farmyard animals",
+          "Barnyard animals"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Vehicles",
+        "aliases": [
+          "Cars and trucks"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Fruit",
+        "aliases": [
+          "Fruits"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Dinosaurs",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Letters",
+        "aliases": [
+          "Alphabet"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Cartoon characters",
+        "aliases": [
+          "Cartoons"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-168",
+    "category": "Sports & games",
+    "prompt": "Name something collectors admire about a trading card.",
+    "answers": [
+      {
+        "text": "Artwork",
+        "aliases": [
+          "Illustration"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Rarity",
+        "aliases": [
+          "How rare it is"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Favorite character",
+        "aliases": [
+          "Character"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Shiny finish",
+        "aliases": [
+          "Foil finish"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Game strength",
+        "aliases": [
+          "Power"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Good condition",
+        "aliases": [
+          "Mint condition"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-169",
+    "category": "Sports & games",
+    "prompt": "Name a picture someone might choose for a jigsaw puzzle.",
+    "answers": [
+      {
+        "text": "Landscape",
+        "aliases": [
+          "Scenery"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Animals",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "City skyline",
+        "aliases": [
+          "City"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Famous painting",
+        "aliases": [
+          "Art"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Map",
+        "aliases": [
+          "World map"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Food",
+        "aliases": [
+          "Food picture"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-170",
+    "category": "Sports & games",
+    "prompt": "Name something people do to make a jigsaw puzzle easier.",
+    "answers": [
+      {
+        "text": "Find the edge pieces",
+        "aliases": [
+          "Start with the border"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Sort by color",
+        "aliases": [
+          "Sort by colour"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Look at the box picture",
+        "aliases": [
+          "Use the picture"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Group similar shapes",
+        "aliases": [
+          "Sort by shape"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Build small sections",
+        "aliases": [
+          "Work in sections"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Turn pieces face up",
+        "aliases": [
+          "Flip all pieces over"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-171",
+    "category": "Sports & games",
+    "prompt": "Name a surface people use for a jigsaw puzzle.",
+    "answers": [
+      {
+        "text": "Dining table",
+        "aliases": [
+          "Kitchen table"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Puzzle mat",
+        "aliases": [
+          "Roll up mat"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Coffee table",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Desk",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Puzzle tray",
+        "aliases": [
+          "Tray"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Floor",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-172",
+    "category": "Sports & games",
+    "prompt": "Name something people do with a finished jigsaw puzzle.",
+    "answers": [
+      {
+        "text": "Take it apart",
+        "aliases": [
+          "Put it back in the box"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Frame it",
+        "aliases": [
+          "Put it in a frame"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Glue it together",
+        "aliases": [
+          "Glue it"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Display it",
+        "aliases": [
+          "Leave it on show"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Photograph it",
+        "aliases": [
+          "Take a picture"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Donate it",
+        "aliases": [
+          "Give it away"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-173",
+    "category": "Sports & games",
+    "prompt": "Name an accessory that helps someone work on a detailed jigsaw puzzle.",
+    "answers": [
+      {
+        "text": "Sorting trays",
+        "aliases": [
+          "Piece trays"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Good lamp",
+        "aliases": [
+          "Desk lamp"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Magnifying glass",
+        "aliases": [
+          "Magnifier"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Puzzle board",
+        "aliases": [
+          "Puzzle table"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Roll-up mat",
+        "aliases": [
+          "Puzzle mat"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Tweezers",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-174",
+    "category": "Sports & games",
+    "prompt": "Name something people do when they cannot solve a crossword clue.",
+    "answers": [
+      {
+        "text": "Check crossing letters",
+        "aliases": [
+          "Use other answers"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Ask someone",
+        "aliases": [
+          "Ask a friend"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Look in a dictionary",
+        "aliases": [
+          "Use a dictionary"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Skip the clue",
+        "aliases": [
+          "Come back later"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Take a break",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Pencil in a guess",
+        "aliases": [
+          "Make a tentative guess"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-175",
+    "category": "Sports & games",
+    "prompt": "Name a theme for the hidden words in a word search.",
+    "answers": [
+      {
+        "text": "Animals",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Holidays",
+        "aliases": [
+          "Celebrations"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Countries",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Food",
+        "aliases": [
+          "Foods"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Sports",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Jobs",
+        "aliases": [
+          "Occupations"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-176",
+    "category": "Sports & games",
+    "prompt": "Name a type of puzzle often found in an activity book.",
+    "answers": [
+      {
+        "text": "Word search",
+        "aliases": [
+          "Wordsearch"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Crossword",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Sudoku",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Maze",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Spot the difference",
+        "aliases": [
+          "Find the differences"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Connect the dots",
+        "aliases": [
+          "Dot to dot"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-177",
+    "category": "Sports & games",
+    "prompt": "Name somewhere players might search for a clue in an escape room.",
+    "answers": [
+      {
+        "text": "Drawer",
+        "aliases": [
+          "Drawers"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Book",
+        "aliases": [
+          "Books"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Behind a picture",
+        "aliases": [
+          "Picture frame"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Safe",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Box",
+        "aliases": [
+          "Locked box"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Under a rug",
+        "aliases": [
+          "Under the carpet"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-178",
+    "category": "Sports & games",
+    "prompt": "Name something an escape-room clue might tell players to put in order.",
+    "answers": [
+      {
+        "text": "Numbers",
+        "aliases": [
+          "Digits"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Letters",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Colors",
+        "aliases": [
+          "Colours"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Symbols",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Directions",
+        "aliases": [
+          "Arrows"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Dates",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-179",
+    "category": "Sports & games",
+    "prompt": "Name a job someone might take on in an escape-room team.",
+    "answers": [
+      {
+        "text": "Searching for clues",
+        "aliases": [
+          "Searcher"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Solving codes",
+        "aliases": [
+          "Code solver"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Taking notes",
+        "aliases": [
+          "Note taker"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Watching the time",
+        "aliases": [
+          "Timekeeper"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Organizing found items",
+        "aliases": [
+          "Item organizer"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Reporting discoveries",
+        "aliases": [
+          "Communicator"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-180",
+    "category": "Sports & games",
+    "prompt": "Name a detail people compare in a spot-the-difference puzzle.",
+    "answers": [
+      {
+        "text": "Color",
+        "aliases": [
+          "Colour"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Missing objects",
+        "aliases": [
+          "Missing items"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Object size",
+        "aliases": [
+          "Size"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Position",
+        "aliases": [
+          "Location"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Number of objects",
+        "aliases": [
+          "Object count"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Background details",
+        "aliases": [
+          "Background"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-181",
+    "category": "Sports & games",
+    "prompt": "Name a setting players often adjust in a video game.",
+    "answers": [
+      {
+        "text": "Volume",
+        "aliases": [
+          "Sound volume"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Difficulty",
+        "aliases": [
+          "Difficulty level"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Brightness",
+        "aliases": [
+          "Screen brightness"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Controller sensitivity",
+        "aliases": [
+          "Mouse sensitivity"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Subtitles",
+        "aliases": [
+          "Captions"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Graphics quality",
+        "aliases": [
+          "Video quality"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-182",
+    "category": "Sports & games",
+    "prompt": "Name a service a friendly character might provide in a video game.",
+    "answers": [
+      {
+        "text": "Sell supplies",
+        "aliases": [
+          "Sell items"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Heal injuries",
+        "aliases": [
+          "Restore health"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Give directions",
+        "aliases": [
+          "Show the way"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Repair equipment",
+        "aliases": [
+          "Fix damaged gear"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Provide transportation",
+        "aliases": [
+          "Offer a ride"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Teach skills",
+        "aliases": [
+          "Train the player"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-183",
+    "category": "Sports & games",
+    "prompt": "Name something a video game character might carry in an inventory.",
+    "answers": [
+      {
+        "text": "Tools",
+        "aliases": [
+          "Tool"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Food",
+        "aliases": [
+          "Snacks"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Potions",
+        "aliases": [
+          "Potion"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Keys",
+        "aliases": [
+          "Key"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Coins",
+        "aliases": [
+          "Money"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Maps",
+        "aliases": [
+          "Map"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-184",
+    "category": "Sports & games",
+    "prompt": "Name a place players might explore in an adventure video game.",
+    "answers": [
+      {
+        "text": "Forest",
+        "aliases": [
+          "Woods"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Castle",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Cave",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "City",
+        "aliases": [
+          "Town"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Desert",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Ocean",
+        "aliases": [
+          "Sea"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-185",
+    "category": "Sports & games",
+    "prompt": "Name something players do to care for a virtual pet.",
+    "answers": [
+      {
+        "text": "Feed it",
+        "aliases": [
+          "Give it food"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Play with it",
+        "aliases": [
+          "Play games with it"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Wash it",
+        "aliases": [
+          "Give it a bath"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Walk it",
+        "aliases": [
+          "Take it for a walk"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Train it",
+        "aliases": [
+          "Teach it tricks"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Decorate its home",
+        "aliases": [
+          "Improve its home"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-186",
+    "category": "Sports & games",
+    "prompt": "Name a task players do in a farming video game.",
+    "answers": [
+      {
+        "text": "Plant seeds",
+        "aliases": [
+          "Plant crops"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Water crops",
+        "aliases": [
+          "Water plants"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Harvest crops",
+        "aliases": [
+          "Pick crops"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Feed animals",
+        "aliases": [
+          "Care for livestock"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Go fishing",
+        "aliases": [
+          "Catch fish"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sell produce",
+        "aliases": [
+          "Sell crops"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-187",
+    "category": "Sports & games",
+    "prompt": "Name something players build in a city-building video game.",
+    "answers": [
+      {
+        "text": "Houses",
+        "aliases": [
+          "Homes"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Roads",
+        "aliases": [
+          "Streets"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Schools",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Hospitals",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Parks",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Power stations",
+        "aliases": [
+          "Power plants"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-188",
+    "category": "Sports & games",
+    "prompt": "Name a hazard that could slow a car in a racing video game.",
+    "answers": [
+      {
+        "text": "Sharp turn",
+        "aliases": [
+          "Tight corner"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Traffic",
+        "aliases": [
+          "Other cars"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Oil slick",
+        "aliases": [
+          "Oil on the road"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Bad weather",
+        "aliases": [
+          "Rain"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Falling rocks",
+        "aliases": [
+          "Rockslide"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Jump ramp",
+        "aliases": [
+          "Ramp"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-189",
+    "category": "Sports & games",
+    "prompt": "Name a feature players might change on a car in a racing video game.",
+    "answers": [
+      {
+        "text": "Paint color",
+        "aliases": [
+          "Colour"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Wheels",
+        "aliases": [
+          "Tires"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Engine",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Decals",
+        "aliases": [
+          "Stickers"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Spoiler",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Horn",
+        "aliases": [
+          "Horn sound"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-190",
+    "category": "Sports & games",
+    "prompt": "Name something a player might do to earn a video game achievement.",
+    "answers": [
+      {
+        "text": "Finish a level",
+        "aliases": [
+          "Complete a level"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Find a secret",
+        "aliases": [
+          "Discover a hidden area"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Win a match",
+        "aliases": [
+          "Win a game"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Beat a high score",
+        "aliases": [
+          "Set a record"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Help a teammate",
+        "aliases": [
+          "Assist another player"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Collect every item",
+        "aliases": [
+          "Complete a collection"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-191",
+    "category": "Sports & games",
+    "prompt": "Name a reason someone replays a video game level they already finished.",
+    "answers": [
+      {
+        "text": "Beat their score",
+        "aliases": [
+          "Improve their score"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Find missed items",
+        "aliases": [
+          "Collect missed items"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Finish faster",
+        "aliases": [
+          "Improve their time"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Unlock a secret",
+        "aliases": [
+          "Find a hidden secret"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Try a new strategy",
+        "aliases": [
+          "Use a different approach"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Enjoy a favorite level",
+        "aliases": [
+          "It is fun"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-192",
+    "category": "Sports & games",
+    "prompt": "Name something that makes a video game cutscene memorable.",
+    "answers": [
+      {
+        "text": "Surprising plot twist",
+        "aliases": [
+          "Story twist"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Voice acting",
+        "aliases": [
+          "Character voices"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Music",
+        "aliases": [
+          "Soundtrack"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Animation",
+        "aliases": [
+          "Character animation"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Funny dialogue",
+        "aliases": [
+          "Funny lines"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Beautiful scenery",
+        "aliases": [
+          "Great visuals"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-193",
+    "category": "Sports & games",
+    "prompt": "Name an action a video game tutorial might teach you.",
+    "answers": [
+      {
+        "text": "Move the character",
+        "aliases": [
+          "Walk"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Jump",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Interact with objects",
+        "aliases": [
+          "Use objects"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Open the inventory",
+        "aliases": [
+          "Check inventory"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Change the camera view",
+        "aliases": [
+          "Move the camera"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Save the game",
+        "aliases": [
+          "Save progress"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-194",
+    "category": "Sports & games",
+    "prompt": "Name an option you might find on a video game main menu.",
+    "answers": [
+      {
+        "text": "New game",
+        "aliases": [
+          "Start game"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Continue",
+        "aliases": [
+          "Load game"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Settings",
+        "aliases": [
+          "Options"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Multiplayer",
+        "aliases": [
+          "Play online"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Credits",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Quit",
+        "aliases": [
+          "Exit"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-195",
+    "category": "Sports & games",
+    "prompt": "Name information a video game might show around the edge of the screen.",
+    "answers": [
+      {
+        "text": "Health",
+        "aliases": [
+          "Health bar"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Score",
+        "aliases": [
+          "Points"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Time remaining",
+        "aliases": [
+          "Timer"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Map",
+        "aliases": [
+          "Minimap"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Ammunition",
+        "aliases": [
+          "Ammo"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Current objective",
+        "aliases": [
+          "Mission goal"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-196",
+    "category": "Sports & games",
+    "prompt": "Name a reason an online video game match might be delayed.",
+    "answers": [
+      {
+        "text": "Slow internet",
+        "aliases": [
+          "Lag"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Server maintenance",
+        "aliases": [
+          "Servers are down"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Game update",
+        "aliases": [
+          "Downloading an update"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Full lobby",
+        "aliases": [
+          "No room in the lobby"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Player disconnected",
+        "aliases": [
+          "Someone lost connection"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Finding opponents",
+        "aliases": [
+          "Matchmaking queue"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-197",
+    "category": "Sports & games",
+    "prompt": "Name something a helpful teammate does in an online video game.",
+    "answers": [
+      {
+        "text": "Shares supplies",
+        "aliases": [
+          "Gives resources"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Gives useful information",
+        "aliases": [
+          "Calls out helpful details"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Revives teammates",
+        "aliases": [
+          "Helps fallen players"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Works on the objective",
+        "aliases": [
+          "Focuses on the goal"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Encourages the team",
+        "aliases": [
+          "Cheers teammates on"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Welcomes beginners",
+        "aliases": [
+          "Helps new players"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-198",
+    "category": "Sports & games",
+    "prompt": "Name a way a video game can make a harder difficulty level more challenging.",
+    "answers": [
+      {
+        "text": "Stronger enemies",
+        "aliases": [
+          "Tougher opponents"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Less time",
+        "aliases": [
+          "Shorter timer"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Fewer lives",
+        "aliases": [
+          "Less health"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Faster action",
+        "aliases": [
+          "Faster enemies"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Harder puzzles",
+        "aliases": [
+          "Trickier puzzles"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Fewer supplies",
+        "aliases": [
+          "Fewer resources"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-199",
+    "category": "Sports & games",
+    "prompt": "Name something a fan might collect from a favorite video game.",
+    "answers": [
+      {
+        "text": "Character figures",
+        "aliases": [
+          "Figurines"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Posters",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "T-shirts",
+        "aliases": [
+          "Shirts"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Soundtrack",
+        "aliases": [
+          "Music"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Art book",
+        "aliases": [
+          "Artbook"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Controller skins",
+        "aliases": [
+          "Controller covers"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-200",
+    "category": "Sports & games",
+    "prompt": "Name somewhere people play a handheld video game.",
+    "answers": [
+      {
+        "text": "Sofa",
+        "aliases": [
+          "Couch"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Bed",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Public transportation",
+        "aliases": [
+          "Train",
+          "Bus"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Waiting room",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Airplane",
+        "aliases": [
+          "Plane"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Car back seat",
+        "aliases": [
+          "Backseat"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-201",
+    "category": "Sports & games",
+    "prompt": "Name something a player packs to bring a game console to a friend's house.",
+    "answers": [
+      {
+        "text": "Console",
+        "aliases": [
+          "Game system"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Controllers",
+        "aliases": [
+          "Gamepads"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Games",
+        "aliases": [
+          "Game discs"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Headset",
+        "aliases": [
+          "Headphones"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Video cable",
+        "aliases": [
+          "HDMI cable"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Power adapter",
+        "aliases": [
+          "Power supply"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-202",
+    "category": "Sports & games",
+    "prompt": "Name a reason a video game controller might not respond properly.",
+    "answers": [
+      {
+        "text": "Dead batteries",
+        "aliases": [
+          "Low battery"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Stuck button",
+        "aliases": [
+          "Jammed button"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Loose cable",
+        "aliases": [
+          "Disconnected cable"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Out of range",
+        "aliases": [
+          "Too far away"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Joystick drift",
+        "aliases": [
+          "Stick drift"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Not paired",
+        "aliases": [
+          "Lost pairing"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-203",
+    "category": "Sports & games",
+    "prompt": "Name an activity in a video game that can make players lose track of time.",
+    "answers": [
+      {
+        "text": "Building things",
+        "aliases": [
+          "Creating buildings"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Doing side quests",
+        "aliases": [
+          "Side missions"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Replaying levels",
+        "aliases": [
+          "Trying again"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Chatting with friends",
+        "aliases": [
+          "Talking to friends"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Collecting items",
+        "aliases": [
+          "Searching for collectibles"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Customizing characters",
+        "aliases": [
+          "Changing outfits"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-204",
+    "category": "Sports & games",
+    "prompt": "Name something a player might give a name to in a video game.",
+    "answers": [
+      {
+        "text": "Character",
+        "aliases": [
+          "Avatar"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Pet",
+        "aliases": [
+          "Animal companion"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Town",
+        "aliases": [
+          "City"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Farm",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Spaceship",
+        "aliases": [
+          "Space ship"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Team",
+        "aliases": [
+          "Guild"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-205",
+    "category": "Sports & games",
+    "prompt": "Name something about an arcade machine that catches someone's attention.",
+    "answers": [
+      {
+        "text": "Flashing lights",
+        "aliases": [
+          "Bright lights"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Loud music",
+        "aliases": [
+          "Music"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Favorite character",
+        "aliases": [
+          "Familiar character"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Big prize",
+        "aliases": [
+          "Prize display"
+        ],
+        "points": 14
+      },
+      {
+        "text": "High score board",
+        "aliases": [
+          "Leaderboard"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Demo screen",
+        "aliases": [
+          "Attract mode"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-206",
+    "category": "Sports & games",
+    "prompt": "Name a type of game people play at a family arcade.",
+    "answers": [
+      {
+        "text": "Racing game",
+        "aliases": [
+          "Driving game"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Claw machine",
+        "aliases": [
+          "Crane game"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Basketball game",
+        "aliases": [
+          "Basketball shooting"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Pinball",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Air hockey",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Skee-Ball",
+        "aliases": [
+          "Skee ball"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-207",
+    "category": "Sports & games",
+    "prompt": "Name a small prize someone might choose with arcade tickets.",
+    "answers": [
+      {
+        "text": "Stuffed animal",
+        "aliases": [
+          "Plush toy"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Candy",
+        "aliases": [
+          "Sweets"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Keychain",
+        "aliases": [
+          "Key ring"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Stickers",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Toy car",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Bracelet",
+        "aliases": [
+          "Wristband"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-208",
+    "category": "Sports & games",
+    "prompt": "Name something a player might do after running out of arcade credits.",
+    "answers": [
+      {
+        "text": "Buy more credits",
+        "aliases": [
+          "Add more money"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Watch other players",
+        "aliases": [
+          "Watch someone play"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Redeem tickets",
+        "aliases": [
+          "Trade tickets for prizes"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Ask a friend for a turn",
+        "aliases": [
+          "Share a friend's game"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Find a free game",
+        "aliases": [
+          "Look for free play"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Go home",
+        "aliases": [
+          "Leave the arcade"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-209",
+    "category": "Sports & games",
+    "prompt": "Name a reason someone fails to lift a prize in a claw machine.",
+    "answers": [
+      {
+        "text": "Poor aim",
+        "aliases": [
+          "Misses the prize"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Weak grip",
+        "aliases": [
+          "Claw does not grip"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Slippery prize",
+        "aliases": [
+          "Prize slips out"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Crowded bin",
+        "aliases": [
+          "Other prizes in the way"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Time runs out",
+        "aliases": [
+          "Timer expires"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Prize is too heavy",
+        "aliases": [
+          "Heavy prize"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-210",
+    "category": "Sports & games",
+    "prompt": "Name a part of a pinball machine that people notice.",
+    "answers": [
+      {
+        "text": "Flippers",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Bumpers",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Ramps",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Flashing lights",
+        "aliases": [
+          "Lights"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Ball plunger",
+        "aliases": [
+          "Plunger"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Score display",
+        "aliases": [
+          "Scoreboard"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-211",
+    "category": "Sports & games",
+    "prompt": "Name information shown on the screen of an arcade racing game.",
+    "answers": [
+      {
+        "text": "Speed",
+        "aliases": [
+          "Speedometer"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Race position",
+        "aliases": [
+          "Place in the race"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Lap number",
+        "aliases": [
+          "Lap count"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Course map",
+        "aliases": [
+          "Track map"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Race time",
+        "aliases": [
+          "Timer"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Car damage",
+        "aliases": [
+          "Vehicle damage"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-212",
+    "category": "Sports & games",
+    "prompt": "Name an action a music or rhythm arcade game might ask a player to do.",
+    "answers": [
+      {
+        "text": "Step on arrows",
+        "aliases": [
+          "Step on pads"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Tap buttons",
+        "aliases": [
+          "Press buttons"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Jump",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Clap",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Strum a guitar",
+        "aliases": [
+          "Strum"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hit drum pads",
+        "aliases": [
+          "Play drums"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-213",
+    "category": "Sports & games",
+    "prompt": "Name something polite players do in a crowded arcade.",
+    "answers": [
+      {
+        "text": "Wait their turn",
+        "aliases": [
+          "Queue up"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Give others space",
+        "aliases": [
+          "Do not crowd players"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Share the controls",
+        "aliases": [
+          "Let others have a go"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Return equipment",
+        "aliases": [
+          "Put equipment back"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Keep voices reasonable",
+        "aliases": [
+          "Do not shout"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Clean up spills",
+        "aliases": [
+          "Wipe up drinks"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-214",
+    "category": "Sports & games",
+    "prompt": "Name a sound that reminds people of an arcade.",
+    "answers": [
+      {
+        "text": "Electronic beeps",
+        "aliases": [
+          "Game beeps"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Coins dropping",
+        "aliases": [
+          "Clinking coins"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Dance music",
+        "aliases": [
+          "Loud music"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Pinball bells",
+        "aliases": [
+          "Dinging bells"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Air hockey clacks",
+        "aliases": [
+          "Puck hitting the table"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Tickets printing",
+        "aliases": [
+          "Ticket machine"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-215",
+    "category": "Sports & games",
+    "prompt": "Name something players bring to a tabletop role-playing session.",
+    "answers": [
+      {
+        "text": "Character sheet",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Dice",
+        "aliases": [
+          "Die"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pencil",
+        "aliases": [
+          "Pen"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Rulebook",
+        "aliases": [
+          "Game manual"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Map",
+        "aliases": [
+          "Battle map"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Miniature",
+        "aliases": [
+          "Character figure"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-216",
+    "category": "Sports & games",
+    "prompt": "Name a type of character someone might play in a fantasy role-playing game.",
+    "answers": [
+      {
+        "text": "Wizard",
+        "aliases": [
+          "Mage"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Warrior",
+        "aliases": [
+          "Fighter"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Healer",
+        "aliases": [
+          "Cleric"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Archer",
+        "aliases": [
+          "Ranger"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Rogue",
+        "aliases": [
+          "Thief"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bard",
+        "aliases": [
+          "Minstrel"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-217",
+    "category": "Sports & games",
+    "prompt": "Name a supply a fantasy role-playing adventurer might pack.",
+    "answers": [
+      {
+        "text": "Rope",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Torch",
+        "aliases": [
+          "Lantern"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Food",
+        "aliases": [
+          "Rations"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Water",
+        "aliases": [
+          "Waterskin"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Map",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Blanket",
+        "aliases": [
+          "Bedroll"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-218",
+    "category": "Sports & games",
+    "prompt": "Name a mission characters might receive in a tabletop adventure.",
+    "answers": [
+      {
+        "text": "Rescue a villager",
+        "aliases": [
+          "Save someone"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Find treasure",
+        "aliases": [
+          "Recover treasure"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Defeat a monster",
+        "aliases": [
+          "Stop a monster"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Deliver a message",
+        "aliases": [
+          "Carry a message"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Lift a curse",
+        "aliases": [
+          "Break a curse"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Escort a traveler",
+        "aliases": [
+          "Protect a merchant"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-219",
+    "category": "Sports & games",
+    "prompt": "Name an obstacle players might face in a tabletop adventure story.",
+    "answers": [
+      {
+        "text": "Guarded door",
+        "aliases": [
+          "Guards"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Deep river",
+        "aliases": [
+          "River crossing"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Locked chest",
+        "aliases": [
+          "Locked box"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Riddle",
+        "aliases": [
+          "Puzzle"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Hidden trap",
+        "aliases": [
+          "Trap"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Lost trail",
+        "aliases": [
+          "Missing path"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-220",
+    "category": "Sports & games",
+    "prompt": "Name something a game master uses to make a tabletop story feel alive.",
+    "answers": [
+      {
+        "text": "Different voices",
+        "aliases": [
+          "Character voices"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Sound effects",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Maps",
+        "aliases": [
+          "Illustrated maps"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Vivid descriptions",
+        "aliases": [
+          "Detailed descriptions"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Background music",
+        "aliases": [
+          "Music"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Props",
+        "aliases": [
+          "Physical props"
+        ],
+        "points": 6
+      }
+    ]
+  }
+]

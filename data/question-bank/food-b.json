@@ -1,0 +1,4350 @@
+[
+  {
+    "id": "food-041",
+    "category": "Food & drink",
+    "prompt": "Name a countertop appliance people buy and then rarely use.",
+    "answers": [
+      {
+        "text": "Bread maker",
+        "aliases": [
+          "bread machine"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Waffle iron",
+        "aliases": [
+          "waffle maker"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Juicer",
+        "aliases": [
+          "juice extractor"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Ice cream maker",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Fondue pot",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Electric can opener",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-042",
+    "category": "Food & drink",
+    "prompt": "Name a kitchen tool that cuts food.",
+    "answers": [
+      {
+        "text": "Chef's knife",
+        "aliases": [
+          "kitchen knife",
+          "knife"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Kitchen scissors",
+        "aliases": [
+          "kitchen shears"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Vegetable peeler",
+        "aliases": [
+          "peeler"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Mandoline",
+        "aliases": [
+          "mandolin slicer"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Pizza cutter",
+        "aliases": [
+          "pizza wheel"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Apple corer",
+        "aliases": [
+          "apple slicer"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-043",
+    "category": "Food & drink",
+    "prompt": "Name a utensil someone uses to lift food out of a hot pan.",
+    "answers": [
+      {
+        "text": "Spatula",
+        "aliases": [
+          "turner"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Tongs",
+        "aliases": [
+          "kitchen tongs"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Slotted spoon",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Ladle",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Pasta server",
+        "aliases": [
+          "spaghetti spoon"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Chopsticks",
+        "aliases": [
+          "cooking chopsticks"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-044",
+    "category": "Food & drink",
+    "prompt": "Name something a cook uses to measure.",
+    "answers": [
+      {
+        "text": "Measuring cups",
+        "aliases": [
+          "measuring cup"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Measuring spoons",
+        "aliases": [
+          "measuring spoon"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Kitchen scale",
+        "aliases": [
+          "food scale",
+          "scales"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Kitchen timer",
+        "aliases": [
+          "timer"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Thermometer",
+        "aliases": [
+          "food thermometer"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ruler",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-045",
+    "category": "Food & drink",
+    "prompt": "Name something that helps protect a cook from burns.",
+    "answers": [
+      {
+        "text": "Oven mitts",
+        "aliases": [
+          "oven gloves"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Pot holder",
+        "aliases": [
+          "potholder"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Splatter screen",
+        "aliases": [
+          "splatter guard"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Long tongs",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Apron",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Pan lid",
+        "aliases": [
+          "pot lid"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-046",
+    "category": "Food & drink",
+    "prompt": "Name something a cook likes to keep within reach of the stove.",
+    "answers": [
+      {
+        "text": "Wooden spoon",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Spatula",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Kitchen towel",
+        "aliases": [
+          "dish towel"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Spoon rest",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Timer",
+        "aliases": [
+          "kitchen timer"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pot lid",
+        "aliases": [
+          "pan lid"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-047",
+    "category": "Food & drink",
+    "prompt": "Name a job people use a blender for.",
+    "answers": [
+      {
+        "text": "Making smoothies",
+        "aliases": [
+          "smoothies"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Pureeing soup",
+        "aliases": [
+          "blending soup"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Crushing ice",
+        "aliases": [
+          "ice crushing"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Making sauces",
+        "aliases": [
+          "blending sauce"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Mixing pancake batter",
+        "aliases": [
+          "pancake batter"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Grinding oats",
+        "aliases": [
+          "oat flour"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-048",
+    "category": "Food & drink",
+    "prompt": "Name a job someone might do with kitchen scissors.",
+    "answers": [
+      {
+        "text": "Open food packaging",
+        "aliases": [
+          "open packets"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Snip herbs",
+        "aliases": [
+          "cut herbs"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Trim chicken",
+        "aliases": [
+          "cut poultry"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Cut bacon",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Cut pizza",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Trim parchment paper",
+        "aliases": [
+          "cut baking paper"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-049",
+    "category": "Food & drink",
+    "prompt": "Name something people grate while preparing a meal.",
+    "answers": [
+      {
+        "text": "Cheese",
+        "aliases": [
+          "grated cheese"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Carrots",
+        "aliases": [
+          "carrot"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Ginger",
+        "aliases": [
+          "fresh ginger"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Garlic",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Nutmeg",
+        "aliases": [
+          "whole nutmeg"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Lemon peel",
+        "aliases": [
+          "lemon zest"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-050",
+    "category": "Food & drink",
+    "prompt": "Name a reason a cook reaches for a strainer.",
+    "answers": [
+      {
+        "text": "Drain pasta",
+        "aliases": [
+          "draining pasta"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Rinse beans",
+        "aliases": [
+          "wash beans"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Wash berries",
+        "aliases": [
+          "rinse berries"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Strain stock",
+        "aliases": [
+          "strain broth"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Sift flour",
+        "aliases": [
+          "sieving flour"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Strain tea",
+        "aliases": [
+          "remove tea leaves"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-051",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone likes cooking with a slow cooker.",
+    "answers": [
+      {
+        "text": "Dinner cooks while at work",
+        "aliases": [
+          "cook while away"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Tender meat",
+        "aliases": [
+          "softens meat"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Less watching",
+        "aliases": [
+          "leave it alone"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Feeds a crowd",
+        "aliases": [
+          "large batches"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Keeps food warm",
+        "aliases": [
+          "keep warm"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Frees up the oven",
+        "aliases": [
+          "saves oven space"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-052",
+    "category": "Food & drink",
+    "prompt": "Name something that can go wrong when using a microwave.",
+    "answers": [
+      {
+        "text": "Cold middle",
+        "aliases": [
+          "uneven heating"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Food splatters",
+        "aliases": [
+          "splatters everywhere"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Plate gets too hot",
+        "aliases": [
+          "hot plate"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Food dries out",
+        "aliases": [
+          "dried out food"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Sparks",
+        "aliases": [
+          "sparking"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Liquid boils over",
+        "aliases": [
+          "boiling over"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-053",
+    "category": "Food & drink",
+    "prompt": "Name a reason a dish takes longer in the oven than expected.",
+    "answers": [
+      {
+        "text": "Oven was not preheated",
+        "aliases": [
+          "forgot to preheat"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Temperature too low",
+        "aliases": [
+          "oven too cool"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Food was frozen",
+        "aliases": [
+          "still frozen"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Pan is overcrowded",
+        "aliases": [
+          "crowded pan"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Opening the door",
+        "aliases": [
+          "checking too often"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Bigger portion",
+        "aliases": [
+          "larger dish"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-054",
+    "category": "Food & drink",
+    "prompt": "Name a cooking skill that takes practice to get right.",
+    "answers": [
+      {
+        "text": "Chopping quickly",
+        "aliases": [
+          "knife skills"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Flipping pancakes",
+        "aliases": [
+          "pancake flipping"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Poaching eggs",
+        "aliases": [
+          "poach an egg"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Kneading dough",
+        "aliases": [
+          "kneading"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Piping icing",
+        "aliases": [
+          "cake piping"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Deboning fish",
+        "aliases": [
+          "filleting fish"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-055",
+    "category": "Food & drink",
+    "prompt": "Name a dinner preparation job a child can help with.",
+    "answers": [
+      {
+        "text": "Wash vegetables",
+        "aliases": [
+          "rinse vegetables"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Set the table",
+        "aliases": [
+          "lay the table"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Stir batter",
+        "aliases": [
+          "mix batter"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Tear lettuce",
+        "aliases": [
+          "tear salad leaves"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Shape meatballs",
+        "aliases": [
+          "roll meatballs"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Mash potatoes",
+        "aliases": [
+          "mashing potatoes"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-056",
+    "category": "Food & drink",
+    "prompt": "Name a kitchen job a host tries to finish before guests arrive.",
+    "answers": [
+      {
+        "text": "Set the table",
+        "aliases": [
+          "lay the table"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Chop vegetables",
+        "aliases": [
+          "prep vegetables"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Chill drinks",
+        "aliases": [
+          "cool beverages"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Marinate meat",
+        "aliases": [
+          "marinating"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Clean the kitchen",
+        "aliases": [
+          "tidy kitchen"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bake dessert",
+        "aliases": [
+          "make dessert"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-057",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone chooses to cook a one-pot meal.",
+    "answers": [
+      {
+        "text": "Less washing up",
+        "aliases": [
+          "fewer dishes"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Save time",
+        "aliases": [
+          "quick meal"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Small kitchen",
+        "aliases": [
+          "limited space"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Feed a crowd",
+        "aliases": [
+          "large family"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Use up leftovers",
+        "aliases": [
+          "use leftovers"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Flavors cook together",
+        "aliases": [
+          "better flavor"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-058",
+    "category": "Food & drink",
+    "prompt": "Name a kitchen chore people put off doing.",
+    "answers": [
+      {
+        "text": "Wash pots",
+        "aliases": [
+          "scrub pans"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Clean the oven",
+        "aliases": [
+          "oven cleaning"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Scrub the stove",
+        "aliases": [
+          "clean the hob"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Empty the dishwasher",
+        "aliases": [
+          "unload dishwasher"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Mop the floor",
+        "aliases": [
+          "clean kitchen floor"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sort the fridge",
+        "aliases": [
+          "clean out fridge"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-059",
+    "category": "Food & drink",
+    "prompt": "Name a kitchen item that seems to disappear when you need it.",
+    "answers": [
+      {
+        "text": "Can opener",
+        "aliases": [
+          "tin opener"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Vegetable peeler",
+        "aliases": [
+          "peeler"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Measuring spoons",
+        "aliases": [
+          "measuring spoon"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Corkscrew",
+        "aliases": [
+          "wine opener"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Tongs",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Matching lid",
+        "aliases": [
+          "container lid"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-060",
+    "category": "Food & drink",
+    "prompt": "Name a job someone does on a cutting board.",
+    "answers": [
+      {
+        "text": "Chop vegetables",
+        "aliases": [
+          "dice vegetables"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Slice bread",
+        "aliases": [
+          "cut bread"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Carve a roast",
+        "aliases": [
+          "slice roast meat"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Fillet fish",
+        "aliases": [
+          "cut fish"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Crush garlic",
+        "aliases": [
+          "smash garlic"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Slice fruit",
+        "aliases": [
+          "cut fruit"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-061",
+    "category": "Food & drink",
+    "prompt": "Name a reason a cook stops to wash their hands.",
+    "answers": [
+      {
+        "text": "Touched raw meat",
+        "aliases": [
+          "handled raw chicken"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Used the bathroom",
+        "aliases": [
+          "toilet break"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Sneezed",
+        "aliases": [
+          "coughed"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Touched a pet",
+        "aliases": [
+          "petted the dog"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Handled garbage",
+        "aliases": [
+          "touched trash"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Starting to cook",
+        "aliases": [
+          "before cooking"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-062",
+    "category": "Food & drink",
+    "prompt": "Name a reason food sticks to a frying pan.",
+    "answers": [
+      {
+        "text": "Not enough oil",
+        "aliases": [
+          "no oil"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Pan was too cold",
+        "aliases": [
+          "pan not hot"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Moved food too soon",
+        "aliases": [
+          "flipped too early"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Damaged coating",
+        "aliases": [
+          "worn nonstick"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Dirty pan",
+        "aliases": [
+          "old food residue"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sugary sauce",
+        "aliases": [
+          "sticky glaze"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-063",
+    "category": "Food & drink",
+    "prompt": "Name a clue a cook uses to decide food is done.",
+    "answers": [
+      {
+        "text": "Timer rings",
+        "aliases": [
+          "timer goes off"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Golden brown color",
+        "aliases": [
+          "looks browned"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Thermometer reading",
+        "aliases": [
+          "right temperature"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Clean toothpick",
+        "aliases": [
+          "toothpick test"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Firm texture",
+        "aliases": [
+          "feels firm"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Bubbling sauce",
+        "aliases": [
+          "bubbling"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-064",
+    "category": "Food & drink",
+    "prompt": "Name something that distracts a person while they are cooking.",
+    "answers": [
+      {
+        "text": "Phone call",
+        "aliases": [
+          "phone ringing"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Children",
+        "aliases": [
+          "kids"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Television",
+        "aliases": [
+          "tv"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Doorbell",
+        "aliases": [
+          "someone at the door"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Pet",
+        "aliases": [
+          "dog"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Conversation",
+        "aliases": [
+          "talking"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-065",
+    "category": "Food & drink",
+    "prompt": "Name something someone discovers halfway through following a recipe.",
+    "answers": [
+      {
+        "text": "Missing ingredient",
+        "aliases": [
+          "ran out of an ingredient"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Wrong pan",
+        "aliases": [
+          "pan is wrong size"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Not enough time",
+        "aliases": [
+          "takes too long"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Oven not preheated",
+        "aliases": [
+          "forgot preheating"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Missed a step",
+        "aliases": [
+          "skipped a step"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Wrong number of servings",
+        "aliases": [
+          "serves too many"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-066",
+    "category": "Food & drink",
+    "prompt": "Name someone or something people turn to when learning to cook.",
+    "answers": [
+      {
+        "text": "Parent",
+        "aliases": [
+          "mom",
+          "dad"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Cookbook",
+        "aliases": [
+          "recipe book"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Online video",
+        "aliases": [
+          "youtube"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cooking class",
+        "aliases": [
+          "cookery class"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Television chef",
+        "aliases": [
+          "cooking show"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Friend",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-067",
+    "category": "Food & drink",
+    "prompt": "Name a mistake that can make a recipe fail.",
+    "answers": [
+      {
+        "text": "Wrong measurements",
+        "aliases": [
+          "measured wrong"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Skipped a step",
+        "aliases": [
+          "missed a step"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Wrong cooking temperature",
+        "aliases": [
+          "heat too high"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Bad substitution",
+        "aliases": [
+          "wrong substitute"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Expired raising agent",
+        "aliases": [
+          "old baking powder"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Wrong pan size",
+        "aliases": [
+          "pan too small"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-068",
+    "category": "Food & drink",
+    "prompt": "Name a cooking step people skip when they are in a hurry.",
+    "answers": [
+      {
+        "text": "Preheat the oven",
+        "aliases": [
+          "preheating"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Sift flour",
+        "aliases": [
+          "sifting flour"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Measure ingredients",
+        "aliases": [
+          "measuring"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Wash produce",
+        "aliases": [
+          "wash vegetables"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Let food rest",
+        "aliases": [
+          "rest the meat"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Read the whole recipe",
+        "aliases": [
+          "read recipe first"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-069",
+    "category": "Food & drink",
+    "prompt": "Name a meal preparation job that is easier with two people.",
+    "answers": [
+      {
+        "text": "Chop vegetables",
+        "aliases": [
+          "chopping"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Wash dishes",
+        "aliases": [
+          "washing up"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Peel potatoes",
+        "aliases": [
+          "peeling"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Fold dumplings",
+        "aliases": [
+          "shape dumplings"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Set the table",
+        "aliases": [
+          "lay table"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Mix a large batch",
+        "aliases": [
+          "stir heavy batter"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-070",
+    "category": "Food & drink",
+    "prompt": "Name a meal preparation task people do before the workweek starts.",
+    "answers": [
+      {
+        "text": "Plan meals",
+        "aliases": [
+          "meal planning"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Buy groceries",
+        "aliases": [
+          "grocery shopping"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Wash produce",
+        "aliases": [
+          "wash vegetables"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cook rice",
+        "aliases": [
+          "batch cook rice"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Pack lunches",
+        "aliases": [
+          "portion lunches"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Freeze meals",
+        "aliases": [
+          "make freezer meals"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-071",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone gives up on their meal preparation routine.",
+    "answers": [
+      {
+        "text": "Too busy",
+        "aliases": [
+          "no time"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Bored with the food",
+        "aliases": [
+          "same meals"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Food spoils",
+        "aliases": [
+          "goes bad"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Not enough fridge space",
+        "aliases": [
+          "small fridge"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Plans change",
+        "aliases": [
+          "unexpected plans"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Too much cleanup",
+        "aliases": [
+          "too many dishes"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-072",
+    "category": "Food & drink",
+    "prompt": "Name something people use to divide food into portions.",
+    "answers": [
+      {
+        "text": "Food containers",
+        "aliases": [
+          "meal prep boxes"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Kitchen scale",
+        "aliases": [
+          "food scale"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Ladle",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Ice cream scoop",
+        "aliases": [
+          "portion scoop"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Measuring cup",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Plate dividers",
+        "aliases": [
+          "portion dividers"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-073",
+    "category": "Food & drink",
+    "prompt": "Name something people use to carry a homemade meal away from home.",
+    "answers": [
+      {
+        "text": "Lunchbox",
+        "aliases": [
+          "lunch box"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Insulated bag",
+        "aliases": [
+          "cooler bag"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Thermos",
+        "aliases": [
+          "vacuum flask"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Casserole carrier",
+        "aliases": [
+          "casserole bag"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Foil tray",
+        "aliases": [
+          "aluminum tray"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Mason jar",
+        "aliases": [
+          "glass jar"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-074",
+    "category": "Food & drink",
+    "prompt": "Name something a cook does to keep the kitchen from getting messy.",
+    "answers": [
+      {
+        "text": "Wipe as they go",
+        "aliases": [
+          "clean as you go"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Line baking pans",
+        "aliases": [
+          "use parchment"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Use a splatter screen",
+        "aliases": [
+          "splatter guard"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Keep a scraps bowl",
+        "aliases": [
+          "garbage bowl"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Measure into small bowls",
+        "aliases": [
+          "prep bowls"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Clear counter space first",
+        "aliases": [
+          "clear the counter",
+          "make workspace"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-075",
+    "category": "Food & drink",
+    "prompt": "Name something people check before starting a backyard grill.",
+    "answers": [
+      {
+        "text": "Fuel supply",
+        "aliases": [
+          "gas or charcoal"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Clean grates",
+        "aliases": [
+          "grill cleanliness"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Weather",
+        "aliases": [
+          "rain forecast"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Food is ready",
+        "aliases": [
+          "food prepped"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Tools are nearby",
+        "aliases": [
+          "grill tools"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Safe location",
+        "aliases": [
+          "clear space"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-076",
+    "category": "Food & drink",
+    "prompt": "Name a problem someone has while grilling dinner.",
+    "answers": [
+      {
+        "text": "Burned food",
+        "aliases": [
+          "burnt food"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Raw middle",
+        "aliases": [
+          "undercooked food"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Flare-ups",
+        "aliases": [
+          "flare ups"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Food sticks",
+        "aliases": [
+          "stuck to grate"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Runs out of fuel",
+        "aliases": [
+          "empty gas tank"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Drops food through grate",
+        "aliases": [
+          "food falls through"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-077",
+    "category": "Food & drink",
+    "prompt": "Name a tool people bring outside when they grill.",
+    "answers": [
+      {
+        "text": "Tongs",
+        "aliases": [
+          "grill tongs"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Spatula",
+        "aliases": [
+          "burger flipper"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Grill brush",
+        "aliases": [
+          "wire brush"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Meat thermometer",
+        "aliases": [
+          "food thermometer"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Skewers",
+        "aliases": [
+          "kebab sticks"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Basting brush",
+        "aliases": [
+          "barbecue brush"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-078",
+    "category": "Food & drink",
+    "prompt": "Name something someone could use to cook dinner without a stove.",
+    "answers": [
+      {
+        "text": "Microwave",
+        "aliases": [
+          "microwave oven"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Grill",
+        "aliases": [
+          "barbecue"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Slow cooker",
+        "aliases": [
+          "crockpot"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Toaster oven",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Air fryer",
+        "aliases": [
+          "airfryer"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Electric griddle",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-079",
+    "category": "Food & drink",
+    "prompt": "Name a reason a pot boils over.",
+    "answers": [
+      {
+        "text": "Heat too high",
+        "aliases": [
+          "too hot"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Pot too full",
+        "aliases": [
+          "overfilled pot"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Cook walked away",
+        "aliases": [
+          "left unattended"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Lid left on",
+        "aliases": [
+          "covered pot"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Pot too narrow",
+        "aliases": [
+          "small pot"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Not stirred",
+        "aliases": [
+          "forgot to stir"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-080",
+    "category": "Food & drink",
+    "prompt": "Name something a cook uses to flatten food.",
+    "answers": [
+      {
+        "text": "Rolling pin",
+        "aliases": [
+          "dough roller"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Meat mallet",
+        "aliases": [
+          "meat tenderizer"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Hands",
+        "aliases": [
+          "palms"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Heavy skillet",
+        "aliases": [
+          "heavy pan"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Tortilla press",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Burger press",
+        "aliases": [
+          "hamburger press"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-081",
+    "category": "Food & drink",
+    "prompt": "Name a kitchen tool people complain is hard to clean.",
+    "answers": [
+      {
+        "text": "Cheese grater",
+        "aliases": [
+          "grater"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Blender",
+        "aliases": [
+          "blender jug"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Sieve",
+        "aliases": [
+          "strainer"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Garlic press",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Whisk",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Juicer",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-082",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone struggles to cut food with a knife.",
+    "answers": [
+      {
+        "text": "Dull blade",
+        "aliases": [
+          "blunt knife"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Wrong knife",
+        "aliases": [
+          "wrong type of knife"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Slippery food",
+        "aliases": [
+          "food slips"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Food is frozen",
+        "aliases": [
+          "still frozen"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Unsteady cutting board",
+        "aliases": [
+          "wobbly board"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Piece is too big",
+        "aliases": [
+          "oversized food"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-083",
+    "category": "Food & drink",
+    "prompt": "Name a cooking job people often do with their bare hands.",
+    "answers": [
+      {
+        "text": "Knead dough",
+        "aliases": [
+          "kneading"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Toss salad",
+        "aliases": [
+          "mix salad"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Shape meatballs",
+        "aliases": [
+          "roll meatballs"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Rub on marinade",
+        "aliases": [
+          "rub seasoning"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Crumble cheese",
+        "aliases": [
+          "break up cheese"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Separate eggs",
+        "aliases": [
+          "separate yolks"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-084",
+    "category": "Food & drink",
+    "prompt": "Name something a cook might keep in an apron pocket.",
+    "answers": [
+      {
+        "text": "Thermometer",
+        "aliases": [
+          "food thermometer"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Pen",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Timer",
+        "aliases": [
+          "kitchen timer"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Recipe card",
+        "aliases": [
+          "recipe"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Phone",
+        "aliases": [
+          "mobile phone"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Small towel",
+        "aliases": [
+          "dish cloth"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-085",
+    "category": "Food & drink",
+    "prompt": "Name a baking step that tests people's patience.",
+    "answers": [
+      {
+        "text": "Waiting for dough to rise",
+        "aliases": [
+          "proofing dough"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Cooling a cake",
+        "aliases": [
+          "cake cooling"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Preheating the oven",
+        "aliases": [
+          "oven preheating"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Decorating",
+        "aliases": [
+          "icing a cake"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Long mixing",
+        "aliases": [
+          "beating batter"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Chilling dough",
+        "aliases": [
+          "refrigerating dough"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-086",
+    "category": "Food & drink",
+    "prompt": "Name an accident that can happen while someone is baking.",
+    "answers": [
+      {
+        "text": "Drop an egg",
+        "aliases": [
+          "dropped eggs"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Make a flour cloud",
+        "aliases": [
+          "flour everywhere"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Batter overflows",
+        "aliases": [
+          "overflowing batter"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Burn a finger",
+        "aliases": [
+          "burned fingers"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Break a mixing bowl",
+        "aliases": [
+          "broken bowl"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Spill vanilla",
+        "aliases": [
+          "spilled vanilla extract"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-087",
+    "category": "Food & drink",
+    "prompt": "Name something that can go wrong with a homemade cake.",
+    "answers": [
+      {
+        "text": "Sunken middle",
+        "aliases": [
+          "sank in middle"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Too dry",
+        "aliases": [
+          "dry cake"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Too dense",
+        "aliases": [
+          "heavy cake"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Burned bottom",
+        "aliases": [
+          "burnt bottom"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Stuck in the pan",
+        "aliases": [
+          "will not come out"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Lopsided",
+        "aliases": [
+          "uneven cake"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-088",
+    "category": "Food & drink",
+    "prompt": "Name something that makes homemade cookies disappointing.",
+    "answers": [
+      {
+        "text": "Burned",
+        "aliases": [
+          "burnt"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Too hard",
+        "aliases": [
+          "rock hard"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Spread too much",
+        "aliases": [
+          "flat cookies"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Raw in the middle",
+        "aliases": [
+          "undercooked center"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Bland",
+        "aliases": [
+          "no flavor"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Stuck to the tray",
+        "aliases": [
+          "stuck to sheet"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-089",
+    "category": "Food & drink",
+    "prompt": "Name something that can go wrong when baking a loaf of bread.",
+    "answers": [
+      {
+        "text": "Does not rise",
+        "aliases": [
+          "failed to rise"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Sticky dough",
+        "aliases": [
+          "too sticky"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Dense inside",
+        "aliases": [
+          "heavy loaf"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Burned crust",
+        "aliases": [
+          "burnt crust"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Splits along the side",
+        "aliases": [
+          "side split"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Collapses after baking",
+        "aliases": [
+          "collapsed loaf"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-090",
+    "category": "Food & drink",
+    "prompt": "Name a tool someone uses to decorate a cake.",
+    "answers": [
+      {
+        "text": "Piping bag",
+        "aliases": [
+          "icing bag"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Offset spatula",
+        "aliases": [
+          "icing spatula"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cake turntable",
+        "aliases": [
+          "rotating cake stand"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Stencil",
+        "aliases": [
+          "cake stencil"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Fondant smoother",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Cake comb",
+        "aliases": [
+          "icing comb"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-091",
+    "category": "Food & drink",
+    "prompt": "Name a baked item people shape by hand before it goes in the oven.",
+    "answers": [
+      {
+        "text": "Bread rolls",
+        "aliases": [
+          "dinner rolls"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Pretzels",
+        "aliases": [
+          "soft pretzels"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Cookies",
+        "aliases": [
+          "biscuits"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Pie crust",
+        "aliases": [
+          "pie dough"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Croissants",
+        "aliases": [
+          "croissant"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Scones",
+        "aliases": [
+          "scone"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-092",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone lines a baking pan.",
+    "answers": [
+      {
+        "text": "Prevent sticking",
+        "aliases": [
+          "stop food sticking"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Easier cleanup",
+        "aliases": [
+          "less washing"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Lift food out",
+        "aliases": [
+          "easy removal"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Prevent a burned bottom",
+        "aliases": [
+          "reduce browning"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Separate portions",
+        "aliases": [
+          "divide portions"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Catch drips",
+        "aliases": [
+          "catch spills"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-093",
+    "category": "Food & drink",
+    "prompt": "Name a homemade dessert people have to wait for while it chills.",
+    "answers": [
+      {
+        "text": "Cheesecake",
+        "aliases": [
+          "no bake cheesecake"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Pudding",
+        "aliases": [
+          "custard pudding"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Gelatin",
+        "aliases": [
+          "jello",
+          "jelly"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Tiramisu",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Mousse",
+        "aliases": [
+          "chocolate mousse"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-094",
+    "category": "Food & drink",
+    "prompt": "Name a mistake someone makes while weighing baking ingredients.",
+    "answers": [
+      {
+        "text": "Forgets to zero the scale",
+        "aliases": [
+          "forgets tare"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Uses wrong units",
+        "aliases": [
+          "grams instead of ounces"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Uses a bowl that is too small",
+        "aliases": [
+          "bowl overflows"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Adds too much",
+        "aliases": [
+          "overshoots weight"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Sets scale unevenly",
+        "aliases": [
+          "unstable scale"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Misreads the display",
+        "aliases": [
+          "reads wrong number"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-095",
+    "category": "Food & drink",
+    "prompt": "Name a place a missing cooking ingredient might finally turn up.",
+    "answers": [
+      {
+        "text": "Back of the fridge",
+        "aliases": [
+          "behind fridge food"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Top cupboard",
+        "aliases": [
+          "high shelf"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Behind cans",
+        "aliases": [
+          "back of pantry"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Freezer drawer",
+        "aliases": [
+          "in the freezer"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Spice rack",
+        "aliases": [
+          "spice drawer"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Grocery bag",
+        "aliases": [
+          "shopping bag"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-096",
+    "category": "Food & drink",
+    "prompt": "Name something people write on a container of homemade food.",
+    "answers": [
+      {
+        "text": "Dish name",
+        "aliases": [
+          "name of food"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Date cooked",
+        "aliases": [
+          "date made"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Use-by date",
+        "aliases": [
+          "expiration date"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Owner's name",
+        "aliases": [
+          "their name"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Reheating instructions",
+        "aliases": [
+          "heating directions"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Allergens",
+        "aliases": [
+          "allergy information"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-097",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone refuses to eat leftovers.",
+    "answers": [
+      {
+        "text": "Tired of that meal",
+        "aliases": [
+          "already ate it"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Texture changed",
+        "aliases": [
+          "soggy food"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Smells odd",
+        "aliases": [
+          "bad smell"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Unsure how old it is",
+        "aliases": [
+          "forgot the date"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Portion too small",
+        "aliases": [
+          "not enough food"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Did not like it originally",
+        "aliases": [
+          "disliked first meal"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-098",
+    "category": "Food & drink",
+    "prompt": "Name a meal people make to use up cooked leftovers.",
+    "answers": [
+      {
+        "text": "Soup",
+        "aliases": [
+          "broth"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Stir-fry",
+        "aliases": [
+          "stir fry"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Omelet",
+        "aliases": [
+          "omelette"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Casserole",
+        "aliases": [
+          "bake"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Sandwich",
+        "aliases": [
+          "sandwiches"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Salad",
+        "aliases": [
+          "salads"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-099",
+    "category": "Food & drink",
+    "prompt": "Name something annoying about food storage containers.",
+    "answers": [
+      {
+        "text": "Missing lids",
+        "aliases": [
+          "no matching lid"
+        ],
+        "points": 28
+      },
+      {
+        "text": "They leak",
+        "aliases": [
+          "leaking"
+        ],
+        "points": 23
+      },
+      {
+        "text": "They stain",
+        "aliases": [
+          "stained plastic"
+        ],
+        "points": 19
+      },
+      {
+        "text": "They hold smells",
+        "aliases": [
+          "lingering odor"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Hard to stack",
+        "aliases": [
+          "take up space"
+        ],
+        "points": 10
+      },
+      {
+        "text": "They crack",
+        "aliases": [
+          "broken container"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-100",
+    "category": "Food & drink",
+    "prompt": "Name a way people preserve food at home.",
+    "answers": [
+      {
+        "text": "Freeze it",
+        "aliases": [
+          "freezing"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Refrigerate it",
+        "aliases": [
+          "refrigeration"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Can it",
+        "aliases": [
+          "canning",
+          "bottling"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Pickle it",
+        "aliases": [
+          "pickling"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Dry it",
+        "aliases": [
+          "dehydrating"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ferment it",
+        "aliases": [
+          "fermentation"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-101",
+    "category": "Food & drink",
+    "prompt": "Name something people buy to organize a pantry.",
+    "answers": [
+      {
+        "text": "Storage jars",
+        "aliases": [
+          "glass jars"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Baskets",
+        "aliases": [
+          "bins"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Shelf dividers",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Labels",
+        "aliases": [
+          "label maker"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Can rack",
+        "aliases": [
+          "tin organizer"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Lazy Susan",
+        "aliases": [
+          "turntable"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-102",
+    "category": "Food & drink",
+    "prompt": "Name an unpleasant surprise people find when cleaning their pantry.",
+    "answers": [
+      {
+        "text": "Expired food",
+        "aliases": [
+          "out of date cans"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Weevils",
+        "aliases": [
+          "pantry bugs"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Spilled grains",
+        "aliases": [
+          "spilled rice"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Clutter",
+        "aliases": [
+          "too much stuff"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Duplicate purchases",
+        "aliases": [
+          "duplicates"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A broken shelf",
+        "aliases": [
+          "sagging shelf"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-103",
+    "category": "Food & drink",
+    "prompt": "Name a mistake that makes a refrigerator harder to use.",
+    "answers": [
+      {
+        "text": "Overfilling it",
+        "aliases": [
+          "too much food"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Hiding leftovers",
+        "aliases": [
+          "burying leftovers"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Leaving containers open",
+        "aliases": [
+          "uncovered food"
+        ],
+        "points": 19
+      },
+      {
+        "text": "No labels",
+        "aliases": [
+          "unmarked containers"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Blocking vents",
+        "aliases": [
+          "covered air vents"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Raw meat above produce",
+        "aliases": [
+          "meat on top shelf"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-104",
+    "category": "Food & drink",
+    "prompt": "Name a food package people reuse for storage.",
+    "answers": [
+      {
+        "text": "Jam jar",
+        "aliases": [
+          "jelly jar"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Takeout container",
+        "aliases": [
+          "takeaway tub"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Resealable bag",
+        "aliases": [
+          "zip bag",
+          "ziplock bag"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Coffee tin",
+        "aliases": [
+          "coffee can"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Bread bag",
+        "aliases": [
+          "bread wrapper"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Egg carton",
+        "aliases": [
+          "egg box"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-105",
+    "category": "Food & drink",
+    "prompt": "Name something a cook forgets to take out of the freezer in time.",
+    "answers": [
+      {
+        "text": "Chicken",
+        "aliases": [
+          "frozen chicken"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Ground beef",
+        "aliases": [
+          "minced beef"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Bread",
+        "aliases": [
+          "frozen bread"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Fish",
+        "aliases": [
+          "frozen fish"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Soup",
+        "aliases": [
+          "frozen soup"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Pastry",
+        "aliases": [
+          "frozen pastry"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-106",
+    "category": "Food & drink",
+    "prompt": "Name a sign that stored food has spoiled.",
+    "answers": [
+      {
+        "text": "Mold",
+        "aliases": [
+          "mould"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Sour smell",
+        "aliases": [
+          "bad odor"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Changed color",
+        "aliases": [
+          "discoloration"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Slimy texture",
+        "aliases": [
+          "slime"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Swollen package",
+        "aliases": [
+          "bulging container"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Unexpected bubbles",
+        "aliases": [
+          "gas bubbles"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-107",
+    "category": "Food & drink",
+    "prompt": "Name a job involved in giving a refrigerator a thorough cleaning.",
+    "answers": [
+      {
+        "text": "Scrub sticky spills",
+        "aliases": [
+          "wipe spills"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Sort out old food",
+        "aliases": [
+          "discard old food"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Remove shelves",
+        "aliases": [
+          "take out shelves"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Wash produce drawers",
+        "aliases": [
+          "clean crisper drawers"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Clean door seals",
+        "aliases": [
+          "wipe rubber seals"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Remove bad odors",
+        "aliases": [
+          "deodorize fridge"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-108",
+    "category": "Food & drink",
+    "prompt": "Name a kitchen item that takes up more storage space than people expect.",
+    "answers": [
+      {
+        "text": "Slow cooker",
+        "aliases": [
+          "crockpot"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Stockpot",
+        "aliases": [
+          "large soup pot"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Stand mixer",
+        "aliases": [
+          "electric stand mixer"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Baking sheets",
+        "aliases": [
+          "cookie sheets"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Salad spinner",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Roasting pan",
+        "aliases": [
+          "roaster"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-109",
+    "category": "Food & drink",
+    "prompt": "Name something people hang up in a kitchen.",
+    "answers": [
+      {
+        "text": "Pans",
+        "aliases": [
+          "frying pans"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Spatulas",
+        "aliases": [
+          "turners"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Kitchen towels",
+        "aliases": [
+          "dish towels"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Aprons",
+        "aliases": [
+          "apron"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Oven mitts",
+        "aliases": [
+          "oven gloves"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Herbs",
+        "aliases": [
+          "drying herbs"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-110",
+    "category": "Food & drink",
+    "prompt": "Name a problem people have when packing a homemade lunch.",
+    "answers": [
+      {
+        "text": "Food leaks",
+        "aliases": [
+          "leaking container"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Bread gets soggy",
+        "aliases": [
+          "soggy sandwich"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Forget cutlery",
+        "aliases": [
+          "no fork"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Nothing fits",
+        "aliases": [
+          "lunchbox too small"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Not enough time",
+        "aliases": [
+          "rushed morning"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Food needs to stay cold",
+        "aliases": [
+          "keeping food chilled"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-111",
+    "category": "Food & drink",
+    "prompt": "Name a meal people make when they have only fifteen minutes to cook.",
+    "answers": [
+      {
+        "text": "Scrambled eggs",
+        "aliases": [
+          "eggs on toast"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Pasta",
+        "aliases": [
+          "quick pasta"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Stir-fry",
+        "aliases": [
+          "stir fry"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Sandwich",
+        "aliases": [
+          "sandwiches"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Quesadilla",
+        "aliases": [
+          "quesadillas"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Salad",
+        "aliases": [
+          "salads"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-112",
+    "category": "Food & drink",
+    "prompt": "Name something a cook does just before serving dinner.",
+    "answers": [
+      {
+        "text": "Taste for seasoning",
+        "aliases": [
+          "taste the food"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Add a garnish",
+        "aliases": [
+          "garnish"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Warm the plates",
+        "aliases": [
+          "heat plates"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Slice the meat",
+        "aliases": [
+          "carve meat"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Dress the salad",
+        "aliases": [
+          "toss salad"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Drain vegetables",
+        "aliases": [
+          "drain veg"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-113",
+    "category": "Food & drink",
+    "prompt": "Name a cooking task people set a timer for.",
+    "answers": [
+      {
+        "text": "Bake cookies",
+        "aliases": [
+          "baking cookies"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Boil eggs",
+        "aliases": [
+          "boiling eggs"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Steep tea",
+        "aliases": [
+          "brewing tea"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Let dough rise",
+        "aliases": [
+          "proofing dough"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Roast meat",
+        "aliases": [
+          "roasting meat"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Rest a steak",
+        "aliases": [
+          "resting steak"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-114",
+    "category": "Food & drink",
+    "prompt": "Name something in the kitchen people worry they forgot to turn off.",
+    "answers": [
+      {
+        "text": "Oven",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Stove burner",
+        "aliases": [
+          "hob"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Slow cooker",
+        "aliases": [
+          "crockpot"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Coffee maker",
+        "aliases": [
+          "coffeemaker"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Grill",
+        "aliases": [
+          "barbecue"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Extractor fan",
+        "aliases": [
+          "range hood",
+          "exhaust fan"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-115",
+    "category": "Food & drink",
+    "prompt": "Name a reason smoke starts filling the kitchen.",
+    "answers": [
+      {
+        "text": "Burned toast",
+        "aliases": [
+          "burnt toast"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Overheated oil",
+        "aliases": [
+          "smoking oil"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Spill in the oven",
+        "aliases": [
+          "oven spill"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Charred meat",
+        "aliases": [
+          "burned meat"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Dirty burner",
+        "aliases": [
+          "food on burner"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Burned popcorn",
+        "aliases": [
+          "burnt popcorn"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-116",
+    "category": "Food & drink",
+    "prompt": "Name something that goes in the trash during meal preparation.",
+    "answers": [
+      {
+        "text": "Vegetable peels",
+        "aliases": [
+          "peelings"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Eggshells",
+        "aliases": [
+          "egg shells"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Food packaging",
+        "aliases": [
+          "wrappers"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Bones",
+        "aliases": [
+          "meat bones"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Coffee grounds",
+        "aliases": [
+          "used coffee"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Burned food",
+        "aliases": [
+          "burnt food"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-117",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone gives up on cooking dinner and orders food.",
+    "answers": [
+      {
+        "text": "Too tired",
+        "aliases": [
+          "exhausted"
+        ],
+        "points": 30
+      },
+      {
+        "text": "No groceries",
+        "aliases": [
+          "missing groceries"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Not enough time",
+        "aliases": [
+          "too late"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Kitchen is a mess",
+        "aliases": [
+          "dirty kitchen"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Dinner went wrong",
+        "aliases": [
+          "ruined the meal"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Broken stove",
+        "aliases": [
+          "oven not working"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-118",
+    "category": "Food & drink",
+    "prompt": "Name a kitchen appliance nobody volunteers to clean.",
+    "answers": [
+      {
+        "text": "Oven",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Microwave",
+        "aliases": [
+          "microwave oven"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Blender",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Toaster",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Air fryer",
+        "aliases": [
+          "airfryer"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Coffee maker",
+        "aliases": [
+          "coffee machine"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-119",
+    "category": "Food & drink",
+    "prompt": "Name a practical kitchen gift people give someone who likes to cook.",
+    "answers": [
+      {
+        "text": "Knife set",
+        "aliases": [
+          "kitchen knives"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Stand mixer",
+        "aliases": [
+          "electric mixer"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Cookware set",
+        "aliases": [
+          "pots and pans"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Air fryer",
+        "aliases": [
+          "airfryer"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Cutting board",
+        "aliases": [
+          "chopping board"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Kitchen scale",
+        "aliases": [
+          "food scale"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-120",
+    "category": "Food & drink",
+    "prompt": "Name a cooking task that is awkward to do with one hand.",
+    "answers": [
+      {
+        "text": "Open a jar",
+        "aliases": [
+          "unscrew a lid"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Crack an egg",
+        "aliases": [
+          "break an egg"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Drain pasta",
+        "aliases": [
+          "empty a heavy pot"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Peel vegetables",
+        "aliases": [
+          "use a peeler"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Roll dough",
+        "aliases": [
+          "use a rolling pin"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Tie a roast",
+        "aliases": [
+          "truss meat"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-121",
+    "category": "Food & drink",
+    "prompt": "Name a food package that can be frustrating to open.",
+    "answers": [
+      {
+        "text": "Pickle jar",
+        "aliases": [
+          "sealed jar"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Flour bag",
+        "aliases": [
+          "paper flour sack"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Vacuum-packed meat",
+        "aliases": [
+          "vacuum sealed meat"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cheese wrapper",
+        "aliases": [
+          "cheese packet"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Pull-tab can",
+        "aliases": [
+          "ring pull tin"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Milk carton",
+        "aliases": [
+          "juice carton"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-122",
+    "category": "Food & drink",
+    "prompt": "Name a problem someone runs into after doubling a recipe.",
+    "answers": [
+      {
+        "text": "Pan is too small",
+        "aliases": [
+          "not enough pan space"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Cooking time changes",
+        "aliases": [
+          "takes longer"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Gets the math wrong",
+        "aliases": [
+          "wrong quantities"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Uneven mixing",
+        "aliases": [
+          "hard to mix"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Not enough oven room",
+        "aliases": [
+          "oven too full"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Too many leftovers",
+        "aliases": [
+          "too much food left over"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-123",
+    "category": "Food & drink",
+    "prompt": "Name a shortcut someone uses to get a home-cooked dinner ready faster.",
+    "answers": [
+      {
+        "text": "Prechopped vegetables",
+        "aliases": [
+          "ready chopped vegetables"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Batch-made sauce",
+        "aliases": [
+          "premade sauce"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Frozen ingredients",
+        "aliases": [
+          "frozen vegetables"
+        ],
+        "points": 19
+      },
+      {
+        "text": "One-tray meal",
+        "aliases": [
+          "sheet pan dinner"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Microwave a side dish",
+        "aliases": [
+          "microwave sides"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Reuse leftovers",
+        "aliases": [
+          "leftover ingredients"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-124",
+    "category": "Food & drink",
+    "prompt": "Name a way someone might prepare a meal during a power outage.",
+    "answers": [
+      {
+        "text": "Gas stove",
+        "aliases": [
+          "gas burner"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Barbecue grill",
+        "aliases": [
+          "charcoal grill"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Camping stove",
+        "aliases": [
+          "camp stove"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Solar cooker",
+        "aliases": [
+          "solar oven"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Make a cold meal",
+        "aliases": [
+          "no cook meal"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cook in a fireplace",
+        "aliases": [
+          "fireplace cooking"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-125",
+    "category": "Food & drink",
+    "prompt": "Name a cooking job that makes someone's hands tired.",
+    "answers": [
+      {
+        "text": "Knead dough",
+        "aliases": [
+          "kneading"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Whip cream by hand",
+        "aliases": [
+          "whisk cream"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Peel potatoes",
+        "aliases": [
+          "peeling"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Grate cheese",
+        "aliases": [
+          "grating"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Shell peas",
+        "aliases": [
+          "shelling peas"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Chop nuts",
+        "aliases": [
+          "chopping nuts"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-126",
+    "category": "Food & drink",
+    "prompt": "Name a piece of cookware someone needs when setting up their first kitchen.",
+    "answers": [
+      {
+        "text": "Frying pan",
+        "aliases": [
+          "skillet"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Saucepan",
+        "aliases": [
+          "small pot"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Stockpot",
+        "aliases": [
+          "large pot"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Wok",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Baking dish",
+        "aliases": [
+          "casserole dish"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Griddle",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-127",
+    "category": "Food & drink",
+    "prompt": "Name a reason someone replaces a cutting board.",
+    "answers": [
+      {
+        "text": "Deep grooves",
+        "aliases": [
+          "knife grooves"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Cracks",
+        "aliases": [
+          "split board"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Lingering smell",
+        "aliases": [
+          "bad odor"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Warped",
+        "aliases": [
+          "wobbly board"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Stains",
+        "aliases": [
+          "discoloration"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Too small",
+        "aliases": [
+          "needs bigger board"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-128",
+    "category": "Food & drink",
+    "prompt": "Name something people use paper towels for while preparing food.",
+    "answers": [
+      {
+        "text": "Dry washed produce",
+        "aliases": [
+          "dry vegetables"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Drain fried food",
+        "aliases": [
+          "absorb frying oil"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Wipe the counter",
+        "aliases": [
+          "clean spills"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Pat meat dry",
+        "aliases": [
+          "dry chicken"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Grease a pan",
+        "aliases": [
+          "spread oil"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cover food in microwave",
+        "aliases": [
+          "microwave cover"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "food-129",
+    "category": "Food & drink",
+    "prompt": "Name a kitchen mishap that might make the family laugh.",
+    "answers": [
+      {
+        "text": "Pancake lands on the floor",
+        "aliases": [
+          "failed pancake flip"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Flour covers the cook",
+        "aliases": [
+          "flour cloud"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cake falls apart",
+        "aliases": [
+          "broken cake"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Mixer sprays batter",
+        "aliases": [
+          "batter flies everywhere"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Cannot open a jar",
+        "aliases": [
+          "stuck jar lid"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Wrong lid on a container",
+        "aliases": [
+          "lid does not fit"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "food-130",
+    "category": "Food & drink",
+    "prompt": "Name a breakfast preparation task people leave until morning for the freshest result.",
+    "answers": [
+      {
+        "text": "Toast bread",
+        "aliases": [
+          "make toast"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Fry eggs",
+        "aliases": [
+          "cook eggs"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Brew coffee",
+        "aliases": [
+          "make coffee"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Blend a smoothie",
+        "aliases": [
+          "make smoothie"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Slice a banana",
+        "aliases": [
+          "cut banana"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cook pancakes",
+        "aliases": [
+          "make pancakes"
+        ],
+        "points": 6
+      }
+    ]
+  }
+]

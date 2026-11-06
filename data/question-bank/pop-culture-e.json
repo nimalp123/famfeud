@@ -1,0 +1,4394 @@
+[
+  {
+    "id": "culture-311",
+    "category": "Pop culture",
+    "prompt": "Name something useful to pack for a full day at a fan convention.",
+    "answers": [
+      {
+        "text": "Water bottle",
+        "aliases": [
+          "water"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Portable charger",
+        "aliases": [
+          "power bank"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Snacks",
+        "aliases": [
+          "food"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Comfortable shoes",
+        "aliases": [
+          "walking shoes"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Event schedule",
+        "aliases": [
+          "program"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Small repair kit",
+        "aliases": [
+          "sewing kit"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-312",
+    "category": "Pop culture",
+    "prompt": "Name a reason a convention visitor might miss a panel they wanted to attend.",
+    "answers": [
+      {
+        "text": "Room is full",
+        "aliases": [
+          "no seats"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Long entrance line",
+        "aliases": [
+          "queue"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Schedule conflict",
+        "aliases": [
+          "overlapping events"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Got lost",
+        "aliases": [
+          "wrong room"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Arrived late",
+        "aliases": [
+          "running late"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Schedule changed",
+        "aliases": [
+          "time changed"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-313",
+    "category": "Pop culture",
+    "prompt": "Name a costume problem someone might need to fix at a convention.",
+    "answers": [
+      {
+        "text": "Ripped seam",
+        "aliases": [
+          "torn fabric"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Broken prop",
+        "aliases": [
+          "damaged prop"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Smudged makeup",
+        "aliases": [
+          "makeup smear"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Slipping wig",
+        "aliases": [
+          "loose wig"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Broken zipper",
+        "aliases": [
+          "stuck zipper"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Uncomfortable shoes",
+        "aliases": [
+          "blisters"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-314",
+    "category": "Pop culture",
+    "prompt": "Name a lightweight material someone might use to make a costume prop.",
+    "answers": [
+      {
+        "text": "Foam",
+        "aliases": [
+          "craft foam"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Cardboard",
+        "aliases": [
+          "card"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Plastic",
+        "aliases": [
+          "plastic sheet"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Paper mache",
+        "aliases": [
+          "papier mache"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Fabric",
+        "aliases": [
+          "cloth"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Aluminum foil",
+        "aliases": [
+          "foil"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-315",
+    "category": "Pop culture",
+    "prompt": "Name something fans might use to recognize their meetup group in a crowded hall.",
+    "answers": [
+      {
+        "text": "Matching shirts",
+        "aliases": [
+          "same shirts"
+        ],
+        "points": 30
+      },
+      {
+        "text": "A sign",
+        "aliases": [
+          "group sign"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Matching badges",
+        "aliases": [
+          "name badges"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Costumes",
+        "aliases": [
+          "character outfits"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A flag",
+        "aliases": [
+          "group flag"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Colored wristbands",
+        "aliases": [
+          "matching wristbands"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-316",
+    "category": "Pop culture",
+    "prompt": "Name something a fan might do while waiting in an autograph line.",
+    "answers": [
+      {
+        "text": "Talk to other fans",
+        "aliases": [
+          "chat"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Check their phone",
+        "aliases": [
+          "scroll phone"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Read",
+        "aliases": [
+          "read a book"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Eat a snack",
+        "aliases": [
+          "snack"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Plan the next activity",
+        "aliases": [
+          "check schedule"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Practice what to say",
+        "aliases": [
+          "rehearse greeting"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-317",
+    "category": "Pop culture",
+    "prompt": "Name something a new member might receive when joining a fan club.",
+    "answers": [
+      {
+        "text": "Welcome message",
+        "aliases": [
+          "greeting"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Club rules",
+        "aliases": [
+          "guidelines"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Event calendar",
+        "aliases": [
+          "schedule"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Membership card",
+        "aliases": [
+          "member card"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Newsletter",
+        "aliases": [
+          "club news"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Member discount",
+        "aliases": [
+          "discount code"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-318",
+    "category": "Pop culture",
+    "prompt": "Name something a collector protects display pieces from.",
+    "answers": [
+      {
+        "text": "Dust",
+        "aliases": [
+          "dirt"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Sunlight",
+        "aliases": [
+          "direct sun"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Moisture",
+        "aliases": [
+          "dampness"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Pets",
+        "aliases": [
+          "animals"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Young children",
+        "aliases": [
+          "toddlers"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Falling",
+        "aliases": [
+          "being knocked over"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-319",
+    "category": "Pop culture",
+    "prompt": "Name something a collector checks before buying a used collectible.",
+    "answers": [
+      {
+        "text": "Visible scratches",
+        "aliases": [
+          "surface scratches"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Authenticity",
+        "aliases": [
+          "whether it is real"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Price",
+        "aliases": [
+          "cost"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Missing parts",
+        "aliases": [
+          "completeness"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Original packaging",
+        "aliases": [
+          "box"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Rarity",
+        "aliases": [
+          "how rare it is"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-320",
+    "category": "Pop culture",
+    "prompt": "Name something fans might trade when they have duplicates.",
+    "answers": [
+      {
+        "text": "Trading cards",
+        "aliases": [
+          "cards"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Pins",
+        "aliases": [
+          "enamel pins"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Stickers",
+        "aliases": [
+          "decals"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Mini figures",
+        "aliases": [
+          "small figurines"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Patches",
+        "aliases": [
+          "embroidered patches"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Keychains",
+        "aliases": [
+          "key rings"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-321",
+    "category": "Pop culture",
+    "prompt": "Name a place inside a convention center where fans might gather.",
+    "answers": [
+      {
+        "text": "Exhibit hall",
+        "aliases": [
+          "vendor hall"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Panel room",
+        "aliases": [
+          "discussion room"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Food court",
+        "aliases": [
+          "dining area"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Registration desk",
+        "aliases": [
+          "check in"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Artist alley",
+        "aliases": [
+          "artists tables"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Quiet room",
+        "aliases": [
+          "rest area"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-322",
+    "category": "Pop culture",
+    "prompt": "Name an everyday action that can become difficult in a bulky costume.",
+    "answers": [
+      {
+        "text": "Sitting down",
+        "aliases": [
+          "sit"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Walking through doors",
+        "aliases": [
+          "fit through doors"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Eating",
+        "aliases": [
+          "having a meal"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Using the bathroom",
+        "aliases": [
+          "toilet break"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Climbing stairs",
+        "aliases": [
+          "going upstairs"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Using a phone",
+        "aliases": [
+          "texting"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-323",
+    "category": "Pop culture",
+    "prompt": "Name a small keepsake someone might save after a fan event.",
+    "answers": [
+      {
+        "text": "Admission badge",
+        "aliases": [
+          "event badge"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Ticket stub",
+        "aliases": [
+          "ticket"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Wristband",
+        "aliases": [
+          "entry band"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Printed photo",
+        "aliases": [
+          "photograph"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Event program",
+        "aliases": [
+          "program booklet"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Signed note",
+        "aliases": [
+          "personal message"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-324",
+    "category": "Pop culture",
+    "prompt": "Name a topic that can start a friendly debate in a fan group.",
+    "answers": [
+      {
+        "text": "Best character",
+        "aliases": [
+          "favorite character"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Best ending",
+        "aliases": [
+          "how it should end"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Fan theories",
+        "aliases": [
+          "predictions"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Favorite costume",
+        "aliases": [
+          "best outfit"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Best setting",
+        "aliases": [
+          "favorite location"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Best adaptation",
+        "aliases": [
+          "favorite version"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-325",
+    "category": "Pop culture",
+    "prompt": "Name a pose fans might strike together in a convention photo.",
+    "answers": [
+      {
+        "text": "Back to back",
+        "aliases": [
+          "backs together"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Action pose",
+        "aliases": [
+          "battle stance"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Thumbs up",
+        "aliases": [
+          "thumbs raised"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Funny faces",
+        "aliases": [
+          "silly faces"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Salute",
+        "aliases": [
+          "saluting"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Recreate a poster",
+        "aliases": [
+          "copy the poster"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-326",
+    "category": "Pop culture",
+    "prompt": "Name something fans might ask a creator about during a question session.",
+    "answers": [
+      {
+        "text": "Inspiration",
+        "aliases": [
+          "where ideas come from"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Creative process",
+        "aliases": [
+          "how they work"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Career advice",
+        "aliases": [
+          "getting started"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Favorite project",
+        "aliases": [
+          "best loved work"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Upcoming work",
+        "aliases": [
+          "future projects"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Biggest challenge",
+        "aliases": [
+          "hardest part"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-327",
+    "category": "Pop culture",
+    "prompt": "Name something a fan might include in a thank-you letter to a creator.",
+    "answers": [
+      {
+        "text": "A compliment",
+        "aliases": [
+          "praise"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Favorite moment",
+        "aliases": [
+          "favorite scene"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Personal impact",
+        "aliases": [
+          "how it helped them"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A drawing",
+        "aliases": [
+          "fan art"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A question",
+        "aliases": [
+          "something to ask"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Good wishes",
+        "aliases": [
+          "well wishes"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-328",
+    "category": "Pop culture",
+    "prompt": "Name a decoration someone might use at a fan-themed party.",
+    "answers": [
+      {
+        "text": "Posters",
+        "aliases": [
+          "wall posters"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Balloons",
+        "aliases": [
+          "themed balloons"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Character cutouts",
+        "aliases": [
+          "standees"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Banners",
+        "aliases": [
+          "bunting"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Themed tablecloth",
+        "aliases": [
+          "table covering"
+        ],
+        "points": 8
+      },
+      {
+        "text": "String lights",
+        "aliases": [
+          "fairy lights"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-329",
+    "category": "Pop culture",
+    "prompt": "Name something judges might consider in a homemade costume contest.",
+    "answers": [
+      {
+        "text": "Resemblance to the character",
+        "aliases": [
+          "accuracy"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Craftsmanship",
+        "aliases": [
+          "quality of construction"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Originality",
+        "aliases": [
+          "creative idea"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Stage presentation",
+        "aliases": [
+          "performance"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Attention to detail",
+        "aliases": [
+          "small details"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Clever use of materials",
+        "aliases": [
+          "resourcefulness"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-330",
+    "category": "Pop culture",
+    "prompt": "Name a way a fan might arrange a collection on shelves.",
+    "answers": [
+      {
+        "text": "By series",
+        "aliases": [
+          "by franchise"
+        ],
+        "points": 35
+      },
+      {
+        "text": "By character",
+        "aliases": [
+          "character groups"
+        ],
+        "points": 25
+      },
+      {
+        "text": "By color",
+        "aliases": [
+          "color order"
+        ],
+        "points": 16
+      },
+      {
+        "text": "By size",
+        "aliases": [
+          "height order"
+        ],
+        "points": 11
+      },
+      {
+        "text": "By year",
+        "aliases": [
+          "release date"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Alphabetically",
+        "aliases": [
+          "alphabetical order"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-331",
+    "category": "Pop culture",
+    "prompt": "Name a reason someone stops watching an online video before it ends.",
+    "answers": [
+      {
+        "text": "Too many ads",
+        "aliases": [
+          "advertisements"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Boring content",
+        "aliases": [
+          "lost interest"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Poor sound",
+        "aliases": [
+          "bad audio"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Misleading title",
+        "aliases": [
+          "clickbait"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Buffering",
+        "aliases": [
+          "keeps loading"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Long introduction",
+        "aliases": [
+          "slow intro"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-332",
+    "category": "Pop culture",
+    "prompt": "Name something a podcast host might do at the beginning of an episode.",
+    "answers": [
+      {
+        "text": "Greet listeners",
+        "aliases": [
+          "welcome the audience"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Introduce a guest",
+        "aliases": [
+          "guest introduction"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Preview the topic",
+        "aliases": [
+          "explain the subject"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Play theme music",
+        "aliases": [
+          "opening tune"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Read a sponsor message",
+        "aliases": [
+          "advertisement"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Recap the previous episode",
+        "aliases": [
+          "previous episode summary"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-333",
+    "category": "Pop culture",
+    "prompt": "Name a quality that makes someone share a video with a friend.",
+    "answers": [
+      {
+        "text": "Funny",
+        "aliases": [
+          "makes them laugh"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Useful",
+        "aliases": [
+          "helpful"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Cute",
+        "aliases": [
+          "adorable"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Surprising",
+        "aliases": [
+          "unexpected"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Relatable",
+        "aliases": [
+          "reminds them of us"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Inspiring",
+        "aliases": [
+          "uplifting"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-334",
+    "category": "Pop culture",
+    "prompt": "Name something that might unexpectedly interrupt a livestream at home.",
+    "answers": [
+      {
+        "text": "Internet failure",
+        "aliases": [
+          "connection drops"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Pet",
+        "aliases": [
+          "dog or cat"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Doorbell",
+        "aliases": [
+          "delivery"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Family member",
+        "aliases": [
+          "someone walks in"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Power outage",
+        "aliases": [
+          "electricity goes out"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Dead battery",
+        "aliases": [
+          "battery runs out"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-335",
+    "category": "Pop culture",
+    "prompt": "Name something a creator might set up before recording a video at home.",
+    "answers": [
+      {
+        "text": "Camera",
+        "aliases": [
+          "phone camera"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Microphone",
+        "aliases": [
+          "mic"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Lighting",
+        "aliases": [
+          "lights"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Tripod",
+        "aliases": [
+          "camera stand"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Background",
+        "aliases": [
+          "backdrop"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Script",
+        "aliases": [
+          "talking points"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-336",
+    "category": "Pop culture",
+    "prompt": "Name something a creator might cut out while editing a video.",
+    "answers": [
+      {
+        "text": "Mispronounced word",
+        "aliases": [
+          "pronunciation error"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Long silence",
+        "aliases": [
+          "awkward pause"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Repeated section",
+        "aliases": [
+          "repetition"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Unwanted background noise",
+        "aliases": [
+          "extra noise"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Someone walking into the shot",
+        "aliases": [
+          "unwanted guest"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Private information",
+        "aliases": [
+          "personal details"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-337",
+    "category": "Pop culture",
+    "prompt": "Name a kind of comment viewers leave below a video they enjoyed.",
+    "answers": [
+      {
+        "text": "Compliment",
+        "aliases": [
+          "praise"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Question",
+        "aliases": [
+          "request for information"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Joke",
+        "aliases": [
+          "funny comment"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Personal story",
+        "aliases": [
+          "similar experience"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Emoji",
+        "aliases": [
+          "reaction symbol"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Request for another video",
+        "aliases": [
+          "more please"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-338",
+    "category": "Pop culture",
+    "prompt": "Name something that might inspire a person's online username.",
+    "answers": [
+      {
+        "text": "Favorite animal",
+        "aliases": [
+          "animal"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Hobby",
+        "aliases": [
+          "favorite pastime"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Nickname",
+        "aliases": [
+          "pet name"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Favorite food",
+        "aliases": [
+          "food"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Favorite color",
+        "aliases": [
+          "color"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Fictional character",
+        "aliases": [
+          "character name"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-339",
+    "category": "Pop culture",
+    "prompt": "Name something in a video thumbnail that catches a viewer's attention.",
+    "answers": [
+      {
+        "text": "Expressive face",
+        "aliases": [
+          "surprised face"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Bright colors",
+        "aliases": [
+          "bold colors"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Large words",
+        "aliases": [
+          "big text"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Unusual object",
+        "aliases": [
+          "strange object"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Dramatic scene",
+        "aliases": [
+          "exciting scene"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Arrow",
+        "aliases": [
+          "pointer"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-340",
+    "category": "Pop culture",
+    "prompt": "Name something online that can make a quick break last much longer than planned.",
+    "answers": [
+      {
+        "text": "Short videos",
+        "aliases": [
+          "video feed"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Comment sections",
+        "aliases": [
+          "reading comments"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Recommended links",
+        "aliases": [
+          "suggested content"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Memes",
+        "aliases": [
+          "funny images"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Livestreams",
+        "aliases": [
+          "live videos"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Other people's profiles",
+        "aliases": [
+          "profile browsing"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-341",
+    "category": "Pop culture",
+    "prompt": "Name something a fan page might post to keep its followers interested.",
+    "answers": [
+      {
+        "text": "News",
+        "aliases": [
+          "updates"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Fan art",
+        "aliases": [
+          "fan drawings"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Poll",
+        "aliases": [
+          "vote"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Theory",
+        "aliases": [
+          "prediction"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Event announcement",
+        "aliases": [
+          "meetup details"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Old photo",
+        "aliases": [
+          "throwback"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-342",
+    "category": "Pop culture",
+    "prompt": "Name a subject for a lighthearted online quiz.",
+    "answers": [
+      {
+        "text": "Personality",
+        "aliases": [
+          "personality type"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Fictional characters",
+        "aliases": [
+          "which character are you"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Vocabulary",
+        "aliases": [
+          "word meanings"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Food preferences",
+        "aliases": [
+          "favorite foods"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Animals",
+        "aliases": [
+          "animal facts"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Career match",
+        "aliases": [
+          "ideal job"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-343",
+    "category": "Pop culture",
+    "prompt": "Name something people customize when creating an online avatar.",
+    "answers": [
+      {
+        "text": "Hairstyle",
+        "aliases": [
+          "hair"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Clothing",
+        "aliases": [
+          "outfit"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Skin tone",
+        "aliases": [
+          "skin color"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Facial expression",
+        "aliases": [
+          "face expression"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Accessories",
+        "aliases": [
+          "glasses or hats"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Background",
+        "aliases": [
+          "backdrop"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-344",
+    "category": "Pop culture",
+    "prompt": "Name a friendly online challenge people might try with friends.",
+    "answers": [
+      {
+        "text": "Drawing challenge",
+        "aliases": [
+          "art challenge"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Photo challenge",
+        "aliases": [
+          "photography challenge"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Cooking challenge",
+        "aliases": [
+          "recipe challenge"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Fitness challenge",
+        "aliases": [
+          "exercise challenge"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Trivia challenge",
+        "aliases": [
+          "quiz challenge"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Kindness challenge",
+        "aliases": [
+          "good deed challenge"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-345",
+    "category": "Pop culture",
+    "prompt": "Name a reason a creator temporarily mutes their microphone during a livestream.",
+    "answers": [
+      {
+        "text": "Coughing",
+        "aliases": [
+          "need to cough"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Private conversation",
+        "aliases": [
+          "talking privately"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Phone call",
+        "aliases": [
+          "answering phone"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Eating",
+        "aliases": [
+          "taking a bite"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Loud noise nearby",
+        "aliases": [
+          "background noise"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Taking a short break",
+        "aliases": [
+          "stepping away"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-346",
+    "category": "Pop culture",
+    "prompt": "Name a kind of picture people turn into an internet meme.",
+    "answers": [
+      {
+        "text": "Animal photo",
+        "aliases": [
+          "pet picture"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Reaction face",
+        "aliases": [
+          "facial expression"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Cartoon panel",
+        "aliases": [
+          "comic panel"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Screenshot",
+        "aliases": [
+          "screen capture"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Stock photo",
+        "aliases": [
+          "stock image"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Famous painting",
+        "aliases": [
+          "artwork"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-347",
+    "category": "Pop culture",
+    "prompt": "Name a reason someone decides not to publish a social media post they drafted.",
+    "answers": [
+      {
+        "text": "Too personal",
+        "aliases": [
+          "private information"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Written while angry",
+        "aliases": [
+          "angry post"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Typo",
+        "aliases": [
+          "spelling mistake"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Wrong photo",
+        "aliases": [
+          "incorrect picture"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Outdated information",
+        "aliases": [
+          "old news"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Already posted it",
+        "aliases": [
+          "duplicate post"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-348",
+    "category": "Pop culture",
+    "prompt": "Name a place someone might look to find an online video they watched before.",
+    "answers": [
+      {
+        "text": "Watch history",
+        "aliases": [
+          "viewing history"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Saved list",
+        "aliases": [
+          "bookmarks"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Search bar",
+        "aliases": [
+          "search"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Liked videos",
+        "aliases": [
+          "likes"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Creator's page",
+        "aliases": [
+          "channel"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Message from a friend",
+        "aliases": [
+          "shared link"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-349",
+    "category": "Pop culture",
+    "prompt": "Name a way viewers can participate during an interactive livestream.",
+    "answers": [
+      {
+        "text": "Ask a question",
+        "aliases": [
+          "submit a question"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Answer a poll",
+        "aliases": [
+          "vote"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Send an emoji",
+        "aliases": [
+          "emoji reaction"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Make a request",
+        "aliases": [
+          "request a topic"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Guess an answer",
+        "aliases": [
+          "join a quiz"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Share an experience",
+        "aliases": [
+          "tell a story"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-350",
+    "category": "Pop culture",
+    "prompt": "Name a message people might express with a digital sticker.",
+    "answers": [
+      {
+        "text": "Thank you",
+        "aliases": [
+          "thanks"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Love",
+        "aliases": [
+          "affection"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Laughter",
+        "aliases": [
+          "that is funny"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Congratulations",
+        "aliases": [
+          "well done"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Good morning",
+        "aliases": [
+          "morning greeting"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sorry",
+        "aliases": [
+          "apology"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-351",
+    "category": "Pop culture",
+    "prompt": "Name something a creator does before publishing a finished video.",
+    "answers": [
+      {
+        "text": "Write a title",
+        "aliases": [
+          "add title"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Choose a thumbnail",
+        "aliases": [
+          "pick cover image"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Write a description",
+        "aliases": [
+          "add description"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Add captions",
+        "aliases": [
+          "subtitles"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Set visibility",
+        "aliases": [
+          "privacy settings"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Watch it through",
+        "aliases": [
+          "final preview"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-352",
+    "category": "Pop culture",
+    "prompt": "Name something people add or change when making a photo into a meme.",
+    "answers": [
+      {
+        "text": "Caption",
+        "aliases": [
+          "funny text"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Crop",
+        "aliases": [
+          "trim the image"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Stickers",
+        "aliases": [
+          "digital stickers"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Font",
+        "aliases": [
+          "lettering style"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Filter",
+        "aliases": [
+          "color effect"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Another image",
+        "aliases": [
+          "second picture"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-353",
+    "category": "Pop culture",
+    "prompt": "Name a rule a friendly online fan group might have.",
+    "answers": [
+      {
+        "text": "Be respectful",
+        "aliases": [
+          "be kind"
+        ],
+        "points": 28
+      },
+      {
+        "text": "No spam",
+        "aliases": [
+          "no advertising"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Stay on topic",
+        "aliases": [
+          "relevant posts only"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Hide spoilers",
+        "aliases": [
+          "mark spoilers"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Credit artists",
+        "aliases": [
+          "name the creator"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Protect privacy",
+        "aliases": [
+          "no personal information"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-354",
+    "category": "Pop culture",
+    "prompt": "Name an online event a creative hobby group might organize.",
+    "answers": [
+      {
+        "text": "Art workshop",
+        "aliases": [
+          "drawing lesson"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Photo contest",
+        "aliases": [
+          "photography competition"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Craft demonstration",
+        "aliases": [
+          "craft tutorial"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Museum tour",
+        "aliases": [
+          "virtual gallery tour"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Creator interview",
+        "aliases": [
+          "artist questions"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Show and tell",
+        "aliases": [
+          "share finished work"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-355",
+    "category": "Pop culture",
+    "prompt": "Name something people check before sharing a surprising story they saw online.",
+    "answers": [
+      {
+        "text": "Source",
+        "aliases": [
+          "publisher"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Date",
+        "aliases": [
+          "when it was posted"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Full article",
+        "aliases": [
+          "read past headline"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Other reports",
+        "aliases": [
+          "other sources"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Image context",
+        "aliases": [
+          "where photo came from"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Supporting evidence",
+        "aliases": [
+          "proof"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-356",
+    "category": "Pop culture",
+    "prompt": "Name a basic supply someone might forget to bring to an art class.",
+    "answers": [
+      {
+        "text": "Pencil",
+        "aliases": [
+          "drawing pencil"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Paper",
+        "aliases": [
+          "sketchpad"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Paintbrush",
+        "aliases": [
+          "brush"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Eraser",
+        "aliases": [
+          "rubber"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Paint",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Water container",
+        "aliases": [
+          "water cup"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-357",
+    "category": "Pop culture",
+    "prompt": "Name something from a craft project that is hard to clean off a table.",
+    "answers": [
+      {
+        "text": "Glitter",
+        "aliases": [
+          "sparkles"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Glue",
+        "aliases": [
+          "adhesive"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Paint",
+        "aliases": [
+          "paint splashes"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Wax",
+        "aliases": [
+          "candle wax"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Clay",
+        "aliases": [
+          "dried clay"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Ink",
+        "aliases": [
+          "ink stains"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-358",
+    "category": "Pop culture",
+    "prompt": "Name something a beginner might practice drawing in a sketchbook.",
+    "answers": [
+      {
+        "text": "Face",
+        "aliases": [
+          "portrait"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Flower",
+        "aliases": [
+          "plant"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Pet",
+        "aliases": [
+          "animal"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Landscape",
+        "aliases": [
+          "scenery"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Building",
+        "aliases": [
+          "house"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Cup",
+        "aliases": [
+          "drinking cup"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-359",
+    "category": "Pop culture",
+    "prompt": "Name a part of a face that people find difficult to draw.",
+    "answers": [
+      {
+        "text": "Eyes",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Nose",
+        "aliases": [
+          "nostrils"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Mouth",
+        "aliases": [
+          "lips"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Ears",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Hair",
+        "aliases": [
+          "hairstyle"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Teeth",
+        "aliases": [
+          "tooth"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-360",
+    "category": "Pop culture",
+    "prompt": "Name a place an artist might look for fresh inspiration.",
+    "answers": [
+      {
+        "text": "Nature",
+        "aliases": [
+          "outdoors"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Museum",
+        "aliases": [
+          "art gallery"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Old photographs",
+        "aliases": [
+          "photo album"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Music",
+        "aliases": [
+          "favorite songs"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Friends",
+        "aliases": [
+          "people they know"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Random prompt",
+        "aliases": [
+          "drawing prompt"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-361",
+    "category": "Pop culture",
+    "prompt": "Name something people make in a pottery class.",
+    "answers": [
+      {
+        "text": "Bowl",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Mug",
+        "aliases": [
+          "cup"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Vase",
+        "aliases": [
+          "flower vase"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Plate",
+        "aliases": [
+          "dish"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Sculpture",
+        "aliases": [
+          "figurine"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Plant pot",
+        "aliases": [
+          "planter"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-362",
+    "category": "Pop culture",
+    "prompt": "Name something people like to fold out of paper.",
+    "answers": [
+      {
+        "text": "Airplane",
+        "aliases": [
+          "paper plane"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Crane",
+        "aliases": [
+          "paper crane"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Boat",
+        "aliases": [
+          "paper boat"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Flower",
+        "aliases": [
+          "paper flower"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Frog",
+        "aliases": [
+          "jumping frog"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Butterfly",
+        "aliases": [
+          "paper butterfly"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-363",
+    "category": "Pop culture",
+    "prompt": "Name something a knitter might make as a gift.",
+    "answers": [
+      {
+        "text": "Scarf",
+        "aliases": [
+          "neck scarf"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Hat",
+        "aliases": [
+          "beanie"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Blanket",
+        "aliases": [
+          "throw"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Socks",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Sweater",
+        "aliases": [
+          "jumper"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Mittens",
+        "aliases": [
+          "gloves"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-364",
+    "category": "Pop culture",
+    "prompt": "Name a keepsake someone might put in a scrapbook besides photographs.",
+    "answers": [
+      {
+        "text": "Ticket",
+        "aliases": [
+          "ticket stub"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Letter",
+        "aliases": [
+          "handwritten note"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Postcard",
+        "aliases": [
+          "post card"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Pressed flower",
+        "aliases": [
+          "dried flower"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Map",
+        "aliases": [
+          "travel map"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ribbon",
+        "aliases": [
+          "award ribbon"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-365",
+    "category": "Pop culture",
+    "prompt": "Name a material someone might use in a collage.",
+    "answers": [
+      {
+        "text": "Magazine pictures",
+        "aliases": [
+          "magazine cutouts"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Newspaper",
+        "aliases": [
+          "newsprint"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Fabric scraps",
+        "aliases": [
+          "cloth"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Photographs",
+        "aliases": [
+          "photos"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Wrapping paper",
+        "aliases": [
+          "gift wrap"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Leaves",
+        "aliases": [
+          "dried leaves"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-366",
+    "category": "Pop culture",
+    "prompt": "Name a scent someone might choose for a homemade candle.",
+    "answers": [
+      {
+        "text": "Vanilla",
+        "aliases": [
+          "vanilla bean"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Lavender",
+        "aliases": [
+          "lavender flower"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Cinnamon",
+        "aliases": [
+          "spice"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Citrus",
+        "aliases": [
+          "lemon or orange"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Pine",
+        "aliases": [
+          "evergreen"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ocean breeze",
+        "aliases": [
+          "sea breeze"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-367",
+    "category": "Pop culture",
+    "prompt": "Name something someone might need to make a beaded bracelet.",
+    "answers": [
+      {
+        "text": "Beads",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Cord",
+        "aliases": [
+          "string"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Clasp",
+        "aliases": [
+          "fastener"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Scissors",
+        "aliases": [
+          "cutters"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Pliers",
+        "aliases": [
+          "jewelry pliers"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Measuring tape",
+        "aliases": [
+          "tape measure"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-368",
+    "category": "Pop culture",
+    "prompt": "Name a reason a craft project sits unfinished for months.",
+    "answers": [
+      {
+        "text": "No time",
+        "aliases": [
+          "too busy"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Lost interest",
+        "aliases": [
+          "got bored"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Missing supplies",
+        "aliases": [
+          "ran out of materials"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Too difficult",
+        "aliases": [
+          "harder than expected"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Made a mistake",
+        "aliases": [
+          "need to redo it"
+        ],
+        "points": 8
+      },
+      {
+        "text": "No workspace",
+        "aliases": [
+          "not enough room"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-369",
+    "category": "Pop culture",
+    "prompt": "Name a reason an adult might sign up for an art class.",
+    "answers": [
+      {
+        "text": "Learn a skill",
+        "aliases": [
+          "improve technique"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Relax",
+        "aliases": [
+          "reduce stress"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Meet people",
+        "aliases": [
+          "make friends"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Try a new hobby",
+        "aliases": [
+          "find a hobby"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Find inspiration",
+        "aliases": [
+          "fresh ideas"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Build confidence",
+        "aliases": [
+          "feel more confident"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-370",
+    "category": "Pop culture",
+    "prompt": "Name a challenge an artist might face while painting outdoors.",
+    "answers": [
+      {
+        "text": "Wind",
+        "aliases": [
+          "windy weather"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Rain",
+        "aliases": [
+          "wet weather"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Changing light",
+        "aliases": [
+          "moving shadows"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Insects",
+        "aliases": [
+          "bugs"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Carrying supplies",
+        "aliases": [
+          "heavy equipment"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Curious spectators",
+        "aliases": [
+          "people watching"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-371",
+    "category": "Pop culture",
+    "prompt": "Name something people cover or protect before a messy painting session.",
+    "answers": [
+      {
+        "text": "Table",
+        "aliases": [
+          "work surface"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Clothes",
+        "aliases": [
+          "clothing"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Floor",
+        "aliases": [
+          "carpet"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Hands",
+        "aliases": [
+          "skin"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Hair",
+        "aliases": [
+          "tie back hair"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Nearby furniture",
+        "aliases": [
+          "sofa or chairs"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-372",
+    "category": "Pop culture",
+    "prompt": "Name something that can go wrong while assembling a model kit.",
+    "answers": [
+      {
+        "text": "Lost piece",
+        "aliases": [
+          "missing part"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Too much glue",
+        "aliases": [
+          "glue spill"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Part fitted backward",
+        "aliases": [
+          "wrong way around"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Paint smudge",
+        "aliases": [
+          "messy paint"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Broken part",
+        "aliases": [
+          "snapped piece"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Pieces do not line up",
+        "aliases": [
+          "bad fit"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-373",
+    "category": "Pop culture",
+    "prompt": "Name something a hobbyist might add to a miniature landscape.",
+    "answers": [
+      {
+        "text": "Trees",
+        "aliases": [
+          "tiny trees"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Buildings",
+        "aliases": [
+          "houses"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Grass",
+        "aliases": [
+          "turf"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Rocks",
+        "aliases": [
+          "stones"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Road",
+        "aliases": [
+          "path"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Pond",
+        "aliases": [
+          "water feature"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-374",
+    "category": "Pop culture",
+    "prompt": "Name a simple design a beginner might embroider.",
+    "answers": [
+      {
+        "text": "Flower",
+        "aliases": [
+          "floral pattern"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Initials",
+        "aliases": [
+          "letters"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Heart",
+        "aliases": [
+          "heart shape"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Star",
+        "aliases": [
+          "star shape"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Leaf",
+        "aliases": [
+          "leaves"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Animal",
+        "aliases": [
+          "small animal"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-375",
+    "category": "Pop culture",
+    "prompt": "Name a mistake someone might make while sewing.",
+    "answers": [
+      {
+        "text": "Wrong measurements",
+        "aliases": [
+          "wrong size"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Crooked seam",
+        "aliases": [
+          "uneven stitching"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Tangled thread",
+        "aliases": [
+          "thread knot"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Fabric inside out",
+        "aliases": [
+          "wrong side out"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Mismatched fabric",
+        "aliases": [
+          "wrong fabric piece"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Skipped stitches",
+        "aliases": [
+          "missing stitches"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-376",
+    "category": "Pop culture",
+    "prompt": "Name a household item someone could use as a tool when shaping clay.",
+    "answers": [
+      {
+        "text": "Toothpick",
+        "aliases": [
+          "cocktail stick"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Spoon",
+        "aliases": [
+          "teaspoon"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Fork",
+        "aliases": [
+          "dinner fork"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Rolling pin",
+        "aliases": [
+          "dough roller"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Cookie cutter",
+        "aliases": [
+          "biscuit cutter"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Sponge",
+        "aliases": [
+          "damp sponge"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-377",
+    "category": "Pop culture",
+    "prompt": "Name something someone does before framing a drawing.",
+    "answers": [
+      {
+        "text": "Measure it",
+        "aliases": [
+          "check size"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Choose a frame",
+        "aliases": [
+          "pick frame"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Choose a mat",
+        "aliases": [
+          "pick a mount"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Clean the glass",
+        "aliases": [
+          "wipe glass"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Sign the artwork",
+        "aliases": [
+          "add signature"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Flatten the paper",
+        "aliases": [
+          "remove wrinkles"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-378",
+    "category": "Pop culture",
+    "prompt": "Name information a visitor might see beside an artwork in a gallery.",
+    "answers": [
+      {
+        "text": "Artist's name",
+        "aliases": [
+          "creator name"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Title",
+        "aliases": [
+          "name of artwork"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Materials",
+        "aliases": [
+          "medium"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Date made",
+        "aliases": [
+          "year"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Description",
+        "aliases": [
+          "explanation"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Price",
+        "aliases": [
+          "cost"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-379",
+    "category": "Pop culture",
+    "prompt": "Name a rule visitors are often asked to follow in an art museum.",
+    "answers": [
+      {
+        "text": "Do not touch",
+        "aliases": [
+          "hands off"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Keep voices low",
+        "aliases": [
+          "be quiet"
+        ],
+        "points": 24
+      },
+      {
+        "text": "No flash photography",
+        "aliases": [
+          "turn flash off"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Keep food outside",
+        "aliases": [
+          "no eating"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Stay behind barriers",
+        "aliases": [
+          "keep your distance"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Follow bag rules",
+        "aliases": [
+          "check large bags"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-380",
+    "category": "Pop culture",
+    "prompt": "Name a subject a street artist might paint on a wall.",
+    "answers": [
+      {
+        "text": "Portrait",
+        "aliases": [
+          "face"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Animals",
+        "aliases": [
+          "wildlife"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Lettering",
+        "aliases": [
+          "words"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Flowers",
+        "aliases": [
+          "plants"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Abstract shapes",
+        "aliases": [
+          "geometric shapes"
+        ],
+        "points": 8
+      },
+      {
+        "text": "City scene",
+        "aliases": [
+          "buildings"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-381",
+    "category": "Pop culture",
+    "prompt": "Name something a maker might sell at a local art fair.",
+    "answers": [
+      {
+        "text": "Prints",
+        "aliases": [
+          "art prints"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Jewelry",
+        "aliases": [
+          "handmade jewelry"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Pottery",
+        "aliases": [
+          "ceramics"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Paintings",
+        "aliases": [
+          "original paintings"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Stickers",
+        "aliases": [
+          "art stickers"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Woven goods",
+        "aliases": [
+          "weaving"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-382",
+    "category": "Pop culture",
+    "prompt": "Name something an artist might change after stepping back to look at a painting.",
+    "answers": [
+      {
+        "text": "Colors",
+        "aliases": [
+          "color scheme"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Background",
+        "aliases": [
+          "backdrop"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Composition",
+        "aliases": [
+          "arrangement"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Lighting",
+        "aliases": [
+          "highlights"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Size of an object",
+        "aliases": [
+          "proportions"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Facial expression",
+        "aliases": [
+          "expression"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-383",
+    "category": "Pop culture",
+    "prompt": "Name a digital drawing mistake that might make an artist press Undo.",
+    "answers": [
+      {
+        "text": "Stray stroke",
+        "aliases": [
+          "wrong line"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Wrong color",
+        "aliases": [
+          "incorrect color"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Deleted layer",
+        "aliases": [
+          "removed layer"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Moved an object",
+        "aliases": [
+          "accidental move"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Unwanted fill",
+        "aliases": [
+          "filled wrong area"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Accidental resizing",
+        "aliases": [
+          "changed size"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-384",
+    "category": "Pop culture",
+    "prompt": "Name something a digital artist might keep on its own layer.",
+    "answers": [
+      {
+        "text": "Sketch",
+        "aliases": [
+          "rough drawing"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Outlines",
+        "aliases": [
+          "line art"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Base colors",
+        "aliases": [
+          "flat colors"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Shadows",
+        "aliases": [
+          "shading"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Background",
+        "aliases": [
+          "backdrop"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Text",
+        "aliases": [
+          "lettering"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-385",
+    "category": "Pop culture",
+    "prompt": "Name an occasion for which someone might make a handmade card.",
+    "answers": [
+      {
+        "text": "Birthday",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Thank you",
+        "aliases": [
+          "thanks"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Wedding",
+        "aliases": [
+          "marriage"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Anniversary",
+        "aliases": [
+          "wedding anniversary"
+        ],
+        "points": 14
+      },
+      {
+        "text": "New baby",
+        "aliases": [
+          "birth"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Graduation",
+        "aliases": [
+          "finishing school"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-386",
+    "category": "Pop culture",
+    "prompt": "Name something someone might add to plain gift wrapping to decorate it.",
+    "answers": [
+      {
+        "text": "Ribbon",
+        "aliases": [
+          "decorative ribbon"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Gift tag",
+        "aliases": [
+          "name tag"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Dried flowers",
+        "aliases": [
+          "pressed flowers"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Stickers",
+        "aliases": [
+          "decorative stickers"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Doodles",
+        "aliases": [
+          "hand drawings"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Twine",
+        "aliases": [
+          "decorative string"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-387",
+    "category": "Pop culture",
+    "prompt": "Name a problem that can spoil an otherwise good photograph.",
+    "answers": [
+      {
+        "text": "Blurry image",
+        "aliases": [
+          "out of focus"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Too dark",
+        "aliases": [
+          "underexposed"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Bad framing",
+        "aliases": [
+          "cut off subject"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Flash glare",
+        "aliases": [
+          "reflection"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Closed eyes",
+        "aliases": [
+          "blinking"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Finger over the lens",
+        "aliases": [
+          "blocked lens"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-388",
+    "category": "Pop culture",
+    "prompt": "Name an instruction someone taking a group photo might call out.",
+    "answers": [
+      {
+        "text": "Smile",
+        "aliases": [
+          "say cheese"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Move closer",
+        "aliases": [
+          "squeeze together"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Look at the camera",
+        "aliases": [
+          "look here"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Stand up straight",
+        "aliases": [
+          "straighten up"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Take off sunglasses",
+        "aliases": [
+          "remove shades"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hold still",
+        "aliases": [
+          "do not move"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-389",
+    "category": "Pop culture",
+    "prompt": "Name a kind of shot for which a photographer might use a tripod.",
+    "answers": [
+      {
+        "text": "Long exposure",
+        "aliases": [
+          "slow shutter shot"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Group photo including themselves",
+        "aliases": [
+          "self timer photo"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Time lapse",
+        "aliases": [
+          "timelapse"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Steady video",
+        "aliases": [
+          "video recording"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Panorama",
+        "aliases": [
+          "wide stitched view"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Close-up detail",
+        "aliases": [
+          "macro photo"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-390",
+    "category": "Pop culture",
+    "prompt": "Name something a photographer might carry in a camera bag.",
+    "answers": [
+      {
+        "text": "Camera",
+        "aliases": [
+          "camera body"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Extra lens",
+        "aliases": [
+          "spare lens"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Spare battery",
+        "aliases": [
+          "extra battery"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Memory card",
+        "aliases": [
+          "storage card"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Lens cloth",
+        "aliases": [
+          "cleaning cloth"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Small tripod",
+        "aliases": [
+          "mini tripod"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-391",
+    "category": "Pop culture",
+    "prompt": "Name a surface in which photographers might capture a reflection.",
+    "answers": [
+      {
+        "text": "Mirror",
+        "aliases": [
+          "looking glass"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Lake",
+        "aliases": [
+          "still water"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Window",
+        "aliases": [
+          "glass window"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Puddle",
+        "aliases": [
+          "rain puddle"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Sunglasses",
+        "aliases": [
+          "shades"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Shiny metal",
+        "aliases": [
+          "polished metal"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-392",
+    "category": "Pop culture",
+    "prompt": "Name a prop a family might bring to an outdoor portrait session.",
+    "answers": [
+      {
+        "text": "Blanket",
+        "aliases": [
+          "picnic blanket"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Flowers",
+        "aliases": [
+          "bouquet"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Sign",
+        "aliases": [
+          "message board"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Balloons",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Chair",
+        "aliases": [
+          "stool"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hats",
+        "aliases": [
+          "matching hats"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-393",
+    "category": "Pop culture",
+    "prompt": "Name something people make using their favorite photographs.",
+    "answers": [
+      {
+        "text": "Photo album",
+        "aliases": [
+          "photo book"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Framed print",
+        "aliases": [
+          "framed photo"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Calendar",
+        "aliases": [
+          "photo calendar"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Greeting card",
+        "aliases": [
+          "photo card"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Scrapbook",
+        "aliases": [
+          "memory book"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Photo mug",
+        "aliases": [
+          "printed mug"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-394",
+    "category": "Pop culture",
+    "prompt": "Name a challenge someone might have when taking photographs at a zoo.",
+    "answers": [
+      {
+        "text": "Animals keep moving",
+        "aliases": [
+          "moving subject"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Fence in the way",
+        "aliases": [
+          "wire barrier"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Crowds",
+        "aliases": [
+          "people blocking view"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Glass glare",
+        "aliases": [
+          "reflections"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Animal too far away",
+        "aliases": [
+          "distance"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Animal hiding",
+        "aliases": [
+          "out of sight"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-395",
+    "category": "Pop culture",
+    "prompt": "Name a way people sort their digital photograph collection.",
+    "answers": [
+      {
+        "text": "By date",
+        "aliases": [
+          "chronological order"
+        ],
+        "points": 30
+      },
+      {
+        "text": "By event",
+        "aliases": [
+          "occasion"
+        ],
+        "points": 24
+      },
+      {
+        "text": "By location",
+        "aliases": [
+          "place"
+        ],
+        "points": 18
+      },
+      {
+        "text": "By person",
+        "aliases": [
+          "who is in them"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Favorites",
+        "aliases": [
+          "best photos"
+        ],
+        "points": 9
+      },
+      {
+        "text": "By subject",
+        "aliases": [
+          "topic"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-396",
+    "category": "Pop culture",
+    "prompt": "Name something a photographer might head outdoors specifically to photograph.",
+    "answers": [
+      {
+        "text": "Sunset",
+        "aliases": [
+          "sunrise"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Wildlife",
+        "aliases": [
+          "animals"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Flowers",
+        "aliases": [
+          "wildflowers"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Old buildings",
+        "aliases": [
+          "architecture"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Waterfall",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Boats",
+        "aliases": [
+          "ships"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-397",
+    "category": "Pop culture",
+    "prompt": "Name a pose people might try in a photo booth.",
+    "answers": [
+      {
+        "text": "Funny face",
+        "aliases": [
+          "silly face"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Peace sign",
+        "aliases": [
+          "two fingers"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Kiss on the cheek",
+        "aliases": [
+          "cheek kiss"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Thumbs up",
+        "aliases": [
+          "thumb raised"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Surprised expression",
+        "aliases": [
+          "shocked face"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Flexing muscles",
+        "aliases": [
+          "strong pose"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-398",
+    "category": "Pop culture",
+    "prompt": "Name something members of a craft group might share with one another.",
+    "answers": [
+      {
+        "text": "Technique tips",
+        "aliases": [
+          "how to advice"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Supplies",
+        "aliases": [
+          "materials"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Feedback on work",
+        "aliases": [
+          "project feedback"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Finished projects",
+        "aliases": [
+          "completed work"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Inspiration",
+        "aliases": [
+          "ideas"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Encouragement",
+        "aliases": [
+          "support"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "culture-399",
+    "category": "Pop culture",
+    "prompt": "Name an object someone might reuse in a homemade craft project.",
+    "answers": [
+      {
+        "text": "Glass jar",
+        "aliases": [
+          "jam jar"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Cardboard tube",
+        "aliases": [
+          "paper towel roll"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Tin can",
+        "aliases": [
+          "food can"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Old T-shirt",
+        "aliases": [
+          "old shirt"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Egg carton",
+        "aliases": [
+          "egg box"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Plastic bottle",
+        "aliases": [
+          "water bottle"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "culture-400",
+    "category": "Pop culture",
+    "prompt": "Name something a hobbyist might use to organize a craft room.",
+    "answers": [
+      {
+        "text": "Storage bins",
+        "aliases": [
+          "plastic boxes"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Drawers",
+        "aliases": [
+          "drawer unit"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pegboard",
+        "aliases": [
+          "tool board"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Jars",
+        "aliases": [
+          "glass jars"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Shelves",
+        "aliases": [
+          "shelving"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Baskets",
+        "aliases": [
+          "woven baskets"
+        ],
+        "points": 6
+      }
+    ]
+  }
+]

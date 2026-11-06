@@ -1,5 +1,5 @@
 import { QUESTION_CATEGORIES } from "./constants.ts";
-import { ensureQuestionBank, playableQuestion, readQuestionBank, validateBankQuestion } from "./question-bank.ts";
+import { ensureQuestionBank, playableQuestion, readQuestionBankIndex, validateBankQuestion } from "./question-bank.ts";
 import type { Question, RoomSettings } from "./types.ts";
 export { QUESTION_CATEGORIES } from "./constants.ts";
 
@@ -27,7 +27,7 @@ export async function generateQuestions(
     throw new Error("Choose a valid category and between three and five rounds.");
   }
   await ensureQuestionBank(environment.DB);
-  const bank = readQuestionBank();
+  const bank = readQuestionBankIndex();
   const knownIds = new Set(bank.map((question) => question.id));
   const previous = [...new Set(previousQuestionIds)].filter((id) => knownIds.has(id));
   const categoryIds = new Set(bank.filter((question) => settings.category === "Anything goes" || question.category === settings.category).map((question) => question.id));

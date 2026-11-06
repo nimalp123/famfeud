@@ -51,6 +51,10 @@ async function fixture(): Promise<Fixture> {
   }
 
   function prepare(sql: string, values: Array<string | number | null> = []) {
+    function execute() {
+      const result = database.prepare(sql).run(...values);
+      return { results: [], success: true, meta: { changes: Number(result.changes) } };
+    }
     return {
       bind(...parameters: Array<string | number | null>) {
         return prepare(sql, parameters);
@@ -65,15 +69,28 @@ async function fixture(): Promise<Fixture> {
       },
       async run() {
         await setImmediate();
-        const result = database.prepare(sql).run(...values);
-        return { results: [], success: true, meta: { changes: Number(result.changes) } };
+        return execute();
       },
+      execute,
     };
+  }
+
+  async function batch(statements: Array<ReturnType<typeof prepare>>) {
+    await setImmediate();
+    database.exec("BEGIN");
+    try {
+      const results = statements.map((statement) => statement.execute());
+      database.exec("COMMIT");
+      return results;
+    } catch (error) {
+      database.exec("ROLLBACK");
+      throw error;
+    }
   }
 
   return {
     database,
-    env: { DB: { prepare } as unknown as D1Database },
+    env: { DB: { prepare, batch } as unknown as D1Database },
     close: () => database.close(),
   };
 }
@@ -520,82 +537,209 @@ test("an offline host transfers once to the earliest connected player and retain
   assert.equal(returned.data.room.players.find((player) => player.id === host.session.playerId)?.connected, true);
 });
 
-test("health seeds exactly 200 stored boards once and reports the bank without networking", async (t) => {
+test("health seeds exactly 2,000 stored boards once and reports the bank without networking", async (t) => {
   const f = await fixture();
   t.after(f.close);
   t.mock.method(globalThis, "fetch", () => { throw new Error("Stored-bank mode must not use the network."); });
   const first = await request<{ ok: boolean; questionCount: number }>(f.env, "/api/health");
   assert.equal(first.response.status, 200);
-  assert.deepEqual(first.data, { ok: true, questionCount: 200 });
+  assert.deepEqual(first.data, { ok: true, questionCount: 2000 });
   const changes = f.database.prepare("SELECT total_changes() AS count").get()!.count;
   const second = await request<{ ok: boolean; questionCount: number }>(f.env, "/api/health");
   assert.deepEqual(second.data, first.data);
   assert.equal(f.database.prepare("SELECT total_changes() AS count").get()!.count, changes);
-  assert.equal(f.database.prepare("SELECT COUNT(*) AS count FROM question_bank").get()!.count, 200);
+  assert.equal(f.database.prepare("SELECT COUNT(*) AS count FROM question_bank").get()!.count, 2000);
   const categories = f.database.prepare("SELECT category, COUNT(*) AS count FROM question_bank GROUP BY category").all();
   assert.equal(categories.length, 5);
-  assert.ok(categories.every((category) => category.count === 40));
+  assert.ok(categories.every((category) => category.count === 400));
   const host = await create(f.env);
   const guest = await join(f.env, host.session.code);
   assert.equal((await start(f, host, guest)).source, "bank");
 });
 
-async function exhaustBankThroughRematches(
-  t: TestContext,
-  category: string,
-  poolSize: number,
-) {
+async function fullMatchFixture(t: TestContext, mode: RoomSettings["mode"], guestNames: string[]) {
   const clock = { now: Date.now() };
   t.mock.method(Date, "now", () => clock.now);
+  t.mock.method(globalThis, "fetch", () => { throw new Error("A full stored-bank match must not use the network."); });
   const f = await fixture();
   t.after(f.close);
-  const host = await create(f.env, "Host", { category, rounds: 5 });
-  const guest = await join(f.env, host.session.code);
-  const seen = new Set<string>();
+  const host = await create(f.env, "Host", { mode });
+  const guests: ApiSessionResponse[] = [];
+  for (const name of guestNames) guests.push(await join(f.env, host.session.code.toLowerCase(), name));
+  const seats = [host, ...guests];
+  assert.equal(new Set(seats.map((seat) => seat.session.token)).size, seats.length);
+  assert.equal(new Set(seats.map((seat) => seat.session.playerId)).size, seats.length);
+  assert.ok(seats.every((seat) => seat.session.code === host.session.code));
+  assert.equal(host.room.isPublic, false);
 
-  async function finishAndRematch() {
-    for (let round = 0; round < 5; round += 1) {
-      clock.now += 61_000;
-      const expired = storedRoom(f, host.session.code);
-      expired.round!.deadline = clock.now - 1;
-      saveStoredRoom(f, expired);
-      const polled = await request<{ room: RoomView }>(f.env, `/api/rooms/${host.session.code}`, {
-        token: guest.session.token,
-      });
-      assert.equal(polled.data.room.phase, "round-ended");
-      const next = await action(f.env, host.session, { type: "next" });
-      assert.equal(next.response.status, 200, JSON.stringify(next.data));
-    }
-    assert.equal(storedRoom(f, host.session.code).phase, "finished");
-    assert.equal((await action(f.env, host.session, { type: "rematch" })).data.room.phase, "lobby");
-    // Keep starts below the independent hourly anti-abuse quota.
-    clock.now += 60_000;
+  async function send(seat: ApiSessionResponse, value: ClientAction) {
+    clock.now += 1000;
+    return action(f.env, seat.session, value);
   }
-
-  for (let match = 0; match < poolSize / 5; match += 1) {
-    await start(f, host, guest);
-    const state = storedRoom(f, host.session.code);
-    assert.equal(new Set(state.questions.map((question) => question.id)).size, 5);
-    for (const question of state.questions) {
-      assert.equal(seen.has(question.id), false, `${question.id} repeated before the ${poolSize}-board pool was exhausted`);
-      seen.add(question.id);
-      const stored = f.database.prepare("SELECT category FROM question_bank WHERE id = ?").get(question.id);
-      assert.ok(stored, "Selected question must have a persisted bank row.");
-      if (category !== "Anything goes") assert.equal(stored.category, category);
-    }
-    await finishAndRematch();
+  async function accept(seat: ApiSessionResponse, value: ClientAction) {
+    const result = await send(seat, value);
+    assert.equal(result.response.status, 200, JSON.stringify(result.data));
+    return result.data.room;
   }
-  assert.equal(seen.size, poolSize);
-  await start(f, host, guest);
-  const recycled = storedRoom(f, host.session.code).questions;
-  assert.equal(new Set(recycled.map((question) => question.id)).size, 5);
-  assert.ok(recycled.every((question) => seen.has(question.id)));
+  async function poll(seat = guests[0]) {
+    const result = await request<{ room: RoomView }>(f.env, `/api/rooms/${host.session.code}`, { token: seat.session.token });
+    assert.equal(result.response.status, 200, JSON.stringify(result.data));
+    return result.data.room;
+  }
+  for (const guest of guests) await accept(guest, { type: "ready", ready: true });
+  const playing = await accept(host, { type: "start" });
+  assert.equal(playing.phase, "playing");
+  assert.equal(playing.source, "bank");
+  const deck = storedRoom(f, host.session.code).questions;
+  assert.equal(deck.length, 3);
+  assert.equal(new Set(deck.map((question) => question.id)).size, 3);
+  assert.ok(playing.round!.answers.every((answer) => answer.text === null && answer.points === null));
+  return { f, host, guests, seats, clock, deck, send, accept, poll };
 }
 
-test("a category cycles its 40 stored boards across rematches before repeating", async (t) => {
-  await exhaustBankThroughRematches(t, "Food & drink", 40);
+async function assertRematchAndFreshDeck(match: Awaited<ReturnType<typeof fullMatchFixture>>) {
+  const { f, host, guests, seats, deck, clock, send, accept, poll } = match;
+  const finished = await poll();
+  assert.equal(finished.phase, "finished");
+  assert.equal(finished.roundIndex, 2);
+  const identities = finished.players.map(({ id, name, avatar, team }) => ({ id, name, avatar, team }));
+  assert.equal((await send(guests[0], { type: "rematch" })).response.status, 400);
+  const reset = await accept(host, { type: "rematch" });
+  assert.equal(reset.code, host.session.code);
+  assert.equal(reset.hostId, host.session.playerId);
+  assert.equal(reset.phase, "lobby");
+  assert.equal(reset.round, null);
+  assert.equal(reset.roundIndex, 0);
+  assert.deepEqual(reset.teamScores, [0, 0]);
+  assert.deepEqual(reset.players.map(({ id, name, avatar, team }) => ({ id, name, avatar, team })), identities);
+  assert.ok(reset.players.every((player) => player.score === 0 && player.ready === (player.id === host.session.playerId)));
+  assert.deepEqual(storedRoom(f, host.session.code).questions, []);
+  assert.deepEqual(new Set(storedRoom(f, host.session.code).usedQuestionIds), new Set(deck.map((question) => question.id)));
+  for (const seat of seats) assert.equal((await poll(seat)).players.length, seats.length);
+  assert.equal((await send(host, { type: "start" })).response.status, 400);
+  for (const guest of guests) await accept(guest, { type: "ready", ready: true });
+  clock.now += 61_000;
+  const restarted = await accept(host, { type: "start" });
+  assert.equal(restarted.phase, "playing");
+  assert.equal(restarted.roundIndex, 0);
+  assert.equal(restarted.round!.bank, 0);
+  assert.deepEqual(restarted.round!.teamStrikes, [0, 0]);
+  assert.ok(restarted.round!.answers.every((answer) => !answer.revealed && answer.text === null));
+  const nextDeck = storedRoom(f, host.session.code).questions;
+  assert.equal(new Set(nextDeck.map((question) => question.id)).size, 3);
+  assert.ok(nextDeck.every((question) => !deck.some((previous) => previous.id === question.id)));
+  assert.equal(storedRoom(f, host.session.code).usedQuestionIds!.length, 6);
+}
+
+test("a complete solo API match scores three rounds and rematches with the same independent seats and a fresh deck", async (t) => {
+  const match = await fullMatchFixture(t, "solo", ["Guest"]);
+  const { f, host, guests: [guest], deck, clock, send, accept, poll } = match;
+  const expected = new Map([[host.session.playerId, 0], [guest.session.playerId, 0]]);
+  const credit = (seat: ApiSessionResponse, points: number) => expected.set(seat.session.playerId, expected.get(seat.session.playerId)! + points);
+
+  const missed = await accept(guest, { type: "guess", guess: "zzzz nonexistent answer zzzz" });
+  assert.equal(missed.round!.playerStrikes[guest.session.playerId], 1);
+  assert.equal(missed.round!.bank, 0);
+  for (const [index, answer] of deck[0].answers.entries()) {
+    const seat = index % 2 === 0 ? host : guest;
+    const view = await accept(seat, { type: "guess", guess: answer.text });
+    credit(seat, answer.points);
+    assert.equal(view.round!.answers.find((entry) => entry.id === answer.id)!.claimedBy, seat.session.playerId);
+    if (index === 0) {
+      assert.equal((await send(guest, { type: "guess", guess: answer.text })).response.status, 400);
+      assert.equal((await poll()).round!.bank, answer.points);
+    }
+  }
+  const cleared = await poll();
+  assert.equal(cleared.phase, "round-ended");
+  assert.equal(cleared.round!.bank, 100);
+  assert.equal(cleared.round!.endedReason, "Board cleared!");
+  assert.ok(cleared.round!.answers.every((answer) => answer.revealed));
+
+  const second = await accept(host, { type: "next" });
+  assert.equal(second.roundIndex, 1);
+  assert.ok(Object.values(second.round!.playerStrikes).every((strikes) => strikes === 0));
+  await accept(host, { type: "guess", guess: deck[1].answers[0].text });
+  credit(host, deck[1].answers[0].points);
+  for (let strike = 0; strike < 3; strike += 1) await accept(guest, { type: "guess", guess: "zzzz nonexistent answer zzzz" });
+  const locked = await send(guest, { type: "guess", guess: deck[1].answers[1].text });
+  assert.equal(locked.response.status, 400);
+  assert.match(locked.data.error!, /out of guesses/);
+  for (let strike = 0; strike < 3; strike += 1) await accept(host, { type: "guess", guess: "zzzz nonexistent answer zzzz" });
+  const exhausted = await poll();
+  assert.equal(exhausted.phase, "round-ended");
+  assert.equal(exhausted.round!.bank, deck[1].answers[0].points);
+  assert.ok(exhausted.round!.answers.every((answer) => answer.text !== null));
+  assert.equal(exhausted.round!.answers.filter((answer) => answer.revealed).length, 1);
+
+  await accept(host, { type: "next" });
+  await accept(guest, { type: "guess", guess: deck[2].answers[0].text });
+  credit(guest, deck[2].answers[0].points);
+  clock.now = storedRoom(f, host.session.code).round!.deadline;
+  const timedOut = await poll();
+  assert.equal(timedOut.phase, "round-ended");
+  assert.equal(timedOut.round!.endedReason, "Time's up!");
+  assert.equal(timedOut.round!.bank, deck[2].answers[0].points);
+  const finished = await accept(host, { type: "next" });
+  assert.equal(finished.phase, "finished");
+  for (const player of finished.players) assert.equal(player.score, expected.get(player.id));
+  assert.deepEqual(finished.teamScores, [0, 0]);
+  await assertRematchAndFreshDeck(match);
 });
 
-test("Anything goes cycles all 200 stored boards across rematches before repeating", async (t) => {
-  await exhaustBankThroughRematches(t, "Anything goes", 200);
+test("a complete four-player teams API match rotates turns, resolves steals and rematches with reset scores", async (t) => {
+  const match = await fullMatchFixture(t, "teams", ["Blue one", "Red two", "Blue two"]);
+  const { f, host, guests: [blueOne, redTwo, blueTwo], deck, clock, send, accept, poll } = match;
+  assert.deepEqual((await poll()).players.map((player) => player.team), [0, 1, 0, 1]);
+  assert.equal((await send(blueOne, { type: "guess", guess: deck[0].answers[0].text })).response.status, 400);
+  let view = await accept(host, { type: "guess", guess: deck[0].answers[0].text });
+  assert.equal(view.round!.activePlayerId, redTwo.session.playerId);
+  for (const seat of [redTwo, host, redTwo]) view = await accept(seat, { type: "guess", guess: "zzzz nonexistent answer zzzz" });
+  assert.deepEqual(view.round!.teamStrikes, [3, 0]);
+  assert.equal(view.round!.stealing, true);
+  assert.equal(view.round!.activeTeam, 1);
+  assert.equal(view.round!.activePlayerId, blueOne.session.playerId);
+  assert.equal(view.round!.bank, deck[0].answers[0].points);
+  assert.equal((await send(blueTwo, { type: "guess", guess: deck[0].answers[1].text })).response.status, 400);
+  view = await accept(blueOne, { type: "guess", guess: deck[0].answers[1].text });
+  const stolen = deck[0].answers[0].points + deck[0].answers[1].points;
+  assert.equal(view.phase, "round-ended");
+  assert.deepEqual(view.teamScores, [0, stolen]);
+  assert.deepEqual((await poll()).teamScores, [0, stolen]);
+
+  view = await accept(host, { type: "next" });
+  assert.equal(view.roundIndex, 1);
+  assert.equal(view.round!.activeTeam, 1);
+  assert.equal(view.round!.activePlayerId, blueOne.session.playerId);
+  view = await accept(blueOne, { type: "guess", guess: deck[1].answers[0].text });
+  assert.equal(view.round!.activePlayerId, blueTwo.session.playerId);
+  for (const seat of [blueTwo, blueOne, blueTwo]) view = await accept(seat, { type: "guess", guess: "zzzz nonexistent answer zzzz" });
+  assert.equal(view.round!.stealing, true);
+  assert.equal(view.round!.activePlayerId, host.session.playerId);
+  clock.now = storedRoom(f, host.session.code).round!.deadline;
+  view = await poll();
+  assert.equal(view.phase, "round-ended");
+  assert.match(view.round!.endedReason!, /Steal missed/);
+  assert.deepEqual(view.teamScores, [0, stolen + deck[1].answers[0].points]);
+
+  view = await accept(host, { type: "next" });
+  assert.equal(view.roundIndex, 2);
+  assert.deepEqual(view.round!.teamStrikes, [0, 0]);
+  for (const [index, answer] of deck[2].answers.entries()) {
+    const seat = index % 2 === 0 ? host : redTwo;
+    assert.equal(view.round!.activePlayerId, seat.session.playerId);
+    view = await accept(seat, { type: "guess", guess: answer.text });
+  }
+  assert.equal(view.phase, "round-ended");
+  assert.equal(view.round!.bank, 100);
+  assert.deepEqual(view.teamScores, [100, stolen + deck[1].answers[0].points]);
+  const finished = await accept(host, { type: "next" });
+  assert.equal(finished.phase, "finished");
+  assert.deepEqual(finished.teamScores, view.teamScores);
+  const scores = new Map(finished.players.map((player) => [player.id, player.score]));
+  assert.equal(scores.get(host.session.playerId), deck[0].answers[0].points + deck[2].answers.filter((_, index) => index % 2 === 0).reduce((sum, answer) => sum + answer.points, 0));
+  assert.equal(scores.get(redTwo.session.playerId), deck[2].answers.filter((_, index) => index % 2 === 1).reduce((sum, answer) => sum + answer.points, 0));
+  assert.equal(scores.get(blueOne.session.playerId), deck[0].answers[1].points + deck[1].answers[0].points);
+  assert.equal(scores.get(blueTwo.session.playerId), 0);
+  await assertRematchAndFreshDeck(match);
 });

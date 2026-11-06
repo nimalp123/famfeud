@@ -1,0 +1,4355 @@
+[
+  {
+    "id": "games-311",
+    "category": "Sports & games",
+    "prompt": "Name a snack commonly sold at a stadium concession stand.",
+    "answers": [
+      {
+        "text": "Hot dog",
+        "aliases": [
+          "hotdog"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Popcorn",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Nachos",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Pretzel",
+        "aliases": [
+          "soft pretzel"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Pizza",
+        "aliases": [
+          "pizza slice"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [
+          "icecream"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-312",
+    "category": "Sports & games",
+    "prompt": "Name something happening on the field before a professional game starts.",
+    "answers": [
+      {
+        "text": "Player warmups",
+        "aliases": [
+          "warming up"
+        ],
+        "points": 32
+      },
+      {
+        "text": "National anthem",
+        "aliases": [
+          "anthem"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Team introductions",
+        "aliases": [
+          "player introductions"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Ceremonial first pitch",
+        "aliases": [
+          "first pitch"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Field maintenance",
+        "aliases": [
+          "groundskeeping"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Youth exhibition",
+        "aliases": [
+          "kids exhibition game"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-313",
+    "category": "Sports & games",
+    "prompt": "Name a reason a fan arrives at the stadium well before the game.",
+    "answers": [
+      {
+        "text": "Avoid traffic",
+        "aliases": [
+          "beat traffic"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Watch warmups",
+        "aliases": [
+          "see players warm up"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Find parking",
+        "aliases": [
+          "get a parking spot"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Get a good seat",
+        "aliases": [
+          "choose seats"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Buy food",
+        "aliases": [
+          "get snacks"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Get autographs",
+        "aliases": [
+          "meet players"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-314",
+    "category": "Sports & games",
+    "prompt": "Name a reason fans leave a game before it is over.",
+    "answers": [
+      {
+        "text": "Beat the traffic",
+        "aliases": [
+          "avoid traffic"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Their team is losing badly",
+        "aliases": [
+          "one sided game"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Bad weather",
+        "aliases": [
+          "rain"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Children are tired",
+        "aliases": [
+          "tired kids"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Work the next morning",
+        "aliases": [
+          "early work"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Catch public transport",
+        "aliases": [
+          "catch the last train"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-315",
+    "category": "Sports & games",
+    "prompt": "Name something a fan wears to show support for a team.",
+    "answers": [
+      {
+        "text": "Jersey",
+        "aliases": [
+          "team jersey"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Cap",
+        "aliases": [
+          "baseball cap"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Scarf",
+        "aliases": [
+          "team scarf"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Team T-shirt",
+        "aliases": [
+          "team shirt"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Face paint",
+        "aliases": [
+          "painted face"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Team jacket",
+        "aliases": [
+          "jacket"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-316",
+    "category": "Sports & games",
+    "prompt": "Name a small souvenir someone buys at a stadium gift shop.",
+    "answers": [
+      {
+        "text": "Keychain",
+        "aliases": [
+          "key ring"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Pennant",
+        "aliases": [
+          "small pennant"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Mug",
+        "aliases": [
+          "coffee mug"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Magnet",
+        "aliases": [
+          "fridge magnet"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Program",
+        "aliases": [
+          "match program"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Miniature ball",
+        "aliases": [
+          "mini ball"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-317",
+    "category": "Sports & games",
+    "prompt": "Name something a fan puts on a homemade sign for a televised game.",
+    "answers": [
+      {
+        "text": "Team cheer",
+        "aliases": [
+          "go team"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Favorite player's name",
+        "aliases": [
+          "player name"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Birthday message",
+        "aliases": [
+          "happy birthday"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Hometown",
+        "aliases": [
+          "where they are from"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Funny joke",
+        "aliases": [
+          "pun"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Victory prediction",
+        "aliases": [
+          "prediction"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-318",
+    "category": "Sports & games",
+    "prompt": "Name something a spectator carries or wears that could block your view.",
+    "answers": [
+      {
+        "text": "Large sign",
+        "aliases": [
+          "poster"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Umbrella",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Big hat",
+        "aliases": [
+          "oversized hat"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Flag",
+        "aliases": [
+          "team flag"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Foam finger",
+        "aliases": [
+          "foam hand"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Balloon",
+        "aliases": [
+          "balloons"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-319",
+    "category": "Sports & games",
+    "prompt": "Name something spectators do during halftime at a stadium.",
+    "answers": [
+      {
+        "text": "Use the restroom",
+        "aliases": [
+          "go to the bathroom"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Buy food",
+        "aliases": [
+          "get snacks"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Watch the halftime show",
+        "aliases": [
+          "watch the show"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Stretch their legs",
+        "aliases": [
+          "take a walk"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Chat with friends",
+        "aliases": [
+          "talk"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Check their phone",
+        "aliases": [
+          "look at their phone"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-320",
+    "category": "Sports & games",
+    "prompt": "Name something shown on a stadium's giant video screen.",
+    "answers": [
+      {
+        "text": "Instant replay",
+        "aliases": [
+          "replay"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Live score",
+        "aliases": [
+          "score"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Fans in the crowd",
+        "aliases": [
+          "fan camera"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Advertisements",
+        "aliases": [
+          "ads"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Player statistics",
+        "aliases": [
+          "player stats"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Announcements",
+        "aliases": [
+          "stadium announcements"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-321",
+    "category": "Sports & games",
+    "prompt": "Name a person who works at a stadium on game day.",
+    "answers": [
+      {
+        "text": "Usher",
+        "aliases": [
+          "seat attendant"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Food vendor",
+        "aliases": [
+          "concession worker"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Security guard",
+        "aliases": [
+          "security officer"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Ticket taker",
+        "aliases": [
+          "ticket scanner"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Groundskeeper",
+        "aliases": [
+          "grounds crew"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Cleaner",
+        "aliases": [
+          "janitor"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-322",
+    "category": "Sports & games",
+    "prompt": "Name something a stadium usher helps a spectator with.",
+    "answers": [
+      {
+        "text": "Finding their seat",
+        "aliases": [
+          "locating seats"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Directions to the restroom",
+        "aliases": [
+          "finding the bathroom"
+        ],
+        "points": 25
+      },
+      {
+        "text": "A seating dispute",
+        "aliases": [
+          "someone in their seat"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Accessible seating",
+        "aliases": [
+          "wheelchair seating"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A lost item",
+        "aliases": [
+          "lost property"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Finding an exit",
+        "aliases": [
+          "exit directions"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-323",
+    "category": "Sports & games",
+    "prompt": "Name something fans do when rain starts during an outdoor game.",
+    "answers": [
+      {
+        "text": "Take shelter",
+        "aliases": [
+          "go under cover"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Put on a poncho",
+        "aliases": [
+          "put on a raincoat"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Open an umbrella",
+        "aliases": [
+          "use an umbrella"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Cover their belongings",
+        "aliases": [
+          "protect their bags"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Dry off their seat",
+        "aliases": [
+          "wipe the seat"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Leave the stadium",
+        "aliases": [
+          "go home"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-324",
+    "category": "Sports & games",
+    "prompt": "Name something a fan wants at a cold night game.",
+    "answers": [
+      {
+        "text": "Warm coat",
+        "aliases": [
+          "jacket"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Blanket",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Gloves",
+        "aliases": [
+          "mittens"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Warm hat",
+        "aliases": [
+          "beanie"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Hot drink",
+        "aliases": [
+          "hot chocolate"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Scarf",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-325",
+    "category": "Sports & games",
+    "prompt": "Name a reason a stadium concession line moves slowly.",
+    "answers": [
+      {
+        "text": "Halftime rush",
+        "aliases": [
+          "everyone arrives at once"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Too few workers",
+        "aliases": [
+          "understaffing"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Food is still cooking",
+        "aliases": [
+          "slow food preparation"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Payment problems",
+        "aliases": [
+          "card reader problem"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Large orders",
+        "aliases": [
+          "big orders"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Customers cannot decide",
+        "aliases": [
+          "indecisive customers"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-326",
+    "category": "Sports & games",
+    "prompt": "Name a landmark where friends might agree to meet outside a stadium.",
+    "answers": [
+      {
+        "text": "Main entrance",
+        "aliases": [
+          "front gate"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Statue",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Team store",
+        "aliases": [
+          "gift shop"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Ticket office",
+        "aliases": [
+          "box office"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Parking lot entrance",
+        "aliases": [
+          "parking entrance"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Large sign",
+        "aliases": [
+          "stadium sign"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-327",
+    "category": "Sports & games",
+    "prompt": "Name something a spectator looks for on a stadium map.",
+    "answers": [
+      {
+        "text": "Seating section",
+        "aliases": [
+          "their section"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Entrance gate",
+        "aliases": [
+          "gate"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Restrooms",
+        "aliases": [
+          "bathrooms"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Food stands",
+        "aliases": [
+          "concessions"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Parking areas",
+        "aliases": [
+          "parking lots"
+        ],
+        "points": 9
+      },
+      {
+        "text": "First aid station",
+        "aliases": [
+          "medical station"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-328",
+    "category": "Sports & games",
+    "prompt": "Name a way fans travel to a city stadium.",
+    "answers": [
+      {
+        "text": "Car",
+        "aliases": [
+          "drive"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Train",
+        "aliases": [
+          "subway"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Bus",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Taxi",
+        "aliases": [
+          "rideshare"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Walk",
+        "aliases": [
+          "on foot"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Bicycle",
+        "aliases": [
+          "bike"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-329",
+    "category": "Sports & games",
+    "prompt": "Name something a spectator might accidentally leave under a stadium seat.",
+    "answers": [
+      {
+        "text": "Phone",
+        "aliases": [
+          "cellphone"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Bag",
+        "aliases": [
+          "backpack"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Scarf",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Water bottle",
+        "aliases": [
+          "drink bottle"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Program",
+        "aliases": [
+          "match program"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Gloves",
+        "aliases": [
+          "mittens"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-330",
+    "category": "Sports & games",
+    "prompt": "Name a smell you might notice at an outdoor ballpark.",
+    "answers": [
+      {
+        "text": "Grilled hot dogs",
+        "aliases": [
+          "hot dogs"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Popcorn",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Fresh-cut grass",
+        "aliases": [
+          "grass"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Sunscreen",
+        "aliases": [
+          "sunblock"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Fireworks",
+        "aliases": [
+          "gunpowder"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Coffee",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-331",
+    "category": "Sports & games",
+    "prompt": "Name something a child looks forward to at their first professional game.",
+    "answers": [
+      {
+        "text": "Seeing a favorite player",
+        "aliases": [
+          "favorite player"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Meeting the mascot",
+        "aliases": [
+          "mascot"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Catching a ball",
+        "aliases": [
+          "getting a ball"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Stadium snacks",
+        "aliases": [
+          "food"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Appearing on the big screen",
+        "aliases": [
+          "jumbotron"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Cheering with the crowd",
+        "aliases": [
+          "crowd cheers"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-332",
+    "category": "Sports & games",
+    "prompt": "Name a reason someone chooses a favorite sports team.",
+    "answers": [
+      {
+        "text": "Hometown",
+        "aliases": [
+          "local team"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Family supports them",
+        "aliases": [
+          "family tradition"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Favorite player",
+        "aliases": [
+          "a player they like"
+        ],
+        "points": 18
+      },
+      {
+        "text": "They keep winning",
+        "aliases": [
+          "success"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Team colors",
+        "aliases": [
+          "colors"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Underdog appeal",
+        "aliases": [
+          "they are underdogs"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-333",
+    "category": "Sports & games",
+    "prompt": "Name a lucky ritual a fan repeats before watching their team.",
+    "answers": [
+      {
+        "text": "Wear the same jersey",
+        "aliases": [
+          "lucky jersey"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Sit in the same seat",
+        "aliases": [
+          "lucky seat"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Eat the same snack",
+        "aliases": [
+          "lucky food"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Wear lucky socks",
+        "aliases": [
+          "same socks"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Play a special song",
+        "aliases": [
+          "lucky song"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Make a wish",
+        "aliases": [
+          "cross their fingers"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-334",
+    "category": "Sports & games",
+    "prompt": "Name a piece of sports memorabilia a collector might display at home.",
+    "answers": [
+      {
+        "text": "Signed jersey",
+        "aliases": [
+          "autographed jersey"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Autographed ball",
+        "aliases": [
+          "signed ball"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Team photograph",
+        "aliases": [
+          "team photo"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Championship pennant",
+        "aliases": [
+          "pennant"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Framed ticket",
+        "aliases": [
+          "ticket stub"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Signed helmet",
+        "aliases": [
+          "autographed helmet"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-335",
+    "category": "Sports & games",
+    "prompt": "Name something a new fan does to learn about a team.",
+    "answers": [
+      {
+        "text": "Watch matches",
+        "aliases": [
+          "watch games"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Read team news",
+        "aliases": [
+          "read news"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Ask another fan",
+        "aliases": [
+          "ask a friend"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Learn the players",
+        "aliases": [
+          "learn the roster"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Watch highlights",
+        "aliases": [
+          "highlight videos"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Check the standings",
+        "aliases": [
+          "look at the table"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-336",
+    "category": "Sports & games",
+    "prompt": "Name something a fan might do on meeting a famous athlete.",
+    "answers": [
+      {
+        "text": "Ask for an autograph",
+        "aliases": [
+          "get a signature"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Ask for a photo",
+        "aliases": [
+          "take a selfie"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Say hello",
+        "aliases": [
+          "greet them"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Congratulate them",
+        "aliases": [
+          "offer congratulations"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Shake their hand",
+        "aliases": [
+          "handshake"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Wave",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-337",
+    "category": "Sports & games",
+    "prompt": "Name something fans blame after their team loses a close game.",
+    "answers": [
+      {
+        "text": "Referee mistakes",
+        "aliases": [
+          "bad calls"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Poor coaching",
+        "aliases": [
+          "coach decisions"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Missed scoring chances",
+        "aliases": [
+          "missed shots"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Weak defense",
+        "aliases": [
+          "bad defense"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Injuries",
+        "aliases": [
+          "injured players"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Bad luck",
+        "aliases": [
+          "unlucky bounce"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-338",
+    "category": "Sports & games",
+    "prompt": "Name information a fan checks before an important match.",
+    "answers": [
+      {
+        "text": "Start time",
+        "aliases": [
+          "kickoff time"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Starting lineup",
+        "aliases": [
+          "lineup"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Player injuries",
+        "aliases": [
+          "injury report"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Team standings",
+        "aliases": [
+          "league table"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Weather forecast",
+        "aliases": [
+          "weather"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Previous results",
+        "aliases": [
+          "recent form"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-339",
+    "category": "Sports & games",
+    "prompt": "Name an activity a fan club organizes for its members.",
+    "answers": [
+      {
+        "text": "Watch party",
+        "aliases": [
+          "viewing party"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Trip to an away game",
+        "aliases": [
+          "away trip"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Fundraiser",
+        "aliases": [
+          "fundraising event"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Meet a player",
+        "aliases": [
+          "player meet and greet"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Community volunteering",
+        "aliases": [
+          "volunteer work"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Banner making",
+        "aliases": [
+          "making signs"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-340",
+    "category": "Sports & games",
+    "prompt": "Name something that makes a sporting rivalry more intense.",
+    "answers": [
+      {
+        "text": "Neighboring cities",
+        "aliases": [
+          "local rivals"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Championship stakes",
+        "aliases": [
+          "title on the line"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Long history",
+        "aliases": [
+          "years of rivalry"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Controversial call",
+        "aliases": [
+          "disputed decision"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Star player changing sides",
+        "aliases": [
+          "player transfer"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Families split between teams",
+        "aliases": [
+          "divided families"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-341",
+    "category": "Sports & games",
+    "prompt": "Name a reason neutral fans cheer for an underdog.",
+    "answers": [
+      {
+        "text": "They love an upset",
+        "aliases": [
+          "surprise win"
+        ],
+        "points": 28
+      },
+      {
+        "text": "They relate to the team",
+        "aliases": [
+          "relatable team"
+        ],
+        "points": 23
+      },
+      {
+        "text": "The favorite always wins",
+        "aliases": [
+          "tired of the favorite"
+        ],
+        "points": 19
+      },
+      {
+        "text": "The team works hard",
+        "aliases": [
+          "hard work"
+        ],
+        "points": 14
+      },
+      {
+        "text": "They have never won a title",
+        "aliases": [
+          "first championship"
+        ],
+        "points": 10
+      },
+      {
+        "text": "An inspiring backstory",
+        "aliases": [
+          "inspiring story"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-342",
+    "category": "Sports & games",
+    "prompt": "Name a reason someone starts supporting a different sports team.",
+    "answers": [
+      {
+        "text": "Move to a new city",
+        "aliases": [
+          "move away"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Favorite player transfers",
+        "aliases": [
+          "player changes teams"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Family influence",
+        "aliases": [
+          "family supports them"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Their old team folds",
+        "aliases": [
+          "team shuts down"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Poor team management",
+        "aliases": [
+          "bad ownership"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Friends introduce the new team",
+        "aliases": [
+          "friends support them"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-343",
+    "category": "Sports & games",
+    "prompt": "Name a topic people discuss on a sports podcast.",
+    "answers": [
+      {
+        "text": "Game results",
+        "aliases": [
+          "match results"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Player trades",
+        "aliases": [
+          "transfers"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Injuries",
+        "aliases": [
+          "injury news"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Predictions",
+        "aliases": [
+          "upcoming games"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Tactics",
+        "aliases": [
+          "strategy"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Player interviews",
+        "aliases": [
+          "athlete interviews"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-344",
+    "category": "Sports & games",
+    "prompt": "Name something that can spoil the result of a game you recorded.",
+    "answers": [
+      {
+        "text": "Phone news alert",
+        "aliases": [
+          "push notification"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Social media post",
+        "aliases": [
+          "social media"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Message from a friend",
+        "aliases": [
+          "friend texts"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Coworker conversation",
+        "aliases": [
+          "office chatter"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Radio report",
+        "aliases": [
+          "radio news"
+        ],
+        "points": 8
+      },
+      {
+        "text": "TV news ticker",
+        "aliases": [
+          "ticker"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-345",
+    "category": "Sports & games",
+    "prompt": "Name a source a fan uses to catch up on a match they missed.",
+    "answers": [
+      {
+        "text": "Highlight video",
+        "aliases": [
+          "highlights"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Sports news article",
+        "aliases": [
+          "news report"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Box score",
+        "aliases": [
+          "score summary"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Full match replay",
+        "aliases": [
+          "game replay"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Friend's recap",
+        "aliases": [
+          "ask a friend"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Sports podcast",
+        "aliases": [
+          "podcast"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-346",
+    "category": "Sports & games",
+    "prompt": "Name something fans compare when debating the greatest player.",
+    "answers": [
+      {
+        "text": "Championships won",
+        "aliases": [
+          "titles"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Records",
+        "aliases": [
+          "career records"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Skill",
+        "aliases": [
+          "ability"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Career length",
+        "aliases": [
+          "longevity"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Quality of opponents",
+        "aliases": [
+          "competition"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Leadership",
+        "aliases": [
+          "leading teammates"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-347",
+    "category": "Sports & games",
+    "prompt": "Name a quality that makes an athlete a fan favorite.",
+    "answers": [
+      {
+        "text": "Great skill",
+        "aliases": [
+          "talent"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Kindness to fans",
+        "aliases": [
+          "friendly"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hard work",
+        "aliases": [
+          "effort"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Loyalty",
+        "aliases": [
+          "stays with the team"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Sense of humor",
+        "aliases": [
+          "funny"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Sportsmanship",
+        "aliases": [
+          "fair play"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-348",
+    "category": "Sports & games",
+    "prompt": "Name a reason a family chooses a minor league game for an outing.",
+    "answers": [
+      {
+        "text": "Affordable tickets",
+        "aliases": [
+          "cheap tickets"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Seats close to the action",
+        "aliases": [
+          "close seats"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Family entertainment",
+        "aliases": [
+          "kid friendly activities"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Support the local team",
+        "aliases": [
+          "local pride"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Easy parking",
+        "aliases": [
+          "convenient parking"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Special promotions",
+        "aliases": [
+          "giveaways"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-349",
+    "category": "Sports & games",
+    "prompt": "Name a special promotion that might attract fans to a game.",
+    "answers": [
+      {
+        "text": "Free giveaway",
+        "aliases": [
+          "free souvenir"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Fireworks show",
+        "aliases": [
+          "fireworks"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Kids get in free",
+        "aliases": [
+          "free child tickets"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Theme night",
+        "aliases": [
+          "costume night"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Discounted food",
+        "aliases": [
+          "cheap snacks"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Autograph session",
+        "aliases": [
+          "player signing"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-350",
+    "category": "Sports & games",
+    "prompt": "Name something you might see in a championship victory parade.",
+    "answers": [
+      {
+        "text": "Players",
+        "aliases": [
+          "team members"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Trophy",
+        "aliases": [
+          "championship trophy"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Team bus",
+        "aliases": [
+          "open top bus"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Confetti",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Banners",
+        "aliases": [
+          "team banners"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Marching band",
+        "aliases": [
+          "band"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-351",
+    "category": "Sports & games",
+    "prompt": "Name a reason friends choose to watch a big game at home instead of going out.",
+    "answers": [
+      {
+        "text": "Save money",
+        "aliases": [
+          "spend less"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Comfortable seating",
+        "aliases": [
+          "comfortable couch"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Avoid crowds",
+        "aliases": [
+          "less crowded"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Bring the children",
+        "aliases": [
+          "kid friendly"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Control the television",
+        "aliases": [
+          "choose the channel"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Cook their own food",
+        "aliases": [
+          "homemade food"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-352",
+    "category": "Sports & games",
+    "prompt": "Name a nonalcoholic drink served at a sports watch party.",
+    "answers": [
+      {
+        "text": "Soda",
+        "aliases": [
+          "soft drink"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Water",
+        "aliases": [
+          "bottled water"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Lemonade",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Iced tea",
+        "aliases": [
+          "ice tea"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Fruit juice",
+        "aliases": [
+          "juice"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Hot chocolate",
+        "aliases": [
+          "cocoa"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-353",
+    "category": "Sports & games",
+    "prompt": "Name something a host does to get the room ready for a televised game.",
+    "answers": [
+      {
+        "text": "Arrange seats",
+        "aliases": [
+          "set out chairs"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Test the television",
+        "aliases": [
+          "check the TV"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Set out food",
+        "aliases": [
+          "prepare snacks"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Chill drinks",
+        "aliases": [
+          "refrigerate beverages"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Put up decorations",
+        "aliases": [
+          "decorate"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Clear a view of the screen",
+        "aliases": [
+          "move obstructions"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-354",
+    "category": "Sports & games",
+    "prompt": "Name a reason someone who dislikes sports still attends a watch party.",
+    "answers": [
+      {
+        "text": "See friends",
+        "aliases": [
+          "socialize"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Enjoy the food",
+        "aliases": [
+          "eat snacks"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Spend time with family",
+        "aliases": [
+          "family time"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Watch the halftime show",
+        "aliases": [
+          "halftime entertainment"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Keep a tradition",
+        "aliases": [
+          "annual tradition"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Accompany a partner",
+        "aliases": [
+          "go with their partner"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-355",
+    "category": "Sports & games",
+    "prompt": "Name something a guest should avoid during a tense moment in a televised game.",
+    "answers": [
+      {
+        "text": "Talking over the commentary",
+        "aliases": [
+          "talking loudly"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Changing the channel",
+        "aliases": [
+          "using the remote"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Blocking the screen",
+        "aliases": [
+          "standing in front of the TV"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Revealing the result",
+        "aliases": [
+          "spoilers"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Taking a loud phone call",
+        "aliases": [
+          "loud phone call"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Asking constant rule questions",
+        "aliases": [
+          "interrupting with questions"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-356",
+    "category": "Sports & games",
+    "prompt": "Name a reason the television picture disappears during a watch party.",
+    "answers": [
+      {
+        "text": "Internet outage",
+        "aliases": [
+          "lost internet"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Power outage",
+        "aliases": [
+          "power cut"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Loose cable",
+        "aliases": [
+          "unplugged cable"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Streaming app crash",
+        "aliases": [
+          "app freezes"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Expired subscription",
+        "aliases": [
+          "subscription problem"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Accidental remote press",
+        "aliases": [
+          "wrong button"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-357",
+    "category": "Sports & games",
+    "prompt": "Name something a host scrambles to find just before kickoff on TV.",
+    "answers": [
+      {
+        "text": "Remote control",
+        "aliases": [
+          "TV remote"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Streaming password",
+        "aliases": [
+          "login password"
+        ],
+        "points": 23
+      },
+      {
+        "text": "HDMI cable",
+        "aliases": [
+          "video cable"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Bottle opener",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Napkins",
+        "aliases": [
+          "serviettes"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Coasters",
+        "aliases": [
+          "drink coasters"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-358",
+    "category": "Sports & games",
+    "prompt": "Name a game guests might play before a sports watch party broadcast begins.",
+    "answers": [
+      {
+        "text": "Sports trivia",
+        "aliases": [
+          "trivia quiz"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Cornhole",
+        "aliases": [
+          "beanbag toss"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Cards",
+        "aliases": [
+          "card game"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Video game",
+        "aliases": [
+          "sports video game"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Table football",
+        "aliases": [
+          "foosball"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Charades",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-359",
+    "category": "Sports & games",
+    "prompt": "Name a decoration for a championship watch party.",
+    "answers": [
+      {
+        "text": "Team flags",
+        "aliases": [
+          "flags"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Balloons",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Banners",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Team-colored tablecloth",
+        "aliases": [
+          "tablecloth"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Streamers",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Player posters",
+        "aliases": [
+          "posters"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-360",
+    "category": "Sports & games",
+    "prompt": "Name something that gets knocked over when fans jump up to celebrate at home.",
+    "answers": [
+      {
+        "text": "Drink",
+        "aliases": [
+          "cup"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Snack bowl",
+        "aliases": [
+          "bowl of chips"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Chair",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Lamp",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Side table",
+        "aliases": [
+          "end table"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Party decorations",
+        "aliases": [
+          "decorations"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-361",
+    "category": "Sports & games",
+    "prompt": "Name a sports rule a casual viewer might ask someone to explain.",
+    "answers": [
+      {
+        "text": "Offside",
+        "aliases": [
+          "offsides"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Penalty",
+        "aliases": [
+          "foul"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Overtime",
+        "aliases": [
+          "extra time"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Scoring system",
+        "aliases": [
+          "how points work"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Timeout",
+        "aliases": [
+          "time out"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Replay review",
+        "aliases": [
+          "video review"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-362",
+    "category": "Sports & games",
+    "prompt": "Name something sports viewers want to see in slow motion.",
+    "answers": [
+      {
+        "text": "Close line call",
+        "aliases": [
+          "close call"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Winning score",
+        "aliases": [
+          "scoring play"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Spectacular catch",
+        "aliases": [
+          "great catch"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Foul",
+        "aliases": [
+          "illegal contact"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Collision",
+        "aliases": [
+          "crash"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Funny celebration",
+        "aliases": [
+          "celebration"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-363",
+    "category": "Sports & games",
+    "prompt": "Name something a commentator talks about while play is stopped.",
+    "answers": [
+      {
+        "text": "Player statistics",
+        "aliases": [
+          "stats"
+        ],
+        "points": 30
+      },
+      {
+        "text": "The previous play",
+        "aliases": [
+          "last play"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Injury update",
+        "aliases": [
+          "injured player"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Team strategy",
+        "aliases": [
+          "tactics"
+        ],
+        "points": 13
+      },
+      {
+        "text": "League standings",
+        "aliases": [
+          "standings"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Weather conditions",
+        "aliases": [
+          "weather"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-364",
+    "category": "Sports & games",
+    "prompt": "Name a part of a sports broadcast besides the game that people look forward to.",
+    "answers": [
+      {
+        "text": "Halftime performance",
+        "aliases": [
+          "halftime show"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Player interview",
+        "aliases": [
+          "athlete interview"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pregame analysis",
+        "aliases": [
+          "pregame show"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Highlight reel",
+        "aliases": [
+          "highlights"
+        ],
+        "points": 12
+      },
+      {
+        "text": "National anthem",
+        "aliases": [
+          "anthem"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Special commercials",
+        "aliases": [
+          "funny ads"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-365",
+    "category": "Sports & games",
+    "prompt": "Name a sound that makes it hard to hear the TV at a watch party.",
+    "answers": [
+      {
+        "text": "Cheering",
+        "aliases": [
+          "shouting"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Conversations",
+        "aliases": [
+          "people talking"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Loud music",
+        "aliases": [
+          "music"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Dog barking",
+        "aliases": [
+          "barking"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Blender",
+        "aliases": [
+          "kitchen appliance"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Doorbell",
+        "aliases": [
+          "door bell"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-366",
+    "category": "Sports & games",
+    "prompt": "Name something a host cleans up after a sports watch party.",
+    "answers": [
+      {
+        "text": "Empty cans",
+        "aliases": [
+          "drink cans"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Food crumbs",
+        "aliases": [
+          "crumbs"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Dirty plates",
+        "aliases": [
+          "plates"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Spilled drinks",
+        "aliases": [
+          "spills"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Used napkins",
+        "aliases": [
+          "napkins"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Party decorations",
+        "aliases": [
+          "decorations"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-367",
+    "category": "Sports & games",
+    "prompt": "Name a television feature that makes watching sports more enjoyable.",
+    "answers": [
+      {
+        "text": "Large screen",
+        "aliases": [
+          "big screen"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Sharp picture",
+        "aliases": [
+          "high resolution"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Smooth motion",
+        "aliases": [
+          "high refresh rate"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Clear sound",
+        "aliases": [
+          "good audio"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Wide viewing angle",
+        "aliases": [
+          "view from the side"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Reliable streaming",
+        "aliases": [
+          "stable connection"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-368",
+    "category": "Sports & games",
+    "prompt": "Name something a fan texts a friend about during a close game.",
+    "answers": [
+      {
+        "text": "Current score",
+        "aliases": [
+          "score update"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Amazing play",
+        "aliases": [
+          "big play"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Referee decision",
+        "aliases": [
+          "bad call"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Time remaining",
+        "aliases": [
+          "time left"
+        ],
+        "points": 12
+      },
+      {
+        "text": "How nervous they are",
+        "aliases": [
+          "nervous reaction"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Invitation to watch together",
+        "aliases": [
+          "come watch"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-369",
+    "category": "Sports & games",
+    "prompt": "Name food people order for delivery when a game runs late.",
+    "answers": [
+      {
+        "text": "Pizza",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Chicken wings",
+        "aliases": [
+          "wings"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Burgers",
+        "aliases": [
+          "hamburgers"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Tacos",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Sandwiches",
+        "aliases": [
+          "subs"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Chinese food",
+        "aliases": [
+          "chinese takeout"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-370",
+    "category": "Sports & games",
+    "prompt": "Name something a sports party host might run out of.",
+    "answers": [
+      {
+        "text": "Ice",
+        "aliases": [
+          "ice cubes"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Drinks",
+        "aliases": [
+          "beverages"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Snacks",
+        "aliases": [
+          "food"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Seats",
+        "aliases": [
+          "chairs"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Paper cups",
+        "aliases": [
+          "cups"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Napkins",
+        "aliases": [
+          "serviettes"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-371",
+    "category": "Sports & games",
+    "prompt": "Name a cause that a charity sports tournament might raise money for.",
+    "answers": [
+      {
+        "text": "Medical treatment",
+        "aliases": [
+          "hospital care"
+        ],
+        "points": 30
+      },
+      {
+        "text": "School programs",
+        "aliases": [
+          "school"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Local youth team",
+        "aliases": [
+          "youth sports"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Disaster relief",
+        "aliases": [
+          "disaster victims"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Animal shelter",
+        "aliases": [
+          "animal rescue"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Food bank",
+        "aliases": [
+          "hunger relief"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-372",
+    "category": "Sports & games",
+    "prompt": "Name something a fan photographs to remember a stadium visit.",
+    "answers": [
+      {
+        "text": "The playing field",
+        "aliases": [
+          "field",
+          "court"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Friends and family",
+        "aliases": [
+          "group selfie"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Favorite player",
+        "aliases": [
+          "player close up"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Mascot",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Scoreboard",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Stadium exterior",
+        "aliases": [
+          "outside of the stadium"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-373",
+    "category": "Sports & games",
+    "prompt": "Name a disagreement a tournament organizer may have to settle.",
+    "answers": [
+      {
+        "text": "Incorrect score",
+        "aliases": [
+          "scoring error"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Rule interpretation",
+        "aliases": [
+          "disputed rule"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Player eligibility",
+        "aliases": [
+          "ineligible player"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Schedule conflict",
+        "aliases": [
+          "match timing"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Uneven teams",
+        "aliases": [
+          "unfair teams"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Playing order",
+        "aliases": [
+          "who plays first"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-374",
+    "category": "Sports & games",
+    "prompt": "Name a reason there is a long break between tournament matches.",
+    "answers": [
+      {
+        "text": "Earlier match runs late",
+        "aliases": [
+          "previous game overtime"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Meal break",
+        "aliases": [
+          "lunch"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Bad weather",
+        "aliases": [
+          "rain delay"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Players need rest",
+        "aliases": [
+          "rest period"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Equipment repair",
+        "aliases": [
+          "broken equipment"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Medical attention",
+        "aliases": [
+          "injury treatment"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-375",
+    "category": "Sports & games",
+    "prompt": "Name a prize a recreational competition gives besides a trophy.",
+    "answers": [
+      {
+        "text": "Medal",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Ribbon",
+        "aliases": [
+          "rosette"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Certificate",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Gift card",
+        "aliases": [
+          "gift voucher"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Plaque",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Sports equipment",
+        "aliases": [
+          "new equipment"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-376",
+    "category": "Sports & games",
+    "prompt": "Name a way a friendly competition might break a tie.",
+    "answers": [
+      {
+        "text": "Play another round",
+        "aliases": [
+          "rematch"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Sudden death",
+        "aliases": [
+          "next point wins"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Shootout",
+        "aliases": [
+          "penalty shootout"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Coin toss",
+        "aliases": [
+          "flip a coin"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Point difference",
+        "aliases": [
+          "score difference"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Timed challenge",
+        "aliases": [
+          "time trial"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-377",
+    "category": "Sports & games",
+    "prompt": "Name a way people divide into teams for a casual tournament.",
+    "answers": [
+      {
+        "text": "Captains pick",
+        "aliases": [
+          "captains choose players"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Random draw",
+        "aliases": [
+          "draw names"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Balance skill levels",
+        "aliases": [
+          "match abilities"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Friends stay together",
+        "aliases": [
+          "friend groups"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Family teams",
+        "aliases": [
+          "by family"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Age groups",
+        "aliases": [
+          "by age"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-378",
+    "category": "Sports & games",
+    "prompt": "Name a job a volunteer does at a community sports tournament.",
+    "answers": [
+      {
+        "text": "Keep score",
+        "aliases": [
+          "scorekeeping"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Sell refreshments",
+        "aliases": [
+          "concessions"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Check in players",
+        "aliases": [
+          "registration desk"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Set up the venue",
+        "aliases": [
+          "setup"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Direct parking",
+        "aliases": [
+          "parking attendant"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Provide first aid",
+        "aliases": [
+          "first aid volunteer"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-379",
+    "category": "Sports & games",
+    "prompt": "Name something engraved on a sports trophy.",
+    "answers": [
+      {
+        "text": "Winner's name",
+        "aliases": [
+          "winning player"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Team name",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Tournament name",
+        "aliases": [
+          "competition name"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Year",
+        "aliases": [
+          "date"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Finishing place",
+        "aliases": [
+          "first place"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Sponsor name",
+        "aliases": [
+          "sponsor"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-380",
+    "category": "Sports & games",
+    "prompt": "Name information printed on a flyer for a community tournament.",
+    "answers": [
+      {
+        "text": "Date",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Location",
+        "aliases": [
+          "venue"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Start time",
+        "aliases": [
+          "time"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Entry fee",
+        "aliases": [
+          "cost"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Contact information",
+        "aliases": [
+          "contact details"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Prizes",
+        "aliases": [
+          "awards"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-381",
+    "category": "Sports & games",
+    "prompt": "Name something a parent shouts from the sidelines at a child's game.",
+    "answers": [
+      {
+        "text": "Go team",
+        "aliases": [
+          "come on team"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Pass the ball",
+        "aliases": [
+          "pass"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Shoot",
+        "aliases": [
+          "take the shot"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Defense",
+        "aliases": [
+          "defend"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Run",
+        "aliases": [
+          "keep running"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Great job",
+        "aliases": [
+          "well done"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-382",
+    "category": "Sports & games",
+    "prompt": "Name something a good sport does after losing a friendly match.",
+    "answers": [
+      {
+        "text": "Shake hands",
+        "aliases": [
+          "handshake"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Congratulate the winners",
+        "aliases": [
+          "say well done"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Thank the officials",
+        "aliases": [
+          "thank the referee"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Encourage teammates",
+        "aliases": [
+          "support teammates"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Help clean up",
+        "aliases": [
+          "tidy up"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Admit their mistakes",
+        "aliases": [
+          "take responsibility"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-383",
+    "category": "Sports & games",
+    "prompt": "Name something players praise about a well-run recreational tournament.",
+    "answers": [
+      {
+        "text": "Clear schedule",
+        "aliases": [
+          "organized schedule"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Fair officiating",
+        "aliases": [
+          "good referees"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Good facilities",
+        "aliases": [
+          "quality venue"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Balanced competition",
+        "aliases": [
+          "evenly matched teams"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Friendly volunteers",
+        "aliases": [
+          "helpful staff"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Good prizes",
+        "aliases": [
+          "nice awards"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-384",
+    "category": "Sports & games",
+    "prompt": "Name a way friends settle a disputed point in a casual game.",
+    "answers": [
+      {
+        "text": "Replay the point",
+        "aliases": [
+          "do it over"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Check the rules",
+        "aliases": [
+          "look up the rule"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Ask a witness",
+        "aliases": [
+          "ask someone who saw"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Compromise",
+        "aliases": [
+          "meet halfway"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Flip a coin",
+        "aliases": [
+          "coin toss"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Ask a neutral referee",
+        "aliases": [
+          "ask a neutral person"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-385",
+    "category": "Sports & games",
+    "prompt": "Name something an organizer checks before confirming a local tournament.",
+    "answers": [
+      {
+        "text": "Venue availability",
+        "aliases": [
+          "venue booking"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Number of players",
+        "aliases": [
+          "participant count"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Weather forecast",
+        "aliases": [
+          "weather"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Equipment availability",
+        "aliases": [
+          "enough equipment"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Volunteer availability",
+        "aliases": [
+          "enough helpers"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Rules",
+        "aliases": [
+          "competition format"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-386",
+    "category": "Sports & games",
+    "prompt": "Name a quality people want in a recreational teammate.",
+    "answers": [
+      {
+        "text": "Reliable",
+        "aliases": [
+          "shows up on time"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Encouraging",
+        "aliases": [
+          "supportive"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Fair",
+        "aliases": [
+          "honest"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Cooperative",
+        "aliases": [
+          "team player"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Energetic",
+        "aliases": [
+          "enthusiastic"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Skilled",
+        "aliases": [
+          "good at the game"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-387",
+    "category": "Sports & games",
+    "prompt": "Name a reason someone enters a fun run without trying to win.",
+    "answers": [
+      {
+        "text": "Raise money for charity",
+        "aliases": [
+          "charity"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Get exercise",
+        "aliases": [
+          "fitness"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Spend time with friends",
+        "aliases": [
+          "join friends"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Personal challenge",
+        "aliases": [
+          "finish the distance"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Wear a costume",
+        "aliases": [
+          "dress up"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Join a community event",
+        "aliases": [
+          "community spirit"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-388",
+    "category": "Sports & games",
+    "prompt": "Name a way spectators encourage the last runner to finish a race.",
+    "answers": [
+      {
+        "text": "Applaud",
+        "aliases": [
+          "clap"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Shout their name",
+        "aliases": [
+          "call their name"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hold up a sign",
+        "aliases": [
+          "encouraging sign"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Ring a bell",
+        "aliases": [
+          "cowbell"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Jog alongside them",
+        "aliases": [
+          "run alongside"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Offer a high-five",
+        "aliases": [
+          "high five"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-389",
+    "category": "Sports & games",
+    "prompt": "Name something a tournament organizer announces over a microphone.",
+    "answers": [
+      {
+        "text": "Next match",
+        "aliases": [
+          "upcoming game"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Results",
+        "aliases": [
+          "winners"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Schedule change",
+        "aliases": [
+          "new start time"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Lost item",
+        "aliases": [
+          "lost and found"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Rules reminder",
+        "aliases": [
+          "rule clarification"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Award ceremony",
+        "aliases": [
+          "prize presentation"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-390",
+    "category": "Sports & games",
+    "prompt": "Name a place an amateur team might recruit new players.",
+    "answers": [
+      {
+        "text": "School",
+        "aliases": [
+          "college"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Workplace",
+        "aliases": [
+          "office"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Social media",
+        "aliases": [
+          "online group"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Community center",
+        "aliases": [
+          "recreation center"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Gym",
+        "aliases": [
+          "fitness center"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Neighborhood",
+        "aliases": [
+          "local neighborhood"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-391",
+    "category": "Sports & games",
+    "prompt": "Name something that makes it difficult to get an athlete's autograph.",
+    "answers": [
+      {
+        "text": "Large crowd",
+        "aliases": [
+          "too many fans"
+        ],
+        "points": 30
+      },
+      {
+        "text": "No pen",
+        "aliases": [
+          "forgot a pen"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Athlete is in a hurry",
+        "aliases": [
+          "player is busy"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Security barrier",
+        "aliases": [
+          "fence"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Rain",
+        "aliases": [
+          "bad weather"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Nothing to sign",
+        "aliases": [
+          "no paper"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-392",
+    "category": "Sports & games",
+    "prompt": "Name something that makes a live match especially exciting for a fan.",
+    "answers": [
+      {
+        "text": "Close score",
+        "aliases": [
+          "tight game"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Big rivalry",
+        "aliases": [
+          "rival team"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Surprise upset",
+        "aliases": [
+          "underdog win"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Favorite player performs well",
+        "aliases": [
+          "star performance"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Loud crowd",
+        "aliases": [
+          "great atmosphere"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Championship at stake",
+        "aliases": [
+          "title game"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-393",
+    "category": "Sports & games",
+    "prompt": "Name someone a TV camera might pick out in a sports crowd.",
+    "answers": [
+      {
+        "text": "Fan in a costume",
+        "aliases": [
+          "costumed fan"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Excited child",
+        "aliases": [
+          "cheering child"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Celebrity",
+        "aliases": [
+          "famous person"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Nervous supporter",
+        "aliases": [
+          "worried fan"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Couple kissing",
+        "aliases": [
+          "kissing couple"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Celebrating family",
+        "aliases": [
+          "happy family"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-394",
+    "category": "Sports & games",
+    "prompt": "Name something a sports reporter asks an athlete about after a game.",
+    "answers": [
+      {
+        "text": "How they feel",
+        "aliases": [
+          "their reaction"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Turning point",
+        "aliases": [
+          "key moment"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Team performance",
+        "aliases": [
+          "how the team played"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Injury",
+        "aliases": [
+          "health update"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Game plan",
+        "aliases": [
+          "strategy"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Next opponent",
+        "aliases": [
+          "next game"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-395",
+    "category": "Sports & games",
+    "prompt": "Name something that happens at a team's end-of-season banquet.",
+    "answers": [
+      {
+        "text": "Awards",
+        "aliases": [
+          "prize giving"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Speeches",
+        "aliases": [
+          "coach speech"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Shared meal",
+        "aliases": [
+          "dinner"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Photo slideshow",
+        "aliases": [
+          "season highlights"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Thanking the coach",
+        "aliases": [
+          "coach appreciation"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Group photo",
+        "aliases": [
+          "team picture"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-396",
+    "category": "Sports & games",
+    "prompt": "Name something you might include in a card for a retiring coach.",
+    "answers": [
+      {
+        "text": "Thank-you message",
+        "aliases": [
+          "thanks"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Favorite memory",
+        "aliases": [
+          "shared memory"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Congratulations",
+        "aliases": [
+          "congrats"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Good wishes",
+        "aliases": [
+          "happy retirement"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A lesson they taught",
+        "aliases": [
+          "life lesson"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Inside joke",
+        "aliases": [
+          "funny joke"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-397",
+    "category": "Sports & games",
+    "prompt": "Name a reason fans applaud a player on the opposing team.",
+    "answers": [
+      {
+        "text": "Brilliant play",
+        "aliases": [
+          "great performance"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Returning from injury",
+        "aliases": [
+          "injury comeback"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Final game before retirement",
+        "aliases": [
+          "retiring"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Fair play",
+        "aliases": [
+          "sportsmanship"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Breaking a record",
+        "aliases": [
+          "record achievement"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Helping an injured opponent",
+        "aliases": [
+          "helping another player"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-398",
+    "category": "Sports & games",
+    "prompt": "Name a way a team honors a former player.",
+    "answers": [
+      {
+        "text": "Retire their number",
+        "aliases": [
+          "retire jersey"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Tribute video",
+        "aliases": [
+          "video tribute"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Build a statue",
+        "aliases": [
+          "statue"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Special ceremony",
+        "aliases": [
+          "honor ceremony"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Hall of fame induction",
+        "aliases": [
+          "hall of fame"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Name a facility after them",
+        "aliases": [
+          "name a stand"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-399",
+    "category": "Sports & games",
+    "prompt": "Name something a fan worries about before traveling to an away game.",
+    "answers": [
+      {
+        "text": "Getting tickets",
+        "aliases": [
+          "ticket availability"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Transportation",
+        "aliases": [
+          "getting there"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hotel booking",
+        "aliases": [
+          "place to stay"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Bad weather",
+        "aliases": [
+          "weather"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Rival fans",
+        "aliases": [
+          "hostile fans"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Travel cost",
+        "aliases": [
+          "expense"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-400",
+    "category": "Sports & games",
+    "prompt": "Name news fans hope to hear when their team announces plans for a new season.",
+    "answers": [
+      {
+        "text": "Exciting new player",
+        "aliases": [
+          "new signing"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Injured star returning",
+        "aliases": [
+          "injury comeback"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Experienced coach",
+        "aliases": [
+          "new coach"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Lower ticket prices",
+        "aliases": [
+          "cheaper tickets"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Stadium improvements",
+        "aliases": [
+          "better facilities"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Attractive game schedule",
+        "aliases": [
+          "good fixtures"
+        ],
+        "points": 6
+      }
+    ]
+  }
+]

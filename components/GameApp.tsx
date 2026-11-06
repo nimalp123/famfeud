@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Sparkles, Radio, ArrowUpRight, WifiOff } from "lucide-react";
 import { api, ApiError, readSession, saveSession } from "../lib/client";
+import { QUESTION_BANK_COUNT } from "../lib/constants";
 import type { ApiSessionResponse, ClientAction, PublicRoom, RoomSettings, RoomView, Session } from "../lib/types";
 import HomeScreen from "./HomeScreen";
 import LobbyScreen from "./LobbyScreen";
@@ -13,7 +14,7 @@ export default function GameApp() {
   const [session, setSession] = useState<Session | null>(null);
   const [room, setRoom] = useState<RoomView | null>(null);
   const [publicRooms, setPublicRooms] = useState<PublicRoom[]>([]);
-  const [questionCount, setQuestionCount] = useState(200);
+  const [questionCount, setQuestionCount] = useState(QUESTION_BANK_COUNT);
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [connectionLost, setConnectionLost] = useState(false);

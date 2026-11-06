@@ -1,0 +1,3520 @@
+[
+  {
+    "id": "games-041",
+    "category": "Sports & games",
+    "prompt": "Name a basketball skill a coach might spend a whole practice teaching.",
+    "answers": [
+      {
+        "text": "Shooting",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Dribbling",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Passing",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Rebounding",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Defense",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Footwork",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-042",
+    "category": "Sports & games",
+    "prompt": "Name something a basketball player might do when two defenders trap them.",
+    "answers": [
+      {
+        "text": "Pass the ball",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Pivot",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Call a time-out",
+        "aliases": [
+          "call timeout"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Fake a pass",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Dribble away",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Shoot over them",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-043",
+    "category": "Sports & games",
+    "prompt": "Name something basketball teammates shout to help the player with the ball.",
+    "answers": [
+      {
+        "text": "I'm open",
+        "aliases": [
+          "im open"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Shoot",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Pass",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Watch behind you",
+        "aliases": [
+          "man on"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Use the screen",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Take your time",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-044",
+    "category": "Sports & games",
+    "prompt": "Name a reason a basketball shot might miss the basket.",
+    "answers": [
+      {
+        "text": "Not enough power",
+        "aliases": [
+          "too short"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Too much power",
+        "aliases": [
+          "too long"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Off to one side",
+        "aliases": [
+          "off target"
+        ],
+        "points": 16
+      },
+      {
+        "text": "A defender blocks it",
+        "aliases": [
+          "blocked shot"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A rushed release",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "A slippery ball",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-045",
+    "category": "Sports & games",
+    "prompt": "Name a part of a team uniform that can help identify a player.",
+    "answers": [
+      {
+        "text": "Number",
+        "aliases": [
+          "jersey number"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Name",
+        "aliases": [
+          "player name"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Team logo",
+        "aliases": [
+          "logo"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Team colors",
+        "aliases": [
+          "colours"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Captain's armband",
+        "aliases": [
+          "captains armband"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Position patch",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-046",
+    "category": "Sports & games",
+    "prompt": "Name a reason a player might need a fresh jersey during a game.",
+    "answers": [
+      {
+        "text": "It tore",
+        "aliases": [
+          "torn jersey"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Blood on it",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Covered in mud",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Soaked with sweat",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Wrong number",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Clashes with the other team",
+        "aliases": [
+          "color clash"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-047",
+    "category": "Sports & games",
+    "prompt": "Name a body part athletes cover with protective equipment.",
+    "answers": [
+      {
+        "text": "Head",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Knees",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Shins",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Mouth",
+        "aliases": [
+          "teeth"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Elbows",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Chest",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-048",
+    "category": "Sports & games",
+    "prompt": "Name something a coach might ask a team to change at halftime.",
+    "answers": [
+      {
+        "text": "Defend more closely",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Pass more often",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Pick up the pace",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Communicate more",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Stay in position",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Stop arguing",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-049",
+    "category": "Sports & games",
+    "prompt": "Name a way a coach gets a player's attention from the sideline.",
+    "answers": [
+      {
+        "text": "Calls their name",
+        "aliases": [
+          "shouts their name"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Waves",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Claps",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Blows a whistle",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Makes eye contact",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Sends a teammate over",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-050",
+    "category": "Sports & games",
+    "prompt": "Name a quality that makes someone a good team captain.",
+    "answers": [
+      {
+        "text": "Encourages others",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Stays calm",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Listens",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Treats people fairly",
+        "aliases": [
+          "fairness"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Sets a good example",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Takes responsibility",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-051",
+    "category": "Sports & games",
+    "prompt": "Name a task a team captain might do before a match.",
+    "answers": [
+      {
+        "text": "Take part in the coin toss",
+        "aliases": [
+          "coin toss"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Lead a team huddle",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Greet the opponents",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Speak to the referee",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Check everyone is present",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Lead the warm-up",
+        "aliases": [
+          "lead warmup"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-052",
+    "category": "Sports & games",
+    "prompt": "Name a reason a team might call a time-out when nobody is hurt.",
+    "answers": [
+      {
+        "text": "Plan the next play",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Catch their breath",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Stop the other team's momentum",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Make a substitution",
+        "aliases": [
+          "change players",
+          "substitute a player"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Settle an argument",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Fix equipment",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-053",
+    "category": "Sports & games",
+    "prompt": "Name something a player does immediately after making a mistake.",
+    "answers": [
+      {
+        "text": "Apologizes",
+        "aliases": [
+          "says sorry"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Gets back into position",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Shakes their head",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Takes a deep breath",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Looks toward the coach",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Encourages themselves",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-054",
+    "category": "Sports & games",
+    "prompt": "Name a way a teammate can help someone who has just been injured.",
+    "answers": [
+      {
+        "text": "Call for the trainer",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Help them off the field",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Bring ice",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Carry their bag",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Find them a seat",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Check how they feel",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-055",
+    "category": "Sports & games",
+    "prompt": "Name a short instruction a coach repeats during practice.",
+    "answers": [
+      {
+        "text": "Hustle",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Keep your head up",
+        "aliases": [
+          "heads up"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Bend your knees",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Follow through",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Talk to each other",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Keep moving",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-056",
+    "category": "Sports & games",
+    "prompt": "Name a sign that a player is nervous before a big match.",
+    "answers": [
+      {
+        "text": "Pacing",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Biting their nails",
+        "aliases": [
+          "nail biting"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Fidgeting",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Going quiet",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Sweaty hands",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Talking very fast",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-057",
+    "category": "Sports & games",
+    "prompt": "Name a reason a child might miss team practice.",
+    "answers": [
+      {
+        "text": "Feeling sick",
+        "aliases": [
+          "illness"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Homework",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Family trip",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "No ride",
+        "aliases": [
+          "transport trouble"
+        ],
+        "points": 13
+      },
+      {
+        "text": "An injury",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Another school activity",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-058",
+    "category": "Sports & games",
+    "prompt": "Name something a team can do indoors when rain cancels field practice.",
+    "answers": [
+      {
+        "text": "Watch game footage",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Discuss tactics",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Review the rules",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Clean equipment",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Play a team-building game",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Practice hand signals",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-059",
+    "category": "Sports & games",
+    "prompt": "Name something a coach keeps on a clipboard.",
+    "answers": [
+      {
+        "text": "Team lineup",
+        "aliases": [
+          "lineup"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Practice plan",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Play diagrams",
+        "aliases": [
+          "tactics"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Game schedule",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Player statistics",
+        "aliases": [
+          "stats"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Emergency contacts",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-060",
+    "category": "Sports & games",
+    "prompt": "Name a painted marking you might see on a sports field.",
+    "answers": [
+      {
+        "text": "Sideline",
+        "aliases": [
+          "touchline"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Center line",
+        "aliases": [
+          "centre line"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Goal line",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Penalty area",
+        "aliases": [
+          "penalty box"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Center circle",
+        "aliases": [
+          "centre circle"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Yard lines",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-061",
+    "category": "Sports & games",
+    "prompt": "Name a problem with a field that players might notice before a match.",
+    "answers": [
+      {
+        "text": "Holes in the ground",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Standing water",
+        "aliases": [
+          "puddles"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Litter",
+        "aliases": [
+          "debris"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Grass too long",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Faded lines",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Loose goalposts",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-062",
+    "category": "Sports & games",
+    "prompt": "Name a sports item that someone might repair instead of replacing.",
+    "answers": [
+      {
+        "text": "Torn net",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Flat ball",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Ripped jersey",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Broken equipment strap",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Loose goal frame",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Loose skate blade",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-063",
+    "category": "Sports & games",
+    "prompt": "Name a sign that an old sports ball needs replacing.",
+    "answers": [
+      {
+        "text": "Won't hold air",
+        "aliases": [
+          "keeps going flat"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Lopsided shape",
+        "aliases": [
+          "out of shape"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Worn smooth",
+        "aliases": [
+          "no grip"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Split seam",
+        "aliases": [
+          "torn seam"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Waterlogged",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Faded markings",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-064",
+    "category": "Sports & games",
+    "prompt": "Name a place a ball might disappear during an outdoor practice.",
+    "answers": [
+      {
+        "text": "Tall grass",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Up a tree",
+        "aliases": [
+          "in a tree"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Under a car",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Down a drain",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Over a fence",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "On a roof",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-065",
+    "category": "Sports & games",
+    "prompt": "Name a tool a groundskeeper uses to prepare a sports field.",
+    "answers": [
+      {
+        "text": "Lawn mower",
+        "aliases": [
+          "mower"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Line painter",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Rake",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Hose",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Roller",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Shovel",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-066",
+    "category": "Sports & games",
+    "prompt": "Name someone who helps a team besides its players and coaches.",
+    "answers": [
+      {
+        "text": "Medical staff",
+        "aliases": [
+          "trainer"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Equipment manager",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Team parent",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Scorekeeper",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Bus driver",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Interpreter",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-067",
+    "category": "Sports & games",
+    "prompt": "Name something players discuss in a team huddle.",
+    "answers": [
+      {
+        "text": "The next play",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Defensive assignments",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Time remaining",
+        "aliases": [
+          "time left"
+        ],
+        "points": 19
+      },
+      {
+        "text": "The score",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "An opponent's weakness",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Words of encouragement",
+        "aliases": [
+          "encouragement"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-068",
+    "category": "Sports & games",
+    "prompt": "Name a way a team might choose its captain.",
+    "answers": [
+      {
+        "text": "Team vote",
+        "aliases": [
+          "voting"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Coach chooses",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Longest-serving player",
+        "aliases": [
+          "seniority"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Take turns",
+        "aliases": [
+          "rotation"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Someone volunteers",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Leadership tryout",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-069",
+    "category": "Sports & games",
+    "prompt": "Name something a new player needs to learn about a team.",
+    "answers": [
+      {
+        "text": "Teammates' names",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "The plays",
+        "aliases": [
+          "playbook"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Hand signals",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Practice schedule",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Their position",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Team rules",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-070",
+    "category": "Sports & games",
+    "prompt": "Name a reason a team might decide to defend more cautiously.",
+    "answers": [
+      {
+        "text": "Protecting a lead",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Facing a strong scorer",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Playing with fewer people",
+        "aliases": [
+          "short handed"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Avoiding more fouls",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Players are tired",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Waiting for a counterattack",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-071",
+    "category": "Sports & games",
+    "prompt": "Name a reason a player might run to the sideline during a game.",
+    "answers": [
+      {
+        "text": "Being substituted",
+        "aliases": [
+          "substitution"
+        ],
+        "points": 28
+      },
+      {
+        "text": "Getting a drink",
+        "aliases": [
+          "water break"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Fixing equipment",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Receiving instructions",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Treating an injury",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Taking a throw-in",
+        "aliases": [
+          "throw in"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-072",
+    "category": "Sports & games",
+    "prompt": "Name something a coach might record when evaluating a player.",
+    "answers": [
+      {
+        "text": "Speed",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Accuracy",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Attendance",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Stamina",
+        "aliases": [
+          "endurance"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Scoring",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Teamwork",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-073",
+    "category": "Sports & games",
+    "prompt": "Name a way a coach makes a practice drill more challenging.",
+    "answers": [
+      {
+        "text": "Allow less time",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Use a smaller space",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Add defenders",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Use the weaker hand",
+        "aliases": [
+          "use weaker foot"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Increase the distance",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Limit touches",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-074",
+    "category": "Sports & games",
+    "prompt": "Name a way a coach might divide players into practice groups.",
+    "answers": [
+      {
+        "text": "By position",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "By skill level",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "By age",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "At random",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "By jersey color",
+        "aliases": [
+          "by shirt color"
+        ],
+        "points": 8
+      },
+      {
+        "text": "By height",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-075",
+    "category": "Sports & games",
+    "prompt": "Name a mistake a beginner might make in a team sport.",
+    "answers": [
+      {
+        "text": "Watching only the ball",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Forgetting their position",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Holding the ball too long",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Not communicating",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Ignoring their weaker side",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Stopping after a mistake",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-076",
+    "category": "Sports & games",
+    "prompt": "Name a way a player shows they are ready to receive a pass.",
+    "answers": [
+      {
+        "text": "Raises their hands",
+        "aliases": [
+          "hands up"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Calls for the ball",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Makes eye contact",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Moves into open space",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Points where they want it",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Faces the passer",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-077",
+    "category": "Sports & games",
+    "prompt": "Name something a baseball fielder does when a high ball comes their way.",
+    "answers": [
+      {
+        "text": "Looks up",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Calls for it",
+        "aliases": [
+          "calls mine"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Runs underneath it",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Raises their glove",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Shields their eyes",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Backs up another fielder",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-078",
+    "category": "Sports & games",
+    "prompt": "Name something players keep in a baseball dugout.",
+    "answers": [
+      {
+        "text": "Bats",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Helmets",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Fielding gloves",
+        "aliases": [
+          "baseball gloves"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Water jug",
+        "aliases": [
+          "water cooler"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Lineup card",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Batting gloves",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-079",
+    "category": "Sports & games",
+    "prompt": "Name something a batter might adjust between pitches.",
+    "answers": [
+      {
+        "text": "Batting gloves",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Helmet",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Grip on the bat",
+        "aliases": [
+          "grip"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Foot position",
+        "aliases": [
+          "stance"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Sleeves",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Elbow guard",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-080",
+    "category": "Sports & games",
+    "prompt": "Name a reason a baseball runner might hesitate to steal a base.",
+    "answers": [
+      {
+        "text": "Pitcher is watching",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Catcher has a strong arm",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Lead is too short",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Coach says to stay",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Slippery dirt",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Poor jump",
+        "aliases": [
+          "slow start"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-081",
+    "category": "Sports & games",
+    "prompt": "Name something that could make a fielder miss a catch.",
+    "answers": [
+      {
+        "text": "Sun in their eyes",
+        "aliases": [
+          "glare"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Ball slips out",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Unexpected bounce",
+        "aliases": [
+          "bad bounce"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Collision with a teammate",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Wind moves the ball",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Loss of concentration",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-082",
+    "category": "Sports & games",
+    "prompt": "Name an instruction a baseball coach might give using hand signals.",
+    "answers": [
+      {
+        "text": "Steal a base",
+        "aliases": [
+          "steal"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Bunt",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Stop at the base",
+        "aliases": [
+          "hold up"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Slide",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Swing away",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Take the pitch",
+        "aliases": [
+          "do not swing"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-083",
+    "category": "Sports & games",
+    "prompt": "Name a soccer skill a player can practice alone.",
+    "answers": [
+      {
+        "text": "Dribbling",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Juggling the ball",
+        "aliases": [
+          "keepy uppies"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Passing against a wall",
+        "aliases": [
+          "wall passes"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Penalty kicks",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Throw-ins",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "First touch",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-084",
+    "category": "Sports & games",
+    "prompt": "Name something a soccer goalkeeper shouts to teammates.",
+    "answers": [
+      {
+        "text": "Mark that player",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Push up",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Clear it",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Mine",
+        "aliases": [
+          "keeper"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Build a wall",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Watch the far post",
+        "aliases": [
+          "watch the back post"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-085",
+    "category": "Sports & games",
+    "prompt": "Name a body part, other than a hand or arm, a soccer player uses to control the ball.",
+    "answers": [
+      {
+        "text": "Foot",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Thigh",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Chest",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Head",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Knee",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Shin",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-086",
+    "category": "Sports & games",
+    "prompt": "Name a reason a soccer team might pass the ball backward.",
+    "answers": [
+      {
+        "text": "Keep possession",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Let the goalkeeper reset play",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Draw opponents forward",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "No forward pass is open",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Use up time",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Switch the attack to the other side",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-087",
+    "category": "Sports & games",
+    "prompt": "Name someone or something a soccer player watches before taking a corner kick.",
+    "answers": [
+      {
+        "text": "Their teammates",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "The goalkeeper",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Defenders",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "The referee",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "The ball",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "The game clock",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-088",
+    "category": "Sports & games",
+    "prompt": "Name a position a child might be asked to try on a soccer team.",
+    "answers": [
+      {
+        "text": "Goalkeeper",
+        "aliases": [
+          "goalie"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Striker",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Midfielder",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Winger",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Center back",
+        "aliases": [
+          "centre back"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Fullback",
+        "aliases": [
+          "full back"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-089",
+    "category": "Sports & games",
+    "prompt": "Name something that surprises someone at their first volleyball practice.",
+    "answers": [
+      {
+        "text": "How hard the ball feels",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "How fast serves come",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Loud calls",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Diving on the floor",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Rotation rules",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Sore forearms",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-090",
+    "category": "Sports & games",
+    "prompt": "Name something volleyball teammates shout during a rally.",
+    "answers": [
+      {
+        "text": "Mine",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Out",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Help",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Free ball",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Cover",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Block",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-091",
+    "category": "Sports & games",
+    "prompt": "Name a reason a volleyball serve might go wrong.",
+    "answers": [
+      {
+        "text": "Hits the net",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Goes past the end line",
+        "aliases": [
+          "goes long"
+        ],
+        "points": 23
+      },
+      {
+        "text": "Goes outside the sideline",
+        "aliases": [
+          "goes wide"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Server steps over the line",
+        "aliases": [
+          "foot fault"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Bad toss",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Misses the ball completely",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-092",
+    "category": "Sports & games",
+    "prompt": "Name something a volleyball player does between points.",
+    "answers": [
+      {
+        "text": "Rotates position",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Wipes their hands",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Talks to a teammate",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Adjusts knee pads",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Checks the score",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Retrieves the ball",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-093",
+    "category": "Sports & games",
+    "prompt": "Name a way a hockey player might keep an opponent away from the puck.",
+    "answers": [
+      {
+        "text": "Uses their body as a shield",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Pulls the puck back",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Skates faster",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Passes to a teammate",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Uses the boards",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Changes direction",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-094",
+    "category": "Sports & games",
+    "prompt": "Name something a hockey player might be penalized for.",
+    "answers": [
+      {
+        "text": "Tripping",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Hooking",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Slashing",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Holding",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Roughing",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "High sticking",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-095",
+    "category": "Sports & games",
+    "prompt": "Name something hockey players do during a line change.",
+    "answers": [
+      {
+        "text": "Skate toward the bench",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Hop over the boards",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Open the bench gate",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Call the next player's name",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Watch the puck",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Tell a teammate who to mark",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-096",
+    "category": "Sports & games",
+    "prompt": "Name a problem strong wind can cause during an outdoor match.",
+    "answers": [
+      {
+        "text": "Ball changes direction",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Dust gets in eyes",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Players cannot hear calls",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Corner flags bend over",
+        "aliases": [
+          "bent corner flags",
+          "flags blown over"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Hands get cold",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "A hat blows off",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-097",
+    "category": "Sports & games",
+    "prompt": "Name a habit a tennis player might have before serving.",
+    "answers": [
+      {
+        "text": "Bounce the ball",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Wipe their forehead",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Adjust the strings",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Look at the receiver",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Take a deep breath",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Check their grip",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-098",
+    "category": "Sports & games",
+    "prompt": "Name a reason a tennis rally comes to an end.",
+    "answers": [
+      {
+        "text": "Ball goes out",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Ball hits the net",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Ball bounces twice",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Ball hits a player",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Player touches the net",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "A second ball rolls onto the court",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-099",
+    "category": "Sports & games",
+    "prompt": "Name something doubles partners say to each other during a tennis point.",
+    "answers": [
+      {
+        "text": "Yours",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Mine",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Switch",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Stay back",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Come to the net",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Watch the line",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-100",
+    "category": "Sports & games",
+    "prompt": "Name something an organizer asks for on a sports tournament entry form.",
+    "answers": [
+      {
+        "text": "Player's name",
+        "aliases": [
+          "your name"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Age",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Phone number",
+        "aliases": [
+          "telephone number"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Skill level",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Partner's name",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Emergency contact's name",
+        "aliases": [
+          "emergency contact"
+        ],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-101",
+    "category": "Sports & games",
+    "prompt": "Name a problem when two teams share the same practice space.",
+    "answers": [
+      {
+        "text": "Too much noise",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Balls cross into drills",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Not enough room",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Schedule mix-ups",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Equipment gets mixed up",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Unclear boundaries",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-102",
+    "category": "Sports & games",
+    "prompt": "Name something officials discuss together before a match.",
+    "answers": [
+      {
+        "text": "Special rules",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Team rosters",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Weather conditions",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Safety concerns",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Who covers each area",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Starting time",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-103",
+    "category": "Sports & games",
+    "prompt": "Name something an American football referee might wear.",
+    "answers": [
+      {
+        "text": "Striped shirt",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Whistle",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Cap",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Black shoes",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Watch",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Communication headset",
+        "aliases": [
+          "headset"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-104",
+    "category": "Sports & games",
+    "prompt": "Name a decision a coach might dispute with an official.",
+    "answers": [
+      {
+        "text": "Out-of-bounds call",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "A foul call",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Time on the clock",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Points awarded",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "An offside call",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Player eligibility",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-105",
+    "category": "Sports & games",
+    "prompt": "Name a reason one referee might consult another referee.",
+    "answers": [
+      {
+        "text": "Their view was blocked",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Clock malfunction",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Disagreement about the score",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Identifying a player",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Unclear boundary decision",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Clarifying a rule",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-106",
+    "category": "Sports & games",
+    "prompt": "Name something a player might politely ask a referee.",
+    "answers": [
+      {
+        "text": "How much time is left",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "What the score is",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Why a call was made",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Where to stand",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Permission to substitute",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Whether play can restart",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-107",
+    "category": "Sports & games",
+    "prompt": "Name a visible sign that a player needs a rest.",
+    "answers": [
+      {
+        "text": "Hands on knees",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Heavy breathing",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Running more slowly",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Asking to come off",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "A red face",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Sitting down on the field",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-108",
+    "category": "Sports & games",
+    "prompt": "Name something that can confuse teammates during a match.",
+    "answers": [
+      {
+        "text": "Similar uniform colors",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Nobody calling for the ball",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "A new play",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Players with similar names",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Loud background noise",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Someone in the wrong position",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-109",
+    "category": "Sports & games",
+    "prompt": "Name a problem players face on a muddy field.",
+    "answers": [
+      {
+        "text": "Slipping",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Heavy shoes",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Unpredictable ball bounces",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Dirty uniforms",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Hidden field markings",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "A ball that stops rolling",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-110",
+    "category": "Sports & games",
+    "prompt": "Name something a team needs to arrange for an away match.",
+    "answers": [
+      {
+        "text": "Transportation",
+        "aliases": [
+          "transport"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Directions",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "A player roster",
+        "aliases": [
+          "roster"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Uniforms",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Equipment",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "A meal plan",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-111",
+    "category": "Sports & games",
+    "prompt": "Name a reason a captain might call a meeting outside practice.",
+    "answers": [
+      {
+        "text": "Resolve an argument",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Plan a fundraiser",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Welcome a new player",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Set team goals",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Explain a schedule change",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Choose team leaders",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-112",
+    "category": "Sports & games",
+    "prompt": "Name a job players might do at their team's fundraiser.",
+    "answers": [
+      {
+        "text": "Sell tickets",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Serve food",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Collect money",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Set up tables",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Advertise the event",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Clean up afterward",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-113",
+    "category": "Sports & games",
+    "prompt": "Name a way a children's team might raise money for new uniforms.",
+    "answers": [
+      {
+        "text": "Car wash",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Bake sale",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Raffle",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Local sponsorship",
+        "aliases": [
+          "sponsors"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Sponsored fun run",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Sell team merchandise",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-114",
+    "category": "Sports & games",
+    "prompt": "Name a life lesson children might learn from team sports.",
+    "answers": [
+      {
+        "text": "Cooperation",
+        "aliases": [
+          "teamwork"
+        ],
+        "points": 32
+      },
+      {
+        "text": "Patience",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Fairness",
+        "aliases": [
+          "fair play"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Persistence",
+        "aliases": [
+          "perseverance"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Responsibility",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Handling disappointment",
+        "aliases": [
+          "accepting a loss"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-115",
+    "category": "Sports & games",
+    "prompt": "Name a reason players might shake an opponent's hand.",
+    "answers": [
+      {
+        "text": "Show respect",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Congratulate them",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Thank them for the game",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Introduce themselves",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Apologize",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Wish them luck",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-116",
+    "category": "Sports & games",
+    "prompt": "Name something a team player may have to wait their turn to do.",
+    "answers": [
+      {
+        "text": "Bat",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Serve",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Enter as a substitute",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Try a drill",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Use shared equipment",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Speak in a team meeting",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-117",
+    "category": "Sports & games",
+    "prompt": "Name a basketball pass a coach might demonstrate.",
+    "answers": [
+      {
+        "text": "Chest pass",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Bounce pass",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Overhead pass",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Baseball pass",
+        "aliases": [
+          "long one handed pass"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Behind-the-back pass",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "No-look pass",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-118",
+    "category": "Sports & games",
+    "prompt": "Name a reason a pass fails to reach the intended teammate.",
+    "answers": [
+      {
+        "text": "An opponent intercepts it",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Not enough power",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Too much power",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Thrown in the wrong direction",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Teammate moves unexpectedly",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Ball slips from the passer's hands",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-119",
+    "category": "Sports & games",
+    "prompt": "Name something a team might celebrate besides winning a game.",
+    "answers": [
+      {
+        "text": "Someone's first goal",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "A personal best",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "A birthday",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "A player's return from injury",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "A new teammate",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "A teammate's graduation",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-120",
+    "category": "Sports & games",
+    "prompt": "Name something a coach draws on a tactics board.",
+    "answers": [
+      {
+        "text": "Arrows",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Players as circles",
+        "aliases": [
+          "circles"
+        ],
+        "points": 25
+      },
+      {
+        "text": "A goal",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Field boundaries",
+        "aliases": [
+          "court boundaries"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Player numbers",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "The other team's formation",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-121",
+    "category": "Sports & games",
+    "prompt": "Name a reason a young player likes a particular position.",
+    "answers": [
+      {
+        "text": "Gets to score",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Sees lots of action",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Does less running",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Uses their best skill",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Gets to lead",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Plays near friends",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-122",
+    "category": "Sports & games",
+    "prompt": "Name something a player hopes a coach notices at tryouts.",
+    "answers": [
+      {
+        "text": "Effort",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Ball skills",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Teamwork",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Positive attitude",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Speed",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Listening to instructions",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-123",
+    "category": "Sports & games",
+    "prompt": "Name something a player might learn from watching footage of their own game.",
+    "answers": [
+      {
+        "text": "Positioning",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Technique",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Decision timing",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Missed opportunities",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Communication habits",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Body language",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-124",
+    "category": "Sports & games",
+    "prompt": "Name a reason a team might have to forfeit a match.",
+    "answers": [
+      {
+        "text": "Not enough players",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "An ineligible player",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Refusing to play",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Arriving too late",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "No acceptable uniforms",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Unpaid league fees",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-125",
+    "category": "Sports & games",
+    "prompt": "Name something a player does on the bench while waiting to enter the game.",
+    "answers": [
+      {
+        "text": "Watches the game",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Cheers for teammates",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Drinks water",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Listens to the coach",
+        "aliases": [],
+        "points": 13
+      },
+      {
+        "text": "Adjusts equipment",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Keeps warm",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-126",
+    "category": "Sports & games",
+    "prompt": "Name something players might do together after practice ends.",
+    "answers": [
+      {
+        "text": "Collect the balls",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Pick up litter",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Fold the nets",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Have a final huddle",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Arrange rides home",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Return practice bibs",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-127",
+    "category": "Sports & games",
+    "prompt": "Name a way a team might recognize its most improved player.",
+    "answers": [
+      {
+        "text": "Trophy",
+        "aliases": [],
+        "points": 28
+      },
+      {
+        "text": "Certificate",
+        "aliases": [],
+        "points": 23
+      },
+      {
+        "text": "Announcement at practice",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Applause",
+        "aliases": [],
+        "points": 14
+      },
+      {
+        "text": "Small gift",
+        "aliases": [],
+        "points": 10
+      },
+      {
+        "text": "Photo on the team website",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-128",
+    "category": "Sports & games",
+    "prompt": "Name something that makes it hard to hear a coach during practice.",
+    "answers": [
+      {
+        "text": "Traffic",
+        "aliases": [],
+        "points": 35
+      },
+      {
+        "text": "Wind",
+        "aliases": [],
+        "points": 25
+      },
+      {
+        "text": "Other teams shouting",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Music",
+        "aliases": [],
+        "points": 11
+      },
+      {
+        "text": "Standing too far away",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Lawn mower",
+        "aliases": [],
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "games-129",
+    "category": "Sports & games",
+    "prompt": "Name a reason a player might prefer old equipment to brand-new equipment.",
+    "answers": [
+      {
+        "text": "More comfortable",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "text": "Used to how it feels",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Considers it lucky",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Sentimental value",
+        "aliases": [
+          "happy memories"
+        ],
+        "points": 13
+      },
+      {
+        "text": "New gear is expensive",
+        "aliases": [],
+        "points": 9
+      },
+      {
+        "text": "Already personalized",
+        "aliases": [
+          "already decorated"
+        ],
+        "points": 6
+      }
+    ]
+  },
+  {
+    "id": "games-130",
+    "category": "Sports & games",
+    "prompt": "Name a way a player helps a new teammate feel welcome.",
+    "answers": [
+      {
+        "text": "Introduces themselves",
+        "aliases": [],
+        "points": 32
+      },
+      {
+        "text": "Invites them to sit together",
+        "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Explains the drills",
+        "aliases": [],
+        "points": 18
+      },
+      {
+        "text": "Passes them the ball",
+        "aliases": [],
+        "points": 12
+      },
+      {
+        "text": "Adds them to the team chat",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Learns their name",
+        "aliases": [],
+        "points": 6
+      }
+    ]
+  }
+]
