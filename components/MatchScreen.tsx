@@ -78,7 +78,9 @@ export default function MatchScreen({ room, session, onAction, onLeave, busy, er
   }, [room.roundIndex]);
 
   useEffect(() => {
-    if (canGuess && !busy) inputRef.current?.focus();
+    if (canGuess && !busy && window.matchMedia("(pointer: fine)").matches) {
+      inputRef.current?.focus({ preventScroll: window.matchMedia("(max-width: 700px)").matches });
+    }
   }, [canGuess, busy]);
 
   async function submitGuess(event: React.FormEvent<HTMLFormElement>) {
@@ -87,7 +89,7 @@ export default function MatchScreen({ room, session, onAction, onLeave, busy, er
     if (!answer || !canGuess || busy || secondsLeft === 0) return;
     try {
       await onAction({ type: "guess", guess: answer });
-      setGuess("");
+      setGuess((current) => current === guess ? "" : current);
     } catch {
       // The application shell displays the server's action error.
     }
@@ -176,7 +178,7 @@ export default function MatchScreen({ room, session, onAction, onLeave, busy, er
                       maxLength={100}
                       autoComplete="off"
                       enterKeyHint="send"
-                      disabled={!canGuess || busy || secondsLeft === 0}
+                      disabled={!canGuess || secondsLeft === 0}
                       aria-describedby="guess-hint"
                     />
                     <button className="button button-primary" type="submit" disabled={!canGuess || busy || !guess.trim() || secondsLeft === 0}>
