@@ -2,7 +2,7 @@
   {
     "id": "food-131",
     "category": "Food & drink",
-    "prompt": "Name a food you open for one bite, then accidentally finish.",
+    "prompt": "You open a snack to eat a little while you watch something. What do you finish before the video is over?",
     "answers": [
       {
         "text": "Potato chips",
@@ -55,7 +55,7 @@
   {
     "id": "food-132",
     "category": "Food & drink",
-    "prompt": "Name something that gives away a secret midnight snack.",
+    "prompt": "You thought nobody knew about your midnight snack. What gives you away?",
     "answers": [
       {
         "text": "Rustling wrapper",
@@ -195,7 +195,7 @@
   {
     "id": "food-135",
     "category": "Food & drink",
-    "prompt": "Name somewhere people hide snacks from the rest of the household.",
+    "prompt": "Your siblings or roommates keep finding your snacks. Where do you try hiding them next?",
     "answers": [
       {
         "text": "Bedroom drawer",
@@ -244,7 +244,7 @@
   {
     "id": "food-136",
     "category": "Food & drink",
-    "prompt": "Name a food you would be annoyed to find someone had eaten the last of.",
+    "prompt": "You saved one thing to eat after class or work. What would make you most mad if someone got to it first?",
     "answers": [
       {
         "text": "Ice cream",
@@ -346,7 +346,7 @@
   {
     "id": "food-138",
     "category": "Food & drink",
-    "prompt": "Name a food that's hard to eat quietly.",
+    "prompt": "You're trying to sneak a bite while everybody else is quiet. What snack completely gives you away?",
     "answers": [
       {
         "text": "Potato chips",
@@ -390,7 +390,7 @@
   {
     "id": "food-139",
     "category": "Food & drink",
-    "prompt": "Name a reason someone keeps reopening a fridge with nothing good in it.",
+    "prompt": "Five minutes after closing the fridge, you're right back in front of it. Why are you opening it again?",
     "answers": [
       {
         "text": "Hoping something appears",
@@ -487,7 +487,7 @@
   {
     "id": "food-141",
     "category": "Food & drink",
-    "prompt": "Name something a hungry person might do while waiting for their next meal.",
+    "prompt": "Your food is taking forever and you haven't eaten since lunch. What do you do to make the wait feel shorter?",
     "answers": [
       {
         "text": "Snack",
@@ -689,7 +689,7 @@
   {
     "id": "food-145",
     "category": "Food & drink",
-    "prompt": "Name a snack people sneak into bed.",
+    "prompt": "You queue up one more episode in bed. What snack are you quietly bringing with you?",
     "answers": [
       {
         "text": "Cookies",
@@ -739,7 +739,7 @@
   {
     "id": "food-146",
     "category": "Food & drink",
-    "prompt": "Name a food you might eat standing in front of the open fridge.",
+    "prompt": "You get home from school or work too hungry to wait. What do you eat standing in front of the fridge?",
     "answers": [
       {
         "text": "Cheese",
@@ -781,7 +781,7 @@
   {
     "id": "food-147",
     "category": "Food & drink",
-    "prompt": "Name something people do to claim the best snack before anyone else gets it.",
+    "prompt": "Your friends are opening snacks and you know the good stuff will disappear. What do you do to call dibs?",
     "answers": [
       {
         "text": "Hide it",
@@ -976,7 +976,7 @@
   {
     "id": "food-151",
     "category": "Food & drink",
-    "prompt": "Name something people eat that they insist doesn't count as a meal.",
+    "prompt": "You tell a friend you haven't had a real meal yet today. What did you eat that you're refusing to count?",
     "answers": [
       {
         "text": "Cereal",
@@ -1067,7 +1067,7 @@
   {
     "id": "food-153",
     "category": "Food & drink",
-    "prompt": "Name something you might find in the pockets of a snack hoarder.",
+    "prompt": "A friend always has snacks in their backpack. What might you find when they say “check the front pocket”?",
     "answers": [
       {
         "text": "Mints",
@@ -1117,7 +1117,7 @@
   {
     "id": "food-154",
     "category": "Food & drink",
-    "prompt": "Name a reason someone suddenly craves a food they haven't thought about in years.",
+    "prompt": "You haven't had a favorite snack since elementary school. What suddenly makes you crave it again?",
     "answers": [
       {
         "text": "Smelled it",
@@ -1253,7 +1253,7 @@
   {
     "id": "food-157",
     "category": "Food & drink",
-    "prompt": "Name something people do before taking food that might belong to someone else.",
+    "prompt": "You're about to grab food from a shared fridge and aren't sure if it's yours. What do you do before taking it?",
     "answers": [
       {
         "text": "Check for a name",
@@ -1306,7 +1306,7 @@
   {
     "id": "food-158",
     "category": "Food & drink",
-    "prompt": "Name a food you can smell on someone long after they've eaten it.",
+    "prompt": "You can guess exactly what your friend just ate from one breath. What did they have?",
     "answers": [
       {
         "text": "Garlic",
@@ -1382,7 +1382,7 @@
   {
     "id": "food-160",
     "category": "Food & drink",
-    "prompt": "Name something a hungry person does not want to hear.",
+    "prompt": "You text “I'm starving” before meeting up to eat. What reply do you absolutely not want to see?",
     "answers": [
       {
         "text": "Dinner is running late",
@@ -1401,10 +1401,9 @@
         "points": 25
       },
       {
-        "text": "Can I have a bite",
+        "text": "I already ate",
         "aliases": [
-          "share",
-          "give me some"
+          "already had dinner"
         ],
         "points": 17
       },
@@ -1436,7 +1435,7 @@
   {
     "id": "food-161",
     "category": "Food & drink",
-    "prompt": "Name a snack that leaves evidence all over your clothes.",
+    "prompt": "You eat a snack just before heading back to class. What leaves evidence all over your clothes?",
     "answers": [
       {
         "text": "Spicy chips",
@@ -1533,7 +1532,7 @@
   {
     "id": "food-163",
     "category": "Food & drink",
-    "prompt": "Name something people eat with when they've run out of clean spoons.",
+    "prompt": "You're about to eat something that needs a spoon and all the spoons are dirty. What do you use instead?",
     "answers": [
       {
         "text": "Fork",
@@ -1580,7 +1579,7 @@
   {
     "id": "food-164",
     "category": "Food & drink",
-    "prompt": "Name a food people only want a bite of until they taste yours.",
+    "prompt": "Your friend says “one bite” and then eats half of it. What were you trying to share?",
     "answers": [
       {
         "text": "Brownie",
@@ -1621,7 +1620,7 @@
   {
     "id": "food-165",
     "category": "Food & drink",
-    "prompt": "Name something people do when a snack gets stuck in a vending machine.",
+    "prompt": "You have time for one vending machine stop before class. Your snack gets stuck. What do you do?",
     "answers": [
       {
         "text": "Shake the machine",
@@ -1673,7 +1672,7 @@
   {
     "id": "food-166",
     "category": "Food & drink",
-    "prompt": "Name a food someone might carry around for a possible hunger emergency.",
+    "prompt": "You're packing for a day with back-to-back classes or shifts. What emergency snack goes in your bag?",
     "answers": [
       {
         "text": "Granola bar",
@@ -1821,7 +1820,7 @@
   {
     "id": "food-169",
     "category": "Food & drink",
-    "prompt": "Name an excuse someone gives for eating a snack with another person's name on it.",
+    "prompt": "You catch a sibling or roommate eating the snack you wrote your name on. What excuse do they give?",
     "answers": [
       {
         "text": "Didn't see the name",
@@ -2133,7 +2132,7 @@
   {
     "id": "food-176",
     "category": "Food & drink",
-    "prompt": "Name something people blame for being hungry again an hour after eating.",
+    "prompt": "It's been one class since lunch and you're already hungry again. What do you blame?",
     "answers": [
       {
         "text": "Small portions",
@@ -2233,7 +2232,7 @@
   {
     "id": "food-178",
     "category": "Food & drink",
-    "prompt": "Name a food people often eat more of after saying it is too spicy.",
+    "prompt": "You tell your friends the food is way too spicy and then go back for more. What food was worth it?",
     "answers": [
       {
         "text": "Chips",
@@ -2275,7 +2274,7 @@
   {
     "id": "food-179",
     "category": "Food & drink",
-    "prompt": "Name something people do after biting into a flavor they weren't expecting.",
+    "prompt": "Your friend brings over an unusual snack flavor. What's your first reaction when it doesn't taste like you expected?",
     "answers": [
       {
         "text": "Spit it out",
@@ -2325,7 +2324,7 @@
   {
     "id": "food-180",
     "category": "Food & drink",
-    "prompt": "Name something people do when they drop the treat they've been looking forward to.",
+    "prompt": "You've been saving a treat all day. It hits the floor right before the first bite. What's your first move?",
     "answers": [
       {
         "text": "Swear",
@@ -2465,7 +2464,7 @@
   {
     "id": "food-183",
     "category": "Food & drink",
-    "prompt": "Name a reason someone eats the same lunch every day.",
+    "prompt": "A friend notices you get the same lunch between classes every day. What's your reason?",
     "answers": [
       {
         "text": "Cheap",
@@ -2600,7 +2599,7 @@
   {
     "id": "food-186",
     "category": "Food & drink",
-    "prompt": "Name something someone might claim to avoid sharing their snack.",
+    "prompt": "A friend sees you open a snack and asks for some. What do you say to get out of sharing?",
     "answers": [
       {
         "text": "It's spicy",
@@ -2693,7 +2692,7 @@
   {
     "id": "food-188",
     "category": "Food & drink",
-    "prompt": "Name a food people crave when they're missing home.",
+    "prompt": "You're away from home and miss something someone used to make for you. What food do you crave?",
     "answers": [
       {
         "text": "Soup",
@@ -2736,7 +2735,7 @@
   {
     "id": "food-189",
     "category": "Food & drink",
-    "prompt": "Name a reason a teacher might confiscate a student's snacks.",
+    "prompt": "You're sneaking a snack through class and the teacher takes it. What gave them a reason?",
     "answers": [
       {
         "text": "Eating during class",
@@ -2788,7 +2787,7 @@
   {
     "id": "food-190",
     "category": "Food & drink",
-    "prompt": "Name something that might make someone abandon a strict eating plan for the day.",
+    "prompt": "You packed enough food for the day. What tempts you to get something extra anyway?",
     "answers": [
       {
         "text": "Birthday cake",
@@ -2798,9 +2797,9 @@
         "points": 34
       },
       {
-        "text": "Vacation",
+        "text": "A friend offers you some of theirs",
         "aliases": [
-          "holiday"
+          "someone shares their food"
         ],
         "points": 25
       },
@@ -2839,7 +2838,7 @@
   {
     "id": "food-191",
     "category": "Food & drink",
-    "prompt": "Name a food people buy in a giant pack and regret having so much of.",
+    "prompt": "You bought the giant pack to save money and now you can't stand seeing it. What did you buy?",
     "answers": [
       {
         "text": "Chips",
@@ -2888,7 +2887,7 @@
   {
     "id": "food-192",
     "category": "Food & drink",
-    "prompt": "Name something people do to avoid finishing a snack in one sitting.",
+    "prompt": "You're saving some for tomorrow but already halfway through the bag. How do you stop yourself from finishing it?",
     "answers": [
       {
         "text": "Put it out of reach",
@@ -2922,9 +2921,9 @@
         "points": 9
       },
       {
-        "text": "Buy a smaller pack",
+        "text": "Switch to a different snack",
         "aliases": [
-          "smaller bag"
+          "eat something else instead"
         ],
         "points": 5
       }
@@ -3252,7 +3251,7 @@
   {
     "id": "food-200",
     "category": "Food & drink",
-    "prompt": "Name a snack someone might buy just because it reminds them of school.",
+    "prompt": "You spot a snack at the store that takes you straight back to elementary-school lunch. What are you grabbing?",
     "answers": [
       {
         "text": "Fruit snacks",
@@ -3301,7 +3300,7 @@
   {
     "id": "food-201",
     "category": "Food & drink",
-    "prompt": "Name something people do before trying a suspicious new snack flavor.",
+    "prompt": "Someone in your group finds a snack flavor that sounds completely wrong. What do you do before taking a real bite?",
     "answers": [
       {
         "text": "Read the label",
@@ -3475,7 +3474,7 @@
   {
     "id": "food-205",
     "category": "Food & drink",
-    "prompt": "Name something people argue about when sharing a bag of snacks.",
+    "prompt": "You open one bag of snacks for the whole group. What does somebody start arguing about before it's empty?",
     "answers": [
       {
         "text": "Who ate more",
@@ -3526,7 +3525,7 @@
   {
     "id": "food-206",
     "category": "Food & drink",
-    "prompt": "Name something you might find beside someone who fell asleep while snacking.",
+    "prompt": "Your friend fell asleep halfway through a late-night video and a snack. What might be on the bed next to them?",
     "answers": [
       {
         "text": "Empty wrapper",
@@ -3576,7 +3575,7 @@
   {
     "id": "food-207",
     "category": "Food & drink",
-    "prompt": "Name a reason someone takes food out of the fridge and puts it straight back.",
+    "prompt": "The shared fridge is your only dinner option. What makes you pick something up and put it straight back?",
     "answers": [
       {
         "text": "It smells bad",
@@ -3674,7 +3673,7 @@
   {
     "id": "food-209",
     "category": "Food & drink",
-    "prompt": "Name a food people prefer to eat alone so nobody judges their portion.",
+    "prompt": "What movie-night food do you wish you could keep all to yourself?",
     "answers": [
       {
         "text": "Ice cream",
@@ -3767,7 +3766,7 @@
   {
     "id": "food-211",
     "category": "Food & drink",
-    "prompt": "Name a food that makes people say they need a bigger napkin.",
+    "prompt": "You get food to eat between classes and realize one napkin won't even come close. What did you get?",
     "answers": [
       {
         "text": "Barbecue wings",
@@ -3917,7 +3916,7 @@
   {
     "id": "food-214",
     "category": "Food & drink",
-    "prompt": "Name a food people eat when they are too tired to decide on dinner.",
+    "prompt": "You get home after a long day and cooking feels like too much. What's your no-thinking dinner?",
     "answers": [
       {
         "text": "Instant noodles",
@@ -4045,7 +4044,7 @@
   {
     "id": "food-217",
     "category": "Food & drink",
-    "prompt": "Name something people notice after finishing an entire bag of snacks.",
+    "prompt": "You look down halfway through a show and realize the whole bag of snacks is gone. What do you notice next?",
     "answers": [
       {
         "text": "How fast they finished it",
@@ -4144,7 +4143,7 @@
   {
     "id": "food-219",
     "category": "Food & drink",
-    "prompt": "Name something people want close by when trying an extremely spicy snack.",
+    "prompt": "A friend dares you to try the spiciest snack in the bag. What do you want within reach before you take a bite?",
     "answers": [
       {
         "text": "Milk",

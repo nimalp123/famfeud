@@ -2,7 +2,7 @@
   {
     "id": "travel-221",
     "category": "Travel & places",
-    "prompt": "Name the worst type of person to share a long car ride with.",
+    "prompt": "You find out you're sharing the back seat for five hours. Which kind of friend makes that the worst news?",
     "answers": [
       {
         "text": "A backseat driver",
@@ -51,7 +51,7 @@
   {
     "id": "travel-222",
     "category": "Travel & places",
-    "prompt": "Besides the music, what starts an argument during a road trip?",
+    "prompt": "Everyone is ready to argue over the music. What else can start a fight on a long ride?",
     "answers": [
       {
         "text": "The temperature",
@@ -149,7 +149,7 @@
   {
     "id": "travel-224",
     "category": "Travel & places",
-    "prompt": "Name an excuse someone uses to claim the front passenger seat.",
+    "prompt": "Four friends show up and everyone wants the front seat. What's the excuse that gets somebody shotgun?",
     "answers": [
       {
         "text": "I get carsick",
@@ -198,7 +198,7 @@
   {
     "id": "travel-225",
     "category": "Travel & places",
-    "prompt": "Name an occasion when a car refusing to start would be especially embarrassing.",
+    "prompt": "What would be the worst time to tell someone “my ride won't start”?",
     "answers": [
       {
         "text": "A first date",
@@ -296,7 +296,7 @@
   {
     "id": "travel-227",
     "category": "Travel & places",
-    "prompt": "Name something a driver might say just before making everyone nervous.",
+    "prompt": "You finally get a ride from a friend who's new to driving. What's the last thing you want to hear them say?",
     "answers": [
       {
         "text": "Watch this",
@@ -345,7 +345,7 @@
   {
     "id": "travel-228",
     "category": "Travel & places",
-    "prompt": "Name a car rule your friend invents that makes you want to walk.",
+    "prompt": "A friend offers you a lift, then announces the rules for their car. What's one that makes you consider walking?",
     "answers": [
       {
         "text": "No eating",
@@ -443,7 +443,7 @@
   {
     "id": "travel-230",
     "category": "Travel & places",
-    "prompt": "Name something a driver wishes a passenger would do without being asked.",
+    "prompt": "What's one little thing a passenger can do that makes you want to give them a ride again?",
     "answers": [
       {
         "text": "Offer gas money",
@@ -492,7 +492,7 @@
   {
     "id": "travel-231",
     "category": "Travel & places",
-    "prompt": "What might make you regret letting your friend choose the road-trip playlist?",
+    "prompt": "You give your friend control of the playlist for the whole ride. How do they make you regret it?",
     "answers": [
       {
         "text": "They play one song repeatedly",
@@ -590,7 +590,7 @@
   {
     "id": "travel-233",
     "category": "Travel & places",
-    "prompt": "Name a reason nobody volunteers to drive the next stretch.",
+    "prompt": "The group pulls over and asks who wants to take the next turn. What's everyone's excuse?",
     "answers": [
       {
         "text": "They're tired",
@@ -639,7 +639,7 @@
   {
     "id": "travel-234",
     "category": "Travel & places",
-    "prompt": "Name something someone refuses to put in the trunk because they need it close by.",
+    "prompt": "A friend tries to put everyone's bags in the back. What are you keeping within reach the whole ride?",
     "answers": [
       {
         "text": "Their phone",
@@ -688,7 +688,7 @@
   {
     "id": "travel-235",
     "category": "Travel & places",
-    "prompt": "Name something that ruins the excitement of finally getting the whole group into the car.",
+    "prompt": "You finally get the whole group into one car. What means you still can't leave?",
     "answers": [
       {
         "text": "Someone forgot something",
@@ -786,7 +786,7 @@
   {
     "id": "travel-237",
     "category": "Travel & places",
-    "prompt": "Name something you quietly hope your friend won't bring on a road trip.",
+    "prompt": "Your friend wants to bring something on a packed day trip. What do you hope they leave at home?",
     "answers": [
       {
         "text": "Their annoying partner",
@@ -884,7 +884,7 @@
   {
     "id": "travel-239",
     "category": "Travel & places",
-    "prompt": "Name a clue that the driver has no idea where they're going.",
+    "prompt": "Your friend says they know where they're going. What makes everyone in the car think otherwise?",
     "answers": [
       {
         "text": "They keep checking the map",
@@ -933,7 +933,7 @@
   {
     "id": "travel-240",
     "category": "Travel & places",
-    "prompt": "Name a reason someone ignores the navigation app.",
+    "prompt": "The directions app is saying one thing and the driver does something else. What's their reason?",
     "answers": [
       {
         "text": "They know a shortcut",
@@ -982,7 +982,7 @@
   {
     "id": "travel-241",
     "category": "Travel & places",
-    "prompt": "Name something you'd hate to hear after your friend says they know a shortcut.",
+    "prompt": "Your friend's “shortcut” has been going on for half an hour. What's the last thing you want to hear now?",
     "answers": [
       {
         "text": "The road is closed",
@@ -1031,7 +1031,7 @@
   {
     "id": "travel-242",
     "category": "Travel & places",
-    "prompt": "Name a place you might accidentally end up after entering the wrong address.",
+    "prompt": "The group chat sends one bad map pin. Where could you end up when you go to meet everybody?",
     "answers": [
       {
         "text": "Someone else's house",
@@ -1080,7 +1080,7 @@
   {
     "id": "travel-243",
     "category": "Travel & places",
-    "prompt": "Name something people blame when they get lost together.",
+    "prompt": "No one wants to admit they got the group lost. What are they blaming instead?",
     "answers": [
       {
         "text": "The navigation app",
@@ -1129,7 +1129,7 @@
   {
     "id": "travel-244",
     "category": "Travel & places",
-    "prompt": "Name something that makes asking a stranger for directions awkward.",
+    "prompt": "Your phone died and you have to ask a stranger how to get there. What makes that conversation awkward?",
     "answers": [
       {
         "text": "You can't pronounce the place",
@@ -1276,7 +1276,7 @@
   {
     "id": "travel-247",
     "category": "Travel & places",
-    "prompt": "Name something a couple might do after arguing about directions.",
+    "prompt": "Two friends get into a full argument over directions. What do they do to end it?",
     "answers": [
       {
         "text": "Stop talking",
@@ -1374,7 +1374,7 @@
   {
     "id": "travel-249",
     "category": "Travel & places",
-    "prompt": "Name something that makes you nervous about a roadside diner before you go inside.",
+    "prompt": "You're deciding where to eat on the way home with friends. What makes you leave a roadside place without ordering?",
     "answers": [
       {
         "text": "An empty parking lot",
@@ -1423,7 +1423,7 @@
   {
     "id": "travel-250",
     "category": "Travel & places",
-    "prompt": "Name something people buy at a gas station even though they didn't need gas.",
+    "prompt": "You aren't driving, but you still end up buying something at every gas station stop. What's your go-to?",
     "answers": [
       {
         "text": "Chips",
@@ -1472,7 +1472,7 @@
   {
     "id": "travel-251",
     "category": "Travel & places",
-    "prompt": "Name something someone brings back from a rest stop that nobody asked for.",
+    "prompt": "The group sends one friend inside the rest stop. What do they bring back that absolutely nobody asked for?",
     "answers": [
       {
         "text": "A giant snack bag",
@@ -1521,7 +1521,7 @@
   {
     "id": "travel-252",
     "category": "Travel & places",
-    "prompt": "Name a reason a quick roadside stop turns into half an hour.",
+    "prompt": "Everyone agreed it would be a five-minute stop. What turns it into half an hour?",
     "answers": [
       {
         "text": "A long bathroom line",
@@ -1668,7 +1668,7 @@
   {
     "id": "travel-255",
     "category": "Travel & places",
-    "prompt": "Name a roadside attraction you might stop for even if you're already running late.",
+    "prompt": "You're on the way to meet friends and already late. What by the road would you still ask to stop for?",
     "answers": [
       {
         "text": "A giant statue",
@@ -1815,7 +1815,7 @@
   {
     "id": "travel-258",
     "category": "Travel & places",
-    "prompt": "Name something that makes a driver jealous while they're stuck in traffic.",
+    "prompt": "You're stuck in a car that hasn't moved in ten minutes. What do you see outside that makes you jealous?",
     "answers": [
       {
         "text": "A moving lane",
@@ -1864,7 +1864,7 @@
   {
     "id": "travel-259",
     "category": "Travel & places",
-    "prompt": "Name a reason somebody takes forever to park.",
+    "prompt": "Your friend is parking with everybody watching. Why does it take them so long?",
     "answers": [
       {
         "text": "The space is tiny",
@@ -1913,7 +1913,7 @@
   {
     "id": "travel-260",
     "category": "Travel & places",
-    "prompt": "Name something a passenger says that makes parallel parking even worse.",
+    "prompt": "You're trying to squeeze into a tight spot. What does the friend in the passenger seat say that makes it worse?",
     "answers": [
       {
         "text": "You're too close",
@@ -1962,7 +1962,7 @@
   {
     "id": "travel-261",
     "category": "Travel & places",
-    "prompt": "Name a parking spot people get excited about finding.",
+    "prompt": "You arrive late to a packed event. What kind of parking spot feels like you won something?",
     "answers": [
       {
         "text": "One right by the entrance",
@@ -2060,7 +2060,7 @@
   {
     "id": "travel-263",
     "category": "Travel & places",
-    "prompt": "Name something you panic about immediately after locking your car.",
+    "prompt": "You shut the car door and it locks. What do you panic about before you even walk away?",
     "answers": [
       {
         "text": "The keys are inside",
@@ -2109,7 +2109,7 @@
   {
     "id": "travel-264",
     "category": "Travel & places",
-    "prompt": "Name something that makes finding your car in a parking lot embarrassing.",
+    "prompt": "You swore you remembered where the car was. What happens in the parking lot that makes your friends laugh?",
     "answers": [
       {
         "text": "It's right in front of you",
@@ -2159,7 +2159,7 @@
   {
     "id": "travel-265",
     "category": "Travel & places",
-    "prompt": "Name something you might do to avoid paying for expensive parking.",
+    "prompt": "Parking near the event costs almost as much as your ticket. What do you do instead?",
     "answers": [
       {
         "text": "Park farther away",
@@ -2257,7 +2257,7 @@
   {
     "id": "travel-267",
     "category": "Travel & places",
-    "prompt": "Name something a date might find in your car that you wish they hadn't.",
+    "prompt": "You're picking someone up for a first date. What do you hope they don't notice in the car?",
     "answers": [
       {
         "text": "Old food",
@@ -2404,7 +2404,7 @@
   {
     "id": "travel-270",
     "category": "Travel & places",
-    "prompt": "Name something you'd hate your crush to catch you doing at a red light.",
+    "prompt": "You're at a red light and see your crush in the next car. What do you hope they didn't just catch you doing?",
     "answers": [
       {
         "text": "Picking your nose",
@@ -2503,47 +2503,47 @@
   {
     "id": "travel-272",
     "category": "Travel & places",
-    "prompt": "Name something you do in your car to feel ready for a job interview.",
+    "prompt": "You get to an interview for a part-time job early. What do you do in the car or outside before going in?",
     "answers": [
-      {
-        "text": "Practice a confident smile",
-        "aliases": [
-          "practice smiling"
-        ],
-        "points": 28
-      },
       {
         "text": "Practice your answers",
         "aliases": [
           "rehearse"
         ],
-        "points": 24
+        "points": 28
       },
       {
         "text": "Take deep breaths",
         "aliases": [
-          "calm down"
+          "calm your nerves"
         ],
-        "points": 19
+        "points": 24
       },
       {
         "text": "Fix your hair",
         "aliases": [
-          "comb hair"
+          "check your hair"
         ],
-        "points": 13
+        "points": 19
       },
       {
         "text": "Check the address",
         "aliases": [
-          "confirm location"
+          "check the location"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Practice a confident smile",
+        "aliases": [
+          "practice smiling"
         ],
         "points": 10
       },
       {
-        "text": "Hide the food you spilled",
+        "text": "Clean a food stain",
         "aliases": [
-          "clean your clothes"
+          "hide a spill"
         ],
         "points": 6
       }
@@ -2552,7 +2552,7 @@
   {
     "id": "travel-273",
     "category": "Travel & places",
-    "prompt": "Name a reason a person might stay in the car after arriving home.",
+    "prompt": "Your ride drops you off at home. What would make you sit in the car a little longer?",
     "answers": [
       {
         "text": "Finish a song",
@@ -2699,7 +2699,7 @@
   {
     "id": "travel-276",
     "category": "Travel & places",
-    "prompt": "Name something that makes a rideshare trip feel awkward.",
+    "prompt": "Your friends split a rideshare home after an event. What makes the ride awkward?",
     "answers": [
       {
         "text": "The driver sings loudly",
@@ -2748,7 +2748,7 @@
   {
     "id": "travel-277",
     "category": "Travel & places",
-    "prompt": "Name a reason you give a rideshare driver a different drop-off spot.",
+    "prompt": "What's a reason you might choose a rideshare drop-off spot a block or two away from where you're going?",
     "answers": [
       {
         "text": "You want to hide where you live",
@@ -2797,7 +2797,7 @@
   {
     "id": "travel-278",
     "category": "Travel & places",
-    "prompt": "Name something a carpool passenger does that makes them hard to invite again.",
+    "prompt": "A friend needs a ride to school or work most mornings. What makes the carpool stop offering to pick them up?",
     "answers": [
       {
         "text": "Is always late",
@@ -2895,7 +2895,7 @@
   {
     "id": "travel-280",
     "category": "Travel & places",
-    "prompt": "Name something a friend could learn about you from sharing a ride every morning.",
+    "prompt": "You barely know someone until you share a ride every morning. What do they learn about you without asking?",
     "answers": [
       {
         "text": "Your music taste",
@@ -2944,7 +2944,7 @@
   {
     "id": "travel-281",
     "category": "Travel & places",
-    "prompt": "Name a reason you might cancel a carpool at the last minute.",
+    "prompt": "You agreed to carpool and now you have to cancel right before pickup. Why?",
     "answers": [
       {
         "text": "You're sick",
@@ -2993,7 +2993,7 @@
   {
     "id": "travel-282",
     "category": "Travel & places",
-    "prompt": "Name something people pretend to do to avoid chatting during a shared ride.",
+    "prompt": "You're tired and just want a quiet ride home. What do you pretend to do so nobody starts a conversation?",
     "answers": [
       {
         "text": "Sleep",
@@ -3042,7 +3042,7 @@
   {
     "id": "travel-283",
     "category": "Travel & places",
-    "prompt": "Name something you'd be embarrassed to leave in a rideshare car.",
+    "prompt": "You get the alert that you left something in the rideshare. What do you hope the driver didn't find?",
     "answers": [
       {
         "text": "A bag of dirty clothes",
@@ -3091,7 +3091,7 @@
   {
     "id": "travel-284",
     "category": "Travel & places",
-    "prompt": "Name something that would make a ride with your friend’s parent awkward.",
+    "prompt": "Your friend's parent offers to drive you both home. What makes it the longest ten minutes of your life?",
     "answers": [
       {
         "text": "They ask who you’re dating",
@@ -3140,12 +3140,12 @@
   {
     "id": "travel-285",
     "category": "Travel & places",
-    "prompt": "Name something children fight over in the back seat.",
+    "prompt": "The same three people are stuck in the back seat all weekend. What are they fighting over?",
     "answers": [
       {
         "text": "Space",
         "aliases": [
-          "elbow room"
+          "legroom"
         ],
         "points": 32
       },
@@ -3157,30 +3157,30 @@
         "points": 24
       },
       {
-        "text": "A tablet",
+        "text": "The charger",
         "aliases": [
-          "screen"
+          "charging cable"
         ],
         "points": 17
       },
       {
-        "text": "A toy",
+        "text": "Which music to play",
         "aliases": [
-          "game"
+          "the playlist"
         ],
         "points": 12
       },
       {
         "text": "The window seat",
         "aliases": [
-          "best seat"
+          "the window"
         ],
         "points": 9
       },
       {
-        "text": "Who's touching whom",
+        "text": "Who gets the blanket",
         "aliases": [
-          "stop touching me"
+          "sharing the blanket"
         ],
         "points": 6
       }
@@ -3287,47 +3287,47 @@
   {
     "id": "travel-288",
     "category": "Travel & places",
-    "prompt": "Name a trick parents use to make a long drive seem shorter to children.",
+    "prompt": "What's something the person up front does to stop everyone in the back from asking how much longer?",
     "answers": [
       {
-        "text": "Let them watch a movie",
+        "text": "Puts on a movie",
         "aliases": [
-          "screen time"
+          "shows a video"
         ],
         "points": 28
       },
       {
-        "text": "Give them snacks",
+        "text": "Hands out snacks",
         "aliases": [
-          "food"
+          "gives them food"
         ],
         "points": 24
       },
       {
-        "text": "Play a game",
+        "text": "Starts a car game",
         "aliases": [
-          "car games"
+          "plays a game"
         ],
         "points": 19
       },
       {
-        "text": "Encourage a nap",
+        "text": "Tells everyone to take a nap",
         "aliases": [
-          "go to sleep"
+          "suggests sleeping"
         ],
         "points": 13
       },
       {
-        "text": "Promise a treat",
+        "text": "Promises a treat at the next stop",
         "aliases": [
-          "reward at the end"
+          "offers a reward"
         ],
         "points": 10
       },
       {
-        "text": "Break it into small distances",
+        "text": "Plans more stops",
         "aliases": [
-          "one more town"
+          "takes breaks"
         ],
         "points": 6
       }
@@ -3484,7 +3484,7 @@
   {
     "id": "travel-292",
     "category": "Travel & places",
-    "prompt": "Name a way siblings try to make car seating seem fair.",
+    "prompt": "Everyone calls the good seat at the same time. How do you decide who gets it?",
     "answers": [
       {
         "text": "Take turns",
@@ -3533,7 +3533,7 @@
   {
     "id": "travel-293",
     "category": "Travel & places",
-    "prompt": "Name something a family might run out of halfway through a long drive.",
+    "prompt": "You still have half the drive to go. What does everyone realize they already ran out of?",
     "answers": [
       {
         "text": "Snacks",
@@ -3582,7 +3582,7 @@
   {
     "id": "travel-294",
     "category": "Travel & places",
-    "prompt": "Name a reason a road-trip group suddenly gets very quiet.",
+    "prompt": "A car full of friends is noisy for an hour and then goes completely quiet. What just happened?",
     "answers": [
       {
         "text": "Everyone falls asleep",
@@ -3631,7 +3631,7 @@
   {
     "id": "travel-295",
     "category": "Travel & places",
-    "prompt": "Name something that can turn a grumpy car full of people happy again.",
+    "prompt": "The whole car is in a bad mood. What's one thing that can turn it around?",
     "answers": [
       {
         "text": "Food",
@@ -3729,7 +3729,7 @@
   {
     "id": "travel-297",
     "category": "Travel & places",
-    "prompt": "Name something you might invent to entertain yourself on a boring stretch of highway.",
+    "prompt": "You're bored, your phone is dead, and there's still an hour left on the road. What do you make up to pass the time?",
     "answers": [
       {
         "text": "Stories about other drivers",
@@ -3876,7 +3876,7 @@
   {
     "id": "travel-300",
     "category": "Travel & places",
-    "prompt": "Name something someone says after sleeping through the whole journey.",
+    "prompt": "A friend sleeps through the entire ride, then wakes up when you park. What's the first thing they say?",
     "answers": [
       {
         "text": "That was quick",
@@ -3925,7 +3925,7 @@
   {
     "id": "travel-301",
     "category": "Travel & places",
-    "prompt": "Name something that makes you realize you've been in the car for too long.",
+    "prompt": "What's your first sign that you and your friends have been in the car way too long?",
     "answers": [
       {
         "text": "Your legs are stiff",
@@ -3974,7 +3974,7 @@
   {
     "id": "travel-302",
     "category": "Travel & places",
-    "prompt": "Name a reason someone secretly loves being the road-trip driver.",
+    "prompt": "Why might someone always volunteer to drive when the group is going out of town?",
     "answers": [
       {
         "text": "They control the music",
@@ -4121,7 +4121,7 @@
   {
     "id": "travel-305",
     "category": "Travel & places",
-    "prompt": "Name something you might exaggerate when telling friends about your road trip.",
+    "prompt": "You're telling friends who didn't come about the road trip. What part do you make sound more dramatic?",
     "answers": [
       {
         "text": "How far you drove",
@@ -4268,7 +4268,7 @@
   {
     "id": "travel-308",
     "category": "Travel & places",
-    "prompt": "Name something people promise themselves they'll do differently on the next road trip.",
+    "prompt": "The road trip was more chaos than anyone expected. What do you swear you'll do differently next time?",
     "answers": [
       {
         "text": "Pack less",
@@ -4317,7 +4317,7 @@
   {
     "id": "travel-309",
     "category": "Travel & places",
-    "prompt": "Name something you miss about home before a road trip is even over.",
+    "prompt": "You aren't even home from the trip yet. What's one thing you already miss?",
     "answers": [
       {
         "text": "Your bed",
@@ -4366,7 +4366,7 @@
   {
     "id": "travel-310",
     "category": "Travel & places",
-    "prompt": "Name something that makes the drive home from vacation feel longer than the drive there.",
+    "prompt": "Why does the ride home on Sunday always feel longer than the ride there?",
     "answers": [
       {
         "text": "Nothing exciting to look forward to",

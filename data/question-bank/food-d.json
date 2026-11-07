@@ -51,7 +51,7 @@
   {
     "id": "food-222",
     "category": "Food & drink",
-    "prompt": "A peaceful holiday dinner can turn awkward when someone brings up what?",
+    "prompt": "The big family meal was going fine until a relative brought up what?",
     "answers": [
       {
         "text": "Politics",
@@ -152,7 +152,7 @@
   {
     "id": "food-224",
     "category": "Food & drink",
-    "prompt": "What makes you nervous when someone says they're cooking a meal for the first time?",
+    "prompt": "A friend offers to cook something they've never made before. What's the first clue you might want a backup plan?",
     "answers": [
       {
         "text": "They keep calling for help",
@@ -201,7 +201,7 @@
   {
     "id": "food-225",
     "category": "Food & drink",
-    "prompt": "Name something a host might discover after saying, 'Dinner is ready!'",
+    "prompt": "Your friend announces dinner is ready. What do they realize they forgot to check?",
     "answers": [
       {
         "text": "A dish is still in the oven",
@@ -348,7 +348,7 @@
   {
     "id": "food-228",
     "category": "Food & drink",
-    "prompt": "Name a kitchen job people suddenly become busy when asked to do.",
+    "prompt": "The group volunteered to cook together. What job makes everybody suddenly look busy?",
     "answers": [
       {
         "text": "Wash dishes",
@@ -397,7 +397,7 @@
   {
     "id": "food-229",
     "category": "Food & drink",
-    "prompt": "What would make you worry about the pie someone proudly baked?",
+    "prompt": "Your friend baked a pie for the first time and says it came out great. What makes you hesitate before taking a slice?",
     "answers": [
       {
         "text": "Burnt edges",
@@ -495,7 +495,7 @@
   {
     "id": "food-231",
     "category": "Food & drink",
-    "prompt": "You're cooking to impress a date. What could make you order backup food?",
+    "prompt": "You told a date you'd cook instead of going out. What goes wrong that has you opening a delivery app?",
     "answers": [
       {
         "text": "Burned dinner",
@@ -593,7 +593,7 @@
   {
     "id": "food-233",
     "category": "Food & drink",
-    "prompt": "Name something a guest might politely ignore in a homemade cake.",
+    "prompt": "Someone in your group brings a homemade birthday cake. What mistake do you pretend not to see?",
     "answers": [
       {
         "text": "Burnt bottom",
@@ -642,7 +642,7 @@
   {
     "id": "food-234",
     "category": "Food & drink",
-    "prompt": "At a barbecue, what makes someone appoint themselves the grill expert?",
+    "prompt": "You're at a cookout with friends and one person starts giving grill advice nobody asked for. What set them off?",
     "answers": [
       {
         "text": "Meat looks burnt",
@@ -740,7 +740,7 @@
   {
     "id": "food-236",
     "category": "Food & drink",
-    "prompt": "Name something a guest takes too much of at a make-your-own taco bar.",
+    "prompt": "Your friends laid out a build-your-own taco dinner. What does the first person in line pile on like it's unlimited?",
     "answers": [
       {
         "text": "Guacamole",
@@ -838,7 +838,7 @@
   {
     "id": "food-238",
     "category": "Food & drink",
-    "prompt": "What can end a backyard dinner before anyone gets dessert?",
+    "prompt": "You're having dinner outside with friends. What sends the group back indoors before dessert?",
     "answers": [
       {
         "text": "Rain",
@@ -887,7 +887,7 @@
   {
     "id": "food-239",
     "category": "Food & drink",
-    "prompt": "Name something a guest announces that makes the cook rethink the whole menu.",
+    "prompt": "You planned one meal for the whole group. What does someone tell you right before you start cooking that makes you rethink it?",
     "answers": [
       {
         "text": "A food allergy",
@@ -936,7 +936,7 @@
   {
     "id": "food-240",
     "category": "Food & drink",
-    "prompt": "What would make you ask who made a potluck dish before you taste it?",
+    "prompt": "Your club or team is having a potluck. What makes you ask who brought a dish before touching it?",
     "answers": [
       {
         "text": "It looks unusual",
@@ -1034,7 +1034,7 @@
   {
     "id": "food-242",
     "category": "Food & drink",
-    "prompt": "Name something someone might do to claim the best seat at dinner.",
+    "prompt": "Your group cares way too much about who sits next to whom. How do you claim the best seat at dinner?",
     "answers": [
       {
         "text": "Arrive early",
@@ -1137,7 +1137,7 @@
   {
     "id": "food-244",
     "category": "Food & drink",
-    "prompt": "What excuse might a dinner guest give for barely touching the meal?",
+    "prompt": "A friend's family serves you dinner and you barely touch it. What excuse do you give when they ask?",
     "answers": [
       {
         "text": "Had a late lunch",
@@ -1186,7 +1186,7 @@
   {
     "id": "food-245",
     "category": "Food & drink",
-    "prompt": "Name a reason one potluck dish stays mostly untouched.",
+    "prompt": "Every other tray at the club potluck has been raided. Why is one dish almost untouched?",
     "answers": [
       {
         "text": "Looks unappealing",
@@ -1284,7 +1284,7 @@
   {
     "id": "food-247",
     "category": "Food & drink",
-    "prompt": "What would make you stop dipping into a bowl everyone is sharing?",
+    "prompt": "You're watching a movie with friends and there's one bowl of dip. What makes you stop dipping into it?",
     "answers": [
       {
         "text": "Someone double-dips",
@@ -1382,7 +1382,7 @@
   {
     "id": "food-249",
     "category": "Food & drink",
-    "prompt": "Name something a dinner guest does that shows they loved the meal.",
+    "prompt": "You finally cook for the whole group and it comes out good. What does a friend do that proves they loved it?",
     "answers": [
       {
         "text": "Takes seconds",
@@ -1482,7 +1482,7 @@
   {
     "id": "food-251",
     "category": "Food & drink",
-    "prompt": "Name something people use as a plate when they can't find a clean one.",
+    "prompt": "The kitchen is out of clean plates and nobody wants to do dishes. What do you eat off instead?",
     "answers": [
       {
         "text": "Paper plate",
@@ -1535,7 +1535,7 @@
   {
     "id": "food-252",
     "category": "Food & drink",
-    "prompt": "Name something that makes cooking breakfast for a crowd stressful.",
+    "prompt": "Everyone wakes up hungry after a sleepover. What makes cooking breakfast for the whole group a mess?",
     "answers": [
       {
         "text": "Everyone wants different eggs",
@@ -1584,7 +1584,7 @@
   {
     "id": "food-253",
     "category": "Food & drink",
-    "prompt": "What might ruin the homemade food you proudly packed for everyone?",
+    "prompt": "You carry food you made for your friends all the way to school. What could happen to it before they get a bite?",
     "answers": [
       {
         "text": "It leaks",
@@ -1615,9 +1615,9 @@
         "points": 14
       },
       {
-        "text": "It freezes",
+        "text": "It gets eaten on the way",
         "aliases": [
-          "too cold"
+          "somebody eats it before you arrive"
         ],
         "points": 10
       },
@@ -1682,7 +1682,7 @@
   {
     "id": "food-255",
     "category": "Food & drink",
-    "prompt": "What might make a homemade breakfast look like it was cooked half-asleep?",
+    "prompt": "You were half-asleep when you made breakfast before school or work. What gives that away?",
     "answers": [
       {
         "text": "Burnt toast",
@@ -1731,7 +1731,7 @@
   {
     "id": "food-256",
     "category": "Food & drink",
-    "prompt": "Name something someone puts off until guests are almost at the door.",
+    "prompt": "The group is ten minutes away and you're hosting dinner. What are you only now getting around to doing?",
     "answers": [
       {
         "text": "Starting dinner",
@@ -1780,7 +1780,7 @@
   {
     "id": "food-257",
     "category": "Food & drink",
-    "prompt": "For your birthday dinner at home, what might you ask the family to stop doing?",
+    "prompt": "Your family's making your birthday dinner more embarrassing than it needs to be. What do you ask them to stop?",
     "answers": [
       {
         "text": "Arguing",
@@ -1928,7 +1928,7 @@
   {
     "id": "food-260",
     "category": "Food & drink",
-    "prompt": "Name something a nervous cook checks over and over before dinner.",
+    "prompt": "You promised friends you'd cook and they're almost here. What are you checking for the third time?",
     "answers": [
       {
         "text": "The oven",
@@ -2026,7 +2026,7 @@
   {
     "id": "food-262",
     "category": "Food & drink",
-    "prompt": "Name something a guest might do that makes you regret spending hours cooking.",
+    "prompt": "You spend your afternoon cooking for friends. What does one person do that makes you wish you'd just ordered pizza?",
     "answers": [
       {
         "text": "Drown it in ketchup",
@@ -2124,7 +2124,7 @@
   {
     "id": "food-264",
     "category": "Food & drink",
-    "prompt": "Name something you hear when dinner is called and nobody comes to the table.",
+    "prompt": "You call someone away from their room because dinner's ready. What do they shout back?",
     "answers": [
       {
         "text": "One more minute",
@@ -2173,7 +2173,7 @@
   {
     "id": "food-265",
     "category": "Food & drink",
-    "prompt": "Name a table habit that makes a parent give their child 'the look.'",
+    "prompt": "You know you're getting the look from a parent the second you do what at dinner?",
     "answers": [
       {
         "text": "Chewing with an open mouth",
@@ -2271,7 +2271,7 @@
   {
     "id": "food-267",
     "category": "Food & drink",
-    "prompt": "An unexpected dinner guest arrives. What might the host quietly change?",
+    "prompt": "A friend brings someone you weren't expecting to dinner. What do you quietly change to make it work?",
     "answers": [
       {
         "text": "Cut smaller portions",
@@ -2320,7 +2320,7 @@
   {
     "id": "food-268",
     "category": "Food & drink",
-    "prompt": "Name a dish that gives yesterday's roast chicken a second chance.",
+    "prompt": "You have leftover chicken in the fridge and no plans for lunch. What do you turn it into?",
     "answers": [
       {
         "text": "Soup",
@@ -2467,7 +2467,7 @@
   {
     "id": "food-271",
     "category": "Food & drink",
-    "prompt": "Name a place dinner ends up when nobody wants to set the table.",
+    "prompt": "Your roommate says dinner's ready, then walks straight past the table. Where are they eating?",
     "answers": [
       {
         "text": "Couch",
@@ -2565,7 +2565,7 @@
   {
     "id": "food-273",
     "category": "Food & drink",
-    "prompt": "Name something a guest might sneak into the kitchen to taste before dinner.",
+    "prompt": "Everyone's waiting for dinner and you sneak into the kitchen for a preview. What do you swipe a taste of?",
     "answers": [
       {
         "text": "Cookies",
@@ -2614,7 +2614,7 @@
   {
     "id": "food-274",
     "category": "Food & drink",
-    "prompt": "What can a family argue about before holiday dinner has even started?",
+    "prompt": "The family chat starts arguing three days before the holiday meal. What are they already fighting over?",
     "answers": [
       {
         "text": "What time to eat",
@@ -2663,7 +2663,7 @@
   {
     "id": "food-275",
     "category": "Food & drink",
-    "prompt": "Name something a cook might do after hearing, 'It tasted better last time.'",
+    "prompt": "You cook a meal your friends liked the first time. What do you do when they hit you with “it tasted better last time”?",
     "answers": [
       {
         "text": "Ask what changed",
@@ -2767,7 +2767,7 @@
   {
     "id": "food-277",
     "category": "Food & drink",
-    "prompt": "You're helping in someone else's kitchen. What can't you find?",
+    "prompt": "You offer to help at a friend's place. What do you have to search their whole kitchen to find?",
     "answers": [
       {
         "text": "The trash can",
@@ -2816,7 +2816,7 @@
   {
     "id": "food-278",
     "category": "Food & drink",
-    "prompt": "Name a kitchen task that makes you wish you had three hands.",
+    "prompt": "You're making dinner with nobody around to help. What kitchen job suddenly feels like a two-person sport?",
     "answers": [
       {
         "text": "Draining a heavy pot",
@@ -2963,7 +2963,7 @@
   {
     "id": "food-281",
     "category": "Food & drink",
-    "prompt": "Name something that makes a backyard grill master panic.",
+    "prompt": "Someone lets you take over the grill at a cookout. What happens that makes you call for backup?",
     "answers": [
       {
         "text": "A huge flare-up",
@@ -3116,7 +3116,7 @@
   {
     "id": "food-284",
     "category": "Food & drink",
-    "prompt": "What might someone do to impress guests with a dish they make every week?",
+    "prompt": "You're making your usual dinner but having friends over this time. What do you do to make it look like you tried harder?",
     "answers": [
       {
         "text": "Use fancy plates",
@@ -3214,7 +3214,7 @@
   {
     "id": "food-286",
     "category": "Food & drink",
-    "prompt": "What might someone bring to a potluck because they forgot until the last minute?",
+    "prompt": "You forgot your club's potluck until you were already on the way. What do you bring anyway?",
     "answers": [
       {
         "text": "Chips",
@@ -3263,7 +3263,7 @@
   {
     "id": "food-287",
     "category": "Food & drink",
-    "prompt": "Name something a dinner guest might quietly text about from under the table.",
+    "prompt": "You text a friend from under the dinner table because you can't say it out loud. What's the text about?",
     "answers": [
       {
         "text": "The food is awful",
@@ -3361,7 +3361,7 @@
   {
     "id": "food-289",
     "category": "Food & drink",
-    "prompt": "Name a dish you would be nervous to carry across a crowded dinner party.",
+    "prompt": "You're carrying food across a packed party. What would you be most afraid to drop in front of everyone?",
     "answers": [
       {
         "text": "Hot soup",
@@ -3459,7 +3459,7 @@
   {
     "id": "food-291",
     "category": "Food & drink",
-    "prompt": "Name something in a friend's kitchen that would make you hesitate to eat dinner.",
+    "prompt": "A friend says they'll cook, then you walk into their kitchen. What makes you rethink that plan?",
     "answers": [
       {
         "text": "Dirty dishes",
@@ -3511,7 +3511,7 @@
   {
     "id": "food-292",
     "category": "Food & drink",
-    "prompt": "Name something that can go wrong when you try flipping food to look like a chef.",
+    "prompt": "You're trying a pan flip you saw in a cooking video. What happens when it goes wrong?",
     "answers": [
       {
         "text": "Food lands on the floor",
@@ -3560,7 +3560,7 @@
   {
     "id": "food-293",
     "category": "Food & drink",
-    "prompt": "Name a dessert people might give up on making and buy instead.",
+    "prompt": "You promised your friends you'd make dessert. What do you end up buying because the recipe is too much?",
     "answers": [
       {
         "text": "Birthday cake",
@@ -3658,7 +3658,7 @@
   {
     "id": "food-295",
     "category": "Food & drink",
-    "prompt": "Name something the cook might have to do while everyone else is eating.",
+    "prompt": "Your friends are all eating and you're still in the kitchen. What are you stuck doing?",
     "answers": [
       {
         "text": "Finish another dish",
@@ -3756,7 +3756,7 @@
   {
     "id": "food-297",
     "category": "Food & drink",
-    "prompt": "What makes a cook regret letting a child 'help' with baking?",
+    "prompt": "You let a younger sibling help with the baking. What makes you wish you'd just done it yourself?",
     "answers": [
       {
         "text": "Flour everywhere",
@@ -3805,7 +3805,7 @@
   {
     "id": "food-298",
     "category": "Food & drink",
-    "prompt": "Name something a host says to make a cooking mistake sound intentional.",
+    "prompt": "You messed up the food and your friends noticed. How do you try to pass it off as intentional?",
     "answers": [
       {
         "text": "It's rustic",
@@ -3854,7 +3854,7 @@
   {
     "id": "food-299",
     "category": "Food & drink",
-    "prompt": "Name a reason someone suddenly volunteers to clear the dinner table.",
+    "prompt": "Dinner conversation is getting weird and someone jumps up to clear plates. What's their real reason?",
     "answers": [
       {
         "text": "Escape a conversation",
@@ -3958,7 +3958,7 @@
   {
     "id": "food-301",
     "category": "Food & drink",
-    "prompt": "Name something a cook might try to blame a burnt dinner on.",
+    "prompt": "You burn dinner in a kitchen full of witnesses. What do you blame it on?",
     "answers": [
       {
         "text": "The oven",
@@ -4007,7 +4007,7 @@
   {
     "id": "food-302",
     "category": "Food & drink",
-    "prompt": "What makes someone regret choosing a picnic instead of eating indoors?",
+    "prompt": "You talked your friends into a picnic instead of eating inside. What makes you regret that decision ten minutes in?",
     "answers": [
       {
         "text": "Bugs",
@@ -4056,7 +4056,7 @@
   {
     "id": "food-303",
     "category": "Food & drink",
-    "prompt": "Name a picnic food that can turn into a mess before you take one bite.",
+    "prompt": "You packed food to eat outside after class. What makes a mess before you even get a bite?",
     "answers": [
       {
         "text": "Ice cream",
@@ -4154,7 +4154,7 @@
   {
     "id": "food-305",
     "category": "Food & drink",
-    "prompt": "Name a food people suggest when nobody can agree on dinner.",
+    "prompt": "The food plan in your group chat has gone nowhere for 20 minutes. What does someone finally suggest to end the debate?",
     "answers": [
       {
         "text": "Pizza",
@@ -4203,7 +4203,7 @@
   {
     "id": "food-306",
     "category": "Food & drink",
-    "prompt": "What might a pet do to get a share of the family dinner?",
+    "prompt": "Your pet sees you eat one bite and starts campaigning for theirs. What do they do?",
     "answers": [
       {
         "text": "Stare at you",
@@ -4301,7 +4301,7 @@
   {
     "id": "food-308",
     "category": "Food & drink",
-    "prompt": "Name a reason party food runs out before everyone has eaten.",
+    "prompt": "Everyone said they weren't that hungry. Why is the party food gone before the late friends get there?",
     "answers": [
       {
         "text": "Unexpected guests",
@@ -4350,7 +4350,7 @@
   {
     "id": "food-309",
     "category": "Food & drink",
-    "prompt": "What might a host do to hint that dinner guests should go home?",
+    "prompt": "It's getting late and your friends are still at your place after dinner. What hint do you drop that it's time to wrap up?",
     "answers": [
       {
         "text": "Start washing dishes",

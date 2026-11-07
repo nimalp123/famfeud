@@ -2,7 +2,7 @@
   {
     "id": "everyday-041",
     "category": "Everyday life",
-    "prompt": "Name a household problem you keep promising to fix tomorrow.",
+    "prompt": "Name a problem in your room or apartment you've been saying you'll deal with next weekend.",
     "answers": [
       {
         "text": "Dripping faucet",
@@ -100,7 +100,7 @@
   {
     "id": "everyday-043",
     "category": "Everyday life",
-    "prompt": "Name something a bossy roommate insists on controlling.",
+    "prompt": "Name something a roommate thinks they're in charge of without anyone ever voting on it.",
     "answers": [
       {
         "text": "Thermostat",
@@ -150,7 +150,7 @@
   {
     "id": "everyday-044",
     "category": "Everyday life",
-    "prompt": "Name a home repair someone regrets calling a five-minute job.",
+    "prompt": "Name a project in your first place that sounded like it would take five minutes.",
     "answers": [
       {
         "text": "Fixing a leak",
@@ -199,7 +199,7 @@
   {
     "id": "everyday-045",
     "category": "Everyday life",
-    "prompt": "Name a household noise that seems ten times louder at three in the morning.",
+    "prompt": "You're the only one awake at 3 a.m. What suddenly sounds loud enough to wake the whole house?",
     "answers": [
       {
         "text": "Squeaky floor",
@@ -248,7 +248,7 @@
   {
     "id": "everyday-046",
     "category": "Everyday life",
-    "prompt": "Name a clue that someone's do-it-yourself repair has gone wrong.",
+    "prompt": "A tutorial made the repair look easy. What's the giveaway that it didn't work?",
     "answers": [
       {
         "text": "Water leaking",
@@ -396,7 +396,7 @@
   {
     "id": "everyday-049",
     "category": "Everyday life",
-    "prompt": "Name something movers might struggle to get through a doorway.",
+    "prompt": "You're moving into a place with a tiny doorway. What won't make it through?",
     "answers": [
       {
         "text": "Sofa",
@@ -445,7 +445,7 @@
   {
     "id": "everyday-050",
     "category": "Everyday life",
-    "prompt": "Name a problem people have assembling furniture from a box.",
+    "prompt": "You bought furniture that came in a flat box. What goes wrong when you put it together?",
     "answers": [
       {
         "text": "Missing screws",
@@ -494,7 +494,7 @@
   {
     "id": "everyday-051",
     "category": "Everyday life",
-    "prompt": "Name something you threaten to throw away during a serious house clean.",
+    "prompt": "You're trying to clear space before you move. What are you threatening to throw out?",
     "answers": [
       {
         "text": "Old clothes",
@@ -544,7 +544,7 @@
   {
     "id": "everyday-052",
     "category": "Everyday life",
-    "prompt": "Name something left on the table that could start a roommate argument.",
+    "prompt": "Name something someone leaves on the shared kitchen table that starts a whole roommate argument.",
     "answers": [
       {
         "text": "Dirty dishes",
@@ -643,7 +643,7 @@
   {
     "id": "everyday-054",
     "category": "Everyday life",
-    "prompt": "Name something a renter might hide before the landlord comes to inspect.",
+    "prompt": "Name something you move out of sight before someone checks your dorm or apartment.",
     "answers": [
       {
         "text": "A pet",
@@ -692,7 +692,7 @@
   {
     "id": "everyday-055",
     "category": "Everyday life",
-    "prompt": "Name a clue that a bedroom belongs to a teenager.",
+    "prompt": "You see a bedroom in the background of a video call. What tells you a teenager lives there?",
     "answers": [
       {
         "text": "Dirty clothes on the floor",
@@ -742,7 +742,7 @@
   {
     "id": "everyday-056",
     "category": "Everyday life",
-    "prompt": "Name something housemates argue about during a heat wave.",
+    "prompt": "It's too hot in your place and nobody agrees how to cool it down. What are the roommates arguing about?",
     "answers": [
       {
         "text": "Air conditioning setting",
@@ -889,7 +889,7 @@
   {
     "id": "everyday-059",
     "category": "Everyday life",
-    "prompt": "Name a place someone hides a gift where the recipient might accidentally find it.",
+    "prompt": "Name a place you hide a gift where your sibling could still stumble across it.",
     "answers": [
       {
         "text": "Closet",
@@ -938,7 +938,7 @@
   {
     "id": "everyday-060",
     "category": "Everyday life",
-    "prompt": "Name what a spare bedroom becomes when you rarely have overnight guests.",
+    "prompt": "Your shared place has an extra room and nobody ever stays over. What do you turn it into?",
     "answers": [
       {
         "text": "Storage room",
@@ -987,7 +987,7 @@
   {
     "id": "everyday-061",
     "category": "Everyday life",
-    "prompt": "Name a part of the house people hope nobody looks at closely when they visit.",
+    "prompt": "A friend comes over without much warning. Where are you hoping they don't look too closely?",
     "answers": [
       {
         "text": "Under the bed",
@@ -1085,7 +1085,7 @@
   {
     "id": "everyday-063",
     "category": "Everyday life",
-    "prompt": "Name something that is dreaded when spilled on a carpet.",
+    "prompt": "You want your security deposit back. Name something you'd hate to spill on the carpet.",
     "answers": [
       {
         "text": "Red wine",
@@ -1232,7 +1232,7 @@
   {
     "id": "everyday-066",
     "category": "Everyday life",
-    "prompt": "Name a reason roommates argue while deciding where the sofa should go.",
+    "prompt": "You finally got a couch for the shared living room. Why is everyone arguing over where it goes?",
     "answers": [
       {
         "text": "Can't see the TV",
@@ -1330,7 +1330,7 @@
   {
     "id": "everyday-068",
     "category": "Everyday life",
-    "prompt": "Name a spot where a toddler leaves sticky fingerprints.",
+    "prompt": "Your little cousin has been visiting. Where are you finding the first sticky fingerprints?",
     "answers": [
       {
         "text": "Window",
@@ -1379,7 +1379,7 @@
   {
     "id": "everyday-069",
     "category": "Everyday life",
-    "prompt": "Name a reason a load of laundry might need washing again.",
+    "prompt": "You finally got a machine in the shared laundry room. Why are you having to wash that same load again?",
     "answers": [
       {
         "text": "Left it in the washer",
@@ -1428,7 +1428,7 @@
   {
     "id": "everyday-070",
     "category": "Everyday life",
-    "prompt": "Name something that can go wrong when washing clothes.",
+    "prompt": "Name something that can go wrong with your first load of laundry without help.",
     "answers": [
       {
         "text": "Colors run",
@@ -1477,7 +1477,7 @@
   {
     "id": "everyday-071",
     "category": "Everyday life",
-    "prompt": "Name something that can ruin a white shirt in seconds.",
+    "prompt": "You put on a white shirt and have somewhere to be. What gets on it before you leave?",
     "answers": [
       {
         "text": "Tomato sauce",
@@ -1673,7 +1673,7 @@
   {
     "id": "everyday-075",
     "category": "Everyday life",
-    "prompt": "Name a kitchen rule your roommate somehow keeps forgetting.",
+    "prompt": "Name a kitchen rule you could pin in the roommate chat and someone would still forget.",
     "answers": [
       {
         "text": "Wash your dishes",
@@ -1722,7 +1722,7 @@
   {
     "id": "everyday-076",
     "category": "Everyday life",
-    "prompt": "Name something people argue about when loading a dishwasher.",
+    "prompt": "Your roommate says you loaded the dishwasher wrong. What's their complaint?",
     "answers": [
       {
         "text": "Which way plates face",
@@ -1820,7 +1820,7 @@
   {
     "id": "everyday-078",
     "category": "Everyday life",
-    "prompt": "Name a clue that a roommate ate the food they swore they hadn't touched.",
+    "prompt": "Your leftovers are gone and your roommate swears they didn't touch them. What gives them away?",
     "answers": [
       {
         "text": "Empty container",
@@ -1869,7 +1869,7 @@
   {
     "id": "everyday-079",
     "category": "Everyday life",
-    "prompt": "Name an unwanted pest people might call a professional to remove from their home.",
+    "prompt": "Name a pest bad enough to make you put in a maintenance request.",
     "answers": [
       {
         "text": "Rodents",
@@ -1919,7 +1919,7 @@
   {
     "id": "everyday-080",
     "category": "Everyday life",
-    "prompt": "Name a kitchen gadget people buy with big plans and barely use.",
+    "prompt": "Name a kitchen gadget that sounds like a great buy for your first place and then just takes up space.",
     "answers": [
       {
         "text": "Blender",
@@ -2066,7 +2066,7 @@
   {
     "id": "everyday-083",
     "category": "Everyday life",
-    "prompt": "Name something you check repeatedly before leaving your house unattended.",
+    "prompt": "You're leaving for the weekend. What are you still double-checking after you've already packed?",
     "answers": [
       {
         "text": "Door locks",
@@ -2115,7 +2115,7 @@
   {
     "id": "everyday-084",
     "category": "Everyday life",
-    "prompt": "Name an excuse someone gives when they don't want a friend sleeping at their place.",
+    "prompt": "A friend wants to crash at your place, but you want the place to yourself. What excuse do you give?",
     "answers": [
       {
         "text": "Place is a mess",
@@ -2164,7 +2164,7 @@
   {
     "id": "everyday-085",
     "category": "Everyday life",
-    "prompt": "Name something people promise they'll do once they have a bigger home.",
+    "prompt": "Name something you tell yourself you'll do as soon as you have more space than a small apartment.",
     "answers": [
       {
         "text": "Host parties",
@@ -2214,7 +2214,7 @@
   {
     "id": "everyday-086",
     "category": "Everyday life",
-    "prompt": "Name something in your home that vanishes the moment you actually need it.",
+    "prompt": "Name something you can never find in your room when you're already running late.",
     "answers": [
       {
         "text": "Keys",
@@ -2263,7 +2263,7 @@
   {
     "id": "everyday-087",
     "category": "Everyday life",
-    "prompt": "Name something a parent keeps on display that embarrasses their grown-up child.",
+    "prompt": "Name something a parent still puts on display that makes you want to leave the room when friends come over.",
     "answers": [
       {
         "text": "Baby photo",
@@ -2312,7 +2312,7 @@
   {
     "id": "everyday-088",
     "category": "Everyday life",
-    "prompt": "Name something a host can't find after everyone has left the party.",
+    "prompt": "Everyone's gone and you're cleaning up after the hangout. What can't you find?",
     "answers": [
       {
         "text": "A charger",
@@ -2362,7 +2362,7 @@
   {
     "id": "everyday-089",
     "category": "Everyday life",
-    "prompt": "Name an excuse someone uses to avoid hosting the next get-together.",
+    "prompt": "The group chat wants the next hangout at your place. What excuse do you send?",
     "answers": [
       {
         "text": "Place is too small",
@@ -2412,7 +2412,7 @@
   {
     "id": "everyday-090",
     "category": "Everyday life",
-    "prompt": "Name a bathroom habit that can make a roommate impossible to live with.",
+    "prompt": "Name a shared-bathroom habit that makes you wish your roommate lived somewhere else.",
     "answers": [
       {
         "text": "Uses all the hot water",
@@ -2510,7 +2510,7 @@
   {
     "id": "everyday-092",
     "category": "Everyday life",
-    "prompt": "Name a smell that instantly makes a house feel cozy.",
+    "prompt": "Name a smell that tells you you're back somewhere that feels like home.",
     "answers": [
       {
         "text": "Fresh baking",
@@ -2657,7 +2657,7 @@
   {
     "id": "everyday-095",
     "category": "Everyday life",
-    "prompt": "Name something a cat does just as you finally get comfortable.",
+    "prompt": "You finally sit down to get comfortable. What does the cat do right then?",
     "answers": [
       {
         "text": "Sits on your lap",
@@ -3196,7 +3196,7 @@
   {
     "id": "everyday-106",
     "category": "Everyday life",
-    "prompt": "Name a sign that the pet is actually in charge of a household.",
+    "prompt": "Name a sign your pet gets better treatment than the people you live with.",
     "answers": [
       {
         "text": "Owns the best seat",
@@ -3294,7 +3294,7 @@
   {
     "id": "everyday-108",
     "category": "Everyday life",
-    "prompt": "Name something in a front yard that makes a house easy to recognize.",
+    "prompt": "You're trying to help a friend spot your place from the car. What landmark do you give them?",
     "answers": [
       {
         "text": "Holiday lights",
@@ -3393,7 +3393,7 @@
   {
     "id": "everyday-110",
     "category": "Everyday life",
-    "prompt": "Name something people pretend to do outside to avoid talking to a neighbor.",
+    "prompt": "Your neighbor's outside and you don't have it in you to make small talk. What do you suddenly pretend to be doing?",
     "answers": [
       {
         "text": "Look at their phone",
@@ -3442,7 +3442,7 @@
   {
     "id": "everyday-111",
     "category": "Everyday life",
-    "prompt": "Name something that can spoil a backyard get-together.",
+    "prompt": "You finally got the group together outside. What ruins the hangout?",
     "answers": [
       {
         "text": "Rain",
@@ -3491,7 +3491,7 @@
   {
     "id": "everyday-112",
     "category": "Everyday life",
-    "prompt": "Name something you want to know before agreeing to live with someone.",
+    "prompt": "A friend asks if you want to live together. What's the first thing you need to know?",
     "answers": [
       {
         "text": "Cleaning habits",
@@ -3590,47 +3590,51 @@
   {
     "id": "everyday-114",
     "category": "Everyday life",
-    "prompt": "Name something a nosy neighbor always has an opinion about.",
+    "prompt": "A classmate somehow knows something about you that you never told them. What's the detail?",
     "answers": [
       {
-        "text": "Your yard",
+        "text": "Who you like",
         "aliases": [
-          "lawn"
+          "your crush",
+          "who you are dating"
         ],
         "points": 30
       },
       {
-        "text": "Your car",
+        "text": "Your grade",
         "aliases": [
-          "what you drive"
+          "test score",
+          "grades"
         ],
         "points": 24
       },
       {
-        "text": "Your visitors",
+        "text": "Where you work",
         "aliases": [
-          "who comes over"
+          "your job",
+          "your workplace"
         ],
         "points": 18
       },
       {
-        "text": "Your clothes",
+        "text": "Your weekend plans",
         "aliases": [
-          "what you wear"
+          "what you are doing this weekend"
         ],
         "points": 13
       },
       {
-        "text": "Your children",
+        "text": "What you posted privately",
         "aliases": [
-          "your kids"
+          "close friends story",
+          "private post"
         ],
         "points": 9
       },
       {
-        "text": "Your deliveries",
+        "text": "What you spent",
         "aliases": [
-          "packages"
+          "how much you paid"
         ],
         "points": 6
       }
@@ -3688,7 +3692,7 @@
   {
     "id": "everyday-116",
     "category": "Everyday life",
-    "prompt": "Name something neighbors watch through the curtains while pretending they aren't curious.",
+    "prompt": "Everyone at home is pretending not to look out the window. What's happening outside?",
     "answers": [
       {
         "text": "Moving truck",
@@ -3885,7 +3889,7 @@
   {
     "id": "everyday-120",
     "category": "Everyday life",
-    "prompt": "Name something someone accuses a neighbor of taking.",
+    "prompt": "Name something a neighbor accuses another neighbor of taking in the building chat.",
     "answers": [
       {
         "text": "Package",
@@ -3935,7 +3939,7 @@
   {
     "id": "everyday-121",
     "category": "Everyday life",
-    "prompt": "Name something a neighbor might complain about.",
+    "prompt": "Name a reason a neighbor sends a passive-aggressive message about someone on the block.",
     "answers": [
       {
         "text": "Loud music",
@@ -3984,47 +3988,52 @@
   {
     "id": "everyday-122",
     "category": "Everyday life",
-    "prompt": "Name something neighbors quietly compete to have the best of.",
+    "prompt": "Name something people in a dorm quietly compare with the room next door.",
     "answers": [
       {
-        "text": "Lawn",
+        "text": "Room size",
         "aliases": [
-          "greenest grass"
+          "how much space",
+          "bigger room"
         ],
         "points": 30
       },
       {
-        "text": "Holiday display",
+        "text": "Decorations",
         "aliases": [
-          "Christmas decorations"
+          "decor",
+          "room setup"
         ],
         "points": 24
       },
       {
-        "text": "Car",
+        "text": "The view",
         "aliases": [
-          "nicest vehicle"
+          "view from the window"
         ],
         "points": 18
       },
       {
-        "text": "Barbecue",
+        "text": "How much storage",
         "aliases": [
-          "best cookout"
+          "closet space",
+          "storage"
         ],
         "points": 13
       },
       {
-        "text": "House price",
+        "text": "How loud it is",
         "aliases": [
-          "property value"
+          "noise level",
+          "noisy neighbors"
         ],
         "points": 9
       },
       {
-        "text": "Garden flowers",
+        "text": "The temperature",
         "aliases": [
-          "flower beds"
+          "how hot it is",
+          "air conditioning"
         ],
         "points": 6
       }
@@ -4033,7 +4042,7 @@
   {
     "id": "everyday-123",
     "category": "Everyday life",
-    "prompt": "Name a clue that the party next door is about to get loud.",
+    "prompt": "You're planning a quiet night in. What's a clue the people next door have different plans?",
     "answers": [
       {
         "text": "Big speakers",
@@ -4182,7 +4191,7 @@
   {
     "id": "everyday-126",
     "category": "Everyday life",
-    "prompt": "Name someone you call after locking yourself out of your house.",
+    "prompt": "You pulled the door shut and realized you're locked out. Who do you call?",
     "answers": [
       {
         "text": "Roommate",

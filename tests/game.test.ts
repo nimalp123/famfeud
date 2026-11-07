@@ -236,7 +236,7 @@ function bankGame(id: string, mode: GameMode = "solo"): RoomState {
 
 test("natural paraphrases score the existing Keep chatting answer in both modes", () => {
   for (const mode of ["solo", "teams"] as const) {
-    for (const guess of ["talk", "start talking", "chit-chat", "keep talking", "yapping", "have a conversation", "I'd say chat for a while"]) {
+    for (const guess of ["talk", "start talking", "start talkign", "chattign", "chit-chat", "keep talking", "yapping", "have a conversation", "I'd say chat for a while"]) {
       const room = applyAction(bankGame("food-063", mode), "p1", { type: "guess", guess }, NOW + 1000);
       assert.equal(room.players[0].score, 24, guess);
       assert.equal(room.round?.revealed["food-063-2"], "p1", guess);
@@ -246,6 +246,8 @@ test("natural paraphrases score the existing Keep chatting answer in both modes"
 });
 
 test("a broad guess does not choose between opposed answers", () => {
+  const misspelled = applyAction(bankGame("everyday-390"), "p1", { type: "guess", guess: "start talkign" }, NOW + 1000);
+  assert.deepEqual(misspelled.round?.revealed, {});
   let room = applyAction(bankGame("everyday-390"), "p1", { type: "guess", guess: "chat" }, NOW + 1000);
   assert.deepEqual(room.round?.revealed, {});
   room = applyAction(room, "p1", { type: "guess", guess: "start talking" }, NOW + 2000);
@@ -265,6 +267,54 @@ test("equivalent phrasing works across categories and a short guess can name the
     const answer = toRoomView(room, NOW + 1000).round?.answers.find(({ text }) => text === expected);
     assert.ok(answer, guess);
     assert.equal(room.players[0].score, answer.points, guess);
+  }
+});
+
+test("common typing errors score real board answers in both modes", () => {
+  for (const mode of ["solo", "teams"] as const) {
+    for (const [id, guess, expected] of [
+      ["games-178", "sdoa", "Soda"],
+      ["games-178", "sda", "Soda"],
+      ["travel-250", "cofee", "Coffee"],
+      ["travel-250", "cofffee", "Coffee"],
+      ["travel-250", "choclate", "Chocolate"],
+      ["travel-250", "choclaet", "Chocolate"],
+      ["food-136", "cie crream", "Ice cream"],
+      ["travel-319", "I'd say wlak", "Walking"],
+    ]) {
+      const room = applyAction(bankGame(id, mode), "p1", { type: "guess", guess }, NOW + 1000);
+      const answer = room.questions[0].answers.find(({ text }) => text === expected);
+      assert.ok(answer, expected);
+      assert.equal(room.round?.revealed[answer.id], "p1", guess);
+      assert.equal(room.players[0].score, answer.points, guess);
+    }
+  }
+});
+
+test("typing tolerance does not substitute another short word or number", () => {
+  const board = question();
+  board.answers = [
+    { id: "a1", text: "Tea", aliases: [], points: 60 },
+    { id: "a2", text: "10 dollars", aliases: [], points: 40 },
+  ];
+  const initial = startGame(lobby(), [board, question("q2"), question("q3")], "bank", NOW);
+  for (const guess of ["sea", "20 dollars"]) {
+    const room = applyAction(initial, "p1", { type: "guess", guess }, NOW + 1000);
+    assert.deepEqual(room.round?.revealed, {}, guess);
+  }
+  const accepted = applyAction(initial, "p1", { type: "guess", guess: "tae" }, NOW + 1000);
+  assert.equal(accepted.players[0].score, 60);
+});
+
+test("real short guesses and apostrophe-free negatives do not become different answers", () => {
+  for (const [id, guess] of [
+    ["everyday-122", "cart"],
+    ["everyday-100", "coat"],
+    ["food-317", "team"],
+    ["games-364", "they cant rest"],
+  ]) {
+    const room = applyAction(bankGame(id), "p1", { type: "guess", guess }, NOW + 1000);
+    assert.deepEqual(room.round?.revealed, {}, guess);
   }
 });
 

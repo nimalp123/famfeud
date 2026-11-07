@@ -2,7 +2,7 @@
   {
     "id": "culture-221",
     "category": "Pop culture",
-    "prompt": "Name a reaction that makes a friend demand to see the video you are watching.",
+    "prompt": "You're watching something on your phone at lunch. What reaction makes everyone ask to see it?",
     "answers": [
       {
         "text": "Laughing",
@@ -103,7 +103,7 @@
   {
     "id": "culture-223",
     "category": "Pop culture",
-    "prompt": "Name something in the background that could ruin a creator's carefully staged video.",
+    "prompt": "You're posting a cute room video and didn't check the background. What accidentally ends up in the shot?",
     "answers": [
       {
         "text": "A messy room",
@@ -134,7 +134,7 @@
         "points": 14
       },
       {
-        "text": "An address on a package",
+        "text": "A package label with your address",
         "aliases": [
           "shipping label",
           "mailing address"
@@ -154,7 +154,7 @@
   {
     "id": "culture-224",
     "category": "Pop culture",
-    "prompt": "Name something people exaggerate in an online bio.",
+    "prompt": "What do people make sound a lot more impressive than it really is in their profile bio?",
     "answers": [
       {
         "text": "Their job",
@@ -252,7 +252,7 @@
   {
     "id": "culture-226",
     "category": "Pop culture",
-    "prompt": "Name something people risk breaking while copying an online challenge.",
+    "prompt": "Your friends try the stunt they saw in a short video. What's the first thing they could break?",
     "answers": [
       {
         "text": "Their phone",
@@ -350,7 +350,7 @@
   {
     "id": "culture-228",
     "category": "Pop culture",
-    "prompt": "Name a reason you would refuse to appear in a friend's vlog.",
+    "prompt": "A friend points their camera at you for a day-in-the-life video. Why might you say \"don't film me\"?",
     "answers": [
       {
         "text": "I look terrible",
@@ -399,7 +399,7 @@
   {
     "id": "culture-229",
     "category": "Pop culture",
-    "prompt": "Name something a person might check immediately after posting their first video.",
+    "prompt": "You post your first video and reopen it thirty seconds later. What are you checking?",
     "answers": [
       {
         "text": "Views",
@@ -450,7 +450,7 @@
   {
     "id": "culture-230",
     "category": "Pop culture",
-    "prompt": "Name a reason people watch someone else play a video game.",
+    "prompt": "Why are you still watching someone else game even though you could play something yourself?",
     "answers": [
       {
         "text": "The player is funny",
@@ -501,7 +501,7 @@
   {
     "id": "culture-231",
     "category": "Pop culture",
-    "prompt": "Name something viewers repeatedly ask a livestream host to show.",
+    "prompt": "A streamer says \"what do you want to see?\" What's chat asking them to show first?",
     "answers": [
       {
         "text": "Their pet",
@@ -551,7 +551,7 @@
   {
     "id": "culture-232",
     "category": "Pop culture",
-    "prompt": "Name something a person could do in a livestream chat that gets them kicked out.",
+    "prompt": "What's one thing you could do in a live chat that gets you banned by the mods?",
     "answers": [
       {
         "text": "Spam messages",
@@ -602,7 +602,7 @@
   {
     "id": "culture-233",
     "category": "Pop culture",
-    "prompt": "Name something a gamer blames after losing in front of an audience.",
+    "prompt": "Your friend loses a game while everyone's watching their screen. What do they blame?",
     "answers": [
       {
         "text": "Lag",
@@ -651,7 +651,7 @@
   {
     "id": "culture-234",
     "category": "Pop culture",
-    "prompt": "Name something a streamer might regret promising if they reach a follower goal.",
+    "prompt": "What promise to chat sounds fun until the streamer actually hits the follower goal?",
     "answers": [
       {
         "text": "Shave their head",
@@ -700,7 +700,7 @@
   {
     "id": "culture-235",
     "category": "Pop culture",
-    "prompt": "Name something in a livestream message that might make the host blush.",
+    "prompt": "What's something from their real life that chat could mention and instantly embarrass a streamer?",
     "answers": [
       {
         "text": "An old nickname",
@@ -749,7 +749,7 @@
   {
     "id": "culture-236",
     "category": "Pop culture",
-    "prompt": "Name a sound from another room that could make a livestream awkward.",
+    "prompt": "A streamer's door is open and their mic picks up the next room. What's the worst sound it catches?",
     "answers": [
       {
         "text": "An argument",
@@ -773,9 +773,10 @@
         "points": 16
       },
       {
-        "text": "A baby crying",
+        "text": "Someone calling their real name",
         "aliases": [
-          "crying child"
+          "a parent uses their full name",
+          "full name"
         ],
         "points": 11
       },
@@ -798,7 +799,7 @@
   {
     "id": "culture-237",
     "category": "Pop culture",
-    "prompt": "Name a reason you would stop watching a creator you used to love.",
+    "prompt": "What's the thing that finally makes you stop opening videos from a creator you used to love?",
     "answers": [
       {
         "text": "Too many ads",
@@ -847,7 +848,7 @@
   {
     "id": "culture-238",
     "category": "Pop culture",
-    "prompt": "Name something fans expect when a creator teases a 'huge announcement.'",
+    "prompt": "A creator posts \"huge announcement tomorrow\" and gives no details. What's your guess?",
     "answers": [
       {
         "text": "A merch drop",
@@ -898,7 +899,7 @@
   {
     "id": "culture-239",
     "category": "Pop culture",
-    "prompt": "Name something a creator might apologize for in a video.",
+    "prompt": "What would make a creator post a serious sit-down apology with a plain thumbnail?",
     "answers": [
       {
         "text": "An offensive joke",
@@ -948,7 +949,7 @@
   {
     "id": "culture-240",
     "category": "Pop culture",
-    "prompt": "Name a sign that someone has already seen the video they are pretending to react to.",
+    "prompt": "What's the moment you realize the person filming a reaction already watched the clip?",
     "answers": [
       {
         "text": "They predict the ending",
@@ -997,7 +998,7 @@
   {
     "id": "culture-241",
     "category": "Pop culture",
-    "prompt": "Name something that makes people replay a few seconds of a video.",
+    "prompt": "What's something in a short video you rewind because you need to see it one more time?",
     "answers": [
       {
         "text": "A hilarious fall",
@@ -1046,7 +1047,7 @@
   {
     "id": "culture-242",
     "category": "Pop culture",
-    "prompt": "Name a subject that can turn a harmless comment section into an argument.",
+    "prompt": "A completely normal video ends up with 500 people arguing underneath. What topic started it?",
     "answers": [
       {
         "text": "Politics",
@@ -1144,7 +1145,7 @@
   {
     "id": "culture-244",
     "category": "Pop culture",
-    "prompt": "Name something a video promises to reveal but keeps making you wait for.",
+    "prompt": "What payoff does a video promise in the first five seconds and make you wait the whole time to see?",
     "answers": [
       {
         "text": "A makeover",
@@ -1182,9 +1183,10 @@
         "points": 8
       },
       {
-        "text": "A secret location",
+        "text": "Where they got the outfit",
         "aliases": [
-          "where it is"
+          "the outfit link",
+          "where to buy it"
         ],
         "points": 5
       }
@@ -1291,7 +1293,7 @@
   {
     "id": "culture-247",
     "category": "Pop culture",
-    "prompt": "Name something a devoted fan does when someone insults their favorite creator.",
+    "prompt": "Someone posts a bad take about your friend's favorite creator. What's your friend doing next?",
     "answers": [
       {
         "text": "Argues in the comments",
@@ -1316,10 +1318,10 @@
         "points": 19
       },
       {
-        "text": "Makes an edit defending them",
+        "text": "Sends you the worst reply",
         "aliases": [
-          "defense edit",
-          "fan edit"
+          "screenshots the reply",
+          "send screenshot"
         ],
         "points": 14
       },
@@ -1391,7 +1393,7 @@
   {
     "id": "culture-249",
     "category": "Pop culture",
-    "prompt": "Name something a newly famous creator might splurge on first.",
+    "prompt": "A creator gets their first big payout. What's the purchase they're showing off by the weekend?",
     "answers": [
       {
         "text": "A car",
@@ -1442,7 +1444,7 @@
   {
     "id": "culture-250",
     "category": "Pop culture",
-    "prompt": "Name something a creator makes look effortless that would take you ten attempts.",
+    "prompt": "What's one thing you watch a creator do in a single take that you'd need ten tries to pull off?",
     "answers": [
       {
         "text": "Winged eyeliner",
@@ -1494,7 +1496,7 @@
   {
     "id": "culture-251",
     "category": "Pop culture",
-    "prompt": "Name something creators sharing a house might argue about.",
+    "prompt": "A bunch of creators agree to split rent. What are they arguing about in the house chat?",
     "answers": [
       {
         "text": "Noise",
@@ -1592,7 +1594,7 @@
   {
     "id": "culture-253",
     "category": "Pop culture",
-    "prompt": "Name something an influencer might make you feel guilty for not doing.",
+    "prompt": "You watch five \"get your life together\" videos in a row. What do they make you feel behind on?",
     "answers": [
       {
         "text": "Exercising",
@@ -1641,7 +1643,7 @@
   {
     "id": "culture-254",
     "category": "Pop culture",
-    "prompt": "Name something influencers call a 'must-have' that you could happily live without.",
+    "prompt": "What's one \"must-have\" you keep seeing in shopping videos that you would never buy?",
     "answers": [
       {
         "text": "A fancy water bottle",
@@ -1692,7 +1694,7 @@
   {
     "id": "culture-255",
     "category": "Pop culture",
-    "prompt": "Name a product flaw a sponsored review might conveniently forget to mention.",
+    "prompt": "What detail do you only find out after buying something a sponsored video swore was perfect?",
     "answers": [
       {
         "text": "It breaks easily",
@@ -1702,9 +1704,10 @@
         "points": 28
       },
       {
-        "text": "It is expensive",
+        "text": "The replacement parts cost a lot",
         "aliases": [
-          "high price"
+          "expensive refills",
+          "hidden costs"
         ],
         "points": 23
       },
@@ -1723,8 +1726,9 @@
         "points": 14
       },
       {
-        "text": "It needs lots of charging",
+        "text": "The battery dies constantly",
         "aliases": [
+          "needs lots of charging",
           "short battery life"
         ],
         "points": 10
@@ -1741,7 +1745,7 @@
   {
     "id": "culture-256",
     "category": "Pop culture",
-    "prompt": "Name something about a creator's morning routine that seems impossible to copy.",
+    "prompt": "What's the most unrealistic part of a creator's \"productive before 8 a.m.\" routine?",
     "answers": [
       {
         "text": "Getting up before dawn",
@@ -1790,7 +1794,7 @@
   {
     "id": "culture-257",
     "category": "Pop culture",
-    "prompt": "Name something a creator proudly shows off during a room tour.",
+    "prompt": "Someone's filming a room tour and you know they're saving one thing for the big reveal. What is it?",
     "answers": [
       {
         "text": "A gaming setup",
@@ -1891,7 +1895,7 @@
   {
     "id": "culture-259",
     "category": "Pop culture",
-    "prompt": "Name an online trend people get tired of seeing copied.",
+    "prompt": "What has your feed been doing for a full week that you're ready to never see again?",
     "answers": [
       {
         "text": "The same trending sound",
@@ -1941,7 +1945,7 @@
   {
     "id": "culture-260",
     "category": "Pop culture",
-    "prompt": "Name a message in the group chat that deserves a dramatic reaction GIF.",
+    "prompt": "What kind of message gets a dramatic reaction GIF instead of an actual reply in your group chat?",
     "answers": [
       {
         "text": "Gossip",
@@ -2039,7 +2043,7 @@
   {
     "id": "culture-262",
     "category": "Pop culture",
-    "prompt": "Name something in an old internet video that gives away its age.",
+    "prompt": "You see a clip posted when you were a kid. What instantly dates it?",
     "answers": [
       {
         "text": "The picture quality",
@@ -2077,9 +2081,10 @@
         "points": 8
       },
       {
-        "text": "The music",
+        "text": "An old app's watermark",
         "aliases": [
-          "old song"
+          "old logo",
+          "watermark"
         ],
         "points": 6
       }
@@ -2088,7 +2093,7 @@
   {
     "id": "culture-263",
     "category": "Pop culture",
-    "prompt": "Name something you might be embarrassed to find in your old username.",
+    "prompt": "You find the account you made in middle school. What part of the username are you hiding first?",
     "answers": [
       {
         "text": "A crush's name",
@@ -2186,7 +2191,7 @@
   {
     "id": "culture-265",
     "category": "Pop culture",
-    "prompt": "Name someone who might completely misunderstand a meme you sent them.",
+    "prompt": "You send a meme to the wrong person. Who's going to ask you to explain it?",
     "answers": [
       {
         "text": "A parent",
@@ -2287,7 +2292,7 @@
   {
     "id": "culture-267",
     "category": "Pop culture",
-    "prompt": "Name something commenters demand when a story clearly has another side.",
+    "prompt": "Someone shares half a story online and the comments aren't buying it. What do they ask to see?",
     "answers": [
       {
         "text": "More context",
@@ -2434,7 +2439,7 @@
   {
     "id": "culture-270",
     "category": "Pop culture",
-    "prompt": "Name something that turns a quick video break into a lost afternoon.",
+    "prompt": "You opened your phone for a two-minute break. What kept you there until you forgot what you were doing?",
     "answers": [
       {
         "text": "The feed never ends",
@@ -2486,7 +2491,7 @@
   {
     "id": "culture-271",
     "category": "Pop culture",
-    "prompt": "Name a topic someone suddenly acts like an expert on after watching three videos.",
+    "prompt": "What topic makes someone act like they have a degree after three videos?",
     "answers": [
       {
         "text": "Fitness",
@@ -2535,7 +2540,7 @@
   {
     "id": "culture-272",
     "category": "Pop culture",
-    "prompt": "Name something you wish you could tell the person in a how-to video.",
+    "prompt": "What do you want to say to a tutorial creator when you're three minutes in and still on step zero?",
     "answers": [
       {
         "text": "Get to the point",
@@ -2584,7 +2589,7 @@
   {
     "id": "culture-273",
     "category": "Pop culture",
-    "prompt": "Name a reason someone watches a video with the sound off.",
+    "prompt": "You want to watch a video on your phone, but you keep it muted. Why?",
     "answers": [
       {
         "text": "They are in public",
@@ -2622,9 +2627,10 @@
         "points": 9
       },
       {
-        "text": "They only want the pictures",
+        "text": "Captions tell them enough",
         "aliases": [
-          "reading captions"
+          "read the captions",
+          "follow subtitles"
         ],
         "points": 6
       }
@@ -2633,7 +2639,7 @@
   {
     "id": "culture-274",
     "category": "Pop culture",
-    "prompt": "Name something that makes you abandon a video in the first ten seconds.",
+    "prompt": "What makes you swipe away before a video even gets to the point?",
     "answers": [
       {
         "text": "A loud introduction",
@@ -2780,7 +2786,7 @@
   {
     "id": "culture-277",
     "category": "Pop culture",
-    "prompt": "Name a boring activity you unexpectedly enjoy watching someone else do.",
+    "prompt": "What boring task somehow becomes watchable when somebody films themselves doing it really well?",
     "answers": [
       {
         "text": "Pressure washing",
@@ -2831,7 +2837,7 @@
   {
     "id": "culture-278",
     "category": "Pop culture",
-    "prompt": "Name a kind of video that makes you say, 'Just one more.'",
+    "prompt": "What kind of video keeps you saying \"one more\" when you should've put your phone down?",
     "answers": [
       {
         "text": "Funny animals",
@@ -2930,7 +2936,7 @@
   {
     "id": "culture-280",
     "category": "Pop culture",
-    "prompt": "Name something you would hate your parents to see in your public comment history.",
+    "prompt": "Your parents find your public account and scroll through your comments. What are you scared they'll see?",
     "answers": [
       {
         "text": "Swearing",
@@ -3028,7 +3034,7 @@
   {
     "id": "culture-282",
     "category": "Pop culture",
-    "prompt": "Name something a person might change after their crush starts following them.",
+    "prompt": "Your crush just followed your account. What's the first thing you change on your profile?",
     "answers": [
       {
         "text": "Profile picture",
@@ -3177,7 +3183,7 @@
   {
     "id": "culture-285",
     "category": "Pop culture",
-    "prompt": "Name something you wish had a mute button in real life.",
+    "prompt": "If real life had a mute button like your feed, what are you muting first?",
     "answers": [
       {
         "text": "Loud chewing",
@@ -3226,7 +3232,7 @@
   {
     "id": "culture-286",
     "category": "Pop culture",
-    "prompt": "Name something a brand does online that makes people cringe.",
+    "prompt": "What makes a brand account look like it's trying way too hard in the replies?",
     "answers": [
       {
         "text": "Uses outdated slang",
@@ -3276,7 +3282,7 @@
   {
     "id": "culture-287",
     "category": "Pop culture",
-    "prompt": "Name something you would hate to be the first search result for your name.",
+    "prompt": "Someone from school looks up your name. What's the last thing you want on the first page?",
     "answers": [
       {
         "text": "A mugshot",
@@ -3307,9 +3313,10 @@
         "points": 14
       },
       {
-        "text": "A drunken video",
+        "text": "An old post you thought you deleted",
         "aliases": [
-          "drunk clip"
+          "old embarrassing post",
+          "deleted post screenshot"
         ],
         "points": 10
       },
@@ -3325,7 +3332,7 @@
   {
     "id": "culture-288",
     "category": "Pop culture",
-    "prompt": "Name a reason you would immediately leave a livestream.",
+    "prompt": "You open a livestream and leave before a minute passes. What did it for you?",
     "answers": [
       {
         "text": "Screaming",
@@ -3374,7 +3381,7 @@
   {
     "id": "culture-289",
     "category": "Pop culture",
-    "prompt": "Name something a streamer might knock over while celebrating a win.",
+    "prompt": "Your friend finally wins and jumps up on camera. What do they accidentally knock over?",
     "answers": [
       {
         "text": "A drink",
@@ -3423,7 +3430,7 @@
   {
     "id": "culture-290",
     "category": "Pop culture",
-    "prompt": "Name something chat viewers might beg a streamer to stop doing.",
+    "prompt": "What could a streamer keep doing until chat has to beg them to stop?",
     "answers": [
       {
         "text": "Shouting",
@@ -3472,7 +3479,7 @@
   {
     "id": "culture-291",
     "category": "Pop culture",
-    "prompt": "Name a reason someone watches a livestream they do not actually enjoy.",
+    "prompt": "Why would you keep a stream playing even if you're barely paying attention to it?",
     "answers": [
       {
         "text": "Boredom",
@@ -3521,7 +3528,7 @@
   {
     "id": "culture-292",
     "category": "Pop culture",
-    "prompt": "Name something that might embarrass a streamer before they realize their microphone is on.",
+    "prompt": "A streamer thinks they're muted. What could everybody hear that they wish chat missed?",
     "answers": [
       {
         "text": "Burping",
@@ -3619,7 +3626,7 @@
   {
     "id": "culture-294",
     "category": "Pop culture",
-    "prompt": "Name something viewers ask about that has nothing to do with the livestream.",
+    "prompt": "What is chat always asking a streamer about that has nothing to do with the game?",
     "answers": [
       {
         "text": "The host's relationship",
@@ -3658,9 +3665,10 @@
         "points": 8
       },
       {
-        "text": "Their hair",
+        "text": "What music they're playing",
         "aliases": [
-          "hairstyle"
+          "song name",
+          "what song is this"
         ],
         "points": 6
       }
@@ -3669,7 +3677,7 @@
   {
     "id": "culture-295",
     "category": "Pop culture",
-    "prompt": "Name something a livestream audience might be asked to vote on.",
+    "prompt": "A streamer lets chat make the next decision. What are viewers voting on?",
     "answers": [
       {
         "text": "The next game",
@@ -3767,7 +3775,7 @@
   {
     "id": "culture-297",
     "category": "Pop culture",
-    "prompt": "Name a reason you would rather watch a recording than a live broadcast.",
+    "prompt": "You skip the livestream and watch it the next day. Why is that better?",
     "answers": [
       {
         "text": "Skip advertisements",
@@ -3865,7 +3873,7 @@
   {
     "id": "culture-299",
     "category": "Pop culture",
-    "prompt": "Name something people ask a newly famous friend for.",
+    "prompt": "Your friend gets a ton of followers overnight. What's the first thing people start asking them for?",
     "answers": [
       {
         "text": "A shout-out",
@@ -3965,7 +3973,7 @@
   {
     "id": "culture-301",
     "category": "Pop culture",
-    "prompt": "Name something a creator might panic about just before going live.",
+    "prompt": "What's the last-minute problem that makes you hit \"go live\" late?",
     "answers": [
       {
         "text": "A broken microphone",
@@ -4015,7 +4023,7 @@
   {
     "id": "culture-302",
     "category": "Pop culture",
-    "prompt": "Name something a creator's family could reveal that ruins their cool image.",
+    "prompt": "A creator's sibling finds the comment section. What could they post that would ruin the creator's cool image?",
     "answers": [
       {
         "text": "A childhood nickname",
@@ -4065,7 +4073,7 @@
   {
     "id": "culture-303",
     "category": "Pop culture",
-    "prompt": "Name a reason someone says, 'Please do not tag me in that.'",
+    "prompt": "A friend posts photos from the weekend. Why might you message them, \"Please don't tag me\"?",
     "answers": [
       {
         "text": "They look bad",
@@ -4075,9 +4083,10 @@
         "points": 28
       },
       {
-        "text": "They called in sick",
+        "text": "They weren't supposed to be out",
         "aliases": [
-          "skipping work"
+          "called in sick",
+          "said they were staying home"
         ],
         "points": 23
       },
@@ -4213,7 +4222,7 @@
   {
     "id": "culture-306",
     "category": "Pop culture",
-    "prompt": "Name something you would love to see in the unedited version of a polished video.",
+    "prompt": "What would you most want to see if a creator accidentally uploaded the whole raw recording?",
     "answers": [
       {
         "text": "Bloopers",
@@ -4311,7 +4320,7 @@
   {
     "id": "culture-308",
     "category": "Pop culture",
-    "prompt": "Name something a creator might do after receiving their first nasty comment.",
+    "prompt": "You post a video and get your first mean comment. What's your first move?",
     "answers": [
       {
         "text": "Delete it",
@@ -4360,7 +4369,7 @@
   {
     "id": "culture-309",
     "category": "Pop culture",
-    "prompt": "Name something a person might do when they realize a prank video is being filmed.",
+    "prompt": "You realize the weird thing happening next to you is someone's prank video. What do you do?",
     "answers": [
       {
         "text": "Cover their face",
@@ -4409,7 +4418,7 @@
   {
     "id": "culture-310",
     "category": "Pop culture",
-    "prompt": "Name something that makes a fan realize their favorite creator is a regular person.",
+    "prompt": "You meet a creator you follow in real life. What makes them suddenly feel like a normal person?",
     "answers": [
       {
         "text": "Seeing them tired",
@@ -4440,9 +4449,10 @@
         "points": 12
       },
       {
-        "text": "Having a messy car",
+        "text": "Their car is a mess",
         "aliases": [
-          "untidy car"
+          "messy car",
+          "stuff all over their car"
         ],
         "points": 8
       },

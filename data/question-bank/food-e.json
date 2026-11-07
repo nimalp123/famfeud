@@ -2,7 +2,7 @@
   {
     "id": "food-311",
     "category": "Food & drink",
-    "prompt": "Name a food that would start an argument if someone called it overrated.",
+    "prompt": "A friend says one food is overrated and the whole table immediately argues. What did they insult?",
     "answers": [
       {
         "text": "Pizza",
@@ -27,13 +27,17 @@
         "points": 12
       },
       {
-        "text": "Oysters",
-        "aliases": [],
+        "text": "Chicken tenders",
+        "aliases": [
+          "chicken strips"
+        ],
         "points": 9
       },
       {
-        "text": "Caviar",
-        "aliases": [],
+        "text": "Chocolate",
+        "aliases": [
+          "a chocolate bar"
+        ],
         "points": 6
       }
     ]
@@ -41,7 +45,7 @@
   {
     "id": "food-312",
     "category": "Food & drink",
-    "prompt": "Name something you do when your restaurant chair makes a rude noise.",
+    "prompt": "You pull out your chair at a busy food court and it makes a noise that sounds like it came from you. What's your first move?",
     "answers": [
       {
         "text": "Blame the chair",
@@ -90,7 +94,7 @@
   {
     "id": "food-313",
     "category": "Food & drink",
-    "prompt": "Name a food adults defend by saying you haven't had it cooked properly.",
+    "prompt": "What food does a parent swear you'd like if you tried it cooked their way?",
     "answers": [
       {
         "text": "Brussels sprouts",
@@ -131,7 +135,7 @@
   {
     "id": "food-314",
     "category": "Food & drink",
-    "prompt": "Name a food combination that makes one person hungry and another person horrified.",
+    "prompt": "A friend sends the group chat a photo of their favorite food combo. Which one gets both “I want that” and “absolutely not”?",
     "answers": [
       {
         "text": "Pineapple on pizza",
@@ -172,7 +176,7 @@
   {
     "id": "food-315",
     "category": "Food & drink",
-    "prompt": "Name something people judge you for putting ketchup on.",
+    "prompt": "You ask for ketchup and one friend looks personally offended. What are you putting it on?",
     "answers": [
       {
         "text": "Steak",
@@ -332,7 +336,7 @@
   {
     "id": "food-319",
     "category": "Food & drink",
-    "prompt": "Name a food people argue should never go in the fridge.",
+    "prompt": "You open a shared fridge and spot something you insist doesn't belong in there. What is it?",
     "answers": [
       {
         "text": "Bread",
@@ -369,7 +373,7 @@
   {
     "id": "food-320",
     "category": "Food & drink",
-    "prompt": "Name a food people get serious about eating the right way.",
+    "prompt": "You're eating with friends and someone tells you there's a “right” way to eat your food. What are you eating?",
     "answers": [
       {
         "text": "Pizza",
@@ -464,7 +468,7 @@
   {
     "id": "food-322",
     "category": "Food & drink",
-    "prompt": "Name something a picky eater does before trusting a homemade smoothie.",
+    "prompt": "A friend hands you a homemade smoothie with no explanation. What do you do before trusting it?",
     "answers": [
       {
         "text": "Asks what's in it",
@@ -509,7 +513,7 @@
   {
     "id": "food-323",
     "category": "Food & drink",
-    "prompt": "Name a reason an adult refuses to try a new food.",
+    "prompt": "All your friends are trying a food you've never had. What's a reason you sit that one out?",
     "answers": [
       {
         "text": "Texture",
@@ -597,7 +601,7 @@
   {
     "id": "food-325",
     "category": "Food & drink",
-    "prompt": "Name something you might enjoy until someone tells you what it's made of.",
+    "prompt": "You were enjoying a bite until a friend told you what was in it. What food did you put down?",
     "answers": [
       {
         "text": "Hot dogs",
@@ -646,7 +650,7 @@
   {
     "id": "food-326",
     "category": "Food & drink",
-    "prompt": "Name a food that can look ugly and still taste great.",
+    "prompt": "A friend sends a photo of dinner that looks terrible. What food are you still coming over for?",
     "answers": [
       {
         "text": "Chili",
@@ -728,7 +732,7 @@
   {
     "id": "food-328",
     "category": "Food & drink",
-    "prompt": "Name a childhood favorite that was way better in your memory.",
+    "prompt": "You finally buy something you loved in elementary school. What tastes way better in your memory?",
     "answers": [
       {
         "text": "Packaged lunch kit",
@@ -820,7 +824,7 @@
   {
     "id": "food-330",
     "category": "Food & drink",
-    "prompt": "Name a food that made school lunch the best lunch of the week.",
+    "prompt": "You see the school lunch menu and immediately know which day you're getting cafeteria food. What's being served?",
     "answers": [
       {
         "text": "Pizza",
@@ -864,7 +868,7 @@
   {
     "id": "food-331",
     "category": "Food & drink",
-    "prompt": "Name something students trade at lunch.",
+    "prompt": "You've got one thing in your lunch that everyone else wants to trade for. What is it?",
     "answers": [
       {
         "text": "Chips",
@@ -911,7 +915,7 @@
   {
     "id": "food-332",
     "category": "Food & drink",
-    "prompt": "Name a childhood meal you'd still choose over a fancy dinner.",
+    "prompt": "Friends pick somewhere fancy for dinner. What comfort meal from childhood would you honestly rather eat?",
     "answers": [
       {
         "text": "Macaroni and cheese",
@@ -1002,7 +1006,7 @@
   {
     "id": "food-334",
     "category": "Food & drink",
-    "prompt": "Name a food kids insist tastes better in a fun shape.",
+    "prompt": "What food still tastes better in a silly shape, even when you're old enough to know that's not how taste works?",
     "answers": [
       {
         "text": "Pasta",
@@ -1047,7 +1051,7 @@
   {
     "id": "food-335",
     "category": "Food & drink",
-    "prompt": "Name a trick kids use to make it look like they ate their vegetables.",
+    "prompt": "A younger sibling has to prove they ate their vegetables. How do they try to fake it?",
     "answers": [
       {
         "text": "Push them around the plate",
@@ -1168,7 +1172,7 @@
   {
     "id": "food-338",
     "category": "Food & drink",
-    "prompt": "Name a food that reminds people of being home sick as a kid.",
+    "prompt": "When you were home sick from school, what food do you remember somebody bringing you?",
     "answers": [
       {
         "text": "Chicken soup",
@@ -1213,7 +1217,7 @@
   {
     "id": "food-339",
     "category": "Food & drink",
-    "prompt": "Name a food your younger self thought only rich people ate.",
+    "prompt": "What food did you think was only for rich people before you started reading the prices on menus yourself?",
     "answers": [
       {
         "text": "Lobster",
@@ -1254,7 +1258,7 @@
   {
     "id": "food-340",
     "category": "Food & drink",
-    "prompt": "Name something adults told you to make you finish dinner.",
+    "prompt": "What do you still hear a parent saying in your head when you leave food on the plate?",
     "answers": [
       {
         "text": "No dessert until you finish",
@@ -1340,7 +1344,7 @@
   {
     "id": "food-342",
     "category": "Food & drink",
-    "prompt": "Name a food children invent their own method of eating.",
+    "prompt": "What food do you still have a specific way of eating because that's how you did it as a kid?",
     "answers": [
       {
         "text": "Sandwich cookies",
@@ -1381,7 +1385,7 @@
   {
     "id": "food-343",
     "category": "Food & drink",
-    "prompt": "Name a reason the same food can taste better on vacation.",
+    "prompt": "You get the same food on a trip with friends that you could get back home. Why does it somehow taste better there?",
     "answers": [
       {
         "text": "You're relaxed",
@@ -1597,7 +1601,7 @@
   {
     "id": "food-348",
     "category": "Food & drink",
-    "prompt": "Name something people claim they can taste even when nobody else notices it.",
+    "prompt": "A friend tells you you're imagining the difference. What taste do you swear you can pick out anyway?",
     "answers": [
       {
         "text": "Tap water",
@@ -1849,7 +1853,7 @@
   {
     "id": "food-354",
     "category": "Food & drink",
-    "prompt": "Name a food with a smell strong enough to divide the whole room.",
+    "prompt": "You open a food container around friends and get wildly different reactions to the smell. What's in it?",
     "answers": [
       {
         "text": "Fish",
@@ -1890,7 +1894,7 @@
   {
     "id": "food-355",
     "category": "Food & drink",
-    "prompt": "Name something people do when someone opens smelly food nearby.",
+    "prompt": "Someone opens a strong-smelling lunch in a quiet room. What does the person sitting closest do?",
     "answers": [
       {
         "text": "Open a window",
@@ -1931,7 +1935,7 @@
   {
     "id": "food-356",
     "category": "Food & drink",
-    "prompt": "Name something people say when they dislike food but want to be polite.",
+    "prompt": "Someone made you food and is standing there waiting for your reaction. What do you say if you don't like it?",
     "answers": [
       {
         "text": "It's interesting",
@@ -1974,7 +1978,7 @@
   {
     "id": "food-357",
     "category": "Food & drink",
-    "prompt": "Name a food people sometimes pretend to enjoy to seem sophisticated.",
+    "prompt": "You're trying to seem like you have fancy taste. What food or drink are you pretending to love?",
     "answers": [
       {
         "text": "Oysters",
@@ -2052,7 +2056,7 @@
   {
     "id": "food-359",
     "category": "Food & drink",
-    "prompt": "Name something that tastes strange right after you brush your teeth.",
+    "prompt": "You just brushed your teeth and someone offers you a bite or a sip. What's about to taste wrong?",
     "answers": [
       {
         "text": "Orange juice",
@@ -2218,7 +2222,7 @@
   {
     "id": "food-363",
     "category": "Food & drink",
-    "prompt": "Name a food people argue counts as dinner even though it seems like a snack.",
+    "prompt": "Your friend asks what's for dinner and refuses to accept your answer. What are you trying to pass off as a meal?",
     "answers": [
       {
         "text": "Cereal",
@@ -2259,7 +2263,7 @@
   {
     "id": "food-364",
     "category": "Food & drink",
-    "prompt": "Name a food someone always claims is better in their hometown.",
+    "prompt": "Your friend swears one food is better where they grew up. What do they insist you try in their hometown?",
     "answers": [
       {
         "text": "Pizza",
@@ -2341,7 +2345,7 @@
   {
     "id": "food-366",
     "category": "Food & drink",
-    "prompt": "Name a food people argue is worth paying extra for.",
+    "prompt": "You usually get the cheapest option. What food or drink are you willing to spend extra on because you can tell the difference?",
     "answers": [
       {
         "text": "Coffee",
@@ -2546,7 +2550,7 @@
   {
     "id": "food-371",
     "category": "Food & drink",
-    "prompt": "If you could make one food calorie-free, what would you choose?",
+    "prompt": "If your group could get one food for free every time you go out, what would you vote for?",
     "answers": [
       {
         "text": "Pizza",
@@ -2628,7 +2632,7 @@
   {
     "id": "food-373",
     "category": "Food & drink",
-    "prompt": "Name a food you'd be disappointed to learn a future partner hated.",
+    "prompt": "You and your crush are talking about food. What do they hate that makes you question your taste in people?",
     "answers": [
       {
         "text": "Pizza",
@@ -2704,7 +2708,7 @@
   {
     "id": "food-375",
     "category": "Food & drink",
-    "prompt": "Name a food people say they could live on, then get tired of in a week.",
+    "prompt": "A friend says they could eat the same thing all week, then gets tired of it by Thursday. What did they pick?",
     "answers": [
       {
         "text": "Pizza",
@@ -2741,7 +2745,7 @@
   {
     "id": "food-376",
     "category": "Food & drink",
-    "prompt": "Name a food you would refuse to eat even to impress someone.",
+    "prompt": "Someone you like offers you a bite of something and even that can't convince you. What food are you turning down?",
     "answers": [
       {
         "text": "Oysters",
@@ -2784,7 +2788,7 @@
   {
     "id": "food-377",
     "category": "Food & drink",
-    "prompt": "Name a food someone might insist is still worth eating after it falls on the floor.",
+    "prompt": "Your snack falls to the floor and a friend invokes the five-second rule. What food are they trying to save?",
     "answers": [
       {
         "text": "Cookie",
@@ -2885,7 +2889,7 @@
   {
     "id": "food-379",
     "category": "Food & drink",
-    "prompt": "Name a food people avoid because it gets stuck in their teeth.",
+    "prompt": "You're headed back to class or work right after lunch. What food do you skip so it won't be stuck in your teeth all afternoon?",
     "answers": [
       {
         "text": "Popcorn",
@@ -2928,7 +2932,7 @@
   {
     "id": "food-380",
     "category": "Food & drink",
-    "prompt": "Name a food people love at home but feel awkward eating in public.",
+    "prompt": "You're grabbing food with someone you want to impress. What normally great meal is too awkward to eat in front of them?",
     "answers": [
       {
         "text": "Chicken wings",
@@ -2975,7 +2979,7 @@
   {
     "id": "food-381",
     "category": "Food & drink",
-    "prompt": "Name a food people keep giving another chance even though it disappoints them.",
+    "prompt": "Your feed keeps making a food look amazing and it disappoints you every time. What do you keep giving another chance?",
     "answers": [
       {
         "text": "Protein bars",
@@ -3061,7 +3065,7 @@
   {
     "id": "food-383",
     "category": "Food & drink",
-    "prompt": "Name an excuse someone might use instead of admitting the food is too spicy.",
+    "prompt": "You overestimated how much heat you could handle and everyone's watching. What excuse do you give instead of admitting it's too spicy?",
     "answers": [
       {
         "text": "I'm full",
@@ -3109,7 +3113,7 @@
   {
     "id": "food-384",
     "category": "Food & drink",
-    "prompt": "Name a sign someone took a much spicier bite than they expected.",
+    "prompt": "A friend claims the spicy bite was fine. What's the first sign they're lying?",
     "answers": [
       {
         "text": "Sweating",
@@ -3152,7 +3156,7 @@
   {
     "id": "food-385",
     "category": "Food & drink",
-    "prompt": "Name a food people argue about making the authentic way.",
+    "prompt": "Your friend posts their homemade food and gets comments explaining the “right” way to make it. What did they cook?",
     "answers": [
       {
         "text": "Pizza",
@@ -3234,7 +3238,7 @@
   {
     "id": "food-387",
     "category": "Food & drink",
-    "prompt": "Name something people add to coffee that makes a coffee purist complain.",
+    "prompt": "Your friend says that's barely coffee anymore. What did you put in your cup?",
     "answers": [
       {
         "text": "Flavored syrup",
@@ -3279,7 +3283,7 @@
   {
     "id": "food-388",
     "category": "Food & drink",
-    "prompt": "Name something someone might say after enjoying a food they swore they hated.",
+    "prompt": "Someone gets you to try a food you've spent years hating and it's actually good. What's the first thing you say?",
     "answers": [
       {
         "text": "That's actually good",
@@ -3322,7 +3326,7 @@
   {
     "id": "food-389",
     "category": "Food & drink",
-    "prompt": "Name a food that might make two people choose separate dinners.",
+    "prompt": "You're ordering dinner with a friend. What food could make you give up on sharing an order and get two different meals?",
     "answers": [
       {
         "text": "Sushi",
@@ -3365,7 +3369,7 @@
   {
     "id": "food-390",
     "category": "Food & drink",
-    "prompt": "Name a food people are tired of explaining they don't like.",
+    "prompt": "You tell your friends you don't like something and have to explain yourself every single time. What food is it?",
     "answers": [
       {
         "text": "Avocado",
@@ -3478,7 +3482,7 @@
   {
     "id": "food-393",
     "category": "Food & drink",
-    "prompt": "Name a food people love fresh but won't touch as leftovers.",
+    "prompt": "You take leftovers home because the meal was good. What food still doesn't seem worth touching the next day?",
     "answers": [
       {
         "text": "Salad",
@@ -3554,7 +3558,7 @@
   {
     "id": "food-395",
     "category": "Food & drink",
-    "prompt": "Name a reason someone wants every food on their plate kept separate.",
+    "prompt": "Everybody else is mixing dinner together and you're doing everything you can to keep yours separate. Why?",
     "answers": [
       {
         "text": "Hates mixing flavors",
@@ -3642,7 +3646,7 @@
   {
     "id": "food-397",
     "category": "Food & drink",
-    "prompt": "Name a food people enjoy more for the sauce than for the food itself.",
+    "prompt": "Your friend orders extra sauce and admits it's the main reason they got the meal. What did they order?",
     "answers": [
       {
         "text": "Chicken wings",
@@ -3731,7 +3735,7 @@
   {
     "id": "food-399",
     "category": "Food & drink",
-    "prompt": "Name something people say when challenged to eat a food they hate.",
+    "prompt": "Your friends dare you to eat the one food they know you hate. What do you say before you'll even consider it?",
     "answers": [
       {
         "text": "How much will you pay me",

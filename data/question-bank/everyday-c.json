@@ -2,7 +2,7 @@
   {
     "id": "everyday-131",
     "category": "Everyday life",
-    "prompt": "Name something students do the second a teacher steps out of the room.",
+    "prompt": "The teacher steps into the hallway and leaves the class alone. What does everyone start doing?",
     "answers": [
       {
         "text": "Check their phone",
@@ -52,7 +52,7 @@
   {
     "id": "everyday-132",
     "category": "Everyday life",
-    "prompt": "Name a moment when a student really hopes the teacher doesn't call their name.",
+    "prompt": "A teacher is picking someone to answer. Why are you suddenly trying to look invisible?",
     "answers": [
       {
         "text": "Didn't study",
@@ -101,7 +101,7 @@
   {
     "id": "everyday-133",
     "category": "Everyday life",
-    "prompt": "Name something a kid secretly hopes will be interrupted by a fire drill.",
+    "prompt": "Name something at school you'd happily let a fire drill interrupt.",
     "answers": [
       {
         "text": "A test",
@@ -199,7 +199,7 @@
   {
     "id": "everyday-135",
     "category": "Everyday life",
-    "prompt": "Name an excuse a bored student uses to leave the classroom.",
+    "prompt": "You're bored in class and need an excuse to go to the hallway. What do you say?",
     "answers": [
       {
         "text": "Use the bathroom",
@@ -248,7 +248,7 @@
   {
     "id": "everyday-136",
     "category": "Everyday life",
-    "prompt": "Name something a student frantically searches for right before a test starts.",
+    "prompt": "Everyone's sitting down for the test. What's the thing you suddenly can't find in your bag?",
     "answers": [
       {
         "text": "Pencil",
@@ -297,7 +297,7 @@
   {
     "id": "everyday-137",
     "category": "Everyday life",
-    "prompt": "Name an announcement from a teacher that makes the whole class groan.",
+    "prompt": "What can a teacher announce that gets an instant groan from the whole class?",
     "answers": [
       {
         "text": "Pop quiz",
@@ -346,7 +346,7 @@
   {
     "id": "everyday-138",
     "category": "Everyday life",
-    "prompt": "Name a seat in a classroom that students fight to get.",
+    "prompt": "It's the first day and you can choose your seat. Which spot are you claiming?",
     "answers": [
       {
         "text": "Next to a friend",
@@ -444,7 +444,7 @@
   {
     "id": "everyday-140",
     "category": "Everyday life",
-    "prompt": "Name an excuse a student gives for doing absolutely no homework all weekend.",
+    "prompt": "You got to school on Monday with no homework done. What excuse are you trying first?",
     "answers": [
       {
         "text": "Forgot about it",
@@ -494,7 +494,7 @@
   {
     "id": "everyday-141",
     "category": "Everyday life",
-    "prompt": "Name something a student does after realizing a big project is due tomorrow.",
+    "prompt": "It's late and you just checked the due date on a big project. It's tomorrow. What do you do first?",
     "answers": [
       {
         "text": "Messages their partner",
@@ -544,7 +544,7 @@
   {
     "id": "everyday-142",
     "category": "Everyday life",
-    "prompt": "Name something students desperately want to know about a substitute teacher.",
+    "prompt": "You just found out there's a substitute today. What does your class want to know?",
     "answers": [
       {
         "text": "Can we use phones",
@@ -593,7 +593,7 @@
   {
     "id": "everyday-143",
     "category": "Everyday life",
-    "prompt": "Name something a parent finds in a backpack that should have come out months ago.",
+    "prompt": "You finally empty the backpack you've been using all semester. What should've come out months ago?",
     "answers": [
       {
         "text": "Old food",
@@ -642,7 +642,7 @@
   {
     "id": "everyday-144",
     "category": "Everyday life",
-    "prompt": "Name something a classroom pet could do that is more interesting than the lesson.",
+    "prompt": "Name something a classroom pet could do that would make everybody stop paying attention to the lesson.",
     "answers": [
       {
         "text": "Escape",
@@ -691,7 +691,7 @@
   {
     "id": "everyday-145",
     "category": "Everyday life",
-    "prompt": "Name something students compete over even when the teacher isn't keeping score.",
+    "prompt": "Name something classmates compare to see how they measure up.",
     "answers": [
       {
         "text": "Grades",
@@ -790,7 +790,7 @@
   {
     "id": "everyday-147",
     "category": "Everyday life",
-    "prompt": "Name something that would make students actually excited about a school assembly.",
+    "prompt": "An assembly is replacing part of the school day. What would actually get you excited about it?",
     "answers": [
       {
         "text": "Early dismissal",
@@ -840,7 +840,7 @@
   {
     "id": "everyday-148",
     "category": "Everyday life",
-    "prompt": "Name something that can make a long field-trip bus ride feel much shorter.",
+    "prompt": "Your whole class is stuck on a long bus ride. What makes the trip feel shorter?",
     "answers": [
       {
         "text": "Sitting with friends",
@@ -889,7 +889,7 @@
   {
     "id": "everyday-149",
     "category": "Everyday life",
-    "prompt": "Name something you learned in school that you still mess up as an adult.",
+    "prompt": "Name something you learned in school that you still get wrong when it comes up in real life.",
     "answers": [
       {
         "text": "Math",
@@ -938,7 +938,7 @@
   {
     "id": "everyday-150",
     "category": "Everyday life",
-    "prompt": "Name something a teacher could confiscate that would ruin a student's day.",
+    "prompt": "Name something that ruins your school day if the teacher takes it and says you'll get it back at the bell.",
     "answers": [
       {
         "text": "Phone",
@@ -988,7 +988,7 @@
   {
     "id": "everyday-151",
     "category": "Everyday life",
-    "prompt": "Name a part of school life you wish came with an adult job.",
+    "prompt": "Name a perk from your school schedule you'd bring with you to your first full-time job.",
     "answers": [
       {
         "text": "Summer vacation",
@@ -1087,7 +1087,7 @@
   {
     "id": "everyday-153",
     "category": "Everyday life",
-    "prompt": "Name something in a packed school lunch that a kid might try to trade away.",
+    "prompt": "Name something in the lunch you packed that you'd try to trade away as soon as you sit down.",
     "answers": [
       {
         "text": "Sandwich",
@@ -1185,7 +1185,7 @@
   {
     "id": "everyday-155",
     "category": "Everyday life",
-    "prompt": "Name an excuse the group-project freeloader gives when asked what they've done.",
+    "prompt": "The group-project chat checks in and one person hasn't done anything. What's their excuse?",
     "answers": [
       {
         "text": "Too busy",
@@ -1234,7 +1234,7 @@
   {
     "id": "everyday-156",
     "category": "Everyday life",
-    "prompt": "Name something that can turn group-project partners into enemies.",
+    "prompt": "Name something that turns a peaceful group project into a fight in the shared doc or group chat.",
     "answers": [
       {
         "text": "Doing no work",
@@ -1283,7 +1283,7 @@
   {
     "id": "everyday-157",
     "category": "Everyday life",
-    "prompt": "Name something a kid does to make a fake sick day look convincing.",
+    "prompt": "You're trying to convince everyone you're too sick to go to school. What do you do?",
     "answers": [
       {
         "text": "Holds their stomach",
@@ -1381,7 +1381,7 @@
   {
     "id": "everyday-159",
     "category": "Everyday life",
-    "prompt": "Name something a college student does too much of after moving away from home.",
+    "prompt": "You just moved out for college. Name something your newfound freedom lets you do a little too much.",
     "answers": [
       {
         "text": "Stays up late",
@@ -1430,7 +1430,7 @@
   {
     "id": "everyday-160",
     "category": "Everyday life",
-    "prompt": "Name something that could go wrong during your big graduation moment.",
+    "prompt": "You're about to walk across the stage at graduation. What's the mishap you're picturing?",
     "answers": [
       {
         "text": "Trip on stage",
@@ -1479,7 +1479,7 @@
   {
     "id": "everyday-161",
     "category": "Everyday life",
-    "prompt": "Name something you quickly hide when your boss walks over at work.",
+    "prompt": "You're on a slow shift and the boss walks over. What do you hide before they see it?",
     "answers": [
       {
         "text": "Phone",
@@ -1579,7 +1579,7 @@
   {
     "id": "everyday-163",
     "category": "Everyday life",
-    "prompt": "Name something you do in a class or meeting that should have been an email.",
+    "prompt": "You're stuck in a class or meeting that should have been an email. How do you pass the time?",
     "answers": [
       {
         "text": "Check their phone",
@@ -1628,7 +1628,7 @@
   {
     "id": "everyday-164",
     "category": "Everyday life",
-    "prompt": "Name something coworkers might hear when you think your microphone is muted.",
+    "prompt": "What could everyone hear on a class or work call because you thought your mic was muted?",
     "answers": [
       {
         "text": "A complaint about the boss",
@@ -1677,7 +1677,7 @@
   {
     "id": "everyday-165",
     "category": "Everyday life",
-    "prompt": "Name something someone might secretly do during a camera-off class or work call.",
+    "prompt": "You're on a call with the camera off. What are you doing that you'd never do with it on?",
     "answers": [
       {
         "text": "Eat",
@@ -1726,7 +1726,7 @@
   {
     "id": "everyday-166",
     "category": "Everyday life",
-    "prompt": "Name something a new employee nods along to without understanding a word.",
+    "prompt": "It's your first shift and the person training you is moving way too fast. What do you pretend to understand?",
     "answers": [
       {
         "text": "Company acronyms",
@@ -1775,7 +1775,7 @@
   {
     "id": "everyday-167",
     "category": "Everyday life",
-    "prompt": "Name something you'd do if work unexpectedly ended two hours early.",
+    "prompt": "Your manager says you can clock out two hours early. What's your first move?",
     "answers": [
       {
         "text": "See friends",
@@ -1826,7 +1826,7 @@
   {
     "id": "everyday-168",
     "category": "Everyday life",
-    "prompt": "Name a place an employee disappears to when avoiding a boring task.",
+    "prompt": "Name somewhere a coworker goes to make themselves unavailable when the most boring task comes up.",
     "answers": [
       {
         "text": "Bathroom",
@@ -1875,7 +1875,7 @@
   {
     "id": "everyday-169",
     "category": "Everyday life",
-    "prompt": "Name something coworkers race to claim when it is up for grabs at work.",
+    "prompt": "Name something coworkers will race to claim when it goes up for grabs on a shift.",
     "answers": [
       {
         "text": "Food",
@@ -1924,7 +1924,7 @@
   {
     "id": "everyday-170",
     "category": "Everyday life",
-    "prompt": "Name something that can make an office birthday celebration awkward.",
+    "prompt": "Someone at work decides the whole shift should stop for a birthday. What makes it awkward?",
     "answers": [
       {
         "text": "Wrong name on the cake",
@@ -1973,7 +1973,7 @@
   {
     "id": "everyday-171",
     "category": "Everyday life",
-    "prompt": "Name an office kitchen habit that could turn coworkers into enemies.",
+    "prompt": "Name something you can do in the break room that makes your coworkers immediately dislike you.",
     "answers": [
       {
         "text": "Stealing lunch",
@@ -2022,7 +2022,7 @@
   {
     "id": "everyday-172",
     "category": "Everyday life",
-    "prompt": "Name something a new employee might accidentally do on their first day.",
+    "prompt": "Name a mistake someone might make before their very first shift is even over.",
     "answers": [
       {
         "text": "Get lost",
@@ -2072,7 +2072,7 @@
   {
     "id": "everyday-173",
     "category": "Everyday life",
-    "prompt": "Name something people miss about an old job even after a dramatic resignation.",
+    "prompt": "You finally quit the job you used to complain about. What do you end up missing?",
     "answers": [
       {
         "text": "Coworkers",
@@ -2121,7 +2121,7 @@
   {
     "id": "everyday-174",
     "category": "Everyday life",
-    "prompt": "Name something an employee hopes their boss has completely forgotten about.",
+    "prompt": "Name something you're hoping your manager forgot before they walk over to talk to you.",
     "answers": [
       {
         "text": "A deadline",
@@ -2170,7 +2170,7 @@
   {
     "id": "everyday-175",
     "category": "Everyday life",
-    "prompt": "Name something people blame when they miss a work deadline.",
+    "prompt": "You just missed a deadline for class or work. What do you blame?",
     "answers": [
       {
         "text": "Computer trouble",
@@ -2219,7 +2219,7 @@
   {
     "id": "everyday-176",
     "category": "Everyday life",
-    "prompt": "Name a work email mistake that makes you wish you could disappear.",
+    "prompt": "Name an email mistake that makes you immediately wish you could unsend it.",
     "answers": [
       {
         "text": "Replying to everyone",
@@ -2268,7 +2268,7 @@
   {
     "id": "everyday-177",
     "category": "Everyday life",
-    "prompt": "Name a message from your boss that instantly ruins your mood.",
+    "prompt": "You've just checked your messages on a day off. What text from your manager ruins the mood?",
     "answers": [
       {
         "text": "Can you cover a shift?",
@@ -2319,7 +2319,7 @@
   {
     "id": "everyday-178",
     "category": "Everyday life",
-    "prompt": "Name something coworkers borrow and conveniently forget to give back.",
+    "prompt": "Name something a coworker borrows during a shift and somehow walks out with.",
     "answers": [
       {
         "text": "Charger",
@@ -2417,7 +2417,7 @@
   {
     "id": "everyday-180",
     "category": "Everyday life",
-    "prompt": "Name something people pretend to enjoy at work.",
+    "prompt": "Name something you pretend to enjoy at your first job just to get through it.",
     "answers": [
       {
         "text": "Team building",
@@ -2466,7 +2466,7 @@
   {
     "id": "everyday-181",
     "category": "Everyday life",
-    "prompt": "Name something that makes a worker start counting down to Friday on Monday morning.",
+    "prompt": "You've barely clocked in and you're already counting the hours until your next day off. What makes work drag?",
     "answers": [
       {
         "text": "An awful boss",
@@ -2515,7 +2515,7 @@
   {
     "id": "everyday-182",
     "category": "Everyday life",
-    "prompt": "Name something an employee might do only because the rest of the office does it.",
+    "prompt": "Name something you do at work just because every other person on the shift does it.",
     "answers": [
       {
         "text": "Stay late",
@@ -2564,7 +2564,7 @@
   {
     "id": "everyday-183",
     "category": "Everyday life",
-    "prompt": "Name something people spend their very first paycheck on.",
+    "prompt": "Your first paycheck hits. What's the first thing you do with the money?",
     "answers": [
       {
         "text": "Clothes",
@@ -2613,7 +2613,7 @@
   {
     "id": "everyday-184",
     "category": "Everyday life",
-    "prompt": "Name something at home that distracts you when you try to get work done.",
+    "prompt": "You're trying to do work or study at home. What wins the battle for your attention?",
     "answers": [
       {
         "text": "Phone",
@@ -2712,7 +2712,7 @@
   {
     "id": "everyday-186",
     "category": "Everyday life",
-    "prompt": "Name something coworkers argue about that seems too small to argue about.",
+    "prompt": "Name something coworkers argue over that shouldn't even take up a minute of the shift.",
     "answers": [
       {
         "text": "Temperature",
@@ -2761,7 +2761,7 @@
   {
     "id": "everyday-187",
     "category": "Everyday life",
-    "prompt": "Name something you don't want your boss to see in your browser history.",
+    "prompt": "Name something on a work computer you wouldn't want the manager to see when they walk past.",
     "answers": [
       {
         "text": "Job listings",
@@ -2810,7 +2810,7 @@
   {
     "id": "everyday-188",
     "category": "Everyday life",
-    "prompt": "Name something a new coworker does that makes you think, 'This could be a long year.'",
+    "prompt": "Name something a new coworker does on day one that makes you think this is going to be a long year.",
     "answers": [
       {
         "text": "Arrives late",
@@ -2859,7 +2859,7 @@
   {
     "id": "everyday-189",
     "category": "Everyday life",
-    "prompt": "Name a topic that spreads around an office faster than official company news.",
+    "prompt": "Name news your coworkers hear from each other way before they hear it from the manager.",
     "answers": [
       {
         "text": "Someone quitting",
@@ -2958,7 +2958,7 @@
   {
     "id": "everyday-191",
     "category": "Everyday life",
-    "prompt": "Name a job you thought sounded cooler before you learned what it actually involves.",
+    "prompt": "Name a job that sounded cool when you were younger until you found out what you actually have to do.",
     "answers": [
       {
         "text": "Doctor",
@@ -3056,7 +3056,7 @@
   {
     "id": "everyday-193",
     "category": "Everyday life",
-    "prompt": "Name something that makes working the night shift especially tough.",
+    "prompt": "Name something that makes getting scheduled for the late shift worse than you expected.",
     "answers": [
       {
         "text": "Staying awake",
@@ -3155,33 +3155,37 @@
   {
     "id": "everyday-195",
     "category": "Everyday life",
-    "prompt": "Name a worker you're especially nice to when you desperately need a favor.",
+    "prompt": "Name someone you're especially polite to when you need them to make an exception for you.",
     "answers": [
       {
-        "text": "Receptionist",
+        "text": "Teacher",
         "aliases": [
-          "front desk"
+          "professor",
+          "instructor"
         ],
         "points": 31
       },
       {
-        "text": "Server",
+        "text": "Manager",
         "aliases": [
-          "waiter"
+          "boss",
+          "supervisor"
         ],
         "points": 24
       },
       {
-        "text": "IT support",
+        "text": "Parent",
         "aliases": [
-          "help desk"
+          "mom",
+          "dad",
+          "guardian"
         ],
         "points": 17
       },
       {
-        "text": "Mechanic",
+        "text": "Coach",
         "aliases": [
-          "car mechanic"
+          "team coach"
         ],
         "points": 13
       },
@@ -3193,9 +3197,10 @@
         "points": 9
       },
       {
-        "text": "Boss's assistant",
+        "text": "Server",
         "aliases": [
-          "personal assistant"
+          "waiter",
+          "waitress"
         ],
         "points": 6
       }
@@ -3204,7 +3209,7 @@
   {
     "id": "everyday-196",
     "category": "Everyday life",
-    "prompt": "Name something in a job ad that makes you suspect there's a catch.",
+    "prompt": "You're scrolling job listings. What makes you think the job has a catch?",
     "answers": [
       {
         "text": "No salary listed",
@@ -3302,7 +3307,7 @@
   {
     "id": "everyday-198",
     "category": "Everyday life",
-    "prompt": "Name something adults secretly look up instructions for because it seems too basic to ask.",
+    "prompt": "Name a basic grown-up task you'd look up instead of admitting you don't know how to do it.",
     "answers": [
       {
         "text": "Laundry",
@@ -3352,7 +3357,7 @@
   {
     "id": "everyday-199",
     "category": "Everyday life",
-    "prompt": "Name a grown-up purchase that makes you miss spending money on fun stuff.",
+    "prompt": "Name an ordinary thing you have to pay for that makes you miss spending money on fun stuff.",
     "answers": [
       {
         "text": "Groceries",
@@ -3695,7 +3700,7 @@
   {
     "id": "everyday-206",
     "category": "Everyday life",
-    "prompt": "Name something a new employee is afraid to admit they still don't know.",
+    "prompt": "You've already worked a couple of shifts and you're too embarrassed to ask. What do you still not know?",
     "answers": [
       {
         "text": "The boss's name",
@@ -3842,7 +3847,7 @@
   {
     "id": "everyday-209",
     "category": "Everyday life",
-    "prompt": "Name something a teacher probably needs after spending a day with your old class.",
+    "prompt": "Name something your teacher probably needs after a full day with your class.",
     "answers": [
       {
         "text": "A nap",
@@ -3891,7 +3896,7 @@
   {
     "id": "everyday-210",
     "category": "Everyday life",
-    "prompt": "Name a class an adult might sign up for mostly to meet people.",
+    "prompt": "You just moved or started somewhere new. What kind of class might you sign up for to meet people?",
     "answers": [
       {
         "text": "Dance",
@@ -4185,7 +4190,7 @@
   {
     "id": "everyday-216",
     "category": "Everyday life",
-    "prompt": "Name something people wish came with a practice round.",
+    "prompt": "Name a real-life first you wish you could do once for practice before it counts.",
     "answers": [
       {
         "text": "Job interview",
@@ -4235,7 +4240,7 @@
   {
     "id": "everyday-217",
     "category": "Everyday life",
-    "prompt": "Name something people wish they could put on a resume and get paid for.",
+    "prompt": "Name something you're weirdly good at that you wish you could put on a resume.",
     "answers": [
       {
         "text": "Napping",
@@ -4284,7 +4289,7 @@
   {
     "id": "everyday-218",
     "category": "Everyday life",
-    "prompt": "Name something an adult dreads checking after ignoring it for a week.",
+    "prompt": "You've avoided checking it for a week because you know it's going to be bad. What is it?",
     "answers": [
       {
         "text": "Bank balance",
@@ -4382,7 +4387,7 @@
   {
     "id": "everyday-220",
     "category": "Everyday life",
-    "prompt": "Name something that can make a confident speaker forget every word.",
+    "prompt": "You're giving a presentation and know it by heart. What makes your mind go blank anyway?",
     "answers": [
       {
         "text": "Microphone failure",

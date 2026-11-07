@@ -2,7 +2,7 @@
   {
     "id": "culture-311",
     "category": "Pop culture",
-    "prompt": "If you could borrow one superpower for school or a work shift, which would you choose?",
+    "prompt": "You can borrow one superpower for finals week or a double shift. What are you picking?",
     "answers": [
       {
         "text": "Teleport",
@@ -52,7 +52,7 @@
   {
     "id": "culture-312",
     "category": "Pop culture",
-    "prompt": "Name something an invisible person would be tempted to do.",
+    "prompt": "You're invisible for the afternoon. What's the first thing your friends dare you to do?",
     "answers": [
       {
         "text": "Eavesdrop",
@@ -83,9 +83,10 @@
         "points": 13
       },
       {
-        "text": "Skip a queue",
+        "text": "Skip a line",
         "aliases": [
-          "cut in line"
+          "cut in line",
+          "skip a queue"
         ],
         "points": 8
       },
@@ -101,7 +102,7 @@
   {
     "id": "culture-313",
     "category": "Pop culture",
-    "prompt": "What might give away your secret identity as a superhero?",
+    "prompt": "You're secretly a superhero. What detail in a post or in real life would make your friends figure it out?",
     "answers": [
       {
         "text": "Someone sees your costume",
@@ -152,7 +153,7 @@
   {
     "id": "culture-314",
     "category": "Pop culture",
-    "prompt": "If superheroes shared an apartment, what would they argue about?",
+    "prompt": "You share an apartment with a superhero. What keeps starting fights in the roommate chat?",
     "answers": [
       {
         "text": "Cleaning",
@@ -250,7 +251,7 @@
   {
     "id": "culture-316",
     "category": "Pop culture",
-    "prompt": "Name something a superhero's parent might still nag them about.",
+    "prompt": "You save the city after school and still get a lecture at home. What are your parents on you about?",
     "answers": [
       {
         "text": "Getting enough sleep",
@@ -399,7 +400,7 @@
   {
     "id": "culture-319",
     "category": "Pop culture",
-    "prompt": "What would a superhero look forward to on a day off?",
+    "prompt": "You spent all week saving people and finally get a Saturday off. What do you want to do?",
     "answers": [
       {
         "text": "Sleeping in",
@@ -448,7 +449,7 @@
   {
     "id": "culture-320",
     "category": "Pop culture",
-    "prompt": "What would annoy you about living next door to a superhero?",
+    "prompt": "Why would having a superhero as the neighbor on the other side of your wall actually get old?",
     "answers": [
       {
         "text": "Noise",
@@ -458,8 +459,9 @@
         "points": 30
       },
       {
-        "text": "Damage to your house",
+        "text": "Damage to your place",
         "aliases": [
+          "damage to your house",
           "property damage"
         ],
         "points": 25
@@ -479,9 +481,10 @@
         "points": 13
       },
       {
-        "text": "Blocked parking",
+        "text": "People camp outside for selfies",
         "aliases": [
-          "vehicles everywhere"
+          "fans in the way",
+          "blocked parking"
         ],
         "points": 8
       },
@@ -497,7 +500,7 @@
   {
     "id": "culture-321",
     "category": "Pop culture",
-    "prompt": "If you could make one clone of yourself, what job would you give it?",
+    "prompt": "You get a clone for one weekday. What are you sending it to do for you?",
     "answers": [
       {
         "text": "Go to class",
@@ -548,7 +551,7 @@
   {
     "id": "culture-322",
     "category": "Pop culture",
-    "prompt": "What would you be afraid a mind reader would discover about you?",
+    "prompt": "If the person sitting next to you could read your mind right now, what would you hate them to find out?",
     "answers": [
       {
         "text": "Your crush",
@@ -646,7 +649,7 @@
   {
     "id": "culture-324",
     "category": "Pop culture",
-    "prompt": "Name something you would hate to let a robot choose for you.",
+    "prompt": "An app offers to make one decision for you and you can't override it. What are you never letting it pick?",
     "answers": [
       {
         "text": "A partner",
@@ -697,7 +700,7 @@
   {
     "id": "culture-325",
     "category": "Pop culture",
-    "prompt": "If you could undo one decision by time traveling, what might you change?",
+    "prompt": "You get one redo from the last year. Which decision are you changing?",
     "answers": [
       {
         "text": "A relationship",
@@ -750,7 +753,7 @@
   {
     "id": "culture-326",
     "category": "Pop culture",
-    "prompt": "If you could fly, what would friends keep asking you to do?",
+    "prompt": "You can fly and your group chat finds out. What favor do people immediately start asking for?",
     "answers": [
       {
         "text": "Give them a lift",
@@ -850,7 +853,7 @@
   {
     "id": "culture-328",
     "category": "Pop culture",
-    "prompt": "Name a place where super hearing would be miserable.",
+    "prompt": "You wake up with super hearing. Where are you putting in earplugs as soon as you get there?",
     "answers": [
       {
         "text": "A concert",
@@ -867,16 +870,18 @@
         "points": 25
       },
       {
-        "text": "A nursery",
+        "text": "A school cafeteria",
         "aliases": [
-          "room full of babies"
+          "cafeteria",
+          "lunchroom"
         ],
         "points": 18
       },
       {
-        "text": "A busy station",
+        "text": "A busy train station",
         "aliases": [
-          "train station"
+          "train station",
+          "subway station"
         ],
         "points": 13
       },
@@ -899,7 +904,7 @@
   {
     "id": "culture-329",
     "category": "Pop culture",
-    "prompt": "What might a superhero do with their powers just to avoid getting off the couch?",
+    "prompt": "You're comfortable on the couch and can move things with your mind. What are you using your power for first?",
     "answers": [
       {
         "text": "Grab a phone charger",
@@ -1000,7 +1005,7 @@
   {
     "id": "culture-331",
     "category": "Pop culture",
-    "prompt": "What could a ghost do that would make you move out that night?",
+    "prompt": "Your roommate insists the apartment is only a little haunted. What would make you pack up tonight?",
     "answers": [
       {
         "text": "Scream in your ear",
@@ -1049,7 +1054,7 @@
   {
     "id": "culture-332",
     "category": "Pop culture",
-    "prompt": "Name a clue that your new roommate might be a werewolf.",
+    "prompt": "What clue in your shared room would convince you your roommate is a werewolf?",
     "answers": [
       {
         "text": "Howling",
@@ -1245,7 +1250,7 @@
   {
     "id": "culture-336",
     "category": "Pop culture",
-    "prompt": "If a genie offered one practical wish, what would you ask for?",
+    "prompt": "You can ask a genie to fix one real problem instead of getting a superpower. What's your wish?",
     "answers": [
       {
         "text": "Money",
@@ -1396,7 +1401,7 @@
   {
     "id": "culture-339",
     "category": "Pop culture",
-    "prompt": "Name a modern convenience a fairy-tale princess would refuse to give up.",
+    "prompt": "A fairy-tale princess spends a week in your world. What would she refuse to live without when she goes back?",
     "answers": [
       {
         "text": "A smartphone",
@@ -1414,9 +1419,10 @@
         "points": 24
       },
       {
-        "text": "Hot showers",
+        "text": "A hot shower",
         "aliases": [
-          "hot running water"
+          "hot showers",
+          "hot water"
         ],
         "points": 18
       },
@@ -1642,7 +1648,7 @@
   {
     "id": "culture-344",
     "category": "Pop culture",
-    "prompt": "What would you use a magic wand to fix five minutes before guests arrived?",
+    "prompt": "Your friends text that they're five minutes away and your place is a mess. What would you fix with magic first?",
     "answers": [
       {
         "text": "The mess",
@@ -1936,7 +1942,7 @@
   {
     "id": "culture-350",
     "category": "Pop culture",
-    "prompt": "What would make living in a castle less glamorous than it sounds?",
+    "prompt": "You get to live in a castle rent-free. What's the thing nobody warned you would make it annoying?",
     "answers": [
       {
         "text": "Cold rooms",
@@ -1985,7 +1991,7 @@
   {
     "id": "culture-351",
     "category": "Pop culture",
-    "prompt": "Name a reason a reader says one more chapter and then keeps going.",
+    "prompt": "You said you'd read one chapter before bed. Why did you keep going until 2 a.m.?",
     "answers": [
       {
         "text": "A cliffhanger",
@@ -2034,7 +2040,7 @@
   {
     "id": "culture-352",
     "category": "Pop culture",
-    "prompt": "Name a sign someone lost track of an audiobook.",
+    "prompt": "You're listening to an audiobook on the way to school or work. What's a sign you zoned out?",
     "answers": [
       {
         "text": "They rewind repeatedly",
@@ -2044,9 +2050,10 @@
         "points": 30
       },
       {
-        "text": "They ask who a character is",
+        "text": "They have no idea who's speaking",
         "aliases": [
-          "confused about names"
+          "ask who a character is",
+          "can't tell the voices apart"
         ],
         "points": 25
       },
@@ -2083,7 +2090,7 @@
   {
     "id": "culture-353",
     "category": "Pop culture",
-    "prompt": "What would make you hide the cover of a book on the train?",
+    "prompt": "You're reading on the bus and someone from class gets on. What kind of cover are you hiding?",
     "answers": [
       {
         "text": "A shirtless model",
@@ -2132,7 +2139,7 @@
   {
     "id": "culture-354",
     "category": "Pop culture",
-    "prompt": "Name a place you might open a book to discourage conversation.",
+    "prompt": "Where would you pull a book out just so nobody tries to start a conversation?",
     "answers": [
       {
         "text": "On a train",
@@ -2181,7 +2188,7 @@
   {
     "id": "culture-355",
     "category": "Pop culture",
-    "prompt": "What might someone do at book club when they have not read the book?",
+    "prompt": "Your friends' book club starts in five minutes and you didn't open the book. How do you get through it?",
     "answers": [
       {
         "text": "Stay quiet",
@@ -2230,7 +2237,7 @@
   {
     "id": "culture-356",
     "category": "Pop culture",
-    "prompt": "What can make you give up on a book you really wanted to like?",
+    "prompt": "You were excited to read the book everyone recommended. What makes you put it down for good?",
     "answers": [
       {
         "text": "A slow start",
@@ -2279,7 +2286,7 @@
   {
     "id": "culture-357",
     "category": "Pop culture",
-    "prompt": "Name something you might use as a bookmark in an emergency.",
+    "prompt": "You don't have a bookmark and you have to shut the book right now. What goes between the pages?",
     "answers": [
       {
         "text": "A receipt",
@@ -2330,7 +2337,7 @@
   {
     "id": "culture-358",
     "category": "Pop culture",
-    "prompt": "What might a friend do to your borrowed book that would annoy you?",
+    "prompt": "You lend a friend a book in perfect condition. What did they do to it that means they're never borrowing another?",
     "answers": [
       {
         "text": "Bend the corners",
@@ -2379,7 +2386,7 @@
   {
     "id": "culture-359",
     "category": "Pop culture",
-    "prompt": "Name something a gripping book could make you forget to do.",
+    "prompt": "You got too into the book and completely lost track of time. What did you forget to do?",
     "answers": [
       {
         "text": "Sleep",
@@ -2430,7 +2437,7 @@
   {
     "id": "culture-360",
     "category": "Pop culture",
-    "prompt": "Name something fans do while waiting forever for the next book in a series.",
+    "prompt": "There's still no date for the next book. What do fans do while they're waiting?",
     "answers": [
       {
         "text": "Reread the earlier books",
@@ -2483,7 +2490,7 @@
   {
     "id": "culture-361",
     "category": "Pop culture",
-    "prompt": "What might make you buy a book before reading a single page?",
+    "prompt": "What could convince you to buy a book before you've read a single page?",
     "answers": [
       {
         "text": "A beautiful cover",
@@ -2583,7 +2590,7 @@
   {
     "id": "culture-363",
     "category": "Pop culture",
-    "prompt": "Name a reason people keep a book they know they will never reread.",
+    "prompt": "Why do you still have a book on your shelf that you know you'll never pick up again?",
     "answers": [
       {
         "text": "Sentimental value",
@@ -2779,7 +2786,7 @@
   {
     "id": "culture-367",
     "category": "Pop culture",
-    "prompt": "What could make you secretly root for the villain in a book?",
+    "prompt": "What makes you secretly side with the villain halfway through a book?",
     "answers": [
       {
         "text": "A tragic past",
@@ -2877,7 +2884,7 @@
   {
     "id": "culture-369",
     "category": "Pop culture",
-    "prompt": "What might you do when an author kills your favorite character?",
+    "prompt": "Your favorite character just got killed off. What's the first thing you do?",
     "answers": [
       {
         "text": "Cry",
@@ -2926,7 +2933,7 @@
   {
     "id": "culture-370",
     "category": "Pop culture",
-    "prompt": "Name a modern thing you would miss if you got stuck in a fantasy kingdom.",
+    "prompt": "You wake up in a fantasy kingdom with no way back. What modern thing do you miss by lunch?",
     "answers": [
       {
         "text": "Your phone",
@@ -3073,7 +3080,7 @@
   {
     "id": "culture-373",
     "category": "Pop culture",
-    "prompt": "Name a sound you would hate your body to make in a silent library.",
+    "prompt": "You're on the library's quiet floor during finals week. What sound would you hate to make?",
     "answers": [
       {
         "text": "A fart",
@@ -3111,9 +3118,10 @@
         "points": 8
       },
       {
-        "text": "Loud hiccups",
+        "text": "Hiccups that won't stop",
         "aliases": [
-          "hiccup"
+          "loud hiccups",
+          "hiccuping"
         ],
         "points": 6
       }
@@ -3171,7 +3179,7 @@
   {
     "id": "culture-375",
     "category": "Pop culture",
-    "prompt": "Name a romance-novel habit that would be a red flag in real life.",
+    "prompt": "What does a love interest get away with in a book that would make your friends tell you to block them?",
     "answers": [
       {
         "text": "Stalking",
@@ -3320,7 +3328,7 @@
   {
     "id": "culture-378",
     "category": "Pop culture",
-    "prompt": "What might a book club spend more time discussing than the book?",
+    "prompt": "Your friends meet to talk about a book. What does the conversation turn into instead?",
     "answers": [
       {
         "text": "Gossip",
@@ -3470,7 +3478,7 @@
   {
     "id": "culture-381",
     "category": "Pop culture",
-    "prompt": "Name something from childhood you wish you could experience for the first time again.",
+    "prompt": "What from when you were a kid would you wipe from your memory just to experience it again?",
     "answers": [
       {
         "text": "A favorite game",
@@ -3519,7 +3527,7 @@
   {
     "id": "culture-382",
     "category": "Pop culture",
-    "prompt": "Name an old toy an adult might refuse to throw away.",
+    "prompt": "You're clearing out your childhood stuff and refuse to put one toy in the donation bag. What are you keeping?",
     "answers": [
       {
         "text": "A teddy bear",
@@ -3571,7 +3579,7 @@
   {
     "id": "culture-383",
     "category": "Pop culture",
-    "prompt": "Name something you swore you'd never say until you started sounding like your parents.",
+    "prompt": "What did you catch yourself saying and immediately think, \"I sound exactly like my parents\"?",
     "answers": [
       {
         "text": "We have food at home",
@@ -3621,7 +3629,7 @@
   {
     "id": "culture-384",
     "category": "Pop culture",
-    "prompt": "What makes looking at an old school photo painful?",
+    "prompt": "An old school photo gets posted in the group chat. What's the first thing you hope nobody notices?",
     "answers": [
       {
         "text": "Your haircut",
@@ -3719,7 +3727,7 @@
   {
     "id": "culture-386",
     "category": "Pop culture",
-    "prompt": "Name something cartoons made you think would happen often in adult life.",
+    "prompt": "What problem did cartoons have you genuinely worried about as a kid that has basically never happened?",
     "answers": [
       {
         "text": "Quicksand",
@@ -3817,7 +3825,7 @@
   {
     "id": "culture-388",
     "category": "Pop culture",
-    "prompt": "Name something kids try to hide from parents at a sleepover.",
+    "prompt": "Your parents think everyone's asleep at the sleepover. What are you actually hiding from them?",
     "answers": [
       {
         "text": "Staying up all night",
@@ -3917,7 +3925,7 @@
   {
     "id": "culture-390",
     "category": "Pop culture",
-    "prompt": "Name something people were desperate to collect as children.",
+    "prompt": "What's something you collected obsessively or swapped with friends when you were a kid?",
     "answers": [
       {
         "text": "Pokémon cards",
@@ -3970,47 +3978,50 @@
   {
     "id": "culture-391",
     "category": "Pop culture",
-    "prompt": "Name a cartoon character who would be a nightmare as your boss.",
+    "prompt": "Which cartoon character would make you quit a part-time job after one shift?",
     "answers": [
       {
-        "text": "Homer Simpson",
+        "text": "Mr. Krabs",
         "aliases": [
-          "Homer"
+          "mister krabs",
+          "mr krabs from spongebob"
         ],
         "points": 32
       },
       {
-        "text": "Donald Duck",
+        "text": "Homer Simpson",
         "aliases": [
-          "Donald"
+          "homer",
+          "the simpsons"
         ],
         "points": 24
       },
       {
-        "text": "SpongeBob",
+        "text": "Rick Sanchez",
         "aliases": [
-          "SpongeBob SquarePants"
+          "rick from rick and morty",
+          "rick"
         ],
         "points": 18
       },
       {
         "text": "Daffy Duck",
         "aliases": [
-          "Daffy"
+          "daffy"
         ],
         "points": 12
       },
       {
-        "text": "Cartman",
+        "text": "Eric Cartman",
         "aliases": [
-          "Eric Cartman"
+          "cartman"
         ],
         "points": 9
       },
       {
         "text": "The Grinch",
         "aliases": [
-          "Grinch"
+          "grinch"
         ],
         "points": 5
       }
@@ -4019,7 +4030,7 @@
   {
     "id": "culture-392",
     "category": "Pop culture",
-    "prompt": "What made a friend's family seem rich when you were a child?",
+    "prompt": "When you went over to a friend's place as a kid, what made you think their family was rich?",
     "answers": [
       {
         "text": "A swimming pool",
@@ -4068,7 +4079,7 @@
   {
     "id": "culture-393",
     "category": "Pop culture",
-    "prompt": "Name a childhood fashion choice someone might hope never comes back.",
+    "prompt": "What trend would you hate to see come back after looking at your childhood photos?",
     "answers": [
       {
         "text": "Bowl cuts",
@@ -4078,30 +4089,34 @@
         "points": 34
       },
       {
-        "text": "Light-up shoes",
+        "text": "Light-up sneakers",
         "aliases": [
-          "flashing trainers"
+          "light-up shoes",
+          "light shoes"
         ],
         "points": 23
       },
       {
-        "text": "Low-rise jeans",
+        "text": "Ultra-skinny jeans",
         "aliases": [
-          "low waisted jeans"
+          "low-rise jeans",
+          "skinny jeans"
         ],
         "points": 17
       },
       {
-        "text": "Massive shoulder pads",
+        "text": "Neon graphic tees",
         "aliases": [
-          "shoulder pads"
+          "neon shirts",
+          "bright t-shirt"
         ],
         "points": 12
       },
       {
-        "text": "Plastic jewelry",
+        "text": "Oversized plastic glasses",
         "aliases": [
-          "jelly bracelets"
+          "huge glasses",
+          "plastic frames"
         ],
         "points": 8
       },
@@ -4117,7 +4132,7 @@
   {
     "id": "culture-394",
     "category": "Pop culture",
-    "prompt": "What would be embarrassing to find in a time capsule you buried as a child?",
+    "prompt": "Someone finds the time capsule you made as a kid and asks to open it in front of your friends. What's inside that makes you say no?",
     "answers": [
       {
         "text": "A love letter",
@@ -4166,7 +4181,7 @@
   {
     "id": "culture-395",
     "category": "Pop culture",
-    "prompt": "What did you think you would be allowed to do every day as an adult?",
+    "prompt": "What did you think you'd do every day the second you were old enough to make your own rules?",
     "answers": [
       {
         "text": "Eat sweets for dinner",
@@ -4215,7 +4230,7 @@
   {
     "id": "culture-396",
     "category": "Pop culture",
-    "prompt": "Name something that could make a live video interview end early.",
+    "prompt": "A live interview cuts away mid-sentence. What probably happened?",
     "answers": [
       {
         "text": "The connection drops",
@@ -4266,7 +4281,7 @@
   {
     "id": "culture-397",
     "category": "Pop culture",
-    "prompt": "Name someone you would deliberately leave out of your acceptance speech.",
+    "prompt": "You get one acceptance speech and everyone is watching. Who are you intentionally not thanking?",
     "answers": [
       {
         "text": "An ex",
@@ -4413,7 +4428,7 @@
   {
     "id": "culture-400",
     "category": "Pop culture",
-    "prompt": "What would you hide before a creator filmed a room tour at your place?",
+    "prompt": "A creator says \"let's film a room tour right now.\" What do you throw out of frame before they start?",
     "answers": [
       {
         "text": "Dirty laundry",

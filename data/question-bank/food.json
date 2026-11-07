@@ -2,7 +2,7 @@
   {
     "id": "food-001",
     "category": "Food & drink",
-    "prompt": "Name a reason one friend vetoes every restaurant the group suggests.",
+    "prompt": "The group chat lists five places to eat after class and one friend shoots down every one. What's their reason?",
     "answers": [
       {
         "text": "Too expensive",
@@ -51,7 +51,7 @@
   {
     "id": "food-002",
     "category": "Food & drink",
-    "prompt": "Name something that makes you change your order after you've already decided.",
+    "prompt": "You're at the counter about to order the usual. What makes you switch at the last second?",
     "answers": [
       {
         "text": "See the price",
@@ -100,7 +100,7 @@
   {
     "id": "food-003",
     "category": "Food & drink",
-    "prompt": "Name a giveaway that a restaurant table is celebrating a birthday.",
+    "prompt": "You walk into a pizza place and instantly know which table is there for a birthday. What gives it away?",
     "answers": [
       {
         "text": "Singing",
@@ -149,7 +149,7 @@
   {
     "id": "food-004",
     "category": "Food & drink",
-    "prompt": "Name something you hope the waiter didn't notice you doing.",
+    "prompt": "You're out with someone you want to impress. What do you hope the server didn't catch you doing?",
     "answers": [
       {
         "text": "Dropping food on yourself",
@@ -247,7 +247,7 @@
   {
     "id": "food-006",
     "category": "Food & drink",
-    "prompt": "Name something people lie about to get a better restaurant table.",
+    "prompt": "You're starving and there's a waitlist at the only place the group agrees on. What might a friend claim to get seated?",
     "answers": [
       {
         "text": "They have a reservation",
@@ -346,7 +346,7 @@
   {
     "id": "food-008",
     "category": "Food & drink",
-    "prompt": "Name a reason someone orders the most expensive thing on the menu.",
+    "prompt": "You normally look for the cheapest thing on the menu. What could make you order the most expensive thing for once?",
     "answers": [
       {
         "text": "Someone else is paying",
@@ -395,7 +395,7 @@
   {
     "id": "food-009",
     "category": "Food & drink",
-    "prompt": "Name something that makes a restaurant feel fancy before you taste the food.",
+    "prompt": "Someone picks a place for graduation dinner. What tells you it's fancier than your usual spot before the food shows up?",
     "answers": [
       {
         "text": "Cloth napkins",
@@ -493,7 +493,7 @@
   {
     "id": "food-011",
     "category": "Food & drink",
-    "prompt": "Name something your dining companion does that makes you wish you ate alone.",
+    "prompt": "You're grabbing food after class. What does the person across from you do that makes you wish you'd gone alone?",
     "answers": [
       {
         "text": "Chews loudly",
@@ -689,7 +689,7 @@
   {
     "id": "food-015",
     "category": "Food & drink",
-    "prompt": "Name a food you'd regret ordering while wearing a white shirt.",
+    "prompt": "You wore white on the one day you're getting food with friends. What are you definitely ordering at your own risk?",
     "answers": [
       {
         "text": "Spaghetti",
@@ -787,7 +787,7 @@
   {
     "id": "food-017",
     "category": "Food & drink",
-    "prompt": "Name something a restaurant customer treats like it's free and unlimited.",
+    "prompt": "Your friend is treating the free stuff at a restaurant like an all-you-can-eat buffet. What are they stockpiling?",
     "answers": [
       {
         "text": "Bread",
@@ -885,7 +885,7 @@
   {
     "id": "food-019",
     "category": "Food & drink",
-    "prompt": "Name something people argue about when sharing a pizza at a restaurant.",
+    "prompt": "Your friends agree to split a pizza order. What somehow still starts a debate?",
     "answers": [
       {
         "text": "Toppings",
@@ -983,7 +983,7 @@
   {
     "id": "food-021",
     "category": "Food & drink",
-    "prompt": "Name a sign your dinner date isn't enjoying the restaurant.",
+    "prompt": "You picked the place for a first date. What's the first clue they wish you'd picked somewhere else?",
     "answers": [
       {
         "text": "Complaining",
@@ -1179,7 +1179,7 @@
   {
     "id": "food-025",
     "category": "Food & drink",
-    "prompt": "Name a reason someone eats before going to an expensive dinner.",
+    "prompt": "Your friends picked somewhere fancier than usual. Why might you eat a little before you meet them?",
     "answers": [
       {
         "text": "Wants to spend less",
@@ -1277,7 +1277,7 @@
   {
     "id": "food-027",
     "category": "Food & drink",
-    "prompt": "Name something people blame when they're late to a dinner reservation.",
+    "prompt": "Dinner was at seven and you're texting “almost there” at 7:20. What actually made you late?",
     "answers": [
       {
         "text": "Traffic",
@@ -1523,7 +1523,7 @@
   {
     "id": "food-032",
     "category": "Food & drink",
-    "prompt": "Name something a diner might photograph besides their food.",
+    "prompt": "Besides the food, what do you take a photo of when your friends try a new spot?",
     "answers": [
       {
         "text": "Their friends",
@@ -1670,7 +1670,7 @@
   {
     "id": "food-035",
     "category": "Food & drink",
-    "prompt": "Name something a customer might do to avoid looking cheap at dinner.",
+    "prompt": "You're on a budget but don't want the rest of the table to know. What might you do?",
     "answers": [
       {
         "text": "Offer to pay",
@@ -1719,7 +1719,7 @@
   {
     "id": "food-036",
     "category": "Food & drink",
-    "prompt": "Name something you wish the menu would tell you honestly.",
+    "prompt": "You're scrolling a menu on your phone before ordering. What do you wish it were honest about?",
     "answers": [
       {
         "text": "Portion size",

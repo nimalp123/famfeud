@@ -2,7 +2,7 @@
   {
     "id": "travel-041",
     "category": "Travel & places",
-    "prompt": "Name something that makes one person the hardest to share a vacation budget with.",
+    "prompt": "The trip was fun. Then it's time to split what everyone spent. Who makes that part a nightmare?",
     "answers": [
       {
         "text": "Never pays their share",
@@ -100,7 +100,7 @@
   {
     "id": "travel-043",
     "category": "Travel & places",
-    "prompt": "Name a reason someone is always the last person ready on vacation.",
+    "prompt": "Everybody is waiting in the lobby. What is the last friend upstairs still doing?",
     "answers": [
       {
         "text": "Takes too long to dress",
@@ -149,7 +149,7 @@
   {
     "id": "travel-044",
     "category": "Travel & places",
-    "prompt": "Name something a vacation planner puts on the schedule that everyone groans about.",
+    "prompt": "You finally see the itinerary for the group trip. What's on it that gets the most groans?",
     "answers": [
       {
         "text": "An early start",
@@ -247,7 +247,7 @@
   {
     "id": "travel-046",
     "category": "Travel & places",
-    "prompt": "Name something a friend does on vacation that embarrasses the whole group.",
+    "prompt": "What does a friend do in public on a trip that makes the whole group pretend they don't know them?",
     "answers": [
       {
         "text": "Talks too loudly",
@@ -394,7 +394,7 @@
   {
     "id": "travel-049",
     "category": "Travel & places",
-    "prompt": "Name something a friend borrows every day because they failed to pack it.",
+    "prompt": "What does a friend keep borrowing on a weekend away because they swear they thought someone else would bring it?",
     "answers": [
       {
         "text": "Phone charger",
@@ -443,7 +443,7 @@
   {
     "id": "travel-050",
     "category": "Travel & places",
-    "prompt": "Name something that can kill the cheapest hotel option for a trip with friends.",
+    "prompt": "A group of friends finds a room that looks suspiciously cheap. What catches them when they go to book it?",
     "answers": [
       {
         "text": "Minimum check-in age",
@@ -492,7 +492,7 @@
   {
     "id": "travel-051",
     "category": "Travel & places",
-    "prompt": "Name something that makes a trip with friends feel like a sleepover.",
+    "prompt": "The group gets back to the room after a full day out. What turns the night into a sleepover?",
     "answers": [
       {
         "text": "Matching pajamas",
@@ -590,7 +590,7 @@
   {
     "id": "travel-053",
     "category": "Travel & places",
-    "prompt": "Name something people regret agreeing to on a group trip.",
+    "prompt": "What's a plan you agree to in the group chat but regret as soon as the trip starts?",
     "answers": [
       {
         "text": "Sharing a room",
@@ -639,7 +639,7 @@
   {
     "id": "travel-054",
     "category": "Travel & places",
-    "prompt": "Name something that makes unpacking after a trip feel like a punishment.",
+    "prompt": "You get home from the trip on Sunday night. What makes unpacking feel like one more assignment?",
     "answers": [
       {
         "text": "Dirty laundry",
@@ -739,7 +739,7 @@
   {
     "id": "travel-056",
     "category": "Travel & places",
-    "prompt": "Name a reason your travel buddy keeps asking to stop for a break.",
+    "prompt": "You're on a day trip with friends. What's the reason the same person keeps asking everybody to stop?",
     "answers": [
       {
         "text": "Tired feet",
@@ -788,7 +788,7 @@
   {
     "id": "travel-057",
     "category": "Travel & places",
-    "prompt": "Name a sign your roommate has been through your suitcase.",
+    "prompt": "You get back to a room you're sharing. What tells you someone went through your bag?",
     "answers": [
       {
         "text": "Clothes are unfolded",
@@ -837,7 +837,7 @@
   {
     "id": "travel-058",
     "category": "Travel & places",
-    "prompt": "Name an excuse someone uses to avoid paying for the shared vacation groceries.",
+    "prompt": "You ask for their share of the food money. What's the excuse they send back?",
     "answers": [
       {
         "text": "My payment app isn’t working",
@@ -935,7 +935,7 @@
   {
     "id": "travel-060",
     "category": "Travel & places",
-    "prompt": "Name something in a vacation rental that mysteriously takes three people to operate.",
+    "prompt": "You arrive at a rental with friends. What simple thing somehow takes half the group to figure out?",
     "answers": [
       {
         "text": "Getting the TV to stream",
@@ -984,7 +984,7 @@
   {
     "id": "travel-061",
     "category": "Travel & places",
-    "prompt": "Name a reason someone wants to leave a vacation early.",
+    "prompt": "Why might a friend ask to go home a day early, even after everyone agreed on how long to stay?",
     "answers": [
       {
         "text": "Homesick",
@@ -1033,7 +1033,7 @@
   {
     "id": "travel-062",
     "category": "Travel & places",
-    "prompt": "Name something people do when the hotel Wi-Fi is terrible.",
+    "prompt": "Everyone's back at the room and the Wi-Fi barely loads a message. What do you do?",
     "answers": [
       {
         "text": "Use mobile data",
@@ -1131,7 +1131,7 @@
   {
     "id": "travel-064",
     "category": "Travel & places",
-    "prompt": "Name a small comfort that feels amazing after a long day of sightseeing.",
+    "prompt": "You've been out all day and your feet are done. What little thing feels incredible when you stop?",
     "answers": [
       {
         "text": "Sitting down",
@@ -1180,7 +1180,7 @@
   {
     "id": "travel-065",
     "category": "Travel & places",
-    "prompt": "Name something people accuse their travel companion of hogging.",
+    "prompt": "What's something one person manages to hog when your whole group shares a room on a trip?",
     "answers": [
       {
         "text": "The bathroom",
@@ -1229,47 +1229,47 @@
   {
     "id": "travel-066",
     "category": "Travel & places",
-    "prompt": "Name a reason someone leaves the Do Not Disturb sign up all day.",
+    "prompt": "You and your friends finally get a morning with no plans. Why does nobody want to leave the room?",
     "answers": [
       {
-        "text": "Sleeping in",
+        "text": "Everyone wants to sleep in",
         "aliases": [
-          "sleeping"
+          "sleep late"
         ],
         "points": 28
       },
       {
-        "text": "Spending time with their partner",
+        "text": "It is raining outside",
         "aliases": [
-          "romance"
+          "bad weather"
         ],
         "points": 23
       },
       {
-        "text": "Working",
+        "text": "They are catching up on a show",
         "aliases": [
-          "work calls"
+          "streaming a show"
         ],
         "points": 19
       },
       {
-        "text": "The room is a mess",
+        "text": "Nobody wants to spend more money",
         "aliases": [
-          "messy room"
+          "saving money"
         ],
         "points": 14
       },
       {
-        "text": "Feeling sick",
+        "text": "Someone feels sick",
         "aliases": [
-          "ill"
+          "not feeling well"
         ],
         "points": 10
       },
       {
-        "text": "Forgot it was there",
+        "text": "They have snacks and don't need to go out",
         "aliases": [
-          "forgot to remove it"
+          "food in the room"
         ],
         "points": 6
       }
@@ -1327,7 +1327,7 @@
   {
     "id": "travel-068",
     "category": "Travel & places",
-    "prompt": "Name something that gets skipped when a vacation itinerary is too crowded.",
+    "prompt": "You tried to fit six stops into a day trip. What gets cut first when you fall behind?",
     "answers": [
       {
         "text": "A nearby town",
@@ -1430,7 +1430,7 @@
   {
     "id": "travel-070",
     "category": "Travel & places",
-    "prompt": "Name something you hope your travel companion will offer to pay for.",
+    "prompt": "You're down to your last bit of spending money on a trip. What do you hope a friend offers to cover?",
     "answers": [
       {
         "text": "Dinner",
@@ -1479,7 +1479,7 @@
   {
     "id": "travel-071",
     "category": "Travel & places",
-    "prompt": "Name a vacation expense that feels especially annoying to pay.",
+    "prompt": "The trip sounded cheap until the extra charges hit. Which one feels the most ridiculous to pay?",
     "answers": [
       {
         "text": "Baggage fees",
@@ -1577,7 +1577,7 @@
   {
     "id": "travel-073",
     "category": "Travel & places",
-    "prompt": "Name something a friend always wants to do when everyone else wants to sleep.",
+    "prompt": "It's late and the whole group wants to crash. What does the one wide-awake friend suggest doing?",
     "answers": [
       {
         "text": "Go out dancing",
@@ -1626,7 +1626,7 @@
   {
     "id": "travel-074",
     "category": "Travel & places",
-    "prompt": "Name something people find in their suitcase weeks after a vacation.",
+    "prompt": "You finally use the same bag again weeks after the trip. What surprise from the trip is still in there?",
     "answers": [
       {
         "text": "Dirty socks",
@@ -1724,7 +1724,7 @@
   {
     "id": "travel-076",
     "category": "Travel & places",
-    "prompt": "Name something you might hear from the person who always gets the vacation discount.",
+    "prompt": "One friend somehow never pays full price for a trip. What do they say when everyone else wants to book right away?",
     "answers": [
       {
         "text": "I found a code",
@@ -1920,7 +1920,7 @@
   {
     "id": "travel-080",
     "category": "Travel & places",
-    "prompt": "Name something you might discover while looking under a hotel bed.",
+    "prompt": "You're checking under the bed before everyone leaves the room. What do you pull out that isn't yours?",
     "answers": [
       {
         "text": "A sock",
@@ -2067,7 +2067,7 @@
   {
     "id": "travel-083",
     "category": "Travel & places",
-    "prompt": "Name something people compete over during a vacation.",
+    "prompt": "What turns into a competition on a trip with friends even though nobody said it was one?",
     "answers": [
       {
         "text": "Who gets the best room",
@@ -2116,7 +2116,7 @@
   {
     "id": "travel-084",
     "category": "Travel & places",
-    "prompt": "Name a reason a friend turns down every hotel you suggest.",
+    "prompt": "You've sent five places to stay to the group chat. Why does the same person keep saying no?",
     "answers": [
       {
         "text": "Too expensive",
@@ -2214,7 +2214,7 @@
   {
     "id": "travel-086",
     "category": "Travel & places",
-    "prompt": "Name a sign the vacation is starting to get too expensive.",
+    "prompt": "You said it would be a cheap weekend. What tells the group that the budget is already blown?",
     "answers": [
       {
         "text": "Checking the bank balance constantly",
@@ -2263,7 +2263,7 @@
   {
     "id": "travel-087",
     "category": "Travel & places",
-    "prompt": "Name something a friend says to justify taking another vacation photo.",
+    "prompt": "Everyone is done posing and one friend asks for another photo. What's their excuse?",
     "answers": [
       {
         "text": "The light is better now",
@@ -2361,7 +2361,7 @@
   {
     "id": "travel-089",
     "category": "Travel & places",
-    "prompt": "Name something a travel companion might do instead of helping carry the bags inside.",
+    "prompt": "Everyone's unloading the car at the rental. What is the one friend who isn't helping doing instead?",
     "answers": [
       {
         "text": "Claim a bed",
@@ -2410,7 +2410,7 @@
   {
     "id": "travel-090",
     "category": "Travel & places",
-    "prompt": "Name a reason someone wants their own room even on a tight travel budget.",
+    "prompt": "What makes someone insist on their own room even after the group shows them how much more it costs?",
     "answers": [
       {
         "text": "Needs quiet",
@@ -2508,7 +2508,7 @@
   {
     "id": "travel-092",
     "category": "Travel & places",
-    "prompt": "Name a reason friends decide never to vacation together again.",
+    "prompt": "You were good friends before the trip. What's the reason you would never travel together again?",
     "answers": [
       {
         "text": "Constant fighting",
@@ -2607,7 +2607,7 @@
   {
     "id": "travel-094",
     "category": "Travel & places",
-    "prompt": "Name something people do when their vacation room has only one power outlet.",
+    "prompt": "Four people are staying in one room and there's one usable outlet. What does somebody do?",
     "answers": [
       {
         "text": "Take turns charging",
@@ -2656,7 +2656,7 @@
   {
     "id": "travel-095",
     "category": "Travel & places",
-    "prompt": "Name something that makes a group vacation photo take forever.",
+    "prompt": "You're taking one group photo before leaving. What somehow turns it into a whole event?",
     "answers": [
       {
         "text": "Someone is missing",
@@ -2760,7 +2760,7 @@
   {
     "id": "travel-097",
     "category": "Travel & places",
-    "prompt": "Name a reason the person who booked the vacation feels underappreciated.",
+    "prompt": "One friend booked everything. What makes them swear they're never organizing a trip again?",
     "answers": [
       {
         "text": "Nobody says thanks",
@@ -2858,7 +2858,7 @@
   {
     "id": "travel-099",
     "category": "Travel & places",
-    "prompt": "Name something a friend might do to make you glad they came on vacation.",
+    "prompt": "What's one thing a friend does on a trip that makes everyone want them to come next time?",
     "answers": [
       {
         "text": "Makes everyone laugh",
@@ -2907,7 +2907,7 @@
   {
     "id": "travel-100",
     "category": "Travel & places",
-    "prompt": "Name something people wish they had done before posting their vacation pictures.",
+    "prompt": "A vacation picture is already posted and now you regret it. What should you have checked first?",
     "answers": [
       {
         "text": "Checked the background",
@@ -3005,7 +3005,7 @@
   {
     "id": "travel-102",
     "category": "Travel & places",
-    "prompt": "Name something that makes you feel awkward asking your travel companion for money.",
+    "prompt": "Why is it awkward to send someone a payment request after hanging out on a trip?",
     "answers": [
       {
         "text": "They paid last time",
@@ -3054,7 +3054,7 @@
   {
     "id": "travel-103",
     "category": "Travel & places",
-    "prompt": "Name something you double-check before taking an intercity bus to visit a friend.",
+    "prompt": "You're taking the bus by yourself to see a friend in another city. What do you double-check before you leave?",
     "answers": [
       {
         "text": "Which station to get off at",
@@ -3103,7 +3103,7 @@
   {
     "id": "travel-104",
     "category": "Travel & places",
-    "prompt": "Name a reason your friend spends the whole trip searching for Wi-Fi.",
+    "prompt": "Why is a friend asking for the Wi-Fi password at every stop on the trip?",
     "answers": [
       {
         "text": "Posting photos",
@@ -3299,7 +3299,7 @@
   {
     "id": "travel-108",
     "category": "Travel & places",
-    "prompt": "Name something people bring on vacation to prove they will be productive.",
+    "prompt": "Name something someone packs over a break because they swear they'll get stuff done.",
     "answers": [
       {
         "text": "Study materials",
@@ -3348,7 +3348,7 @@
   {
     "id": "travel-109",
     "category": "Travel & places",
-    "prompt": "Name a reason someone chooses a staycation over going away.",
+    "prompt": "Your group decides to have a weekend in town instead of going away. What makes that plan win?",
     "answers": [
       {
         "text": "Save money",
@@ -3397,7 +3397,7 @@
   {
     "id": "travel-110",
     "category": "Travel & places",
-    "prompt": "Name something that turns a vacation group chat into chaos.",
+    "prompt": "The group chat was supposed to make the trip easier. What makes it impossible to find the actual plan?",
     "answers": [
       {
         "text": "Too many suggestions",
@@ -3446,7 +3446,7 @@
   {
     "id": "travel-111",
     "category": "Travel & places",
-    "prompt": "Name something people do when they cannot sleep and everyone else in the hotel room can.",
+    "prompt": "Everyone else in the room is asleep. What do you do to pass the time without waking them?",
     "answers": [
       {
         "text": "Scroll on their phone",
@@ -3544,7 +3544,7 @@
   {
     "id": "travel-113",
     "category": "Travel & places",
-    "prompt": "Name something that makes a vacation friendship stronger.",
+    "prompt": "What happens on a trip with friends that makes the group closer afterward?",
     "answers": [
       {
         "text": "Surviving a mishap together",
@@ -3593,7 +3593,7 @@
   {
     "id": "travel-114",
     "category": "Travel & places",
-    "prompt": "Name something people say when a friend suggests extending the vacation.",
+    "prompt": "It's the last day and one friend asks if everyone can stay another night. What do you say?",
     "answers": [
       {
         "text": "I have work",
@@ -3642,7 +3642,7 @@
   {
     "id": "travel-115",
     "category": "Travel & places",
-    "prompt": "Name something people suddenly miss when vacationing somewhere remote.",
+    "prompt": "You spend a weekend somewhere out of the way. What's the first thing you miss having nearby?",
     "answers": [
       {
         "text": "Internet",
@@ -3740,7 +3740,7 @@
   {
     "id": "travel-117",
     "category": "Travel & places",
-    "prompt": "Name something a friend does that makes them the best person to get lost with.",
+    "prompt": "You and a friend took the wrong turn in a new place. What makes them the person you're glad to be lost with?",
     "answers": [
       {
         "text": "Stays calm",
@@ -3838,7 +3838,7 @@
   {
     "id": "travel-119",
     "category": "Travel & places",
-    "prompt": "Name something you might blame for being grumpy on the last day of vacation.",
+    "prompt": "You should be enjoying the last day of the trip. What's making you grumpy?",
     "answers": [
       {
         "text": "Lack of sleep",
@@ -3888,7 +3888,7 @@
   {
     "id": "travel-120",
     "category": "Travel & places",
-    "prompt": "Name something you wish a travel companion would ask before doing.",
+    "prompt": "What does a friend do on a trip that you really wish they had checked with you about first?",
     "answers": [
       {
         "text": "Changing the plans",
@@ -3986,7 +3986,7 @@
   {
     "id": "travel-122",
     "category": "Travel & places",
-    "prompt": "Name something people do to make a cheap vacation feel luxurious.",
+    "prompt": "You're stretching a small travel budget. What's one way to make the trip feel like a splurge anyway?",
     "answers": [
       {
         "text": "Dress up for dinner",
@@ -4084,7 +4084,7 @@
   {
     "id": "travel-124",
     "category": "Travel & places",
-    "prompt": "Name a reason a group vacation needs one person to be the responsible adult.",
+    "prompt": "Everyone on the trip said they didn't need a plan. What immediately proves someone has to take charge?",
     "answers": [
       {
         "text": "Nobody watches the budget",
@@ -4182,7 +4182,7 @@
   {
     "id": "travel-126",
     "category": "Travel & places",
-    "prompt": "Name something that makes you think your vacation has officially started.",
+    "prompt": "What's the first moment you feel like you're actually on break?",
     "answers": [
       {
         "text": "Checking into the hotel",
@@ -4231,7 +4231,7 @@
   {
     "id": "travel-127",
     "category": "Travel & places",
-    "prompt": "Name something a family might turn into a vacation tradition.",
+    "prompt": "Your family does the same thing on every trip, even if everybody pretends to be over it. What is it?",
     "answers": [
       {
         "text": "A photo in the same spot",
@@ -4280,7 +4280,7 @@
   {
     "id": "travel-128",
     "category": "Travel & places",
-    "prompt": "Name a reason you would pay extra for late checkout.",
+    "prompt": "A group with a late ride home has to be out of the room in the morning. Why might they pay to check out later?",
     "answers": [
       {
         "text": "Want to sleep in",
@@ -4329,7 +4329,7 @@
   {
     "id": "travel-129",
     "category": "Travel & places",
-    "prompt": "Name something you might say when a friend has already planned your next vacation before this one ends.",
+    "prompt": "One friend is already pitching another trip and you're still on this one. How do you respond?",
     "answers": [
       {
         "text": "Let me recover first",
@@ -4378,7 +4378,7 @@
   {
     "id": "travel-130",
     "category": "Travel & places",
-    "prompt": "Name something people miss about vacation on their first day back at school or work.",
+    "prompt": "You're back in class or clocking in for a shift after a trip. What do you miss first?",
     "answers": [
       {
         "text": "Sleeping in",

@@ -2,7 +2,7 @@
   {
     "id": "games-311",
     "category": "Sports & games",
-    "prompt": "What excuse might a high school student give to get out of gym class?",
+    "prompt": "It’s gym class right after a long day of tests. What excuse might somebody use to try to sit this one out?",
     "answers": [
       {
         "text": "I forgot my gym clothes",
@@ -106,7 +106,7 @@
   {
     "id": "games-313",
     "category": "Sports & games",
-    "prompt": "What announcement would make the whole PE class cheer?",
+    "prompt": "Everyone’s waiting to hear what they have to do in gym class. What announcement would get the loudest cheer?",
     "answers": [
       {
         "text": "Free play",
@@ -155,7 +155,7 @@
   {
     "id": "games-314",
     "category": "Sports & games",
-    "prompt": "Name a way students pretend to be exercising when the gym teacher looks over.",
+    "prompt": "You and your friends are mostly standing around during gym class when the teacher looks over. How do you suddenly look busy?",
     "answers": [
       {
         "text": "Jogging on the spot",
@@ -206,7 +206,7 @@
   {
     "id": "games-315",
     "category": "Sports & games",
-    "prompt": "Name something you hope the gym teacher forgets to make the class do.",
+    "prompt": "The gym teacher is running through today’s plan. What are you hoping they leave off the list?",
     "answers": [
       {
         "text": "Run laps",
@@ -308,7 +308,7 @@
   {
     "id": "games-317",
     "category": "Sports & games",
-    "prompt": "Name a reason the quiet kid suddenly became everyone's first team pick.",
+    "prompt": "Nobody paid much attention to one classmate during warmups. What happens that makes them everybody’s first team pick?",
     "answers": [
       {
         "text": "They were surprisingly fast",
@@ -357,7 +357,7 @@
   {
     "id": "games-318",
     "category": "Sports & games",
-    "prompt": "Name something kids argued about when picking teams.",
+    "prompt": "You’re trying to pick teams for a quick game before lunch ends. What gets everyone arguing before the game starts?",
     "answers": [
       {
         "text": "Who picks first",
@@ -406,7 +406,7 @@
   {
     "id": "games-319",
     "category": "Sports & games",
-    "prompt": "Name a playground rule that seemed to change whenever the best player was losing.",
+    "prompt": "The friend who always wins is finally losing. What part of the pickup game’s rules might they suddenly remember differently?",
     "answers": [
       {
         "text": "What counts as out",
@@ -506,7 +506,7 @@
   {
     "id": "games-321",
     "category": "Sports & games",
-    "prompt": "Name somewhere kids declared a safe spot during tag.",
+    "prompt": "You and your friends end up playing tag at the park for old times’ sake. What could be home base?",
     "answers": [
       {
         "text": "A tree",
@@ -757,7 +757,7 @@
   {
     "id": "games-326",
     "category": "Sports & games",
-    "prompt": "Name something kids turn into a trophy when their game has no prize.",
+    "prompt": "Your friends ran a mini tournament at the park without bringing a prize. What could they hand the winner as a fake trophy?",
     "answers": [
       {
         "text": "A stick",
@@ -806,7 +806,7 @@
   {
     "id": "games-327",
     "category": "Sports & games",
-    "prompt": "What could turn two playground best friends into rivals?",
+    "prompt": "Two close friends always end up competing with each other at pickup games. What might have started that rivalry?",
     "answers": [
       {
         "text": "One gets picked first",
@@ -904,7 +904,7 @@
   {
     "id": "games-329",
     "category": "Sports & games",
-    "prompt": "Name something that happens when every kid wants to be the goalkeeper.",
+    "prompt": "Everybody in the group wants to play goalie in a park soccer game. How might they sort that out?",
     "answers": [
       {
         "text": "Nobody goes up front",
@@ -953,7 +953,7 @@
   {
     "id": "games-330",
     "category": "Sports & games",
-    "prompt": "Name a game that could make a whole playground chant someone's name.",
+    "prompt": "What quick challenge could get a whole group at a school field day chanting one friend’s name?",
     "answers": [
       {
         "text": "Tug-of-war",
@@ -1002,7 +1002,7 @@
   {
     "id": "games-331",
     "category": "Sports & games",
-    "prompt": "Name a reason someone might rather watch a campus game than join in.",
+    "prompt": "Your friends want you to join their game at a school or campus event. Why might you have more fun watching from the side?",
     "answers": [
       {
         "text": "They don’t want to embarrass themselves",
@@ -1055,7 +1055,7 @@
   {
     "id": "games-332",
     "category": "Sports & games",
-    "prompt": "What could a parent do at a school game to make their teenager cringe?",
+    "prompt": "Your family comes to watch you play and your friends are right there. What could a parent do that makes you want to disappear?",
     "answers": [
       {
         "text": "Shouts too loudly",
@@ -1107,7 +1107,7 @@
   {
     "id": "games-333",
     "category": "Sports & games",
-    "prompt": "Name something that ruins your cool finish-line celebration.",
+    "prompt": "Your friends get their phones out for your finish-line celebration. What goes wrong just as you’re trying to look cool?",
     "answers": [
       {
         "text": "Tripping",
@@ -1353,7 +1353,7 @@
   {
     "id": "games-338",
     "category": "Sports & games",
-    "prompt": "Name a reason a relay team loses despite having the fastest runner.",
+    "prompt": "Your friends put their fastest runner in a relay and still lose. What went wrong somewhere else in the race?",
     "answers": [
       {
         "text": "Dropped the baton",
@@ -1452,7 +1452,7 @@
   {
     "id": "games-340",
     "category": "Sports & games",
-    "prompt": "Name something a player proudly shows friends after a school tournament.",
+    "prompt": "The school tournament’s over and everybody’s leaving. What does someone show friends as proof they had a day worth remembering?",
     "answers": [
       {
         "text": "A medal",
@@ -1701,7 +1701,7 @@
   {
     "id": "games-345",
     "category": "Sports & games",
-    "prompt": "Name something someone uses to claim they won a race that looked like a tie.",
+    "prompt": "Two friends hit the finish almost together and both swear they won. What might they point to as proof?",
     "answers": [
       {
         "text": "A phone video",
@@ -1897,7 +1897,7 @@
   {
     "id": "games-349",
     "category": "Sports & games",
-    "prompt": "Name something that can go wrong racing friends through an inflatable obstacle course.",
+    "prompt": "Your friend group races through an inflatable obstacle course at an event. What mishap gets the biggest laugh?",
     "answers": [
       {
         "text": "They fall over",
@@ -2096,7 +2096,7 @@
   {
     "id": "games-353",
     "category": "Sports & games",
-    "prompt": "Name something that makes a tryout more nerve-racking.",
+    "prompt": "You sign up for tryouts and suddenly it’s your turn. What makes you even more nervous than you expected to be?",
     "answers": [
       {
         "text": "Talented competition",
@@ -2146,7 +2146,7 @@
   {
     "id": "games-354",
     "category": "Sports & games",
-    "prompt": "Name something a player checks over and over while waiting for the team list.",
+    "prompt": "You’ve been waiting since tryouts to find out if you made the team. What do you keep checking for a sign?",
     "answers": [
       {
         "text": "Their phone",
@@ -2199,7 +2199,7 @@
   {
     "id": "games-355",
     "category": "Sports & games",
-    "prompt": "Name something a player hopes their parents will not shout from the sidelines.",
+    "prompt": "Your friends are watching and a parent is loud enough for the whole field to hear. What do you hope they don’t shout?",
     "answers": [
       {
         "text": "A childhood nickname",
@@ -2224,9 +2224,10 @@
         "points": 17
       },
       {
-        "text": "A bathroom reminder",
+        "text": "Your full name",
         "aliases": [
-          "do you need the toilet"
+          "first middle and last name",
+          "yells your full name"
         ],
         "points": 12
       },
@@ -2298,7 +2299,7 @@
   {
     "id": "games-357",
     "category": "Sports & games",
-    "prompt": "Why might a team captain wish they'd stayed a regular player?",
+    "prompt": "You agreed to captain the rec team because nobody else volunteered. What makes you wish you’d just stayed a player?",
     "answers": [
       {
         "text": "Settling arguments",
@@ -2347,7 +2348,7 @@
   {
     "id": "games-358",
     "category": "Sports & games",
-    "prompt": "Name something teammates tease a player about for the rest of the season.",
+    "prompt": "One play or practice moment keeps coming up in the team chat all season. What are they still teasing a teammate about?",
     "answers": [
       {
         "text": "An easy miss",
@@ -2396,7 +2397,7 @@
   {
     "id": "games-359",
     "category": "Sports & games",
-    "prompt": "Name something that makes a teammate everyone's favorite person after practice.",
+    "prompt": "Practice just finished and the team is tired. What does one teammate do that makes everyone glad they showed up?",
     "answers": [
       {
         "text": "Giving someone a ride home",
@@ -2449,7 +2450,7 @@
   {
     "id": "games-360",
     "category": "Sports & games",
-    "prompt": "Name something teammates complain about on a long bus ride.",
+    "prompt": "You’re an hour into the bus ride to an away game. What are your teammates already complaining about?",
     "answers": [
       {
         "text": "The music",
@@ -2694,7 +2695,7 @@
   {
     "id": "games-365",
     "category": "Sports & games",
-    "prompt": "Name something teammates might put on the back of a personalized shirt.",
+    "prompt": "Your rec team gets to personalize the back of its shirts. What might someone put on theirs?",
     "answers": [
       {
         "text": "A nickname",
@@ -2743,7 +2744,7 @@
   {
     "id": "games-366",
     "category": "Sports & games",
-    "prompt": "Give a team name that sounds much tougher than its players look.",
+    "prompt": "Your friends are making a rec league team name sound intimidating. What name would make them laugh once they saw you play?",
     "answers": [
       {
         "text": "Dragons",
@@ -2792,7 +2793,7 @@
   {
     "id": "games-367",
     "category": "Sports & games",
-    "prompt": "Name something a team argues about while choosing a uniform.",
+    "prompt": "The group chat is choosing shirts for the team. What part of the order turns into a bigger argument than it should?",
     "answers": [
       {
         "text": "The color",
@@ -2939,7 +2940,7 @@
   {
     "id": "games-370",
     "category": "Sports & games",
-    "prompt": "Name something that would make a team regret letting one player choose the warmup music.",
+    "prompt": "One friend gets control of the speaker at warmups. What makes the rest of the team want the playlist back?",
     "answers": [
       {
         "text": "It's too slow",
@@ -3043,7 +3044,7 @@
   {
     "id": "games-372",
     "category": "Sports & games",
-    "prompt": "Why do teammates groan when the coach says 'one more thing'?",
+    "prompt": "Practice was supposed to end five minutes ago and your ride is waiting. Why do you groan when the coach says “one more thing”?",
     "answers": [
       {
         "text": "Practice will run late",
@@ -3141,7 +3142,7 @@
   {
     "id": "games-374",
     "category": "Sports & games",
-    "prompt": "Name something a teammate admits after everyone agrees to enter a tournament.",
+    "prompt": "The group chat has already agreed to enter a tournament. What does one friend finally admit that could ruin the plan?",
     "answers": [
       {
         "text": "They do not know how to play",
@@ -3239,7 +3240,7 @@
   {
     "id": "games-376",
     "category": "Sports & games",
-    "prompt": "Name something a teammate might forget that delays the whole team leaving.",
+    "prompt": "Everybody is ready to leave after a game except one teammate who has to run back. What did they forget?",
     "answers": [
       {
         "text": "Their bag",
@@ -3435,7 +3436,7 @@
   {
     "id": "games-380",
     "category": "Sports & games",
-    "prompt": "Name something people argue about when they're refereeing their own match.",
+    "prompt": "Nobody’s officiating your pickup game. What call are the two sides going to argue about the longest?",
     "answers": [
       {
         "text": "Whether it was a foul",
@@ -3582,7 +3583,7 @@
   {
     "id": "games-383",
     "category": "Sports & games",
-    "prompt": "Name something that makes a substitute wish they'd warmed up first.",
+    "prompt": "Your friend got called in from the sideline with no warmup. What goes wrong that makes them wish they’d stretched?",
     "answers": [
       {
         "text": "A pulled muscle",
@@ -3680,7 +3681,7 @@
   {
     "id": "games-385",
     "category": "Sports & games",
-    "prompt": "Name something an amateur team celebrates even after losing.",
+    "prompt": "Your rec team just lost and the group chat is somehow still celebrating. What went right anyway?",
     "answers": [
       {
         "text": "Their first goal",
@@ -3978,7 +3979,7 @@
   {
     "id": "games-391",
     "category": "Sports & games",
-    "prompt": "Name a reason a player dreads watching a replay of their own game.",
+    "prompt": "Your teammates are watching clips from the game. What makes you hope they skip right past the part where you’re on screen?",
     "answers": [
       {
         "text": "Embarrassing mistake",
@@ -4079,7 +4080,7 @@
   {
     "id": "games-393",
     "category": "Sports & games",
-    "prompt": "Name something a player might exaggerate in a message to friends after a school game.",
+    "prompt": "Your friend texts “let me tell you about my game” before you’ve seen any clips. What part are they most likely exaggerating?",
     "answers": [
       {
         "text": "How many goals they scored",
@@ -4131,7 +4132,7 @@
   {
     "id": "games-394",
     "category": "Sports & games",
-    "prompt": "Name something teammates do to shake off an ugly loss.",
+    "prompt": "Your team just lost badly and everyone looks miserable. What might your friends do to get the mood back up?",
     "answers": [
       {
         "text": "Grab food on the way home",
@@ -4390,7 +4391,7 @@
   {
     "id": "games-399",
     "category": "Sports & games",
-    "prompt": "Name something you remember about school sports even if you've forgotten every score.",
+    "prompt": "You look back at a school sports photo and can’t remember any scores. What do you still remember about playing?",
     "answers": [
       {
         "text": "Your friends",
