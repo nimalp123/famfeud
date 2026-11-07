@@ -119,9 +119,9 @@
         "points": 24
       },
       {
-        "text": "Huge camera",
+        "text": "Sets up right at the tide line",
         "aliases": [
-          "big camera"
+          "towel too close to the water"
         ],
         "points": 17
       },
@@ -267,9 +267,9 @@
         "points": 25
       },
       {
-        "text": "Work laptop",
+        "text": "A cooler nobody wants to carry",
         "aliases": [
-          "computer"
+          "huge cooler"
         ],
         "points": 18
       },
@@ -281,9 +281,9 @@
         "points": 12
       },
       {
-        "text": "Too much alcohol",
+        "text": "A full change of clothes for every photo",
         "aliases": [
-          "booze"
+          "photo outfits"
         ],
         "points": 9
       },
@@ -792,7 +792,7 @@
   {
     "id": "travel-327",
     "category": "Travel & places",
-    "prompt": "What comfort would you demand before agreeing to go glamping?",
+    "prompt": "Name one comfort you might pay extra for on a budget camping trip.",
     "answers": [
       {
         "text": "Real bed",
@@ -802,37 +802,37 @@
         "points": 32
       },
       {
-        "text": "Private bathroom",
-        "aliases": [
-          "own toilet"
-        ],
-        "points": 24
-      },
-      {
         "text": "Hot shower",
         "aliases": [
           "warm shower"
         ],
+        "points": 24
+      },
+      {
+        "text": "Private bathroom",
+        "aliases": [
+          "own toilet"
+        ],
         "points": 18
       },
       {
-        "text": "Air conditioning",
+        "text": "A dry shelter if it rains",
         "aliases": [
-          "ac"
+          "covered space"
         ],
         "points": 12
       },
       {
-        "text": "Wi-Fi",
+        "text": "An outlet to recharge",
         "aliases": [
-          "internet"
+          "electricity"
         ],
         "points": 8
       },
       {
-        "text": "Room service",
+        "text": "Gear you can rent on site",
         "aliases": [
-          "food delivered"
+          "tent rental"
         ],
         "points": 6
       }
@@ -1534,37 +1534,37 @@
     "prompt": "Name an excuse someone gives to get out of a camping invitation.",
     "answers": [
       {
-        "text": "Bad back",
+        "text": "Can't sleep outside",
         "aliases": [
-          "back pain"
+          "need my bed"
         ],
         "points": 31
       },
       {
-        "text": "Allergies",
+        "text": "Scared of bugs",
         "aliases": [
-          "hay fever"
+          "hate insects"
         ],
         "points": 25
+      },
+      {
+        "text": "Don’t own any camping gear",
+        "aliases": [
+          "no tent"
+        ],
+        "points": 18
       },
       {
         "text": "Busy that weekend",
         "aliases": [
           "other plans"
         ],
-        "points": 18
-      },
-      {
-        "text": "Can't sleep outside",
-        "aliases": [
-          "need my bed"
-        ],
         "points": 12
       },
       {
-        "text": "Scared of bugs",
+        "text": "Allergies",
         "aliases": [
-          "hate insects"
+          "hay fever"
         ],
         "points": 8
       },
@@ -2444,16 +2444,16 @@
         "points": 12
       },
       {
-        "text": "VIP lounge",
+        "text": "A refillable drink cup",
         "aliases": [
-          "quiet lounge"
+          "unlimited refills"
         ],
         "points": 9
       },
       {
-        "text": "A stroller",
+        "text": "Parking close to the entrance",
         "aliases": [
-          "child's stroller"
+          "closer parking"
         ],
         "points": 6
       }
@@ -2724,9 +2724,9 @@
         "points": 25
       },
       {
-        "text": "Excited children",
+        "text": "Friends are all buying something",
         "aliases": [
-          "kids begging"
+          "peer pressure"
         ],
         "points": 18
       },
@@ -3181,9 +3181,9 @@
         "points": 12
       },
       {
-        "text": "Beer",
+        "text": "Water",
         "aliases": [
-          "drink"
+          "drinking water"
         ],
         "points": 8
       },
@@ -3447,44 +3447,44 @@
     "prompt": "If money were no object, name a trip people would book immediately.",
     "answers": [
       {
-        "text": "World cruise",
+        "text": "A trip around the world",
         "aliases": [
-          "cruise around world"
+          "world tour"
         ],
         "points": 34
       },
       {
-        "text": "Private island",
+        "text": "A beach house with friends",
         "aliases": [
-          "rent an island"
+          "beach rental"
         ],
         "points": 24
       },
       {
-        "text": "Luxury safari",
+        "text": "See a favorite artist overseas",
         "aliases": [
-          "african safari"
+          "international concert"
         ],
         "points": 17
       },
       {
-        "text": "Overwater villa",
+        "text": "Visit a bunch of national parks",
         "aliases": [
-          "overwater bungalow"
+          "national park road trip"
         ],
         "points": 12
       },
       {
-        "text": "Space trip",
+        "text": "Rent a private island",
         "aliases": [
-          "space tourism"
+          "private island"
         ],
         "points": 8
       },
       {
-        "text": "Luxury train journey",
+        "text": "Do the big theme parks",
         "aliases": [
-          "orient express"
+          "theme park tour"
         ],
         "points": 5
       }
@@ -3594,10 +3594,10 @@
     "prompt": "Name something that makes you forget you're supposed to be on vacation.",
     "answers": [
       {
-        "text": "Work messages",
+        "text": "School or work notifications",
         "aliases": [
-          "boss calling",
-          "work email"
+          "work messages",
+          "class reminders"
         ],
         "points": 30
       },
@@ -3623,9 +3623,9 @@
         "points": 12
       },
       {
-        "text": "A sick child",
+        "text": "A friend feeling sick",
         "aliases": [
-          "child gets ill"
+          "sick friend"
         ],
         "points": 9
       },
@@ -3847,23 +3847,23 @@
         "points": 34
       },
       {
-        "text": "Work email",
+        "text": "The group chat",
         "aliases": [
-          "emails"
+          "messages from friends"
         ],
         "points": 24
+      },
+      {
+        "text": "Bank balance",
+        "aliases": [
+          "money left"
+        ],
+        "points": 17
       },
       {
         "text": "Messages from home",
         "aliases": [
           "family messages"
-        ],
-        "points": 17
-      },
-      {
-        "text": "News",
-        "aliases": [
-          "headlines"
         ],
         "points": 12
       },
@@ -3875,9 +3875,9 @@
         "points": 8
       },
       {
-        "text": "Bank balance",
+        "text": "School or work messages",
         "aliases": [
-          "money left"
+          "email"
         ],
         "points": 5
       }
@@ -4229,21 +4229,19 @@
   {
     "id": "travel-397",
     "category": "Travel & places",
-    "prompt": "Name a reason you would stay on a cruise ship while everyone else goes ashore.",
+    "prompt": "Name a reason someone sits out an activity on a trip with friends.",
     "answers": [
       {
-        "text": "Excursions cost too much",
+        "text": "Too expensive",
         "aliases": [
-          "expensive excursions",
-          "tour prices"
+          "can’t afford it"
         ],
         "points": 34
       },
       {
-        "text": "Want to relax by the pool",
+        "text": "Want more time to relax",
         "aliases": [
-          "pool",
-          "relaxing onboard"
+          "need a break"
         ],
         "points": 24
       },
@@ -4256,26 +4254,23 @@
         "points": 17
       },
       {
-        "text": "Port is too crowded",
+        "text": "Already did that activity",
         "aliases": [
-          "crowded port",
-          "too many tourists"
+          "been there before"
         ],
         "points": 12
       },
       {
-        "text": "Afraid of missing the ship",
+        "text": "Don’t have the right gear",
         "aliases": [
-          "missing departure",
-          "getting left behind"
+          "didn’t pack for it"
         ],
         "points": 8
       },
       {
-        "text": "Already visited the port",
+        "text": "Not their idea of fun",
         "aliases": [
-          "been there before",
-          "seen it already"
+          "not interested"
         ],
         "points": 5
       }
@@ -4301,9 +4296,10 @@
         "points": 25
       },
       {
-        "text": "Work piled up",
+        "text": "Missed classes or shifts",
         "aliases": [
-          "backlog of work"
+          "work piled up",
+          "schoolwork"
         ],
         "points": 18
       },
@@ -4336,9 +4332,9 @@
     "prompt": "Name something people do on vacation that they'd judge someone for doing back home.",
     "answers": [
       {
-        "text": "Drink in the morning",
+        "text": "Pay way too much for a snack",
         "aliases": [
-          "breakfast cocktails"
+          "overpriced snack"
         ],
         "points": 32
       },
@@ -4399,9 +4395,9 @@
         "points": 25
       },
       {
-        "text": "Luxury pool",
+        "text": "An incredible concert crowd",
         "aliases": [
-          "private pool"
+          "live show"
         ],
         "points": 18
       },

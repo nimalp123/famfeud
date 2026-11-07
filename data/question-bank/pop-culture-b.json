@@ -54,16 +54,17 @@
     "prompt": "Name something you would hate your favorite actor to discover in your search history.",
     "answers": [
       {
-        "text": "Their dating life",
+        "text": "Fan edits of them",
         "aliases": [
-          "who they date"
+          "thirst edits",
+          "saved clips"
         ],
         "points": 30
       },
       {
-        "text": "Revealing photos",
+        "text": "Their dating life",
         "aliases": [
-          "shirtless photos"
+          "who they date"
         ],
         "points": 24
       },
@@ -75,23 +76,24 @@
         "points": 18
       },
       {
-        "text": "Their age",
-        "aliases": [
-          "how old they are"
-        ],
-        "points": 13
-      },
-      {
         "text": "Their net worth",
         "aliases": [
           "how rich they are"
         ],
+        "points": 13
+      },
+      {
+        "text": "Their age",
+        "aliases": [
+          "how old they are"
+        ],
         "points": 9
       },
       {
-        "text": "Their worst reviews",
+        "text": "Their worst roles",
         "aliases": [
-          "bad reviews"
+          "flops",
+          "worst reviews"
         ],
         "points": 6
       }
@@ -110,9 +112,10 @@
         "points": 34
       },
       {
-        "text": "Wristwatch",
+        "text": "Smartwatch",
         "aliases": [
-          "modern watch"
+          "Apple Watch",
+          "digital watch"
         ],
         "points": 24
       },
@@ -124,9 +127,10 @@
         "points": 16
       },
       {
-        "text": "Plastic water bottle",
+        "text": "Wireless earbuds",
         "aliases": [
-          "water bottle"
+          "AirPods",
+          "earphones"
         ],
         "points": 12
       },
@@ -781,9 +785,10 @@
         "points": 8
       },
       {
-        "text": "Doctor's waiting room",
+        "text": "A coffee shop line",
         "aliases": [
-          "hospital"
+          "waiting for coffee",
+          "cafe queue"
         ],
         "points": 6
       }
@@ -865,16 +870,18 @@
         "points": 16
       },
       {
-        "text": "Endless free time",
+        "text": "Never working a shift",
         "aliases": [
-          "never working"
+          "endless free time",
+          "not having a job"
         ],
         "points": 12
       },
       {
-        "text": "Easy medical care",
+        "text": "Going out every weekend",
         "aliases": [
-          "hospital bills ignored"
+          "expensive nights out",
+          "always going out"
         ],
         "points": 8
       },
@@ -1272,9 +1279,10 @@
         "points": 8
       },
       {
-        "text": "Wardrobe malfunction",
+        "text": "A reaction shot turns into a meme",
         "aliases": [
-          "outfit rips"
+          "viral reaction",
+          "funny reaction clip"
         ],
         "points": 6
       }
@@ -1398,9 +1406,10 @@
         "points": 25
       },
       {
-        "text": "Read private messages",
+        "text": "Read your private DMs",
         "aliases": [
-          "snoop"
+          "read your texts",
+          "look through messages"
         ],
         "points": 16
       },
@@ -1489,18 +1498,26 @@
         "points": 32
       },
       {
-        "text": "Lots of free time",
+        "text": "Boss forgives everything",
         "aliases": [
-          "long breaks"
+          "no consequences"
         ],
         "points": 24
       },
       {
-        "text": "Great-looking people",
+        "text": "Never get called in on a day off",
         "aliases": [
-          "attractive coworkers"
+          "no extra shifts",
+          "no last-minute shifts"
         ],
         "points": 18
+      },
+      {
+        "text": "Lots of free time",
+        "aliases": [
+          "long breaks"
+        ],
+        "points": 12
       },
       {
         "text": "Beautiful office",
@@ -1508,19 +1525,12 @@
           "great workplace",
           "amazing office"
         ],
-        "points": 12
-      },
-      {
-        "text": "Exciting emergencies",
-        "aliases": [
-          "interesting work"
-        ],
         "points": 8
       },
       {
-        "text": "Boss forgives everything",
+        "text": "Great-looking people",
         "aliases": [
-          "no consequences"
+          "attractive coworkers"
         ],
         "points": 6
       }
@@ -1981,37 +1991,39 @@
         "points": 32
       },
       {
-        "text": "Cult",
+        "text": "An influencer scam",
         "aliases": [
-          "cult leader"
+          "online scam",
+          "fraud",
+          "scammer"
         ],
         "points": 24
       },
       {
-        "text": "Scam",
+        "text": "Cult",
         "aliases": [
-          "fraud"
+          "cult leader"
         ],
         "points": 18
+      },
+      {
+        "text": "Celebrity scandal",
+        "aliases": [
+          "famous person's secrets"
+        ],
+        "points": 12
       },
       {
         "text": "Aliens",
         "aliases": [
           "ufos"
         ],
-        "points": 12
+        "points": 8
       },
       {
         "text": "Disaster",
         "aliases": [
           "tragedy"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Celebrity scandal",
-        "aliases": [
-          "famous person's secrets"
         ],
         "points": 6
       }
@@ -2430,30 +2442,32 @@
         "points": 23
       },
       {
-        "text": "Free parking",
+        "text": "A student discount",
         "aliases": [
-          "parking"
+          "cheaper student tickets",
+          "student price"
         ],
         "points": 19
       },
       {
-        "text": "A blanket",
+        "text": "A free refill",
         "aliases": [
-          "warm blanket"
+          "refill",
+          "free popcorn refill"
         ],
         "points": 14
+      },
+      {
+        "text": "Free parking",
+        "aliases": [
+          "parking"
+        ],
+        "points": 10
       },
       {
         "text": "A refund guarantee",
         "aliases": [
           "money back"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Babysitting",
-        "aliases": [
-          "childcare"
         ],
         "points": 6
       }
@@ -2521,9 +2535,10 @@
         "points": 30
       },
       {
-        "text": "Inspirational teacher",
+        "text": "A cafeteria that actually looks good",
         "aliases": [
-          "teacher who cared"
+          "good school lunch",
+          "great cafeteria"
         ],
         "points": 24
       },
@@ -2560,7 +2575,7 @@
   {
     "id": "culture-093",
     "category": "Pop culture",
-    "prompt": "Name a reason adults pretend they are watching a cartoon for the kids.",
+    "prompt": "Name a reason someone claims an animated movie is 'for kids' and watches it anyway.",
     "answers": [
       {
         "text": "Funny jokes",
@@ -2570,9 +2585,10 @@
         "points": 34
       },
       {
-        "text": "Nostalgia",
+        "text": "They're hooked on the story",
         "aliases": [
-          "childhood memories"
+          "good plot",
+          "they want to know what happens"
         ],
         "points": 24
       },
@@ -2584,9 +2600,10 @@
         "points": 16
       },
       {
-        "text": "Good story",
+        "text": "They grew up with the series",
         "aliases": [
-          "plot"
+          "watched it as a kid",
+          "childhood show"
         ],
         "points": 12
       },
@@ -2814,9 +2831,10 @@
     "prompt": "Name a sign a movie franchise has run out of ideas.",
     "answers": [
       {
-        "text": "Unnecessary prequel",
+        "text": "Another remake of the first one",
         "aliases": [
-          "origin story"
+          "reboot",
+          "rehash of the original"
         ],
         "points": 34
       },
@@ -2835,9 +2853,10 @@
         "points": 16
       },
       {
-        "text": "Going to space",
+        "text": "Turns into an origin story nobody asked for",
         "aliases": [
-          "space sequel"
+          "unwanted origin story",
+          "pointless backstory"
         ],
         "points": 12
       },
@@ -3010,23 +3029,25 @@
     "prompt": "Name something that ruins watching a movie on your phone.",
     "answers": [
       {
-        "text": "Tiny screen",
+        "text": "Constant notifications",
         "aliases": [
-          "small picture"
+          "texts popping up",
+          "DMs cover the screen"
         ],
         "points": 30
+      },
+      {
+        "text": "Can't read tiny subtitles",
+        "aliases": [
+          "tiny screen",
+          "too small to see"
+        ],
+        "points": 24
       },
       {
         "text": "Dead battery",
         "aliases": [
           "battery runs out"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Notifications",
-        "aliases": [
-          "messages interrupt"
         ],
         "points": 18
       },
@@ -3115,37 +3136,39 @@
         "points": 35
       },
       {
-        "text": "Excited coworker",
+        "text": "Comment sections",
         "aliases": [
-          "office fan"
+          "comments",
+          "commenter"
         ],
         "points": 25
+      },
+      {
+        "text": "A short-video account",
+        "aliases": [
+          "TikTok account",
+          "random Reels creator"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Someone who read the book",
+        "aliases": [
+          "book reader"
+        ],
+        "points": 11
       },
       {
         "text": "Your partner",
         "aliases": [
           "spouse"
         ],
-        "points": 16
+        "points": 8
       },
       {
         "text": "A child",
         "aliases": [
           "kid"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Online reviewer",
-        "aliases": [
-          "video creator"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Someone who read the book",
-        "aliases": [
-          "book reader"
         ],
         "points": 5
       }
@@ -3312,23 +3335,23 @@
         "points": 34
       },
       {
+        "text": "Homework",
+        "aliases": [
+          "studying"
+        ],
+        "points": 24
+      },
+      {
         "text": "Chores",
         "aliases": [
           "cleaning"
         ],
-        "points": 24
+        "points": 16
       },
       {
         "text": "Work",
         "aliases": [
           "job"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Homework",
-        "aliases": [
-          "studying"
         ],
         "points": 12
       },
@@ -3368,9 +3391,10 @@
         "points": 25
       },
       {
-        "text": "Spoilers",
+        "text": "Someone blurts out a spoiler",
         "aliases": [
-          "watching ahead"
+          "spoiler",
+          "gives away the ending"
         ],
         "points": 16
       },
@@ -3389,9 +3413,10 @@
         "points": 8
       },
       {
-        "text": "Who has the remote",
+        "text": "Someone watches ahead without you",
         "aliases": [
-          "remote control"
+          "watching without them",
+          "watching ahead"
         ],
         "points": 5
       }
@@ -3992,37 +4017,38 @@
     "prompt": "Name something a movie trailer gives away that you wish it had kept secret.",
     "answers": [
       {
-        "text": "Best joke",
-        "aliases": [
-          "funniest part"
-        ],
-        "points": 30
-      },
-      {
         "text": "Plot twist",
         "aliases": [
           "big reveal"
         ],
-        "points": 24
+        "points": 30
       },
       {
         "text": "Character death",
         "aliases": [
           "someone dies"
         ],
-        "points": 18
+        "points": 24
       },
       {
-        "text": "Surprise cameo",
+        "text": "A cameo you wanted to be surprised by",
         "aliases": [
-          "returning actor"
+          "surprise cameo",
+          "guest appearance"
         ],
-        "points": 13
+        "points": 18
       },
       {
         "text": "Ending",
         "aliases": [
           "final outcome"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Best joke",
+        "aliases": [
+          "funniest part"
         ],
         "points": 9
       },
@@ -4136,7 +4162,7 @@
   {
     "id": "culture-125",
     "category": "Pop culture",
-    "prompt": "Name something you imitate after watching too many episodes of one show.",
+    "prompt": "Name something you do after getting a little too into a show.",
     "answers": [
       {
         "text": "Accent",
@@ -4174,9 +4200,10 @@
         "points": 10
       },
       {
-        "text": "A character's laugh",
+        "text": "Make edits of the main character",
         "aliases": [
-          "laugh"
+          "fan edits",
+          "edit the show"
         ],
         "points": 6
       }

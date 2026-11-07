@@ -377,31 +377,31 @@
         "points": 32
       },
       {
-        "text": "Steak",
+        "text": "Sushi",
         "aliases": [],
         "points": 23
       },
       {
-        "text": "Sushi",
+        "text": "Tacos",
         "aliases": [],
         "points": 18
       },
       {
-        "text": "Tacos",
+        "text": "Steak",
         "aliases": [],
         "points": 13
+      },
+      {
+        "text": "Ramen",
+        "aliases": [
+          "noodle soup"
+        ],
+        "points": 8
       },
       {
         "text": "Spaghetti",
         "aliases": [
           "pasta"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Corn on the cob",
-        "aliases": [
-          "corn"
         ],
         "points": 6
       }
@@ -607,35 +607,37 @@
         "points": 32
       },
       {
-        "text": "Gelatin",
+        "text": "Gummy candy",
         "aliases": [
-          "jello"
+          "gummy bears"
         ],
         "points": 23
-      },
-      {
-        "text": "Liver pate",
-        "aliases": [
-          "pate"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Black pudding",
-        "aliases": [
-          "blood sausage"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Haggis",
-        "aliases": [],
-        "points": 8
       },
       {
         "text": "Imitation crab",
         "aliases": [
           "crab sticks"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Marshmallows",
+        "aliases": [
+          "marshmallow"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Caesar dressing",
+        "aliases": [
+          "caesar salad dressing"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Meat substitutes",
+        "aliases": [
+          "plant based meat"
         ],
         "points": 6
       }
@@ -683,7 +685,7 @@
   {
     "id": "food-327",
     "category": "Food & drink",
-    "prompt": "Name a food people often learn to like after leaving home.",
+    "prompt": "Name a food or drink people learn to like once they start choosing their own meals.",
     "answers": [
       {
         "text": "Sushi",
@@ -691,29 +693,33 @@
         "points": 35
       },
       {
-        "text": "Coffee",
-        "aliases": [],
-        "points": 25
-      },
-      {
-        "text": "Olives",
-        "aliases": [],
-        "points": 16
-      },
-      {
-        "text": "Blue cheese",
-        "aliases": [],
-        "points": 11
-      },
-      {
         "text": "Spicy food",
         "aliases": [
           "hot food"
         ],
-        "points": 8
+        "points": 25
+      },
+      {
+        "text": "Iced coffee",
+        "aliases": [
+          "cold coffee"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Tofu",
+        "aliases": [
+          "bean curd"
+        ],
+        "points": 11
       },
       {
         "text": "Seafood",
+        "aliases": [],
+        "points": 8
+      },
+      {
+        "text": "Olives",
         "aliases": [],
         "points": 5
       }
@@ -722,12 +728,12 @@
   {
     "id": "food-328",
     "category": "Food & drink",
-    "prompt": "Name a childhood favorite that tastes disappointing when you try it as an adult.",
+    "prompt": "Name a childhood favorite that was way better in your memory.",
     "answers": [
       {
-        "text": "Canned pasta",
+        "text": "Packaged lunch kit",
         "aliases": [
-          "spaghetti hoops"
+          "lunchables"
         ],
         "points": 30
       },
@@ -739,22 +745,22 @@
         "points": 24
       },
       {
-        "text": "Instant noodles",
-        "aliases": [
-          "ramen"
-        ],
+        "text": "Frozen pizza",
+        "aliases": [],
         "points": 18
       },
       {
-        "text": "Packaged lunch kit",
+        "text": "Freezer pops",
         "aliases": [
-          "lunchables"
+          "ice pops"
         ],
         "points": 13
       },
       {
-        "text": "Frozen pizza",
-        "aliases": [],
+        "text": "Canned pasta",
+        "aliases": [
+          "spaghetti hoops"
+        ],
         "points": 9
       },
       {
@@ -770,14 +776,16 @@
     "prompt": "Name a food you hated as a kid and still won't forgive.",
     "answers": [
       {
-        "text": "Liver",
-        "aliases": [],
-        "points": 34
-      },
-      {
         "text": "Brussels sprouts",
         "aliases": [
           "brussel sprouts"
+        ],
+        "points": 34
+      },
+      {
+        "text": "Cooked spinach",
+        "aliases": [
+          "spinach"
         ],
         "points": 24
       },
@@ -787,16 +795,16 @@
         "points": 17
       },
       {
-        "text": "Beets",
+        "text": "Broccoli",
         "aliases": [
-          "beetroot"
+          "broccoli florets"
         ],
         "points": 11
       },
       {
-        "text": "Cooked spinach",
+        "text": "Mushrooms",
         "aliases": [
-          "spinach"
+          "cooked mushrooms"
         ],
         "points": 8
       },
@@ -856,7 +864,7 @@
   {
     "id": "food-331",
     "category": "Food & drink",
-    "prompt": "Name something kids trade out of their lunchboxes.",
+    "prompt": "Name something students trade at lunch.",
     "answers": [
       {
         "text": "Chips",
@@ -866,33 +874,35 @@
         "points": 31
       },
       {
-        "text": "Cookies",
+        "text": "Fruit gummies",
         "aliases": [
-          "biscuits"
+          "fruit snacks"
         ],
         "points": 24
       },
       {
+        "text": "Cookies",
+        "aliases": [
+          "biscuits"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Granola bars",
+        "aliases": [
+          "cereal bars"
+        ],
+        "points": 12
+      },
+      {
         "text": "Fruit",
         "aliases": [],
-        "points": 18
+        "points": 9
       },
       {
         "text": "Juice box",
         "aliases": [
           "juice"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Sandwich",
-        "aliases": [],
-        "points": 9
-      },
-      {
-        "text": "Candy",
-        "aliases": [
-          "sweets"
         ],
         "points": 6
       }
@@ -948,39 +958,43 @@
     "prompt": "Name a food that feels comforting because a parent used to make it.",
     "answers": [
       {
+        "text": "Pancakes",
+        "aliases": [],
+        "points": 30
+      },
+      {
         "text": "Soup",
         "aliases": [
           "chicken soup"
         ],
-        "points": 30
-      },
-      {
-        "text": "Mashed potatoes",
-        "aliases": [
-          "mash"
-        ],
         "points": 24
-      },
-      {
-        "text": "Pancakes",
-        "aliases": [],
-        "points": 18
-      },
-      {
-        "text": "Meatloaf",
-        "aliases": [],
-        "points": 13
       },
       {
         "text": "Cookies",
         "aliases": [
           "biscuits"
         ],
+        "points": 18
+      },
+      {
+        "text": "Curry",
+        "aliases": [
+          "homemade curry"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Spaghetti",
+        "aliases": [
+          "pasta with sauce"
+        ],
         "points": 9
       },
       {
-        "text": "Rice pudding",
-        "aliases": [],
+        "text": "Mashed potatoes",
+        "aliases": [
+          "mash"
+        ],
         "points": 6
       }
     ]
@@ -1109,7 +1123,7 @@
   {
     "id": "food-337",
     "category": "Food & drink",
-    "prompt": "Name an adult eating habit that would disappoint their childhood self.",
+    "prompt": "Name a food habit that would surprise your younger self.",
     "answers": [
       {
         "text": "Enjoying vegetables",
@@ -1119,31 +1133,33 @@
         "points": 35
       },
       {
-        "text": "Eating less candy",
-        "aliases": [
-          "no sweets"
-        ],
-        "points": 25
-      },
-      {
         "text": "Drinking black coffee",
         "aliases": [
           "drinking coffee"
         ],
-        "points": 16
-      },
-      {
-        "text": "Skipping sugary cereal",
-        "aliases": [],
-        "points": 11
-      },
-      {
-        "text": "Choosing small portions",
-        "aliases": [],
-        "points": 8
+        "points": 25
       },
       {
         "text": "Ordering spicy food",
+        "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Choosing fruit over candy",
+        "aliases": [
+          "pick fruit instead of sweets"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Liking sparkling water",
+        "aliases": [
+          "drink seltzer"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Skipping sugary cereal",
         "aliases": [],
         "points": 5
       }
@@ -1603,20 +1619,24 @@
         "points": 18
       },
       {
-        "text": "Decaf coffee",
+        "text": "Oat milk",
         "aliases": [
-          "decaf"
+          "oat drink"
         ],
         "points": 13
       },
       {
-        "text": "Garlic",
-        "aliases": [],
+        "text": "Freezer burn",
+        "aliases": [
+          "freezer taste"
+        ],
         "points": 9
       },
       {
-        "text": "Cheap chocolate",
-        "aliases": [],
+        "text": "Decaf coffee",
+        "aliases": [
+          "decaf"
+        ],
         "points": 6
       }
     ]
@@ -1755,22 +1775,24 @@
         "points": 35
       },
       {
-        "text": "Beer",
+        "text": "Coffee",
         "aliases": [],
         "points": 25
       },
       {
-        "text": "Coffee",
+        "text": "Water",
         "aliases": [],
         "points": 16
       },
       {
-        "text": "Tea",
-        "aliases": [],
+        "text": "An energy drink",
+        "aliases": [
+          "canned energy drink"
+        ],
         "points": 11
       },
       {
-        "text": "Water",
+        "text": "Tea",
         "aliases": [],
         "points": 8
       },
@@ -1960,22 +1982,26 @@
         "points": 35
       },
       {
-        "text": "Blue cheese",
-        "aliases": [],
+        "text": "Black coffee",
+        "aliases": [
+          "coffee without milk"
+        ],
         "points": 25
       },
       {
-        "text": "Caviar",
-        "aliases": [],
+        "text": "Matcha",
+        "aliases": [
+          "matcha tea"
+        ],
         "points": 16
       },
       {
-        "text": "Sushi",
+        "text": "Dark chocolate",
         "aliases": [],
         "points": 11
       },
       {
-        "text": "Dark chocolate",
+        "text": "Blue cheese",
         "aliases": [],
         "points": 8
       },
@@ -2132,8 +2158,10 @@
         "points": 9
       },
       {
-        "text": "Beer",
-        "aliases": [],
+        "text": "A burger",
+        "aliases": [
+          "hamburger"
+        ],
         "points": 6
       }
     ]
@@ -2198,23 +2226,27 @@
         "points": 30
       },
       {
-        "text": "Nachos",
-        "aliases": [],
+        "text": "Instant noodles",
+        "aliases": [
+          "cup noodles"
+        ],
         "points": 24
       },
       {
-        "text": "Popcorn",
+        "text": "Nachos",
         "aliases": [],
         "points": 18
       },
       {
-        "text": "Smoothie",
+        "text": "Cheese and crackers",
         "aliases": [],
         "points": 13
       },
       {
-        "text": "Cheese and crackers",
-        "aliases": [],
+        "text": "A protein shake",
+        "aliases": [
+          "protein drink"
+        ],
         "points": 9
       },
       {
@@ -2312,33 +2344,37 @@
     "prompt": "Name a food people argue is worth paying extra for.",
     "answers": [
       {
-        "text": "Steak",
+        "text": "Coffee",
         "aliases": [],
         "points": 31
       },
       {
-        "text": "Coffee",
-        "aliases": [],
+        "text": "Sushi",
+        "aliases": [
+          "good sushi"
+        ],
         "points": 24
       },
       {
-        "text": "Chocolate",
+        "text": "Steak",
         "aliases": [],
         "points": 18
       },
       {
-        "text": "Cheese",
+        "text": "Chocolate",
         "aliases": [],
         "points": 12
       },
       {
-        "text": "Olive oil",
+        "text": "Ice cream",
         "aliases": [],
         "points": 9
       },
       {
-        "text": "Ice cream",
-        "aliases": [],
+        "text": "Fresh-baked bread",
+        "aliases": [
+          "bread from a bakery"
+        ],
         "points": 6
       }
     ]
@@ -2554,12 +2590,14 @@
     "prompt": "Name a food you would struggle to give up for a whole year.",
     "answers": [
       {
-        "text": "Bread",
-        "aliases": [],
+        "text": "Pizza",
+        "aliases": [
+          "pizza slices"
+        ],
         "points": 35
       },
       {
-        "text": "Cheese",
+        "text": "Coffee",
         "aliases": [],
         "points": 25
       },
@@ -2574,13 +2612,15 @@
         "points": 11
       },
       {
-        "text": "Coffee",
+        "text": "Bread",
         "aliases": [],
         "points": 8
       },
       {
-        "text": "Rice",
-        "aliases": [],
+        "text": "Spicy chips",
+        "aliases": [
+          "hot chips"
+        ],
         "points": 5
       }
     ]
@@ -2716,21 +2756,21 @@
         "points": 24
       },
       {
-        "text": "Liver",
-        "aliases": [],
-        "points": 18
-      },
-      {
         "text": "Insects",
         "aliases": [
           "bugs"
         ],
+        "points": 18
+      },
+      {
+        "text": "Liver",
+        "aliases": [],
         "points": 12
       },
       {
-        "text": "Black pudding",
+        "text": "Anchovies",
         "aliases": [
-          "blood sausage"
+          "anchovy"
         ],
         "points": 9
       },
@@ -2891,41 +2931,43 @@
     "prompt": "Name a food people love at home but feel awkward eating in public.",
     "answers": [
       {
-        "text": "Ribs",
-        "aliases": [],
+        "text": "Chicken wings",
+        "aliases": [
+          "wings"
+        ],
         "points": 32
+      },
+      {
+        "text": "A loaded burrito",
+        "aliases": [
+          "messy burrito"
+        ],
+        "points": 23
       },
       {
         "text": "Spaghetti",
         "aliases": [
           "pasta"
         ],
-        "points": 23
+        "points": 18
       },
       {
-        "text": "Chicken wings",
+        "text": "A dripping burger",
         "aliases": [
-          "wings"
+          "a saucy burger"
         ],
-        "points": 18
+        "points": 13
+      },
+      {
+        "text": "Ribs",
+        "aliases": [],
+        "points": 8
       },
       {
         "text": "Corn on the cob",
         "aliases": [
           "corn"
         ],
-        "points": 13
-      },
-      {
-        "text": "Crab legs",
-        "aliases": [
-          "crab"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Sloppy joes",
-        "aliases": [],
         "points": 6
       }
     ]
@@ -2936,27 +2978,31 @@
     "prompt": "Name a food people keep giving another chance even though it disappoints them.",
     "answers": [
       {
-        "text": "Avocado toast",
+        "text": "Protein bars",
         "aliases": [],
         "points": 31
       },
       {
-        "text": "Oysters",
-        "aliases": [],
+        "text": "Matcha",
+        "aliases": [
+          "matcha tea"
+        ],
         "points": 24
       },
       {
-        "text": "Kale salad",
+        "text": "Avocado toast",
         "aliases": [],
         "points": 18
       },
       {
-        "text": "Protein bars",
-        "aliases": [],
+        "text": "Plain oatmeal",
+        "aliases": [
+          "unsweetened oats"
+        ],
         "points": 12
       },
       {
-        "text": "Brown rice",
+        "text": "Kale salad",
         "aliases": [],
         "points": 9
       },
@@ -3153,13 +3199,15 @@
         "points": 31
       },
       {
-        "text": "Blue cheese",
+        "text": "Coffee",
         "aliases": [],
         "points": 24
       },
       {
-        "text": "Coffee",
-        "aliases": [],
+        "text": "Matcha",
+        "aliases": [
+          "matcha tea"
+        ],
         "points": 18
       },
       {
@@ -3168,8 +3216,10 @@
         "points": 12
       },
       {
-        "text": "Beer",
-        "aliases": [],
+        "text": "Sparkling water",
+        "aliases": [
+          "seltzer"
+        ],
         "points": 9
       },
       {
@@ -3187,38 +3237,40 @@
     "prompt": "Name something people add to coffee that makes a coffee purist complain.",
     "answers": [
       {
-        "text": "Sugar",
-        "aliases": [],
-        "points": 35
-      },
-      {
-        "text": "Cream",
-        "aliases": [
-          "milk"
-        ],
-        "points": 25
-      },
-      {
         "text": "Flavored syrup",
         "aliases": [
           "syrup"
         ],
-        "points": 16
+        "points": 35
+      },
+      {
+        "text": "Sugar",
+        "aliases": [],
+        "points": 25
       },
       {
         "text": "Ice",
         "aliases": [],
+        "points": 16
+      },
+      {
+        "text": "Cold foam",
+        "aliases": [
+          "sweet foam"
+        ],
         "points": 11
       },
       {
-        "text": "Whipped cream",
-        "aliases": [],
+        "text": "Oat milk",
+        "aliases": [
+          "oat drink"
+        ],
         "points": 8
       },
       {
-        "text": "Alcohol",
+        "text": "Chocolate milk",
         "aliases": [
-          "liquor"
+          "chocolate flavored milk"
         ],
         "points": 5
       }
@@ -3633,7 +3685,7 @@
   {
     "id": "food-398",
     "category": "Food & drink",
-    "prompt": "Name a childhood food rule that adults happily break.",
+    "prompt": "Name a childhood food rule people break once they choose their own meals.",
     "answers": [
       {
         "text": "No dessert before dinner",
@@ -3660,14 +3712,17 @@
         "points": 13
       },
       {
-        "text": "Don't play with your food",
-        "aliases": [],
+        "text": "No soda with dinner",
+        "aliases": [
+          "no fizzy drinks at meals"
+        ],
         "points": 9
       },
       {
-        "text": "No eating in front of the television",
+        "text": "No screens at dinner",
         "aliases": [
-          "eat watching tv"
+          "no phones at the table",
+          "no TV while eating"
         ],
         "points": 6
       }
@@ -3734,23 +3789,27 @@
         "points": 23
       },
       {
-        "text": "Soup",
+        "text": "Watermelon",
         "aliases": [],
         "points": 18
       },
       {
-        "text": "Watermelon",
+        "text": "Soup",
         "aliases": [],
         "points": 13
       },
       {
-        "text": "Hot cross buns",
-        "aliases": [],
+        "text": "Candy corn",
+        "aliases": [
+          "Halloween candy corn"
+        ],
         "points": 8
       },
       {
-        "text": "Fruitcake",
-        "aliases": [],
+        "text": "Peppermint bark",
+        "aliases": [
+          "peppermint chocolate bark"
+        ],
         "points": 6
       }
     ]

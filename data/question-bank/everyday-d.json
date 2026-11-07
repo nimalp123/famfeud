@@ -149,47 +149,48 @@
   {
     "id": "everyday-224",
     "category": "Everyday life",
-    "prompt": "Name a question from a relative that makes you wish you'd stayed home.",
+    "prompt": "Name a question from a relative that makes you wish you'd skipped the family dinner.",
     "answers": [
       {
-        "text": "When are you getting married?",
+        "text": "What are you doing after graduation?",
         "aliases": [
-          "marriage"
+          "what's next after school",
+          "what's your plan"
         ],
         "points": 35
       },
       {
-        "text": "When are you having kids?",
+        "text": "How are your grades?",
         "aliases": [
-          "children"
+          "asking about grades"
         ],
         "points": 25
       },
       {
-        "text": "How much do you earn?",
+        "text": "Are you dating anyone?",
         "aliases": [
-          "salary"
+          "why are you single"
         ],
         "points": 16
       },
       {
-        "text": "Why are you still single?",
+        "text": "Have you found a job yet?",
         "aliases": [
-          "being single"
+          "asking about work"
         ],
         "points": 11
       },
       {
-        "text": "Have you gained weight?",
+        "text": "What are you studying?",
         "aliases": [
-          "weight"
+          "what's your major"
         ],
         "points": 8
       },
       {
-        "text": "When will you get a better job?",
+        "text": "When are you moving out?",
         "aliases": [
-          "career"
+          "asking when you'll leave home"
         ],
         "points": 5
       }
@@ -691,30 +692,30 @@
     "prompt": "Name an event parents turn into a bigger photo shoot than you wanted.",
     "answers": [
       {
-        "text": "First day of school",
-        "aliases": [
-          "back to school"
-        ],
-        "points": 30
-      },
-      {
         "text": "Graduation",
         "aliases": [
           "finishing school"
         ],
-        "points": 24
+        "points": 30
       },
       {
         "text": "Prom",
         "aliases": [
           "school dance"
         ],
+        "points": 24
+      },
+      {
+        "text": "First day of school",
+        "aliases": [
+          "back to school"
+        ],
         "points": 18
       },
       {
-        "text": "A wedding",
+        "text": "Your birthday",
         "aliases": [
-          "getting married"
+          "birthday party"
         ],
         "points": 12
       },
@@ -726,9 +727,10 @@
         "points": 9
       },
       {
-        "text": "Your birthday",
+        "text": "Move-in day",
         "aliases": [
-          "birthday party"
+          "college move-in",
+          "dorm move-in"
         ],
         "points": 7
       }
@@ -747,37 +749,37 @@
         "points": 35
       },
       {
+        "text": "A photo before I post it",
+        "aliases": [
+          "a selfie"
+        ],
+        "points": 25
+      },
+      {
         "text": "A haircut",
         "aliases": [
           "my hair"
         ],
-        "points": 25
+        "points": 16
       },
       {
         "text": "A new date",
         "aliases": [
           "potential partner"
         ],
-        "points": 16
+        "points": 11
+      },
+      {
+        "text": "A text before I send it",
+        "aliases": [
+          "draft message"
+        ],
+        "points": 8
       },
       {
         "text": "My cooking",
         "aliases": [
           "a meal I made"
-        ],
-        "points": 11
-      },
-      {
-        "text": "My singing",
-        "aliases": [
-          "karaoke voice"
-        ],
-        "points": 8
-      },
-      {
-        "text": "A photo before I post it",
-        "aliases": [
-          "a selfie"
         ],
         "points": 5
       }
@@ -894,9 +896,9 @@
         "points": 34
       },
       {
-        "text": "Being drunk",
+        "text": "Missing the relationship",
         "aliases": [
-          "after drinking"
+          "wanting them back"
         ],
         "points": 24
       },
@@ -908,9 +910,9 @@
         "points": 16
       },
       {
-        "text": "Missing the relationship",
+        "text": "Wanting closure",
         "aliases": [
-          "wanting them back"
+          "unfinished business"
         ],
         "points": 12
       },
@@ -922,9 +924,10 @@
         "points": 8
       },
       {
-        "text": "Wanting closure",
+        "text": "Saw an old photo",
         "aliases": [
-          "unfinished business"
+          "memories came up",
+          "photo memory"
         ],
         "points": 6
       }
@@ -1183,16 +1186,16 @@
     "prompt": "Name something you dread discovering after lending someone your phone.",
     "answers": [
       {
-        "text": "Cracked screen",
+        "text": "Messages sent",
         "aliases": [
-          "broken screen"
+          "texts sent"
         ],
         "points": 30
       },
       {
-        "text": "Messages sent",
+        "text": "Cracked screen",
         "aliases": [
-          "texts sent"
+          "broken screen"
         ],
         "points": 24
       },
@@ -1204,23 +1207,25 @@
         "points": 18
       },
       {
-        "text": "Empty battery",
+        "text": "They opened a private chat",
         "aliases": [
-          "dead battery"
+          "read my messages",
+          "looked at my DMs"
         ],
         "points": 13
       },
       {
-        "text": "Apps installed",
+        "text": "Empty battery",
         "aliases": [
-          "new apps"
+          "dead battery"
         ],
         "points": 9
       },
       {
-        "text": "Expensive calls",
+        "text": "Posted something",
         "aliases": [
-          "call charges"
+          "posted to my story",
+          "posted a photo"
         ],
         "points": 6
       }
@@ -1232,23 +1237,24 @@
     "prompt": "Name a place you'd hate to introduce your ex to your new partner.",
     "answers": [
       {
-        "text": "A friend's wedding",
+        "text": "A mutual friend's party",
         "aliases": [
-          "wedding reception"
+          "friend's party",
+          "kickback"
         ],
         "points": 32
-      },
-      {
-        "text": "A family gathering",
-        "aliases": [
-          "family party"
-        ],
-        "points": 24
       },
       {
         "text": "Your workplace",
         "aliases": [
           "the office"
+        ],
+        "points": 24
+      },
+      {
+        "text": "The gym",
+        "aliases": [
+          "fitness center"
         ],
         "points": 18
       },
@@ -1260,16 +1266,17 @@
         "points": 12
       },
       {
-        "text": "The gym",
+        "text": "At school",
         "aliases": [
-          "fitness center"
+          "class",
+          "campus"
         ],
         "points": 8
       },
       {
-        "text": "A school reunion",
+        "text": "A family gathering",
         "aliases": [
-          "class reunion"
+          "family party"
         ],
         "points": 6
       }
@@ -1281,44 +1288,45 @@
     "prompt": "Name something your friends will never let you live down.",
     "answers": [
       {
-        "text": "A terrible haircut",
-        "aliases": [
-          "bad hair"
-        ],
-        "points": 30
-      },
-      {
         "text": "An embarrassing date",
         "aliases": [
           "dating disaster"
         ],
-        "points": 24
+        "points": 30
       },
       {
         "text": "Falling over",
         "aliases": [
           "a clumsy fall"
         ],
-        "points": 18
-      },
-      {
-        "text": "A drunk story",
-        "aliases": [
-          "drunken behavior"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Bad karaoke",
-        "aliases": [
-          "awful singing"
-        ],
-        "points": 9
+        "points": 24
       },
       {
         "text": "An old crush",
         "aliases": [
           "who I used to fancy"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A terrible haircut",
+        "aliases": [
+          "bad hair"
+        ],
+        "points": 12
+      },
+      {
+        "text": "An old video",
+        "aliases": [
+          "cringe video",
+          "embarrassing clip"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Bad karaoke",
+        "aliases": [
+          "awful singing"
         ],
         "points": 7
       }
@@ -1379,44 +1387,44 @@
     "prompt": "Name something that can make a birthday feel like a disappointment.",
     "answers": [
       {
-        "text": "People forgetting",
-        "aliases": [
-          "forgotten birthday"
-        ],
-        "points": 29
-      },
-      {
         "text": "Nobody showing up",
         "aliases": [
           "no guests"
         ],
-        "points": 24
+        "points": 29
       },
       {
-        "text": "A bad gift",
+        "text": "People forgetting",
         "aliases": [
-          "unwanted present"
+          "forgotten birthday"
         ],
-        "points": 18
+        "points": 24
       },
       {
         "text": "Having to work",
         "aliases": [
           "working all day"
         ],
-        "points": 13
+        "points": 18
       },
       {
         "text": "Getting sick",
         "aliases": [
           "feeling ill"
         ],
+        "points": 13
+      },
+      {
+        "text": "A bad gift",
+        "aliases": [
+          "unwanted present"
+        ],
         "points": 9
       },
       {
-        "text": "Feeling older",
+        "text": "Plans get canceled",
         "aliases": [
-          "aging"
+          "canceled plans"
         ],
         "points": 7
       }
@@ -1827,37 +1835,38 @@
         "points": 32
       },
       {
-        "text": "Love letters",
-        "aliases": [
-          "romantic notes"
-        ],
-        "points": 24
-      },
-      {
-        "text": "A ring",
-        "aliases": [
-          "engagement ring"
-        ],
-        "points": 18
-      },
-      {
         "text": "Their sweatshirt",
         "aliases": [
           "their hoodie"
         ],
-        "points": 12
-      },
-      {
-        "text": "A matching tattoo",
-        "aliases": [
-          "couples tattoo"
-        ],
-        "points": 8
+        "points": 24
       },
       {
         "text": "A romantic playlist",
         "aliases": [
           "our songs"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Love letters",
+        "aliases": [
+          "romantic notes"
+        ],
+        "points": 12
+      },
+      {
+        "text": "An old message thread",
+        "aliases": [
+          "old texts",
+          "DMs"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A matching tattoo",
+        "aliases": [
+          "couples tattoo"
         ],
         "points": 6
       }
@@ -2065,23 +2074,23 @@
     "prompt": "Name something relatives post in the family chat that nobody asked for.",
     "answers": [
       {
-        "text": "Baby photos",
-        "aliases": [
-          "pictures of babies"
-        ],
-        "points": 30
-      },
-      {
         "text": "Political rants",
         "aliases": [
           "political opinions"
         ],
-        "points": 24
+        "points": 30
       },
       {
         "text": "Chain messages",
         "aliases": [
           "forward this message"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Baby photos",
+        "aliases": [
+          "pictures of babies"
         ],
         "points": 18
       },
@@ -2093,9 +2102,9 @@
         "points": 13
       },
       {
-        "text": "Weather updates",
+        "text": "Voice notes",
         "aliases": [
-          "weather report"
+          "long audio messages"
         ],
         "points": 9
       },
@@ -2114,16 +2123,16 @@
     "prompt": "Name something you hide when your parents visit your first apartment.",
     "answers": [
       {
-        "text": "Alcohol",
+        "text": "A partner staying over",
         "aliases": [
-          "booze"
+          "secret overnight guest"
         ],
         "points": 32
       },
       {
-        "text": "A partner staying over",
+        "text": "Dirty dishes",
         "aliases": [
-          "secret overnight guest"
+          "sink full of dishes"
         ],
         "points": 24
       },
@@ -2135,23 +2144,23 @@
         "points": 18
       },
       {
-        "text": "Cigarettes",
+        "text": "A pet they disapprove of",
         "aliases": [
-          "smoking supplies"
+          "secret pet"
         ],
         "points": 12
+      },
+      {
+        "text": "Takeout containers",
+        "aliases": [
+          "delivery bags"
+        ],
+        "points": 8
       },
       {
         "text": "An expensive impulse buy",
         "aliases": [
           "a purchase they'd criticize"
-        ],
-        "points": 8
-      },
-      {
-        "text": "A pet they disapprove of",
-        "aliases": [
-          "secret pet"
         ],
         "points": 6
       }
@@ -2380,9 +2389,9 @@
         "points": 16
       },
       {
-        "text": "Having children",
+        "text": "Their dating app matches",
         "aliases": [
-          "baby plans"
+          "talking about matches"
         ],
         "points": 12
       },
@@ -2394,9 +2403,10 @@
         "points": 8
       },
       {
-        "text": "Medical problems",
+        "text": "Your most personal details",
         "aliases": [
-          "health complaints"
+          "oversharing",
+          "too personal"
         ],
         "points": 6
       }
@@ -2457,23 +2467,23 @@
     "prompt": "Name a reason a parent calls instead of texting.",
     "answers": [
       {
+        "text": "You haven't replied",
+        "aliases": [
+          "ignored messages"
+        ],
+        "points": 30
+      },
+      {
         "text": "They're worried",
         "aliases": [
           "checking you're safe"
         ],
-        "points": 30
+        "points": 24
       },
       {
         "text": "Urgent news",
         "aliases": [
           "an emergency"
-        ],
-        "points": 24
-      },
-      {
-        "text": "You haven't replied",
-        "aliases": [
-          "ignored messages"
         ],
         "points": 18
       },
@@ -2604,9 +2614,9 @@
     "prompt": "Name someone you dread accidentally calling at midnight.",
     "answers": [
       {
-        "text": "Your boss",
+        "text": "Your crush",
         "aliases": [
-          "manager"
+          "someone you fancy"
         ],
         "points": 31
       },
@@ -2618,23 +2628,23 @@
         "points": 23
       },
       {
-        "text": "Your parents",
+        "text": "Your boss",
         "aliases": [
-          "mom or dad"
+          "manager"
         ],
         "points": 18
       },
       {
-        "text": "Your crush",
+        "text": "Your parents",
         "aliases": [
-          "someone you fancy"
+          "mom or dad"
         ],
         "points": 13
       },
       {
-        "text": "Your in-laws",
+        "text": "A teacher",
         "aliases": [
-          "partner's parents"
+          "professor"
         ],
         "points": 9
       },
@@ -3150,9 +3160,9 @@
         "points": 29
       },
       {
-        "text": "Playing hard to get",
+        "text": "They're rewriting the reply",
         "aliases": [
-          "don't want to seem keen"
+          "drafting the perfect text"
         ],
         "points": 24
       },
@@ -3164,23 +3174,23 @@
         "points": 18
       },
       {
-        "text": "They forgot to reply",
-        "aliases": [
-          "got distracted"
-        ],
-        "points": 13
-      },
-      {
         "text": "They're not interested",
         "aliases": [
           "don't like them back"
         ],
+        "points": 13
+      },
+      {
+        "text": "They forgot to reply",
+        "aliases": [
+          "got distracted"
+        ],
         "points": 9
       },
       {
-        "text": "They're rewriting the reply",
+        "text": "Playing hard to get",
         "aliases": [
-          "drafting the perfect text"
+          "don't want to seem keen"
         ],
         "points": 7
       }
@@ -3416,16 +3426,17 @@
         "points": 11
       },
       {
-        "text": "A streaming profile",
+        "text": "Old story highlights",
         "aliases": [
-          "their TV profile"
+          "relationship highlight",
+          "highlight reel"
         ],
         "points": 8
       },
       {
-        "text": "Shared calendar events",
+        "text": "A streaming profile",
         "aliases": [
-          "anniversary reminders"
+          "their TV profile"
         ],
         "points": 5
       }
@@ -3647,16 +3658,16 @@
         "points": 24
       },
       {
-        "text": "You can't cook something",
+        "text": "Something needs fixing",
         "aliases": [
-          "cooking advice"
+          "home repair"
         ],
         "points": 18
       },
       {
-        "text": "Something needs fixing",
+        "text": "You can't cook something",
         "aliases": [
-          "home repair"
+          "cooking advice"
         ],
         "points": 12
       },
@@ -3924,7 +3935,7 @@
   {
     "id": "everyday-301",
     "category": "Everyday life",
-    "prompt": "Name something an in-law comments on that you'd rather they didn't.",
+    "prompt": "Name something your partner's family comments on that you'd rather they didn't.",
     "answers": [
       {
         "text": "Your cooking",
@@ -3934,37 +3945,39 @@
         "points": 30
       },
       {
-        "text": "How clean your home is",
-        "aliases": [
-          "housekeeping"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Your parenting",
-        "aliases": [
-          "raising the kids"
-        ],
-        "points": 18
-      },
-      {
         "text": "Your clothes",
         "aliases": [
           "what you wear"
         ],
-        "points": 12
+        "points": 24
       },
       {
         "text": "Your spending",
         "aliases": [
           "money habits"
         ],
+        "points": 18
+      },
+      {
+        "text": "How late you sleep",
+        "aliases": [
+          "sleep schedule"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Your school or career plans",
+        "aliases": [
+          "what you're studying",
+          "career plans"
+        ],
         "points": 9
       },
       {
-        "text": "Your own family",
+        "text": "Your phone use",
         "aliases": [
-          "your parents"
+          "screen time",
+          "always on your phone"
         ],
         "points": 7
       }
@@ -4375,16 +4388,16 @@
         "points": 31
       },
       {
-        "text": "The remote",
+        "text": "A phone charger",
         "aliases": [
-          "remote control"
+          "charging cable"
         ],
         "points": 23
       },
       {
-        "text": "Important documents",
+        "text": "The remote",
         "aliases": [
-          "paperwork"
+          "remote control"
         ],
         "points": 18
       },
@@ -4396,16 +4409,16 @@
         "points": 13
       },
       {
-        "text": "A phone charger",
+        "text": "Earbuds",
         "aliases": [
-          "charging cable"
+          "headphones"
         ],
         "points": 9
       },
       {
-        "text": "A wedding ring",
+        "text": "Important documents",
         "aliases": [
-          "engagement ring"
+          "paperwork"
         ],
         "points": 6
       }

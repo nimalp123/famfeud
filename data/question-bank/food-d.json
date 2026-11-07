@@ -26,23 +26,23 @@
         "points": 18
       },
       {
+        "text": "The group chat keeps asking when it's ready",
+        "aliases": [
+          "friends asking for an update"
+        ],
+        "points": 13
+      },
+      {
         "text": "Food covers their clothes",
         "aliases": [
           "stained apron"
         ],
-        "points": 13
+        "points": 9
       },
       {
         "text": "They keep checking the recipe",
         "aliases": [
           "reading instructions"
-        ],
-        "points": 9
-      },
-      {
-        "text": "They open a bottle of wine",
-        "aliases": [
-          "pouring a drink"
         ],
         "points": 6
       }
@@ -61,37 +61,37 @@
         "points": 35
       },
       {
-        "text": "Money",
+        "text": "Who you're dating",
         "aliases": [
-          "salaries"
+          "relationship status"
         ],
         "points": 25
       },
       {
-        "text": "An ex",
+        "text": "Grades",
         "aliases": [
-          "old relationship"
+          "school marks"
         ],
         "points": 16
       },
       {
-        "text": "Having children",
+        "text": "Future plans",
         "aliases": [
-          "when are you having a baby"
+          "what you're doing after school"
         ],
         "points": 11
+      },
+      {
+        "text": "Money",
+        "aliases": [
+          "salaries"
+        ],
+        "points": 8
       },
       {
         "text": "Family gossip",
         "aliases": [
           "family secrets"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Someone's weight",
-        "aliases": [
-          "dieting"
         ],
         "points": 5
       }
@@ -100,7 +100,7 @@
   {
     "id": "food-223",
     "category": "Food & drink",
-    "prompt": "Name something you secretly judge at a dinner party.",
+    "prompt": "Name something you secretly judge when someone hosts dinner for friends.",
     "answers": [
       {
         "text": "The food",
@@ -119,23 +119,23 @@
         "points": 25
       },
       {
-        "text": "Table manners",
+        "text": "The music",
         "aliases": [
-          "manners"
+          "playlist"
         ],
         "points": 16
       },
       {
-        "text": "The decor",
+        "text": "Who gets along with whom",
         "aliases": [
-          "decorations"
+          "the group vibe"
         ],
         "points": 11
       },
       {
-        "text": "The music",
+        "text": "Table manners",
         "aliases": [
-          "playlist"
+          "manners"
         ],
         "points": 8
       },
@@ -162,16 +162,16 @@
         "points": 30
       },
       {
-        "text": "They cannot find ingredients",
+        "text": "They keep replaying the recipe video",
         "aliases": [
-          "missing ingredients"
+          "video tutorial on repeat"
         ],
         "points": 24
       },
       {
-        "text": "They keep changing the recipe",
+        "text": "They cannot find ingredients",
         "aliases": [
-          "making substitutions"
+          "missing ingredients"
         ],
         "points": 18
       },
@@ -743,9 +743,9 @@
     "prompt": "Name something a guest takes too much of at a make-your-own taco bar.",
     "answers": [
       {
-        "text": "Meat",
+        "text": "Guacamole",
         "aliases": [
-          "beef"
+          "avocado"
         ],
         "points": 30
       },
@@ -757,23 +757,23 @@
         "points": 24
       },
       {
-        "text": "Guacamole",
+        "text": "Meat",
         "aliases": [
-          "avocado"
+          "beef"
         ],
         "points": 18
-      },
-      {
-        "text": "Sour cream",
-        "aliases": [
-          "crema"
-        ],
-        "points": 13
       },
       {
         "text": "Salsa",
         "aliases": [
           "tomato salsa"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Sour cream",
+        "aliases": [
+          "crema"
         ],
         "points": 9
       },
@@ -789,47 +789,47 @@
   {
     "id": "food-237",
     "category": "Food & drink",
-    "prompt": "What might make a host regret offering to carve the turkey?",
+    "prompt": "You offered to cut the birthday cake. What might make you regret it?",
     "answers": [
       {
-        "text": "The knife is blunt",
+        "text": "Everyone wants a corner piece",
         "aliases": [
-          "dull knife"
+          "fighting over the corners"
         ],
         "points": 35
       },
       {
-        "text": "Everyone watches",
+        "text": "The knife won't cut through",
         "aliases": [
-          "audience"
+          "dull knife"
         ],
         "points": 25
       },
       {
-        "text": "It is still raw",
+        "text": "The cake starts falling apart",
         "aliases": [
-          "undercooked"
+          "cake crumbles"
         ],
         "points": 16
       },
       {
-        "text": "It falls apart",
+        "text": "People complain about slice sizes",
         "aliases": [
-          "meat breaks up"
+          "uneven pieces"
         ],
         "points": 11
       },
       {
-        "text": "They cannot find the joints",
+        "text": "There are more people than slices",
         "aliases": [
-          "where to cut"
+          "cake won't serve everyone"
         ],
         "points": 8
       },
       {
-        "text": "They are asked for perfect slices",
+        "text": "The cake is still frozen",
         "aliases": [
-          "fussy guests"
+          "it's frozen"
         ],
         "points": 5
       }
@@ -1053,26 +1053,25 @@
         "points": 25
       },
       {
+        "text": "Get a friend to save it",
+        "aliases": [
+          "have someone hold it",
+          "ask friend to save seat"
+        ],
+        "points": 16
+      },
+      {
         "text": "Ask the host",
         "aliases": [
           "request the seat",
           "ask to sit there"
         ],
-        "points": 16
-      },
-      {
-        "text": "Swap the place cards",
-        "aliases": [
-          "move name cards",
-          "switch name cards"
-        ],
         "points": 11
       },
       {
-        "text": "Get a friend to save it",
+        "text": "Move someone else's bag",
         "aliases": [
-          "have someone hold it",
-          "ask friend to save seat"
+          "move their stuff"
         ],
         "points": 8
       },
@@ -1148,23 +1147,23 @@
         "points": 28
       },
       {
-        "text": "Not feeling well",
+        "text": "Saving room for dessert",
         "aliases": [
-          "upset stomach"
+          "want pudding"
         ],
         "points": 23
       },
       {
-        "text": "Trying a new diet",
+        "text": "Can't eat an ingredient",
         "aliases": [
-          "watching what I eat"
+          "dietary restriction"
         ],
         "points": 19
       },
       {
-        "text": "Saving room for dessert",
+        "text": "Not feeling well",
         "aliases": [
-          "want pudding"
+          "upset stomach"
         ],
         "points": 14
       },
@@ -1176,10 +1175,9 @@
         "points": 10
       },
       {
-        "text": "Mouth is sore",
+        "text": "Feeling awkward",
         "aliases": [
-          "toothache",
-          "dental work"
+          "too nervous to eat"
         ],
         "points": 6
       }
@@ -1443,39 +1441,39 @@
         "points": 35
       },
       {
+        "text": "A retainer",
+        "aliases": [
+          "dental retainer"
+        ],
+        "points": 25
+      },
+      {
         "text": "Silverware",
         "aliases": [
           "cutlery",
           "fork",
           "spoon"
         ],
-        "points": 25
+        "points": 16
       },
       {
-        "text": "A napkin ring",
+        "text": "A takeout sauce you wanted",
         "aliases": [
-          "napkin holder"
+          "extra dipping sauce"
         ],
-        "points": 16
+        "points": 11
       },
       {
         "text": "A recipe",
         "aliases": [
           "recipe card"
         ],
-        "points": 11
+        "points": 8
       },
       {
         "text": "A receipt",
         "aliases": [
           "shopping receipt"
-        ],
-        "points": 8
-      },
-      {
-        "text": "A retainer",
-        "aliases": [
-          "dental retainer"
         ],
         "points": 5
       }
@@ -1750,23 +1748,23 @@
         "points": 23
       },
       {
-        "text": "Getting dressed",
-        "aliases": [
-          "changing clothes"
-        ],
-        "points": 19
-      },
-      {
         "text": "Setting the table",
         "aliases": [
           "laying out plates"
         ],
+        "points": 19
+      },
+      {
+        "text": "Making the playlist",
+        "aliases": [
+          "putting music on"
+        ],
         "points": 14
       },
       {
-        "text": "Buying ice",
+        "text": "Getting dressed",
         "aliases": [
-          "ice run"
+          "changing clothes"
         ],
         "points": 10
       },
@@ -1799,30 +1797,30 @@
         "points": 24
       },
       {
-        "text": "Singing",
+        "text": "Telling embarrassing stories",
         "aliases": [
-          "birthday song"
+          "childhood stories"
         ],
         "points": 18
       },
       {
-        "text": "Taking pictures",
+        "text": "Singing",
         "aliases": [
-          "photographing me"
+          "birthday song"
         ],
         "points": 13
+      },
+      {
+        "text": "Filming a video of you",
+        "aliases": [
+          "recording you"
+        ],
+        "points": 9
       },
       {
         "text": "Talking about work",
         "aliases": [
           "work stories"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Telling embarrassing stories",
-        "aliases": [
-          "childhood stories"
         ],
         "points": 6
       }
@@ -1856,9 +1854,9 @@
         "points": 16
       },
       {
-        "text": "A piece of cork",
+        "text": "A piece of straw wrapper",
         "aliases": [
-          "cork"
+          "wrapper in the drink"
         ],
         "points": 11
       },
@@ -1996,30 +1994,30 @@
         "points": 25
       },
       {
-        "text": "A child needs help",
+        "text": "The oven timer",
         "aliases": [
-          "kid asking for something"
+          "food timer"
         ],
         "points": 16
+      },
+      {
+        "text": "The group chat blows up",
+        "aliases": [
+          "a bunch of texts come in"
+        ],
+        "points": 11
       },
       {
         "text": "A pet begs",
         "aliases": [
           "dog whining"
         ],
-        "points": 11
+        "points": 8
       },
       {
         "text": "A drink spills",
         "aliases": [
           "knocked over glass"
-        ],
-        "points": 8
-      },
-      {
-        "text": "The oven timer",
-        "aliases": [
-          "food timer"
         ],
         "points": 5
       }
@@ -2136,9 +2134,9 @@
         "points": 35
       },
       {
-        "text": "I'm not hungry",
+        "text": "I'm finishing this game",
         "aliases": [
-          "not hungry yet"
+          "playing a game"
         ],
         "points": 25
       },
@@ -2150,23 +2148,23 @@
         "points": 16
       },
       {
-        "text": "I'm in the bathroom",
+        "text": "I'm doing homework",
         "aliases": [
-          "on the toilet"
+          "still studying"
         ],
         "points": 11
       },
       {
-        "text": "I'm finishing this game",
+        "text": "I'm not hungry",
         "aliases": [
-          "playing a game"
+          "not hungry yet"
         ],
         "points": 8
       },
       {
-        "text": "I thought we ate later",
+        "text": "I already ate",
         "aliases": [
-          "wrong dinner time"
+          "had food earlier"
         ],
         "points": 5
       }
@@ -2276,37 +2274,37 @@
     "prompt": "An unexpected dinner guest arrives. What might the host quietly change?",
     "answers": [
       {
-        "text": "Add water to the soup",
-        "aliases": [
-          "stretch the soup"
-        ],
-        "points": 35
-      },
-      {
         "text": "Cut smaller portions",
         "aliases": [
           "smaller servings"
         ],
-        "points": 25
-      },
-      {
-        "text": "Bring out extra bread",
-        "aliases": [
-          "more rolls"
-        ],
-        "points": 16
+        "points": 35
       },
       {
         "text": "Add another chair",
         "aliases": [
           "find a seat"
         ],
-        "points": 11
+        "points": 25
       },
       {
         "text": "Order another dish",
         "aliases": [
           "extra takeout"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Cook more rice",
+        "aliases": [
+          "make another batch of rice"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Put out snacks",
+        "aliases": [
+          "grab chips"
         ],
         "points": 8
       },
@@ -2371,47 +2369,47 @@
   {
     "id": "food-269",
     "category": "Food & drink",
-    "prompt": "Name something a kid blames when their packed lunch comes home untouched.",
+    "prompt": "Name something a student blames when their packed lunch comes home untouched.",
     "answers": [
       {
-        "text": "Soggy bread",
+        "text": "They grabbed food with friends",
         "aliases": [
-          "sandwich got wet"
+          "ate out with friends"
         ],
         "points": 30
-      },
-      {
-        "text": "Lunch break was too short",
-        "aliases": [
-          "no time to eat"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Someone gave them other food",
-        "aliases": [
-          "friend shared lunch"
-        ],
-        "points": 18
       },
       {
         "text": "They forgot it",
         "aliases": [
           "left it in their bag"
         ],
-        "points": 13
+        "points": 24
       },
       {
-        "text": "It was too cold",
+        "text": "Lunch break was too short",
         "aliases": [
-          "cold lunch"
+          "no time to eat"
         ],
-        "points": 9
+        "points": 18
+      },
+      {
+        "text": "Soggy bread",
+        "aliases": [
+          "sandwich got wet"
+        ],
+        "points": 13
       },
       {
         "text": "They were not hungry",
         "aliases": [
           "no appetite"
+        ],
+        "points": 9
+      },
+      {
+        "text": "No microwave",
+        "aliases": [
+          "couldn't heat it up"
         ],
         "points": 6
       }
@@ -2786,30 +2784,30 @@
         "points": 23
       },
       {
-        "text": "Salt",
+        "text": "Plates",
         "aliases": [
-          "salt shaker"
+          "dishes to serve on"
         ],
         "points": 19
       },
       {
-        "text": "Clean towels",
+        "text": "Salt",
         "aliases": [
-          "dish towel"
+          "salt shaker"
         ],
         "points": 14
+      },
+      {
+        "text": "A can opener",
+        "aliases": [
+          "tin opener"
+        ],
+        "points": 10
       },
       {
         "text": "Pot lids",
         "aliases": [
           "matching lid"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Light switches",
-        "aliases": [
-          "kitchen light"
         ],
         "points": 6
       }
@@ -3142,23 +3140,23 @@
         "points": 18
       },
       {
-        "text": "Dim the lights",
+        "text": "Get the lighting right for a picture",
         "aliases": [
-          "candlelight"
+          "food photo lighting"
         ],
         "points": 13
+      },
+      {
+        "text": "Make a side dish",
+        "aliases": [
+          "add a side"
+        ],
+        "points": 9
       },
       {
         "text": "Serve tiny portions",
         "aliases": [
           "restaurant portions"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Pour wine",
-        "aliases": [
-          "wine pairing"
         ],
         "points": 6
       }
@@ -3233,30 +3231,30 @@
         "points": 23
       },
       {
-        "text": "A bagged salad",
-        "aliases": [
-          "salad kit"
-        ],
-        "points": 19
-      },
-      {
         "text": "Drinks",
         "aliases": [
           "soda"
         ],
+        "points": 19
+      },
+      {
+        "text": "Order a pizza",
+        "aliases": [
+          "delivery pizza"
+        ],
         "points": 14
       },
       {
-        "text": "Bread",
+        "text": "A fruit tray",
         "aliases": [
-          "rolls"
+          "cut fruit"
         ],
         "points": 10
       },
       {
-        "text": "A rotisserie chicken",
+        "text": "Ice",
         "aliases": [
-          "cooked supermarket chicken"
+          "bag of ice"
         ],
         "points": 6
       }
@@ -3331,23 +3329,23 @@
         "points": 25
       },
       {
-        "text": "Utensils",
-        "aliases": [
-          "fork and knife"
-        ],
-        "points": 16
-      },
-      {
         "text": "Their phone",
         "aliases": [
           "cellphone"
         ],
+        "points": 16
+      },
+      {
+        "text": "Utensils",
+        "aliases": [
+          "fork and knife"
+        ],
         "points": 11
       },
       {
-        "text": "A child",
+        "text": "Car keys",
         "aliases": [
-          "holding a baby"
+          "keys"
         ],
         "points": 8
       },
@@ -3380,30 +3378,30 @@
         "points": 23
       },
       {
-        "text": "Gravy",
+        "text": "Loaded nachos",
         "aliases": [
-          "gravy boat"
+          "a pile of nachos"
         ],
         "points": 19
       },
       {
-        "text": "A whole roast",
+        "text": "A bowl of saucy pasta",
         "aliases": [
-          "large turkey"
+          "pasta with sauce"
         ],
         "points": 14
       },
       {
-        "text": "Jelly",
+        "text": "A tray of sliders",
         "aliases": [
-          "jello mold"
+          "little burgers"
         ],
         "points": 10
       },
       {
-        "text": "A flaming dessert",
+        "text": "An ice cream sundae",
         "aliases": [
-          "flambe"
+          "sundae"
         ],
         "points": 6
       }
@@ -3572,37 +3570,37 @@
         "points": 30
       },
       {
-        "text": "Pie",
+        "text": "Cheesecake",
         "aliases": [
-          "fruit pie"
+          "cheese cake"
         ],
         "points": 24
+      },
+      {
+        "text": "Cinnamon rolls",
+        "aliases": [
+          "cinnamon buns"
+        ],
+        "points": 18
       },
       {
         "text": "Macarons",
         "aliases": [
           "macaroons"
         ],
-        "points": 18
-      },
-      {
-        "text": "Cheesecake",
-        "aliases": [
-          "cheese cake"
-        ],
         "points": 13
       },
       {
-        "text": "Souffle",
+        "text": "Pie",
         "aliases": [
-          "chocolate souffle"
+          "fruit pie"
         ],
         "points": 9
       },
       {
-        "text": "Ice cream",
+        "text": "Brownies",
         "aliases": [
-          "homemade ice cream"
+          "fudge brownies"
         ],
         "points": 6
       }
@@ -3670,23 +3668,23 @@
         "points": 28
       },
       {
-        "text": "Find serving utensils",
-        "aliases": [
-          "get a spoon"
-        ],
-        "points": 23
-      },
-      {
         "text": "Refill drinks",
         "aliases": [
           "pour more water"
         ],
+        "points": 23
+      },
+      {
+        "text": "Find serving utensils",
+        "aliases": [
+          "get a spoon"
+        ],
         "points": 19
       },
       {
-        "text": "Help a child",
+        "text": "Reheat someone's food",
         "aliases": [
-          "cut a kid's food"
+          "warm up a serving"
         ],
         "points": 14
       },
@@ -4124,30 +4122,30 @@
         "points": 23
       },
       {
-        "text": "Bottle opener",
-        "aliases": [
-          "corkscrew"
-        ],
-        "points": 19
-      },
-      {
         "text": "Drinks",
         "aliases": [
           "beverages"
         ],
-        "points": 14
+        "points": 19
       },
       {
-        "text": "Salt and pepper",
+        "text": "Ice",
         "aliases": [
-          "seasoning"
+          "ice for drinks"
         ],
-        "points": 10
+        "points": 14
       },
       {
         "text": "Trash bags",
         "aliases": [
           "bin bags"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Salt and pepper",
+        "aliases": [
+          "seasoning"
         ],
         "points": 6
       }
@@ -4180,23 +4178,23 @@
         "points": 18
       },
       {
-        "text": "Pasta",
+        "text": "Takeout noodles",
         "aliases": [
-          "spaghetti"
+          "noodle takeout"
         ],
         "points": 13
       },
       {
-        "text": "Chinese food",
+        "text": "Chicken tenders",
         "aliases": [
-          "Chinese takeout"
+          "chicken strips"
         ],
         "points": 9
       },
       {
-        "text": "Sushi",
+        "text": "Burrito bowls",
         "aliases": [
-          "sushi rolls"
+          "rice bowl burritos"
         ],
         "points": 6
       }
@@ -4229,9 +4227,9 @@
         "points": 16
       },
       {
-        "text": "Sit under the high chair",
+        "text": "Sit under your chair",
         "aliases": [
-          "wait for the baby"
+          "wait under the chair"
         ],
         "points": 11
       },

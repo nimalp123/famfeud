@@ -3,6 +3,7 @@
 import { ArrowRight, LogOut, RotateCcw, Sparkles, Trophy } from "lucide-react";
 import type { ClientAction, RoomView, Session } from "../lib/types.ts";
 import { PLAYER_AVATARS } from "../lib/constants.ts";
+import RoomLinkButton from "./RoomLinkButton";
 
 interface ResultsScreenProps {
   room: RoomView;
@@ -26,7 +27,7 @@ export default function ResultsScreen({ room, session, onAction, onLeave, busy, 
 
   return (
     <section className="results-screen" aria-label="Game results">
-      <div className="match-topline"><span className="badge">THAT’S A WRAP</span><span className="match-room-code">Room <strong>{room.code}</strong></span></div>
+      <div className="match-topline"><span className="badge">THAT’S A WRAP</span><RoomLinkButton code={room.code} className="button button-quiet match-room-code" showCode /></div>
       <div className="results-hero">
         <div className="results-trophy" aria-hidden="true"><Sparkles size={24} /><Trophy size={60} strokeWidth={1.6} /><Sparkles size={21} /></div>
         <span className="badge">{room.roundIndex + 1} {room.roundIndex === 0 ? "round" : "rounds"} played. Plenty of opinions.</span>

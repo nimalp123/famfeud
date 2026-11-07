@@ -4,6 +4,7 @@ import { useEffect, useState, type FormEvent } from "react";
 import { ArrowRight, Check, Globe2, LockKeyhole, Radio, Sparkles, Trophy, Users, Zap } from "lucide-react";
 import type { GameMode, PublicRoom, RoomSettings } from "@/lib/types";
 import { PLAYER_AVATARS, QUESTION_CATEGORIES } from "@/lib/constants";
+import { readSession, requestedRoom } from "@/lib/client";
 
 interface HomeScreenProps {
   onCreate: (name: string, avatar: number, settings: RoomSettings) => Promise<void>;
@@ -23,18 +24,19 @@ export default function HomeScreen({ onCreate, onJoin, publicRooms, busy, error,
   const [category, setCategory] = useState("Anything goes");
   const [rounds, setRounds] = useState(3);
   const [maxPlayers, setMaxPlayers] = useState(6);
+  const hasSavedSeat = tab === "join" && code.length === 6 && Boolean(readSession(code));
 
   useEffect(() => {
-    const invite = new URLSearchParams(window.location.search).get("room");
+    const invite = requestedRoom(window.location.search);
     if (invite) {
-      setCode(invite.toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 6));
+      setCode(invite);
       setTab("join");
     }
   }, []);
 
   function submit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    if (busy || !name.trim()) return;
+    if (busy || (!hasSavedSeat && !name.trim())) return;
     if (tab === "join") {
       void onJoin(code.trim(), name.trim(), avatar);
     } else {
@@ -81,7 +83,7 @@ export default function HomeScreen({ onCreate, onJoin, publicRooms, busy, error,
           <form id="home-room-form" className="home-room-form" role="tabpanel" aria-labelledby={`${tab}-tab`} onSubmit={submit}>
             <div className="home-identity-row">
               <span className={`avatar home-selected-avatar avatar-${avatar}`} aria-hidden="true">{PLAYER_AVATARS[avatar]}</span>
-              <div className="home-name-field"><label className="label" htmlFor="home-nickname">Your nickname</label><input className="field" id="home-nickname" value={name} onChange={(event) => setName(event.target.value)} placeholder="What should we call you?" maxLength={20} minLength={1} autoComplete="nickname" required /></div>
+              <div className="home-name-field"><label className="label" htmlFor="home-nickname">Your nickname</label><input className="field" id="home-nickname" value={name} onChange={(event) => setName(event.target.value)} placeholder="What should we call you?" maxLength={20} minLength={1} autoComplete="nickname" required={!hasSavedSeat} disabled={hasSavedSeat} /></div>
             </div>
             <div className="home-avatar-picker" role="group" aria-label="Pick your avatar">
               {PLAYER_AVATARS.map((emoji, index) => <button key={emoji} type="button" className={`home-avatar-option ${avatar === index ? "is-selected" : ""}`} aria-label={`Choose ${["cool face", "cowboy", "alien", "frog", "fox", "panda", "robot", "ghost"][index]} avatar`} aria-pressed={avatar === index} onClick={() => setAvatar(index)}>{emoji}{avatar === index && <Check size={10} className="home-avatar-check" />}</button>)}
@@ -100,8 +102,8 @@ export default function HomeScreen({ onCreate, onJoin, publicRooms, busy, error,
             </> : <div className="home-code-field"><label className="label" htmlFor="home-code">Lobby code</label><input className="field home-code-input" id="home-code" value={code} onChange={(event) => setCode(event.target.value.toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 6))} placeholder="ABCDEF" autoComplete="off" autoCapitalize="characters" spellCheck={false} minLength={6} maxLength={6} required /><p>Get the six-character code from your host.</p></div>}
 
             {error && <div className="home-error" role="alert">{error}</div>}
-            <button className="button button-primary home-submit" type="submit" disabled={busy || !name.trim() || (tab === "join" && code.length !== 6)}><span>{busy ? "Getting your seat…" : tab === "create" ? "Create my lobby" : "Join the showdown"}</span><ArrowRight size={19} /></button>
-            <p className="home-private-note"><LockKeyhole size={13} />{tab === "create" ? "Starts private. Invite friends or open it to everyone." : "One code. Your people. Let the guessing begin."}</p>
+            <button className="button button-primary home-submit" type="submit" disabled={busy || (!hasSavedSeat && !name.trim()) || (tab === "join" && code.length !== 6)}><span>{busy ? "Getting your seat…" : tab === "create" ? "Create my lobby" : hasSavedSeat ? "Rejoin my seat" : "Join the showdown"}</span><ArrowRight size={19} /></button>
+            <p className="home-private-note"><LockKeyhole size={13} />{tab === "create" ? "Starts private. Invite friends or open it to everyone." : hasSavedSeat ? "This browser has a saved seat for this room." : "One code. Your people. Let the guessing begin."}</p>
           </form>
         </section>
       </div>

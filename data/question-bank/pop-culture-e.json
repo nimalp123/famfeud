@@ -2,40 +2,41 @@
   {
     "id": "culture-311",
     "category": "Pop culture",
-    "prompt": "If you could borrow a superpower for your job, which would you choose?",
+    "prompt": "If you could borrow one superpower for school or a work shift, which would you choose?",
     "answers": [
-      {
-        "text": "Read minds",
-        "aliases": [
-          "mind reading"
-        ],
-        "points": 32
-      },
       {
         "text": "Teleport",
         "aliases": [
           "teleportation"
         ],
-        "points": 24
+        "points": 32
       },
       {
         "text": "Freeze time",
         "aliases": [
           "stop time"
         ],
-        "points": 18
-      },
-      {
-        "text": "Super speed",
-        "aliases": [
-          "superspeed"
-        ],
-        "points": 12
+        "points": 24
       },
       {
         "text": "Clone yourself",
         "aliases": [
           "make copies of myself"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Super speed",
+        "aliases": [
+          "work faster",
+          "run fast"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Read minds",
+        "aliases": [
+          "mind reading"
         ],
         "points": 9
       },
@@ -117,9 +118,10 @@
         "points": 23
       },
       {
-        "text": "A photo",
+        "text": "Your location shows up in a post",
         "aliases": [
-          "picture of you changing"
+          "location tag",
+          "geo tag"
         ],
         "points": 17
       },
@@ -138,9 +140,10 @@
         "points": 8
       },
       {
-        "text": "A loved one recognizes you",
+        "text": "Your friend recognizes the backpack",
         "aliases": [
-          "family recognizes you"
+          "recognizable bag",
+          "backpack"
         ],
         "points": 6
       }
@@ -278,16 +281,18 @@
         "points": 13
       },
       {
-        "text": "Finding a partner",
+        "text": "Turning in assignments",
         "aliases": [
-          "dating"
+          "homework",
+          "missing schoolwork"
         ],
         "points": 8
       },
       {
-        "text": "Getting a haircut",
+        "text": "Cleaning their room",
         "aliases": [
-          "cutting their hair"
+          "tidy up",
+          "messy room"
         ],
         "points": 6
       }
@@ -495,23 +500,25 @@
     "prompt": "If you could make one clone of yourself, what job would you give it?",
     "answers": [
       {
-        "text": "Go to work",
+        "text": "Go to class",
         "aliases": [
-          "do my job"
+          "study",
+          "attend class"
         ],
         "points": 34
       },
       {
-        "text": "Clean the house",
+        "text": "Go to work",
         "aliases": [
-          "chores"
+          "do my job"
         ],
         "points": 23
       },
       {
-        "text": "Exercise",
+        "text": "Do the chores",
         "aliases": [
-          "go to the gym"
+          "clean the house",
+          "cleaning"
         ],
         "points": 17
       },
@@ -523,9 +530,9 @@
         "points": 12
       },
       {
-        "text": "Study",
+        "text": "Exercise",
         "aliases": [
-          "do homework"
+          "go to the gym"
         ],
         "points": 8
       },
@@ -663,9 +670,10 @@
         "points": 18
       },
       {
-        "text": "Your baby's name",
+        "text": "What to text your crush",
         "aliases": [
-          "child's name"
+          "reply to my crush",
+          "send a DM"
         ],
         "points": 13
       },
@@ -677,9 +685,10 @@
         "points": 8
       },
       {
-        "text": "Your career",
+        "text": "Your classes",
         "aliases": [
-          "job"
+          "course schedule",
+          "school schedule"
         ],
         "points": 6
       }
@@ -698,37 +707,41 @@
         "points": 34
       },
       {
-        "text": "An investment",
+        "text": "A message you sent",
         "aliases": [
-          "money decision"
+          "risky text",
+          "DM"
         ],
         "points": 23
       },
       {
-        "text": "A career choice",
+        "text": "What classes you picked",
         "aliases": [
-          "job decision"
+          "course choices",
+          "school decisions"
         ],
         "points": 17
+      },
+      {
+        "text": "A friend you let drift away",
+        "aliases": [
+          "lost friendship",
+          "stopped talking to a friend"
+        ],
+        "points": 12
+      },
+      {
+        "text": "An expensive thing you bought",
+        "aliases": [
+          "bad purchase",
+          "regretted buying something"
+        ],
+        "points": 8
       },
       {
         "text": "An embarrassing remark",
         "aliases": [
           "something I said"
-        ],
-        "points": 12
-      },
-      {
-        "text": "A bet",
-        "aliases": [
-          "lottery numbers"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Leaving school",
-        "aliases": [
-          "education choice"
         ],
         "points": 6
       }
@@ -889,9 +902,10 @@
     "prompt": "What might a superhero do with their powers just to avoid getting off the couch?",
     "answers": [
       {
-        "text": "Fetch the remote",
+        "text": "Grab a phone charger",
         "aliases": [
-          "get remote"
+          "get the charger",
+          "pull the charging cable over"
         ],
         "points": 34
       },
@@ -924,9 +938,11 @@
         "points": 8
       },
       {
-        "text": "Charge their phone",
+        "text": "Start the next episode",
         "aliases": [
-          "bring charger"
+          "skip the intro",
+          "press play",
+          "play another episode"
         ],
         "points": 6
       }
@@ -1239,38 +1255,41 @@
         "points": 30
       },
       {
-        "text": "Good health",
+        "text": "Rent covered",
         "aliases": [
-          "health"
+          "free rent",
+          "housing costs"
         ],
         "points": 25
       },
       {
-        "text": "A house",
+        "text": "School paid for",
         "aliases": [
-          "home"
+          "no tuition",
+          "free tuition",
+          "college paid for"
         ],
         "points": 18
       },
       {
-        "text": "A dream job",
+        "text": "A job that pays enough",
         "aliases": [
-          "perfect career"
+          "better-paying job",
+          "high-paying job"
         ],
         "points": 13
+      },
+      {
+        "text": "Good health",
+        "aliases": [
+          "health"
+        ],
+        "points": 8
       },
       {
         "text": "More free time",
         "aliases": [
           "time off"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Chores done forever",
-        "aliases": [
-          "no housework",
-          "self cleaning home"
         ],
         "points": 6
       }
@@ -1387,37 +1406,38 @@
         "points": 32
       },
       {
+        "text": "Wi-Fi",
+        "aliases": [
+          "internet",
+          "good internet connection"
+        ],
+        "points": 24
+      },
+      {
         "text": "Hot showers",
         "aliases": [
           "hot running water"
         ],
-        "points": 24
+        "points": 18
       },
       {
         "text": "A washing machine",
         "aliases": [
           "washer"
         ],
-        "points": 18
-      },
-      {
-        "text": "A car",
-        "aliases": [
-          "automobile"
-        ],
         "points": 12
-      },
-      {
-        "text": "Central heating",
-        "aliases": [
-          "air conditioning"
-        ],
-        "points": 9
       },
       {
         "text": "A microwave",
         "aliases": [
           "microwave oven"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A car",
+        "aliases": [
+          "automobile"
         ],
         "points": 5
       }
@@ -2276,9 +2296,10 @@
         "points": 23
       },
       {
-        "text": "A banknote",
+        "text": "A sticky note",
         "aliases": [
-          "cash"
+          "Post-it",
+          "note"
         ],
         "points": 17
       },
@@ -2290,9 +2311,10 @@
         "points": 12
       },
       {
-        "text": "A train ticket",
+        "text": "An old student ID",
         "aliases": [
-          "ticket"
+          "student card",
+          "ID card"
         ],
         "points": 8
       },
@@ -2367,37 +2389,39 @@
         "points": 32
       },
       {
+        "text": "Reply to messages",
+        "aliases": [
+          "text back"
+        ],
+        "points": 24
+      },
+      {
         "text": "Eat",
         "aliases": [
           "have dinner"
         ],
-        "points": 24
+        "points": 18
+      },
+      {
+        "text": "Finish an assignment",
+        "aliases": [
+          "homework",
+          "do your work"
+        ],
+        "points": 12
       },
       {
         "text": "Get off the train",
         "aliases": [
           "miss a stop"
         ],
-        "points": 18
-      },
-      {
-        "text": "Do your work",
-        "aliases": [
-          "finish work"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Reply to messages",
-        "aliases": [
-          "text back"
-        ],
         "points": 9
       },
       {
-        "text": "Pick someone up",
+        "text": "Charge your phone",
         "aliases": [
-          "collect someone"
+          "plug your phone in",
+          "battery"
         ],
         "points": 5
       }
@@ -2417,40 +2441,40 @@
         "points": 30
       },
       {
-        "text": "Ask the author for updates",
-        "aliases": [
-          "nag the author",
-          "check author updates"
-        ],
-        "points": 24
-      },
-      {
         "text": "Make up theories",
         "aliases": [
           "fan theories",
           "guess the plot"
         ],
-        "points": 18
+        "points": 24
       },
       {
         "text": "Read fan fiction",
         "aliases": [
           "fanfiction"
         ],
+        "points": 18
+      },
+      {
+        "text": "Look for updates on the author's socials",
+        "aliases": [
+          "check the author's Instagram",
+          "ask the author"
+        ],
         "points": 13
+      },
+      {
+        "text": "Make fan edits",
+        "aliases": [
+          "edit their favorite character",
+          "character edits"
+        ],
+        "points": 9
       },
       {
         "text": "Start another series",
         "aliases": [
           "read other books"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Forget the characters",
-        "aliases": [
-          "forget the names",
-          "forget the story"
         ],
         "points": 6
       }
@@ -2476,23 +2500,25 @@
         "points": 23
       },
       {
+        "text": "A creator talked you into it",
+        "aliases": [
+          "BookTok recommendation",
+          "BookTube rec",
+          "creator rec"
+        ],
+        "points": 17
+      },
+      {
         "text": "A favorite author",
         "aliases": [
           "author name"
         ],
-        "points": 17
+        "points": 12
       },
       {
         "text": "A sale",
         "aliases": [
           "cheap price"
-        ],
-        "points": 12
-      },
-      {
-        "text": "The title",
-        "aliases": [
-          "interesting title"
         ],
         "points": 8
       },
@@ -3297,44 +3323,47 @@
     "prompt": "What might a book club spend more time discussing than the book?",
     "answers": [
       {
-        "text": "Relationships",
-        "aliases": [
-          "dating"
-        ],
-        "points": 31
-      },
-      {
-        "text": "Work",
-        "aliases": [
-          "jobs"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Children",
-        "aliases": [
-          "kids"
-        ],
-        "points": 18
-      },
-      {
         "text": "Gossip",
         "aliases": [
           "other people"
         ],
-        "points": 12
+        "points": 31
+      },
+      {
+        "text": "Relationships",
+        "aliases": [
+          "dating"
+        ],
+        "points": 25
       },
       {
         "text": "The food",
         "aliases": [
           "snacks"
         ],
+        "points": 18
+      },
+      {
+        "text": "School or work drama",
+        "aliases": [
+          "school drama",
+          "work gossip"
+        ],
+        "points": 12
+      },
+      {
+        "text": "The show based on the book",
+        "aliases": [
+          "TV adaptation",
+          "the adaptation"
+        ],
         "points": 9
       },
       {
-        "text": "Holiday plans",
+        "text": "What to do this weekend",
         "aliases": [
-          "vacations"
+          "weekend plans",
+          "making plans"
         ],
         "points": 5
       }
@@ -3507,9 +3536,10 @@
         "points": 25
       },
       {
-        "text": "Building blocks",
+        "text": "A LEGO set",
         "aliases": [
-          "lego"
+          "building blocks",
+          "Legos"
         ],
         "points": 18
       },
@@ -3528,9 +3558,11 @@
         "points": 9
       },
       {
-        "text": "A game console",
+        "text": "A handheld console",
         "aliases": [
-          "old console"
+          "old game console",
+          "Nintendo DS",
+          "Nintendo Switch"
         ],
         "points": 5
       }
@@ -3539,12 +3571,12 @@
   {
     "id": "culture-383",
     "category": "Pop culture",
-    "prompt": "Name something you swore you would never say until you became an adult.",
+    "prompt": "Name something you swore you'd never say until you started sounding like your parents.",
     "answers": [
       {
-        "text": "Because I said so",
+        "text": "We have food at home",
         "aliases": [
-          "that's why"
+          "there is food at home"
         ],
         "points": 32
       },
@@ -3570,9 +3602,10 @@
         "points": 12
       },
       {
-        "text": "Were you raised in a barn",
+        "text": "I'm turning in early",
         "aliases": [
-          "close the door"
+          "going to bed early",
+          "sleeping early"
         ],
         "points": 9
       },
@@ -3801,16 +3834,18 @@
         "points": 25
       },
       {
-        "text": "Prank calls",
+        "text": "A phone after lights out",
         "aliases": [
-          "phone pranks"
+          "sneaking a phone",
+          "on their phones"
         ],
         "points": 18
       },
       {
-        "text": "Extra sweets",
+        "text": "The snacks they stashed",
         "aliases": [
-          "sneaking candy"
+          "hidden snacks",
+          "extra candy"
         ],
         "points": 13
       },
@@ -3885,9 +3920,10 @@
     "prompt": "Name something people were desperate to collect as children.",
     "answers": [
       {
-        "text": "Trading cards",
+        "text": "Pokémon cards",
         "aliases": [
-          "pokemon cards"
+          "Pokemon cards",
+          "trading cards"
         ],
         "points": 31
       },
@@ -3899,23 +3935,26 @@
         "points": 25
       },
       {
-        "text": "Toy figures",
+        "text": "Toy cars",
         "aliases": [
-          "action figures"
+          "Hot Wheels",
+          "diecast cars"
         ],
         "points": 18
       },
       {
-        "text": "Marbles",
+        "text": "Collectible plushies",
         "aliases": [
-          "glass marbles"
+          "plush collection",
+          "Squishmallows"
         ],
         "points": 12
       },
       {
-        "text": "Coins",
+        "text": "Mini figures",
         "aliases": [
-          "coin collection"
+          "blind-box figures",
+          "blind box toys"
         ],
         "points": 9
       },
@@ -4176,19 +4215,20 @@
   {
     "id": "culture-396",
     "category": "Pop culture",
-    "prompt": "Name a reason a live TV interview might get cut short.",
+    "prompt": "Name something that could make a live video interview end early.",
     "answers": [
       {
-        "text": "Swearing",
+        "text": "The connection drops",
         "aliases": [
-          "bad language"
+          "bad Wi-Fi",
+          "stream crashes"
         ],
         "points": 30
       },
       {
-        "text": "Losing the connection",
+        "text": "Swearing",
         "aliases": [
-          "technical problems"
+          "bad language"
         ],
         "points": 24
       },
@@ -4200,23 +4240,24 @@
         "points": 18
       },
       {
-        "text": "A fire alarm",
-        "aliases": [
-          "emergency alarm"
-        ],
-        "points": 13
-      },
-      {
         "text": "A child interrupts",
         "aliases": [
           "kid walks in"
         ],
-        "points": 9
+        "points": 13
       },
       {
         "text": "Uncontrollable laughter",
         "aliases": [
           "cannot stop laughing"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A mic gets left on by mistake",
+        "aliases": [
+          "hot mic",
+          "open mic"
         ],
         "points": 6
       }
@@ -4372,7 +4413,7 @@
   {
     "id": "culture-400",
     "category": "Pop culture",
-    "prompt": "What would you hide before a celebrity-style tour of your house?",
+    "prompt": "What would you hide before a creator filmed a room tour at your place?",
     "answers": [
       {
         "text": "Dirty laundry",
@@ -4390,23 +4431,26 @@
         "points": 25
       },
       {
-        "text": "Embarrassing photos",
+        "text": "Old photos from your awkward phase",
         "aliases": [
-          "bad pictures"
+          "embarrassing photos",
+          "cringe photos"
         ],
         "points": 18
       },
       {
-        "text": "Cheap possessions",
+        "text": "A pile of delivery bags",
         "aliases": [
-          "budget items"
+          "takeout bags",
+          "delivery trash"
         ],
         "points": 13
       },
       {
-        "text": "Personal documents",
+        "text": "Stuff with your address on it",
         "aliases": [
-          "private papers"
+          "personal documents",
+          "shipping labels"
         ],
         "points": 8
       },

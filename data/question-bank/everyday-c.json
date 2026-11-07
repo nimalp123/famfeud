@@ -5,23 +5,23 @@
     "prompt": "Name something students do the second a teacher steps out of the room.",
     "answers": [
       {
-        "text": "Talk",
-        "aliases": [
-          "chat"
-        ],
-        "points": 35
-      },
-      {
         "text": "Check their phone",
         "aliases": [
           "text"
         ],
+        "points": 35
+      },
+      {
+        "text": "Talk",
+        "aliases": [
+          "chat"
+        ],
         "points": 25
       },
       {
-        "text": "Throw paper",
+        "text": "Eat a snack",
         "aliases": [
-          "paper airplane"
+          "eat"
         ],
         "points": 16
       },
@@ -33,16 +33,17 @@
         "points": 11
       },
       {
-        "text": "Eat a snack",
+        "text": "Copy homework",
         "aliases": [
-          "eat"
+          "copy answers"
         ],
         "points": 8
       },
       {
-        "text": "Copy homework",
+        "text": "Film a video",
         "aliases": [
-          "copy answers"
+          "record a tiktok",
+          "take a video"
         ],
         "points": 5
       }
@@ -264,30 +265,30 @@
         "points": 25
       },
       {
+        "text": "Student ID",
+        "aliases": [
+          "school ID"
+        ],
+        "points": 16
+      },
+      {
         "text": "Notes",
         "aliases": [
           "study guide"
         ],
-        "points": 16
+        "points": 11
       },
       {
         "text": "Glasses",
         "aliases": [
           "spectacles"
         ],
-        "points": 11
-      },
-      {
-        "text": "Eraser",
-        "aliases": [
-          "rubber"
-        ],
         "points": 8
       },
       {
-        "text": "Lucky charm",
+        "text": "Water bottle",
         "aliases": [
-          "good luck charm"
+          "bottle of water"
         ],
         "points": 5
       }
@@ -474,9 +475,10 @@
         "points": 13
       },
       {
-        "text": "Printer wouldn't work",
+        "text": "Had a work shift",
         "aliases": [
-          "broken printer"
+          "got called into work",
+          "had to work"
         ],
         "points": 9
       },
@@ -495,23 +497,24 @@
     "prompt": "Name something a student does after realizing a big project is due tomorrow.",
     "answers": [
       {
-        "text": "Searches online",
-        "aliases": [
-          "googles"
-        ],
-        "points": 35
-      },
-      {
         "text": "Messages their partner",
         "aliases": [
           "texts group"
         ],
+        "points": 35
+      },
+      {
+        "text": "Searches online",
+        "aliases": [
+          "googles"
+        ],
         "points": 25
       },
       {
-        "text": "Makes coffee",
+        "text": "Starts a rough draft",
         "aliases": [
-          "energy drink"
+          "opens a blank doc",
+          "starts working"
         ],
         "points": 16
       },
@@ -523,9 +526,9 @@
         "points": 11
       },
       {
-        "text": "Hunts for supplies",
+        "text": "Makes coffee",
         "aliases": [
-          "buys supplies"
+          "energy drink"
         ],
         "points": 8
       },
@@ -544,30 +547,30 @@
     "prompt": "Name something students desperately want to know about a substitute teacher.",
     "answers": [
       {
+        "text": "Can we use phones",
+        "aliases": [
+          "phone rules"
+        ],
+        "points": 30
+      },
+      {
         "text": "Are they strict",
         "aliases": [
           "how strict"
         ],
-        "points": 30
+        "points": 24
       },
       {
         "text": "Will they give homework",
         "aliases": [
           "homework"
         ],
-        "points": 24
-      },
-      {
-        "text": "Can we use phones",
-        "aliases": [
-          "phone rules"
-        ],
         "points": 18
       },
       {
-        "text": "What is their name",
+        "text": "Will they put on a movie",
         "aliases": [
-          "name"
+          "watch a film"
         ],
         "points": 13
       },
@@ -579,9 +582,9 @@
         "points": 9
       },
       {
-        "text": "Will they put on a movie",
+        "text": "Will they take attendance",
         "aliases": [
-          "watch a film"
+          "roll call"
         ],
         "points": 6
       }
@@ -614,23 +617,23 @@
         "points": 18
       },
       {
-        "text": "A toy",
-        "aliases": [
-          "toys"
-        ],
-        "points": 12
-      },
-      {
         "text": "Library book",
         "aliases": [
           "overdue book"
         ],
+        "points": 12
+      },
+      {
+        "text": "A dead charger",
+        "aliases": [
+          "broken cable"
+        ],
         "points": 8
       },
       {
-        "text": "Report card",
+        "text": "An old permission slip",
         "aliases": [
-          "school report"
+          "field trip form"
         ],
         "points": 6
       }
@@ -688,7 +691,7 @@
   {
     "id": "everyday-145",
     "category": "Everyday life",
-    "prompt": "Name something kids compete over even when the teacher isn't keeping score.",
+    "prompt": "Name something students compete over even when the teacher isn't keeping score.",
     "answers": [
       {
         "text": "Grades",
@@ -705,30 +708,31 @@
         "points": 24
       },
       {
-        "text": "Popularity",
-        "aliases": [
-          "friends"
-        ],
-        "points": 17
-      },
-      {
         "text": "Clothes",
         "aliases": [
           "fashion"
         ],
-        "points": 13
-      },
-      {
-        "text": "Art",
-        "aliases": [
-          "drawing"
-        ],
-        "points": 9
+        "points": 17
       },
       {
         "text": "Video games",
         "aliases": [
           "gaming"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Social media followers",
+        "aliases": [
+          "followers",
+          "likes"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Art",
+        "aliases": [
+          "drawing"
         ],
         "points": 6
       }
@@ -786,19 +790,19 @@
   {
     "id": "everyday-147",
     "category": "Everyday life",
-    "prompt": "Name something that would make kids actually excited about a school assembly.",
+    "prompt": "Name something that would make students actually excited about a school assembly.",
     "answers": [
       {
-        "text": "A magician",
+        "text": "Early dismissal",
         "aliases": [
-          "magic show"
+          "go home early"
         ],
         "points": 30
       },
       {
-        "text": "An animal",
+        "text": "A famous guest",
         "aliases": [
-          "live animals"
+          "celebrity"
         ],
         "points": 24
       },
@@ -810,23 +814,24 @@
         "points": 18
       },
       {
-        "text": "A famous guest",
+        "text": "A student talent show",
         "aliases": [
-          "celebrity"
+          "talent show"
         ],
         "points": 13
       },
       {
-        "text": "A dance performance",
+        "text": "An animal",
         "aliases": [
-          "dancers"
+          "live animals"
         ],
         "points": 9
       },
       {
-        "text": "Early dismissal",
+        "text": "A free giveaway",
         "aliases": [
-          "go home early"
+          "free stuff",
+          "prizes"
         ],
         "points": 6
       }
@@ -933,7 +938,7 @@
   {
     "id": "everyday-150",
     "category": "Everyday life",
-    "prompt": "Name something a teacher could confiscate that would ruin a kid's day.",
+    "prompt": "Name something a teacher could confiscate that would ruin a student's day.",
     "answers": [
       {
         "text": "Phone",
@@ -943,16 +948,16 @@
         "points": 31
       },
       {
-        "text": "Game console",
+        "text": "Earbuds",
         "aliases": [
-          "handheld game"
+          "headphones"
         ],
         "points": 24
       },
       {
-        "text": "Toy",
+        "text": "Game console",
         "aliases": [
-          "fidget toy"
+          "handheld game"
         ],
         "points": 17
       },
@@ -964,9 +969,10 @@
         "points": 13
       },
       {
-        "text": "Earbuds",
+        "text": "Smartwatch",
         "aliases": [
-          "headphones"
+          "apple watch",
+          "watch"
         ],
         "points": 9
       },
@@ -992,16 +998,16 @@
         "points": 35
       },
       {
-        "text": "Recess",
+        "text": "Snow days",
         "aliases": [
-          "playtime"
+          "snow day"
         ],
         "points": 25
       },
       {
-        "text": "Snow days",
+        "text": "Shorter days",
         "aliases": [
-          "snow day"
+          "finish early"
         ],
         "points": 16
       },
@@ -1013,16 +1019,17 @@
         "points": 11
       },
       {
-        "text": "Shorter days",
+        "text": "Recess",
         "aliases": [
-          "finish early"
+          "playtime"
         ],
         "points": 8
       },
       {
-        "text": "Field trips",
+        "text": "A free period",
         "aliases": [
-          "class trips"
+          "study hall",
+          "spare period"
         ],
         "points": 5
       }
@@ -1472,7 +1479,7 @@
   {
     "id": "everyday-161",
     "category": "Everyday life",
-    "prompt": "Name something an employee hides when the boss suddenly approaches their desk.",
+    "prompt": "Name something you quickly hide when your boss walks over at work.",
     "answers": [
       {
         "text": "Phone",
@@ -1489,30 +1496,32 @@
         "points": 25
       },
       {
-        "text": "Job applications",
-        "aliases": [
-          "resume"
-        ],
-        "points": 16
-      },
-      {
-        "text": "A pillow",
-        "aliases": [
-          "blanket"
-        ],
-        "points": 11
-      },
-      {
         "text": "A game",
         "aliases": [
           "video game"
         ],
+        "points": 16
+      },
+      {
+        "text": "Job applications",
+        "aliases": [
+          "resume"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Homework",
+        "aliases": [
+          "school assignment",
+          "studying"
+        ],
         "points": 8
       },
       {
-        "text": "Alcohol",
+        "text": "Social media",
         "aliases": [
-          "booze"
+          "tiktok",
+          "instagram"
         ],
         "points": 5
       }
@@ -1570,47 +1579,47 @@
   {
     "id": "everyday-163",
     "category": "Everyday life",
-    "prompt": "Name something people do during a meeting that should have been an email.",
+    "prompt": "Name something you do in a class or meeting that should have been an email.",
     "answers": [
-      {
-        "text": "Zone out",
-        "aliases": [
-          "daydream"
-        ],
-        "points": 32
-      },
       {
         "text": "Check their phone",
         "aliases": [
           "text"
         ],
+        "points": 32
+      },
+      {
+        "text": "Zone out",
+        "aliases": [
+          "daydream"
+        ],
         "points": 24
-      },
-      {
-        "text": "Doodle",
-        "aliases": [
-          "draw"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Plan lunch",
-        "aliases": [
-          "think about food"
-        ],
-        "points": 12
       },
       {
         "text": "Do other work",
         "aliases": [
           "answer emails"
         ],
-        "points": 8
+        "points": 18
       },
       {
         "text": "Watch the clock",
         "aliases": [
           "count the minutes"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Doodle",
+        "aliases": [
+          "draw"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Plan lunch",
+        "aliases": [
+          "think about food"
         ],
         "points": 6
       }
@@ -1668,7 +1677,7 @@
   {
     "id": "everyday-165",
     "category": "Everyday life",
-    "prompt": "Name something someone might secretly do during a camera-off work call.",
+    "prompt": "Name something someone might secretly do during a camera-off class or work call.",
     "answers": [
       {
         "text": "Eat",
@@ -1769,23 +1778,23 @@
     "prompt": "Name something you'd do if work unexpectedly ended two hours early.",
     "answers": [
       {
+        "text": "See friends",
+        "aliases": [
+          "meet friends"
+        ],
+        "points": 30
+      },
+      {
         "text": "Take a nap",
         "aliases": [
           "sleep"
         ],
-        "points": 30
+        "points": 24
       },
       {
         "text": "Run errands",
         "aliases": [
           "do errands"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Go for a drink",
-        "aliases": [
-          "bar"
         ],
         "points": 18
       },
@@ -1797,16 +1806,18 @@
         "points": 13
       },
       {
-        "text": "See friends",
+        "text": "Play games",
         "aliases": [
-          "meet friends"
+          "gaming",
+          "video games"
         ],
         "points": 9
       },
       {
-        "text": "Start a weekend trip",
+        "text": "Pick up food",
         "aliases": [
-          "leave town"
+          "grab food",
+          "get takeout"
         ],
         "points": 6
       }
@@ -1864,7 +1875,7 @@
   {
     "id": "everyday-169",
     "category": "Everyday life",
-    "prompt": "Name something coworkers race to claim when the company gives it away free.",
+    "prompt": "Name something coworkers race to claim when it is up for grabs at work.",
     "answers": [
       {
         "text": "Food",
@@ -1874,23 +1885,23 @@
         "points": 27
       },
       {
-        "text": "Parking space",
+        "text": "A better shift",
         "aliases": [
-          "parking"
+          "first pick of shifts"
         ],
         "points": 23
       },
       {
-        "text": "Office chair",
+        "text": "Gift cards",
         "aliases": [
-          "chair"
+          "store credit"
         ],
         "points": 19
       },
       {
-        "text": "Computer equipment",
+        "text": "Company merchandise",
         "aliases": [
-          "laptop"
+          "free shirt"
         ],
         "points": 14
       },
@@ -1902,9 +1913,9 @@
         "points": 10
       },
       {
-        "text": "Company merchandise",
+        "text": "Computer equipment",
         "aliases": [
-          "free shirt"
+          "laptop"
         ],
         "points": 7
       }
@@ -2014,44 +2025,45 @@
     "prompt": "Name something a new employee might accidentally do on their first day.",
     "answers": [
       {
-        "text": "Use the wrong name",
-        "aliases": [
-          "forget a name"
-        ],
-        "points": 30
-      },
-      {
         "text": "Get lost",
         "aliases": [
           "wrong floor"
         ],
-        "points": 24
-      },
-      {
-        "text": "Arrive late",
-        "aliases": [
-          "be late"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Break equipment",
-        "aliases": [
-          "break something"
-        ],
-        "points": 13
+        "points": 30
       },
       {
         "text": "Forget a password",
         "aliases": [
           "can't log in"
         ],
+        "points": 24
+      },
+      {
+        "text": "Use the wrong name",
+        "aliases": [
+          "forget a name"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Arrive late",
+        "aliases": [
+          "be late"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Use the register wrong",
+        "aliases": [
+          "cash register mistake",
+          "ring up the wrong item"
+        ],
         "points": 9
       },
       {
-        "text": "Sit at the wrong desk",
+        "text": "Break equipment",
         "aliases": [
-          "take someone's seat"
+          "break something"
         ],
         "points": 6
       }
@@ -2259,30 +2271,31 @@
     "prompt": "Name a message from your boss that instantly ruins your mood.",
     "answers": [
       {
+        "text": "Can you cover a shift?",
+        "aliases": [
+          "cover a shift",
+          "called in"
+        ],
+        "points": 30
+      },
+      {
         "text": "Work this weekend",
         "aliases": [
           "weekend shift"
         ],
-        "points": 30
+        "points": 24
       },
       {
         "text": "Time off denied",
         "aliases": [
           "no vacation"
         ],
-        "points": 24
+        "points": 18
       },
       {
         "text": "Do it again",
         "aliases": [
           "redo the work"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Deadline moved earlier",
-        "aliases": [
-          "due sooner"
         ],
         "points": 13
       },
@@ -2294,9 +2307,10 @@
         "points": 9
       },
       {
-        "text": "Pay is being cut",
+        "text": "Shift canceled",
         "aliases": [
-          "pay cut"
+          "cut my hours",
+          "lose a shift"
         ],
         "points": 6
       }
@@ -2308,44 +2322,44 @@
     "prompt": "Name something coworkers borrow and conveniently forget to give back.",
     "answers": [
       {
-        "text": "Pen",
-        "aliases": [
-          "pencil"
-        ],
-        "points": 32
-      },
-      {
         "text": "Charger",
         "aliases": [
           "charging cable"
         ],
+        "points": 32
+      },
+      {
+        "text": "Pen",
+        "aliases": [
+          "pencil"
+        ],
         "points": 24
-      },
-      {
-        "text": "Stapler",
-        "aliases": [
-          "staples"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Mug",
-        "aliases": [
-          "coffee cup"
-        ],
-        "points": 12
       },
       {
         "text": "Scissors",
         "aliases": [
           "scissor"
         ],
-        "points": 8
+        "points": 18
       },
       {
         "text": "Money",
         "aliases": [
           "cash"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Earbuds",
+        "aliases": [
+          "headphones"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A marker",
+        "aliases": [
+          "sharpie"
         ],
         "points": 6
       }
@@ -2511,37 +2525,37 @@
         "points": 30
       },
       {
-        "text": "Go for drinks",
-        "aliases": [
-          "after work drinks"
-        ],
-        "points": 24
-      },
-      {
         "text": "Bring food",
         "aliases": [
           "bake for coworkers"
         ],
-        "points": 18
-      },
-      {
-        "text": "Donate money",
-        "aliases": [
-          "office collection"
-        ],
-        "points": 13
+        "points": 24
       },
       {
         "text": "Drink coffee",
         "aliases": [
           "coffee break"
         ],
-        "points": 9
+        "points": 18
       },
       {
         "text": "Use business jargon",
         "aliases": [
           "corporate language"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Join the work group chat",
+        "aliases": [
+          "group chat"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Pick up extra shifts",
+        "aliases": [
+          "take extra shifts"
         ],
         "points": 6
       }
@@ -2560,16 +2574,16 @@
         "points": 32
       },
       {
-        "text": "A meal out",
+        "text": "Savings",
         "aliases": [
-          "dinner"
+          "save it"
         ],
         "points": 24
       },
       {
-        "text": "A gift for their parents",
+        "text": "A meal out",
         "aliases": [
-          "parents"
+          "dinner"
         ],
         "points": 18
       },
@@ -2588,9 +2602,9 @@
         "points": 8
       },
       {
-        "text": "Savings",
+        "text": "A gift for their parents",
         "aliases": [
-          "save it"
+          "parents"
         ],
         "points": 6
       }
@@ -2599,19 +2613,20 @@
   {
     "id": "everyday-184",
     "category": "Everyday life",
-    "prompt": "Name something at home that wins the battle against your work-from-home productivity.",
+    "prompt": "Name something at home that distracts you when you try to get work done.",
     "answers": [
       {
-        "text": "Bed",
+        "text": "Phone",
         "aliases": [
-          "napping"
+          "social media",
+          "tiktok"
         ],
         "points": 27
       },
       {
-        "text": "Television",
+        "text": "Bed",
         "aliases": [
-          "TV"
+          "napping"
         ],
         "points": 23
       },
@@ -2623,23 +2638,23 @@
         "points": 19
       },
       {
-        "text": "Children",
-        "aliases": [
-          "kids"
-        ],
-        "points": 14
-      },
-      {
         "text": "The fridge",
         "aliases": [
           "snacking"
         ],
+        "points": 14
+      },
+      {
+        "text": "Television",
+        "aliases": [
+          "TV"
+        ],
         "points": 10
       },
       {
-        "text": "Chores",
+        "text": "Roommates",
         "aliases": [
-          "housework"
+          "housemates"
         ],
         "points": 7
       }
@@ -2847,37 +2862,38 @@
     "prompt": "Name a topic that spreads around an office faster than official company news.",
     "answers": [
       {
-        "text": "A workplace romance",
-        "aliases": [
-          "dating"
-        ],
-        "points": 27
-      },
-      {
         "text": "Someone quitting",
         "aliases": [
           "resignation"
         ],
+        "points": 27
+      },
+      {
+        "text": "A workplace romance",
+        "aliases": [
+          "dating"
+        ],
         "points": 23
       },
       {
-        "text": "Pay rises",
+        "text": "Schedule changes",
         "aliases": [
-          "raises"
+          "new shifts",
+          "shift cuts"
         ],
         "points": 19
-      },
-      {
-        "text": "Layoffs",
-        "aliases": [
-          "job cuts"
-        ],
-        "points": 14
       },
       {
         "text": "An argument",
         "aliases": [
           "office fight"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Pay rises",
+        "aliases": [
+          "raises"
         ],
         "points": 10
       },
@@ -3071,16 +3087,17 @@
         "points": 12
       },
       {
-        "text": "Being alone",
+        "text": "Getting home late",
         "aliases": [
-          "loneliness"
+          "no ride home",
+          "no late bus"
         ],
         "points": 8
       },
       {
-        "text": "Finding childcare",
+        "text": "Being alone",
         "aliases": [
-          "babysitter"
+          "loneliness"
         ],
         "points": 6
       }
@@ -3302,9 +3319,10 @@
         "points": 24
       },
       {
-        "text": "Writing a check",
+        "text": "Basic budgeting",
         "aliases": [
-          "writing a cheque"
+          "make a budget",
+          "budgeting"
         ],
         "points": 18
       },
@@ -3316,16 +3334,16 @@
         "points": 12
       },
       {
-        "text": "Ironing a shirt",
+        "text": "Changing a light bulb",
         "aliases": [
-          "ironing"
+          "replace bulb"
         ],
         "points": 8
       },
       {
-        "text": "Changing a light bulb",
+        "text": "Making a doctor's appointment",
         "aliases": [
-          "replace bulb"
+          "booking a medical appointment"
         ],
         "points": 6
       }
@@ -3334,40 +3352,40 @@
   {
     "id": "everyday-199",
     "category": "Everyday life",
-    "prompt": "Name a grown-up purchase that makes you miss spending money on toys.",
+    "prompt": "Name a grown-up purchase that makes you miss spending money on fun stuff.",
     "answers": [
+      {
+        "text": "Groceries",
+        "aliases": [
+          "food shopping"
+        ],
+        "points": 27
+      },
       {
         "text": "Insurance",
         "aliases": [
           "insurance policy"
         ],
-        "points": 27
+        "points": 23
       },
       {
         "text": "Mattress",
         "aliases": [
           "new bed"
         ],
-        "points": 23
+        "points": 19
       },
       {
         "text": "Vacuum cleaner",
         "aliases": [
           "vacuum"
         ],
-        "points": 19
+        "points": 14
       },
       {
         "text": "Car tires",
         "aliases": [
           "tyres"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Water heater",
-        "aliases": [
-          "boiler"
         ],
         "points": 10
       },
@@ -3393,9 +3411,9 @@
         "points": 31
       },
       {
-        "text": "Tax refund",
+        "text": "Someone repays you",
         "aliases": [
-          "tax return"
+          "paid back"
         ],
         "points": 24
       },
@@ -3407,23 +3425,23 @@
         "points": 17
       },
       {
-        "text": "Winning a prize",
-        "aliases": [
-          "contest win"
-        ],
-        "points": 13
-      },
-      {
         "text": "Gift card",
         "aliases": [
           "voucher"
         ],
+        "points": 13
+      },
+      {
+        "text": "Tax refund",
+        "aliases": [
+          "tax return"
+        ],
         "points": 9
       },
       {
-        "text": "Someone repays you",
+        "text": "Winning a prize",
         "aliases": [
-          "paid back"
+          "contest win"
         ],
         "points": 6
       }
@@ -3631,37 +3649,37 @@
     "prompt": "Name a job perk that would almost make you forgive a terrible boss.",
     "answers": [
       {
-        "text": "Lots of paid leave",
-        "aliases": [
-          "vacation days"
-        ],
-        "points": 31
-      },
-      {
         "text": "Flexible hours",
         "aliases": [
           "flextime"
         ],
-        "points": 24
-      },
-      {
-        "text": "Working from home",
-        "aliases": [
-          "remote work"
-        ],
-        "points": 17
+        "points": 31
       },
       {
         "text": "Free food",
         "aliases": [
           "free meals"
         ],
+        "points": 24
+      },
+      {
+        "text": "Lots of paid leave",
+        "aliases": [
+          "vacation days"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Working from home",
+        "aliases": [
+          "remote work"
+        ],
         "points": 13
       },
       {
-        "text": "Company car",
+        "text": "A staff discount",
         "aliases": [
-          "free car"
+          "employee discount"
         ],
         "points": 9
       },
@@ -4072,30 +4090,30 @@
     "prompt": "Name something that can make you cheer when it gets canceled.",
     "answers": [
       {
-        "text": "A meeting",
-        "aliases": [
-          "work meeting"
-        ],
-        "points": 27
-      },
-      {
         "text": "An exam",
         "aliases": [
           "test"
         ],
-        "points": 23
-      },
-      {
-        "text": "A dentist appointment",
-        "aliases": [
-          "dental visit"
-        ],
-        "points": 19
+        "points": 27
       },
       {
         "text": "A work shift",
         "aliases": [
           "overtime"
+        ],
+        "points": 23
+      },
+      {
+        "text": "A presentation",
+        "aliases": [
+          "giving a speech"
+        ],
+        "points": 19
+      },
+      {
+        "text": "A dentist appointment",
+        "aliases": [
+          "dental visit"
         ],
         "points": 14
       },
@@ -4107,9 +4125,9 @@
         "points": 10
       },
       {
-        "text": "A presentation",
+        "text": "A meeting",
         "aliases": [
-          "giving a speech"
+          "work meeting"
         ],
         "points": 7
       }
@@ -4177,37 +4195,38 @@
         "points": 35
       },
       {
-        "text": "First date",
-        "aliases": [
-          "dating"
-        ],
-        "points": 25
-      },
-      {
         "text": "Driving test",
         "aliases": [
           "road test"
         ],
-        "points": 16
+        "points": 25
       },
       {
-        "text": "Parenthood",
+        "text": "First date",
         "aliases": [
-          "being a parent"
+          "dating"
         ],
-        "points": 11
+        "points": 16
       },
       {
         "text": "Public speaking",
         "aliases": [
           "giving a speech"
         ],
-        "points": 8
+        "points": 11
       },
       {
         "text": "First day at work",
         "aliases": [
           "new job"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A big exam",
+        "aliases": [
+          "final exam",
+          "test"
         ],
         "points": 5
       }
@@ -4268,23 +4287,23 @@
     "prompt": "Name something an adult dreads checking after ignoring it for a week.",
     "answers": [
       {
-        "text": "Email",
-        "aliases": [
-          "inbox"
-        ],
-        "points": 32
-      },
-      {
         "text": "Bank balance",
         "aliases": [
           "bank account"
         ],
+        "points": 32
+      },
+      {
+        "text": "Email",
+        "aliases": [
+          "inbox"
+        ],
         "points": 24
       },
       {
-        "text": "Voicemail",
+        "text": "Unread messages",
         "aliases": [
-          "missed calls"
+          "missed texts"
         ],
         "points": 18
       },
@@ -4296,16 +4315,16 @@
         "points": 12
       },
       {
-        "text": "Mail",
+        "text": "The fridge",
         "aliases": [
-          "letters"
+          "refrigerator"
         ],
         "points": 8
       },
       {
-        "text": "The fridge",
+        "text": "Voicemail",
         "aliases": [
-          "refrigerator"
+          "missed calls"
         ],
         "points": 6
       }

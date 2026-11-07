@@ -5,17 +5,17 @@
     "prompt": "Name someone whose missed call makes you nervous.",
     "answers": [
       {
-        "text": "Boss",
-        "aliases": [
-          "manager"
-        ],
-        "points": 30
-      },
-      {
         "text": "Parent",
         "aliases": [
           "mom",
           "dad"
+        ],
+        "points": 30
+      },
+      {
+        "text": "Boss",
+        "aliases": [
+          "manager"
         ],
         "points": 24
       },
@@ -27,23 +27,23 @@
         "points": 18
       },
       {
-        "text": "Doctor",
+        "text": "Ex",
         "aliases": [
-          "hospital"
+          "ex partner"
         ],
         "points": 13
       },
       {
-        "text": "Landlord",
+        "text": "A teacher",
         "aliases": [
-          "property manager"
+          "professor"
         ],
         "points": 9
       },
       {
-        "text": "Ex",
+        "text": "Doctor",
         "aliases": [
-          "ex partner"
+          "hospital"
         ],
         "points": 6
       }
@@ -62,9 +62,9 @@
         "points": 32
       },
       {
-        "text": "Tie",
+        "text": "Bra",
         "aliases": [
-          "necktie"
+          "take off bra"
         ],
         "points": 24
       },
@@ -76,9 +76,10 @@
         "points": 18
       },
       {
-        "text": "Bra",
+        "text": "Rings or earrings",
         "aliases": [
-          "take off bra"
+          "ring",
+          "earrings"
         ],
         "points": 12
       },
@@ -90,10 +91,9 @@
         "points": 8
       },
       {
-        "text": "Rings or earrings",
+        "text": "Hoodie",
         "aliases": [
-          "ring",
-          "earrings"
+          "sweatshirt"
         ],
         "points": 6
       }
@@ -404,24 +404,24 @@
     "prompt": "Name something people nervously type into a search bar.",
     "answers": [
       {
+        "text": "A crush's name",
+        "aliases": [
+          "crush"
+        ],
+        "points": 32
+      },
+      {
         "text": "An ex's name",
         "aliases": [
           "ex partner"
         ],
-        "points": 32
+        "points": 24
       },
       {
         "text": "A medical symptom",
         "aliases": [
           "symptoms",
           "health problem"
-        ],
-        "points": 24
-      },
-      {
-        "text": "A crush's name",
-        "aliases": [
-          "crush"
         ],
         "points": 17
       },
@@ -433,16 +433,16 @@
         "points": 12
       },
       {
-        "text": "How to quit a job",
+        "text": "A word they can't spell",
         "aliases": [
-          "quitting work"
+          "spelling"
         ],
         "points": 9
       },
       {
-        "text": "A word they can't spell",
+        "text": "How to tell if someone likes you",
         "aliases": [
-          "spelling"
+          "signs they like you"
         ],
         "points": 6
       }
@@ -454,9 +454,9 @@
     "prompt": "Name a phone sound you'd hate everyone to hear in a silent room.",
     "answers": [
       {
-        "text": "Loud ringtone",
+        "text": "Video audio",
         "aliases": [
-          "ringing"
+          "video playing"
         ],
         "points": 29
       },
@@ -468,23 +468,23 @@
         "points": 24
       },
       {
-        "text": "Video audio",
+        "text": "Loud ringtone",
         "aliases": [
-          "video playing"
+          "ringing"
         ],
         "points": 18
+      },
+      {
+        "text": "A voice note",
+        "aliases": [
+          "audio message"
+        ],
+        "points": 14
       },
       {
         "text": "Camera shutter",
         "aliases": [
           "camera sound"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Low battery beep",
-        "aliases": [
-          "battery warning"
         ],
         "points": 9
       },
@@ -601,44 +601,45 @@
     "prompt": "Name an emoji that can change the whole meaning of a text.",
     "answers": [
       {
-        "text": "Wink",
-        "aliases": [
-          "winking face"
-        ],
-        "points": 28
-      },
-      {
-        "text": "Heart",
-        "aliases": [
-          "love heart"
-        ],
-        "points": 23
-      },
-      {
         "text": "Laughing face",
         "aliases": [
           "crying laughing"
         ],
-        "points": 19
-      },
-      {
-        "text": "Eye roll",
-        "aliases": [
-          "rolling eyes"
-        ],
-        "points": 14
+        "points": 28
       },
       {
         "text": "Thumbs up",
         "aliases": [
           "thumb up"
         ],
+        "points": 23
+      },
+      {
+        "text": "Heart",
+        "aliases": [
+          "love heart"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Wink",
+        "aliases": [
+          "winking face"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Skull",
+        "aliases": [
+          "skull emoji",
+          "dead emoji"
+        ],
         "points": 10
       },
       {
-        "text": "Eggplant",
+        "text": "Eye roll",
         "aliases": [
-          "aubergine"
+          "rolling eyes"
         ],
         "points": 6
       }
@@ -797,30 +798,30 @@
     "prompt": "Name something people have far too many of on their phone.",
     "answers": [
       {
+        "text": "Screenshots",
+        "aliases": [
+          "screen captures"
+        ],
+        "points": 35
+      },
+      {
+        "text": "Unused apps",
+        "aliases": [
+          "apps"
+        ],
+        "points": 25
+      },
+      {
         "text": "Unread emails",
         "aliases": [
           "email"
         ],
-        "points": 35
+        "points": 16
       },
       {
         "text": "Old texts",
         "aliases": [
           "text messages"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Contacts",
-        "aliases": [
-          "phone numbers"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Screenshots",
-        "aliases": [
-          "screen captures"
         ],
         "points": 11
       },
@@ -832,9 +833,9 @@
         "points": 8
       },
       {
-        "text": "Unused apps",
+        "text": "Contacts",
         "aliases": [
-          "apps"
+          "phone numbers"
         ],
         "points": 5
       }
@@ -846,44 +847,45 @@
     "prompt": "Name a reason you regret checking your phone right before bed.",
     "answers": [
       {
-        "text": "Work email",
+        "text": "Lose track of time",
         "aliases": [
-          "message from work"
+          "stay up late"
         ],
         "points": 28
-      },
-      {
-        "text": "Bad news",
-        "aliases": [
-          "upsetting news"
-        ],
-        "points": 23
       },
       {
         "text": "An argument",
         "aliases": [
           "angry message"
         ],
+        "points": 23
+      },
+      {
+        "text": "Bad news",
+        "aliases": [
+          "upsetting news"
+        ],
         "points": 19
+      },
+      {
+        "text": "Bright screen",
+        "aliases": [
+          "light hurts eyes"
+        ],
+        "points": 14
       },
       {
         "text": "Scary video",
         "aliases": [
           "horror clip"
         ],
-        "points": 14
-      },
-      {
-        "text": "Lose track of time",
-        "aliases": [
-          "stay up late"
-        ],
         "points": 10
       },
       {
-        "text": "Bright screen",
+        "text": "Tomorrow's deadline",
         "aliases": [
-          "light hurts eyes"
+          "forgot assignment",
+          "deadline tomorrow"
         ],
         "points": 6
       }
@@ -944,24 +946,24 @@
     "prompt": "Name something people forget is visible when they share their screen.",
     "answers": [
       {
-        "text": "Browser tabs",
-        "aliases": [
-          "open tabs"
-        ],
-        "points": 29
-      },
-      {
         "text": "Messages",
         "aliases": [
           "notifications",
           "chat"
         ],
+        "points": 29
+      },
+      {
+        "text": "Browser tabs",
+        "aliases": [
+          "open tabs"
+        ],
         "points": 24
       },
       {
-        "text": "Desktop wallpaper",
+        "text": "Search history",
         "aliases": [
-          "background picture"
+          "recent searches"
         ],
         "points": 18
       },
@@ -973,16 +975,16 @@
         "points": 14
       },
       {
-        "text": "Search history",
+        "text": "Passwords",
         "aliases": [
-          "recent searches"
+          "password"
         ],
         "points": 9
       },
       {
-        "text": "Passwords",
+        "text": "Desktop wallpaper",
         "aliases": [
-          "password"
+          "background picture"
         ],
         "points": 6
       }
@@ -1043,23 +1045,23 @@
     "prompt": "Name someone you might mute online without unfollowing.",
     "answers": [
       {
-        "text": "Relative",
+        "text": "Ex",
         "aliases": [
-          "family member"
+          "ex partner"
         ],
         "points": 35
       },
       {
-        "text": "Coworker",
+        "text": "Relative",
         "aliases": [
-          "colleague"
+          "family member"
         ],
         "points": 25
       },
       {
-        "text": "Ex",
+        "text": "Classmate",
         "aliases": [
-          "ex partner"
+          "schoolmate"
         ],
         "points": 16
       },
@@ -1078,9 +1080,9 @@
         "points": 8
       },
       {
-        "text": "Classmate",
+        "text": "Coworker",
         "aliases": [
-          "schoolmate"
+          "colleague"
         ],
         "points": 5
       }
@@ -1120,16 +1122,16 @@
         "points": 14
       },
       {
-        "text": "Office hallway",
+        "text": "School hallway",
         "aliases": [
-          "work corridor"
+          "between classes"
         ],
         "points": 10
       },
       {
-        "text": "School reunion",
+        "text": "Work break room",
         "aliases": [
-          "class reunion"
+          "break room"
         ],
         "points": 6
       }
@@ -1295,30 +1297,31 @@
         "points": 35
       },
       {
-        "text": "Shopping list",
-        "aliases": [
-          "grocery list"
-        ],
-        "points": 25
-      },
-      {
         "text": "WiFi password",
         "aliases": [
           "wireless password"
         ],
-        "points": 16
-      },
-      {
-        "text": "Appointment card",
-        "aliases": [
-          "appointment time"
-        ],
-        "points": 11
+        "points": 25
       },
       {
         "text": "Instructions",
         "aliases": [
           "directions on a sign"
+        ],
+        "points": 16
+      },
+      {
+        "text": "Shopping list",
+        "aliases": [
+          "grocery list"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A timetable",
+        "aliases": [
+          "class schedule",
+          "bus schedule"
         ],
         "points": 8
       },
@@ -1401,16 +1404,17 @@
         "points": 24
       },
       {
-        "text": "Their child",
+        "text": "A favorite artist",
         "aliases": [
-          "kid"
+          "musician",
+          "singer"
         ],
         "points": 17
       },
       {
-        "text": "Celebrity",
+        "text": "A meme",
         "aliases": [
-          "famous person"
+          "funny picture"
         ],
         "points": 12
       },
@@ -1436,45 +1440,46 @@
     "prompt": "Name a time a dead phone battery feels like a personal attack.",
     "answers": [
       {
-        "text": "When lost",
-        "aliases": [
-          "need directions"
-        ],
-        "points": 29
-      },
-      {
         "text": "Waiting for a ride",
         "aliases": [
           "need a pickup"
         ],
-        "points": 24
-      },
-      {
-        "text": "At a concert",
-        "aliases": [
-          "watching a concert"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Taking a perfect photo",
-        "aliases": [
-          "taking pictures"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Important phone call",
-        "aliases": [
-          "important call"
-        ],
-        "points": 9
+        "points": 29
       },
       {
         "text": "Showing a ticket",
         "aliases": [
           "boarding pass",
           "digital ticket"
+        ],
+        "points": 24
+      },
+      {
+        "text": "When lost",
+        "aliases": [
+          "need directions"
+        ],
+        "points": 18
+      },
+      {
+        "text": "At a concert",
+        "aliases": [
+          "watching a concert"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Taking a perfect photo",
+        "aliases": [
+          "taking pictures"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Paying at the register",
+        "aliases": [
+          "tap to pay",
+          "phone payment"
         ],
         "points": 6
       }
@@ -1556,25 +1561,24 @@
         "points": 18
       },
       {
-        "text": "A vacation",
+        "text": "Comfort food",
         "aliases": [
-          "holiday trip"
+          "ice cream",
+          "snacks"
         ],
         "points": 13
       },
       {
-        "text": "A pet",
+        "text": "Concert tickets",
         "aliases": [
-          "a dog",
-          "a cat"
+          "show tickets"
         ],
         "points": 9
       },
       {
-        "text": "Alcohol",
+        "text": "A new game",
         "aliases": [
-          "wine",
-          "beer"
+          "video game"
         ],
         "points": 6
       }
@@ -1632,7 +1636,7 @@
   {
     "id": "everyday-344",
     "category": "Everyday life",
-    "prompt": "Name a purchase people hide the price of from their partner.",
+    "prompt": "Name a purchase you might be embarrassed to admit how much you paid for.",
     "answers": [
       {
         "text": "Shoes",
@@ -1650,9 +1654,9 @@
         "points": 24
       },
       {
-        "text": "Handbag",
+        "text": "Takeout",
         "aliases": [
-          "purse"
+          "food delivery"
         ],
         "points": 17
       },
@@ -1664,16 +1668,16 @@
         "points": 12
       },
       {
-        "text": "Jewelry",
+        "text": "Concert tickets",
         "aliases": [
-          "jewellery"
+          "show tickets"
         ],
         "points": 9
       },
       {
-        "text": "Takeout",
+        "text": "Jewelry",
         "aliases": [
-          "food delivery"
+          "jewellery"
         ],
         "points": 6
       }
@@ -1699,30 +1703,30 @@
         "points": 24
       },
       {
-        "text": "Printer",
+        "text": "Hair clippers",
         "aliases": [
-          "home printer"
+          "haircut kit"
         ],
         "points": 18
+      },
+      {
+        "text": "A bike",
+        "aliases": [
+          "bicycle"
+        ],
+        "points": 14
       },
       {
         "text": "Sewing machine",
         "aliases": [
           "sewing equipment"
         ],
-        "points": 14
-      },
-      {
-        "text": "Solar panels",
-        "aliases": [
-          "solar power"
-        ],
         "points": 9
       },
       {
-        "text": "Hair clippers",
+        "text": "Meal prep containers",
         "aliases": [
-          "haircut kit"
+          "food storage containers"
         ],
         "points": 6
       }
@@ -1783,30 +1787,31 @@
     "prompt": "Name something embarrassing to discover at the checkout.",
     "answers": [
       {
-        "text": "Forgot wallet",
-        "aliases": [
-          "no wallet"
-        ],
-        "points": 35
-      },
-      {
         "text": "Card declined",
         "aliases": [
           "payment declined"
         ],
-        "points": 25
+        "points": 35
       },
       {
         "text": "Price is higher than expected",
         "aliases": [
           "wrong price"
         ],
+        "points": 25
+      },
+      {
+        "text": "Forgot wallet",
+        "aliases": [
+          "no wallet"
+        ],
         "points": 16
       },
       {
-        "text": "Expired coupon",
+        "text": "Tap to pay won't work",
         "aliases": [
-          "coupon won't work"
+          "phone payment failed",
+          "nfc won't work"
         ],
         "points": 11
       },
@@ -1937,37 +1942,38 @@
         "points": 29
       },
       {
-        "text": "Privacy",
-        "aliases": [
-          "shop in private"
-        ],
-        "points": 24
-      },
-      {
         "text": "Can't sleep",
         "aliases": [
           "insomnia"
         ],
-        "points": 18
+        "points": 24
       },
       {
-        "text": "No crowds",
+        "text": "Privacy",
         "aliases": [
-          "avoid people"
+          "shop in private"
         ],
-        "points": 14
+        "points": 18
       },
       {
         "text": "Shop any time",
         "aliases": [
           "open all night"
         ],
+        "points": 14
+      },
+      {
+        "text": "Comparison shopping",
+        "aliases": [
+          "checking prices",
+          "compare prices"
+        ],
         "points": 9
       },
       {
-        "text": "No salesperson",
+        "text": "No crowds",
         "aliases": [
-          "avoid sales staff"
+          "avoid people"
         ],
         "points": 6
       }
@@ -2140,30 +2146,31 @@
         "points": 24
       },
       {
-        "text": "Self-help book",
-        "aliases": [
-          "self improvement book"
-        ],
-        "points": 17
-      },
-      {
         "text": "Gym membership",
         "aliases": [
           "join a gym"
         ],
+        "points": 17
+      },
+      {
+        "text": "A planner",
+        "aliases": [
+          "journal",
+          "day planner"
+        ],
         "points": 12
+      },
+      {
+        "text": "Self-help book",
+        "aliases": [
+          "self improvement book"
+        ],
+        "points": 9
       },
       {
         "text": "Vacation",
         "aliases": [
           "holiday"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Lottery ticket",
-        "aliases": [
-          "lotto ticket"
         ],
         "points": 6
       }
@@ -2281,38 +2288,38 @@
         "points": 35
       },
       {
-        "text": "Alcohol",
-        "aliases": [
-          "beer",
-          "wine"
-        ],
-        "points": 25
-      },
-      {
         "text": "Clothes",
         "aliases": [
           "clothing"
         ],
-        "points": 16
-      },
-      {
-        "text": "Magazine",
-        "aliases": [
-          "tabloid"
-        ],
-        "points": 11
-      },
-      {
-        "text": "Flowers",
-        "aliases": [
-          "bouquet"
-        ],
-        "points": 8
+        "points": 25
       },
       {
         "text": "Beauty product",
         "aliases": [
           "makeup"
+        ],
+        "points": 16
+      },
+      {
+        "text": "A drink",
+        "aliases": [
+          "soda",
+          "energy drink"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A phone accessory",
+        "aliases": [
+          "phone case"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Flowers",
+        "aliases": [
+          "bouquet"
         ],
         "points": 5
       }
@@ -2471,16 +2478,16 @@
     "prompt": "Name something people buy because they saw it in an online video.",
     "answers": [
       {
-        "text": "Kitchen gadget",
+        "text": "Skincare",
         "aliases": [
-          "cooking gadget"
+          "skin product"
         ],
         "points": 30
       },
       {
-        "text": "Skincare",
+        "text": "Clothes",
         "aliases": [
-          "skin product"
+          "outfit"
         ],
         "points": 24
       },
@@ -2492,23 +2499,24 @@
         "points": 18
       },
       {
-        "text": "Clothes",
+        "text": "Kitchen gadget",
         "aliases": [
-          "outfit"
+          "cooking gadget"
         ],
         "points": 13
-      },
-      {
-        "text": "Cleaning product",
-        "aliases": [
-          "cleaner"
-        ],
-        "points": 9
       },
       {
         "text": "Phone accessory",
         "aliases": [
           "phone case"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Room decor",
+        "aliases": [
+          "led lights",
+          "decorations"
         ],
         "points": 6
       }
@@ -2794,16 +2802,17 @@
         "points": 11
       },
       {
-        "text": "Contract",
+        "text": "The syllabus",
         "aliases": [
-          "legal document"
+          "course outline"
         ],
         "points": 8
       },
       {
-        "text": "News article",
+        "text": "A long group chat",
         "aliases": [
-          "article"
+          "chat thread",
+          "all the messages"
         ],
         "points": 5
       }
@@ -2864,23 +2873,23 @@
     "prompt": "Name something people exaggerate when telling a story.",
     "answers": [
       {
-        "text": "How fast they went",
+        "text": "Money spent",
         "aliases": [
-          "speed"
+          "cost"
         ],
         "points": 32
       },
       {
-        "text": "Size of a fish",
+        "text": "How long they waited",
         "aliases": [
-          "fish they caught"
+          "waiting time"
         ],
         "points": 24
       },
       {
-        "text": "Money spent",
+        "text": "Their own role",
         "aliases": [
-          "cost"
+          "how much they helped"
         ],
         "points": 17
       },
@@ -2892,16 +2901,16 @@
         "points": 12
       },
       {
-        "text": "How long they waited",
+        "text": "How fast they went",
         "aliases": [
-          "waiting time"
+          "speed"
         ],
         "points": 9
       },
       {
-        "text": "Their own role",
+        "text": "How awkward it was",
         "aliases": [
-          "how much they helped"
+          "how embarrassing it was"
         ],
         "points": 6
       }
@@ -3060,44 +3069,44 @@
     "prompt": "Name something people ask for advice about \"for a friend.\"",
     "answers": [
       {
-        "text": "Dating problem",
-        "aliases": [
-          "relationship trouble"
-        ],
-        "points": 28
-      },
-      {
         "text": "A crush",
         "aliases": [
           "someone they like"
         ],
-        "points": 23
+        "points": 28
       },
       {
-        "text": "Debt",
+        "text": "Dating problem",
         "aliases": [
-          "money problems"
+          "relationship trouble"
         ],
-        "points": 19
+        "points": 23
       },
       {
         "text": "Bad grade",
         "aliases": [
           "failed test"
         ],
-        "points": 14
+        "points": 19
       },
       {
-        "text": "Embarrassing injury",
+        "text": "Debt",
         "aliases": [
-          "awkward injury"
+          "money problems"
         ],
-        "points": 10
+        "points": 14
       },
       {
         "text": "Bad haircut",
         "aliases": [
           "hair disaster"
+        ],
+        "points": 10
+      },
+      {
+        "text": "Embarrassing injury",
+        "aliases": [
+          "awkward injury"
         ],
         "points": 6
       }
@@ -3795,44 +3804,44 @@
     "prompt": "Name a reason someone stays up later than they planned.",
     "answers": [
       {
-        "text": "Watching television",
-        "aliases": [
-          "one more episode"
-        ],
-        "points": 32
-      },
-      {
         "text": "Using their phone",
         "aliases": [
           "scrolling"
         ],
-        "points": 24
-      },
-      {
-        "text": "Reading a book",
-        "aliases": [
-          "reading"
-        ],
-        "points": 18
+        "points": 32
       },
       {
         "text": "Playing games",
         "aliases": [
           "gaming"
         ],
-        "points": 12
+        "points": 24
+      },
+      {
+        "text": "Watching television",
+        "aliases": [
+          "one more episode"
+        ],
+        "points": 18
       },
       {
         "text": "Talking to someone",
         "aliases": [
           "long conversation"
         ],
-        "points": 8
+        "points": 12
       },
       {
         "text": "Finishing a project",
         "aliases": [
           "unfinished task"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Reading a book",
+        "aliases": [
+          "reading"
         ],
         "points": 6
       }
@@ -4040,44 +4049,44 @@
     "prompt": "Name something people practice alone before trying it in front of others.",
     "answers": [
       {
-        "text": "Dance",
-        "aliases": [
-          "dance moves"
-        ],
-        "points": 28
-      },
-      {
         "text": "Speech",
         "aliases": [
           "presentation"
         ],
-        "points": 23
+        "points": 28
       },
       {
-        "text": "Marriage proposal",
+        "text": "Dance",
         "aliases": [
-          "proposal"
+          "dance moves"
         ],
-        "points": 19
+        "points": 23
       },
       {
         "text": "Song",
         "aliases": [
           "singing"
         ],
-        "points": 14
+        "points": 19
       },
       {
         "text": "Joke",
         "aliases": [
           "telling a joke"
         ],
-        "points": 10
+        "points": 14
       },
       {
         "text": "Introduction",
         "aliases": [
           "introducing themselves"
+        ],
+        "points": 10
+      },
+      {
+        "text": "How to ask someone out",
+        "aliases": [
+          "ask out a crush"
         ],
         "points": 6
       }
@@ -4257,16 +4266,17 @@
         "points": 16
       },
       {
-        "text": "Dog walk",
+        "text": "A food delivery",
         "aliases": [
-          "walking the dog"
+          "delivery driver",
+          "takeout arriving"
         ],
         "points": 11
       },
       {
-        "text": "Work emergency",
+        "text": "Dog walk",
         "aliases": [
-          "called into work"
+          "walking the dog"
         ],
         "points": 8
       },
@@ -4292,37 +4302,38 @@
         "points": 28
       },
       {
-        "text": "Typo",
-        "aliases": [
-          "spelling mistake"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Missing attachment",
-        "aliases": [
-          "forgot attachment"
-        ],
-        "points": 19
-      },
-      {
         "text": "Accidental photo",
         "aliases": [
           "wrong picture"
         ],
-        "points": 14
+        "points": 23
+      },
+      {
+        "text": "Typo",
+        "aliases": [
+          "spelling mistake"
+        ],
+        "points": 19
       },
       {
         "text": "Being too honest",
         "aliases": [
           "oversharing"
         ],
+        "points": 14
+      },
+      {
+        "text": "Missing attachment",
+        "aliases": [
+          "forgot attachment"
+        ],
         "points": 10
       },
       {
-        "text": "No reply",
+        "text": "Private info is visible",
         "aliases": [
-          "left on read"
+          "sent private info",
+          "address visible"
         ],
         "points": 6
       }
@@ -4383,24 +4394,24 @@
     "prompt": "Name something you hope the cashier won't comment on.",
     "answers": [
       {
-        "text": "Underwear",
-        "aliases": [
-          "underpants"
-        ],
-        "points": 29
-      },
-      {
         "text": "Condoms",
         "aliases": [
           "protection"
         ],
-        "points": 24
+        "points": 29
       },
       {
         "text": "Period products",
         "aliases": [
           "tampons",
           "pads"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Underwear",
+        "aliases": [
+          "underpants"
         ],
         "points": 18
       },
@@ -4412,16 +4423,16 @@
         "points": 14
       },
       {
-        "text": "Diet pills",
+        "text": "Pimple patches",
         "aliases": [
-          "weight loss pills"
+          "acne patches"
         ],
         "points": 9
       },
       {
-        "text": "Tabloid",
+        "text": "A huge pile of snacks",
         "aliases": [
-          "gossip magazine"
+          "junk food haul"
         ],
         "points": 6
       }

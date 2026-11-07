@@ -278,16 +278,16 @@
         "points": 11
       },
       {
-        "text": "Insect in food",
+        "text": "Beautiful presentation",
         "aliases": [
-          "bug"
+          "looks amazing"
         ],
         "points": 8
       },
       {
-        "text": "Beautiful presentation",
+        "text": "It looks nothing like the photo",
         "aliases": [
-          "looks amazing"
+          "doesn't match the menu picture"
         ],
         "points": 6
       }
@@ -446,23 +446,23 @@
     "prompt": "Name something a diner might do to make a tiny table feel even smaller.",
     "answers": [
       {
-        "text": "Order too many dishes",
+        "text": "Leave bags on it",
         "aliases": [
-          "lots of plates"
+          "handbag on table"
         ],
         "points": 31
       },
       {
-        "text": "Put phone on table",
+        "text": "Order too many dishes",
         "aliases": [
-          "phones out"
+          "lots of plates"
         ],
         "points": 25
       },
       {
-        "text": "Leave bags on it",
+        "text": "Prop up a phone to film",
         "aliases": [
-          "handbag on table"
+          "set up the phone camera"
         ],
         "points": 18
       },
@@ -495,44 +495,44 @@
     "prompt": "Name a reason someone chooses a restaurant with terrible food.",
     "answers": [
       {
-        "text": "Great view",
+        "text": "Friends like it",
         "aliases": [
-          "scenery"
+          "group choice"
         ],
         "points": 34
-      },
-      {
-        "text": "Convenient location",
-        "aliases": [
-          "nearby"
-        ],
-        "points": 24
       },
       {
         "text": "Cheap prices",
         "aliases": [
           "low cost"
         ],
+        "points": 24
+      },
+      {
+        "text": "Convenient location",
+        "aliases": [
+          "nearby"
+        ],
         "points": 17
       },
       {
-        "text": "Friends like it",
+        "text": "It's open late",
         "aliases": [
-          "group choice"
+          "late night hours"
         ],
         "points": 11
       },
       {
-        "text": "Good drinks",
+        "text": "It looks good online",
         "aliases": [
-          "cocktails"
+          "saw good photos"
         ],
         "points": 8
       },
       {
-        "text": "Attractive staff",
+        "text": "Great view",
         "aliases": [
-          "cute server"
+          "scenery"
         ],
         "points": 6
       }
@@ -600,37 +600,37 @@
         "points": 30
       },
       {
+        "text": "Nobody knows who's paying",
+        "aliases": [
+          "bill confusion"
+        ],
+        "points": 24
+      },
+      {
         "text": "Special requests",
         "aliases": [
           "substitutions"
         ],
-        "points": 24
+        "points": 19
       },
       {
         "text": "People keep changing minds",
         "aliases": [
           "indecision"
         ],
-        "points": 19
+        "points": 13
       },
       {
-        "text": "Someone is missing",
+        "text": "Someone orders after you've paid",
         "aliases": [
-          "away from table"
+          "last minute order"
         ],
-        "points": 13
+        "points": 8
       },
       {
         "text": "Sharing plans change",
         "aliases": [
           "who shares what"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Nobody knows who's paying",
-        "aliases": [
-          "bill confusion"
         ],
         "points": 6
       }
@@ -698,9 +698,9 @@
         "points": 31
       },
       {
-        "text": "Wine bottle",
+        "text": "Their phone",
         "aliases": [
-          "bottle"
+          "cellphone"
         ],
         "points": 25
       },
@@ -719,9 +719,9 @@
         "points": 12
       },
       {
-        "text": "Flower vase",
+        "text": "The menu stand",
         "aliases": [
-          "vase"
+          "tabletop sign"
         ],
         "points": 8
       },
@@ -740,37 +740,37 @@
     "prompt": "Name something people pretend to understand at a fancy restaurant.",
     "answers": [
       {
-        "text": "Wine talk",
+        "text": "How to pronounce a dish",
         "aliases": [
-          "wine descriptions"
+          "say the name of a menu item"
         ],
         "points": 34
-      },
-      {
-        "text": "Menu language",
-        "aliases": [
-          "foreign words"
-        ],
-        "points": 24
       },
       {
         "text": "Which fork to use",
         "aliases": [
           "cutlery rules"
         ],
-        "points": 17
+        "points": 24
       },
       {
-        "text": "Tiny portions",
+        "text": "Why the portions are so small",
         "aliases": [
-          "why so little food"
+          "tiny servings"
         ],
-        "points": 11
+        "points": 17
       },
       {
         "text": "Tasting menu",
         "aliases": [
           "courses"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Whether sides come with it",
+        "aliases": [
+          "are sides included"
         ],
         "points": 8
       },
@@ -838,37 +838,37 @@
     "prompt": "Name something that makes a diner panic when the bill arrives.",
     "answers": [
       {
-        "text": "Forgot wallet",
-        "aliases": [
-          "no money"
-        ],
-        "points": 30
-      },
-      {
         "text": "Card declined",
         "aliases": [
           "payment fails"
         ],
+        "points": 30
+      },
+      {
+        "text": "Not enough money in their account",
+        "aliases": [
+          "low bank balance"
+        ],
         "points": 24
+      },
+      {
+        "text": "Forgot wallet",
+        "aliases": [
+          "no money"
+        ],
+        "points": 19
       },
       {
         "text": "Hidden charges",
         "aliases": [
           "extra fees"
         ],
-        "points": 19
+        "points": 13
       },
       {
         "text": "Friend expects them to pay",
         "aliases": [
           "stuck with bill"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Added too big a tip",
-        "aliases": [
-          "tip mistake"
         ],
         "points": 8
       },
@@ -894,37 +894,37 @@
         "points": 35
       },
       {
-        "text": "Alcohol",
-        "aliases": [
-          "drink costs"
-        ],
-        "points": 24
-      },
-      {
         "text": "Tip",
         "aliases": [
           "gratuity"
         ],
-        "points": 17
+        "points": 24
       },
       {
         "text": "Shared dishes",
         "aliases": [
           "appetizers"
         ],
-        "points": 11
+        "points": 17
       },
       {
-        "text": "Who owes whom",
+        "text": "Who covers the tax",
         "aliases": [
-          "already paid"
+          "splitting tax"
         ],
-        "points": 8
+        "points": 11
       },
       {
         "text": "Discount or coupon",
         "aliases": [
           "who gets savings"
+        ],
+        "points": 8
+      },
+      {
+        "text": "One person already paid",
+        "aliases": [
+          "someone put it on their card"
         ],
         "points": 5
       }
@@ -943,9 +943,9 @@
         "points": 31
       },
       {
-        "text": "They ordered dessert",
+        "text": "To send their share",
         "aliases": [
-          "extra food"
+          "pay you back"
         ],
         "points": 25
       },
@@ -957,9 +957,9 @@
         "points": 18
       },
       {
-        "text": "They borrowed money",
+        "text": "They ordered dessert",
         "aliases": [
-          "owe you"
+          "extra food"
         ],
         "points": 12
       },
@@ -992,9 +992,9 @@
         "points": 34
       },
       {
-        "text": "Showing off",
+        "text": "Feels guilty",
         "aliases": [
-          "impress people"
+          "making up for something"
         ],
         "points": 24
       },
@@ -1006,16 +1006,16 @@
         "points": 17
       },
       {
-        "text": "Business expense",
+        "text": "They just got paid",
         "aliases": [
-          "company pays"
+          "payday"
         ],
         "points": 11
       },
       {
-        "text": "Feels guilty",
+        "text": "Showing off",
         "aliases": [
-          "making up for something"
+          "impress people"
         ],
         "points": 8
       },
@@ -1041,37 +1041,37 @@
         "points": 32
       },
       {
+        "text": "The screen starts at a high percentage",
+        "aliases": [
+          "high suggested tips"
+        ],
+        "points": 25
+      },
+      {
         "text": "Bad service",
         "aliases": [
           "rude server"
         ],
-        "points": 25
+        "points": 18
+      },
+      {
+        "text": "It's a pickup order",
+        "aliases": [
+          "tipping on takeout"
+        ],
+        "points": 12
       },
       {
         "text": "Shared bill",
         "aliases": [
           "group payment"
         ],
-        "points": 18
+        "points": 8
       },
       {
         "text": "Cash shortage",
         "aliases": [
           "no change"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Tip screen percentages",
-        "aliases": [
-          "suggested tip"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Different country",
-        "aliases": [
-          "local custom"
         ],
         "points": 5
       }
@@ -1385,18 +1385,17 @@
         "points": 35
       },
       {
-        "text": "Dog won't stop barking",
+        "text": "Messy hands",
         "aliases": [
-          "barking dog",
-          "excited dog"
+          "hands covered in food",
+          "sticky hands"
         ],
         "points": 25
       },
       {
-        "text": "Driver is someone you know",
+        "text": "You're on a call",
         "aliases": [
-          "recognize the driver",
-          "your ex delivers"
+          "on the phone"
         ],
         "points": 16
       },
@@ -1409,18 +1408,17 @@
         "points": 11
       },
       {
-        "text": "Baby just fell asleep",
+        "text": "Driver is someone you know",
         "aliases": [
-          "sleeping baby",
-          "baby is asleep"
+          "recognize the driver",
+          "your ex delivers"
         ],
         "points": 8
       },
       {
-        "text": "Messy hands",
+        "text": "Your hair is in a towel",
         "aliases": [
-          "hands covered in food",
-          "sticky hands"
+          "wet hair"
         ],
         "points": 5
       }
@@ -1495,23 +1493,23 @@
         "points": 24
       },
       {
-        "text": "Order gets missed",
-        "aliases": [
-          "forgot someone"
-        ],
-        "points": 17
-      },
-      {
         "text": "Payment is missing",
         "aliases": [
           "hasn't paid"
         ],
+        "points": 17
+      },
+      {
+        "text": "Order gets missed",
+        "aliases": [
+          "forgot someone"
+        ],
         "points": 11
       },
       {
-        "text": "Conflicting requests",
+        "text": "Everyone sends screenshots",
         "aliases": [
-          "can't agree"
+          "screenshots instead of a list"
         ],
         "points": 8
       },
@@ -1530,9 +1528,9 @@
     "prompt": "Name something that might be missing from a takeout order besides food.",
     "answers": [
       {
-        "text": "Napkins",
+        "text": "Condiments",
         "aliases": [
-          "serviettes"
+          "sauce packets"
         ],
         "points": 32
       },
@@ -1544,23 +1542,23 @@
         "points": 25
       },
       {
+        "text": "Napkins",
+        "aliases": [
+          "serviettes"
+        ],
+        "points": 18
+      },
+      {
         "text": "Straw",
         "aliases": [
           "drinking straw"
         ],
-        "points": 18
+        "points": 12
       },
       {
         "text": "Receipt",
         "aliases": [
           "bill"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Condiments",
-        "aliases": [
-          "sauce packets"
         ],
         "points": 8
       },
@@ -1628,16 +1626,16 @@
     "prompt": "Name something a person does when the delivery order is clearly for someone else.",
     "answers": [
       {
-        "text": "Call the restaurant",
+        "text": "Ask for a refund in the app",
         "aliases": [
-          "contact restaurant"
+          "report the order in the app"
         ],
         "points": 35
       },
       {
-        "text": "Contact the app",
+        "text": "Check the receipt",
         "aliases": [
-          "customer support"
+          "read label"
         ],
         "points": 24
       },
@@ -1649,23 +1647,23 @@
         "points": 17
       },
       {
-        "text": "Check the receipt",
+        "text": "Call the restaurant",
         "aliases": [
-          "read label"
+          "contact restaurant"
         ],
         "points": 11
-      },
-      {
-        "text": "Eat it anyway",
-        "aliases": [
-          "keep it"
-        ],
-        "points": 8
       },
       {
         "text": "Look for the neighbor",
         "aliases": [
           "find owner"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Eat it anyway",
+        "aliases": [
+          "keep it"
         ],
         "points": 5
       }
@@ -1677,47 +1675,46 @@
     "prompt": "Name something people put in delivery instructions that gets ignored.",
     "answers": [
       {
-        "text": "Don't make noise",
-        "aliases": [
-          "don't ring doorbell",
-          "don't knock",
-          "baby sleeping"
-        ],
-        "points": 31
-      },
-      {
         "text": "Leave at the door",
         "aliases": [
           "contactless"
         ],
+        "points": 31
+      },
+      {
+        "text": "Text when you arrive",
+        "aliases": [
+          "message on arrival"
+        ],
         "points": 25
-      },
-      {
-        "text": "Use side entrance",
-        "aliases": [
-          "back door"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Call on arrival",
-        "aliases": [
-          "phone me"
-        ],
-        "points": 12
       },
       {
         "text": "Gate code",
         "aliases": [
           "entry code"
         ],
+        "points": 18
+      },
+      {
+        "text": "Use side entrance",
+        "aliases": [
+          "back door"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Don't make noise",
+        "aliases": [
+          "don't ring doorbell",
+          "don't knock",
+          "baby sleeping"
+        ],
         "points": 8
       },
       {
-        "text": "Hand it to me",
+        "text": "The room or apartment number",
         "aliases": [
-          "give it in person",
-          "hand delivery"
+          "unit number"
         ],
         "points": 6
       }
@@ -1729,30 +1726,30 @@
     "prompt": "Name a reason someone hides evidence that they ordered takeout.",
     "answers": [
       {
-        "text": "Pretended to cook",
-        "aliases": [
-          "claimed homemade"
-        ],
-        "points": 34
-      },
-      {
         "text": "Trying to save money",
         "aliases": [
           "on a budget"
         ],
-        "points": 24
-      },
-      {
-        "text": "Dieting",
-        "aliases": [
-          "supposed to eat healthy"
-        ],
-        "points": 17
+        "points": 34
       },
       {
         "text": "Didn't buy any for others",
         "aliases": [
           "secret meal"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Pretended to cook",
+        "aliases": [
+          "claimed homemade"
+        ],
+        "points": 17
+      },
+      {
+        "text": "They were told to eat at home",
+        "aliases": [
+          "supposed to eat what's at home"
         ],
         "points": 11
       },
@@ -1764,9 +1761,9 @@
         "points": 8
       },
       {
-        "text": "Partner dislikes that place",
+        "text": "They got takeout on the way to dinner",
         "aliases": [
-          "disapproved restaurant"
+          "ate before a planned meal"
         ],
         "points": 6
       }
@@ -1841,9 +1838,9 @@
         "points": 24
       },
       {
-        "text": "Pay",
+        "text": "Extra sauce",
         "aliases": [
-          "settle bill"
+          "condiments"
         ],
         "points": 19
       },
@@ -1855,16 +1852,16 @@
         "points": 13
       },
       {
-        "text": "Bring their wallet",
+        "text": "Their phone for the pickup code",
         "aliases": [
-          "payment card"
+          "left their phone behind"
         ],
         "points": 8
       },
       {
-        "text": "Extra sauce",
+        "text": "To tell a friend it's ready",
         "aliases": [
-          "condiments"
+          "message the person waiting"
         ],
         "points": 6
       }
@@ -1939,30 +1936,30 @@
         "points": 25
       },
       {
-        "text": "Portion too small",
+        "text": "Forgot their whole order",
         "aliases": [
-          "ordered small"
+          "nothing for them"
         ],
         "points": 18
+      },
+      {
+        "text": "Didn't use the app deal",
+        "aliases": [
+          "missed the mobile coupon"
+        ],
+        "points": 12
       },
       {
         "text": "Ignored their allergy",
         "aliases": [
           "allergen"
         ],
-        "points": 12
-      },
-      {
-        "text": "Forgot their whole order",
-        "aliases": [
-          "nothing for them"
-        ],
         "points": 8
       },
       {
-        "text": "Flirted with the employee",
+        "text": "Left on something you asked to remove",
         "aliases": [
-          "held up the line"
+          "didn't customize it"
         ],
         "points": 6
       }
@@ -2177,37 +2174,37 @@
         "points": 31
       },
       {
+        "text": "Syrup flavor",
+        "aliases": [
+          "type of syrup"
+        ],
+        "points": 25
+      },
+      {
         "text": "Number of shots",
         "aliases": [
           "extra espresso"
         ],
-        "points": 25
+        "points": 18
+      },
+      {
+        "text": "Cold foam",
+        "aliases": [
+          "flavored foam"
+        ],
+        "points": 12
       },
       {
         "text": "Temperature",
         "aliases": [
           "extra hot"
         ],
-        "points": 18
-      },
-      {
-        "text": "Sweetness",
-        "aliases": [
-          "syrup pumps"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Cup size",
-        "aliases": [
-          "drink size"
-        ],
         "points": 8
       },
       {
-        "text": "No foam",
+        "text": "How much ice",
         "aliases": [
-          "foam instructions"
+          "ice level"
         ],
         "points": 6
       }
@@ -2226,37 +2223,37 @@
         "points": 34
       },
       {
-        "text": "Cup size",
-        "aliases": [
-          "size"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Change",
-        "aliases": [
-          "money back"
-        ],
-        "points": 17
-      },
-      {
         "text": "Food order",
         "aliases": [
           "pastry"
         ],
-        "points": 11
+        "points": 24
       },
       {
-        "text": "Price",
+        "text": "Cup size",
         "aliases": [
-          "total"
+          "size"
         ],
-        "points": 8
+        "points": 17
       },
       {
         "text": "Pickup person",
         "aliases": [
           "hands to wrong customer"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Pickup time",
+        "aliases": [
+          "when the order is supposed to be ready"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Price",
+        "aliases": [
+          "total"
         ],
         "points": 6
       }
@@ -2363,47 +2360,47 @@
   {
     "id": "food-089",
     "category": "Food & drink",
-    "prompt": "Name something you might order from room service just because you can eat it in bed.",
+    "prompt": "Name a takeout food you'd order just to eat it in a hotel bed.",
     "answers": [
-      {
-        "text": "Breakfast",
-        "aliases": [
-          "eggs and bacon"
-        ],
-        "points": 35
-      },
-      {
-        "text": "Burger",
-        "aliases": [
-          "cheeseburger"
-        ],
-        "points": 24
-      },
       {
         "text": "Pizza",
         "aliases": [
           "personal pizza"
         ],
-        "points": 17
-      },
-      {
-        "text": "Dessert",
-        "aliases": [
-          "cake"
-        ],
-        "points": 11
+        "points": 35
       },
       {
         "text": "Fries",
         "aliases": [
           "french fries"
         ],
+        "points": 24
+      },
+      {
+        "text": "Chicken nuggets",
+        "aliases": [
+          "nuggets"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Tacos",
+        "aliases": [
+          "taco"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Ice cream",
+        "aliases": [
+          "ice-cream"
+        ],
         "points": 8
       },
       {
-        "text": "Champagne",
+        "text": "Breakfast sandwich",
         "aliases": [
-          "sparkling wine"
+          "egg sandwich"
         ],
         "points": 5
       }
@@ -2412,7 +2409,7 @@
   {
     "id": "food-090",
     "category": "Food & drink",
-    "prompt": "Name something that makes hotel room service feel awkward.",
+    "prompt": "Name something that makes meeting a food delivery at a hotel awkward.",
     "answers": [
       {
         "text": "You're in pajamas",
@@ -2422,30 +2419,30 @@
         "points": 31
       },
       {
-        "text": "Messy room",
+        "text": "The driver can't find you",
         "aliases": [
-          "clothes everywhere"
+          "can't find the pickup spot"
         ],
         "points": 25
       },
       {
-        "text": "Don't know whether to tip",
+        "text": "You can't find the lobby",
         "aliases": [
-          "tip confusion"
+          "got lost inside"
         ],
         "points": 18
-      },
-      {
-        "text": "No cash",
-        "aliases": [
-          "can't tip"
-        ],
-        "points": 12
       },
       {
         "text": "Someone is asleep",
         "aliases": [
           "sleeping partner"
+        ],
+        "points": 12
+      },
+      {
+        "text": "You forgot utensils",
+        "aliases": [
+          "no fork or spoon"
         ],
         "points": 8
       },
@@ -2559,47 +2556,47 @@
   {
     "id": "food-093",
     "category": "Food & drink",
-    "prompt": "Name something that could ruin a surprise restaurant proposal.",
+    "prompt": "Name something that could ruin a surprise birthday dinner for a friend.",
     "answers": [
       {
-        "text": "Partner says no",
+        "text": "Someone spoils the surprise",
         "aliases": [
-          "rejection"
+          "tells them early"
         ],
         "points": 30
       },
       {
-        "text": "Ring gets lost",
+        "text": "The birthday friend cancels",
         "aliases": [
-          "missing ring"
+          "guest of honor can't come"
         ],
         "points": 24
       },
       {
-        "text": "Wrong dessert",
+        "text": "They spot the group",
         "aliases": [
-          "ring on wrong plate"
+          "see everyone waiting"
         ],
         "points": 19
       },
       {
-        "text": "Partner sees it early",
+        "text": "The cake is late",
         "aliases": [
-          "surprise spoiled"
+          "dessert hasn't arrived"
         ],
         "points": 13
       },
       {
-        "text": "Waiter interrupts",
+        "text": "Friends go to the wrong place",
         "aliases": [
-          "bad timing"
+          "wrong restaurant"
         ],
         "points": 8
       },
       {
-        "text": "Restaurant too loud",
+        "text": "The table isn't ready",
         "aliases": [
-          "can't hear"
+          "reservation problem"
         ],
         "points": 6
       }
@@ -2608,47 +2605,47 @@
   {
     "id": "food-094",
     "category": "Food & drink",
-    "prompt": "Name something someone might do to seem sophisticated when ordering wine.",
+    "prompt": "Name something someone says to sound like they know a trendy food spot.",
     "answers": [
       {
-        "text": "Swirl the glass",
+        "text": "I came before it blew up",
         "aliases": [
-          "swirling"
+          "knew it before it was popular"
         ],
         "points": 35
       },
       {
-        "text": "Smell the wine",
+        "text": "There's a secret menu",
         "aliases": [
-          "sniff it"
+          "off-menu order"
         ],
         "points": 24
       },
       {
-        "text": "Use fancy words",
+        "text": "This is the thing to get",
         "aliases": [
-          "describe notes"
+          "I know the best order"
         ],
         "points": 17
       },
       {
-        "text": "Ask about the year",
+        "text": "The original location is better",
         "aliases": [
-          "vintage"
+          "go to the first location"
         ],
         "points": 11
       },
       {
-        "text": "Choose expensive bottle",
+        "text": "I know the owner",
         "aliases": [
-          "highest price"
+          "friends with the owner"
         ],
         "points": 8
       },
       {
-        "text": "Pretend to recognize the label",
+        "text": "The line is shorter at a certain time",
         "aliases": [
-          "know brand"
+          "knows when to go"
         ],
         "points": 5
       }
@@ -2657,48 +2654,47 @@
   {
     "id": "food-095",
     "category": "Food & drink",
-    "prompt": "Name a reason someone orders water while everyone else orders alcohol.",
+    "prompt": "Name a reason someone gets free water when everyone else orders a drink.",
     "answers": [
-      {
-        "text": "Driving",
-        "aliases": [
-          "designated driver"
-        ],
-        "points": 31
-      },
       {
         "text": "Saving money",
         "aliases": [
           "too expensive"
         ],
+        "points": 31
+      },
+      {
+        "text": "They're thirsty",
+        "aliases": [
+          "just wants water"
+        ],
         "points": 25
       },
       {
-        "text": "Doesn't drink",
+        "text": "They don't like soda",
         "aliases": [
-          "sober"
+          "not a soda fan"
         ],
         "points": 18
       },
       {
-        "text": "Work tomorrow",
+        "text": "They already had caffeine",
         "aliases": [
-          "early morning"
+          "already had coffee"
         ],
         "points": 12
       },
       {
-        "text": "Taking medication",
+        "text": "They're saving room for food",
         "aliases": [
-          "medicine"
+          "don't want to fill up"
         ],
         "points": 8
       },
       {
-        "text": "Training for an event",
+        "text": "They want free refills",
         "aliases": [
-          "athletic training",
-          "race training"
+          "want more water later"
         ],
         "points": 6
       }
@@ -2707,13 +2703,12 @@
   {
     "id": "food-096",
     "category": "Food & drink",
-    "prompt": "Name something that can go wrong when a waiter pours wine at the table.",
+    "prompt": "Name something that can go wrong when a server pours a refill at the table.",
     "answers": [
       {
-        "text": "Spills wine",
+        "text": "Spills on someone",
         "aliases": [
-          "spills on clothes",
-          "spills on table"
+          "spills the drink"
         ],
         "points": 34
       },
@@ -2725,9 +2720,9 @@
         "points": 24
       },
       {
-        "text": "Cork breaks",
+        "text": "Pours the wrong soda",
         "aliases": [
-          "broken cork"
+          "wrong drink"
         ],
         "points": 17
       },
@@ -2739,17 +2734,16 @@
         "points": 11
       },
       {
-        "text": "Wrong wine",
+        "text": "Forgets someone's glass",
         "aliases": [
-          "wrong bottle"
+          "misses a refill"
         ],
         "points": 8
       },
       {
-        "text": "Dirty wine glass",
+        "text": "A straw gets knocked out",
         "aliases": [
-          "dirty glass",
-          "stained glass"
+          "straw falls"
         ],
         "points": 6
       }
@@ -3062,16 +3056,16 @@
         "points": 30
       },
       {
-        "text": "Too many plates",
+        "text": "Crowded aisle",
         "aliases": [
-          "heavy load"
+          "people in way"
         ],
         "points": 24
       },
       {
-        "text": "Crowded aisle",
+        "text": "Too many plates",
         "aliases": [
-          "people in way"
+          "heavy load"
         ],
         "points": 19
       },
@@ -3083,9 +3077,9 @@
         "points": 13
       },
       {
-        "text": "Child pulling at you",
+        "text": "A friend bumps your elbow",
         "aliases": [
-          "kid underfoot"
+          "someone bumps into you"
         ],
         "points": 8
       },
@@ -3181,16 +3175,16 @@
         "points": 12
       },
       {
-        "text": "Flirts aggressively",
+        "text": "Films the server without asking",
         "aliases": [
-          "unwanted flirting"
+          "records them without permission"
         ],
         "points": 8
       },
       {
-        "text": "Won't control children",
+        "text": "Flirts aggressively",
         "aliases": [
-          "kids running"
+          "unwanted flirting"
         ],
         "points": 6
       }
@@ -3209,23 +3203,23 @@
         "points": 34
       },
       {
-        "text": "Your boss",
-        "aliases": [
-          "manager"
-        ],
-        "points": 24
-      },
-      {
         "text": "Your parents",
         "aliases": [
           "mom and dad"
         ],
+        "points": 24
+      },
+      {
+        "text": "Someone from school",
+        "aliases": [
+          "classmate"
+        ],
         "points": 17
       },
       {
-        "text": "Someone you owe money",
+        "text": "Your boss",
         "aliases": [
-          "creditor"
+          "manager"
         ],
         "points": 11
       },
@@ -3237,9 +3231,9 @@
         "points": 8
       },
       {
-        "text": "Nosy neighbor",
+        "text": "Your sibling",
         "aliases": [
-          "gossiping neighbor"
+          "brother or sister"
         ],
         "points": 6
       }
@@ -3349,37 +3343,37 @@
     "prompt": "Name a reason someone chooses a restaurant just for its photos.",
     "answers": [
       {
-        "text": "Beautiful view",
-        "aliases": [
-          "scenery"
-        ],
-        "points": 35
-      },
-      {
         "text": "Fancy decor",
         "aliases": [
           "interior"
         ],
+        "points": 35
+      },
+      {
+        "text": "Beautiful view",
+        "aliases": [
+          "scenery"
+        ],
         "points": 24
+      },
+      {
+        "text": "Photogenic dessert",
+        "aliases": [
+          "pretty sweets"
+        ],
+        "points": 17
       },
       {
         "text": "Novelty dish",
         "aliases": [
           "unusual food"
         ],
-        "points": 17
-      },
-      {
-        "text": "Celebrity sightings",
-        "aliases": [
-          "famous people"
-        ],
         "points": 11
       },
       {
-        "text": "Photogenic dessert",
+        "text": "It's all over their feed",
         "aliases": [
-          "pretty sweets"
+          "keep seeing it on social media"
         ],
         "points": 8
       },
@@ -3787,7 +3781,7 @@
   {
     "id": "food-118",
     "category": "Food & drink",
-    "prompt": "Name a reason a couple chooses a cheap restaurant for an anniversary.",
+    "prompt": "Name a reason friends go somewhere cheap for a birthday meal.",
     "answers": [
       {
         "text": "Saving money",
@@ -3797,9 +3791,9 @@
         "points": 30
       },
       {
-        "text": "First date was there",
+        "text": "Walk-ins are easy",
         "aliases": [
-          "sentimental"
+          "you don't need a reservation"
         ],
         "points": 24
       },
@@ -3811,16 +3805,16 @@
         "points": 19
       },
       {
-        "text": "No reservations elsewhere",
+        "text": "It's near school or work",
         "aliases": [
-          "fully booked"
+          "close by after class"
         ],
         "points": 13
       },
       {
-        "text": "Taking the kids",
+        "text": "They can get one big table",
         "aliases": [
-          "family friendly"
+          "space for the group"
         ],
         "points": 8
       },
@@ -3888,30 +3882,30 @@
     "prompt": "Name an excuse someone uses to leave a restaurant dinner early.",
     "answers": [
       {
-        "text": "Early start tomorrow",
+        "text": "They have homework",
         "aliases": [
-          "work in morning"
+          "schoolwork due"
         ],
         "points": 31
-      },
-      {
-        "text": "Babysitter needs to leave",
-        "aliases": [
-          "kids"
-        ],
-        "points": 25
       },
       {
         "text": "Not feeling well",
         "aliases": [
           "sick"
         ],
+        "points": 25
+      },
+      {
+        "text": "They have an early shift",
+        "aliases": [
+          "work early tomorrow"
+        ],
         "points": 18
       },
       {
-        "text": "Pet needs feeding",
+        "text": "Their ride is here",
         "aliases": [
-          "dog"
+          "someone's picking them up"
         ],
         "points": 12
       },
@@ -3923,9 +3917,9 @@
         "points": 8
       },
       {
-        "text": "Work call",
+        "text": "Pet needs feeding",
         "aliases": [
-          "urgent call"
+          "dog"
         ],
         "points": 6
       }
@@ -3986,44 +3980,44 @@
     "prompt": "Name a reason you'd keep waiting an hour for a restaurant table.",
     "answers": [
       {
+        "text": "Friends already waiting",
+        "aliases": [
+          "group is staying"
+        ],
+        "points": 32
+      },
+      {
         "text": "Favorite food",
         "aliases": [
           "love the meal"
         ],
-        "points": 32
+        "points": 25
+      },
+      {
+        "text": "It's the place from a video",
+        "aliases": [
+          "saw it online"
+        ],
+        "points": 18
       },
       {
         "text": "Special occasion",
         "aliases": [
           "celebration"
         ],
-        "points": 25
+        "points": 12
+      },
+      {
+        "text": "Already came all this way",
+        "aliases": [
+          "traveled far to get here"
+        ],
+        "points": 8
       },
       {
         "text": "Nothing else open",
         "aliases": [
           "no other option"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Friends already waiting",
-        "aliases": [
-          "group is staying"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Bad weather outside",
-        "aliases": [
-          "avoid rain"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Paid a deposit",
-        "aliases": [
-          "would lose money"
         ],
         "points": 5
       }
@@ -4032,7 +4026,7 @@
   {
     "id": "food-123",
     "category": "Food & drink",
-    "prompt": "Name something you might order from a kids' menu even though you're an adult.",
+    "prompt": "What would you still order off the kids' menu today?",
     "answers": [
       {
         "text": "Chicken nuggets",
@@ -4063,16 +4057,16 @@
         "points": 13
       },
       {
-        "text": "Fish sticks",
+        "text": "Pancakes",
         "aliases": [
-          "fish fingers"
+          "mini pancakes"
         ],
         "points": 8
       },
       {
-        "text": "Pancakes",
+        "text": "Fish sticks",
         "aliases": [
-          "mini pancakes"
+          "fish fingers"
         ],
         "points": 6
       }
@@ -4378,9 +4372,9 @@
     "prompt": "Name something a restaurant might charge for that you assumed was free.",
     "answers": [
       {
-        "text": "Bread",
+        "text": "Extra sauce",
         "aliases": [
-          "bread basket"
+          "condiments"
         ],
         "points": 31
       },
@@ -4392,30 +4386,30 @@
         "points": 25
       },
       {
-        "text": "Service",
+        "text": "Bread",
         "aliases": [
-          "service charge"
+          "bread basket"
         ],
         "points": 18
-      },
-      {
-        "text": "Extra sauce",
-        "aliases": [
-          "condiments"
-        ],
-        "points": 12
       },
       {
         "text": "Takeout container",
         "aliases": [
           "box"
         ],
+        "points": 12
+      },
+      {
+        "text": "Swapping a side",
+        "aliases": [
+          "side substitution"
+        ],
         "points": 8
       },
       {
-        "text": "Bringing your own wine",
+        "text": "A drink refill",
         "aliases": [
-          "corkage"
+          "second soda"
         ],
         "points": 6
       }

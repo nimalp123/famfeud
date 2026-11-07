@@ -11,7 +11,7 @@ import type {
   RoundState,
   Team,
 } from "./types.ts";
-import { normalizeAnswer } from "./answers.ts";
+import { answerMeaning, conciseMeaning, normalizeAnswer, typoQualifiers } from "./answers.ts";
 import { QUESTION_CATEGORIES } from "./constants.ts";
 
 const SOLO_ROUND_MS = 60_000;
@@ -286,11 +286,32 @@ function matchAnswer(answers: Answer[], guess: string): Answer | undefined {
   }));
   const exact = candidates.find((candidate) => candidate.labels.includes(normalized));
   if (exact) return exact.answer;
+
+  const meaning = answerMeaning(normalized);
+  const meanings = candidates.map(({ answer, labels }) => ({ answer, labels: labels.map(answerMeaning) }));
+  const semantic = meanings.filter((candidate) => candidate.labels.includes(meaning));
+  if (semantic.length) return semantic.length === 1 ? semantic[0].answer : undefined;
+
+  const concise = conciseMeaning(meaning);
+  const abbreviated = meanings.filter(({ labels }) => labels.some((label) => conciseMeaning(label) === concise));
+  if (abbreviated.length) {
+    if (abbreviated.length !== 1) return undefined;
+    const { answer, labels } = abbreviated[0];
+    const opposite = (label: string) => /^stop talk\b/.test(label) && conciseMeaning(label) === concise;
+    if (opposite(meaning) || labels.some(opposite)) return undefined;
+    const talking = /^(?:(?:keep|start) )?talk\b/;
+    const hasBareSide = meaning === concise || labels.includes(concise);
+    const bothTalk = talking.test(meaning) && labels.some((label) => talking.test(label) && conciseMeaning(label) === concise);
+    if (hasBareSide || bothTalk) return answer;
+  }
+
   if (normalized.length < 5) return undefined;
   const limit = normalized.length >= 9 ? 2 : 1;
+  const qualifiers = typoQualifiers(normalized);
+  const wordCount = normalized.split(" ").length;
   const close = candidates.map(({ answer, labels }) => {
     const distances = labels
-      .filter((label) => label.length >= 5 && label.split(" ").length === normalized.split(" ").length)
+      .filter((label) => label.length >= 5 && label.split(" ").length === wordCount && typoQualifiers(label) === qualifiers)
       .map((label) => {
         const distance = editDistance(normalized, label);
         return distance / Math.max(label.length, normalized.length) <= 0.22 ? distance : Infinity;

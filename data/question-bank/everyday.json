@@ -29,25 +29,24 @@
         "points": 18
       },
       {
+        "text": "Earbuds",
+        "aliases": [
+          "headphones"
+        ],
+        "points": 13
+      },
+      {
         "text": "Glasses",
         "aliases": [
           "eyeglasses",
           "reading glasses"
         ],
-        "points": 13
-      },
-      {
-        "text": "Work badge",
-        "aliases": [
-          "badge",
-          "employee id"
-        ],
         "points": 9
       },
       {
-        "text": "Umbrella",
+        "text": "School or work ID",
         "aliases": [
-          "rain umbrella"
+          "badge"
         ],
         "points": 6
       }
@@ -215,17 +214,17 @@
   {
     "id": "everyday-005",
     "category": "Everyday life",
-    "prompt": "Name something a neighbor borrows that you eventually have to ask to get back.",
+    "prompt": "Name something a friend borrows that you eventually have to ask to get back.",
     "answers": [
       {
-        "text": "Ladder",
+        "text": "Phone charger",
         "aliases": [
-          "stepladder"
+          "charging cable"
         ],
         "points": 30
       },
       {
-        "text": "Drill",
+        "text": "A drill",
         "aliases": [
           "power drill"
         ],
@@ -239,16 +238,16 @@
         "points": 18
       },
       {
-        "text": "Lawn mower",
+        "text": "Folding chair",
         "aliases": [
-          "mower"
+          "camp chair"
         ],
         "points": 13
       },
       {
-        "text": "Serving dish",
+        "text": "Ladder",
         "aliases": [
-          "casserole dish"
+          "stepladder"
         ],
         "points": 9
       },
@@ -267,16 +266,16 @@
     "prompt": "Name something in your junk drawer that you no longer know what it belongs to.",
     "answers": [
       {
-        "text": "Key",
+        "text": "Cable",
         "aliases": [
-          "mystery key"
+          "charger cable"
         ],
         "points": 30
       },
       {
-        "text": "Cable",
+        "text": "Key",
         "aliases": [
-          "charger cable"
+          "mystery key"
         ],
         "points": 24
       },
@@ -288,16 +287,16 @@
         "points": 18
       },
       {
-        "text": "Remote control",
+        "text": "Old remote",
         "aliases": [
-          "remote"
+          "remote control"
         ],
         "points": 13
       },
       {
-        "text": "Button",
+        "text": "Random adapter",
         "aliases": [
-          "spare button"
+          "plug adapter"
         ],
         "points": 9
       },
@@ -323,30 +322,30 @@
         "points": 30
       },
       {
-        "text": "The kids did it",
-        "aliases": [
-          "children made the mess"
-        ],
-        "points": 24
-      },
-      {
         "text": "I was just cleaning",
         "aliases": [
           "in the middle of cleaning"
         ],
-        "points": 18
+        "points": 24
       },
       {
-        "text": "We're renovating",
+        "text": "My roommate did it",
         "aliases": [
-          "doing renovations"
+          "blame the roommate"
         ],
-        "points": 13
+        "points": 18
       },
       {
         "text": "The pet did it",
         "aliases": [
           "dog made the mess"
+        ],
+        "points": 13
+      },
+      {
+        "text": "I just got home",
+        "aliases": [
+          "haven't been home"
         ],
         "points": 9
       },
@@ -567,9 +566,9 @@
     "prompt": "Name someone at your door who might make you pretend you're not home.",
     "answers": [
       {
-        "text": "Salesperson",
+        "text": "An ex",
         "aliases": [
-          "door to door seller"
+          "ex partner"
         ],
         "points": 30
       },
@@ -581,30 +580,30 @@
         "points": 24
       },
       {
-        "text": "Landlord",
+        "text": "Uninvited relative",
         "aliases": [
-          "property manager"
+          "unexpected family"
         ],
         "points": 18
       },
       {
-        "text": "An ex",
+        "text": "Salesperson",
         "aliases": [
-          "ex partner"
+          "door to door seller"
         ],
         "points": 13
+      },
+      {
+        "text": "Landlord",
+        "aliases": [
+          "property manager"
+        ],
+        "points": 9
       },
       {
         "text": "Someone collecting money",
         "aliases": [
           "debt collector"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Uninvited relative",
-        "aliases": [
-          "unexpected family"
         ],
         "points": 6
       }
@@ -616,37 +615,37 @@
     "prompt": "Name something a roommate might borrow without asking and make you furious.",
     "answers": [
       {
-        "text": "Clothes",
-        "aliases": [
-          "shirt"
-        ],
-        "points": 30
-      },
-      {
         "text": "Phone charger",
         "aliases": [
           "charging cable"
         ],
-        "points": 24
+        "points": 30
       },
       {
-        "text": "Car",
+        "text": "Clothes",
         "aliases": [
-          "vehicle"
+          "shirt"
         ],
-        "points": 18
+        "points": 24
       },
       {
         "text": "Toiletries",
         "aliases": [
           "shampoo"
         ],
-        "points": 13
+        "points": 18
       },
       {
         "text": "Laptop",
         "aliases": [
           "computer"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Car",
+        "aliases": [
+          "vehicle"
         ],
         "points": 9
       },
@@ -819,30 +818,30 @@
         "points": 30
       },
       {
-        "text": "Kitchen",
-        "aliases": [
-          "dirty dishes"
-        ],
-        "points": 24
-      },
-      {
         "text": "Bedroom",
         "aliases": [
           "unmade bed"
         ],
-        "points": 18
+        "points": 24
       },
       {
-        "text": "Living room",
+        "text": "Kitchen",
         "aliases": [
-          "lounge"
+          "dirty dishes"
         ],
-        "points": 13
+        "points": 18
       },
       {
         "text": "Floors",
         "aliases": [
           "vacuuming"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Living room",
+        "aliases": [
+          "lounge"
         ],
         "points": 9
       },
@@ -1026,44 +1025,44 @@
     "prompt": "Name a reason a guest who planned to go home ends up sleeping on your couch.",
     "answers": [
       {
-        "text": "Too drunk to drive",
-        "aliases": [
-          "had too much to drink"
-        ],
-        "points": 30
-      },
-      {
         "text": "Missed the last train",
         "aliases": [
           "no bus home"
         ],
+        "points": 30
+      },
+      {
+        "text": "Their ride fell through",
+        "aliases": [
+          "couldn't get a ride"
+        ],
         "points": 24
-      },
-      {
-        "text": "Bad weather",
-        "aliases": [
-          "storm"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Car broke down",
-        "aliases": [
-          "car trouble"
-        ],
-        "points": 13
       },
       {
         "text": "It got too late",
         "aliases": [
           "stayed too late"
         ],
-        "points": 9
+        "points": 18
+      },
+      {
+        "text": "Bad weather",
+        "aliases": [
+          "storm"
+        ],
+        "points": 13
       },
       {
         "text": "Long drive home",
         "aliases": [
           "lives far away"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Car broke down",
+        "aliases": [
+          "car trouble"
         ],
         "points": 6
       }
@@ -1151,23 +1150,23 @@
         "points": 18
       },
       {
-        "text": "Taxes",
-        "aliases": [
-          "tax return"
-        ],
-        "points": 13
-      },
-      {
         "text": "Paying bills",
         "aliases": [
           "bill payments"
         ],
-        "points": 9
+        "points": 13
       },
       {
         "text": "Booking appointments",
         "aliases": [
           "making appointments"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Taxes",
+        "aliases": [
+          "tax return"
         ],
         "points": 6
       }
@@ -1473,12 +1472,20 @@
     "prompt": "Name something people reach for during a power outage.",
     "answers": [
       {
-        "text": "Flashlight",
+        "text": "Phone flashlight",
         "aliases": [
-          "torch",
-          "electric torch"
+          "flashlight",
+          "torch"
         ],
         "points": 32
+      },
+      {
+        "text": "Power bank",
+        "aliases": [
+          "portable charger",
+          "battery pack"
+        ],
+        "points": 24
       },
       {
         "text": "Candles",
@@ -1486,37 +1493,27 @@
           "candle",
           "tea lights"
         ],
-        "points": 24
-      },
-      {
-        "text": "Phone",
-        "aliases": [
-          "cellphone",
-          "mobile"
-        ],
         "points": 18
-      },
-      {
-        "text": "Matches",
-        "aliases": [
-          "lighter",
-          "matchbox"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Battery radio",
-        "aliases": [
-          "portable radio",
-          "radio"
-        ],
-        "points": 8
       },
       {
         "text": "Blanket",
         "aliases": [
           "blankets",
           "warm blanket"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Snacks",
+        "aliases": [
+          "something to eat"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A book",
+        "aliases": [
+          "something to read"
         ],
         "points": 6
       }
@@ -1593,18 +1590,18 @@
         "points": 25
       },
       {
-        "text": "Mail",
+        "text": "Unread messages",
         "aliases": [
-          "letters",
-          "post"
+          "emails",
+          "unread emails"
         ],
         "points": 16
       },
       {
-        "text": "Paperwork",
+        "text": "Schoolwork",
         "aliases": [
-          "documents",
-          "forms"
+          "assignments",
+          "homework"
         ],
         "points": 11
       },
@@ -1617,10 +1614,10 @@
         "points": 8
       },
       {
-        "text": "Unread messages",
+        "text": "Mail",
         "aliases": [
-          "emails",
-          "unread emails"
+          "letters",
+          "post"
         ],
         "points": 5
       }
@@ -1632,23 +1629,23 @@
     "prompt": "Name something people try to fix by hitting it.",
     "answers": [
       {
+        "text": "Game controller",
+        "aliases": [
+          "video game controller"
+        ],
+        "points": 30
+      },
+      {
         "text": "TV remote",
         "aliases": [
           "remote control"
         ],
-        "points": 30
+        "points": 24
       },
       {
         "text": "Computer",
         "aliases": [
           "laptop"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Printer",
-        "aliases": [
-          "printing machine"
         ],
         "points": 18
       },
@@ -1660,16 +1657,16 @@
         "points": 13
       },
       {
-        "text": "Stuck drawer",
+        "text": "Printer",
         "aliases": [
-          "jammed drawer"
+          "printing machine"
         ],
         "points": 9
       },
       {
-        "text": "Game controller",
+        "text": "Stuck drawer",
         "aliases": [
-          "video game controller"
+          "jammed drawer"
         ],
         "points": 6
       }
@@ -1795,26 +1792,26 @@
         "points": 25
       },
       {
-        "text": "Bad dream",
-        "aliases": [
-          "nightmare",
-          "scary dream"
-        ],
-        "points": 16
-      },
-      {
         "text": "Too hot",
         "aliases": [
           "overheating",
           "hot room"
         ],
+        "points": 16
+      },
+      {
+        "text": "Bad dream",
+        "aliases": [
+          "nightmare",
+          "scary dream"
+        ],
         "points": 11
       },
       {
-        "text": "Thirsty",
+        "text": "Phone went off",
         "aliases": [
-          "thirst",
-          "need water"
+          "a notification",
+          "phone buzzed"
         ],
         "points": 8
       },

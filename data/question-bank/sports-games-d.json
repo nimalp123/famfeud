@@ -5,30 +5,32 @@
     "prompt": "Name something people promise themselves when they join a gym in January.",
     "answers": [
       {
-        "text": "Go every day",
+        "text": "Get stronger",
         "aliases": [
-          "work out daily"
+          "build muscle"
         ],
         "points": 35
       },
       {
-        "text": "Lose weight",
+        "text": "Keep going past January",
         "aliases": [
-          "drop pounds"
+          "stick with it",
+          "not quit"
         ],
         "points": 25
+      },
+      {
+        "text": "Go after class every day",
+        "aliases": [
+          "go every day",
+          "work out daily"
+        ],
+        "points": 16
       },
       {
         "text": "Eat healthier",
         "aliases": [
           "improve my diet"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Get stronger",
-        "aliases": [
-          "build muscle"
         ],
         "points": 11
       },
@@ -40,9 +42,10 @@
         "points": 8
       },
       {
-        "text": "Stick with it",
+        "text": "Find a workout friend",
         "aliases": [
-          "not quit"
+          "get a gym buddy",
+          "work out with friends"
         ],
         "points": 5
       }
@@ -51,47 +54,53 @@
   {
     "id": "games-222",
     "category": "Sports & games",
-    "prompt": "Name something you hope your personal trainer never checks.",
+    "prompt": "Name something someone uses their phone for during a gym session.",
     "answers": [
       {
-        "text": "My food diary",
+        "text": "Film a form check",
         "aliases": [
-          "what I eat"
+          "record a set",
+          "take a lifting video"
         ],
         "points": 32
       },
       {
-        "text": "My weight",
+        "text": "Time their rest between sets",
         "aliases": [
-          "the scale"
+          "set a rest timer",
+          "stopwatch"
         ],
         "points": 24
       },
       {
-        "text": "My attendance",
+        "text": "Track their weights or reps",
         "aliases": [
-          "how often I go"
+          "log reps",
+          "log their workout"
         ],
         "points": 18
       },
       {
-        "text": "My effort",
+        "text": "Pick a playlist",
         "aliases": [
-          "whether I cheat on reps"
+          "change the music",
+          "play a song"
         ],
         "points": 12
       },
       {
-        "text": "My phone",
+        "text": "Look up an exercise",
         "aliases": [
-          "screen time"
+          "watch a tutorial",
+          "find a demo"
         ],
         "points": 8
       },
       {
-        "text": "My sleep schedule",
+        "text": "Text their workout buddy",
         "aliases": [
-          "bedtime"
+          "message their friend",
+          "text a friend"
         ],
         "points": 6
       }
@@ -397,44 +406,44 @@
     "prompt": "Name something people buy for exercise and then barely use.",
     "answers": [
       {
-        "text": "Treadmill",
-        "aliases": [
-          "running machine"
-        ],
-        "points": 35
-      },
-      {
         "text": "Gym membership",
         "aliases": [
           "gym pass"
         ],
-        "points": 25
-      },
-      {
-        "text": "Exercise bike",
-        "aliases": [
-          "stationary bike"
-        ],
-        "points": 16
+        "points": 35
       },
       {
         "text": "Dumbbells",
         "aliases": [
           "hand weights"
         ],
-        "points": 11
+        "points": 25
       },
       {
         "text": "Yoga mat",
         "aliases": [
           "exercise mat"
         ],
-        "points": 8
+        "points": 16
       },
       {
         "text": "Resistance bands",
         "aliases": [
           "exercise bands"
+        ],
+        "points": 11
+      },
+      {
+        "text": "A jump rope",
+        "aliases": [
+          "skipping rope"
+        ],
+        "points": 8
+      },
+      {
+        "text": "A pull-up bar",
+        "aliases": [
+          "doorway pull-up bar"
         ],
         "points": 5
       }
@@ -495,16 +504,18 @@
     "prompt": "Name something you would hate to notice in the background of your gym selfie.",
     "answers": [
       {
-        "text": "Someone changing",
+        "text": "Someone looking right at the camera",
         "aliases": [
-          "undressing"
+          "person staring",
+          "someone staring at me"
         ],
         "points": 30
       },
       {
-        "text": "Someone staring at me",
+        "text": "A friend pulling a face",
         "aliases": [
-          "watching me"
+          "photobomb",
+          "funny face"
         ],
         "points": 24
       },
@@ -523,16 +534,18 @@
         "points": 13
       },
       {
-        "text": "My underwear showing",
+        "text": "Your towel falling",
         "aliases": [
-          "visible underwear"
+          "a towel falls",
+          "dropped towel"
         ],
         "points": 9
       },
       {
-        "text": "An angry staff member",
+        "text": "Someone doing the exact same pose",
         "aliases": [
-          "staff glaring"
+          "matching pose",
+          "someone copying the pose"
         ],
         "points": 6
       }
@@ -614,9 +627,10 @@
         "points": 16
       },
       {
-        "text": "Appearance",
+        "text": "Who takes fewer breaks",
         "aliases": [
-          "who looks best"
+          "shorter rests",
+          "least rest"
         ],
         "points": 11
       },
@@ -628,9 +642,10 @@
         "points": 8
       },
       {
-        "text": "Calories burned",
+        "text": "Longest plank",
         "aliases": [
-          "calorie count"
+          "plank time",
+          "plank challenge"
         ],
         "points": 5
       }
@@ -999,9 +1014,10 @@
         "points": 25
       },
       {
-        "text": "Their usual spot",
+        "text": "Their spot by the mirror",
         "aliases": [
-          "place in class"
+          "usual spot",
+          "favorite spot"
         ],
         "points": 16
       },
@@ -1013,16 +1029,18 @@
         "points": 11
       },
       {
-        "text": "Their parking space",
+        "text": "The speaker playlist",
         "aliases": [
-          "parking spot"
+          "what music plays",
+          "control the playlist"
         ],
         "points": 8
       },
       {
-        "text": "Their trainer",
+        "text": "The fan pointed at their spot",
         "aliases": [
-          "personal trainer"
+          "their fan",
+          "control of the fan"
         ],
         "points": 5
       }
@@ -1237,9 +1255,10 @@
         "points": 32
       },
       {
-        "text": "A child",
+        "text": "A roommate walks into frame",
         "aliases": [
-          "kids"
+          "roommate in the background",
+          "someone walks in"
         ],
         "points": 24
       },
@@ -1251,16 +1270,18 @@
         "points": 18
       },
       {
-        "text": "A delivery person",
+        "text": "A delivery at the door",
         "aliases": [
+          "delivery person",
           "doorbell"
         ],
         "points": 12
       },
       {
-        "text": "Falling furniture",
+        "text": "The phone falls over",
         "aliases": [
-          "a chair collapsing"
+          "camera falls",
+          "tripod falls"
         ],
         "points": 8
       },
@@ -1400,23 +1421,26 @@
         "points": 16
       },
       {
-        "text": "A drink",
+        "text": "A smoothie",
         "aliases": [
-          "alcohol"
+          "protein shake",
+          "smoothie drink"
         ],
         "points": 11
       },
       {
-        "text": "New clothes",
+        "text": "A long shower",
         "aliases": [
-          "shopping"
+          "hot shower",
+          "take a shower"
         ],
         "points": 8
       },
       {
-        "text": "A day off",
+        "text": "Taking the next day off",
         "aliases": [
-          "skip tomorrow"
+          "rest day",
+          "take a day off"
         ],
         "points": 5
       }
@@ -1645,16 +1669,18 @@
         "points": 18
       },
       {
-        "text": "Playing with children",
+        "text": "Running to catch the bus",
         "aliases": [
-          "playing with kids"
+          "sprint for a bus",
+          "run for the bus"
         ],
         "points": 12
       },
       {
-        "text": "Cleaning",
+        "text": "Carrying laundry upstairs",
         "aliases": [
-          "housework"
+          "hauling laundry",
+          "laundry trip"
         ],
         "points": 8
       },
@@ -1670,12 +1696,13 @@
   {
     "id": "games-255",
     "category": "Sports & games",
-    "prompt": "Name something people take a photo of to prove they worked out.",
+    "prompt": "Name something people share to prove they worked out.",
     "answers": [
       {
-        "text": "Their sweaty face",
+        "text": "A screenshot of the workout app",
         "aliases": [
-          "sweaty selfie"
+          "fitness app screenshot",
+          "workout log"
         ],
         "points": 30
       },
@@ -1701,9 +1728,10 @@
         "points": 13
       },
       {
-        "text": "The gym",
+        "text": "A mirror selfie",
         "aliases": [
-          "gym sign"
+          "gym selfie",
+          "mirror pic"
         ],
         "points": 9
       },
@@ -2261,37 +2289,40 @@
     "prompt": "Name a reason people sign up for a race they have no hope of winning.",
     "answers": [
       {
+        "text": "Go with friends",
+        "aliases": [
+          "friends signed up"
+        ],
+        "points": 30
+      },
+      {
         "text": "Personal challenge",
         "aliases": [
           "prove I can finish"
         ],
-        "points": 30
+        "points": 24
       },
       {
         "text": "Charity",
         "aliases": [
           "good cause"
         ],
-        "points": 24
-      },
-      {
-        "text": "Go with friends",
-        "aliases": [
-          "friends signed up"
-        ],
         "points": 18
       },
       {
-        "text": "The medal",
+        "text": "The finishers’ shirt or medal",
         "aliases": [
-          "finisher medal"
+          "finishers medal",
+          "free shirt",
+          "the medal"
         ],
         "points": 13
       },
       {
-        "text": "Fitness goal",
+        "text": "They signed up on a dare",
         "aliases": [
-          "get in shape"
+          "a dare",
+          "someone dared them"
         ],
         "points": 9
       },
@@ -2324,9 +2355,10 @@
         "points": 23
       },
       {
-        "text": "Deodorant",
+        "text": "Hair tie",
         "aliases": [
-          "antiperspirant"
+          "a scrunchie",
+          "something to tie their hair"
         ],
         "points": 19
       },
@@ -2338,9 +2370,10 @@
         "points": 14
       },
       {
-        "text": "To charge their watch",
+        "text": "A lock for their locker",
         "aliases": [
-          "dead tracker"
+          "locker lock",
+          "padlock"
         ],
         "points": 10
       },
@@ -2553,12 +2586,12 @@
   {
     "id": "games-273",
     "category": "Sports & games",
-    "prompt": "Name something at a gym that people enjoy more than the workout.",
+    "prompt": "Name something at a rec center people like more than the workout.",
     "answers": [
       {
-        "text": "Sauna",
+        "text": "Seeing their friends",
         "aliases": [
-          "steam room"
+          "socializing"
         ],
         "points": 35
       },
@@ -2570,30 +2603,31 @@
         "points": 25
       },
       {
-        "text": "Cafe",
-        "aliases": [
-          "coffee bar"
-        ],
-        "points": 16
-      },
-      {
-        "text": "Massage chair",
-        "aliases": [
-          "massage"
-        ],
-        "points": 11
-      },
-      {
         "text": "Hot shower",
         "aliases": [
           "showers"
         ],
+        "points": 16
+      },
+      {
+        "text": "Cafe",
+        "aliases": [
+          "coffee bar"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Sauna",
+        "aliases": [
+          "steam room"
+        ],
         "points": 8
       },
       {
-        "text": "Seeing their friends",
+        "text": "Chilling in the lobby",
         "aliases": [
-          "socializing"
+          "hang out in the lobby",
+          "sitting in the lobby"
         ],
         "points": 5
       }
@@ -2864,16 +2898,18 @@
         "points": 24
       },
       {
-        "text": "When do we start",
+        "text": "How early do we have to leave",
         "aliases": [
-          "start time"
+          "what time",
+          "when do we start"
         ],
         "points": 18
       },
       {
-        "text": "Are there bathrooms",
+        "text": "Will my phone have service",
         "aliases": [
-          "toilets"
+          "cell service",
+          "no signal"
         ],
         "points": 13
       },
@@ -2885,9 +2921,10 @@
         "points": 9
       },
       {
-        "text": "Can I turn back",
+        "text": "Who’s driving",
         "aliases": [
-          "way to quit"
+          "who can drive",
+          "who has a ride"
         ],
         "points": 6
       }

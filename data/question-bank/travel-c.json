@@ -320,9 +320,9 @@
         "points": 18
       },
       {
-        "text": "Child running away",
+        "text": "The train between terminals is down",
         "aliases": [
-          "chasing a kid"
+          "broken airport shuttle"
         ],
         "points": 13
       },
@@ -362,9 +362,9 @@
         "points": 23
       },
       {
-        "text": "Order a drink",
+        "text": "Try all the free snacks",
         "aliases": [
-          "get champagne"
+          "order snacks"
         ],
         "points": 19
       },
@@ -502,9 +502,9 @@
         "points": 30
       },
       {
-        "text": "Period products",
+        "text": "A cheesy gift for your crush",
         "aliases": [
-          "tampons"
+          "romantic gift"
         ],
         "points": 24
       },
@@ -754,9 +754,9 @@
         "points": 23
       },
       {
-        "text": "Bottle of alcohol",
+        "text": "A game console",
         "aliases": [
-          "wine bottle"
+          "console"
         ],
         "points": 19
       },
@@ -957,9 +957,9 @@
         "points": 19
       },
       {
-        "text": "Partner's shoulder",
+        "text": "Travel buddy’s shoulder",
         "aliases": [
-          "someone's shoulder"
+          "friend’s shoulder"
         ],
         "points": 14
       },
@@ -1112,9 +1112,9 @@
         "points": 13
       },
       {
-        "text": "In-laws",
+        "text": "A teacher",
         "aliases": [
-          "partner's parents"
+          "professor"
         ],
         "points": 9
       },
@@ -1179,47 +1179,47 @@
   {
     "id": "travel-155",
     "category": "Travel & places",
-    "prompt": "Name something a frequent flyer loves to brag about.",
+    "prompt": "Name something that could make a long train ride more appealing than a short flight.",
     "answers": [
       {
-        "text": "Air miles",
+        "text": "The station is closer",
         "aliases": [
-          "reward points"
+          "no airport transfer"
         ],
         "points": 32
       },
       {
-        "text": "Elite status",
+        "text": "The fare is cheaper",
         "aliases": [
-          "loyalty status"
+          "cheaper ticket"
         ],
         "points": 24
       },
       {
-        "text": "Free upgrades",
+        "text": "No long security line",
         "aliases": [
-          "upgrades"
+          "skip airport security"
         ],
         "points": 17
       },
       {
-        "text": "Airport shortcuts",
+        "text": "You can bring more bags",
         "aliases": [
-          "knows every airport"
+          "more luggage"
         ],
         "points": 12
       },
       {
-        "text": "Countries visited",
+        "text": "More room to stretch",
         "aliases": [
-          "places they've been"
+          "extra legroom"
         ],
         "points": 9
       },
       {
-        "text": "Never checking a bag",
+        "text": "Better scenery",
         "aliases": [
-          "carry-on only"
+          "look out the window"
         ],
         "points": 6
       }
@@ -1315,9 +1315,9 @@
         "points": 9
       },
       {
-        "text": "Have a cigarette",
+        "text": "Refill their water bottle",
         "aliases": [
-          "smoke"
+          "fill a bottle"
         ],
         "points": 6
       }
@@ -1571,7 +1571,7 @@
   {
     "id": "travel-163",
     "category": "Travel & places",
-    "prompt": "Name something people do at an airport that they wouldn't do at their office.",
+    "prompt": "Name something people do at an airport that would look weird in a school hallway.",
     "answers": [
       {
         "text": "Sleep on the floor",
@@ -1581,30 +1581,30 @@
         "points": 32
       },
       {
-        "text": "Walk barefoot",
-        "aliases": [
-          "take their shoes off"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Drink at breakfast",
-        "aliases": [
-          "morning beer"
-        ],
-        "points": 17
-      },
-      {
         "text": "Wear pajamas",
         "aliases": [
           "pajamas in public"
         ],
-        "points": 12
+        "points": 24
+      },
+      {
+        "text": "Eat a full dinner at six in the morning",
+        "aliases": [
+          "dinner for breakfast"
+        ],
+        "points": 17
       },
       {
         "text": "Brush their teeth in public",
         "aliases": [
           "brush at a sink"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Use a suitcase as a chair",
+        "aliases": [
+          "sit on luggage"
         ],
         "points": 9
       },
@@ -1895,9 +1895,9 @@
         "points": 18
       },
       {
-        "text": "Work is paying",
+        "text": "I saved money on the ticket",
         "aliases": [
-          "expense account"
+          "cheap flight"
         ],
         "points": 13
       },
@@ -2336,9 +2336,9 @@
         "points": 23
       },
       {
-        "text": "Kindness to their child",
+        "text": "Helps them make a tight connection",
         "aliases": [
-          "helps with the baby"
+          "connection advice"
         ],
         "points": 19
       },
@@ -2644,9 +2644,9 @@
         "points": 11
       },
       {
-        "text": "Drink too much alcohol",
+        "text": "Skip breakfast to save time",
         "aliases": [
-          "get drunk"
+          "skip a meal"
         ],
         "points": 8
       },
@@ -2749,9 +2749,9 @@
         "points": 10
       },
       {
-        "text": "Flowers",
+        "text": "Their dog",
         "aliases": [
-          "bouquet"
+          "the dog"
         ],
         "points": 6
       }
@@ -2959,44 +2959,44 @@
     "prompt": "Name something people buy at duty-free even when they don't need it.",
     "answers": [
       {
-        "text": "Perfume",
-        "aliases": [
-          "cologne"
-        ],
-        "points": 32
-      },
-      {
-        "text": "Alcohol",
-        "aliases": [
-          "liquor"
-        ],
-        "points": 24
-      },
-      {
         "text": "Chocolate",
         "aliases": [
           "sweets"
         ],
-        "points": 17
+        "points": 32
+      },
+      {
+        "text": "Perfume",
+        "aliases": [
+          "cologne"
+        ],
+        "points": 24
       },
       {
         "text": "Makeup",
         "aliases": [
           "cosmetics"
         ],
-        "points": 12
+        "points": 17
       },
       {
-        "text": "Watch",
+        "text": "Local souvenirs",
         "aliases": [
-          "wristwatch"
+          "gifts"
         ],
-        "points": 9
+        "points": 12
       },
       {
         "text": "Sunglasses",
         "aliases": [
           "shades"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A bag of fancy cookies",
+        "aliases": [
+          "biscuits"
         ],
         "points": 6
       }
@@ -3048,10 +3048,9 @@
         "points": 8
       },
       {
-        "text": "An investment scheme",
+        "text": "Spoilers for a show",
         "aliases": [
-          "investment pitch",
-          "get rich scheme"
+          "spoilers"
         ],
         "points": 5
       }
@@ -3158,47 +3157,47 @@
   {
     "id": "travel-195",
     "category": "Travel & places",
-    "prompt": "Name something inside lost luggage that could ruin a wedding if it didn't arrive.",
+    "prompt": "Name something in lost luggage that could ruin a competition or performance if it never showed up.",
     "answers": [
       {
-        "text": "Wedding dress",
+        "text": "Uniform or costume",
         "aliases": [
-          "bridal gown"
+          "outfit"
         ],
         "points": 32
       },
       {
-        "text": "Wedding rings",
+        "text": "Instrument",
         "aliases": [
-          "rings"
+          "musical instrument"
         ],
         "points": 24
       },
       {
-        "text": "Suit",
+        "text": "Shoes",
         "aliases": [
-          "tuxedo"
+          "competition shoes"
         ],
         "points": 17
       },
       {
-        "text": "Dress shoes",
+        "text": "Equipment",
         "aliases": [
-          "formal shoes"
+          "sports gear"
         ],
         "points": 12
       },
       {
-        "text": "Makeup",
+        "text": "Makeup and hair supplies",
         "aliases": [
-          "cosmetics"
+          "stage makeup"
         ],
         "points": 9
       },
       {
-        "text": "Wedding gift",
+        "text": "Team credentials",
         "aliases": [
-          "present"
+          "event pass"
         ],
         "points": 6
       }
@@ -3210,44 +3209,44 @@
     "prompt": "Name someone you call first when stranded at an airport.",
     "answers": [
       {
-        "text": "Partner",
-        "aliases": [
-          "spouse"
-        ],
-        "points": 35
-      },
-      {
         "text": "Parent",
         "aliases": [
           "mom or dad"
         ],
-        "points": 25
+        "points": 35
       },
       {
         "text": "Airline",
         "aliases": [
           "customer service"
         ],
-        "points": 16
-      },
-      {
-        "text": "Boss",
-        "aliases": [
-          "manager"
-        ],
-        "points": 11
+        "points": 25
       },
       {
         "text": "Friend",
         "aliases": [
           "best friend"
         ],
-        "points": 8
+        "points": 16
+      },
+      {
+        "text": "The trip organizer",
+        "aliases": [
+          "group leader"
+        ],
+        "points": 11
       },
       {
         "text": "Hotel",
         "aliases": [
           "accommodation"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Whoever is supposed to pick you up",
+        "aliases": [
+          "my ride"
         ],
         "points": 5
       }
@@ -3256,47 +3255,47 @@
   {
     "id": "travel-197",
     "category": "Travel & places",
-    "prompt": "Name something people do when trying to look important at the airport.",
+    "prompt": "Name a small thing that makes a long bus ride way better.",
     "answers": [
       {
-        "text": "Make a loud business call",
+        "text": "A seat that reclines",
         "aliases": [
-          "talk business on the phone"
+          "reclining seat"
         ],
         "points": 30
       },
       {
-        "text": "Wear a suit",
+        "text": "A working outlet",
         "aliases": [
-          "dress formally"
+          "charging port"
         ],
         "points": 24
       },
       {
-        "text": "Flash a lounge card",
+        "text": "The bus isn’t packed",
         "aliases": [
-          "show elite status"
+          "empty seats"
         ],
         "points": 18
       },
       {
-        "text": "Demand special treatment",
+        "text": "A bathroom stop that isn’t rushed",
         "aliases": [
-          "boss staff around"
+          "long rest stop"
         ],
         "points": 13
       },
       {
-        "text": "Stride quickly",
+        "text": "Cold air conditioning",
         "aliases": [
-          "walk like they're late"
+          "working AC"
         ],
         "points": 9
       },
       {
-        "text": "Wear sunglasses indoors",
+        "text": "Room for your bag under the seat",
         "aliases": [
-          "keep their shades on"
+          "legroom for luggage"
         ],
         "points": 6
       }
@@ -3406,44 +3405,44 @@
     "prompt": "Name something people do the moment they connect to airplane Wi-Fi.",
     "answers": [
       {
-        "text": "Text family",
+        "text": "Text the group chat",
         "aliases": [
-          "message home"
+          "message friends"
         ],
         "points": 35
       },
       {
-        "text": "Post a selfie",
+        "text": "Text family",
         "aliases": [
-          "post on social media"
+          "message home"
         ],
         "points": 25
-      },
-      {
-        "text": "Check work messages",
-        "aliases": [
-          "email"
-        ],
-        "points": 16
       },
       {
         "text": "Watch videos",
         "aliases": [
           "stream"
         ],
-        "points": 11
+        "points": 16
       },
       {
-        "text": "Read the news",
+        "text": "Send a picture from the window",
         "aliases": [
-          "check headlines"
+          "post an airplane photo"
         ],
-        "points": 8
+        "points": 11
       },
       {
         "text": "Track the flight",
         "aliases": [
           "look at the flight map"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Check when their ride is coming",
+        "aliases": [
+          "message pickup"
         ],
         "points": 5
       }
@@ -3532,9 +3531,9 @@
         "points": 14
       },
       {
-        "text": "Free alcohol",
+        "text": "Power outlets at every seat",
         "aliases": [
-          "champagne"
+          "phone charging"
         ],
         "points": 10
       },
@@ -3553,9 +3552,9 @@
     "prompt": "Name something a passenger might try to hide from the flight attendants.",
     "answers": [
       {
-        "text": "Their own alcohol",
+        "text": "A whole meal hidden in their bag",
         "aliases": [
-          "outside liquor"
+          "outside food"
         ],
         "points": 32
       },
@@ -3790,9 +3789,9 @@
         "points": 9
       },
       {
-        "text": "Baggage allowance",
+        "text": "Whether everyone can pay up front",
         "aliases": [
-          "how many bags"
+          "paying for the booking"
         ],
         "points": 6
       }
@@ -4126,9 +4125,9 @@
         "points": 14
       },
       {
-        "text": "Didn't drink too much",
+        "text": "Didn’t get airsick",
         "aliases": [
-          "stayed sober"
+          "felt fine"
         ],
         "points": 10
       },
@@ -4259,9 +4258,9 @@
         "points": 24
       },
       {
-        "text": "Had a drink",
+        "text": "Stayed up packing",
         "aliases": [
-          "alcohol"
+          "packed all night"
         ],
         "points": 18
       },

@@ -5,37 +5,37 @@
     "prompt": "Name something that makes one person the hardest to share a vacation budget with.",
     "answers": [
       {
-        "text": "Always picks expensive places",
-        "aliases": [
-          "expensive taste"
-        ],
-        "points": 30
-      },
-      {
         "text": "Never pays their share",
         "aliases": [
           "does not pay"
         ],
+        "points": 30
+      },
+      {
+        "text": "Always picks expensive places",
+        "aliases": [
+          "expensive taste"
+        ],
         "points": 24
+      },
+      {
+        "text": "Keeps changing how to split it",
+        "aliases": [
+          "changes the split"
+        ],
+        "points": 18
       },
       {
         "text": "Counts every penny",
         "aliases": [
           "stingy"
         ],
-        "points": 18
-      },
-      {
-        "text": "Borrows money",
-        "aliases": [
-          "asks for loans"
-        ],
         "points": 13
       },
       {
-        "text": "Buys things for everyone without asking",
+        "text": "Only has cash when nobody has change",
         "aliases": [
-          "unwanted spending"
+          "no exact change"
         ],
         "points": 9
       },
@@ -180,16 +180,16 @@
         "points": 12
       },
       {
-        "text": "A formal dinner",
+        "text": "Standing in a huge line",
         "aliases": [
-          "fancy dinner"
+          "long wait"
         ],
         "points": 8
       },
       {
-        "text": "A group workout",
+        "text": "A forced group photo",
         "aliases": [
-          "exercise"
+          "mandatory pictures"
         ],
         "points": 6
       }
@@ -264,9 +264,9 @@
         "points": 23
       },
       {
-        "text": "Gets very drunk",
+        "text": "Blasts videos out loud",
         "aliases": [
-          "drunk"
+          "plays videos without headphones"
         ],
         "points": 19
       },
@@ -383,9 +383,9 @@
         "points": 8
       },
       {
-        "text": "Leaving a tiny tip",
+        "text": "Getting locked out in pajamas",
         "aliases": [
-          "poor tipping"
+          "pajamas in the hallway"
         ],
         "points": 6
       }
@@ -443,47 +443,47 @@
   {
     "id": "travel-050",
     "category": "Travel & places",
-    "prompt": "Name a reason someone books a hotel far above their usual budget.",
+    "prompt": "Name something that can kill the cheapest hotel option for a trip with friends.",
     "answers": [
       {
-        "text": "Honeymoon",
+        "text": "Minimum check-in age",
         "aliases": [
-          "wedding trip"
+          "too young to check in"
         ],
         "points": 28
       },
       {
-        "text": "Anniversary",
+        "text": "Extra fees at checkout",
         "aliases": [
-          "romantic occasion"
+          "hidden fees"
         ],
         "points": 23
       },
       {
-        "text": "Birthday",
+        "text": "Too far from the event",
         "aliases": [
-          "special birthday"
+          "bad location"
         ],
         "points": 19
       },
       {
-        "text": "Wanting to impress someone",
+        "text": "Not enough beds",
         "aliases": [
-          "show off"
+          "someone gets the floor"
         ],
         "points": 14
       },
       {
-        "text": "Once-in-a-lifetime trip",
+        "text": "Terrible recent reviews",
         "aliases": [
-          "dream vacation"
+          "bad ratings"
         ],
         "points": 10
       },
       {
-        "text": "A big discount",
+        "text": "A deposit bigger than the booking",
         "aliases": [
-          "special deal"
+          "huge deposit"
         ],
         "points": 6
       }
@@ -492,47 +492,47 @@
   {
     "id": "travel-051",
     "category": "Travel & places",
-    "prompt": "Name something people do in a hotel robe that makes them feel rich.",
+    "prompt": "Name something that makes a trip with friends feel like a sleepover.",
     "answers": [
       {
-        "text": "Eat breakfast",
+        "text": "Matching pajamas",
         "aliases": [
-          "breakfast in bed"
+          "pajama party"
         ],
         "points": 35
       },
       {
-        "text": "Order room service",
+        "text": "A late-night snack run",
         "aliases": [
-          "order food"
+          "get snacks"
         ],
         "points": 25
       },
       {
-        "text": "Pose for photos",
+        "text": "Everyone crammed onto one bed",
         "aliases": [
-          "take selfies"
+          "hang out on the bed"
         ],
         "points": 16
       },
       {
-        "text": "Drink champagne",
+        "text": "Someone playing music",
         "aliases": [
-          "drink wine"
+          "room playlist"
         ],
         "points": 11
       },
       {
-        "text": "Lounge on the balcony",
+        "text": "A card game that gets way too competitive",
         "aliases": [
-          "sit on balcony"
+          "competitive cards"
         ],
         "points": 8
       },
       {
-        "text": "Visit the spa",
+        "text": "Watching a movie together",
         "aliases": [
-          "spa treatment"
+          "movie night"
         ],
         "points": 5
       }
@@ -649,9 +649,10 @@
         "points": 28
       },
       {
-        "text": "Going back to work",
+        "text": "Class or a shift tomorrow",
         "aliases": [
-          "work tomorrow"
+          "back to school",
+          "going back to work"
         ],
         "points": 23
       },
@@ -839,9 +840,9 @@
     "prompt": "Name an excuse someone uses to avoid paying for the shared vacation groceries.",
     "answers": [
       {
-        "text": "Forgot their wallet",
+        "text": "My payment app isn’t working",
         "aliases": [
-          "no wallet"
+          "payment app is down"
         ],
         "points": 28
       },
@@ -867,9 +868,9 @@
         "points": 14
       },
       {
-        "text": "Their card does not work",
+        "text": "My paycheck hasn’t hit yet",
         "aliases": [
-          "card declined"
+          "waiting to get paid"
         ],
         "points": 10
       },
@@ -937,9 +938,9 @@
     "prompt": "Name something in a vacation rental that mysteriously takes three people to operate.",
     "answers": [
       {
-        "text": "Television",
+        "text": "Getting the TV to stream",
         "aliases": [
-          "tv remote"
+          "streaming on the TV"
         ],
         "points": 32
       },
@@ -958,16 +959,16 @@
         "points": 18
       },
       {
-        "text": "Coffee machine",
+        "text": "Door lock",
         "aliases": [
-          "coffee maker"
+          "keypad"
         ],
         "points": 12
       },
       {
-        "text": "Door lock",
+        "text": "Coffee machine",
         "aliases": [
-          "keypad"
+          "coffee maker"
         ],
         "points": 8
       },
@@ -1035,16 +1036,16 @@
     "prompt": "Name something people do when the hotel Wi-Fi is terrible.",
     "answers": [
       {
-        "text": "Complain to reception",
+        "text": "Use mobile data",
         "aliases": [
-          "call front desk"
+          "hotspot"
         ],
         "points": 28
       },
       {
-        "text": "Use mobile data",
+        "text": "Ask a friend for a hotspot",
         "aliases": [
-          "hotspot"
+          "tether"
         ],
         "points": 23
       },
@@ -1056,23 +1057,23 @@
         "points": 19
       },
       {
-        "text": "Restart their device",
-        "aliases": [
-          "reboot phone"
-        ],
-        "points": 14
-      },
-      {
         "text": "Go to a cafe",
         "aliases": [
           "find other wifi"
         ],
+        "points": 14
+      },
+      {
+        "text": "Complain to reception",
+        "aliases": [
+          "call front desk"
+        ],
         "points": 10
       },
       {
-        "text": "Give up and relax",
+        "text": "Watch something they downloaded",
         "aliases": [
-          "go offline"
+          "offline videos"
         ],
         "points": 6
       }
@@ -1439,16 +1440,16 @@
         "points": 28
       },
       {
-        "text": "The hotel",
+        "text": "Gas money",
         "aliases": [
-          "accommodation"
+          "fuel"
         ],
         "points": 23
       },
       {
-        "text": "An activity",
+        "text": "Tickets to the thing you came for",
         "aliases": [
-          "excursion"
+          "event tickets"
         ],
         "points": 19
       },
@@ -1460,16 +1461,16 @@
         "points": 14
       },
       {
-        "text": "The taxi",
+        "text": "The ride back",
         "aliases": [
-          "cab"
+          "rideshare"
         ],
         "points": 10
       },
       {
-        "text": "The tip",
+        "text": "Road snacks",
         "aliases": [
-          "gratuity"
+          "snack run"
         ],
         "points": 6
       }
@@ -1481,9 +1482,9 @@
     "prompt": "Name a vacation expense that feels especially annoying to pay.",
     "answers": [
       {
-        "text": "Resort fees",
+        "text": "Baggage fees",
         "aliases": [
-          "hotel fees"
+          "luggage fees"
         ],
         "points": 35
       },
@@ -1495,30 +1496,30 @@
         "points": 25
       },
       {
-        "text": "Bottled water",
+        "text": "Picking a seat",
         "aliases": [
-          "water"
+          "seat selection fee"
         ],
         "points": 16
       },
       {
-        "text": "Baggage fees",
+        "text": "Resort fees",
         "aliases": [
-          "luggage fees"
+          "hotel fees"
         ],
         "points": 11
       },
       {
-        "text": "Tourist tax",
+        "text": "Bottled water",
         "aliases": [
-          "city tax"
+          "water"
         ],
         "points": 8
       },
       {
-        "text": "Internet access",
+        "text": "A last-minute ride from the airport",
         "aliases": [
-          "wifi charge"
+          "airport rideshare"
         ],
         "points": 5
       }
@@ -1593,16 +1594,16 @@
         "points": 24
       },
       {
-        "text": "Watch television",
+        "text": "Put on another episode",
         "aliases": [
-          "watch a movie"
+          "watch a show"
         ],
         "points": 18
       },
       {
-        "text": "Order food",
+        "text": "Get late-night takeout",
         "aliases": [
-          "eat"
+          "order food"
         ],
         "points": 13
       },
@@ -1733,37 +1734,37 @@
         "points": 32
       },
       {
-        "text": "We should wait to book",
+        "text": "Check the student price",
         "aliases": [
-          "prices will drop"
+          "student discount"
         ],
         "points": 24
-      },
-      {
-        "text": "I have points",
-        "aliases": [
-          "rewards points"
-        ],
-        "points": 18
-      },
-      {
-        "text": "I know the manager",
-        "aliases": [
-          "knows someone"
-        ],
-        "points": 12
       },
       {
         "text": "There is a cheaper one",
         "aliases": [
           "better deal"
         ],
-        "points": 8
+        "points": 18
+      },
+      {
+        "text": "Go a day earlier and it’s half the price",
+        "aliases": [
+          "travel off-peak"
+        ],
+        "points": 12
       },
       {
         "text": "Split it with more people",
         "aliases": [
           "share the cost"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Check if entry is free after a certain time",
+        "aliases": [
+          "free admission"
         ],
         "points": 6
       }
@@ -1772,47 +1773,47 @@
   {
     "id": "travel-077",
     "category": "Travel & places",
-    "prompt": "Name something a couple adds to an ordinary hotel stay to make it feel like a honeymoon.",
+    "prompt": "Name a chaperone rule that gets a collective groan on a school trip.",
     "answers": [
       {
-        "text": "Champagne",
+        "text": "Stay with your assigned group",
         "aliases": [
-          "sparkling wine"
+          "no splitting up"
         ],
         "points": 30
       },
       {
-        "text": "Rose petals",
+        "text": "Back in your room by ten",
         "aliases": [
-          "flowers on the bed"
+          "curfew"
         ],
         "points": 24
       },
       {
-        "text": "Romantic music",
+        "text": "No phones during the tour",
         "aliases": [
-          "love songs"
+          "put your phone away"
         ],
         "points": 18
       },
       {
-        "text": "Breakfast in bed",
+        "text": "Sit in your assigned seat",
         "aliases": [
-          "room service breakfast"
+          "assigned seats"
         ],
         "points": 13
       },
       {
-        "text": "A couples massage",
+        "text": "Everyone has to be at breakfast early",
         "aliases": [
-          "massage"
+          "early wake-up"
         ],
         "points": 9
       },
       {
-        "text": "Chocolate",
+        "text": "Wear the matching trip shirt",
         "aliases": [
-          "chocolates"
+          "school trip shirt"
         ],
         "points": 6
       }
@@ -2097,9 +2098,9 @@
         "points": 11
       },
       {
-        "text": "Who gets the best tan",
+        "text": "Who found the best cheap meal",
         "aliases": [
-          "tanning"
+          "best budget food"
         ],
         "points": 8
       },
@@ -2153,9 +2154,9 @@
         "points": 8
       },
       {
-        "text": "Not photogenic enough",
+        "text": "Bad Wi-Fi reviews",
         "aliases": [
-          "ugly decor"
+          "bad internet"
         ],
         "points": 6
       }
@@ -2237,9 +2238,9 @@
         "points": 19
       },
       {
-        "text": "Using a credit card for everything",
+        "text": "Taking a bus instead of a rideshare",
         "aliases": [
-          "putting it on credit"
+          "switching to transit"
         ],
         "points": 14
       },
@@ -2433,9 +2434,9 @@
         "points": 19
       },
       {
-        "text": "Has a romantic guest",
+        "text": "Doesn’t want to share a bed",
         "aliases": [
-          "date"
+          "wants their own bed"
         ],
         "points": 14
       },
@@ -2538,9 +2539,9 @@
         "points": 12
       },
       {
-        "text": "Someone drinks too much",
+        "text": "Someone keeps ditching the group",
         "aliases": [
-          "drunken behavior"
+          "leaves everyone behind"
         ],
         "points": 8
       },
@@ -2559,9 +2560,10 @@
     "prompt": "Name something people brag about doing less of on vacation.",
     "answers": [
       {
-        "text": "Working",
+        "text": "Thinking about school or work",
         "aliases": [
-          "checking work"
+          "homework",
+          "work stress"
         ],
         "points": 30
       },
@@ -2685,9 +2687,9 @@
         "points": 11
       },
       {
-        "text": "Children will not stand still",
+        "text": "Someone keeps making faces",
         "aliases": [
-          "fidgeting kids"
+          "goofy face"
         ],
         "points": 8
       },
@@ -2943,9 +2945,9 @@
         "points": 8
       },
       {
-        "text": "Told their boss they were away",
+        "text": "Checked who could see the post",
         "aliases": [
-          "work excuse"
+          "close friends list"
         ],
         "points": 6
       }
@@ -3052,47 +3054,47 @@
   {
     "id": "travel-103",
     "category": "Travel & places",
-    "prompt": "Name something a person brings on a romantic getaway that makes it feel less romantic.",
+    "prompt": "Name something you double-check before taking an intercity bus to visit a friend.",
     "answers": [
       {
-        "text": "Work laptop",
+        "text": "Which station to get off at",
         "aliases": [
-          "laptop"
+          "correct stop"
         ],
         "points": 35
       },
       {
-        "text": "Their parents",
+        "text": "The ticket is on your phone",
         "aliases": [
-          "mom and dad"
+          "bus ticket"
         ],
         "points": 25
       },
       {
-        "text": "Their children",
+        "text": "How to reach your friend after arrival",
         "aliases": [
-          "kids"
+          "pickup plan"
         ],
         "points": 16
       },
       {
-        "text": "A gaming console",
+        "text": "How much battery is left",
         "aliases": [
-          "video games"
+          "phone charge"
         ],
         "points": 11
       },
       {
-        "text": "A detailed work schedule",
+        "text": "The departure time",
         "aliases": [
-          "meetings"
+          "bus schedule"
         ],
         "points": 8
       },
       {
-        "text": "Dirty laundry",
+        "text": "What the bag limit is",
         "aliases": [
-          "washing bag"
+          "luggage allowance"
         ],
         "points": 5
       }
@@ -3111,16 +3113,16 @@
         "points": 32
       },
       {
-        "text": "Working",
+        "text": "Catching up with the group chat",
         "aliases": [
-          "work email"
+          "checking messages"
         ],
         "points": 24
       },
       {
-        "text": "Calling home",
+        "text": "Checking directions",
         "aliases": [
-          "video calls"
+          "maps"
         ],
         "points": 18
       },
@@ -3132,16 +3134,16 @@
         "points": 12
       },
       {
-        "text": "Checking directions",
+        "text": "Streaming shows",
         "aliases": [
-          "maps"
+          "watching videos"
         ],
         "points": 8
       },
       {
-        "text": "Streaming shows",
+        "text": "Turning in an assignment",
         "aliases": [
-          "watching videos"
+          "submitting homework"
         ],
         "points": 6
       }
@@ -3300,37 +3302,37 @@
     "prompt": "Name something people bring on vacation to prove they will be productive.",
     "answers": [
       {
+        "text": "Study materials",
+        "aliases": [
+          "textbooks"
+        ],
+        "points": 32
+      },
+      {
         "text": "Work laptop",
         "aliases": [
           "computer"
         ],
-        "points": 32
+        "points": 24
       },
       {
         "text": "Running shoes",
         "aliases": [
           "trainers"
         ],
-        "points": 24
+        "points": 18
       },
       {
         "text": "A stack of books",
         "aliases": [
           "reading list"
         ],
-        "points": 18
-      },
-      {
-        "text": "A notebook",
-        "aliases": [
-          "journal"
-        ],
         "points": 12
       },
       {
-        "text": "Study materials",
+        "text": "A planner full of tasks",
         "aliases": [
-          "textbooks"
+          "to-do list"
         ],
         "points": 8
       },
@@ -3377,16 +3379,16 @@
         "points": 13
       },
       {
-        "text": "Limited time off",
+        "text": "Can’t get enough days off",
         "aliases": [
-          "short break"
+          "work schedule"
         ],
         "points": 9
       },
       {
-        "text": "Explore their own area",
+        "text": "Nobody has a ride out of town",
         "aliases": [
-          "local attractions"
+          "no transportation"
         ],
         "points": 6
       }
@@ -3493,7 +3495,7 @@
   {
     "id": "travel-112",
     "category": "Travel & places",
-    "prompt": "Name something a parent worries about while their grown child is on vacation.",
+    "prompt": "Name something a parent worries about when their kid goes away with friends for the first time.",
     "answers": [
       {
         "text": "Safety",
@@ -3503,37 +3505,37 @@
         "points": 32
       },
       {
-        "text": "Money",
+        "text": "Not answering the phone",
         "aliases": [
-          "running out of money"
+          "no contact"
         ],
         "points": 24
-      },
-      {
-        "text": "Bad company",
-        "aliases": [
-          "who they are with"
-        ],
-        "points": 18
       },
       {
         "text": "Getting lost",
         "aliases": [
           "lost"
         ],
+        "points": 18
+      },
+      {
+        "text": "Getting a safe ride home",
+        "aliases": [
+          "ride back"
+        ],
         "points": 12
       },
       {
-        "text": "Not answering the phone",
+        "text": "Money",
         "aliases": [
-          "no contact"
+          "running out of money"
         ],
         "points": 8
       },
       {
-        "text": "Missing the return trip",
+        "text": "Whether their phone has battery",
         "aliases": [
-          "not getting home"
+          "phone is dead"
         ],
         "points": 6
       }
@@ -3860,9 +3862,10 @@
         "points": 16
       },
       {
-        "text": "Work tomorrow",
+        "text": "School or a shift tomorrow",
         "aliases": [
-          "back to work"
+          "class tomorrow",
+          "work tomorrow"
         ],
         "points": 11
       },
@@ -3874,9 +3877,9 @@
         "points": 8
       },
       {
-        "text": "A hangover",
+        "text": "A long ride home still ahead",
         "aliases": [
-          "hungover"
+          "long trip home"
         ],
         "points": 5
       }
@@ -3993,9 +3996,9 @@
         "points": 28
       },
       {
-        "text": "Buy nice drinks",
+        "text": "Make a fancy drink from grocery-store stuff",
         "aliases": [
-          "champagne"
+          "homemade mocktails"
         ],
         "points": 23
       },
@@ -4007,9 +4010,9 @@
         "points": 19
       },
       {
-        "text": "Book one spa treatment",
+        "text": "Set out a picnic like it’s room service",
         "aliases": [
-          "massage"
+          "fancy picnic"
         ],
         "points": 14
       },
@@ -4098,9 +4101,9 @@
         "points": 24
       },
       {
-        "text": "People drink too much",
+        "text": "Nobody saved the tickets",
         "aliases": [
-          "drunk"
+          "forgot the passes"
         ],
         "points": 18
       },
@@ -4182,16 +4185,16 @@
     "prompt": "Name something that makes you think your vacation has officially started.",
     "answers": [
       {
-        "text": "Turning off work notifications",
+        "text": "Checking into the hotel",
         "aliases": [
-          "out of office"
+          "getting room key"
         ],
         "points": 28
       },
       {
-        "text": "Checking into the hotel",
+        "text": "Seeing a beautiful view",
         "aliases": [
-          "getting room key"
+          "scenery"
         ],
         "points": 23
       },
@@ -4203,23 +4206,23 @@
         "points": 19
       },
       {
-        "text": "Ordering a special drink",
+        "text": "Sleeping past the alarm",
         "aliases": [
-          "vacation drink"
+          "sleeping in"
         ],
         "points": 14
       },
       {
-        "text": "Seeing a beautiful view",
+        "text": "Muting school or work alerts",
         "aliases": [
-          "scenery"
+          "silence notifications"
         ],
         "points": 10
       },
       {
-        "text": "Sleeping past the alarm",
+        "text": "Putting on the trip playlist",
         "aliases": [
-          "sleeping in"
+          "play music"
         ],
         "points": 6
       }
@@ -4375,7 +4378,7 @@
   {
     "id": "travel-130",
     "category": "Travel & places",
-    "prompt": "Name something people miss about vacation on their first day back at work.",
+    "prompt": "Name something people miss about vacation on their first day back at school or work.",
     "answers": [
       {
         "text": "Sleeping in",
@@ -4392,30 +4395,30 @@
         "points": 23
       },
       {
+        "text": "Being with friends",
+        "aliases": [
+          "travel companions"
+        ],
+        "points": 19
+      },
+      {
         "text": "Good food",
         "aliases": [
           "holiday food"
         ],
-        "points": 19
+        "points": 14
+      },
+      {
+        "text": "Having no homework or shifts",
+        "aliases": [
+          "no obligations"
+        ],
+        "points": 10
       },
       {
         "text": "Warm weather",
         "aliases": [
           "sunshine"
-        ],
-        "points": 14
-      },
-      {
-        "text": "Being with friends",
-        "aliases": [
-          "travel companions"
-        ],
-        "points": 10
-      },
-      {
-        "text": "Ignoring email",
-        "aliases": [
-          "no work messages"
         ],
         "points": 6
       }
