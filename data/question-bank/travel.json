@@ -54,44 +54,45 @@
     "prompt": "Name something people suddenly remember to do five minutes before leaving for vacation.",
     "answers": [
       {
-        "text": "Take out the trash",
+        "text": "Grab their charger",
         "aliases": [
-          "empty the bins"
+          "phone charger"
         ],
         "points": 28
       },
       {
-        "text": "Water the plants",
+        "text": "Check they have their ID",
         "aliases": [
-          "water plants"
+          "passport",
+          "driver’s license"
         ],
         "points": 23
       },
       {
-        "text": "Turn off appliances",
+        "text": "Take out the trash",
         "aliases": [
-          "unplug appliances"
+          "empty the bins"
         ],
         "points": 19
-      },
-      {
-        "text": "Lock the windows",
-        "aliases": [
-          "check windows"
-        ],
-        "points": 14
       },
       {
         "text": "Feed the pet",
         "aliases": [
           "feed pets"
         ],
+        "points": 14
+      },
+      {
+        "text": "Lock the windows",
+        "aliases": [
+          "check windows"
+        ],
         "points": 10
       },
       {
-        "text": "Set the alarm",
+        "text": "Use the bathroom",
         "aliases": [
-          "house alarm"
+          "bathroom break"
         ],
         "points": 6
       }
@@ -110,16 +111,16 @@
         "points": 35
       },
       {
-        "text": "Your boss",
+        "text": "A constant complainer",
         "aliases": [
-          "boss"
+          "complainer"
         ],
         "points": 25
       },
       {
-        "text": "A constant complainer",
+        "text": "A friend who flakes",
         "aliases": [
-          "complainer"
+          "cancels last minute"
         ],
         "points": 16
       },
@@ -131,16 +132,16 @@
         "points": 11
       },
       {
-        "text": "Your parents",
+        "text": "Someone you barely know",
         "aliases": [
-          "mom and dad"
+          "stranger"
         ],
         "points": 8
       },
       {
-        "text": "Someone you barely know",
+        "text": "Someone who takes over",
         "aliases": [
-          "stranger"
+          "control freak"
         ],
         "points": 5
       }
@@ -250,9 +251,9 @@
     "prompt": "Name a reason someone claims they deserve the best bedroom in a vacation rental.",
     "answers": [
       {
-        "text": "They paid the most",
+        "text": "They got there first",
         "aliases": [
-          "paid more"
+          "first arrival"
         ],
         "points": 28
       },
@@ -264,30 +265,30 @@
         "points": 23
       },
       {
-        "text": "They are the oldest",
+        "text": "They paid the most",
         "aliases": [
-          "oldest"
+          "paid more"
         ],
         "points": 19
+      },
+      {
+        "text": "Called dibs in the group chat",
+        "aliases": [
+          "claimed it first"
+        ],
+        "points": 14
       },
       {
         "text": "They are a couple",
         "aliases": [
           "two people"
         ],
-        "points": 14
-      },
-      {
-        "text": "They got there first",
-        "aliases": [
-          "first arrival"
-        ],
         "points": 10
       },
       {
-        "text": "They have a bad back",
+        "text": "They’re a light sleeper",
         "aliases": [
-          "back pain"
+          "need quiet"
         ],
         "points": 6
       }
@@ -499,47 +500,47 @@
   {
     "id": "travel-011",
     "category": "Travel & places",
-    "prompt": "Name a reason someone orders room service instead of going out.",
+    "prompt": "Name one way friends can make an overnight trip cheaper.",
     "answers": [
       {
-        "text": "Too tired",
+        "text": "Split the room with friends",
         "aliases": [
-          "exhausted"
+          "share a room"
         ],
         "points": 35
       },
       {
-        "text": "Wants to stay in bed",
+        "text": "Use a student discount",
         "aliases": [
-          "lazy"
+          "student rate"
         ],
         "points": 25
       },
       {
-        "text": "Bad weather",
+        "text": "Stay with someone you know",
         "aliases": [
-          "raining"
+          "crash at a friend’s"
         ],
         "points": 16
       },
       {
-        "text": "Wants privacy",
+        "text": "Go on a weekday",
         "aliases": [
-          "romantic night"
+          "travel midweek"
         ],
         "points": 11
       },
       {
-        "text": "Does not want to get dressed",
+        "text": "Book farther from downtown",
         "aliases": [
-          "in pajamas"
+          "stay outside the city"
         ],
         "points": 8
       },
       {
-        "text": "Arrived very late",
+        "text": "Take the bus instead of flying",
         "aliases": [
-          "late arrival"
+          "go by bus"
         ],
         "points": 5
       }
@@ -635,9 +636,9 @@
         "points": 9
       },
       {
-        "text": "A personal butler",
+        "text": "Free late checkout",
         "aliases": [
-          "butler"
+          "sleep in longer"
         ],
         "points": 6
       }
@@ -747,44 +748,44 @@
     "prompt": "Name something people do to feel more at home in a hotel room.",
     "answers": [
       {
-        "text": "Uses their own pillow",
-        "aliases": [
-          "brings pillow"
-        ],
-        "points": 32
-      },
-      {
         "text": "Adjusts the temperature",
         "aliases": [
           "changes thermostat"
         ],
-        "points": 24
+        "points": 32
       },
       {
-        "text": "Unpacks their favorite blanket",
+        "text": "Uses their own pillow",
         "aliases": [
-          "own blanket"
+          "brings pillow"
         ],
-        "points": 18
+        "points": 24
       },
       {
         "text": "Puts on familiar music",
         "aliases": [
           "plays music"
         ],
+        "points": 18
+      },
+      {
+        "text": "Put on their comfort show",
+        "aliases": [
+          "watch a favorite show"
+        ],
         "points": 12
       },
       {
-        "text": "Moves the pillows",
+        "text": "Set up their stuff by the bed",
         "aliases": [
-          "rearranges pillows"
+          "unpack essentials"
         ],
         "points": 8
       },
       {
-        "text": "Uses their own scent",
+        "text": "Call someone from home",
         "aliases": [
-          "pillow spray"
+          "call family"
         ],
         "points": 6
       }
@@ -1314,9 +1315,9 @@
         "points": 11
       },
       {
-        "text": "Alcohol bottles",
+        "text": "A pile of food wrappers",
         "aliases": [
-          "booze"
+          "snack trash"
         ],
         "points": 8
       },
@@ -1440,30 +1441,30 @@
         "points": 28
       },
       {
-        "text": "Needs more towels",
-        "aliases": [
-          "extra towels"
-        ],
-        "points": 23
-      },
-      {
-        "text": "Wants directions",
-        "aliases": [
-          "directions"
-        ],
-        "points": 19
-      },
-      {
         "text": "Cannot connect to Wi-Fi",
         "aliases": [
           "internet problem"
         ],
-        "points": 14
+        "points": 23
+      },
+      {
+        "text": "Needs more towels",
+        "aliases": [
+          "extra towels"
+        ],
+        "points": 19
       },
       {
         "text": "Needs a late checkout",
         "aliases": [
           "extend checkout"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Asks where to get food nearby",
+        "aliases": [
+          "food recommendations"
         ],
         "points": 10
       },
@@ -1531,30 +1532,30 @@
     "prompt": "Name something you wish was included in every hotel stay.",
     "answers": [
       {
+        "text": "Late checkout",
+        "aliases": [
+          "extra hours"
+        ],
+        "points": 32
+      },
+      {
         "text": "Breakfast",
         "aliases": [
           "free breakfast"
         ],
-        "points": 32
+        "points": 24
       },
       {
         "text": "Parking",
         "aliases": [
           "free parking"
         ],
-        "points": 24
+        "points": 18
       },
       {
         "text": "Wi-Fi",
         "aliases": [
           "internet"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Late checkout",
-        "aliases": [
-          "extra hours"
         ],
         "points": 12
       },
@@ -1566,9 +1567,9 @@
         "points": 8
       },
       {
-        "text": "A massage",
+        "text": "A water refill station",
         "aliases": [
-          "spa treatment"
+          "refillable water"
         ],
         "points": 6
       }
@@ -1587,9 +1588,9 @@
         "points": 30
       },
       {
-        "text": "A camera",
+        "text": "A speaker for the room",
         "aliases": [
-          "camera equipment"
+          "portable speaker"
         ],
         "points": 24
       },
@@ -1902,9 +1903,9 @@
         "points": 11
       },
       {
-        "text": "Free drinks",
+        "text": "Access to a better pool",
         "aliases": [
-          "complimentary drinks"
+          "rooftop pool"
         ],
         "points": 8
       },

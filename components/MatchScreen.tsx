@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import { ArrowRight, Check, Clock3, LogOut, Radio, Sparkles, Trophy, Users, X } from "lucide-react";
 import type { ClientAction, PlayerView, RoomView, Session, Team } from "../lib/types.ts";
 import { PLAYER_AVATARS } from "../lib/constants.ts";
+import RoomLinkButton from "./RoomLinkButton";
 
 interface MatchScreenProps {
   room: RoomView;
@@ -105,7 +106,7 @@ export default function MatchScreen({ room, session, onAction, onLeave, busy, er
     <section className="match-screen" aria-label="Live game">
       <div className="match-topline">
         <span className="badge"><span className="live-dot" /> {room.phase === "generating" ? "Getting ready" : "Live showdown"}</span>
-        <span className="match-room-code">Room <strong>{room.code}</strong></span>
+        <RoomLinkButton code={room.code} className="button button-quiet match-room-code" showCode />
         <button className="button button-quiet" onClick={() => void onLeave()} disabled={busy}><LogOut size={16} /> Leave game</button>
       </div>
 

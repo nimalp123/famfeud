@@ -35,16 +35,19 @@
         "points": 11
       },
       {
-        "text": "Parking",
+        "text": "A ride to the game",
         "aliases": [
-          "parking pass"
+          "parking pass",
+          "pay for a ride",
+          "rideshare"
         ],
         "points": 8
       },
       {
-        "text": "Souvenirs",
+        "text": "A team hoodie",
         "aliases": [
-          "merchandise"
+          "team sweatshirt",
+          "team merch hoodie"
         ],
         "points": 5
       }
@@ -355,24 +358,25 @@
     "prompt": "Name something a fan hopes to get from meeting a famous athlete.",
     "answers": [
       {
-        "text": "Autograph",
-        "aliases": [
-          "signature"
-        ],
-        "points": 28
-      },
-      {
         "text": "Photo",
         "aliases": [
           "selfie",
           "picture"
         ],
+        "points": 28
+      },
+      {
+        "text": "Autograph",
+        "aliases": [
+          "signature"
+        ],
         "points": 23
       },
       {
-        "text": "Handshake",
+        "text": "A short video together",
         "aliases": [
-          "shake hands"
+          "a video",
+          "video shout-out"
         ],
         "points": 19
       },
@@ -384,16 +388,17 @@
         "points": 14
       },
       {
-        "text": "Free tickets",
+        "text": "Advice",
         "aliases": [
-          "tickets"
+          "training tips"
         ],
         "points": 10
       },
       {
-        "text": "Advice",
+        "text": "A follow on social media",
         "aliases": [
-          "training tips"
+          "follow back",
+          "social media follow"
         ],
         "points": 6
       }
@@ -567,9 +572,10 @@
         "points": 24
       },
       {
-        "text": "School pickup",
+        "text": "At the mall food court",
         "aliases": [
-          "their kid's school"
+          "food court",
+          "shopping mall"
         ],
         "points": 18
       },
@@ -581,9 +587,10 @@
         "points": 13
       },
       {
-        "text": "Your workplace",
+        "text": "The campus gym",
         "aliases": [
-          "your office"
+          "school gym",
+          "student gym"
         ],
         "points": 9
       },
@@ -616,31 +623,33 @@
         "points": 23
       },
       {
-        "text": "Play a charity game",
+        "text": "Host a podcast",
         "aliases": [
-          "exhibition game"
+          "talk on a podcast",
+          "start a podcast"
         ],
         "points": 19
       },
       {
-        "text": "Act",
+        "text": "Play a charity game",
         "aliases": [
-          "movies",
-          "acting"
+          "exhibition game"
         ],
         "points": 14
       },
       {
-        "text": "Reality TV",
+        "text": "Stream video games",
         "aliases": [
-          "reality show"
+          "gaming stream",
+          "play games on Twitch"
         ],
         "points": 10
       },
       {
-        "text": "Host a podcast",
+        "text": "Do a trick-shot challenge",
         "aliases": [
-          "podcast"
+          "trick shots",
+          "sports challenge"
         ],
         "points": 6
       }
@@ -913,9 +922,10 @@
         "points": 24
       },
       {
-        "text": "Kiss someone",
+        "text": "Record themselves on the screen",
         "aliases": [
-          "kiss"
+          "film the big screen",
+          "phone video"
         ],
         "points": 17
       },
@@ -934,9 +944,10 @@
         "points": 9
       },
       {
-        "text": "Show their jersey",
+        "text": "Mouth hi to someone at home",
         "aliases": [
-          "point at their shirt"
+          "say hi to mom",
+          "shout out someone"
         ],
         "points": 6
       }
@@ -1216,9 +1227,10 @@
         "points": 16
       },
       {
-        "text": "Find a friend",
+        "text": "Try to find your friends",
         "aliases": [
-          "meet someone"
+          "find a friend",
+          "look for friends"
         ],
         "points": 11
       },
@@ -1230,9 +1242,10 @@
         "points": 8
       },
       {
-        "text": "Make a phone call",
+        "text": "Get stuck filming a halftime clip",
         "aliases": [
-          "call someone"
+          "taking a video",
+          "record the halftime show"
         ],
         "points": 5
       }
@@ -1419,16 +1432,18 @@
         "points": 12
       },
       {
-        "text": "Clap",
+        "text": "Spam the group chat",
         "aliases": [
-          "applaud"
+          "message their friends",
+          "blow up the chat"
         ],
         "points": 9
       },
       {
-        "text": "Raise their drink",
+        "text": "Film the celebration",
         "aliases": [
-          "toast"
+          "record it",
+          "get it on video"
         ],
         "points": 6
       }
@@ -1545,23 +1560,25 @@
         "points": 30
       },
       {
-        "text": "Give it to a child",
+        "text": "Send a photo to the group chat",
         "aliases": [
-          "give it to a kid"
+          "take a pic",
+          "share a photo"
         ],
         "points": 24
       },
       {
-        "text": "Take a photo",
+        "text": "Give it to a child",
         "aliases": [
-          "selfie"
+          "give it to a kid"
         ],
         "points": 18
       },
       {
-        "text": "Put it away",
+        "text": "Check if the catch was on camera",
         "aliases": [
-          "keep it safe"
+          "look for the clip",
+          "look for the replay"
         ],
         "points": 13
       },
@@ -1573,9 +1590,10 @@
         "points": 9
       },
       {
-        "text": "Try to sell it",
+        "text": "Check who hit the ball",
         "aliases": [
-          "sell it"
+          "find out which player hit it",
+          "see who hit it"
         ],
         "points": 6
       }
@@ -1650,23 +1668,26 @@
         "points": 24
       },
       {
-        "text": "Complain",
+        "text": "Roast their team in the group chat",
         "aliases": [
-          "moan"
+          "complain in the chat",
+          "text about the loss"
         ],
         "points": 17
       },
       {
-        "text": "Change the channel",
+        "text": "Put on a different game",
         "aliases": [
-          "turn off the TV"
+          "change the channel",
+          "switch streams"
         ],
         "points": 12
       },
       {
-        "text": "Drink more",
+        "text": "Scroll their phone",
         "aliases": [
-          "get another drink"
+          "stop paying attention",
+          "look at their phone"
         ],
         "points": 9
       },
@@ -1829,47 +1850,53 @@
   {
     "id": "games-168",
     "category": "Sports & games",
-    "prompt": "Name something that could make a parent regret bringing a toddler to a game.",
+    "prompt": "Name something that could make you regret going to a game instead of watching with friends.",
     "answers": [
       {
-        "text": "Crying",
+        "text": "Everyone around you keeps standing up",
         "aliases": [
-          "tantrum"
+          "cannot see",
+          "blocked view"
         ],
         "points": 28
       },
       {
-        "text": "Constant bathroom trips",
+        "text": "The seats are way in the back",
         "aliases": [
-          "needs the toilet"
+          "nosebleed seats",
+          "too far away"
         ],
         "points": 23
       },
       {
-        "text": "Fear of the noise",
+        "text": "Food costs way more than expected",
         "aliases": [
-          "too loud"
+          "expensive snacks",
+          "high prices"
         ],
         "points": 19
       },
       {
-        "text": "Wants to go home",
+        "text": "Your ride wants to leave early",
         "aliases": [
-          "bored"
+          "driver wants to leave",
+          "friend wants to go"
         ],
         "points": 14
       },
       {
-        "text": "Dropped food",
+        "text": "The speakers are painfully loud",
         "aliases": [
-          "spilled snacks"
+          "too loud",
+          "sound system"
         ],
         "points": 10
       },
       {
-        "text": "Missed nap",
+        "text": "Your phone dies before you get a clip",
         "aliases": [
-          "overtired"
+          "dead phone",
+          "no battery"
         ],
         "points": 6
       }
@@ -2226,44 +2253,50 @@
     "prompt": "Name something a fan does to avoid hearing the score of a recorded game.",
     "answers": [
       {
-        "text": "Avoids the phone",
+        "text": "Mute the group chat",
         "aliases": [
-          "turns off phone"
+          "mute the chat",
+          "mute texts"
         ],
         "points": 34
       },
       {
-        "text": "Turns off the radio",
+        "text": "Stay off social media",
         "aliases": [
-          "no radio"
+          "avoid TikTok",
+          "avoid Instagram"
         ],
         "points": 25
       },
       {
-        "text": "Avoids live TV",
+        "text": "Turn off score alerts",
         "aliases": [
-          "stays off television"
+          "disable notifications",
+          "mute sports notifications"
         ],
         "points": 17
       },
       {
-        "text": "Warns friends",
+        "text": "Tell friends not to spoil it",
         "aliases": [
-          "asks people not to tell"
+          "warn friends",
+          "ask for no spoilers"
         ],
         "points": 11
       },
       {
-        "text": "Stays home",
+        "text": "Avoid the sports homepage",
         "aliases": [
-          "avoids people"
+          "don’t check scores",
+          "avoid sports news"
         ],
         "points": 8
       },
       {
-        "text": "Covers their ears",
+        "text": "Avoid the live broadcast",
         "aliases": [
-          "blocks their ears"
+          "stay away from the TV",
+          "don’t watch live"
         ],
         "points": 5
       }
@@ -2324,16 +2357,16 @@
     "prompt": "Name something that disappears fastest at a championship watch party.",
     "answers": [
       {
-        "text": "Wings",
+        "text": "Pizza",
         "aliases": [
-          "chicken wings"
+          "pizza slices"
         ],
         "points": 28
       },
       {
-        "text": "Pizza",
+        "text": "Wings",
         "aliases": [
-          "pizza slices"
+          "chicken wings"
         ],
         "points": 23
       },
@@ -2345,24 +2378,25 @@
         "points": 19
       },
       {
-        "text": "Beer",
-        "aliases": [
-          "alcohol"
-        ],
-        "points": 14
-      },
-      {
         "text": "Dip",
         "aliases": [
           "guacamole",
           "salsa"
         ],
+        "points": 14
+      },
+      {
+        "text": "Soda",
+        "aliases": [
+          "soft drinks",
+          "cans of pop"
+        ],
         "points": 10
       },
       {
-        "text": "Ice",
+        "text": "Cookies",
         "aliases": [
-          "ice cubes"
+          "dessert cookies"
         ],
         "points": 6
       }
@@ -2423,16 +2457,18 @@
     "prompt": "Name something that starts a fight over the TV on game day.",
     "answers": [
       {
-        "text": "Kids want cartoons",
+        "text": "Someone wants to use the console",
         "aliases": [
-          "children's shows"
+          "wants to game",
+          "play video games"
         ],
         "points": 35
       },
       {
-        "text": "Partner's favorite show",
+        "text": "Someone wants the TV for a show",
         "aliases": [
-          "another TV show"
+          "favorite show",
+          "put a show on"
         ],
         "points": 25
       },
@@ -2451,16 +2487,18 @@
         "points": 11
       },
       {
-        "text": "Changing channels during ads",
+        "text": "Someone casts a video over the game",
         "aliases": [
-          "channel surfing"
+          "accidentally casts",
+          "screen mirroring"
         ],
         "points": 8
       },
       {
-        "text": "Someone wants to play video games",
+        "text": "Who’s holding the remote",
         "aliases": [
-          "console game"
+          "remote control",
+          "lost remote"
         ],
         "points": 5
       }
@@ -2622,19 +2660,21 @@
   {
     "id": "games-184",
     "category": "Sports & games",
-    "prompt": "Name something a fan wears at home that they wouldn't wear to work.",
+    "prompt": "Name something a fan wears to watch a game at home that they wouldn’t wear to class.",
     "answers": [
       {
-        "text": "Pajamas",
+        "text": "Pajama pants",
         "aliases": [
-          "pyjamas"
+          "pajamas",
+          "PJ bottoms"
         ],
         "points": 32
       },
       {
-        "text": "Underwear",
+        "text": "Slippers",
         "aliases": [
-          "boxers"
+          "house shoes",
+          "bedroom slippers"
         ],
         "points": 24
       },
@@ -2646,23 +2686,25 @@
         "points": 17
       },
       {
-        "text": "Team jersey",
+        "text": "A team blanket",
         "aliases": [
-          "sports shirt"
+          "wrapped in a blanket",
+          "team throw"
         ],
         "points": 12
       },
       {
-        "text": "Giant foam hat",
+        "text": "A foam finger",
         "aliases": [
-          "silly hat"
+          "giant foam hand"
         ],
         "points": 9
       },
       {
-        "text": "Mascot costume",
+        "text": "Matching lucky socks",
         "aliases": [
-          "costume"
+          "team socks",
+          "lucky socks"
         ],
         "points": 6
       }
@@ -2721,47 +2763,53 @@
   {
     "id": "games-186",
     "category": "Sports & games",
-    "prompt": "What might you do if your boss supports your team's biggest rival?",
+    "prompt": "What might you do when a close friend supports your team’s biggest rival?",
     "answers": [
       {
-        "text": "Avoid sports talk",
+        "text": "Send a meme after the game",
         "aliases": [
-          "change the subject"
+          "send a meme",
+          "post a joke"
         ],
         "points": 34
       },
       {
-        "text": "Tease politely",
+        "text": "Talk a little trash in the group chat",
         "aliases": [
-          "friendly banter"
+          "trash talk",
+          "tease them"
         ],
         "points": 25
       },
       {
-        "text": "Hide team gear",
+        "text": "Wear your team’s jersey around them",
         "aliases": [
-          "don't wear the jersey"
+          "put on team merch",
+          "rep your team"
         ],
         "points": 17
       },
       {
-        "text": "Pretend to agree",
+        "text": "Avoid talking about sports",
         "aliases": [
-          "humor the boss"
+          "change the subject",
+          "skip sports talk"
         ],
         "points": 11
       },
       {
-        "text": "Brag after a win",
+        "text": "Challenge them to a friendly bet on snacks",
         "aliases": [
-          "gloat"
+          "bet on snacks",
+          "loser buys food"
         ],
         "points": 8
       },
       {
-        "text": "Get them a joke gift",
+        "text": "Invite them to watch the game together",
         "aliases": [
-          "rivalry gift"
+          "watch together",
+          "watch with them"
         ],
         "points": 5
       }
@@ -3323,14 +3371,15 @@
     "prompt": "Name something a devoted fan might name after their favorite player.",
     "answers": [
       {
-        "text": "Baby",
+        "text": "A fantasy team",
         "aliases": [
-          "child"
+          "fantasy roster",
+          "fantasy league team"
         ],
         "points": 28
       },
       {
-        "text": "Pet",
+        "text": "A pet",
         "aliases": [
           "dog",
           "cat"
@@ -3338,30 +3387,34 @@
         "points": 23
       },
       {
-        "text": "Fantasy team",
+        "text": "An online username",
         "aliases": [
-          "fantasy league team"
+          "gamertag",
+          "screen name"
         ],
         "points": 19
       },
       {
-        "text": "Car",
+        "text": "Their character in a game",
         "aliases": [
-          "their vehicle"
+          "in-game character",
+          "custom player"
         ],
         "points": 14
       },
       {
-        "text": "Boat",
+        "text": "A group chat",
         "aliases": [
-          "yacht"
+          "chat name",
+          "server name"
         ],
         "points": 10
       },
       {
-        "text": "Stuffed animal",
+        "text": "A stuffed animal",
         "aliases": [
-          "teddy bear"
+          "plushie",
+          "stuffed toy"
         ],
         "points": 6
       }
@@ -4161,9 +4214,9 @@
     "prompt": "Name something fans do when their biggest rival loses.",
     "answers": [
       {
-        "text": "Laugh",
+        "text": "Post a meme",
         "aliases": [
-          "laugh at them"
+          "share a joke online"
         ],
         "points": 35
       },
@@ -4175,9 +4228,10 @@
         "points": 25
       },
       {
-        "text": "Post a meme",
+        "text": "Laugh at the score",
         "aliases": [
-          "share a joke online"
+          "laugh",
+          "crack up"
         ],
         "points": 16
       },
@@ -4196,9 +4250,10 @@
         "points": 8
       },
       {
-        "text": "Raise a drink",
+        "text": "Screenshot the final score",
         "aliases": [
-          "toast"
+          "save the score",
+          "take a screenshot"
         ],
         "points": 5
       }

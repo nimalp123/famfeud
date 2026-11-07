@@ -45,21 +45,62 @@ export const api = {
 };
 
 const SESSION_KEY = "feud-night-session";
+const ROOM_SEAT_PREFIX = "feud-night-seat:";
 
-export function readSession(): Session | null {
+export function requestedRoom(search: string): string | null {
+  const code = new URLSearchParams(search).get("room")?.toUpperCase() ?? "";
+  return /^[A-Z0-9]{6}$/.test(code) ? code : null;
+}
+
+export function roomLink(code: string, gameOrigin: string, frameReferrer = ""): string {
+  const parentOrigin = frameReferrer.match(/^(https:\/\/(?:www\.)?nimalp123\.com)(?:\/|$)/)?.[1];
+  const url = gameOrigin === "https://feud-night-nimz.boundlessnova2.chatgpt.site" && parentOrigin
+    ? new URL("/feud", parentOrigin)
+    : new URL("/", gameOrigin);
+  url.searchParams.set("room", code);
+  return url.href;
+}
+
+function readStoredSession(storage: "localStorage" | "sessionStorage", key: string): Session | null {
   try {
-    const data = JSON.parse(sessionStorage.getItem(SESSION_KEY) || "null");
-    return data && /^[A-Z0-9]{6}$/.test(data.code) && typeof data.playerId === "string" && typeof data.token === "string" ? data : null;
+    const data = JSON.parse(window[storage].getItem(key) ?? "null");
+    return data && typeof data.code === "string" && /^[A-Z0-9]{6}$/.test(data.code)
+      && typeof data.playerId === "string" && typeof data.token === "string"
+      && /^[A-Za-z0-9_-]{43}$/.test(data.token) ? data : null;
   } catch {
     return null;
   }
 }
 
-export function saveSession(session: Session | null) {
+export function readSession(code?: string | null): Session | null {
+  const active = readStoredSession("sessionStorage", SESSION_KEY);
+  if (!code || active?.code === code) return active;
+  const saved = readStoredSession("localStorage", ROOM_SEAT_PREFIX + code);
+  return saved?.code === code ? saved : null;
+}
+
+function writeSession(storage: "localStorage" | "sessionStorage", key: string, session: Session) {
   try {
-    if (session) sessionStorage.setItem(SESSION_KEY, JSON.stringify(session));
-    else sessionStorage.removeItem(SESSION_KEY);
+    window[storage].setItem(key, JSON.stringify(session));
   } catch {
     // The current tab can still play if browser storage is unavailable.
+  }
+}
+
+export function saveSession(session: Session) {
+  writeSession("sessionStorage", SESSION_KEY, session);
+  writeSession("localStorage", ROOM_SEAT_PREFIX + session.code, session);
+}
+
+export function clearSession(session: Session, forgetSeat = true) {
+  // Another tab may already have replaced an expired credential with a new seat.
+  const entries = [["sessionStorage", SESSION_KEY], ["localStorage", ROOM_SEAT_PREFIX + session.code]] as const;
+  for (const [storage, key] of forgetSeat ? entries : entries.slice(0, 1)) {
+    try {
+      const stored = readStoredSession(storage, key);
+      if (stored?.code === session.code && stored.token === session.token) window[storage].removeItem(key);
+    } catch {
+      // The tab can still leave when browser storage is unavailable.
+    }
   }
 }

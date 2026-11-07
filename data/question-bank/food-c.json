@@ -464,15 +464,17 @@
         "points": 17
       },
       {
-        "text": "Chinese leftovers",
+        "text": "A rice bowl",
         "aliases": [
-          "leftover chinese food"
+          "leftover rice bowl"
         ],
         "points": 11
       },
       {
-        "text": "Sausages",
-        "aliases": [],
+        "text": "A burrito",
+        "aliases": [
+          "cold burrito"
+        ],
         "points": 8
       },
       {
@@ -493,17 +495,17 @@
         "points": 32
       },
       {
-        "text": "Watch the clock",
-        "aliases": [
-          "check the time"
-        ],
-        "points": 24
-      },
-      {
         "text": "Complain",
         "aliases": [
           "moan",
           "complain about it"
+        ],
+        "points": 24
+      },
+      {
+        "text": "Track the delivery",
+        "aliases": [
+          "watch the delivery map"
         ],
         "points": 18
       },
@@ -522,9 +524,9 @@
         "points": 8
       },
       {
-        "text": "Chew gum",
+        "text": "Watch the clock",
         "aliases": [
-          "gum"
+          "check the time"
         ],
         "points": 6
       }
@@ -941,35 +943,31 @@
         "points": 25
       },
       {
-        "text": "A date",
+        "text": "A friend's parent",
         "aliases": [
-          "date"
+          "friend's mom or dad"
         ],
         "points": 17
+      },
+      {
+        "text": "Their crush",
+        "aliases": [
+          "someone they like"
+        ],
+        "points": 11
+      },
+      {
+        "text": "Their older sibling",
+        "aliases": [
+          "older brother or sister"
+        ],
+        "points": 8
       },
       {
         "text": "Your boss",
         "aliases": [
           "boss",
           "manager"
-        ],
-        "points": 11
-      },
-      {
-        "text": "A child",
-        "aliases": [
-          "kid",
-          "child"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Your partner",
-        "aliases": [
-          "partner",
-          "spouse",
-          "wife",
-          "husband"
         ],
         "points": 5
       }
@@ -1129,10 +1127,9 @@
         "points": 28
       },
       {
-        "text": "Saw a picture",
+        "text": "Saw it in a video",
         "aliases": [
-          "picture",
-          "photo"
+          "food clip"
         ],
         "points": 24
       },
@@ -1152,17 +1149,17 @@
         "points": 14
       },
       {
-        "text": "Watched a movie",
+        "text": "Walked past a shop",
         "aliases": [
-          "movie",
-          "tv"
+          "saw it in shop"
         ],
         "points": 9
       },
       {
-        "text": "Walked past a shop",
+        "text": "Watched a movie",
         "aliases": [
-          "saw it in shop"
+          "movie",
+          "tv"
         ],
         "points": 6
       }
@@ -1442,18 +1439,15 @@
     "prompt": "Name a snack that leaves evidence all over your clothes.",
     "answers": [
       {
-        "text": "Chips",
+        "text": "Spicy chips",
         "aliases": [
-          "potato chips",
-          "crisps"
+          "hot chip dust"
         ],
         "points": 32
       },
       {
-        "text": "Popcorn",
-        "aliases": [
-          "popped corn"
-        ],
+        "text": "Powdered donuts",
+        "aliases": [],
         "points": 24
       },
       {
@@ -1464,8 +1458,10 @@
         "points": 18
       },
       {
-        "text": "Powdered donuts",
-        "aliases": [],
+        "text": "Popcorn",
+        "aliases": [
+          "popped corn"
+        ],
         "points": 12
       },
       {
@@ -1688,34 +1684,34 @@
         "points": 32
       },
       {
-        "text": "Nuts",
+        "text": "Trail mix",
         "aliases": [
-          "mixed nuts"
+          "snack mix"
         ],
         "points": 24
       },
       {
-        "text": "Crackers",
-        "aliases": [],
+        "text": "Fruit snacks",
+        "aliases": [
+          "fruit gummies"
+        ],
         "points": 18
       },
       {
-        "text": "Chocolate",
-        "aliases": [
-          "chocolate bar"
-        ],
-        "points": 12
-      },
-      {
-        "text": "Fruit",
+        "text": "Crackers",
         "aliases": [],
-        "points": 8
+        "points": 12
       },
       {
         "text": "Jerky",
         "aliases": [
           "beef jerky"
         ],
+        "points": 8
+      },
+      {
+        "text": "Fruit",
+        "aliases": [],
         "points": 6
       }
     ]
@@ -1726,41 +1722,40 @@
     "prompt": "Name a reason someone might photograph an empty food package.",
     "answers": [
       {
-        "text": "Complain to the company",
-        "aliases": [
-          "complain",
-          "send a complaint"
-        ],
-        "points": 30
-      },
-      {
         "text": "Remember the brand",
         "aliases": [
           "remember it",
           "buy it again"
         ],
+        "points": 30
+      },
+      {
+        "text": "Send a recommendation to a friend",
+        "aliases": [
+          "show a friend the snack"
+        ],
         "points": 25
       },
       {
-        "text": "Count calories",
+        "text": "Complain to the company",
         "aliases": [
-          "track calories"
+          "complain",
+          "send a complaint"
         ],
         "points": 18
+      },
+      {
+        "text": "Check an ingredient",
+        "aliases": [
+          "look at the ingredient list"
+        ],
+        "points": 13
       },
       {
         "text": "Prove someone ate it",
         "aliases": [
           "evidence",
           "catch a thief"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Read tiny print",
-        "aliases": [
-          "zoom in",
-          "read ingredients"
         ],
         "points": 9
       },
@@ -1776,7 +1771,7 @@
   {
     "id": "food-168",
     "category": "Food & drink",
-    "prompt": "Name something a person does with popcorn that annoys their movie date.",
+    "prompt": "Name something a person does with popcorn that annoys their friends during a movie.",
     "answers": [
       {
         "text": "Eats it all",
@@ -1787,37 +1782,37 @@
         "points": 35
       },
       {
+        "text": "Rummages noisily",
+        "aliases": [
+          "rustles bucket"
+        ],
+        "points": 25
+      },
+      {
         "text": "Chews loudly",
         "aliases": [
           "loud chewing"
         ],
-        "points": 25
+        "points": 16
       },
       {
         "text": "Throws pieces",
         "aliases": [
           "throws popcorn"
         ],
-        "points": 16
-      },
-      {
-        "text": "Rummages noisily",
-        "aliases": [
-          "rustles bucket"
-        ],
         "points": 11
-      },
-      {
-        "text": "Licks their fingers",
-        "aliases": [
-          "finger licking"
-        ],
-        "points": 8
       },
       {
         "text": "Spills it in their lap",
         "aliases": [
           "spills popcorn"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Licks their fingers",
+        "aliases": [
+          "finger licking"
         ],
         "points": 5
       }
@@ -1918,7 +1913,7 @@
   {
     "id": "food-171",
     "category": "Food & drink",
-    "prompt": "Name a childhood food habit someone might still have as an adult.",
+    "prompt": "Name a childhood food habit someone might never grow out of.",
     "answers": [
       {
         "text": "Cut off crusts",
@@ -1945,16 +1940,16 @@
         "points": 18
       },
       {
-        "text": "Put ketchup on everything",
+        "text": "Eat cereal from the box",
         "aliases": [
-          "ketchup"
+          "dry cereal"
         ],
         "points": 12
       },
       {
-        "text": "Eat cereal from the box",
+        "text": "Put ketchup on everything",
         "aliases": [
-          "dry cereal"
+          "ketchup"
         ],
         "points": 8
       },
@@ -2148,31 +2143,30 @@
         "points": 32
       },
       {
-        "text": "Exercising",
-        "aliases": [
-          "exercise",
-          "workout"
-        ],
-        "points": 24
-      },
-      {
         "text": "Skipping breakfast",
         "aliases": [
           "no breakfast"
         ],
-        "points": 18
+        "points": 24
       },
       {
-        "text": "Eating only salad",
+        "text": "Practice wore them out",
         "aliases": [
-          "salad"
+          "worked up an appetite exercising"
         ],
-        "points": 12
+        "points": 18
       },
       {
         "text": "Boredom",
         "aliases": [
           "bored"
+        ],
+        "points": 12
+      },
+      {
+        "text": "Eating only salad",
+        "aliases": [
+          "salad"
         ],
         "points": 8
       },
@@ -2474,36 +2468,36 @@
     "prompt": "Name a reason someone eats the same lunch every day.",
     "answers": [
       {
+        "text": "Cheap",
+        "aliases": [
+          "saves money"
+        ],
+        "points": 35
+      },
+      {
         "text": "Easy",
         "aliases": [
           "convenient"
         ],
-        "points": 35
+        "points": 23
       },
       {
         "text": "Loves it",
         "aliases": [
           "favorite food"
         ],
-        "points": 23
+        "points": 16
       },
       {
-        "text": "Cheap",
+        "text": "It's the only good cafeteria option",
         "aliases": [
-          "saves money"
+          "limited lunch choices"
         ],
-        "points": 16
+        "points": 12
       },
       {
         "text": "Habit",
         "aliases": [],
-        "points": 12
-      },
-      {
-        "text": "Limited choices",
-        "aliases": [
-          "no options"
-        ],
         "points": 8
       },
       {
@@ -2719,20 +2713,22 @@
         "points": 16
       },
       {
-        "text": "Rice pudding",
+        "text": "Homemade dumplings",
         "aliases": [
-          "creamed rice"
+          "dumplings from home"
         ],
         "points": 12
       },
       {
-        "text": "Roast dinner",
+        "text": "Homemade bread",
         "aliases": [],
         "points": 8
       },
       {
-        "text": "Homemade bread",
-        "aliases": [],
+        "text": "Pancakes",
+        "aliases": [
+          "pancakes they grew up with"
+        ],
         "points": 6
       }
     ]
@@ -3266,25 +3262,23 @@
         "points": 34
       },
       {
-        "text": "Cookies",
-        "aliases": [
-          "biscuits",
-          "cookie"
-        ],
-        "points": 25
-      },
-      {
         "text": "Juice box",
         "aliases": [
           "juice carton"
         ],
+        "points": 25
+      },
+      {
+        "text": "A packaged cracker lunch kit",
+        "aliases": [
+          "crackers and cheese lunch kit"
+        ],
         "points": 17
       },
       {
-        "text": "Chips",
+        "text": "Animal crackers",
         "aliases": [
-          "potato chips",
-          "crisps"
+          "animal cookies"
         ],
         "points": 11
       },
@@ -3296,8 +3290,10 @@
         "points": 8
       },
       {
-        "text": "Crackers",
-        "aliases": [],
+        "text": "String cheese",
+        "aliases": [
+          "cheese stick"
+        ],
         "points": 5
       }
     ]
@@ -3397,9 +3393,9 @@
     "prompt": "Name a reason someone eats in their car while it is parked.",
     "answers": [
       {
-        "text": "No time",
+        "text": "They're on a break between shifts",
         "aliases": [
-          "in a hurry"
+          "work break"
         ],
         "points": 35
       },
@@ -3412,24 +3408,24 @@
         "points": 23
       },
       {
-        "text": "Avoiding a mess at home",
+        "text": "Nowhere else to sit",
         "aliases": [],
         "points": 16
+      },
+      {
+        "text": "Waiting for someone",
+        "aliases": [],
+        "points": 12
       },
       {
         "text": "Hiding the purchase",
         "aliases": [
           "hiding food"
         ],
-        "points": 12
-      },
-      {
-        "text": "Nowhere else to sit",
-        "aliases": [],
         "points": 8
       },
       {
-        "text": "Waiting for someone",
+        "text": "Avoiding a mess at home",
         "aliases": [],
         "points": 6
       }
@@ -3554,17 +3550,17 @@
         "points": 18
       },
       {
-        "text": "Spilled drink",
+        "text": "A phone still playing a video",
         "aliases": [
-          "drink",
-          "spilled soda"
+          "phone left on"
         ],
         "points": 12
       },
       {
-        "text": "Remote control",
+        "text": "Spilled drink",
         "aliases": [
-          "remote"
+          "drink",
+          "spilled soda"
         ],
         "points": 8
       },
@@ -3774,9 +3770,10 @@
     "prompt": "Name a food that makes people say they need a bigger napkin.",
     "answers": [
       {
-        "text": "Chocolate",
+        "text": "Barbecue wings",
         "aliases": [
-          "chocolate bar"
+          "bbq wings",
+          "wings"
         ],
         "points": 32
       },
@@ -3788,30 +3785,31 @@
         "points": 24
       },
       {
-        "text": "Barbecue wings",
+        "text": "Loaded fries",
         "aliases": [
-          "bbq wings",
-          "wings"
+          "fries with toppings"
         ],
         "points": 18
+      },
+      {
+        "text": "An overstuffed taco",
+        "aliases": [
+          "messy taco"
+        ],
+        "points": 12
       },
       {
         "text": "Jam donut",
         "aliases": [
           "jelly donut"
         ],
-        "points": 12
-      },
-      {
-        "text": "Powdered pastry",
-        "aliases": [
-          "powdered donut"
-        ],
         "points": 8
       },
       {
-        "text": "Melted cheese",
-        "aliases": [],
+        "text": "Chocolate",
+        "aliases": [
+          "chocolate bar"
+        ],
         "points": 6
       }
     ]
@@ -3922,36 +3920,40 @@
     "prompt": "Name a food people eat when they are too tired to decide on dinner.",
     "answers": [
       {
-        "text": "Cereal",
-        "aliases": [],
-        "points": 28
-      },
-      {
-        "text": "Toast",
-        "aliases": [],
-        "points": 24
-      },
-      {
         "text": "Instant noodles",
         "aliases": [
           "ramen",
           "instant ramen"
         ],
-        "points": 19
-      },
-      {
-        "text": "Sandwich",
-        "aliases": [],
-        "points": 14
+        "points": 28
       },
       {
         "text": "Leftovers",
         "aliases": [],
+        "points": 24
+      },
+      {
+        "text": "Cereal",
+        "aliases": [],
+        "points": 19
+      },
+      {
+        "text": "Frozen pizza",
+        "aliases": [
+          "freezer pizza"
+        ],
+        "points": 14
+      },
+      {
+        "text": "Toast",
+        "aliases": [],
         "points": 9
       },
       {
-        "text": "Eggs",
-        "aliases": [],
+        "text": "A microwave burrito",
+        "aliases": [
+          "frozen burrito"
+        ],
         "points": 6
       }
     ]
@@ -4046,23 +4048,23 @@
     "prompt": "Name something people notice after finishing an entire bag of snacks.",
     "answers": [
       {
-        "text": "How empty it is",
+        "text": "How fast they finished it",
         "aliases": [
-          "empty bag"
+          "how quickly they ate it"
         ],
         "points": 30
-      },
-      {
-        "text": "Calories on the label",
-        "aliases": [
-          "calorie count"
-        ],
-        "points": 25
       },
       {
         "text": "Their thirst",
         "aliases": [
           "thirsty"
+        ],
+        "points": 25
+      },
+      {
+        "text": "Greasy fingers",
+        "aliases": [
+          "oily hands"
         ],
         "points": 18
       },
@@ -4074,16 +4076,16 @@
         "points": 13
       },
       {
-        "text": "Greasy fingers",
+        "text": "Someone wanted some",
         "aliases": [
-          "oily hands"
+          "forgot to share"
         ],
         "points": 9
       },
       {
-        "text": "Someone wanted some",
+        "text": "Seasoning at the bottom",
         "aliases": [
-          "forgot to share"
+          "leftover seasoning"
         ],
         "points": 5
       }

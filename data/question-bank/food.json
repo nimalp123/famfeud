@@ -54,23 +54,23 @@
     "prompt": "Name something that makes you change your order after you've already decided.",
     "answers": [
       {
-        "text": "Someone else's food arrives",
-        "aliases": [
-          "see another dish"
-        ],
-        "points": 32
-      },
-      {
         "text": "See the price",
         "aliases": [
           "too expensive"
         ],
+        "points": 32
+      },
+      {
+        "text": "Someone else's food arrives",
+        "aliases": [
+          "see another dish"
+        ],
         "points": 25
       },
       {
-        "text": "Server recommends something",
+        "text": "See a better option in a menu photo",
         "aliases": [
-          "waiter suggestion"
+          "picture on the menu"
         ],
         "points": 18
       },
@@ -250,44 +250,44 @@
     "prompt": "Name something people lie about to get a better restaurant table.",
     "answers": [
       {
-        "text": "It's their anniversary",
+        "text": "They have a reservation",
         "aliases": [
-          "special occasion"
+          "we already booked"
         ],
         "points": 34
       },
       {
-        "text": "They have a reservation",
+        "text": "They're meeting friends already inside",
         "aliases": [
-          "booking"
+          "our friends have a table"
         ],
         "points": 24
       },
       {
-        "text": "They know the owner",
+        "text": "They never got the waitlist text",
         "aliases": [
-          "friends with owner"
+          "missed the text"
         ],
         "points": 17
-      },
-      {
-        "text": "Someone important is coming",
-        "aliases": [
-          "VIP guest"
-        ],
-        "points": 11
       },
       {
         "text": "They've been waiting longer",
         "aliases": [
           "wait time"
         ],
-        "points": 8
+        "points": 11
       },
       {
         "text": "It's their birthday",
         "aliases": [
           "birthday celebration"
+        ],
+        "points": 8
+      },
+      {
+        "text": "They know the owner",
+        "aliases": [
+          "friends with owner"
         ],
         "points": 6
       }
@@ -426,16 +426,16 @@
         "points": 11
       },
       {
-        "text": "Wine list",
+        "text": "The menu doesn't show prices",
         "aliases": [
-          "expensive wine"
+          "no prices listed"
         ],
         "points": 8
       },
       {
-        "text": "Live piano",
+        "text": "Live music",
         "aliases": [
-          "pianist"
+          "a musician playing"
         ],
         "points": 5
       }
@@ -738,7 +738,7 @@
   {
     "id": "food-016",
     "category": "Food & drink",
-    "prompt": "Name something a child might do to embarrass you in a restaurant.",
+    "prompt": "Name something a younger sibling might do to embarrass you in a restaurant.",
     "answers": [
       {
         "text": "Scream",
@@ -748,23 +748,23 @@
         "points": 34
       },
       {
-        "text": "Throw food",
+        "text": "Spill a drink",
         "aliases": [
-          "food fight"
+          "knock over glass"
         ],
         "points": 24
+      },
+      {
+        "text": "Comment on a stranger",
+        "aliases": [
+          "point at someone"
+        ],
+        "points": 17
       },
       {
         "text": "Run around",
         "aliases": [
           "leave the table"
-        ],
-        "points": 17
-      },
-      {
-        "text": "Spill a drink",
-        "aliases": [
-          "knock over glass"
         ],
         "points": 11
       },
@@ -776,9 +776,9 @@
         "points": 8
       },
       {
-        "text": "Comment on a stranger",
+        "text": "Throw food",
         "aliases": [
-          "point at someone"
+          "food fight"
         ],
         "points": 6
       }
@@ -1042,9 +1042,9 @@
         "points": 32
       },
       {
-        "text": "Cocktail",
+        "text": "Extra side",
         "aliases": [
-          "mixed drink"
+          "side dish"
         ],
         "points": 25
       },
@@ -1056,23 +1056,23 @@
         "points": 18
       },
       {
-        "text": "Coffee",
+        "text": "A fancy iced drink",
         "aliases": [
-          "after dinner coffee"
+          "a colorful drink"
         ],
         "points": 12
-      },
-      {
-        "text": "Extra side",
-        "aliases": [
-          "side dish"
-        ],
-        "points": 8
       },
       {
         "text": "Same main dish",
         "aliases": [
           "same entree"
+        ],
+        "points": 8
+      },
+      {
+        "text": "Coffee",
+        "aliases": [
+          "after dinner coffee"
         ],
         "points": 5
       }
@@ -1182,16 +1182,16 @@
     "prompt": "Name a reason someone eats before going to an expensive dinner.",
     "answers": [
       {
-        "text": "Expects tiny portions",
+        "text": "Wants to spend less",
         "aliases": [
-          "small servings"
+          "save money"
         ],
         "points": 31
       },
       {
-        "text": "Wants to spend less",
+        "text": "Expects tiny portions",
         "aliases": [
-          "save money"
+          "small servings"
         ],
         "points": 25
       },
@@ -1217,9 +1217,9 @@
         "points": 8
       },
       {
-        "text": "Doesn't want to drink hungry",
+        "text": "Friends picked the place",
         "aliases": [
-          "empty stomach"
+          "didn't choose the restaurant"
         ],
         "points": 6
       }
@@ -1287,9 +1287,9 @@
         "points": 32
       },
       {
-        "text": "Parking",
+        "text": "Their ride was late",
         "aliases": [
-          "couldn't park"
+          "driver picked them up late"
         ],
         "points": 25
       },
@@ -1301,16 +1301,16 @@
         "points": 18
       },
       {
-        "text": "Babysitter",
+        "text": "Their shift ran late",
         "aliases": [
-          "childcare"
+          "got off work late"
         ],
         "points": 12
       },
       {
-        "text": "Work",
+        "text": "Parking",
         "aliases": [
-          "left work late"
+          "couldn't park"
         ],
         "points": 8
       },
@@ -1427,23 +1427,23 @@
     "prompt": "Name something that makes a buffet customer feel they've got their money's worth.",
     "answers": [
       {
+        "text": "Multiple plates",
+        "aliases": [
+          "seconds"
+        ],
+        "points": 31
+      },
+      {
         "text": "Seafood",
         "aliases": [
           "crab legs"
         ],
-        "points": 31
+        "points": 25
       },
       {
         "text": "Steak",
         "aliases": [
           "beef"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Multiple plates",
-        "aliases": [
-          "seconds"
         ],
         "points": 18
       },
@@ -1455,17 +1455,17 @@
         "points": 12
       },
       {
-        "text": "Unlimited drinks",
+        "text": "Trying a little of everything",
         "aliases": [
-          "free refills",
-          "bottomless drinks"
+          "tasting every dish"
         ],
         "points": 8
       },
       {
-        "text": "Skipping the cheap fillers",
+        "text": "Unlimited drinks",
         "aliases": [
-          "no bread"
+          "free refills",
+          "bottomless drinks"
         ],
         "points": 6
       }
@@ -1526,9 +1526,9 @@
     "prompt": "Name something a diner might photograph besides their food.",
     "answers": [
       {
-        "text": "Their date",
+        "text": "Their friends",
         "aliases": [
-          "dining companion"
+          "group photo"
         ],
         "points": 32
       },
@@ -1554,9 +1554,9 @@
         "points": 12
       },
       {
-        "text": "A celebrity",
+        "text": "A bathroom mirror selfie",
         "aliases": [
-          "famous customer"
+          "mirror pic"
         ],
         "points": 8
       },
@@ -1687,9 +1687,9 @@
         "points": 25
       },
       {
-        "text": "Order wine",
+        "text": "Order an appetizer",
         "aliases": [
-          "buy drinks"
+          "get a starter"
         ],
         "points": 18
       },
@@ -1708,9 +1708,9 @@
         "points": 8
       },
       {
-        "text": "Pay discreetly",
+        "text": "Don't mention their coupon",
         "aliases": [
-          "hide coupon"
+          "hide the discount"
         ],
         "points": 6
       }
@@ -1834,9 +1834,9 @@
         "points": 24
       },
       {
-        "text": "Kissing",
+        "text": "Taking a photo of the food",
         "aliases": [
-          "romantic moment"
+          "snapping a food pic"
         ],
         "points": 19
       },
@@ -1848,16 +1848,16 @@
         "points": 13
       },
       {
-        "text": "Making a toast",
+        "text": "Taking a phone call",
         "aliases": [
-          "speech"
+          "on the phone"
         ],
         "points": 8
       },
       {
-        "text": "Taking a phone call",
+        "text": "Kissing",
         "aliases": [
-          "on the phone"
+          "romantic moment"
         ],
         "points": 6
       }
@@ -1897,10 +1897,9 @@
         "points": 11
       },
       {
-        "text": "Redeeming a deal",
+        "text": "Using an app deal",
         "aliases": [
-          "has a coupon",
-          "meal deal"
+          "restaurant app coupon"
         ],
         "points": 8
       },

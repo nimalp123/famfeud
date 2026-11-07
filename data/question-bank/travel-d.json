@@ -215,16 +215,16 @@
         "points": 24
       },
       {
-        "text": "Your wedding",
+        "text": "Your driving test",
         "aliases": [
-          "wedding day"
+          "road test"
         ],
         "points": 16
       },
       {
-        "text": "Giving the boss a ride",
+        "text": "Your first shift",
         "aliases": [
-          "driving your boss"
+          "first day at work"
         ],
         "points": 11
       },
@@ -621,9 +621,9 @@
         "points": 11
       },
       {
-        "text": "They've been drinking",
+        "text": "They just got their license",
         "aliases": [
-          "had alcohol"
+          "new driver"
         ],
         "points": 8
       },
@@ -824,9 +824,9 @@
         "points": 9
       },
       {
-        "text": "Their work",
+        "text": "A friend nobody else has met",
         "aliases": [
-          "laptop for work"
+          "uninvited friend"
         ],
         "points": 6
       }
@@ -1447,9 +1447,9 @@
         "points": 19
       },
       {
-        "text": "Lottery tickets",
+        "text": "Gummy candy",
         "aliases": [
-          "scratch cards"
+          "gummies"
         ],
         "points": 14
       },
@@ -1461,9 +1461,9 @@
         "points": 9
       },
       {
-        "text": "Cigarettes",
+        "text": "A slushie",
         "aliases": [
-          "smokes"
+          "frozen drink"
         ],
         "points": 6
       }
@@ -1503,9 +1503,9 @@
         "points": 12
       },
       {
-        "text": "A free newspaper",
+        "text": "A receipt a mile long",
         "aliases": [
-          "brochure"
+          "huge receipt"
         ],
         "points": 8
       },
@@ -2176,9 +2176,9 @@
         "points": 24
       },
       {
-        "text": "Ask for a ride",
+        "text": "Have someone drop you off",
         "aliases": [
-          "friend drops you"
+          "get dropped off"
         ],
         "points": 16
       },
@@ -2190,16 +2190,16 @@
         "points": 11
       },
       {
-        "text": "Leave sooner",
+        "text": "Ride a bike",
         "aliases": [
-          "beat the charge"
+          "bike there"
         ],
         "points": 8
       },
       {
-        "text": "Pretend you're a customer elsewhere",
+        "text": "Leave sooner",
         "aliases": [
-          "use another lot"
+          "beat the charge"
         ],
         "points": 6
       }
@@ -2288,9 +2288,9 @@
         "points": 12
       },
       {
-        "text": "A child's toy",
+        "text": "A failed quiz",
         "aliases": [
-          "baby toy"
+          "bad grade"
         ],
         "points": 8
       },
@@ -2895,7 +2895,7 @@
   {
     "id": "travel-280",
     "category": "Travel & places",
-    "prompt": "Name something a coworker might learn about you from sharing your commute.",
+    "prompt": "Name something a friend could learn about you from sharing a ride every morning.",
     "answers": [
       {
         "text": "Your music taste",
@@ -2905,30 +2905,30 @@
         "points": 28
       },
       {
-        "text": "Where you live",
-        "aliases": [
-          "home neighborhood"
-        ],
-        "points": 24
-      },
-      {
         "text": "Your morning mood",
         "aliases": [
           "grumpy mornings"
         ],
+        "points": 24
+      },
+      {
+        "text": "Where you live",
+        "aliases": [
+          "home neighborhood"
+        ],
         "points": 19
       },
       {
-        "text": "Your relationship drama",
+        "text": "Who you’re crushing on",
         "aliases": [
-          "partner problems"
+          "crush"
         ],
         "points": 13
       },
       {
-        "text": "Your bad driving habits",
+        "text": "How early you have to be dragged out of bed",
         "aliases": [
-          "road rage"
+          "hard to wake up"
         ],
         "points": 10
       },
@@ -3045,23 +3045,23 @@
     "prompt": "Name something you'd be embarrassed to leave in a rideshare car.",
     "answers": [
       {
-        "text": "Your underwear",
+        "text": "A bag of dirty clothes",
         "aliases": [
-          "underpants"
+          "dirty laundry"
         ],
         "points": 31
       },
       {
-        "text": "A love letter",
+        "text": "A gift for your crush",
         "aliases": [
-          "romantic note"
+          "romantic present"
         ],
         "points": 25
       },
       {
-        "text": "A personal diary",
+        "text": "A personal journal",
         "aliases": [
-          "journal"
+          "diary"
         ],
         "points": 18
       },
@@ -3073,16 +3073,16 @@
         "points": 12
       },
       {
-        "text": "An embarrassing purchase",
+        "text": "Your childhood stuffed animal",
         "aliases": [
-          "awkward shopping"
+          "plushie"
         ],
         "points": 8
       },
       {
-        "text": "A dating advice book",
+        "text": "A failed test",
         "aliases": [
-          "self help book"
+          "bad grade"
         ],
         "points": 6
       }
@@ -3091,47 +3091,47 @@
   {
     "id": "travel-284",
     "category": "Travel & places",
-    "prompt": "Name something you hope won't come up when your boss offers you a ride.",
+    "prompt": "Name something that would make a ride with your friend’s parent awkward.",
     "answers": [
       {
-        "text": "Your salary",
+        "text": "They ask who you’re dating",
         "aliases": [
-          "pay rise"
+          "love life"
         ],
         "points": 33
       },
       {
-        "text": "Your lateness",
+        "text": "They bring up your grades",
         "aliases": [
-          "late to work"
+          "school results"
         ],
         "points": 24
       },
       {
-        "text": "Office gossip",
+        "text": "A wildly awkward silence",
         "aliases": [
-          "coworker drama"
+          "nobody talks"
         ],
         "points": 17
       },
       {
-        "text": "Your job hunt",
+        "text": "Your friend tells an embarrassing story",
         "aliases": [
-          "looking for another job"
+          "embarrassing secret"
         ],
         "points": 12
       },
       {
-        "text": "Politics",
+        "text": "A song with explicit lyrics comes on",
         "aliases": [
-          "political views"
+          "swearing in the music"
         ],
         "points": 8
       },
       {
-        "text": "Your weekend antics",
+        "text": "You get dropped off at the wrong house",
         "aliases": [
-          "partying"
+          "wrong address"
         ],
         "points": 6
       }
@@ -3557,9 +3557,9 @@
         "points": 17
       },
       {
-        "text": "Diapers",
+        "text": "Things to talk about",
         "aliases": [
-          "nappies"
+          "conversation topics"
         ],
         "points": 12
       },
@@ -4404,8 +4404,9 @@
         "points": 9
       },
       {
-        "text": "You have work tomorrow",
+        "text": "School or work tomorrow",
         "aliases": [
+          "class tomorrow",
           "back to work"
         ],
         "points": 6

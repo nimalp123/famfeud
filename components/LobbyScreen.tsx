@@ -1,9 +1,10 @@
 "use client";
 
 import { useState } from "react";
-import { ArrowRight, Check, Copy, Crown, Globe2, Link, LockKeyhole, LogOut, Sparkles, Users, X, Zap } from "lucide-react";
+import { ArrowRight, Check, Copy, Crown, Globe2, LockKeyhole, LogOut, Sparkles, Users, X, Zap } from "lucide-react";
 import type { ClientAction, PlayerView, RoomSettings, RoomView, Session, Team } from "@/lib/types";
 import { PLAYER_AVATARS, QUESTION_CATEGORIES } from "@/lib/constants";
+import RoomLinkButton from "./RoomLinkButton";
 
 interface LobbyScreenProps {
   room: RoomView;
@@ -15,7 +16,7 @@ interface LobbyScreenProps {
 }
 
 export default function LobbyScreen({ room, session, onAction, onLeave, busy, error }: LobbyScreenProps) {
-  const [copied, setCopied] = useState<"code" | "link" | null>(null);
+  const [copied, setCopied] = useState(false);
   const [copyError, setCopyError] = useState<string | null>(null);
   const me = room.players.find((player) => player.id === session.playerId);
   const isHost = room.hostId === session.playerId;
@@ -26,13 +27,12 @@ export default function LobbyScreen({ room, session, onAction, onLeave, busy, er
   const validTeams = room.settings.mode !== "teams" || (blue.length > 0 && coral.length > 0 && Math.abs(blue.length - coral.length) <= 1);
   const canStart = room.players.length >= 2 && allReady && validTeams;
 
-  async function copy(kind: "code" | "link") {
-    const value = kind === "code" ? room.code : `${window.location.origin}/?room=${encodeURIComponent(room.code)}`;
+  async function copyCode() {
     try {
-      await navigator.clipboard.writeText(value);
+      await navigator.clipboard.writeText(room.code);
       setCopyError(null);
-      setCopied(kind);
-      window.setTimeout(() => setCopied(null), 2200);
+      setCopied(true);
+      window.setTimeout(() => setCopied(false), 2200);
     } catch {
       setCopyError("Couldn’t copy automatically. You can select and share the lobby code above.");
     }
@@ -83,7 +83,19 @@ export default function LobbyScreen({ room, session, onAction, onLeave, busy, er
 
     <div className="lobby-layout">
       <div className="lobby-main-column">
-        <section className="lobby-invite panel" aria-labelledby="lobby-invite-heading"><div className="lobby-invite-top"><div><span className="lobby-label">THE SECRET HANDSHAKE</span><h2 id="lobby-invite-heading">Share your lobby code.</h2></div><span className="badge">{room.isPublic ? <><Globe2 size={13} /> PUBLIC LOBBY</> : <><LockKeyhole size={13} /> FRIENDS ONLY</>}</span></div><div className="lobby-code-row"><span className="lobby-code" aria-label={`Lobby code ${room.code}`}>{room.code}</span><button className="button button-secondary" onClick={() => void copy("code")} type="button">{copied === "code" ? <Check size={16} /> : <Copy size={16} />}{copied === "code" ? "Copied!" : "Copy code"}</button><button className="button button-secondary lobby-copy-link" onClick={() => void copy("link")} type="button">{copied === "link" ? <Check size={16} /> : <Link size={16} />}{copied === "link" ? "Link copied!" : "Invite link"}</button></div><p>Friends can enter this code on the home screen to join you.</p>{copyError && <p className="lobby-copy-error" role="status">{copyError}</p>}</section>
+        <section className="lobby-invite panel" aria-labelledby="lobby-invite-heading">
+          <div className="lobby-invite-top">
+            <div><span className="lobby-label">THE SECRET HANDSHAKE</span><h2 id="lobby-invite-heading">Share your lobby code.</h2></div>
+            <span className="badge">{room.isPublic ? <><Globe2 size={13} /> PUBLIC LOBBY</> : <><LockKeyhole size={13} /> FRIENDS ONLY</>}</span>
+          </div>
+          <div className="lobby-code-row">
+            <span className="lobby-code" aria-label={`Lobby code ${room.code}`}>{room.code}</span>
+            <button className="button button-secondary" onClick={() => void copyCode()} type="button">{copied ? <Check size={16} /> : <Copy size={16} />}{copied ? "Copied!" : "Copy code"}</button>
+            <RoomLinkButton code={room.code} className="button button-secondary lobby-copy-link" />
+          </div>
+          <p>Share the link or code to invite friends. If you disconnect, reopen the link in the same browser to find your seat.</p>
+          {copyError && <p className="lobby-copy-error" role="status">{copyError}</p>}
+        </section>
 
         {(error || room.error) && <div className="lobby-error" role="alert">{error || room.error}</div>}
         {isHost && startPanel}

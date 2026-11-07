@@ -93,10 +93,10 @@
         "points": 9
       },
       {
-        "text": "Alcohol",
+        "text": "Boba",
         "aliases": [
-          "beer",
-          "wine"
+          "bubble tea",
+          "milk tea"
         ],
         "points": 6
       }
@@ -157,24 +157,25 @@
     "prompt": "Name something you do when someone picks a movie you hate.",
     "answers": [
       {
+        "text": "Scroll on your phone",
+        "aliases": [
+          "check your phone",
+          "scroll TikTok"
+        ],
+        "points": 35
+      },
+      {
         "text": "Suggest another",
         "aliases": [
           "change it",
           "pick something else"
         ],
-        "points": 35
+        "points": 25
       },
       {
         "text": "Pretend to enjoy it",
         "aliases": [
           "fake interest"
-        ],
-        "points": 25
-      },
-      {
-        "text": "Look at your phone",
-        "aliases": [
-          "scroll"
         ],
         "points": 16
       },
@@ -222,9 +223,10 @@
         "points": 23
       },
       {
-        "text": "Answer the phone",
+        "text": "Reply to a text",
         "aliases": [
-          "phone call"
+          "check a message",
+          "answer a DM"
         ],
         "points": 19
       },
@@ -518,30 +520,32 @@
         "points": 24
       },
       {
-        "text": "Actors",
+        "text": "Friend's recommendation",
         "aliases": [
-          "cast"
+          "who recommended it",
+          "friend told them"
         ],
         "points": 18
       },
       {
-        "text": "Poster",
+        "text": "Actors",
         "aliases": [
-          "cover"
+          "cast"
         ],
         "points": 12
+      },
+      {
+        "text": "A clip they saw online",
+        "aliases": [
+          "viral clip",
+          "short scene"
+        ],
+        "points": 8
       },
       {
         "text": "Title",
         "aliases": [
           "name"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Who recommended it",
-        "aliases": [
-          "recommendation"
         ],
         "points": 6
       }
@@ -700,38 +704,39 @@
     "prompt": "Name something that makes you reject a movie while scrolling.",
     "answers": [
       {
+        "text": "Uninteresting plot",
+        "aliases": [
+          "boring description"
+        ],
+        "points": 28
+      },
+      {
         "text": "Bad reviews",
         "aliases": [
           "low rating"
         ],
-        "points": 28
+        "points": 23
       },
       {
         "text": "Too long",
         "aliases": [
           "long runtime"
         ],
-        "points": 23
-      },
-      {
-        "text": "Actor you dislike",
-        "aliases": [
-          "bad cast"
-        ],
         "points": 19
-      },
-      {
-        "text": "Uninteresting plot",
-        "aliases": [
-          "boring description"
-        ],
-        "points": 14
       },
       {
         "text": "Extra charge",
         "aliases": [
           "rent it",
           "pay more"
+        ],
+        "points": 14
+      },
+      {
+        "text": "A corny thumbnail",
+        "aliases": [
+          "bad cover image",
+          "ugly poster"
         ],
         "points": 10
       },
@@ -828,9 +833,10 @@
         "points": 13
       },
       {
-        "text": "Have terrible hygiene",
+        "text": "A leaked rude DM",
         "aliases": [
-          "smell bad"
+          "nasty private message",
+          "screenshots of their texts"
         ],
         "points": 9
       },
@@ -955,37 +961,38 @@
         "points": 28
       },
       {
-        "text": "Age rating",
-        "aliases": [
-          "appropriate for kids"
-        ],
-        "points": 23
-      },
-      {
         "text": "Seen it already",
         "aliases": [
           "rewatch"
         ],
+        "points": 23
+      },
+      {
+        "text": "Which streaming service",
+        "aliases": [
+          "subscription"
+        ],
         "points": 19
+      },
+      {
+        "text": "Age rating",
+        "aliases": [
+          "appropriate for kids"
+        ],
+        "points": 14
       },
       {
         "text": "Movie length",
         "aliases": [
           "runtime"
         ],
-        "points": 14
-      },
-      {
-        "text": "Which actor",
-        "aliases": [
-          "cast"
-        ],
         "points": 10
       },
       {
-        "text": "Which streaming service",
+        "text": "Someone keeps scrolling",
         "aliases": [
-          "subscription"
+          "looking at their phone",
+          "on their phone"
         ],
         "points": 6
       }
@@ -1217,9 +1224,10 @@
         "points": 19
       },
       {
-        "text": "Talk too much",
+        "text": "Second-guess your first answer",
         "aliases": [
-          "ramble"
+          "change your answer",
+          "overthink it"
         ],
         "points": 14
       },
@@ -1538,12 +1546,13 @@
   {
     "id": "culture-032",
     "category": "Pop culture",
-    "prompt": "Name something a movie fan buys and then has to explain to their partner.",
+    "prompt": "Name something a movie fan buys that makes their friends say, 'How much did you pay for that?'",
     "answers": [
       {
-        "text": "Life-size statue",
+        "text": "A giant display figure",
         "aliases": [
-          "cardboard cutout"
+          "life-size statue",
+          "collectible statue"
         ],
         "points": 30
       },
@@ -1577,9 +1586,10 @@
         "points": 9
       },
       {
-        "text": "Another special edition",
+        "text": "Another collector's edition",
         "aliases": [
-          "duplicate movie"
+          "special edition",
+          "steelbook"
         ],
         "points": 6
       }
@@ -1605,9 +1615,10 @@
         "points": 24
       },
       {
-        "text": "Is there a sequel",
+        "text": "Sequel or next season",
         "aliases": [
-          "next movie"
+          "is there a sequel",
+          "when is the next one"
         ],
         "points": 16
       },
@@ -1619,9 +1630,10 @@
         "points": 12
       },
       {
-        "text": "Song name",
+        "text": "The song from that scene",
         "aliases": [
-          "soundtrack"
+          "song name",
+          "soundtrack song"
         ],
         "points": 8
       },
@@ -1915,9 +1927,10 @@
         "points": 11
       },
       {
-        "text": "Keeps changing channels",
+        "text": "Everyone is on their phones",
         "aliases": [
-          "channel surfing"
+          "scrolling",
+          "checking messages"
         ],
         "points": 8
       },
@@ -1943,23 +1956,25 @@
         "points": 28
       },
       {
+        "text": "It keeps showing up in edits",
+        "aliases": [
+          "hear it in short videos",
+          "fan edit",
+          "TikTok sound"
+        ],
+        "points": 23
+      },
+      {
         "text": "Repeated in the movie",
         "aliases": [
           "played a lot"
         ],
-        "points": 23
+        "points": 19
       },
       {
         "text": "Emotional scene",
         "aliases": [
           "moving scene"
-        ],
-        "points": 19
-      },
-      {
-        "text": "You knew it already",
-        "aliases": [
-          "familiar song"
         ],
         "points": 14
       },

@@ -2,28 +2,28 @@
   {
     "id": "games-311",
     "category": "Sports & games",
-    "prompt": "What excuse does a kid give to get out of PE?",
+    "prompt": "What excuse might a high school student give to get out of gym class?",
     "answers": [
+      {
+        "text": "I forgot my gym clothes",
+        "aliases": [
+          "forgot my kit"
+        ],
+        "points": 32
+      },
       {
         "text": "I feel sick",
         "aliases": [
           "stomachache",
           "ill"
         ],
-        "points": 32
+        "points": 24
       },
       {
         "text": "I hurt myself",
         "aliases": [
           "injured",
           "sore ankle"
-        ],
-        "points": 24
-      },
-      {
-        "text": "I forgot my gym clothes",
-        "aliases": [
-          "forgot my kit"
         ],
         "points": 18
       },
@@ -35,9 +35,10 @@
         "points": 12
       },
       {
-        "text": "I have homework to finish",
+        "text": "I’m sore from yesterday’s practice",
         "aliases": [
-          "schoolwork"
+          "sore from practice",
+          "legs are sore"
         ],
         "points": 8
       },
@@ -53,7 +54,7 @@
   {
     "id": "games-312",
     "category": "Sports & games",
-    "prompt": "Name something that made changing for PE more embarrassing than the lesson.",
+    "prompt": "Name something that can make changing for gym class more embarrassing than the workout.",
     "answers": [
       {
         "text": "Forgotten deodorant",
@@ -78,9 +79,10 @@
         "points": 16
       },
       {
-        "text": "Someone stole your clothes",
+        "text": "Your locker won’t open",
         "aliases": [
-          "hidden clothes"
+          "stuck locker",
+          "forgot locker combo"
         ],
         "points": 11
       },
@@ -92,9 +94,10 @@
         "points": 8
       },
       {
-        "text": "Getting changed too slowly",
+        "text": "Realizing you wore your shirt inside out",
         "aliases": [
-          "last one ready"
+          "shirt inside out",
+          "clothes on wrong"
         ],
         "points": 5
       }
@@ -152,7 +155,7 @@
   {
     "id": "games-314",
     "category": "Sports & games",
-    "prompt": "Name a way kids tried to look busy when the PE teacher watched.",
+    "prompt": "Name a way students pretend to be exercising when the gym teacher looks over.",
     "answers": [
       {
         "text": "Jogging on the spot",
@@ -176,9 +179,10 @@
         "points": 19
       },
       {
-        "text": "Pretending to help someone",
+        "text": "Check the fitness timer on their phone",
         "aliases": [
-          "helping a friend"
+          "check their phone",
+          "look at the timer"
         ],
         "points": 14
       },
@@ -190,9 +194,10 @@
         "points": 10
       },
       {
-        "text": "Moving equipment",
+        "text": "Walk over to refill their water bottle",
         "aliases": [
-          "carrying cones"
+          "get water",
+          "water break"
         ],
         "points": 6
       }
@@ -201,7 +206,7 @@
   {
     "id": "games-315",
     "category": "Sports & games",
-    "prompt": "Name something you hoped the PE teacher would forget to make you do.",
+    "prompt": "Name something you hope the gym teacher forgets to make the class do.",
     "answers": [
       {
         "text": "Run laps",
@@ -211,9 +216,10 @@
         "points": 33
       },
       {
-        "text": "Climb a rope",
+        "text": "A partner dance",
         "aliases": [
-          "rope climbing"
+          "dancing with a partner",
+          "dance routine"
         ],
         "points": 24
       },
@@ -240,9 +246,9 @@
         "points": 8
       },
       {
-        "text": "Swim",
+        "text": "Partner stretches",
         "aliases": [
-          "swimming"
+          "stretch with a partner"
         ],
         "points": 6
       }
@@ -251,7 +257,7 @@
   {
     "id": "games-316",
     "category": "Sports & games",
-    "prompt": "Name something that could make you the hero of PE for one day.",
+    "prompt": "Name something that could make you a hero in gym class for one day.",
     "answers": [
       {
         "text": "Score the winning goal",
@@ -275,9 +281,10 @@
         "points": 18
       },
       {
-        "text": "Hit the teacher with a dodgeball",
+        "text": "Get the last person out in dodgeball",
         "aliases": [
-          "dodgeball teacher"
+          "dodgeball clutch",
+          "win dodgeball"
         ],
         "points": 12
       },
@@ -289,9 +296,10 @@
         "points": 8
       },
       {
-        "text": "Get the stuck ball down",
+        "text": "Get a stuck ball down from the ceiling",
         "aliases": [
-          "retrieve the ball"
+          "rescue a ball",
+          "get the ball down"
         ],
         "points": 6
       }
@@ -447,7 +455,7 @@
   {
     "id": "games-320",
     "category": "Sports & games",
-    "prompt": "Why might a kid insist a playground game doesn't count?",
+    "prompt": "Why might a friend insist a pickup game doesn’t count?",
     "answers": [
       {
         "text": "We weren't ready",
@@ -471,9 +479,10 @@
         "points": 17
       },
       {
-        "text": "The bell rang",
+        "text": "They lost track of the score",
         "aliases": [
-          "recess ended"
+          "wrong score",
+          "someone forgot the score"
         ],
         "points": 12
       },
@@ -485,9 +494,10 @@
         "points": 8
       },
       {
-        "text": "It was only practice",
+        "text": "We were just warming up",
         "aliases": [
-          "warmup"
+          "practice round",
+          "only practice"
         ],
         "points": 6
       }
@@ -692,47 +702,53 @@
   {
     "id": "games-325",
     "category": "Sports & games",
-    "prompt": "Name something a child insists on doing one last time before leaving the playground.",
+    "prompt": "Name something players do when the lights go out at the public court.",
     "answers": [
       {
-        "text": "Go down the slide",
+        "text": "Keep playing until someone misses",
         "aliases": [
-          "one more slide"
+          "keep playing",
+          "one last shot"
         ],
         "points": 33
       },
       {
-        "text": "Swing",
+        "text": "Pack up to leave",
         "aliases": [
-          "one more swing"
+          "grab their stuff",
+          "go home"
         ],
         "points": 24
       },
       {
-        "text": "Climb to the top",
+        "text": "Turn on a phone flashlight",
         "aliases": [
-          "climbing frame"
+          "phone flashlight",
+          "flashlight app"
         ],
         "points": 17
       },
       {
-        "text": "Play tag",
+        "text": "Look for another lit court",
         "aliases": [
-          "one more game"
+          "find a different court",
+          "go to another court"
         ],
         "points": 12
       },
       {
-        "text": "Cross the monkey bars",
+        "text": "Check the time",
         "aliases": [
-          "monkey bars"
+          "look at the clock",
+          "check their watch"
         ],
         "points": 8
       },
       {
-        "text": "Show a parent a trick",
+        "text": "Text their ride to come get them",
         "aliases": [
-          "watch this"
+          "call their ride",
+          "ask for pickup"
         ],
         "points": 6
       }
@@ -986,19 +1002,21 @@
   {
     "id": "games-331",
     "category": "Sports & games",
-    "prompt": "Name a reason a child would rather watch sports day than compete.",
+    "prompt": "Name a reason someone might rather watch a campus game than join in.",
     "answers": [
       {
-        "text": "Afraid of losing",
+        "text": "They don’t want to embarrass themselves",
         "aliases": [
-          "doesn't want to lose"
+          "fear of messing up",
+          "don’t want to look bad"
         ],
         "points": 32
       },
       {
-        "text": "Too hot",
+        "text": "They’re saving their energy for later",
         "aliases": [
-          "heat"
+          "too tired",
+          "need to rest"
         ],
         "points": 24
       },
@@ -1010,9 +1028,10 @@
         "points": 18
       },
       {
-        "text": "Embarrassed in front of parents",
+        "text": "They don’t know anyone on their team",
         "aliases": [
-          "stage fright"
+          "no friends on their team",
+          "playing with strangers"
         ],
         "points": 12
       },
@@ -1024,9 +1043,10 @@
         "points": 8
       },
       {
-        "text": "Their friends are watching",
+        "text": "They want to film it",
         "aliases": [
-          "sit with friends"
+          "get a clip",
+          "record their friends"
         ],
         "points": 6
       }
@@ -1035,7 +1055,7 @@
   {
     "id": "games-332",
     "category": "Sports & games",
-    "prompt": "What could a parent do at sports day to make their kid cringe?",
+    "prompt": "What could a parent do at a school game to make their teenager cringe?",
     "answers": [
       {
         "text": "Shouts too loudly",
@@ -1052,23 +1072,26 @@
         "points": 25
       },
       {
-        "text": "Runs alongside them",
+        "text": "Yell an old nickname",
         "aliases": [
-          "runs with them"
+          "childhood nickname",
+          "shout their nickname"
         ],
         "points": 16
       },
       {
-        "text": "Takes endless photos",
+        "text": "Film the entire game on their phone",
         "aliases": [
-          "photographing"
+          "record everything",
+          "take nonstop videos"
         ],
         "points": 11
       },
       {
-        "text": "Argues with a teacher",
+        "text": "Argue with the ref",
         "aliases": [
-          "complains to teacher"
+          "argue with an official",
+          "complain about a call"
         ],
         "points": 8
       },
@@ -1429,7 +1452,7 @@
   {
     "id": "games-340",
     "category": "Sports & games",
-    "prompt": "Name something a kid proudly shows everyone after sports day.",
+    "prompt": "Name something a player proudly shows friends after a school tournament.",
     "answers": [
       {
         "text": "A medal",
@@ -1439,30 +1462,34 @@
         "points": 33
       },
       {
-        "text": "A ribbon",
+        "text": "A clip of their finish",
         "aliases": [
-          "prize ribbon"
+          "finish line video",
+          "video of them finishing"
         ],
         "points": 24
       },
       {
-        "text": "A certificate",
+        "text": "A team photo",
         "aliases": [
-          "award certificate"
+          "group photo",
+          "picture with the team"
         ],
         "points": 17
       },
       {
-        "text": "A scraped knee",
+        "text": "A grass stain from diving",
         "aliases": [
-          "graze"
+          "dirty clothes",
+          "grass stain"
         ],
         "points": 12
       },
       {
-        "text": "A finish-line photo",
+        "text": "A screenshot of the final standings",
         "aliases": [
-          "race photo"
+          "results screenshot",
+          "leaderboard screenshot"
         ],
         "points": 8
       },
@@ -1870,7 +1897,7 @@
   {
     "id": "games-349",
     "category": "Sports & games",
-    "prompt": "Name something that can go wrong when adults join a bouncy-castle race.",
+    "prompt": "Name something that can go wrong racing friends through an inflatable obstacle course.",
     "answers": [
       {
         "text": "They fall over",
@@ -1894,17 +1921,18 @@
         "points": 19
       },
       {
-        "text": "Their glasses fly off",
+        "text": "Their phone flies out",
         "aliases": [
-          "lose glasses",
-          "glasses fall off"
+          "drops their phone",
+          "phone falls out"
         ],
         "points": 14
       },
       {
-        "text": "They get stuck",
+        "text": "They get stuck in a tunnel",
         "aliases": [
-          "can't fit"
+          "gets stuck",
+          "stuck in the obstacle"
         ],
         "points": 10
       },
@@ -2128,30 +2156,34 @@
         "points": 28
       },
       {
-        "text": "The noticeboard",
+        "text": "The team’s group chat",
         "aliases": [
-          "posted list"
+          "team chat",
+          "group messages"
         ],
         "points": 23
       },
       {
-        "text": "The coach's face",
+        "text": "The coach’s face",
         "aliases": [
-          "coach reaction"
+          "coach’s reaction",
+          "looks at the coach"
         ],
         "points": 19
       },
       {
-        "text": "The time",
+        "text": "The posted roster",
         "aliases": [
-          "clock"
+          "notice board",
+          "team list"
         ],
         "points": 14
       },
       {
-        "text": "Their email",
+        "text": "How much time is left",
         "aliases": [
-          "inbox"
+          "the time",
+          "clock"
         ],
         "points": 10
       },
@@ -2367,23 +2399,26 @@
     "prompt": "Name something that makes a teammate everyone's favorite person after practice.",
     "answers": [
       {
-        "text": "Bringing snacks",
+        "text": "Giving someone a ride home",
         "aliases": [
-          "food"
+          "offers rides",
+          "carpool"
         ],
         "points": 28
       },
       {
-        "text": "Giving people a ride",
+        "text": "Bringing snacks to share",
         "aliases": [
-          "car lift"
+          "has snacks",
+          "shares food"
         ],
         "points": 23
       },
       {
-        "text": "Buying drinks",
+        "text": "Sending the funny practice clips",
         "aliases": [
-          "refreshments"
+          "shares funny video",
+          "posts a clip"
         ],
         "points": 19
       },
@@ -2402,9 +2437,10 @@
         "points": 10
       },
       {
-        "text": "Remembering someone's birthday",
+        "text": "Covering the cost of drinks",
         "aliases": [
-          "birthday surprise"
+          "buys drinks",
+          "pays for drinks"
         ],
         "points": 6
       }
@@ -3889,7 +3925,7 @@
   {
     "id": "games-390",
     "category": "Sports & games",
-    "prompt": "Name something a child requests after being told they can choose the team's celebration.",
+    "prompt": "Name something a school or rec team might do together after a big win.",
     "answers": [
       {
         "text": "Pizza",
@@ -3899,37 +3935,41 @@
         "points": 33
       },
       {
-        "text": "Ice cream",
+        "text": "Get boba together",
         "aliases": [
-          "ice cream shop"
+          "bubble tea",
+          "boba run"
         ],
         "points": 24
       },
       {
-        "text": "A pool party",
+        "text": "Go bowling",
         "aliases": [
-          "swimming"
+          "bowling alley"
         ],
         "points": 17
       },
       {
-        "text": "Bowling",
+        "text": "Hit the arcade",
         "aliases": [
-          "bowling alley"
+          "go to an arcade",
+          "arcade night"
         ],
         "points": 12
       },
       {
-        "text": "A movie",
+        "text": "Get ice cream",
         "aliases": [
-          "cinema"
+          "ice cream run",
+          "ice cream party"
         ],
         "points": 8
       },
       {
-        "text": "A sleepover",
+        "text": "Have a team game night",
         "aliases": [
-          "slumber party"
+          "play games together",
+          "game night"
         ],
         "points": 6
       }
@@ -3948,16 +3988,18 @@
         "points": 32
       },
       {
-        "text": "Awkward running style",
+        "text": "Wearing a funny expression",
         "aliases": [
-          "funny running"
+          "awkward facial expressions",
+          "a weird face"
         ],
         "points": 24
       },
       {
-        "text": "Bad facial expressions",
+        "text": "Someone turns it into a clip in the team chat",
         "aliases": [
-          "weird face"
+          "get clipped",
+          "friends post the clip"
         ],
         "points": 18
       },
@@ -3976,9 +4018,10 @@
         "points": 8
       },
       {
-        "text": "Their hair looks terrible",
+        "text": "Hearing themselves yell",
         "aliases": [
-          "bad hair"
+          "their own voice",
+          "how loud they were"
         ],
         "points": 6
       }
@@ -4036,7 +4079,7 @@
   {
     "id": "games-393",
     "category": "Sports & games",
-    "prompt": "Name something a child might exaggerate when describing their match at home.",
+    "prompt": "Name something a player might exaggerate in a message to friends after a school game.",
     "answers": [
       {
         "text": "How many goals they scored",
@@ -4053,9 +4096,10 @@
         "points": 24
       },
       {
-        "text": "How big the other team was",
+        "text": "How tough the opponent was",
         "aliases": [
-          "opponents size"
+          "the other team was better",
+          "how big the other team was"
         ],
         "points": 19
       },
@@ -4067,16 +4111,18 @@
         "points": 13
       },
       {
-        "text": "How much the crowd cheered",
+        "text": "How loud their friends were cheering",
         "aliases": [
-          "cheering"
+          "crowd noise",
+          "how much people cheered"
         ],
         "points": 8
       },
       {
-        "text": "How important the match was",
+        "text": "How clutch their play was",
         "aliases": [
-          "stakes"
+          "winning play",
+          "how much it mattered"
         ],
         "points": 6
       }
@@ -4085,47 +4131,53 @@
   {
     "id": "games-394",
     "category": "Sports & games",
-    "prompt": "Name something parents do when their child's team loses.",
+    "prompt": "Name something teammates do to shake off an ugly loss.",
     "answers": [
       {
-        "text": "Comfort their child",
+        "text": "Grab food on the way home",
         "aliases": [
-          "reassure them"
+          "get food",
+          "go out to eat"
         ],
         "points": 28
       },
       {
-        "text": "Blame the referee",
+        "text": "Complain about the ref",
         "aliases": [
-          "ref complaint"
+          "blame the ref",
+          "bad officiating"
         ],
         "points": 23
       },
       {
-        "text": "Buy them a treat",
+        "text": "Send a joke in the team chat",
         "aliases": [
-          "ice cream"
+          "post a meme",
+          "share a funny message"
         ],
         "points": 19
       },
       {
-        "text": "Talk about next time",
+        "text": "Find a clip of the best play",
         "aliases": [
-          "next game"
+          "watch the highlights",
+          "look for the good play"
         ],
         "points": 14
       },
       {
-        "text": "Criticize the coach",
+        "text": "Make plans for the next practice",
         "aliases": [
-          "blame coach"
+          "plan a practice",
+          "work on it next time"
         ],
         "points": 10
       },
       {
-        "text": "Say winning isn't everything",
+        "text": "Check on the teammate who feels worst",
         "aliases": [
-          "only a game"
+          "comfort a teammate",
+          "cheer up a teammate"
         ],
         "points": 6
       }
@@ -4183,7 +4235,7 @@
   {
     "id": "games-396",
     "category": "Sports & games",
-    "prompt": "Name something a child wants to do with their first trophy.",
+    "prompt": "Name something a player wants to do with their first trophy.",
     "answers": [
       {
         "text": "Show it off",
@@ -4202,24 +4254,26 @@
         "points": 25
       },
       {
-        "text": "Take a photo",
+        "text": "Post a picture of it",
         "aliases": [
-          "photograph it",
-          "picture"
+          "take a photo",
+          "post it online"
         ],
         "points": 16
       },
       {
-        "text": "Sleep with it",
+        "text": "Read the engraving",
         "aliases": [
-          "take it to bed"
+          "check the inscription",
+          "check their name on it"
         ],
         "points": 11
       },
       {
-        "text": "Carry it everywhere",
+        "text": "Bring it to school",
         "aliases": [
-          "take it everywhere"
+          "carry it everywhere",
+          "take it to class"
         ],
         "points": 8
       },
@@ -4308,23 +4362,26 @@
         "points": 19
       },
       {
-        "text": "Meeting the old coach",
+        "text": "Finding out who still plays",
         "aliases": [
-          "coach"
+          "seeing who kept playing",
+          "catch up on sports"
         ],
         "points": 13
       },
       {
-        "text": "Showing old photos",
+        "text": "Sharing throwback clips",
         "aliases": [
-          "memories"
+          "show old photos",
+          "old videos"
         ],
         "points": 8
       },
       {
-        "text": "Bringing their family",
+        "text": "The coach showing up",
         "aliases": [
-          "introduce kids"
+          "meeting the old coach",
+          "seeing the coach"
         ],
         "points": 6
       }

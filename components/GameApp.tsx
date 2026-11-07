@@ -2,13 +2,20 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Sparkles, Radio, ArrowUpRight, WifiOff } from "lucide-react";
-import { api, ApiError, readSession, saveSession } from "../lib/client";
+import { api, ApiError, clearSession, readSession, requestedRoom, saveSession } from "../lib/client";
 import { QUESTION_BANK_COUNT } from "../lib/constants";
 import type { ApiSessionResponse, ClientAction, PublicRoom, RoomSettings, RoomView, Session } from "../lib/types";
 import HomeScreen from "./HomeScreen";
 import LobbyScreen from "./LobbyScreen";
 import MatchScreen from "./MatchScreen";
 import ResultsScreen from "./ResultsScreen";
+
+function setRoomInAddress(code: string | null) {
+  const url = new URL(window.location.href);
+  if (code) url.searchParams.set("room", code);
+  else url.searchParams.delete("room");
+  window.history.replaceState(window.history.state, "", url);
+}
 
 export default function GameApp() {
   const [session, setSession] = useState<Session | null>(null);
@@ -27,7 +34,7 @@ export default function GameApp() {
   }, []);
 
   useEffect(() => {
-    setSession(readSession());
+    setSession(readSession(requestedRoom(window.location.search)));
     setInitialized(true);
     api.health().then((data) => setQuestionCount(data.questionCount)).catch(() => {});
   }, []);
@@ -55,24 +62,40 @@ export default function GameApp() {
   useEffect(() => {
     if (!session) return;
     let stopped = false;
+    let seatVerified = false;
     let timer: ReturnType<typeof setTimeout>;
-    const controller = new AbortController();
+    let controller: AbortController;
     const refresh = async () => {
+      controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 10_000);
       try {
         const data = await api.room(session, controller.signal);
-        if (!stopped) { updateRoom(data.room); setConnectionLost(false); }
+        if (stopped) return;
+        if (!seatVerified) {
+          saveSession(session);
+          setRoomInAddress(session.code);
+          seatVerified = true;
+        }
+        updateRoom(data.room);
+        setConnectionLost(false);
       } catch (cause) {
         if (stopped) return;
         if (cause instanceof ApiError && (cause.status === 401 || cause.status === 403 || cause.status === 404 || cause.status === 410)) {
-          saveSession(null); setSession(null); setRoom(null); setError(cause.message);
+          clearSession(session);
+          setSession(null);
+          setRoom(null);
+          setConnectionLost(false);
+          setError(cause.status === 401 ? "Your saved seat is no longer available. Check with the host before joining again." : cause.message);
           return;
         }
         setConnectionLost(true);
+      } finally {
+        clearTimeout(timeout);
       }
       if (!stopped) timer = setTimeout(refresh, 1000);
     };
     void refresh();
-    return () => { stopped = true; controller.abort(); clearTimeout(timer); };
+    return () => { stopped = true; controller?.abort(); clearTimeout(timer); };
   }, [session, updateRoom]);
 
   async function run(operation: () => Promise<void>) {
@@ -85,12 +108,19 @@ export default function GameApp() {
 
   function enter(data: ApiSessionResponse) {
     saveSession(data.session); setSession(data.session); setRoom(data.room); setConnectionLost(false);
-    const url = new URL(window.location.href); url.searchParams.delete("room");
-    window.history.replaceState(null, "", url.pathname + url.search);
+    setRoomInAddress(data.session.code);
   }
 
   const onCreate = (name: string, avatar: number, settings: RoomSettings) => run(async () => enter(await api.create(name, avatar, settings)));
-  const onJoin = (code: string, name: string, avatar: number) => run(async () => enter(await api.join(code, name, avatar)));
+  const onJoin = (code: string, name: string, avatar: number) => run(async () => {
+    const saved = readSession(code);
+    if (saved) {
+      setRoomInAddress(saved.code);
+      setSession(saved);
+      return;
+    }
+    if (name.trim()) enter(await api.join(code, name, avatar));
+  });
   const onAction = (action: ClientAction) => run(async () => {
     if (!session) return;
     const data = await api.action(session, action);
@@ -99,9 +129,16 @@ export default function GameApp() {
   const onLeave = () => run(async () => {
     if (session) {
       try { await api.action(session, { type: "leave" }); } catch { /* Leaving the tab remains possible while offline. */ }
+      clearSession(session);
     }
-    saveSession(null); setSession(null); setRoom(null); setConnectionLost(false);
+    setRoomInAddress(null);
+    setSession(null); setRoom(null); setConnectionLost(false);
   });
+  const returnHomeWhileOffline = () => {
+    if (session) clearSession(session, false);
+    setRoomInAddress(null);
+    setSession(null); setRoom(null); setConnectionLost(false);
+  };
 
   return (
     <div className="app-shell">
@@ -115,9 +152,9 @@ export default function GameApp() {
           <a href="#public-heading" className="header-link" onClick={(event) => { if (session) event.preventDefault(); }}>Made for game night <ArrowUpRight size={15} /></a>
         </div>
       </header>
-      {connectionLost && <div className="connection-banner" role="status"><WifiOff size={16} /> Reconnecting to your room. Your place is saved.</div>}
+      {connectionLost && <div className="connection-banner" role="status"><WifiOff size={16} /> Reconnecting to your room…</div>}
       {!initialized || (session && !room) ? (
-        <main className="loading-screen" aria-live="polite"><div className="loading-orbit">✦</div><h1>Finding your seat…</h1><p>{connectionLost ? "Waiting for the game server to reconnect." : "Getting the board ready."}</p>{connectionLost && <button className="button button-secondary" onClick={onLeave}>Back to home</button>}</main>
+        <main className="loading-screen" aria-live="polite"><div className="loading-orbit">✦</div><h1>Finding your seat…</h1><p>{connectionLost ? "Waiting for the game server to reconnect." : "Getting the board ready."}</p>{connectionLost && <button className="button button-secondary" onClick={returnHomeWhileOffline}>Back to home</button>}</main>
       ) : session && room ? room.phase === "lobby" ? (
         <LobbyScreen {...{ room, session, onAction, onLeave, busy, error }} />
       ) : room.phase === "finished" ? (

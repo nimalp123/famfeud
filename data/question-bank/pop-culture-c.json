@@ -75,9 +75,11 @@
         "points": 18
       },
       {
-        "text": "Work tomorrow",
+        "text": "School or a shift in the morning",
         "aliases": [
-          "early morning"
+          "work tomorrow",
+          "class tomorrow",
+          "early shift"
         ],
         "points": 12
       },
@@ -258,37 +260,40 @@
         "points": 29
       },
       {
-        "text": "Parking",
+        "text": "Resale markup",
         "aliases": [
-          "car park"
+          "scalper prices",
+          "reseller fees"
         ],
         "points": 24
-      },
-      {
-        "text": "Drinks",
-        "aliases": [
-          "alcohol"
-        ],
-        "points": 18
       },
       {
         "text": "Merchandise",
         "aliases": [
           "merch"
         ],
+        "points": 18
+      },
+      {
+        "text": "The rideshare home",
+        "aliases": [
+          "Uber surge",
+          "Lyft",
+          "travel costs"
+        ],
         "points": 13
       },
       {
-        "text": "Travel",
+        "text": "Drinks",
         "aliases": [
-          "transport"
+          "alcohol"
         ],
         "points": 10
       },
       {
-        "text": "Babysitting",
+        "text": "Parking",
         "aliases": [
-          "childcare"
+          "car park"
         ],
         "points": 6
       }
@@ -300,44 +305,46 @@
     "prompt": "Name a music-festival luxury you'd happily pay extra for.",
     "answers": [
       {
-        "text": "Clean toilets",
+        "text": "Cold water",
         "aliases": [
-          "nice bathrooms"
+          "chilled water"
         ],
         "points": 35
+      },
+      {
+        "text": "A clean bathroom",
+        "aliases": [
+          "clean toilets",
+          "clean restrooms"
+        ],
+        "points": 25
       },
       {
         "text": "Shade",
         "aliases": [
           "shaded area"
         ],
-        "points": 25
+        "points": 16
       },
       {
         "text": "Phone charging",
         "aliases": [
           "charging station"
         ],
-        "points": 16
+        "points": 11
       },
       {
-        "text": "Cold water",
+        "text": "A spot to sit with friends",
         "aliases": [
-          "chilled water"
+          "comfortable seat",
+          "seating"
         ],
-        "points": 11
+        "points": 8
       },
       {
         "text": "A shower",
         "aliases": [
           "showers"
-        ],
-        "points": 8
-      },
-      {
-        "text": "A comfortable seat",
-        "aliases": [
-          "chair"
         ],
         "points": 5
       }
@@ -643,44 +650,45 @@
     "prompt": "Name somewhere you'd be embarrassed to have your phone suddenly blast music.",
     "answers": [
       {
-        "text": "A funeral",
+        "text": "An exam",
         "aliases": [
-          "memorial service"
+          "test"
         ],
         "points": 32
       },
       {
-        "text": "A work meeting",
+        "text": "During a class presentation",
         "aliases": [
-          "business meeting"
+          "in class",
+          "during a lecture"
         ],
         "points": 24
+      },
+      {
+        "text": "A library",
+        "aliases": [
+          "quiet library"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A funeral",
+        "aliases": [
+          "memorial service"
+        ],
+        "points": 12
       },
       {
         "text": "Church",
         "aliases": [
           "religious service"
         ],
-        "points": 18
-      },
-      {
-        "text": "An exam",
-        "aliases": [
-          "test"
-        ],
-        "points": 12
+        "points": 8
       },
       {
         "text": "A date",
         "aliases": [
           "romantic dinner"
-        ],
-        "points": 8
-      },
-      {
-        "text": "A library",
-        "aliases": [
-          "quiet library"
         ],
         "points": 6
       }
@@ -692,44 +700,46 @@
     "prompt": "Name a concert souvenir you'd keep even if it looked like trash.",
     "answers": [
       {
-        "text": "Ticket stub",
-        "aliases": [
-          "used ticket"
-        ],
-        "points": 30
-      },
-      {
         "text": "Wristband",
         "aliases": [
           "entry bracelet"
         ],
+        "points": 30
+      },
+      {
+        "text": "A handmade friendship bracelet",
+        "aliases": [
+          "traded bracelet",
+          "friendship bracelet"
+        ],
         "points": 24
+      },
+      {
+        "text": "A paper ticket stub",
+        "aliases": [
+          "ticket stub",
+          "physical ticket"
+        ],
+        "points": 18
       },
       {
         "text": "Guitar pick",
         "aliases": [
           "pick"
         ],
-        "points": 18
+        "points": 13
       },
       {
         "text": "Set list",
         "aliases": [
           "song list"
         ],
-        "points": 13
+        "points": 9
       },
       {
         "text": "Confetti",
         "aliases": [
           "paper confetti"
-        ],
-        "points": 9
-      },
-      {
-        "text": "The singer's water bottle",
-        "aliases": [
-          "water bottle"
         ],
         "points": 6
       }
@@ -812,17 +822,18 @@
         "points": 18
       },
       {
-        "text": "A hangover",
+        "text": "Way too many concert videos",
         "aliases": [
-          "headache from drinking"
+          "phone full of videos",
+          "camera roll"
         ],
         "points": 13
       },
       {
-        "text": "Merchandise",
+        "text": "An expensive tour shirt",
         "aliases": [
-          "concert t shirt",
-          "tour shirt"
+          "merch",
+          "tour merch"
         ],
         "points": 9
       },
@@ -1011,9 +1022,10 @@
         "points": 18
       },
       {
-        "text": "Novelty songs",
+        "text": "A playlist of internet meme songs",
         "aliases": [
-          "comedy songs"
+          "meme songs",
+          "joke tracks"
         ],
         "points": 13
       },
@@ -1025,9 +1037,10 @@
         "points": 9
       },
       {
-        "text": "Christmas music in summer",
+        "text": "Your old middle-school favorites",
         "aliases": [
-          "holiday songs"
+          "middle school playlist",
+          "old school favorites"
         ],
         "points": 6
       }
@@ -1102,9 +1115,10 @@
         "points": 25
       },
       {
-        "text": "Explicit songs around children",
+        "text": "The song is wildly explicit",
         "aliases": [
-          "swearing"
+          "explicit lyrics",
+          "swearing in the songs"
         ],
         "points": 17
       },
@@ -1123,9 +1137,10 @@
         "points": 8
       },
       {
-        "text": "Phone battery dies",
+        "text": "The phone won't connect",
         "aliases": [
-          "dead phone"
+          "Bluetooth fails",
+          "speaker disconnects"
         ],
         "points": 5
       }
@@ -1382,45 +1397,47 @@
     "prompt": "Name something you'd buy just because your favorite singer put their name on it.",
     "answers": [
       {
-        "text": "Perfume",
-        "aliases": [
-          "fragrance"
-        ],
-        "points": 34
-      },
-      {
         "text": "Tour T-shirts",
         "aliases": [
           "tour shirt",
           "band t shirt"
         ],
+        "points": 34
+      },
+      {
+        "text": "A limited-edition hoodie",
+        "aliases": [
+          "collab hoodie",
+          "sweatshirt"
+        ],
         "points": 25
+      },
+      {
+        "text": "A signed vinyl",
+        "aliases": [
+          "signed record",
+          "vinyl pressing"
+        ],
+        "points": 17
+      },
+      {
+        "text": "Perfume",
+        "aliases": [
+          "fragrance"
+        ],
+        "points": 11
       },
       {
         "text": "Makeup",
         "aliases": [
           "cosmetics"
         ],
-        "points": 17
-      },
-      {
-        "text": "A drink",
-        "aliases": [
-          "beverage"
-        ],
-        "points": 11
+        "points": 8
       },
       {
         "text": "Shoes",
         "aliases": [
           "trainers"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Headphones",
-        "aliases": [
-          "earphones"
         ],
         "points": 5
       }
@@ -1628,30 +1645,32 @@
     "prompt": "Name something passengers argue about when music is playing in the car.",
     "answers": [
       {
+        "text": "Who gets the aux",
+        "aliases": [
+          "who connects",
+          "Bluetooth control"
+        ],
+        "points": 28
+      },
+      {
         "text": "The volume",
         "aliases": [
           "how loud"
         ],
-        "points": 28
+        "points": 24
       },
       {
         "text": "The genre",
         "aliases": [
           "type of music"
         ],
-        "points": 24
-      },
-      {
-        "text": "Who chooses the songs",
-        "aliases": [
-          "who gets the aux"
-        ],
         "points": 19
       },
       {
-        "text": "The radio station",
+        "text": "Skipping halfway through a song",
         "aliases": [
-          "station"
+          "skipping songs",
+          "cutting songs short"
         ],
         "points": 13
       },
@@ -1663,9 +1682,10 @@
         "points": 10
       },
       {
-        "text": "Repeating a song",
+        "text": "Their music app keeps playing ads",
         "aliases": [
-          "same song again"
+          "ads between songs",
+          "commercials"
         ],
         "points": 6
       }
@@ -1908,9 +1928,10 @@
         "points": 9
       },
       {
-        "text": "Record label",
+        "text": "Their online persona",
         "aliases": [
-          "label"
+          "new social account",
+          "change their social presence"
         ],
         "points": 6
       }
@@ -1922,9 +1943,9 @@
     "prompt": "Name a reason someone joins a band despite having little musical talent.",
     "answers": [
       {
-        "text": "Get dates",
+        "text": "Hang out with friends",
         "aliases": [
-          "attract people"
+          "friends"
         ],
         "points": 28
       },
@@ -1936,9 +1957,9 @@
         "points": 24
       },
       {
-        "text": "Hang out with friends",
+        "text": "Look cool",
         "aliases": [
-          "friends"
+          "cool image"
         ],
         "points": 19
       },
@@ -1950,16 +1971,17 @@
         "points": 13
       },
       {
-        "text": "Look cool",
+        "text": "Get dates",
         "aliases": [
-          "cool image"
+          "attract people"
         ],
         "points": 10
       },
       {
-        "text": "Get into parties",
+        "text": "Get clips to post",
         "aliases": [
-          "free parties"
+          "make videos",
+          "post performances"
         ],
         "points": 6
       }
@@ -1978,9 +2000,10 @@
         "points": 34
       },
       {
-        "text": "Call old friends",
+        "text": "Send it to the group chat",
         "aliases": [
-          "message friends"
+          "text my friends",
+          "share the news"
         ],
         "points": 25
       },
@@ -1992,9 +2015,10 @@
         "points": 17
       },
       {
-        "text": "Post online",
+        "text": "Post an old concert clip",
         "aliases": [
-          "social media"
+          "post a video",
+          "post online"
         ],
         "points": 11
       },
@@ -2020,9 +2044,9 @@
     "prompt": "Name something teenagers might use when inventing a ridiculous band name.",
     "answers": [
       {
-        "text": "A pet's name",
+        "text": "An inside joke",
         "aliases": [
-          "pet name"
+          "private joke"
         ],
         "points": 29
       },
@@ -2034,9 +2058,10 @@
         "points": 24
       },
       {
-        "text": "An inside joke",
+        "text": "A name that sounds like a username",
         "aliases": [
-          "private joke"
+          "username",
+          "online handle"
         ],
         "points": 18
       },
@@ -2048,9 +2073,10 @@
         "points": 13
       },
       {
-        "text": "Their hometown",
+        "text": "A misheard lyric",
         "aliases": [
-          "town name"
+          "wrong lyric",
+          "song lyric"
         ],
         "points": 10
       },
@@ -2435,16 +2461,18 @@
         "points": 18
       },
       {
-        "text": "A child",
+        "text": "The person who always grabs the karaoke mic",
         "aliases": [
-          "kid"
+          "karaoke regular",
+          "mic hog"
         ],
         "points": 12
       },
       {
-        "text": "A drunk uncle",
+        "text": "A friend who won't stop singing in the car",
         "aliases": [
-          "uncle"
+          "friend singing along",
+          "loud friend"
         ],
         "points": 8
       },
@@ -2666,9 +2694,10 @@
         "points": 35
       },
       {
-        "text": "Fake crying",
+        "text": "Fake crying into the front camera",
         "aliases": [
-          "crocodile tears"
+          "fake crying",
+          "forced tears"
         ],
         "points": 25
       },
@@ -2680,9 +2709,10 @@
         "points": 16
       },
       {
-        "text": "Promotes a sponsor",
+        "text": "Plugs their sponsor",
         "aliases": [
-          "advertises"
+          "promotes a sponsor",
+          "ad read"
         ],
         "points": 11
       },
@@ -2694,9 +2724,10 @@
         "points": 8
       },
       {
-        "text": "Gets the person's name wrong",
+        "text": "Just posts a Notes app screenshot",
         "aliases": [
-          "wrong name"
+          "Notes app apology",
+          "screenshots of a statement"
         ],
         "points": 5
       }
@@ -2806,37 +2837,39 @@
     "prompt": "Name something you'd do if your pet became famous.",
     "answers": [
       {
-        "text": "Quit your job",
+        "text": "Make them their own account",
         "aliases": [
-          "stop working"
+          "start a pet account",
+          "pet Instagram"
         ],
         "points": 28
-      },
-      {
-        "text": "Hire an agent",
-        "aliases": [
-          "get a manager"
-        ],
-        "points": 24
       },
       {
         "text": "Sell merchandise",
         "aliases": [
           "make merch"
         ],
-        "points": 19
-      },
-      {
-        "text": "Buy a bigger house",
-        "aliases": [
-          "move house"
-        ],
-        "points": 13
+        "points": 24
       },
       {
         "text": "Show the pet off",
         "aliases": [
           "brag about it"
+        ],
+        "points": 19
+      },
+      {
+        "text": "Get free pet food",
+        "aliases": [
+          "a pet food sponsorship",
+          "pet brand deal"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Quit your job",
+        "aliases": [
+          "stop working"
         ],
         "points": 10
       },
@@ -2883,9 +2916,10 @@
         "points": 11
       },
       {
-        "text": "Hires an assistant",
+        "text": "Adds 'public figure' to their bio",
         "aliases": [
-          "gets an assistant"
+          "changes their bio",
+          "influencer bio"
         ],
         "points": 8
       },
@@ -2967,9 +3001,10 @@
         "points": 25
       },
       {
-        "text": "A private jet",
+        "text": "A driver on call",
         "aliases": [
-          "private plane"
+          "chauffeur",
+          "private driver"
         ],
         "points": 16
       },
@@ -3025,9 +3060,10 @@
         "points": 18
       },
       {
-        "text": "Being told what to do",
+        "text": "People turning my worst moments into clips",
         "aliases": [
-          "staged scenes"
+          "getting clipped",
+          "reaction clips"
         ],
         "points": 12
       },
@@ -3039,9 +3075,10 @@
         "points": 8
       },
       {
-        "text": "Misleading editing",
+        "text": "A misleading edit",
         "aliases": [
-          "bad edit"
+          "bad editing",
+          "out of context"
         ],
         "points": 6
       }
@@ -3256,38 +3293,39 @@
         "points": 35
       },
       {
-        "text": "They charge for an autograph",
-        "aliases": [
-          "paid autograph",
-          "expensive autograph"
-        ],
-        "points": 25
-      },
-      {
         "text": "They refuse a photo",
         "aliases": [
           "no selfie"
         ],
-        "points": 16
-      },
-      {
-        "text": "They smell bad",
-        "aliases": [
-          "bad odor"
-        ],
-        "points": 11
-      },
-      {
-        "text": "They're boring",
-        "aliases": [
-          "no personality"
-        ],
-        "points": 8
+        "points": 25
       },
       {
         "text": "They ignore you",
         "aliases": [
           "won't acknowledge you"
+        ],
+        "points": 16
+      },
+      {
+        "text": "They spend the whole time on their phone",
+        "aliases": [
+          "looks at their phone",
+          "ignores you for their phone"
+        ],
+        "points": 11
+      },
+      {
+        "text": "They try to sell you something",
+        "aliases": [
+          "sales pitch",
+          "asks you to buy merch"
+        ],
+        "points": 8
+      },
+      {
+        "text": "They smell bad",
+        "aliases": [
+          "bad odor"
         ],
         "points": 5
       }
@@ -3348,23 +3386,24 @@
     "prompt": "Name something a superfan might spend far too much money to own.",
     "answers": [
       {
-        "text": "Worn stage clothes",
+        "text": "A front-row ticket",
         "aliases": [
-          "used costume"
+          "concert ticket"
         ],
         "points": 30
       },
       {
-        "text": "An autograph",
+        "text": "A meet-and-greet pass",
         "aliases": [
-          "signature"
+          "meeting the star"
         ],
         "points": 24
       },
       {
-        "text": "A front-row ticket",
+        "text": "A signed vinyl or poster",
         "aliases": [
-          "concert ticket"
+          "autograph",
+          "signed merch"
         ],
         "points": 18
       },
@@ -3377,16 +3416,17 @@
         "points": 13
       },
       {
-        "text": "A meet-and-greet pass",
+        "text": "Worn stage clothes",
         "aliases": [
-          "meeting the star"
+          "used costume"
         ],
         "points": 9
       },
       {
-        "text": "A strand of hair",
+        "text": "A piece of an old stage prop",
         "aliases": [
-          "celebrity hair"
+          "stage prop",
+          "tour set piece"
         ],
         "points": 6
       }
@@ -3444,7 +3484,7 @@
   {
     "id": "culture-201",
     "category": "Pop culture",
-    "prompt": "Name a reason a celebrity might avoid their school reunion.",
+    "prompt": "Name a reason a celebrity might avoid visiting their old school.",
     "answers": [
       {
         "text": "An ex",
@@ -3461,9 +3501,10 @@
         "points": 24
       },
       {
-        "text": "Requests for money",
+        "text": "Everyone wants them to follow back",
         "aliases": [
-          "people asking for loans"
+          "follow requests",
+          "asking for a follow"
         ],
         "points": 18
       },
@@ -3484,7 +3525,8 @@
       {
         "text": "People asking for selfies",
         "aliases": [
-          "photo requests"
+          "photo requests",
+          "selfies"
         ],
         "points": 6
       }
@@ -3552,16 +3594,18 @@
         "points": 35
       },
       {
-        "text": "Their assistant",
+        "text": "Posted it on the wrong account",
         "aliases": [
-          "social media manager"
+          "wrong account",
+          "meant for a private account"
         ],
         "points": 25
       },
       {
-        "text": "Being drunk",
+        "text": "Meant to send it privately",
         "aliases": [
-          "alcohol"
+          "meant to DM it",
+          "accidentally posted a DM"
         ],
         "points": 16
       },
@@ -3594,16 +3638,18 @@
     "prompt": "Name a reason an ordinary person could become famous overnight.",
     "answers": [
       {
-        "text": "A viral video",
+        "text": "A video goes viral",
         "aliases": [
-          "viral clip"
+          "viral video",
+          "viral TikTok"
         ],
         "points": 32
       },
       {
-        "text": "Winning a contest",
+        "text": "Winning a reality competition",
         "aliases": [
-          "talent contest"
+          "winning a show",
+          "winning a contest"
         ],
         "points": 24
       },
@@ -3629,9 +3675,10 @@
         "points": 8
       },
       {
-        "text": "Winning the lottery",
+        "text": "Gets spotted by a big creator",
         "aliases": [
-          "lottery winner"
+          "creator shoutout",
+          "famous creator mentions them"
         ],
         "points": 6
       }
@@ -3839,10 +3886,10 @@
     "prompt": "Name something you would hate to become famous for.",
     "answers": [
       {
-        "text": "An embarrassing typo",
+        "text": "An unflattering reaction clip",
         "aliases": [
-          "bad tweet",
-          "unfortunate typo"
+          "being a reaction meme",
+          "viral face"
         ],
         "points": 35
       },
@@ -3854,30 +3901,31 @@
         "points": 25
       },
       {
+        "text": "An old post everyone makes fun of",
+        "aliases": [
+          "embarrassing old post",
+          "old tweet"
+        ],
+        "points": 16
+      },
+      {
         "text": "A public tantrum",
         "aliases": [
           "angry outburst"
         ],
-        "points": 16
+        "points": 11
       },
       {
         "text": "Terrible singing",
         "aliases": [
           "bad singing"
         ],
-        "points": 11
+        "points": 8
       },
       {
         "text": "A wardrobe malfunction",
         "aliases": [
           "clothes falling off"
-        ],
-        "points": 8
-      },
-      {
-        "text": "Dating someone famous",
-        "aliases": [
-          "celebrity ex"
         ],
         "points": 5
       }
@@ -3889,23 +3937,26 @@
     "prompt": "Name something a singer might try when the hit songs stop coming.",
     "answers": [
       {
-        "text": "A reality show",
+        "text": "Drop a surprise collab",
         "aliases": [
-          "reality television"
+          "unexpected feature",
+          "surprise feature"
         ],
         "points": 32
       },
       {
-        "text": "Create a scandal",
+        "text": "Remix an old hit",
         "aliases": [
-          "publicity stunt"
+          "remix",
+          "rework their biggest hit"
         ],
         "points": 24
       },
       {
-        "text": "Collaborate with a younger star",
+        "text": "Try a different genre",
         "aliases": [
-          "duet with new artist"
+          "change genres",
+          "make a different kind of music"
         ],
         "points": 18
       },
@@ -3917,16 +3968,16 @@
         "points": 12
       },
       {
-        "text": "Launch a product",
+        "text": "Become an influencer",
         "aliases": [
-          "sell products"
+          "social media career"
         ],
         "points": 8
       },
       {
-        "text": "Become an influencer",
+        "text": "A reality show",
         "aliases": [
-          "social media career"
+          "reality television"
         ],
         "points": 6
       }
@@ -4036,8 +4087,9 @@
     "prompt": "Name something a famous person would hate to have leaked.",
     "answers": [
       {
-        "text": "Private texts",
+        "text": "Private DMs",
         "aliases": [
+          "private texts",
           "messages"
         ],
         "points": 34
@@ -4064,9 +4116,10 @@
         "points": 11
       },
       {
-        "text": "Their salary",
+        "text": "An alternate account",
         "aliases": [
-          "pay"
+          "secret account",
+          "burner account"
         ],
         "points": 8
       },

@@ -110,9 +110,9 @@
         "points": 30
       },
       {
-        "text": "TV remote",
+        "text": "Cleaning schedule",
         "aliases": [
-          "television"
+          "chore rota"
         ],
         "points": 24
       },
@@ -124,23 +124,24 @@
         "points": 18
       },
       {
-        "text": "Cleaning schedule",
+        "text": "Who comes over",
         "aliases": [
-          "chore rota"
+          "having friends over",
+          "visitors"
         ],
         "points": 13
+      },
+      {
+        "text": "TV remote",
+        "aliases": [
+          "television"
+        ],
+        "points": 9
       },
       {
         "text": "Parking space",
         "aliases": [
           "parking spot"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Decorating",
-        "aliases": [
-          "home decor"
         ],
         "points": 6
       }
@@ -306,23 +307,24 @@
         "points": 30
       },
       {
-        "text": "Red wine",
+        "text": "Greasy food",
         "aliases": [
-          "wine glass"
+          "pizza slice"
         ],
         "points": 24
+      },
+      {
+        "text": "A spilled drink",
+        "aliases": [
+          "soda",
+          "juice"
+        ],
+        "points": 18
       },
       {
         "text": "Sharp claws",
         "aliases": [
           "cat claws"
-        ],
-        "points": 18
-      },
-      {
-        "text": "A lit cigarette",
-        "aliases": [
-          "cigarette"
         ],
         "points": 13
       },
@@ -334,9 +336,9 @@
         "points": 9
       },
       {
-        "text": "Greasy food",
+        "text": "Makeup",
         "aliases": [
-          "pizza slice"
+          "foundation"
         ],
         "points": 6
       }
@@ -509,23 +511,24 @@
         "points": 24
       },
       {
-        "text": "Broken things",
+        "text": "Expired food",
         "aliases": [
-          "broken gadgets"
+          "out of date food"
         ],
         "points": 18
       },
       {
-        "text": "Old magazines",
+        "text": "Broken things",
         "aliases": [
-          "magazine pile"
+          "broken gadgets"
         ],
         "points": 13
       },
       {
-        "text": "Expired food",
+        "text": "Old cables",
         "aliases": [
-          "out of date food"
+          "random chargers",
+          "cords"
         ],
         "points": 9
       },
@@ -558,30 +561,31 @@
         "points": 24
       },
       {
-        "text": "An unpaid bill",
+        "text": "A sticky spill",
         "aliases": [
-          "overdue bill"
+          "spilled drink"
         ],
         "points": 18
+      },
+      {
+        "text": "A buzzing phone",
+        "aliases": [
+          "ringing phone",
+          "loud phone"
+        ],
+        "points": 13
       },
       {
         "text": "Crumbs",
         "aliases": [
           "food crumbs"
         ],
-        "points": 13
-      },
-      {
-        "text": "A sticky spill",
-        "aliases": [
-          "spilled drink"
-        ],
         "points": 9
       },
       {
-        "text": "Dirty shoes",
+        "text": "An unpaid bill",
         "aliases": [
-          "muddy shoes"
+          "overdue bill"
         ],
         "points": 6
       }
@@ -691,44 +695,45 @@
     "prompt": "Name a clue that a bedroom belongs to a teenager.",
     "answers": [
       {
-        "text": "Posters",
-        "aliases": [
-          "wall posters"
-        ],
-        "points": 30
-      },
-      {
         "text": "Dirty clothes on the floor",
         "aliases": [
           "laundry pile"
         ],
-        "points": 24
+        "points": 30
       },
       {
         "text": "Game console",
         "aliases": [
           "gaming setup"
         ],
+        "points": 24
+      },
+      {
+        "text": "LED lights",
+        "aliases": [
+          "led strips",
+          "string lights"
+        ],
         "points": 18
+      },
+      {
+        "text": "Posters",
+        "aliases": [
+          "wall posters"
+        ],
+        "points": 13
       },
       {
         "text": "Snack wrappers",
         "aliases": [
           "empty chip bags"
         ],
-        "points": 13
+        "points": 9
       },
       {
         "text": "Schoolbooks",
         "aliases": [
           "homework"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Trophies",
-        "aliases": [
-          "sports medals"
         ],
         "points": 6
       }
@@ -943,30 +948,30 @@
         "points": 30
       },
       {
-        "text": "Home office",
-        "aliases": [
-          "study"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Home gym",
-        "aliases": [
-          "exercise room"
-        ],
-        "points": 18
-      },
-      {
         "text": "Gaming room",
         "aliases": [
           "game room"
         ],
-        "points": 13
+        "points": 24
+      },
+      {
+        "text": "Home office",
+        "aliases": [
+          "study"
+        ],
+        "points": 18
       },
       {
         "text": "Laundry dumping ground",
         "aliases": [
           "clothes room"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Home gym",
+        "aliases": [
+          "exercise room"
         ],
         "points": 9
       },
@@ -999,16 +1004,16 @@
         "points": 24
       },
       {
-        "text": "Inside the oven",
+        "text": "Inside the fridge",
         "aliases": [
-          "oven"
+          "refrigerator"
         ],
         "points": 18
       },
       {
-        "text": "Top of the refrigerator",
+        "text": "Inside the oven",
         "aliases": [
-          "top of the fridge"
+          "oven"
         ],
         "points": 13
       },
@@ -1041,16 +1046,16 @@
         "points": 30
       },
       {
-        "text": "Paper towels",
+        "text": "Wet wipes",
         "aliases": [
-          "kitchen roll"
+          "baby wipes"
         ],
         "points": 24
       },
       {
-        "text": "Wet wipes",
+        "text": "Paper towels",
         "aliases": [
-          "baby wipes"
+          "kitchen roll"
         ],
         "points": 18
       },
@@ -1062,9 +1067,9 @@
         "points": 13
       },
       {
-        "text": "Newspaper",
+        "text": "Phone",
         "aliases": [
-          "newspaper pages"
+          "text someone for a roll"
         ],
         "points": 9
       },
@@ -1227,7 +1232,7 @@
   {
     "id": "everyday-066",
     "category": "Everyday life",
-    "prompt": "Name a reason a couple argues while deciding where the sofa should go.",
+    "prompt": "Name a reason roommates argue while deciding where the sofa should go.",
     "answers": [
       {
         "text": "Can't see the TV",
@@ -1237,16 +1242,16 @@
         "points": 30
       },
       {
-        "text": "Blocks the walkway",
+        "text": "Won't fit",
         "aliases": [
-          "can't walk past"
+          "wrong measurements"
         ],
         "points": 24
       },
       {
-        "text": "Takes up too much space",
+        "text": "Blocks the walkway",
         "aliases": [
-          "room feels crowded"
+          "can't walk past"
         ],
         "points": 18
       },
@@ -1258,16 +1263,16 @@
         "points": 13
       },
       {
-        "text": "One prefers the old layout",
+        "text": "Takes up too much space",
         "aliases": [
-          "doesn't want to move it"
+          "room feels crowded"
         ],
         "points": 9
       },
       {
-        "text": "Won't fit",
+        "text": "One prefers the old layout",
         "aliases": [
-          "wrong measurements"
+          "doesn't want to move it"
         ],
         "points": 6
       }
@@ -1279,44 +1284,44 @@
     "prompt": "Name something people wipe with their shirt when they can't find a cloth.",
     "answers": [
       {
-        "text": "Glasses",
-        "aliases": [
-          "eyeglasses"
-        ],
-        "points": 30
-      },
-      {
         "text": "Phone screen",
         "aliases": [
           "cellphone"
         ],
+        "points": 30
+      },
+      {
+        "text": "Glasses",
+        "aliases": [
+          "eyeglasses"
+        ],
         "points": 24
+      },
+      {
+        "text": "A small spill",
+        "aliases": [
+          "spilled water"
+        ],
+        "points": 18
       },
       {
         "text": "Camera lens",
         "aliases": [
           "camera"
         ],
-        "points": 18
+        "points": 13
       },
       {
         "text": "Watch face",
         "aliases": [
           "wristwatch"
         ],
-        "points": 13
-      },
-      {
-        "text": "A wet seat",
-        "aliases": [
-          "wet chair"
-        ],
         "points": 9
       },
       {
-        "text": "A small spill",
+        "text": "A laptop screen",
         "aliases": [
-          "spilled water"
+          "computer screen"
         ],
         "points": 6
       }
@@ -1580,37 +1585,37 @@
         "points": 30
       },
       {
-        "text": "Bed",
-        "aliases": [
-          "on the bed"
-        ],
-        "points": 24
-      },
-      {
         "text": "Chair",
         "aliases": [
           "laundry chair"
         ],
-        "points": 18
+        "points": 24
       },
       {
-        "text": "Floor",
+        "text": "Bed",
         "aliases": [
-          "on the floor"
+          "on the bed"
         ],
-        "points": 13
+        "points": 18
       },
       {
         "text": "Dryer",
         "aliases": [
           "tumble dryer"
         ],
+        "points": 13
+      },
+      {
+        "text": "Floor",
+        "aliases": [
+          "on the floor"
+        ],
         "points": 9
       },
       {
-        "text": "Spare room",
+        "text": "On top of the dresser",
         "aliases": [
-          "guest room"
+          "dresser"
         ],
         "points": 6
       }
@@ -1776,16 +1781,16 @@
         "points": 30
       },
       {
-        "text": "Lights a candle",
+        "text": "Opens a window",
         "aliases": [
-          "scented candle"
+          "lets air in"
         ],
         "points": 24
       },
       {
-        "text": "Opens a window",
+        "text": "Lights a candle",
         "aliases": [
-          "lets air in"
+          "scented candle"
         ],
         "points": 18
       },
@@ -1917,44 +1922,44 @@
     "prompt": "Name a kitchen gadget people buy with big plans and barely use.",
     "answers": [
       {
-        "text": "Bread maker",
+        "text": "Blender",
         "aliases": [
-          "bread machine"
+          "smoothie blender"
         ],
         "points": 30
+      },
+      {
+        "text": "Air fryer",
+        "aliases": [
+          "airfryer"
+        ],
+        "points": 24
       },
       {
         "text": "Juicer",
         "aliases": [
           "juice machine"
         ],
-        "points": 24
-      },
-      {
-        "text": "Pasta maker",
-        "aliases": [
-          "pasta machine"
-        ],
         "points": 18
-      },
-      {
-        "text": "Ice cream maker",
-        "aliases": [
-          "ice cream machine"
-        ],
-        "points": 13
       },
       {
         "text": "Waffle iron",
         "aliases": [
           "waffle maker"
         ],
+        "points": 13
+      },
+      {
+        "text": "Bread maker",
+        "aliases": [
+          "bread machine"
+        ],
         "points": 9
       },
       {
-        "text": "Spiralizer",
+        "text": "Ice cream maker",
         "aliases": [
-          "vegetable spiralizer"
+          "ice cream machine"
         ],
         "points": 6
       }
@@ -1966,23 +1971,23 @@
     "prompt": "The washing machine breaks. Name something you might try before calling a repair person.",
     "answers": [
       {
+        "text": "Search online",
+        "aliases": [
+          "watch a tutorial"
+        ],
+        "points": 30
+      },
+      {
         "text": "Restart it",
         "aliases": [
           "turn it off and on"
         ],
-        "points": 30
+        "points": 24
       },
       {
         "text": "Check the plug",
         "aliases": [
           "plug it in"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Search online",
-        "aliases": [
-          "watch a tutorial"
         ],
         "points": 18
       },
@@ -2113,30 +2118,30 @@
     "prompt": "Name an excuse someone gives when they don't want a friend sleeping at their place.",
     "answers": [
       {
-        "text": "No spare bed",
-        "aliases": [
-          "nowhere to sleep"
-        ],
-        "points": 30
-      },
-      {
         "text": "Place is a mess",
         "aliases": [
           "house is dirty"
         ],
-        "points": 24
+        "points": 30
       },
       {
         "text": "Early start tomorrow",
         "aliases": [
           "work early"
         ],
-        "points": 18
+        "points": 24
       },
       {
         "text": "Roommate won't allow it",
         "aliases": [
           "roommate objects"
+        ],
+        "points": 18
+      },
+      {
+        "text": "No spare bed",
+        "aliases": [
+          "nowhere to sleep"
         ],
         "points": 13
       },
@@ -2183,9 +2188,10 @@
         "points": 18
       },
       {
-        "text": "Have children",
+        "text": "Have a gaming setup",
         "aliases": [
-          "start a family"
+          "game room",
+          "desk setup"
         ],
         "points": 13
       },
@@ -2218,30 +2224,30 @@
         "points": 30
       },
       {
-        "text": "Scissors",
+        "text": "Charger",
         "aliases": [
-          "pair of scissors"
+          "phone charger"
         ],
         "points": 24
-      },
-      {
-        "text": "Tape",
-        "aliases": [
-          "sticky tape"
-        ],
-        "points": 18
       },
       {
         "text": "Remote",
         "aliases": [
           "TV remote"
         ],
+        "points": 18
+      },
+      {
+        "text": "Scissors",
+        "aliases": [
+          "pair of scissors"
+        ],
         "points": 13
       },
       {
-        "text": "Charger",
+        "text": "Tape",
         "aliases": [
-          "phone charger"
+          "sticky tape"
         ],
         "points": 9
       },
@@ -2309,23 +2315,24 @@
     "prompt": "Name something a host can't find after everyone has left the party.",
     "answers": [
       {
-        "text": "Drinking glasses",
+        "text": "A charger",
         "aliases": [
-          "cups"
+          "charging cable"
         ],
         "points": 30
       },
       {
-        "text": "Bottle opener",
+        "text": "Drinking glasses",
         "aliases": [
-          "opener"
+          "cups"
         ],
         "points": 24
       },
       {
-        "text": "Serving bowls",
+        "text": "A jacket",
         "aliases": [
-          "salad bowl"
+          "hoodie",
+          "coat"
         ],
         "points": 18
       },
@@ -2337,16 +2344,16 @@
         "points": 13
       },
       {
-        "text": "Lighter",
+        "text": "Bottle opener",
         "aliases": [
-          "candle lighter"
+          "opener"
         ],
         "points": 9
       },
       {
-        "text": "Dish towel",
+        "text": "Serving bowls",
         "aliases": [
-          "tea towel"
+          "salad bowl"
         ],
         "points": 6
       }
@@ -2365,37 +2372,38 @@
         "points": 30
       },
       {
-        "text": "Renovating",
+        "text": "Place is a mess",
         "aliases": [
-          "building work"
+          "haven't cleaned"
         ],
         "points": 24
-      },
-      {
-        "text": "Neighbors complain",
-        "aliases": [
-          "noise complaints"
-        ],
-        "points": 18
       },
       {
         "text": "Already hosted last time",
         "aliases": [
           "it's someone else's turn"
         ],
+        "points": 18
+      },
+      {
+        "text": "Roommates are home",
+        "aliases": [
+          "shared place",
+          "roommates said no"
+        ],
         "points": 13
       },
       {
-        "text": "Kids need to sleep",
+        "text": "Neighbors complain",
         "aliases": [
-          "children asleep"
+          "noise complaints"
         ],
         "points": 9
       },
       {
-        "text": "Place is a mess",
+        "text": "Family rules",
         "aliases": [
-          "haven't cleaned"
+          "parents won't let me"
         ],
         "points": 6
       }
@@ -3289,44 +3297,45 @@
     "prompt": "Name something in a front yard that makes a house easy to recognize.",
     "answers": [
       {
-        "text": "Giant statue",
+        "text": "Holiday lights",
         "aliases": [
-          "big ornament"
+          "Christmas display"
         ],
         "points": 30
-      },
-      {
-        "text": "Pink flamingos",
-        "aliases": [
-          "lawn flamingo"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Old car",
-        "aliases": [
-          "rusty car"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Bright mailbox",
-        "aliases": [
-          "colorful mailbox"
-        ],
-        "points": 13
       },
       {
         "text": "Flag",
         "aliases": [
           "flags"
         ],
+        "points": 24
+      },
+      {
+        "text": "Bright mailbox",
+        "aliases": [
+          "colorful mailbox"
+        ],
+        "points": 18
+      },
+      {
+        "text": "Mural",
+        "aliases": [
+          "painted wall",
+          "wall art"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Old car",
+        "aliases": [
+          "rusty car"
+        ],
         "points": 9
       },
       {
-        "text": "Holiday lights",
+        "text": "Giant statue",
         "aliases": [
-          "Christmas display"
+          "big ornament"
         ],
         "points": 6
       }
@@ -3499,16 +3508,16 @@
         "points": 24
       },
       {
-        "text": "Whether they smoke",
+        "text": "Sleep schedule",
         "aliases": [
-          "smoking habits"
+          "when they go to bed"
         ],
         "points": 18
       },
       {
-        "text": "Sleep schedule",
+        "text": "Visitors",
         "aliases": [
-          "when they go to bed"
+          "how often they have guests"
         ],
         "points": 13
       },
@@ -3520,9 +3529,9 @@
         "points": 9
       },
       {
-        "text": "Visitors",
+        "text": "Whether they smoke",
         "aliases": [
-          "how often they have guests"
+          "smoking habits"
         ],
         "points": 6
       }
@@ -3534,9 +3543,9 @@
     "prompt": "Name something you might have to chase down the street on a windy day.",
     "answers": [
       {
-        "text": "Trash can",
+        "text": "Hat",
         "aliases": [
-          "garbage bin"
+          "cap"
         ],
         "points": 30
       },
@@ -3548,30 +3557,31 @@
         "points": 24
       },
       {
-        "text": "Hat",
+        "text": "Trash can",
         "aliases": [
-          "cap"
+          "garbage bin"
         ],
         "points": 18
+      },
+      {
+        "text": "Receipts",
+        "aliases": [
+          "papers",
+          "loose paper"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Shopping bag",
+        "aliases": [
+          "plastic bag"
+        ],
+        "points": 9
       },
       {
         "text": "Garden cushion",
         "aliases": [
           "patio cushion"
-        ],
-        "points": 13
-      },
-      {
-        "text": "Washing",
-        "aliases": [
-          "clothes off the line"
-        ],
-        "points": 9
-      },
-      {
-        "text": "Newspaper",
-        "aliases": [
-          "loose newspaper"
         ],
         "points": 6
       }
@@ -3786,16 +3796,17 @@
         "points": 30
       },
       {
-        "text": "How much they drink",
+        "text": "They order everything online",
         "aliases": [
-          "empty alcohol bottles"
+          "lots of packages",
+          "delivery boxes"
         ],
         "points": 24
       },
       {
-        "text": "They have a baby",
+        "text": "Had a party",
         "aliases": [
-          "diapers"
+          "party rubbish"
         ],
         "points": 18
       },
@@ -3814,9 +3825,9 @@
         "points": 9
       },
       {
-        "text": "Had a party",
+        "text": "How much they drink",
         "aliases": [
-          "party rubbish"
+          "empty alcohol bottles"
         ],
         "points": 6
       }
@@ -3877,44 +3888,45 @@
     "prompt": "Name something someone accuses a neighbor of taking.",
     "answers": [
       {
-        "text": "Parking spot",
-        "aliases": [
-          "parking space"
-        ],
-        "points": 30
-      },
-      {
         "text": "Package",
         "aliases": [
           "parcel"
         ],
-        "points": 24
+        "points": 30
       },
       {
-        "text": "Newspaper",
+        "text": "Parking spot",
         "aliases": [
-          "paper delivery"
+          "parking space"
         ],
-        "points": 18
+        "points": 24
       },
       {
         "text": "Tools",
         "aliases": [
           "borrowed tools"
         ],
-        "points": 13
+        "points": 18
       },
       {
         "text": "Ball",
         "aliases": [
           "child's ball"
         ],
-        "points": 9
+        "points": 13
       },
       {
         "text": "Flowers",
         "aliases": [
           "picked flowers"
+        ],
+        "points": 9
+      },
+      {
+        "text": "A delivered meal",
+        "aliases": [
+          "food order",
+          "takeout"
         ],
         "points": 6
       }
@@ -4038,23 +4050,24 @@
         "points": 24
       },
       {
-        "text": "Crates of drinks",
+        "text": "People already shouting",
         "aliases": [
-          "coolers arriving"
+          "loud guests"
         ],
         "points": 18
       },
       {
-        "text": "A DJ",
+        "text": "A karaoke setup",
         "aliases": [
-          "DJ setting up"
+          "karaoke",
+          "microphones"
         ],
         "points": 13
       },
       {
-        "text": "People already shouting",
+        "text": "Crates of drinks",
         "aliases": [
-          "loud guests"
+          "coolers arriving"
         ],
         "points": 9
       },
@@ -4179,37 +4192,37 @@
         "points": 30
       },
       {
-        "text": "Partner",
+        "text": "Parent",
         "aliases": [
-          "spouse"
+          "mom or dad"
         ],
         "points": 24
-      },
-      {
-        "text": "Locksmith",
-        "aliases": [
-          "lock service"
-        ],
-        "points": 18
       },
       {
         "text": "Landlord",
         "aliases": [
           "property manager"
         ],
-        "points": 13
+        "points": 18
       },
       {
-        "text": "Parent",
+        "text": "Partner",
         "aliases": [
-          "mom or dad"
+          "spouse"
         ],
-        "points": 9
+        "points": 13
       },
       {
         "text": "Neighbor",
         "aliases": [
           "person next door"
+        ],
+        "points": 9
+      },
+      {
+        "text": "Locksmith",
+        "aliases": [
+          "lock service"
         ],
         "points": 6
       }

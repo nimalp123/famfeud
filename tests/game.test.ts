@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { addPlayer, advanceTime, applyAction, createRoom, startGame, toRoomView, validateSettings } from "../lib/game.ts";
+import { playableQuestion, readQuestionBank } from "../lib/question-bank.ts";
 import type { GameMode, Player, Question, RoomState } from "../lib/types.ts";
 
 const NOW = 1_000_000;
@@ -225,4 +226,79 @@ test("tied fuzzy answers do not claim either answer even with multiple matching 
   assert.deepEqual(room.round?.revealed, {});
   assert.equal(room.players[0].score, 0);
   assert.equal(room.round?.playerStrikes.p1, 1);
+});
+
+function bankGame(id: string, mode: GameMode = "solo"): RoomState {
+  const board = readQuestionBank().find((entry) => entry.id === id);
+  assert.ok(board, id);
+  return startGame(lobby(mode), [playableQuestion(board), question("q2"), question("q3")], "bank", NOW);
+}
+
+test("natural paraphrases score the existing Keep chatting answer in both modes", () => {
+  for (const mode of ["solo", "teams"] as const) {
+    for (const guess of ["talk", "start talking", "chit-chat", "keep talking", "yapping", "have a conversation", "I'd say chat for a while"]) {
+      const room = applyAction(bankGame("food-063", mode), "p1", { type: "guess", guess }, NOW + 1000);
+      assert.equal(room.players[0].score, 24, guess);
+      assert.equal(room.round?.revealed["food-063-2"], "p1", guess);
+      assert.throws(() => applyAction(room, "p1", { type: "guess", guess: "talk" }, NOW + 2000), /already on the board/);
+    }
+  }
+});
+
+test("a broad guess does not choose between opposed answers", () => {
+  let room = applyAction(bankGame("everyday-390"), "p1", { type: "guess", guess: "chat" }, NOW + 1000);
+  assert.deepEqual(room.round?.revealed, {});
+  room = applyAction(room, "p1", { type: "guess", guess: "start talking" }, NOW + 2000);
+  assert.deepEqual(room.round?.revealed, {});
+  room = applyAction(room, "p1", { type: "guess", guess: "stop chatting" }, NOW + 3000);
+  room = applyAction(room, "p2", { type: "guess", guess: "continue chatting" }, NOW + 4000);
+  assert.deepEqual(room.round?.revealed, { "everyday-390-1": "p1", "everyday-390-5": "p2" });
+});
+
+test("equivalent phrasing works across categories and a short guess can name the item", () => {
+  for (const [id, guess, expected] of [
+    ["travel-131", "doze off", "Take a nap"],
+    ["travel-116", "take a pic", "Take a photo"],
+    ["food-063", "coffee", "Order coffee"],
+  ]) {
+    const room = applyAction(bankGame(id), "p1", { type: "guess", guess }, NOW + 1000);
+    const answer = toRoomView(room, NOW + 1000).round?.answers.find(({ text }) => text === expected);
+    assert.ok(answer, guess);
+    assert.equal(room.players[0].score, answer.points, guess);
+  }
+});
+
+test("negation, extra details, and multiple guesses do not receive typo credit", () => {
+  const board = question();
+  board.answers = [
+    { id: "a1", text: "Hot coffee", aliases: [], points: 60 },
+    { id: "a2", text: "Tea", aliases: [], points: 40 },
+  ];
+  const initial = startGame(lobby(), [board, question("q2"), question("q3")], "bank", NOW);
+  for (const guess of ["not coffee", "coffee or tea", "hot coffee cake"]) {
+    const room = applyAction(initial, "p1", { type: "guess", guess }, NOW + 1000);
+    assert.equal(room.players[0].score, 0, guess);
+    assert.equal(room.round?.playerStrikes.p1, 1, guess);
+  }
+});
+
+test("a shared object does not make different actions equivalent", () => {
+  const board = question();
+  board.answers = [
+    { id: "a1", text: "Take out their phone", aliases: [], points: 60 },
+    { id: "a2", text: "Get a mentor", aliases: [], points: 40 },
+  ];
+  const initial = startGame(lobby(), [board, question("q2"), question("q3")], "bank", NOW);
+  for (const guess of ["take away their phone", "order a mentor"]) {
+    const room = applyAction(initial, "p1", { type: "guess", guess }, NOW + 1000);
+    assert.equal(room.players[0].score, 0, guess);
+  }
+});
+
+test("picturing someone does not mean taking a photo of them", () => {
+  const initial = bankGame("games-197");
+  const wrong = applyAction(initial, "p1", { type: "guess", guess: "picture them" }, NOW + 1000);
+  const right = applyAction(initial, "p1", { type: "guess", guess: "take pictures of them" }, NOW + 1000);
+  assert.equal(wrong.players[0].score, 0);
+  assert.equal(right.players[0].score, 24);
 });

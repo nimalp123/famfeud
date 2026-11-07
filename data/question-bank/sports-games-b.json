@@ -705,16 +705,17 @@
         "points": 23
       },
       {
-        "text": "Boys versus girls",
+        "text": "The strongest players all stack one team",
         "aliases": [
-          "gender teams"
+          "stacked teams",
+          "all the best players together"
         ],
         "points": 18
       },
       {
-        "text": "Couples split up",
+        "text": "Put each couple on opposite teams",
         "aliases": [
-          "separate partners"
+          "split couples"
         ],
         "points": 14
       },
@@ -726,9 +727,9 @@
         "points": 10
       },
       {
-        "text": "Last winners stay together",
+        "text": "Let last round’s winners stay together",
         "aliases": [
-          "winning team"
+          "winning team sticks together"
         ],
         "points": 7
       }
@@ -992,37 +993,38 @@
         "points": 30
       },
       {
-        "text": "Coins",
-        "aliases": [
-          "loose change"
-        ],
-        "points": 24
-      },
-      {
         "text": "Candy",
         "aliases": [
           "sweets"
         ],
-        "points": 18
-      },
-      {
-        "text": "Matchsticks",
-        "aliases": [
-          "matches"
-        ],
-        "points": 13
+        "points": 24
       },
       {
         "text": "Buttons",
         "aliases": [
           "spare buttons"
         ],
+        "points": 18
+      },
+      {
+        "text": "Loose change from the couch",
+        "aliases": [
+          "pennies in the cushions"
+        ],
+        "points": 13
+      },
+      {
+        "text": "Tiny pieces of paper",
+        "aliases": [
+          "paper slips",
+          "cut-up paper"
+        ],
         "points": 9
       },
       {
-        "text": "Scraps of paper",
+        "text": "Beans from the kitchen",
         "aliases": [
-          "paper tokens"
+          "dried beans"
         ],
         "points": 6
       }
@@ -1328,9 +1330,10 @@
     "prompt": "Name a reason a friendly card game suddenly becomes serious.",
     "answers": [
       {
-        "text": "Money is involved",
+        "text": "Someone starts keeping a running score",
         "aliases": [
-          "playing for money"
+          "keeps score",
+          "score gets written down"
         ],
         "points": 35
       },
@@ -1364,9 +1367,10 @@
         "points": 8
       },
       {
-        "text": "Someone starts keeping score",
+        "text": "Loser has to do a dare",
         "aliases": [
-          "scorekeeping"
+          "a dare",
+          "loser gets a punishment"
         ],
         "points": 5
       }
@@ -1385,9 +1389,10 @@
         "points": 30
       },
       {
-        "text": "Buying dinner",
+        "text": "Paying for the food order",
         "aliases": [
-          "pay for food"
+          "buying dinner",
+          "pay for delivery"
         ],
         "points": 24
       },
@@ -1399,14 +1404,15 @@
         "points": 18
       },
       {
-        "text": "Wearing a silly outfit",
+        "text": "Posting an embarrassing selfie",
         "aliases": [
-          "funny clothes"
+          "funny selfie",
+          "silly profile pic"
         ],
         "points": 13
       },
       {
-        "text": "Choosing the next movie",
+        "text": "Letting the winner pick the next movie",
         "aliases": [
           "movie choice"
         ],
@@ -1966,44 +1972,47 @@
     "prompt": "Name a sign someone has been playing video games all night.",
     "answers": [
       {
-        "text": "Red eyes",
+        "text": "They oversleep",
         "aliases": [
-          "bloodshot eyes"
+          "sleep through an alarm",
+          "miss the alarm"
         ],
         "points": 30
       },
       {
-        "text": "Falling asleep",
+        "text": "Red eyes",
         "aliases": [
-          "exhausted"
+          "bloodshot eyes"
         ],
         "points": 24
       },
       {
-        "text": "Empty snack wrappers",
+        "text": "Energy drink cans",
         "aliases": [
-          "food packaging"
+          "empty cans",
+          "empty energy drinks"
         ],
         "points": 18
       },
       {
-        "text": "Energy drink cans",
+        "text": "Empty snack wrappers",
         "aliases": [
-          "drink cans"
+          "snack trash"
         ],
         "points": 13
       },
       {
-        "text": "Still wearing yesterday's clothes",
+        "text": "They yawn through class",
         "aliases": [
-          "same clothes"
+          "falling asleep in class",
+          "cannot stay awake"
         ],
         "points": 9
       },
       {
-        "text": "Missing alarms",
+        "text": "They are still wearing yesterday’s clothes",
         "aliases": [
-          "overslept"
+          "same outfit"
         ],
         "points": 6
       }
@@ -2012,47 +2021,51 @@
   {
     "id": "games-082",
     "category": "Sports & games",
-    "prompt": "Name a reason a gamer hides their purchase history.",
+    "prompt": "Name a purchase a gamer would rather their friends never find out about.",
     "answers": [
       {
-        "text": "Spent too much",
+        "text": "Bought way too many skins",
         "aliases": [
-          "overspending"
+          "spent too much on skins",
+          "bought cosmetics"
         ],
         "points": 34
       },
       {
-        "text": "Embarrassing game",
+        "text": "Spent money meant for something else",
         "aliases": [
-          "guilty pleasure"
+          "used their food money",
+          "went over budget"
         ],
         "points": 24
       },
       {
-        "text": "Broke a promise",
+        "text": "Bought a game they made fun of",
         "aliases": [
-          "said no more games"
+          "embarrassing game"
         ],
         "points": 17
       },
       {
-        "text": "Bought a surprise gift",
+        "text": "Forgot to cancel a subscription",
         "aliases": [
-          "secret present"
+          "got charged again",
+          "recurring subscription"
         ],
         "points": 11
       },
       {
-        "text": "Bought the same game twice",
+        "text": "Bought a season pass they barely used",
         "aliases": [
-          "duplicate purchase"
+          "battle pass",
+          "season pass"
         ],
         "points": 8
       },
       {
-        "text": "Bought age-restricted content",
+        "text": "Paid for a game they could have played for free",
         "aliases": [
-          "adult game"
+          "it went free"
         ],
         "points": 6
       }
@@ -2064,37 +2077,39 @@
     "prompt": "Name a reason a gamer says just one more and keeps playing for hours.",
     "answers": [
       {
-        "text": "They nearly won",
-        "aliases": [
-          "so close"
-        ],
-        "points": 28
-      },
-      {
         "text": "Friends are still online",
         "aliases": [
           "playing with friends"
         ],
+        "points": 28
+      },
+      {
+        "text": "They nearly won",
+        "aliases": [
+          "so close"
+        ],
         "points": 23
       },
       {
-        "text": "A new reward",
+        "text": "They’re about to rank up",
         "aliases": [
-          "unlock something"
+          "close to the next rank",
+          "one win from promotion"
         ],
         "points": 18
-      },
-      {
-        "text": "They are on a streak",
-        "aliases": [
-          "winning streak"
-        ],
-        "points": 14
       },
       {
         "text": "They want revenge",
         "aliases": [
           "beat a rival"
+        ],
+        "points": 14
+      },
+      {
+        "text": "A reward is about to unlock",
+        "aliases": [
+          "close to a reward",
+          "almost done with a challenge"
         ],
         "points": 10
       },
@@ -2120,37 +2135,42 @@
         "points": 35
       },
       {
-        "text": "Controller",
+        "text": "Their controller drifts",
         "aliases": [
-          "controls"
+          "stick drift",
+          "bad controller"
         ],
         "points": 25
       },
       {
-        "text": "The game itself",
+        "text": "A buggy update",
         "aliases": [
-          "game design"
+          "the game glitched",
+          "game bugs"
         ],
         "points": 16
       },
       {
-        "text": "The television",
+        "text": "Their frame rate drops",
         "aliases": [
-          "screen"
+          "low FPS",
+          "screen stutter"
         ],
         "points": 11
       },
       {
-        "text": "An interruption",
+        "text": "Someone interrupts them",
         "aliases": [
-          "being disturbed"
+          "someone walks in",
+          "someone bothers them"
         ],
         "points": 8
       },
       {
-        "text": "The chair",
+        "text": "Their headset cuts out",
         "aliases": [
-          "uncomfortable seat"
+          "headset stopped working",
+          "audio drops"
         ],
         "points": 5
       }
@@ -2162,9 +2182,10 @@
     "prompt": "Name a reason you regret handing your controller to a friend.",
     "answers": [
       {
-        "text": "They beat your score",
+        "text": "They ruin your ranked game",
         "aliases": [
-          "better than you"
+          "lose your rank",
+          "mess up the match"
         ],
         "points": 30
       },
@@ -2183,9 +2204,10 @@
         "points": 18
       },
       {
-        "text": "They spend your game money",
+        "text": "They waste your in-game currency",
         "aliases": [
-          "waste currency"
+          "spend my game money",
+          "buy stuff in the game"
         ],
         "points": 13
       },
@@ -2197,9 +2219,10 @@
         "points": 9
       },
       {
-        "text": "They embarrass you in front of everyone",
+        "text": "They start trash-talking on your mic",
         "aliases": [
-          "make fun of skills"
+          "talk into my headset",
+          "use my mic"
         ],
         "points": 6
       }
@@ -2211,37 +2234,40 @@
     "prompt": "Name something gamers forget while saying they are almost finished.",
     "answers": [
       {
+        "text": "Texting someone back",
+        "aliases": [
+          "replying to messages",
+          "forgot to reply"
+        ],
+        "points": 34
+      },
+      {
+        "text": "An assignment due tonight",
+        "aliases": [
+          "homework",
+          "schoolwork"
+        ],
+        "points": 24
+      },
+      {
         "text": "Dinner",
         "aliases": [
           "food"
         ],
-        "points": 34
+        "points": 17
       },
       {
         "text": "Bedtime",
         "aliases": [
           "sleep"
         ],
-        "points": 24
-      },
-      {
-        "text": "Chores",
-        "aliases": [
-          "housework"
-        ],
-        "points": 17
-      },
-      {
-        "text": "Homework",
-        "aliases": [
-          "studying"
-        ],
         "points": 11
       },
       {
-        "text": "Text messages",
+        "text": "Taking their laundry out",
         "aliases": [
-          "replying"
+          "laundry",
+          "chores"
         ],
         "points": 8
       },
@@ -2274,23 +2300,26 @@
         "points": 23
       },
       {
-        "text": "Studying strategies",
+        "text": "Looking up the best loadout",
         "aliases": [
-          "researching"
+          "uses the meta",
+          "studies builds"
         ],
         "points": 18
       },
       {
-        "text": "Buying expensive gear",
+        "text": "Switching to a second account",
         "aliases": [
-          "spending money"
+          "using a smurf",
+          "gets their ranked account"
         ],
         "points": 14
       },
       {
-        "text": "Practicing alone",
+        "text": "Watching their replays",
         "aliases": [
-          "training"
+          "reviews their gameplay",
+          "rewatches the match"
         ],
         "points": 10
       },
@@ -2407,44 +2436,46 @@
     "prompt": "Name a reason someone deletes a game they claim to love.",
     "answers": [
       {
-        "text": "It takes too much time",
+        "text": "It takes up too much storage",
         "aliases": [
-          "addicted"
+          "storage is full",
+          "not enough disk space"
         ],
         "points": 34
-      },
-      {
-        "text": "Storage is full",
-        "aliases": [
-          "need space"
-        ],
-        "points": 24
-      },
-      {
-        "text": "Too frustrating",
-        "aliases": [
-          "rage"
-        ],
-        "points": 17
       },
       {
         "text": "Friends stopped playing",
         "aliases": [
           "no teammates"
         ],
-        "points": 11
+        "points": 24
+      },
+      {
+        "text": "It takes too much time",
+        "aliases": [
+          "addicted"
+        ],
+        "points": 17
       },
       {
         "text": "A bad update",
         "aliases": [
           "game changed"
         ],
+        "points": 11
+      },
+      {
+        "text": "Too frustrating",
+        "aliases": [
+          "rage"
+        ],
         "points": 8
       },
       {
-        "text": "They need to focus",
+        "text": "School is starting",
         "aliases": [
-          "school or work"
+          "exams",
+          "need to focus on school"
         ],
         "points": 6
       }
@@ -2456,23 +2487,26 @@
     "prompt": "Name something you might hear through a stranger's microphone during an online game.",
     "answers": [
       {
-        "text": "Their family",
+        "text": "A family member calling them",
         "aliases": [
-          "parents or kids"
+          "parent shouting",
+          "mom calling them"
         ],
         "points": 28
       },
       {
-        "text": "Loud music",
+        "text": "Someone’s music blasting",
         "aliases": [
-          "music playing"
+          "loud music",
+          "their playlist"
         ],
         "points": 23
       },
       {
-        "text": "Chewing",
+        "text": "Crunching chips",
         "aliases": [
-          "eating"
+          "loud chewing",
+          "eating snacks"
         ],
         "points": 18
       },
@@ -2484,9 +2518,10 @@
         "points": 14
       },
       {
-        "text": "A television",
+        "text": "An echo of your own voice",
         "aliases": [
-          "tv"
+          "mic echo",
+          "hearing yourself twice"
         ],
         "points": 10
       },
@@ -2505,9 +2540,10 @@
     "prompt": "Name something a gamer does while waiting for a game to load.",
     "answers": [
       {
-        "text": "Check their phone",
+        "text": "Scroll short videos",
         "aliases": [
-          "texting"
+          "scroll TikTok",
+          "watch Reels"
         ],
         "points": 35
       },
@@ -2533,16 +2569,18 @@
         "points": 11
       },
       {
-        "text": "Complain",
+        "text": "Look up a tip for the game",
         "aliases": [
-          "moan about loading"
+          "look up a guide",
+          "watch a tutorial"
         ],
         "points": 8
       },
       {
-        "text": "Stretch",
+        "text": "Check the controller battery",
         "aliases": [
-          "stand up"
+          "check the battery",
+          "check the charge"
         ],
         "points": 5
       }
@@ -2551,48 +2589,51 @@
   {
     "id": "games-093",
     "category": "Sports & games",
-    "prompt": "Name something gamers spend ages choosing before actually starting.",
+    "prompt": "Name something friends take forever to pick before they finally queue for a game.",
     "answers": [
       {
-        "text": "A game to play",
+        "text": "Which game to play",
         "aliases": [
-          "which game"
+          "picking the game"
         ],
         "points": 30
       },
       {
-        "text": "A username",
+        "text": "Who’s getting invited",
         "aliases": [
-          "screen name",
-          "gamer tag"
+          "who to invite",
+          "picking teammates"
         ],
         "points": 24
       },
       {
-        "text": "An avatar",
+        "text": "Which character to use",
         "aliases": [
-          "character appearance"
+          "choose a hero",
+          "pick a character"
         ],
         "points": 18
       },
       {
-        "text": "A difficulty level",
+        "text": "What outfit to wear in-game",
         "aliases": [
-          "easy or hard"
+          "choose a skin",
+          "pick cosmetics"
         ],
         "points": 13
       },
       {
-        "text": "A server",
+        "text": "Ranked or casual",
         "aliases": [
-          "which server"
+          "choosing ranked",
+          "pick a mode"
         ],
         "points": 9
       },
       {
-        "text": "A teammate",
+        "text": "Which server to use",
         "aliases": [
-          "who to play with"
+          "choosing a server"
         ],
         "points": 6
       }
@@ -2653,16 +2694,18 @@
     "prompt": "Name something a gamer takes more personally than they should.",
     "answers": [
       {
-        "text": "Losing",
+        "text": "Getting called out in voice chat",
         "aliases": [
-          "defeat"
+          "getting roasted",
+          "being criticized"
         ],
         "points": 28
       },
       {
-        "text": "Being criticized",
+        "text": "Losing to a friend",
         "aliases": [
-          "negative feedback"
+          "friend beats them",
+          "losing"
         ],
         "points": 23
       },
@@ -2674,16 +2717,18 @@
         "points": 18
       },
       {
-        "text": "Their favorite character getting weaker",
+        "text": "Their favorite character gets nerfed",
         "aliases": [
-          "nerfed character"
+          "character gets weaker",
+          "a nerf"
         ],
         "points": 14
       },
       {
-        "text": "Being kicked from a team",
+        "text": "Getting dropped from the squad",
         "aliases": [
-          "removed from team"
+          "being kicked",
+          "removed from the team"
         ],
         "points": 10
       },
@@ -2702,16 +2747,18 @@
     "prompt": "Name a reason someone pauses a game at the worst possible moment.",
     "answers": [
       {
-        "text": "Phone rings",
+        "text": "A parent calls their name",
         "aliases": [
-          "call"
+          "parent walks in",
+          "called by family"
         ],
         "points": 35
       },
       {
-        "text": "Parent walks in",
+        "text": "Dinner is ready",
         "aliases": [
-          "family interruption"
+          "called to dinner",
+          "food is ready"
         ],
         "points": 25
       },
@@ -2723,9 +2770,10 @@
         "points": 16
       },
       {
-        "text": "Food arrives",
+        "text": "Their phone starts buzzing",
         "aliases": [
-          "delivery"
+          "phone rings",
+          "someone calls them"
         ],
         "points": 11
       },
@@ -2737,9 +2785,10 @@
         "points": 8
       },
       {
-        "text": "Wants a screenshot",
+        "text": "Someone needs help with the Wi-Fi",
         "aliases": [
-          "take a picture"
+          "router issue",
+          "Wi-Fi trouble"
         ],
         "points": 5
       }
@@ -2751,30 +2800,33 @@
     "prompt": "Name something you would hide before video-chatting with your gaming friends.",
     "answers": [
       {
-        "text": "Messy room",
+        "text": "A pile of laundry",
         "aliases": [
-          "clutter"
+          "dirty clothes",
+          "clothes on the floor"
         ],
         "points": 30
       },
       {
-        "text": "Laundry",
+        "text": "Their unmade bed",
         "aliases": [
-          "dirty clothes"
+          "messy bed",
+          "blankets"
         ],
         "points": 24
       },
       {
-        "text": "Embarrassing poster",
+        "text": "Their embarrassing old poster",
         "aliases": [
-          "poster"
+          "weird poster"
         ],
         "points": 18
       },
       {
-        "text": "Childhood toy",
+        "text": "Food wrappers",
         "aliases": [
-          "stuffed animal"
+          "takeout boxes",
+          "trash"
         ],
         "points": 13
       },
@@ -2786,9 +2838,10 @@
         "points": 9
       },
       {
-        "text": "Personal paperwork",
+        "text": "A school ID or letter",
         "aliases": [
-          "private documents"
+          "personal paperwork",
+          "something with their address"
         ],
         "points": 6
       }
@@ -2800,9 +2853,10 @@
     "prompt": "Name a reason a gamer refuses to use voice chat.",
     "answers": [
       {
-        "text": "Shy",
+        "text": "People get toxic on mic",
         "aliases": [
-          "nervous"
+          "rude players",
+          "harassment"
         ],
         "points": 34
       },
@@ -2814,9 +2868,9 @@
         "points": 24
       },
       {
-        "text": "Rude players",
+        "text": "Shy",
         "aliases": [
-          "toxic people"
+          "nervous"
         ],
         "points": 17
       },
@@ -2835,9 +2889,10 @@
         "points": 8
       },
       {
-        "text": "Does not want to talk",
+        "text": "They are already in a call with friends",
         "aliases": [
-          "just wants to play"
+          "on Discord",
+          "in another voice chat"
         ],
         "points": 6
       }
@@ -2870,9 +2925,10 @@
         "points": 18
       },
       {
-        "text": "Hold my drink",
+        "text": "Clip this",
         "aliases": [
-          "hold this"
+          "record this",
+          "get the clip"
         ],
         "points": 14
       },
@@ -2912,9 +2968,10 @@
         "points": 25
       },
       {
-        "text": "Complaining about them",
+        "text": "Talking about their crush",
         "aliases": [
-          "complaining about parents"
+          "flirting",
+          "crush talk"
         ],
         "points": 16
       },
@@ -2926,16 +2983,18 @@
         "points": 11
       },
       {
-        "text": "Flirting",
+        "text": "Complaining about their parents",
         "aliases": [
-          "chatting up someone"
+          "venting about family",
+          "talking about them"
         ],
         "points": 8
       },
       {
-        "text": "How much you spent",
+        "text": "What they spent on skins",
         "aliases": [
-          "game purchases"
+          "money spent in-game",
+          "how much they spent"
         ],
         "points": 5
       }
@@ -2993,47 +3052,51 @@
   {
     "id": "games-102",
     "category": "Sports & games",
-    "prompt": "Name something that makes you regret joining your boss's online gaming team.",
+    "prompt": "Name something that makes you regret inviting your team captain to play online.",
     "answers": [
       {
-        "text": "They keep giving orders",
+        "text": "They blame you for losing",
         "aliases": [
-          "bossy"
+          "blames you"
         ],
         "points": 34
       },
       {
-        "text": "They hear you swear",
+        "text": "They keep calling every move",
         "aliases": [
-          "bad language"
+          "giving orders",
+          "bossing everyone around"
         ],
         "points": 24
       },
       {
-        "text": "They bring up work",
+        "text": "They hear you trash-talk",
         "aliases": [
-          "work questions"
+          "hear you swear",
+          "hear your mic"
         ],
         "points": 17
       },
       {
-        "text": "They blame you for losing",
+        "text": "They joke about your gameplay at practice",
         "aliases": [
-          "blaming"
+          "bring it up later",
+          "tease you the next day"
         ],
         "points": 11
       },
       {
-        "text": "You have to let them win",
+        "text": "They keep queuing late",
         "aliases": [
-          "avoid beating boss"
+          "play all night",
+          "won’t log off"
         ],
         "points": 8
       },
       {
-        "text": "They play all night",
+        "text": "They expect you to let them win",
         "aliases": [
-          "late games"
+          "have to let them win"
         ],
         "points": 6
       }
@@ -3059,9 +3122,10 @@
         "points": 23
       },
       {
-        "text": "I have plenty of time",
+        "text": "I can finish before dinner",
         "aliases": [
-          "no rush"
+          "have plenty of time",
+          "not getting called away"
         ],
         "points": 18
       },
@@ -3073,16 +3137,18 @@
         "points": 14
       },
       {
-        "text": "My battery is charged",
+        "text": "My headset won’t die",
         "aliases": [
-          "enough battery"
+          "battery is charged",
+          "I have enough battery"
         ],
         "points": 10
       },
       {
-        "text": "I am just getting food",
+        "text": "I’m just grabbing a snack",
         "aliases": [
-          "quick snack"
+          "getting food",
+          "grabbing food"
         ],
         "points": 7
       }
@@ -3682,16 +3748,18 @@
     "prompt": "Name something difficult to act out in charades without looking ridiculous.",
     "answers": [
       {
-        "text": "Giving birth",
+        "text": "Fighting with a fitted sheet",
         "aliases": [
-          "childbirth"
+          "putting on a fitted sheet",
+          "fitted sheet"
         ],
         "points": 35
       },
       {
-        "text": "A washing machine",
+        "text": "A loading screen",
         "aliases": [
-          "washer"
+          "buffering",
+          "loading bar"
         ],
         "points": 25
       },
@@ -3836,37 +3904,42 @@
         "points": 28
       },
       {
-        "text": "Their job",
+        "text": "They got obsessed with it online",
         "aliases": [
-          "work"
+          "internet rabbit hole",
+          "watched a bunch of videos"
         ],
         "points": 23
       },
       {
-        "text": "Watched a documentary",
+        "text": "A class project",
         "aliases": [
-          "tv show"
+          "learned in school",
+          "studied it"
         ],
         "points": 18
       },
       {
-        "text": "A past relationship",
+        "text": "A game they played nonstop",
         "aliases": [
-          "an ex liked it"
+          "video game",
+          "learned it from gaming"
         ],
         "points": 14
       },
       {
-        "text": "Studied it",
+        "text": "They follow someone who explains it",
         "aliases": [
-          "school subject"
+          "learned from a creator",
+          "a YouTube channel"
         ],
         "points": 10
       },
       {
-        "text": "Went down an internet rabbit hole",
+        "text": "A friend talks about it constantly",
         "aliases": [
-          "online obsession"
+          "a friend taught them",
+          "their friend is into it"
         ],
         "points": 7
       }
@@ -3983,9 +4056,10 @@
         "points": 34
       },
       {
-        "text": "They peek at the answer sheet",
+        "text": "They suddenly take forever to answer",
         "aliases": [
-          "reading the answers"
+          "time to look it up",
+          "long pause"
         ],
         "points": 24
       },
@@ -4004,16 +4078,18 @@
         "points": 11
       },
       {
-        "text": "Someone whispers to them",
+        "text": "They wait until their friend messages them",
         "aliases": [
-          "getting secret help"
+          "secret text",
+          "teammate texting the answer"
         ],
         "points": 8
       },
       {
-        "text": "They are wearing an earpiece",
+        "text": "They know a topic they usually hate",
         "aliases": [
-          "hidden earphone"
+          "out of character",
+          "they never know that stuff"
         ],
         "points": 6
       }
@@ -4123,16 +4199,18 @@
     "prompt": "Name something you should avoid putting on a truth-or-dare card at a family party.",
     "answers": [
       {
-        "text": "A sexual question",
+        "text": "Who they have a crush on",
         "aliases": [
-          "sex"
+          "crush question",
+          "who they like"
         ],
         "points": 30
       },
       {
-        "text": "An ex-partner question",
+        "text": "Show your private messages",
         "aliases": [
-          "past romance"
+          "read your texts",
+          "show your DMs"
         ],
         "points": 24
       },
@@ -4144,9 +4222,10 @@
         "points": 18
       },
       {
-        "text": "A money question",
+        "text": "How much someone makes",
         "aliases": [
-          "salary"
+          "money question",
+          "their income"
         ],
         "points": 13
       },
@@ -4158,9 +4237,10 @@
         "points": 9
       },
       {
-        "text": "An illegal dare",
+        "text": "Post a dare video without asking",
         "aliases": [
-          "breaking law"
+          "post an embarrassing video",
+          "put it online without permission"
         ],
         "points": 6
       }
@@ -4326,16 +4406,18 @@
         "points": 30
       },
       {
-        "text": "Take a photo",
+        "text": "Send a screenshot to friends",
         "aliases": [
-          "picture"
+          "take a photo",
+          "send a pic"
         ],
         "points": 24
       },
       {
-        "text": "Tell someone",
+        "text": "Post the solve time",
         "aliases": [
-          "show off"
+          "share their time",
+          "post their score"
         ],
         "points": 18
       },

@@ -134,16 +134,18 @@
         "points": 14
       },
       {
-        "text": "A camera reflection",
+        "text": "An address on a package",
         "aliases": [
-          "mirror reflection"
+          "shipping label",
+          "mailing address"
         ],
         "points": 10
       },
       {
-        "text": "A visible price tag",
+        "text": "A private message on a screen",
         "aliases": [
-          "price sticker"
+          "DM on a monitor",
+          "private chat on a screen"
         ],
         "points": 6
       }
@@ -421,23 +423,25 @@
         "points": 18
       },
       {
-        "text": "How they look",
+        "text": "New followers",
         "aliases": [
-          "their appearance"
+          "subscriber count"
         ],
         "points": 13
       },
       {
-        "text": "The sound",
+        "text": "Whether captions got it right",
         "aliases": [
-          "audio quality"
+          "auto captions",
+          "subtitles",
+          "wrong captions"
         ],
         "points": 9
       },
       {
-        "text": "New followers",
+        "text": "How they look",
         "aliases": [
-          "subscriber count"
+          "their appearance"
         ],
         "points": 6
       }
@@ -449,44 +453,46 @@
     "prompt": "Name a reason people watch someone else play a video game.",
     "answers": [
       {
-        "text": "Learn how to play",
-        "aliases": [
-          "get tips"
-        ],
-        "points": 32
-      },
-      {
         "text": "The player is funny",
         "aliases": [
           "entertainment"
         ],
+        "points": 32
+      },
+      {
+        "text": "Learn how to play",
+        "aliases": [
+          "get tips"
+        ],
         "points": 24
-      },
-      {
-        "text": "Preview a game",
-        "aliases": [
-          "see it before buying"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Cannot play it themselves",
-        "aliases": [
-          "do not own it"
-        ],
-        "points": 12
       },
       {
         "text": "Watch expert skills",
         "aliases": [
           "great gameplay"
         ],
+        "points": 18
+      },
+      {
+        "text": "Preview a game",
+        "aliases": [
+          "see it before buying"
+        ],
+        "points": 12
+      },
+      {
+        "text": "It's basically background company",
+        "aliases": [
+          "feel less alone",
+          "background company"
+        ],
         "points": 8
       },
       {
-        "text": "Feel less alone",
+        "text": "They're watching an esports tournament",
         "aliases": [
-          "company"
+          "esports",
+          "a tournament"
         ],
         "points": 6
       }
@@ -548,44 +554,46 @@
     "prompt": "Name something a person could do in a livestream chat that gets them kicked out.",
     "answers": [
       {
-        "text": "Insult people",
-        "aliases": [
-          "name calling"
-        ],
-        "points": 35
-      },
-      {
         "text": "Spam messages",
         "aliases": [
           "repeat messages"
         ],
-        "points": 25
+        "points": 35
       },
       {
-        "text": "Share spoilers",
+        "text": "Insult people",
         "aliases": [
-          "spoil the ending"
+          "name calling"
         ],
-        "points": 16
+        "points": 25
       },
       {
         "text": "Post scam links",
         "aliases": [
           "spam links"
         ],
-        "points": 11
+        "points": 16
       },
       {
         "text": "Reveal private information",
         "aliases": [
           "dox someone"
         ],
+        "points": 11
+      },
+      {
+        "text": "Post spoilers without warning",
+        "aliases": [
+          "share spoilers",
+          "spoiling the game"
+        ],
         "points": 8
       },
       {
-        "text": "Impersonate the host",
+        "text": "Ignore the mods' warnings",
         "aliases": [
-          "pretend to be the streamer"
+          "disrespect moderators",
+          "argue with a mod"
         ],
         "points": 5
       }
@@ -842,37 +850,39 @@
     "prompt": "Name something fans expect when a creator teases a 'huge announcement.'",
     "answers": [
       {
-        "text": "A new project",
+        "text": "A merch drop",
         "aliases": [
-          "new show"
+          "new merch",
+          "clothing launch"
         ],
         "points": 32
       },
       {
-        "text": "A pregnancy",
+        "text": "A new project",
         "aliases": [
-          "having a baby"
+          "new show"
         ],
         "points": 24
-      },
-      {
-        "text": "A wedding",
-        "aliases": [
-          "getting married"
-        ],
-        "points": 18
-      },
-      {
-        "text": "A breakup",
-        "aliases": [
-          "separation"
-        ],
-        "points": 12
       },
       {
         "text": "A big collaboration",
         "aliases": [
           "famous guest"
+        ],
+        "points": 18
+      },
+      {
+        "text": "A tour or meetup",
+        "aliases": [
+          "tour announcement",
+          "live show"
+        ],
+        "points": 12
+      },
+      {
+        "text": "A breakup",
+        "aliases": [
+          "separation"
         ],
         "points": 8
       },
@@ -919,9 +929,10 @@
         "points": 14
       },
       {
-        "text": "Missing an event",
+        "text": "An old clip that resurfaced",
         "aliases": [
-          "not showing up"
+          "old video",
+          "something they said years ago"
         ],
         "points": 10
       },
@@ -1290,9 +1301,10 @@
         "points": 28
       },
       {
-        "text": "Sends a long message",
+        "text": "Posts a clip as evidence",
         "aliases": [
-          "writes an essay"
+          "shares proof",
+          "shares receipts"
         ],
         "points": 23
       },
@@ -1304,9 +1316,10 @@
         "points": 19
       },
       {
-        "text": "Shares proof",
+        "text": "Makes an edit defending them",
         "aliases": [
-          "posts examples"
+          "defense edit",
+          "fan edit"
         ],
         "points": 14
       },
@@ -1388,37 +1401,39 @@
         "points": 30
       },
       {
-        "text": "A house",
+        "text": "Their own apartment",
         "aliases": [
-          "new home"
+          "new apartment",
+          "moving out"
         ],
         "points": 24
-      },
-      {
-        "text": "Designer clothes",
-        "aliases": [
-          "expensive clothes"
-        ],
-        "points": 18
-      },
-      {
-        "text": "A vacation",
-        "aliases": [
-          "luxury trip"
-        ],
-        "points": 13
       },
       {
         "text": "Camera equipment",
         "aliases": [
           "new camera"
         ],
+        "points": 18
+      },
+      {
+        "text": "Designer clothes",
+        "aliases": [
+          "expensive clothes"
+        ],
+        "points": 13
+      },
+      {
+        "text": "A new gaming setup",
+        "aliases": [
+          "new PC",
+          "gaming computer"
+        ],
         "points": 9
       },
       {
-        "text": "Jewelry",
+        "text": "A vacation",
         "aliases": [
-          "a watch"
+          "luxury trip"
         ],
         "points": 6
       }
@@ -1629,16 +1644,17 @@
     "prompt": "Name something influencers call a 'must-have' that you could happily live without.",
     "answers": [
       {
-        "text": "A beauty product",
+        "text": "A fancy water bottle",
         "aliases": [
-          "makeup"
+          "expensive bottle"
         ],
         "points": 32
       },
       {
-        "text": "A fancy water bottle",
+        "text": "A twelve-step skincare routine",
         "aliases": [
-          "expensive bottle"
+          "extra skincare",
+          "beauty products"
         ],
         "points": 24
       },
@@ -1650,9 +1666,10 @@
         "points": 18
       },
       {
-        "text": "A planner",
+        "text": "A light to film with",
         "aliases": [
-          "journal"
+          "ring light",
+          "creator lighting"
         ],
         "points": 12
       },
@@ -1664,9 +1681,9 @@
         "points": 8
       },
       {
-        "text": "A special pillow",
+        "text": "A planner",
         "aliases": [
-          "expensive pillow"
+          "journal"
         ],
         "points": 6
       }
@@ -1783,24 +1800,26 @@
         "points": 30
       },
       {
-        "text": "Bookshelves",
+        "text": "LED lights",
         "aliases": [
-          "books",
-          "book collection"
+          "LED strips",
+          "RGB lights"
         ],
         "points": 24
       },
       {
-        "text": "Awards",
+        "text": "Their mic and camera",
         "aliases": [
-          "trophies"
+          "recording setup",
+          "streaming gear"
         ],
         "points": 18
       },
       {
-        "text": "Art",
+        "text": "A wall of posters",
         "aliases": [
-          "posters"
+          "posters",
+          "wall art"
         ],
         "points": 13
       },
@@ -1875,30 +1894,31 @@
     "prompt": "Name an online trend people get tired of seeing copied.",
     "answers": [
       {
+        "text": "The same trending sound",
+        "aliases": [
+          "same audio",
+          "overused sound"
+        ],
+        "points": 28
+      },
+      {
         "text": "Dance routines",
         "aliases": [
           "viral dances"
         ],
-        "points": 28
+        "points": 23
       },
       {
         "text": "Lip-syncing",
         "aliases": [
           "miming songs"
         ],
-        "points": 23
+        "points": 19
       },
       {
         "text": "Pranks",
         "aliases": [
           "prank videos"
-        ],
-        "points": 19
-      },
-      {
-        "text": "Dangerous challenges",
-        "aliases": [
-          "stunts"
         ],
         "points": 14
       },
@@ -1921,7 +1941,7 @@
   {
     "id": "culture-260",
     "category": "Pop culture",
-    "prompt": "Name something people respond to with a dramatic reaction GIF.",
+    "prompt": "Name a message in the group chat that deserves a dramatic reaction GIF.",
     "answers": [
       {
         "text": "Gossip",
@@ -2417,16 +2437,19 @@
     "prompt": "Name something that turns a quick video break into a lost afternoon.",
     "answers": [
       {
-        "text": "Autoplay",
+        "text": "The feed never ends",
         "aliases": [
-          "the next video starts"
+          "infinite scroll",
+          "autoplay"
         ],
         "points": 32
       },
       {
-        "text": "Short clips",
+        "text": "A series in too many parts",
         "aliases": [
-          "short videos"
+          "part two",
+          "part three",
+          "multiple parts"
         ],
         "points": 24
       },
@@ -2760,30 +2783,31 @@
     "prompt": "Name a boring activity you unexpectedly enjoy watching someone else do.",
     "answers": [
       {
-        "text": "Car detailing",
-        "aliases": [
-          "cleaning a car"
-        ],
-        "points": 30
-      },
-      {
         "text": "Pressure washing",
         "aliases": [
           "power washing"
         ],
+        "points": 30
+      },
+      {
+        "text": "Car detailing",
+        "aliases": [
+          "cleaning a car"
+        ],
         "points": 24
+      },
+      {
+        "text": "Restocking a fridge",
+        "aliases": [
+          "organizing a refrigerator",
+          "fridge restock"
+        ],
+        "points": 18
       },
       {
         "text": "Restoring furniture",
         "aliases": [
           "furniture restoration"
-        ],
-        "points": 18
-      },
-      {
-        "text": "Mowing a lawn",
-        "aliases": [
-          "cutting grass"
         ],
         "points": 13
       },
@@ -2795,9 +2819,10 @@
         "points": 9
       },
       {
-        "text": "Sharpening knives",
+        "text": "Packing online orders",
         "aliases": [
-          "knife sharpening"
+          "packing orders",
+          "pack an order with me"
         ],
         "points": 6
       }
@@ -2823,9 +2848,10 @@
         "points": 24
       },
       {
-        "text": "Dance videos",
+        "text": "Room or outfit makeovers",
         "aliases": [
-          "dance clips"
+          "room transformation",
+          "outfit glow up"
         ],
         "points": 18
       },
@@ -3026,9 +3052,10 @@
         "points": 18
       },
       {
-        "text": "What they post",
+        "text": "What goes on Close Friends",
         "aliases": [
-          "new content"
+          "private story",
+          "Close Friends list"
         ],
         "points": 12
       },
@@ -3040,9 +3067,10 @@
         "points": 8
       },
       {
-        "text": "Privacy settings",
+        "text": "What they pin to their profile",
         "aliases": [
-          "make account public"
+          "pinned posts",
+          "what they pin"
         ],
         "points": 6
       }
@@ -3222,9 +3250,10 @@
         "points": 18
       },
       {
-        "text": "Pretends to make mistakes",
+        "text": "Acts like an edgy teenager",
         "aliases": [
-          "staged blunders"
+          "tries too hard to be relatable",
+          "acts like a teenager"
         ],
         "points": 12
       },
@@ -3839,16 +3868,17 @@
     "prompt": "Name something people ask a newly famous friend for.",
     "answers": [
       {
-        "text": "Money",
+        "text": "A shout-out",
         "aliases": [
-          "a loan"
+          "mention me"
         ],
         "points": 28
       },
       {
-        "text": "A shout-out",
+        "text": "A follow back",
         "aliases": [
-          "mention me"
+          "follow me",
+          "follow request"
         ],
         "points": 23
       },
@@ -3860,9 +3890,10 @@
         "points": 19
       },
       {
-        "text": "An introduction",
+        "text": "To appear in a video",
         "aliases": [
-          "introduce me to someone"
+          "be in a post",
+          "feature me"
         ],
         "points": 14
       },
@@ -3874,9 +3905,9 @@
         "points": 10
       },
       {
-        "text": "A job",
+        "text": "An introduction",
         "aliases": [
-          "work opportunity"
+          "introduce me to someone"
         ],
         "points": 6
       }
@@ -4022,9 +4053,10 @@
         "points": 8
       },
       {
-        "text": "A habit at home",
+        "text": "A clip from their middle school phase",
         "aliases": [
-          "annoying family habit"
+          "old video",
+          "awkward school clip"
         ],
         "points": 6
       }
@@ -4169,9 +4201,10 @@
         "points": 9
       },
       {
-        "text": "Home decor",
+        "text": "A budget room upgrade",
         "aliases": [
-          "room decoration"
+          "home decor",
+          "room decor"
         ],
         "points": 6
       }
