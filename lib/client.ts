@@ -1,4 +1,14 @@
 import type { ApiSessionResponse, ClientAction, PublicRoom, RoomSettings, RoomView, Session } from "./types";
+import { validateRoomBaseUrl } from "./room-url.ts";
+
+let configuredRoomBaseUrl: string | undefined;
+try {
+  // Next.js inlines this value. Older Sites builds may have no process global.
+  configuredRoomBaseUrl = process.env.NEXT_PUBLIC_ROOM_BASE_URL;
+} catch {
+  configuredRoomBaseUrl = undefined;
+}
+const ROOM_BASE_URL = validateRoomBaseUrl(configuredRoomBaseUrl);
 
 export class ApiError extends Error {
   status: number;
@@ -28,7 +38,7 @@ async function request<T>(path: string, options: RequestInit = {}, session?: Ses
 }
 
 export const api = {
-  health: () => request<{ ok: boolean; questionCount: number }>("/api/health"),
+  health: () => request<{ ok: boolean; questionCount: number; environment?: "production" | "staging"; commitSha?: string }>("/api/health"),
   publicRooms: () => request<{ rooms: PublicRoom[] }>("/api/rooms"),
   create: (name: string, avatar: number, settings: RoomSettings) =>
     request<ApiSessionResponse>("/api/rooms", { method: "POST", body: JSON.stringify({ name, avatar, settings }) }),
@@ -54,9 +64,10 @@ export function requestedRoom(search: string): string | null {
 
 export function roomLink(code: string, gameOrigin: string, frameReferrer = ""): string {
   const parentOrigin = frameReferrer.match(/^(https:\/\/(?:www\.)?nimalp123\.com)(?:\/|$)/)?.[1];
-  const url = gameOrigin === "https://feud-night-nimz.boundlessnova2.chatgpt.site" && parentOrigin
+  const fallbackUrl = gameOrigin === "https://feud-night-nimz.boundlessnova2.chatgpt.site" && parentOrigin
     ? new URL("/feud", parentOrigin)
     : new URL("/", gameOrigin);
+  const url = ROOM_BASE_URL ? new URL(ROOM_BASE_URL) : fallbackUrl;
   url.searchParams.set("room", code);
   return url.href;
 }

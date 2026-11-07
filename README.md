@@ -27,7 +27,7 @@ Use separate browser profiles for separate players. A room link contains its six
 
 ## Stored question bank
 
-The game uses 2,000 authored survey-style rounds stored in InsForge Postgres for Vercel, or Cloudflare D1 for Sites. Each has six ranked answers with spelling and synonym aliases, for 12,000 answers total. The five categories have 400 rounds each. “Anything goes” mixes all 2,000. The shared public counts live in `lib/constants.ts`; the client only imports that metadata.
+The game uses 2,000 authored survey-style rounds stored in InsForge Postgres, with an optional Cloudflare D1 fallback. Each has six ranked answers with spelling and synonym aliases, for 12,000 answers total. The five categories have 400 rounds each. “Anything goes” mixes all 2,000. The shared public counts live in `lib/constants.ts`; the client only imports that metadata.
 
 Prompts and rankings are written for people born from 2004 through 2010. The boards draw on everyday experiences and current media habits reported in [Pew’s teen platform research](https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/) and [young-adult social media data](https://www.pewresearch.org/internet/fact-sheet/social-media/). The server accepts board aliases, common paraphrases, and small spelling mistakes, including swapped letters, when they identify a single answer.
 
@@ -49,18 +49,28 @@ The test suite covers both modes, matching, hidden-answer protection, simultaneo
 
 ### Vercel and InsForge
 
-The Vercel build uses native Next.js and the InsForge backend. Set `INSFORGE_URL` and `INSFORGE_API_KEY` as server-only Vercel environment variables. Local development reads the same variables from the ignored `.env.local` file. Keep `.insforge/project.json` private.
+The native Next.js build is published through InsForge's managed Vercel hosting. Pushes to `main` update production at [nimalp123.com/feud](https://nimalp123.com/feud). Pushes to `staging` update the separate staging game at [nimalp123.com/s-feud](https://nimalp123.com/s-feud). Each environment has its own Free InsForge project and database.
 
-After linking the InsForge project, apply the Postgres migration and import the validated question bank. The import upserts all boards in one database request. Repeat it after editing the bank.
+The `Check and deploy` GitHub Actions workflow builds Next.js, runs the type checker and tests, and deploys the checked commit. Pull requests run checks only. Deployments are serialized per branch. A queued run skips publication when a newer branch commit is available.
+
+Create GitHub environments named `production` and `staging`. Each needs environment-scoped secrets `INSFORGE_URL` and `INSFORGE_API_KEY`, plus the `INSFORGE_PROJECT_ID` variable. Keep the API key server-only. The managed deployment's persistent environment also holds `INSFORGE_URL`, `INSFORGE_API_KEY` and `NEXT_PUBLIC_ROOM_BASE_URL`. Set the room base to exactly `https://www.nimalp123.com/feud` for production or `https://www.nimalp123.com/s-feud` for staging. The workflow sets `FEUD_ENVIRONMENT` and `FEUD_COMMIT_SHA` for each source deployment.
+
+The deployment script links the backend in a temporary directory, applies pending Postgres migrations through InsForge's native ledger, and imports the validated question bank before uploading source. It refuses to apply the baseline migration to an existing Feud schema whose migration record is missing. The bank import upserts all boards in one request. Publication succeeds only after the stable managed URL reports the expected commit, environment and question count at `/api/health`.
+
+For local Next.js development, the ignored `.env.local` supplies the server variables. Keep `.insforge/project.json` private. After linking the intended backend, prepare it with the native migration command and bank import.
 
 ```sh
-npx -y @insforge/cli db migrations up --all
+npx -y @insforge/cli@0.2.8 db migrations up --all --json
 npm run seed:insforge
 npm run dev:vercel
 ```
 
 `vercel.json` selects `npm run build:vercel` for deployment. Run `npm run typecheck`, `npm test`, and `npm run build:vercel` before deploying. Postgres RPCs enforce atomic room creation, revision-checked updates, and quota increments. Anonymous database access is disabled. The server returns the existing sanitized room views to players.
 
-### Sites and Cloudflare
+### Legacy Sites URL
 
-The checked-in `.openai/hosting.json` identifies the Site and its D1 binding. Sites applies the schema-only Drizzle migrations when publishing. Sessions and rooms are shared through D1 using revision-checked updates. Browser clients synchronize about once a second. Public-room discovery is separate from the Site’s overall access setting.
+The legacy public Sites URL is configured to use the production InsForge database after the one-time room migration, so its rooms stay in sync with `/feud`. The seat bridge helps an existing browser recover its saved seat when moving from the embedded game to the production host. The original D1 data and binding are retained as a backup. The checked-in `.openai/hosting.json` preserves that Site's identity and Cloudflare build configuration.
+
+Before switching the legacy backend, prepare the production schema and question bank, then deploy the legacy Worker with its original `DB` binding, production InsForge server credentials, `FEUD_MAINTENANCE=1`, and a server-only `FEUD_MIGRATION_TOKEN` containing a random 43-character base64url token. Maintenance pauses normal game requests. Send one `POST /api/migrate-backend` to that Worker with the token in the `x-feud-migration-token` header. Do not put the token in a URL or browser bundle.
+
+The endpoint reads full D1 rooms, inserts missing rooms atomically without overwriting existing codes, and verifies both the target copy and unchanged source. Record its aggregate counts and digest before opening traffic. A `409` collision or verification failure requires investigation; do not cut over or delete source data. An identical retry is safe. Once verification succeeds and the production host is healthy, remove the migration token and maintenance flag while routing both public entry points to production InsForge. Keep D1 as the backup; the copy never writes to it.
