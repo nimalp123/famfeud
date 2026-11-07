@@ -50,6 +50,7 @@ export default function GameApp() {
   const verifiedSession = useRef<Session | null>(null);
   const acceptedMigration = useRef<Session | null>(null);
   const pendingMigration = useRef<Session | null>(null);
+  const migrationDismissed = useRef(false);
 
   useEffect(() => {
     currentSession.current = session;
@@ -83,9 +84,9 @@ export default function GameApp() {
 
   useEffect(() => {
     const parentOrigin = migrationParentOrigin(document.referrer);
-    if (!initialized || window.parent === window || !parentOrigin) return;
+    if (!initialized || migrationDismissed.current || window.parent === window || !parentOrigin) return;
     const receiveSeat = (event: MessageEvent) => {
-      if (event.origin !== parentOrigin) return;
+      if (migrationDismissed.current || event.origin !== parentOrigin) return;
       const restored = receivedMigrationSession(event, window.parent, requestedRoom(window.location.search), null);
       if (!restored) return;
       const active = currentSession.current;
@@ -191,6 +192,7 @@ export default function GameApp() {
   }
 
   function enter(data: ApiSessionResponse) {
+    migrationDismissed.current = true;
     currentSession.current = data.session;
     verifiedSession.current = null;
     acceptedMigration.current = null;
@@ -199,8 +201,12 @@ export default function GameApp() {
     setRoomInAddress(data.session.code);
   }
 
-  const onCreate = (name: string, avatar: number, settings: RoomSettings) => run(async () => enter(await api.create(name, avatar, settings)));
+  const onCreate = (name: string, avatar: number, settings: RoomSettings) => run(async () => {
+    migrationDismissed.current = true;
+    enter(await api.create(name, avatar, settings));
+  });
   const onJoin = (code: string, name: string, avatar: number) => run(async () => {
+    migrationDismissed.current = true;
     const saved = readSession(code);
     if (saved) {
       currentSession.current = saved;
@@ -219,6 +225,7 @@ export default function GameApp() {
     if (currentSession.current?.token === session.token) updateRoom(data.room);
   });
   const onLeave = () => run(async () => {
+    migrationDismissed.current = true;
     if (session) {
       try { await api.action(session, { type: "leave" }); } catch { /* Leaving the tab remains possible while offline. */ }
       clearSession(session);
@@ -231,6 +238,7 @@ export default function GameApp() {
     setSession(null); setRoom(null); setConnectionLost(false);
   });
   const returnHomeWhileOffline = () => {
+    migrationDismissed.current = true;
     if (session) clearSession(session, false);
     setRoomInAddress(null);
     currentSession.current = null;
