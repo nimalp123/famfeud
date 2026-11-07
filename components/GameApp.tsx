@@ -19,6 +19,23 @@ function setRoomInAddress(code: string | null) {
   window.history.replaceState(window.history.state, "", url);
 }
 
+function seatIsDurable(seat: Session): boolean {
+  if (readSession(seat.code)?.token !== seat.token) return false;
+  try {
+    const saved = JSON.parse(window.localStorage.getItem(`feud-night-seat:${seat.code}`) ?? "null");
+    return saved?.code === seat.code && saved.playerId === seat.playerId && saved.token === seat.token;
+  } catch {
+    return false;
+  }
+}
+
+function acknowledgeSeat(seat: Session): boolean {
+  const parentOrigin = migrationParentOrigin(document.referrer);
+  if (window.parent === window || !parentOrigin) return false;
+  window.parent.postMessage({ type: "feud:seat-received", code: seat.code, playerId: seat.playerId }, parentOrigin);
+  return true;
+}
+
 export default function GameApp() {
   const [session, setSession] = useState<Session | null>(null);
   const [room, setRoom] = useState<RoomView | null>(null);
@@ -30,10 +47,25 @@ export default function GameApp() {
   const [initialized, setInitialized] = useState(false);
   const [legacyBridge, setLegacyBridge] = useState(false);
   const currentSession = useRef<Session | null>(null);
+  const verifiedSession = useRef<Session | null>(null);
+  const acceptedMigration = useRef<Session | null>(null);
+  const pendingMigration = useRef<Session | null>(null);
+  const migrationDismissed = useRef(false);
 
   useEffect(() => {
     currentSession.current = session;
+    if (verifiedSession.current?.token !== session?.token) verifiedSession.current = null;
   }, [session]);
+
+  const acknowledgeVerifiedSeat = useCallback((seat: Session): boolean => {
+    if (verifiedSession.current?.token !== seat.token || !seatIsDurable(seat)) return false;
+    const pending = pendingMigration.current;
+    const resolved = pending?.code === seat.code ? pending : seat;
+    if (!acknowledgeSeat(resolved)) return false;
+    if (pending?.code === seat.code) pendingMigration.current = null;
+    if (acceptedMigration.current?.token === seat.token) acceptedMigration.current = null;
+    return true;
+  }, []);
 
   const updateRoom = useCallback((next: RoomView) => {
     setRoom((previous) => !previous || previous.code !== next.code || next.revision >= previous.revision ? next : previous);
@@ -52,20 +84,33 @@ export default function GameApp() {
 
   useEffect(() => {
     const parentOrigin = migrationParentOrigin(document.referrer);
-    if (!initialized || window.parent === window || !parentOrigin) return;
+    if (!initialized || migrationDismissed.current || window.parent === window || !parentOrigin) return;
     const receiveSeat = (event: MessageEvent) => {
-      const restored = receivedMigrationSession(event, window.parent, requestedRoom(window.location.search), currentSession.current);
+      if (migrationDismissed.current || event.origin !== parentOrigin) return;
+      const restored = receivedMigrationSession(event, window.parent, requestedRoom(window.location.search), null);
       if (!restored) return;
+      const active = currentSession.current;
+      if (active) {
+        if (active.code !== restored.code) return;
+        pendingMigration.current = restored;
+        if (verifiedSession.current?.token === active.token) {
+          saveSession(active);
+          acknowledgeVerifiedSeat(active);
+        }
+        return;
+      }
+      acceptedMigration.current = restored;
+      pendingMigration.current = restored;
+      verifiedSession.current = null;
       currentSession.current = restored;
       setSession(restored);
       setError(null);
       setConnectionLost(false);
-      window.parent.postMessage({ type: "feud:seat-received", code: restored.code }, parentOrigin);
     };
     window.addEventListener("message", receiveSeat);
     window.parent.postMessage({ type: "feud:seat-ready" }, parentOrigin);
     return () => window.removeEventListener("message", receiveSeat);
-  }, [initialized, session]);
+  }, [initialized, session, acknowledgeVerifiedSeat]);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -91,6 +136,7 @@ export default function GameApp() {
     if (!session) return;
     let stopped = false;
     let seatVerified = false;
+    let seatAcknowledged = false;
     let timer: ReturnType<typeof setTimeout>;
     let controller: AbortController;
     const refresh = async () => {
@@ -98,17 +144,27 @@ export default function GameApp() {
       const timeout = setTimeout(() => controller.abort(), 10_000);
       try {
         const data = await api.room(session, controller.signal);
-        if (stopped) return;
+        if (stopped || currentSession.current?.token !== session.token) return;
         if (!seatVerified) {
           saveSession(session);
           setRoomInAddress(session.code);
           seatVerified = true;
         }
+        verifiedSession.current = session;
+        if (!seatAcknowledged || pendingMigration.current?.code === session.code) {
+          seatAcknowledged = acknowledgeVerifiedSeat(session);
+        }
         updateRoom(data.room);
         setConnectionLost(false);
       } catch (cause) {
-        if (stopped) return;
+        if (stopped || currentSession.current?.token !== session.token) return;
         if (cause instanceof ApiError && (cause.status === 401 || cause.status === 403 || cause.status === 404 || cause.status === 410)) {
+          const accepted = acceptedMigration.current;
+          if (accepted?.token === session.token) acknowledgeSeat(accepted);
+          acceptedMigration.current = null;
+          pendingMigration.current = null;
+          verifiedSession.current = null;
+          currentSession.current = null;
           clearSession(session);
           setSession(null);
           setRoom(null);
@@ -116,6 +172,7 @@ export default function GameApp() {
           setError(cause.status === 401 ? "Your saved seat is no longer available. Check with the host before joining again." : cause.message);
           return;
         }
+        verifiedSession.current = null;
         setConnectionLost(true);
       } finally {
         clearTimeout(timeout);
@@ -124,7 +181,7 @@ export default function GameApp() {
     };
     void refresh();
     return () => { stopped = true; controller?.abort(); clearTimeout(timer); };
-  }, [session, updateRoom]);
+  }, [session, updateRoom, acknowledgeVerifiedSeat]);
 
   async function run(operation: () => Promise<void>) {
     if (busy) return;
@@ -135,14 +192,27 @@ export default function GameApp() {
   }
 
   function enter(data: ApiSessionResponse) {
+    migrationDismissed.current = true;
+    currentSession.current = data.session;
+    verifiedSession.current = null;
+    acceptedMigration.current = null;
+    pendingMigration.current = null;
     saveSession(data.session); setSession(data.session); setRoom(data.room); setConnectionLost(false);
     setRoomInAddress(data.session.code);
   }
 
-  const onCreate = (name: string, avatar: number, settings: RoomSettings) => run(async () => enter(await api.create(name, avatar, settings)));
+  const onCreate = (name: string, avatar: number, settings: RoomSettings) => run(async () => {
+    migrationDismissed.current = true;
+    enter(await api.create(name, avatar, settings));
+  });
   const onJoin = (code: string, name: string, avatar: number) => run(async () => {
+    migrationDismissed.current = true;
     const saved = readSession(code);
     if (saved) {
+      currentSession.current = saved;
+      verifiedSession.current = null;
+      acceptedMigration.current = null;
+      pendingMigration.current = null;
       setRoomInAddress(saved.code);
       setSession(saved);
       return;
@@ -155,16 +225,26 @@ export default function GameApp() {
     if (currentSession.current?.token === session.token) updateRoom(data.room);
   });
   const onLeave = () => run(async () => {
+    migrationDismissed.current = true;
     if (session) {
       try { await api.action(session, { type: "leave" }); } catch { /* Leaving the tab remains possible while offline. */ }
       clearSession(session);
     }
     setRoomInAddress(null);
+    currentSession.current = null;
+    verifiedSession.current = null;
+    acceptedMigration.current = null;
+    pendingMigration.current = null;
     setSession(null); setRoom(null); setConnectionLost(false);
   });
   const returnHomeWhileOffline = () => {
+    migrationDismissed.current = true;
     if (session) clearSession(session, false);
     setRoomInAddress(null);
+    currentSession.current = null;
+    verifiedSession.current = null;
+    acceptedMigration.current = null;
+    pendingMigration.current = null;
     setSession(null); setRoom(null); setConnectionLost(false);
   };
 
