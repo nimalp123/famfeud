@@ -30,3 +30,20 @@ test("missing Vercel client IP cannot retain a forged Cloudflare identity", () =
   assert.equal(trusted.headers.get("cf-connecting-ip"), null);
   assert.equal(trusted.headers.get("oai-authenticated-user-id"), null);
 });
+
+test("framework request facades preserve their URL, method and streamed body", async () => {
+  const native = new Request("https://feud.example/api/rooms/ABC234/action", {
+    method: "POST",
+    headers: { "authorization": "Bearer test-seat", "content-type": "application/json", "oai-authenticated-user-id": "untrusted" },
+    body: JSON.stringify({ action: { type: "ready", ready: true } }),
+  });
+  // Vinext exposes a facade that has Request fields without its native brand.
+  const facade = { url: native.url, method: native.method, headers: native.headers, body: native.body } as Request;
+  const trusted = trustedVercelRequest(facade, "192.0.2.10");
+  assert.equal(trusted.url, native.url);
+  assert.equal(trusted.method, "POST");
+  assert.equal(trusted.headers.get("authorization"), "Bearer test-seat");
+  assert.equal(trusted.headers.get("oai-authenticated-user-id"), null);
+  assert.equal(trusted.headers.get("cf-connecting-ip"), "192.0.2.10");
+  assert.deepEqual(await trusted.json(), { action: { type: "ready", ready: true } });
+});
