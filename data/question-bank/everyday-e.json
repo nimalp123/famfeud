@@ -52,7 +52,7 @@
   {
     "id": "everyday-312",
     "category": "Everyday life",
-    "prompt": "Name something people loosen or take off to get comfortable after a long day.",
+    "prompt": "You get home after a long day of class or work. What's the first thing you're taking off?",
     "answers": [
       {
         "text": "Shoes",
@@ -401,7 +401,7 @@
   {
     "id": "everyday-319",
     "category": "Everyday life",
-    "prompt": "Name something people nervously type into a search bar.",
+    "prompt": "Name something you'd type into the search bar and hope nobody sees.",
     "answers": [
       {
         "text": "A crush's name",
@@ -451,7 +451,7 @@
   {
     "id": "everyday-320",
     "category": "Everyday life",
-    "prompt": "Name a phone sound you'd hate everyone to hear in a silent room.",
+    "prompt": "You're in a dead-silent class or library. What's the last phone sound you want everybody to hear?",
     "answers": [
       {
         "text": "Video audio",
@@ -500,7 +500,7 @@
   {
     "id": "everyday-321",
     "category": "Everyday life",
-    "prompt": "Name a reason someone leaves a group chat.",
+    "prompt": "You were going to mute the group chat. What makes you just leave it instead?",
     "answers": [
       {
         "text": "Too many messages",
@@ -648,7 +648,7 @@
   {
     "id": "everyday-324",
     "category": "Everyday life",
-    "prompt": "Name something people do with their phone when a conversation gets awkward.",
+    "prompt": "The conversation has gone awkwardly quiet. What do you pretend you needed to do on your phone?",
     "answers": [
       {
         "text": "Check messages",
@@ -795,7 +795,7 @@
   {
     "id": "everyday-327",
     "category": "Everyday life",
-    "prompt": "Name something people have far too many of on their phone.",
+    "prompt": "You're trying to clear space on your phone. What have you been hoarding without realizing it?",
     "answers": [
       {
         "text": "Screenshots",
@@ -894,7 +894,7 @@
   {
     "id": "everyday-329",
     "category": "Everyday life",
-    "prompt": "Name something people blame when a video call makes them look terrible.",
+    "prompt": "Name something you blame when you turn on the front camera for a call and hate what you see.",
     "answers": [
       {
         "text": "Lighting",
@@ -943,7 +943,7 @@
   {
     "id": "everyday-330",
     "category": "Everyday life",
-    "prompt": "Name something people forget is visible when they share their screen.",
+    "prompt": "You're sharing your screen in a call. What do you suddenly remember everyone can see?",
     "answers": [
       {
         "text": "Messages",
@@ -1488,7 +1488,7 @@
   {
     "id": "everyday-341",
     "category": "Everyday life",
-    "prompt": "Name a lie people tell themselves while shopping.",
+    "prompt": "Name something you tell yourself while checking out online to justify buying the thing.",
     "answers": [
       {
         "text": "I need it",
@@ -1784,7 +1784,7 @@
   {
     "id": "everyday-347",
     "category": "Everyday life",
-    "prompt": "Name something embarrassing to discover at the checkout.",
+    "prompt": "You finally make it to the front of the checkout line. What embarrassing thing do you discover?",
     "answers": [
       {
         "text": "Card declined",
@@ -1932,7 +1932,7 @@
   {
     "id": "everyday-350",
     "category": "Everyday life",
-    "prompt": "Name a reason people love shopping online in bed.",
+    "prompt": "Name a reason you start browsing things to buy when you're supposed to be getting to sleep.",
     "answers": [
       {
         "text": "Comfort",
@@ -2426,7 +2426,7 @@
   {
     "id": "everyday-360",
     "category": "Everyday life",
-    "prompt": "Name something in a store that makes you think, \"Who buys that?\"",
+    "prompt": "Name something you see while shopping and immediately send a friend a picture asking, “Who buys this?”",
     "answers": [
       {
         "text": "Expensive water",
@@ -2475,7 +2475,7 @@
   {
     "id": "everyday-361",
     "category": "Everyday life",
-    "prompt": "Name something people buy because they saw it in an online video.",
+    "prompt": "Name something you didn't know you wanted until it kept showing up in videos on your feed.",
     "answers": [
       {
         "text": "Skincare",
@@ -3164,7 +3164,7 @@
   {
     "id": "everyday-375",
     "category": "Everyday life",
-    "prompt": "Name something people do when they can't remember your name.",
+    "prompt": "You meet someone at orientation or a new shift and immediately forget their name. How do you cover?",
     "answers": [
       {
         "text": "Ask a mutual friend",
@@ -3556,7 +3556,7 @@
   {
     "id": "everyday-383",
     "category": "Everyday life",
-    "prompt": "Name something people do in the shower besides wash.",
+    "prompt": "You finally have the house to yourself. What do you do in the shower besides wash?",
     "answers": [
       {
         "text": "Sing",
@@ -3752,7 +3752,7 @@
   {
     "id": "everyday-387",
     "category": "Everyday life",
-    "prompt": "Name something people do to seem freshly showered when they're not.",
+    "prompt": "You overslept and don't have time to shower. What do you do before you leave?",
     "answers": [
       {
         "text": "Use deodorant",
@@ -4095,7 +4095,7 @@
   {
     "id": "everyday-394",
     "category": "Everyday life",
-    "prompt": "Name something adults still enjoy even though it feels childish.",
+    "prompt": "Name something you might still have fun doing even though your younger sibling does it too.",
     "answers": [
       {
         "text": "Jumping in puddles",
@@ -4193,7 +4193,7 @@
   {
     "id": "everyday-396",
     "category": "Everyday life",
-    "prompt": "Name something people check on themselves in a shiny shop window.",
+    "prompt": "You don't have a mirror, so you open your front camera. What are you checking?",
     "answers": [
       {
         "text": "Hair",

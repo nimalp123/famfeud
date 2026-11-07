@@ -2,7 +2,7 @@
   {
     "id": "everyday-001",
     "category": "Everyday life",
-    "prompt": "Name something people realize they forgot after leaving home.",
+    "prompt": "You're already on your way to class or work. What did you leave at home?",
     "answers": [
       {
         "text": "Phone",
@@ -55,7 +55,7 @@
   {
     "id": "everyday-002",
     "category": "Everyday life",
-    "prompt": "What might your roommate do after their alarm has already woken everybody else?",
+    "prompt": "Your roommate's early alarm woke you before it woke them. What do they do next?",
     "answers": [
       {
         "text": "Go back to sleep",
@@ -159,7 +159,7 @@
   {
     "id": "everyday-004",
     "category": "Everyday life",
-    "prompt": "Name a household chore people put off doing.",
+    "prompt": "It's the first free hour you've had all week. What chore are you still putting off?",
     "answers": [
       {
         "text": "Laundry",
@@ -263,7 +263,7 @@
   {
     "id": "everyday-006",
     "category": "Everyday life",
-    "prompt": "Name something in your junk drawer that you no longer know what it belongs to.",
+    "prompt": "You're packing up your room and find something you can't match to anything. What is it?",
     "answers": [
       {
         "text": "Cable",
@@ -361,7 +361,7 @@
   {
     "id": "everyday-008",
     "category": "Everyday life",
-    "prompt": "Guests are five minutes away. Where do you shove the clutter?",
+    "prompt": "Someone texts “I'm outside.” Where do you shove the clutter?",
     "answers": [
       {
         "text": "Closet",
@@ -410,7 +410,7 @@
   {
     "id": "everyday-009",
     "category": "Everyday life",
-    "prompt": "Name something you learn about your neighbors through a very thin wall.",
+    "prompt": "What do you learn about the people next door just by living on the other side of a thin wall?",
     "answers": [
       {
         "text": "Their music taste",
@@ -508,7 +508,7 @@
   {
     "id": "everyday-011",
     "category": "Everyday life",
-    "prompt": "Name something people discover they own too many of while decluttering.",
+    "prompt": "You're packing to move and realize you own way too many of what?",
     "answers": [
       {
         "text": "Clothes",
@@ -661,7 +661,7 @@
   {
     "id": "everyday-014",
     "category": "Everyday life",
-    "prompt": "Name an excuse a friend gives for arriving halfway through your party.",
+    "prompt": "The party's halfway over. What excuse does the late friend finally text you?",
     "answers": [
       {
         "text": "Traffic",
@@ -759,7 +759,7 @@
   {
     "id": "everyday-016",
     "category": "Everyday life",
-    "prompt": "Name a giveaway that your guest is fighting to stay awake.",
+    "prompt": "What's the giveaway that your friend won't make it to the end of movie night?",
     "answers": [
       {
         "text": "Yawning",
@@ -808,7 +808,7 @@
   {
     "id": "everyday-017",
     "category": "Everyday life",
-    "prompt": "Your parents are coming over. What gets cleaned first?",
+    "prompt": "Your parents text that they're almost at your place. What do you clean first?",
     "answers": [
       {
         "text": "Bathroom",
@@ -967,7 +967,7 @@
   {
     "id": "everyday-020",
     "category": "Everyday life",
-    "prompt": "Name a noise that might wake you up at home.",
+    "prompt": "It's your one morning to sleep in. What wakes you up anyway?",
     "answers": [
       {
         "text": "Alarm",
@@ -1022,7 +1022,7 @@
   {
     "id": "everyday-021",
     "category": "Everyday life",
-    "prompt": "Name a reason a guest who planned to go home ends up sleeping on your couch.",
+    "prompt": "A friend said they'd be home tonight. Why are they suddenly asking to crash on your couch?",
     "answers": [
       {
         "text": "Missed the last train",
@@ -1126,7 +1126,7 @@
   {
     "id": "everyday-023",
     "category": "Everyday life",
-    "prompt": "Name an adult chore you still wish someone would do for you.",
+    "prompt": "Name something you wish someone still did for you when you started handling more on your own.",
     "answers": [
       {
         "text": "Laundry",
@@ -1175,7 +1175,7 @@
   {
     "id": "everyday-024",
     "category": "Everyday life",
-    "prompt": "Name a place the TV remote disappears to in your own home.",
+    "prompt": "Everyone's ready to start the movie. Where did the TV remote go?",
     "answers": [
       {
         "text": "Between sofa cushions",
@@ -1322,7 +1322,7 @@
   {
     "id": "everyday-027",
     "category": "Everyday life",
-    "prompt": "You're finally home alone. Name something you can do without being judged.",
+    "prompt": "The rest of the house is out for the night. What do you finally get to do without being judged?",
     "answers": [
       {
         "text": "Walk around naked",
@@ -1522,7 +1522,7 @@
   {
     "id": "everyday-031",
     "category": "Everyday life",
-    "prompt": "Name a photo your family displays that you wish they would take down.",
+    "prompt": "Name a photo your family still shows your friends even though you've asked them to stop.",
     "answers": [
       {
         "text": "Baby bath photo",
@@ -1571,7 +1571,7 @@
   {
     "id": "everyday-032",
     "category": "Everyday life",
-    "prompt": "Name something that piles up during a busy week.",
+    "prompt": "Name something that piles up during finals week.",
     "answers": [
       {
         "text": "Laundry",
@@ -1675,7 +1675,7 @@
   {
     "id": "everyday-034",
     "category": "Everyday life",
-    "prompt": "Name a noise from next door that makes you consider banging on the wall.",
+    "prompt": "You're trying to study at home. What noise from next door makes you want to bang on the wall?",
     "answers": [
       {
         "text": "Loud music",
@@ -1724,7 +1724,7 @@
   {
     "id": "everyday-035",
     "category": "Everyday life",
-    "prompt": "Name a household job you would happily pay somebody else to do.",
+    "prompt": "You have just enough money to pay someone to do one job around your place. What are you handing off?",
     "answers": [
       {
         "text": "Clean the toilet",
@@ -1828,7 +1828,7 @@
   {
     "id": "everyday-037",
     "category": "Everyday life",
-    "prompt": "Name a sign that a house party is getting out of control.",
+    "prompt": "You invited a few people over. What's the sign it's turned into a party you can't control?",
     "answers": [
       {
         "text": "Something breaks",

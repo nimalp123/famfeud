@@ -2,7 +2,7 @@
   {
     "id": "games-041",
     "category": "Sports & games",
-    "prompt": "Name a reason you stop listening while someone explains a board game.",
+    "prompt": "A friend says “the rules are simple,” then starts explaining. What makes you tune out before they finish?",
     "answers": [
       {
         "text": "Too many rules",
@@ -100,7 +100,7 @@
   {
     "id": "games-043",
     "category": "Sports & games",
-    "prompt": "Name something people want within reach during a long board game.",
+    "prompt": "You’ve been around the same board game for two hours. What are you glad you brought within reach?",
     "answers": [
       {
         "text": "Snacks",
@@ -296,7 +296,7 @@
   {
     "id": "games-047",
     "category": "Sports & games",
-    "prompt": "Name a reason someone keeps the instructions open for the whole game.",
+    "prompt": "Everyone else has put away the rules. Why is one friend still checking them every turn?",
     "answers": [
       {
         "text": "They are new",
@@ -345,7 +345,7 @@
   {
     "id": "games-048",
     "category": "Sports & games",
-    "prompt": "Name something people do when they realize a game has more rules than expected.",
+    "prompt": "The friend teaching the game just turned to page four. What might somebody around the table do next?",
     "answers": [
       {
         "text": "Groan",
@@ -492,7 +492,7 @@
   {
     "id": "games-051",
     "category": "Sports & games",
-    "prompt": "Name something that makes a game difficult to play in a tiny apartment.",
+    "prompt": "You squeeze six friends into a small apartment for game night. What makes the game harder to play?",
     "answers": [
       {
         "text": "Huge board",
@@ -688,7 +688,7 @@
   {
     "id": "games-055",
     "category": "Sports & games",
-    "prompt": "Name a way people choose teams that almost guarantees hurt feelings.",
+    "prompt": "Your friend group needs two teams and nobody wants to be the one left out. What team-picking plan makes it worse?",
     "answers": [
       {
         "text": "Pick captains",
@@ -983,7 +983,7 @@
   {
     "id": "games-061",
     "category": "Sports & games",
-    "prompt": "Name something people use as pretend money during a card game.",
+    "prompt": "You and your friends want to play a card game with pretend stakes but nobody brought chips. What might end up on the table?",
     "answers": [
       {
         "text": "Chips",
@@ -1131,7 +1131,7 @@
   {
     "id": "games-064",
     "category": "Sports & games",
-    "prompt": "Name something people do to hide their face during a card game.",
+    "prompt": "You’re playing cards with friends who can read your face from across the room. What do you do to hide it?",
     "answers": [
       {
         "text": "Wear sunglasses",
@@ -1327,7 +1327,7 @@
   {
     "id": "games-068",
     "category": "Sports & games",
-    "prompt": "Name a reason a friendly card game suddenly becomes serious.",
+    "prompt": "A card game with friends goes from background activity to everyone leaning forward. What raised the stakes?",
     "answers": [
       {
         "text": "Someone starts keeping a running score",
@@ -1379,7 +1379,7 @@
   {
     "id": "games-069",
     "category": "Sports & games",
-    "prompt": "Name something someone might wager in a game when nobody wants to bet money.",
+    "prompt": "Nobody is putting money on the game. What might two friends agree the loser has to do anyway?",
     "answers": [
       {
         "text": "Doing the dishes",
@@ -1626,7 +1626,7 @@
   {
     "id": "games-074",
     "category": "Sports & games",
-    "prompt": "Name something you do when you discover a friend has used the wrong game rules for years.",
+    "prompt": "A friend teaches you their favorite game and you realize they’ve had a rule wrong for years. What do you do first?",
     "answers": [
       {
         "text": "Laugh",
@@ -1822,7 +1822,7 @@
   {
     "id": "games-078",
     "category": "Sports & games",
-    "prompt": "Name something that makes playing cards at a restaurant difficult.",
+    "prompt": "You take a deck of cards out while waiting for your food. What’s most likely to stop you from finishing the hand?",
     "answers": [
       {
         "text": "Tiny table",
@@ -1969,7 +1969,7 @@
   {
     "id": "games-081",
     "category": "Sports & games",
-    "prompt": "Name a sign someone has been playing video games all night.",
+    "prompt": "Your friend swore they logged off early. What gives away that they were gaming all night?",
     "answers": [
       {
         "text": "They oversleep",
@@ -2021,7 +2021,7 @@
   {
     "id": "games-082",
     "category": "Sports & games",
-    "prompt": "Name a purchase a gamer would rather their friends never find out about.",
+    "prompt": "Your friends ask how much you spent on gaming this month. Which purchase would you rather keep to yourself?",
     "answers": [
       {
         "text": "Bought way too many skins",
@@ -2074,7 +2074,7 @@
   {
     "id": "games-083",
     "category": "Sports & games",
-    "prompt": "Name a reason a gamer says just one more and keeps playing for hours.",
+    "prompt": "Your friend says “one more” at midnight. What makes them hit play again instead of logging off?",
     "answers": [
       {
         "text": "Friends are still online",
@@ -2125,7 +2125,7 @@
   {
     "id": "games-084",
     "category": "Sports & games",
-    "prompt": "Name something a gamer gets mad at besides other players.",
+    "prompt": "Nobody on the team actually did anything wrong. What else might a gamer blame when their night is going badly?",
     "answers": [
       {
         "text": "Their internet",
@@ -2179,7 +2179,7 @@
   {
     "id": "games-085",
     "category": "Sports & games",
-    "prompt": "Name a reason you regret handing your controller to a friend.",
+    "prompt": "You let your friend play one round on your setup. What makes you regret handing them the controller?",
     "answers": [
       {
         "text": "They ruin your ranked game",
@@ -2231,7 +2231,7 @@
   {
     "id": "games-086",
     "category": "Sports & games",
-    "prompt": "Name something gamers forget while saying they are almost finished.",
+    "prompt": "A friend’s been “almost done” with a game for the last hour. What real-life thing have they probably forgotten?",
     "answers": [
       {
         "text": "Texting someone back",
@@ -2283,7 +2283,7 @@
   {
     "id": "games-087",
     "category": "Sports & games",
-    "prompt": "Name a sign someone is taking a casual video game far too seriously.",
+    "prompt": "You said you wanted a low-stakes game with friends. What gives away that one person is treating it like a tournament?",
     "answers": [
       {
         "text": "Shouting commands",
@@ -2433,7 +2433,7 @@
   {
     "id": "games-090",
     "category": "Sports & games",
-    "prompt": "Name a reason someone deletes a game they claim to love.",
+    "prompt": "The friend who got everyone into a game suddenly uninstalls it. What’s the most likely reason?",
     "answers": [
       {
         "text": "It takes up too much storage",
@@ -2484,7 +2484,7 @@
   {
     "id": "games-091",
     "category": "Sports & games",
-    "prompt": "Name something you might hear through a stranger's microphone during an online game.",
+    "prompt": "You get matched with a stranger and they leave their mic on. What do you hear from their room?",
     "answers": [
       {
         "text": "A family member calling them",
@@ -2537,7 +2537,7 @@
   {
     "id": "games-092",
     "category": "Sports & games",
-    "prompt": "Name something a gamer does while waiting for a game to load.",
+    "prompt": "Everyone’s waiting for the next match to load. What does your friend squeeze in before it starts?",
     "answers": [
       {
         "text": "Scroll short videos",
@@ -2691,7 +2691,7 @@
   {
     "id": "games-095",
     "category": "Sports & games",
-    "prompt": "Name something a gamer takes more personally than they should.",
+    "prompt": "What tiny gaming setback does your friend talk about like an actual betrayal?",
     "answers": [
       {
         "text": "Getting called out in voice chat",
@@ -2744,7 +2744,7 @@
   {
     "id": "games-096",
     "category": "Sports & games",
-    "prompt": "Name a reason someone pauses a game at the worst possible moment.",
+    "prompt": "You finally get to the good part of a game. What happens in the room that makes you pause it?",
     "answers": [
       {
         "text": "A parent calls their name",
@@ -2797,7 +2797,7 @@
   {
     "id": "games-097",
     "category": "Sports & games",
-    "prompt": "Name something you would hide before video-chatting with your gaming friends.",
+    "prompt": "Your gaming friends ask you to turn on your camera. What do you move out of frame first?",
     "answers": [
       {
         "text": "A pile of laundry",
@@ -2850,7 +2850,7 @@
   {
     "id": "games-098",
     "category": "Sports & games",
-    "prompt": "Name a reason a gamer refuses to use voice chat.",
+    "prompt": "Everyone’s on mic except one friend. Why are they sticking to text chat?",
     "answers": [
       {
         "text": "People get toxic on mic",
@@ -2901,7 +2901,7 @@
   {
     "id": "games-099",
     "category": "Sports & games",
-    "prompt": "Name something a player says before attempting a move that immediately goes wrong.",
+    "prompt": "Your friend is about to try something in a game that’s almost certainly going to end up in the group chat. What do they say first?",
     "answers": [
       {
         "text": "Watch this",
@@ -3003,7 +3003,7 @@
   {
     "id": "games-101",
     "category": "Sports & games",
-    "prompt": "Name a job the weakest player gets assigned in a team game.",
+    "prompt": "You’re the newest person in the squad. What job do your friends give you while you learn the game?",
     "answers": [
       {
         "text": "Guard the base",
@@ -3157,7 +3157,7 @@
   {
     "id": "games-104",
     "category": "Sports & games",
-    "prompt": "Name something that makes a cooperative game feel less cooperative.",
+    "prompt": "The group picked a co-op game to avoid fighting each other. What ruins the plan anyway?",
     "answers": [
       {
         "text": "One person gives all orders",
@@ -3255,7 +3255,7 @@
   {
     "id": "games-106",
     "category": "Sports & games",
-    "prompt": "Name something a teammate shouts that is completely unhelpful.",
+    "prompt": "You’ve got seconds left and your teammate is yelling into the mic. What callout tells you absolutely nothing useful?",
     "answers": [
       {
         "text": "Do something",
@@ -3304,7 +3304,7 @@
   {
     "id": "games-107",
     "category": "Sports & games",
-    "prompt": "Name something teammates agree on that disappears the moment the game begins.",
+    "prompt": "Before queuing, everyone agrees this time will be different. What agreement falls apart as soon as the game starts?",
     "answers": [
       {
         "text": "The strategy",
@@ -3353,7 +3353,7 @@
   {
     "id": "games-108",
     "category": "Sports & games",
-    "prompt": "Name a reason two best friends make terrible teammates.",
+    "prompt": "You and your best friend say you’ll be an unbeatable duo. What’s the real reason you’re awful teammates?",
     "answers": [
       {
         "text": "Distract each other",
@@ -3402,7 +3402,7 @@
   {
     "id": "games-109",
     "category": "Sports & games",
-    "prompt": "Name something you want from a teammate when you are having a terrible game.",
+    "prompt": "You’re having a rough match and everybody can tell. What would you actually want from a teammate right then?",
     "answers": [
       {
         "text": "Encouragement",
@@ -3451,7 +3451,7 @@
   {
     "id": "games-110",
     "category": "Sports & games",
-    "prompt": "Name a reason you might pick a less-skilled friend for your team.",
+    "prompt": "Why might you take a friend who barely knows the game over someone who’s way better at it?",
     "answers": [
       {
         "text": "They are fun",
@@ -3500,7 +3500,7 @@
   {
     "id": "games-111",
     "category": "Sports & games",
-    "prompt": "Name something a bossy teammate tries to control.",
+    "prompt": "What does your bossiest friend try to run the moment the group picks a team game?",
     "answers": [
       {
         "text": "Everyone's moves",
@@ -3549,7 +3549,7 @@
   {
     "id": "games-112",
     "category": "Sports & games",
-    "prompt": "Name a reason teamwork falls apart when the timer starts.",
+    "prompt": "You and your friends had a great plan until the countdown started. What made it fall apart?",
     "answers": [
       {
         "text": "Everyone talks at once",
@@ -3598,7 +3598,7 @@
   {
     "id": "games-113",
     "category": "Sports & games",
-    "prompt": "Name something people blame after their team loses a trivia game.",
+    "prompt": "Your group misses first place at trivia. What do they blame in the chat afterward?",
     "answers": [
       {
         "text": "The questions",
@@ -3647,7 +3647,7 @@
   {
     "id": "games-114",
     "category": "Sports & games",
-    "prompt": "Name something a teammate does that deserves an apology afterward.",
+    "prompt": "The match is over and the chat has gone quiet. What did a teammate do that calls for an apology?",
     "answers": [
       {
         "text": "Yells at you",
@@ -3745,7 +3745,7 @@
   {
     "id": "games-116",
     "category": "Sports & games",
-    "prompt": "Name something difficult to act out in charades without looking ridiculous.",
+    "prompt": "Your friends start filming as you pull a charades card. What would be especially hard to act out without looking ridiculous?",
     "answers": [
       {
         "text": "Fighting with a fitted sheet",
@@ -3894,7 +3894,7 @@
   {
     "id": "games-119",
     "category": "Sports & games",
-    "prompt": "Name a reason a person knows a weird amount of trivia about one topic.",
+    "prompt": "A friend suddenly knows everything about one extremely specific trivia topic. Where did they pick it up?",
     "answers": [
       {
         "text": "Hobby",
@@ -3948,7 +3948,7 @@
   {
     "id": "games-120",
     "category": "Sports & games",
-    "prompt": "Name a drawing-game clue that exposes how badly someone draws.",
+    "prompt": "You’ve got ten seconds and a trackpad in a drawing game. What clue makes everyone realize you can’t draw?",
     "answers": [
       {
         "text": "A person",
@@ -3997,7 +3997,7 @@
   {
     "id": "games-121",
     "category": "Sports & games",
-    "prompt": "Name something a player says after their team fails to guess their drawing.",
+    "prompt": "The timer runs out on your drawing and nobody got it. What’s the first thing you say in your own defense?",
     "answers": [
       {
         "text": "It was obvious",
@@ -4046,7 +4046,7 @@
   {
     "id": "games-122",
     "category": "Sports & games",
-    "prompt": "Name a reason you get suspicious when a friend is suddenly amazing at trivia.",
+    "prompt": "Your friend who usually guesses randomly is cleaning up at trivia tonight. What gives away how they’re doing it?",
     "answers": [
       {
         "text": "They keep checking a phone",
@@ -4196,7 +4196,7 @@
   {
     "id": "games-125",
     "category": "Sports & games",
-    "prompt": "Name something you should avoid putting on a truth-or-dare card at a family party.",
+    "prompt": "You’re picking truth-or-dare prompts for a mixed group of friends and family. What goes straight into the reject pile?",
     "answers": [
       {
         "text": "Who they have a crush on",
@@ -4298,7 +4298,7 @@
   {
     "id": "games-127",
     "category": "Sports & games",
-    "prompt": "Name something people might secretly look up during a trivia game.",
+    "prompt": "You catch a friend searching their phone under the table during trivia. What answer might they be looking for?",
     "answers": [
       {
         "text": "A celebrity's age",

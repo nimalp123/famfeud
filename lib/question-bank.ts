@@ -116,6 +116,7 @@ export function validateQuestionBank(value: unknown): BankQuestion[] {
 
 let bank: BankQuestion[] | undefined;
 let bankIndex: ReadonlyArray<Readonly<Pick<BankQuestion, "id" | "category">>> | undefined;
+let shortWords: Set<string> | undefined;
 
 function getQuestionBank(): BankQuestion[] {
   bank ??= validateQuestionBank([
@@ -130,6 +131,18 @@ function getQuestionBank(): BankQuestion[] {
 
 export function readQuestionBank(): BankQuestion[] {
   return structuredClone(getQuestionBank());
+}
+
+export function readQuestionBankShortWords(): ReadonlySet<string> {
+  if (!shortWords) {
+    shortWords = new Set();
+    for (const { prompt, answers } of getQuestionBank()) {
+      for (const text of [prompt, ...answers.flatMap(({ text, aliases }) => [text, ...aliases])]) {
+        for (const word of normalizeAnswer(text).match(/\b[a-z]{3,5}\b/g) ?? []) shortWords.add(word);
+      }
+    }
+  }
+  return shortWords;
 }
 
 /** Reuse immutable metadata for selection instead of copying every hidden board. */

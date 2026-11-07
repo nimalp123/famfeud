@@ -11,8 +11,9 @@ import type {
   RoundState,
   Team,
 } from "./types.ts";
-import { answerMeaning, conciseMeaning, normalizeAnswer, typoQualifiers } from "./answers.ts";
+import { answerMeaning, conciseMeaning, meaningSpellingVariants, normalizeAnswer, spellingDistance } from "./answers.ts";
 import { QUESTION_CATEGORIES } from "./constants.ts";
+import { readQuestionBankShortWords } from "./question-bank.ts";
 
 const SOLO_ROUND_MS = 60_000;
 const TEAM_TURN_MS = 20_000;
@@ -266,16 +267,22 @@ export function advanceTime(state: RoomState, now: number): RoomState {
   return room;
 }
 
-function editDistance(left: string, right: string): number {
-  let row = Array.from({ length: right.length + 1 }, (_, index) => index);
-  for (let i = 0; i < left.length; i += 1) {
-    const next = [i + 1];
-    for (let j = 0; j < right.length; j += 1) {
-      next.push(Math.min(next[j] + 1, row[j + 1] + 1, row[j] + (left[i] === right[j] ? 0 : 1)));
-    }
-    row = next;
+function matchMeaning(meaning: string, meanings: { answer: Answer; labels: string[] }[]): Answer | null | undefined {
+  const semantic = meanings.filter((candidate) => candidate.labels.includes(meaning));
+  if (semantic.length) return semantic.length === 1 ? semantic[0].answer : null;
+
+  const concise = conciseMeaning(meaning);
+  const abbreviated = meanings.filter(({ labels }) => labels.some((label) => conciseMeaning(label) === concise));
+  if (abbreviated.length) {
+    if (abbreviated.length !== 1) return null;
+    const { answer, labels } = abbreviated[0];
+    const opposite = (label: string) => /^stop talk\b/.test(label) && conciseMeaning(label) === concise;
+    if (opposite(meaning) || labels.some(opposite)) return null;
+    const talking = /^(?:(?:keep|start) )?talk\b/;
+    const hasBareSide = meaning === concise || labels.includes(concise);
+    const bothTalk = talking.test(meaning) && labels.some((label) => talking.test(label) && conciseMeaning(label) === concise);
+    if (hasBareSide || bothTalk) return answer;
   }
-  return row[right.length];
 }
 
 function matchAnswer(answers: Answer[], guess: string): Answer | undefined {
@@ -289,39 +296,29 @@ function matchAnswer(answers: Answer[], guess: string): Answer | undefined {
 
   const meaning = answerMeaning(normalized);
   const meanings = candidates.map(({ answer, labels }) => ({ answer, labels: labels.map(answerMeaning) }));
-  const semantic = meanings.filter((candidate) => candidate.labels.includes(meaning));
-  if (semantic.length) return semantic.length === 1 ? semantic[0].answer : undefined;
+  const semantic = matchMeaning(meaning, meanings);
+  if (semantic !== undefined) return semantic ?? undefined;
 
-  const concise = conciseMeaning(meaning);
-  const abbreviated = meanings.filter(({ labels }) => labels.some((label) => conciseMeaning(label) === concise));
-  if (abbreviated.length) {
-    if (abbreviated.length !== 1) return undefined;
-    const { answer, labels } = abbreviated[0];
-    const opposite = (label: string) => /^stop talk\b/.test(label) && conciseMeaning(label) === concise;
-    if (opposite(meaning) || labels.some(opposite)) return undefined;
-    const talking = /^(?:(?:keep|start) )?talk\b/;
-    const hasBareSide = meaning === concise || labels.includes(concise);
-    const bothTalk = talking.test(meaning) && labels.some((label) => talking.test(label) && conciseMeaning(label) === concise);
-    if (hasBareSide || bothTalk) return answer;
-  }
-
-  if (normalized.length < 5) return undefined;
-  const limit = normalized.length >= 9 ? 2 : 1;
-  const qualifiers = typoQualifiers(normalized);
-  const wordCount = normalized.split(" ").length;
-  const close = candidates.map(({ answer, labels }) => {
-    const distances = labels
-      .filter((label) => label.length >= 5 && label.split(" ").length === wordCount && typoQualifiers(label) === qualifiers)
-      .map((label) => {
-        const distance = editDistance(normalized, label);
-        return distance / Math.max(label.length, normalized.length) <= 0.22 ? distance : Infinity;
-      });
-    return { answer, distance: Math.min(...distances) };
-  })
-    .filter((candidate) => candidate.distance <= limit)
+  const knownWords = readQuestionBankShortWords();
+  const close = candidates.map(({ answer, labels }, index) => ({
+    answer,
+    distance: Math.min(
+      ...labels.map((label) => spellingDistance(normalized, label, knownWords)),
+      ...meanings[index].labels.map((label) => spellingDistance(meaning, label, knownWords)),
+    ),
+  }))
+    .filter((candidate) => Number.isFinite(candidate.distance))
     .sort((a, b) => a.distance - b.distance);
   if (close.length > 1 && close[0].distance === close[1].distance) return undefined;
-  return close[0]?.answer;
+  if (close.length) return close[0].answer;
+
+  const corrected = new Set<Answer>();
+  for (const variant of meaningSpellingVariants(normalized, meanings.flatMap(({ labels }) => labels), knownWords)) {
+    const match = matchMeaning(answerMeaning(variant), meanings);
+    if (match === null) return undefined;
+    if (match) corrected.add(match);
+  }
+  return corrected.size === 1 ? corrected.values().next().value : undefined;
 }
 
 function submitGuess(room: RoomState, player: Player, guess: string, now: number): void {

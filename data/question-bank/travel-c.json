@@ -51,7 +51,7 @@
   {
     "id": "travel-132",
     "category": "Travel & places",
-    "prompt": "Name the worst kind of stranger to sit beside on a long flight.",
+    "prompt": "You're stuck next to a stranger for the whole trip. What kind of seatmate makes it feel twice as long?",
     "answers": [
       {
         "text": "Nonstop talker",
@@ -149,47 +149,47 @@
   {
     "id": "travel-134",
     "category": "Travel & places",
-    "prompt": "An airline ruined your plans. Name something it could offer to win you back.",
+    "prompt": "Your bus gets canceled after you've already arrived at the station. What would make it up to you?",
     "answers": [
       {
-        "text": "Refund",
+        "text": "A full refund",
         "aliases": [
           "money back"
         ],
         "points": 28
       },
       {
-        "text": "Seat upgrade",
+        "text": "A seat on the next bus",
         "aliases": [
-          "first class"
+          "rebook my ticket"
         ],
         "points": 23
       },
       {
-        "text": "Free hotel",
+        "text": "A ride to a nearby station",
         "aliases": [
-          "hotel room"
+          "free shuttle"
         ],
         "points": 19
       },
       {
-        "text": "Meal voucher",
+        "text": "Food while you wait",
         "aliases": [
-          "free meal"
+          "meal voucher"
         ],
         "points": 14
       },
       {
-        "text": "Free future flight",
+        "text": "A place to stay if it's overnight",
         "aliases": [
-          "flight credit"
+          "hotel room"
         ],
         "points": 10
       },
       {
-        "text": "Frequent flyer miles",
+        "text": "Credit toward another trip",
         "aliases": [
-          "bonus miles"
+          "travel voucher"
         ],
         "points": 6
       }
@@ -247,7 +247,7 @@
   {
     "id": "travel-136",
     "category": "Travel & places",
-    "prompt": "Name something you'd be more upset to forget than your underwear on a flight.",
+    "prompt": "You're heading to the airport with one bag. What would make you turn around even if you're already running late?",
     "answers": [
       {
         "text": "Passport",
@@ -296,7 +296,7 @@
   {
     "id": "travel-137",
     "category": "Travel & places",
-    "prompt": "Name something that makes a traveler sprint through an airport.",
+    "prompt": "You were absolutely sure there was time to grab a snack. What suddenly makes you sprint through the airport?",
     "answers": [
       {
         "text": "Final boarding call",
@@ -345,7 +345,7 @@
   {
     "id": "travel-138",
     "category": "Travel & places",
-    "prompt": "Name something people do when they get upgraded to first class for the first time.",
+    "prompt": "You and a friend are flying on a cheap ticket and get bumped up to first class. What do you do first?",
     "answers": [
       {
         "text": "Take pictures",
@@ -394,47 +394,47 @@
   {
     "id": "travel-139",
     "category": "Travel & places",
-    "prompt": "Name a moment at the airport when a dead phone is a disaster.",
+    "prompt": "Your phone hits one percent in the middle of the trip. What's the next thing you need it for?",
     "answers": [
       {
-        "text": "Showing the boarding pass",
+        "text": "Show the ticket",
         "aliases": [
-          "boarding"
+          "scan the pass"
         ],
         "points": 32
       },
       {
-        "text": "Calling their ride",
+        "text": "Call your ride",
         "aliases": [
-          "pickup"
+          "text pickup"
         ],
         "points": 24
       },
       {
-        "text": "Finding the gate",
+        "text": "Find where you're going",
         "aliases": [
-          "airport map"
+          "directions"
         ],
         "points": 17
       },
       {
-        "text": "Paying for something",
+        "text": "Pay for something",
         "aliases": [
-          "mobile payment"
+          "mobile wallet"
         ],
         "points": 12
       },
       {
-        "text": "Contacting family",
+        "text": "Check in with family",
         "aliases": [
-          "calling home"
+          "message family"
         ],
         "points": 9
       },
       {
-        "text": "Checking a flight change",
+        "text": "Check a delay or gate change",
         "aliases": [
-          "flight updates"
+          "travel updates"
         ],
         "points": 6
       }
@@ -443,7 +443,7 @@
   {
     "id": "travel-140",
     "category": "Travel & places",
-    "prompt": "Name something another passenger has that you wish you'd brought.",
+    "prompt": "It's hour three on the bus. What has the person next to you packed that you wish you had?",
     "answers": [
       {
         "text": "Neck pillow",
@@ -492,7 +492,7 @@
   {
     "id": "travel-141",
     "category": "Travel & places",
-    "prompt": "Name something you'd hate to pull out of your bag in front of a security line.",
+    "prompt": "Your bag has to be opened in front of a line of strangers. What do you hope doesn't tumble out?",
     "answers": [
       {
         "text": "Dirty underwear",
@@ -688,7 +688,7 @@
   {
     "id": "travel-145",
     "category": "Travel & places",
-    "prompt": "Name an airport purchase that makes people say they should have brought their own.",
+    "prompt": "What's something you buy at the station or airport for way more than it costs anywhere else?",
     "answers": [
       {
         "text": "Bottled water",
@@ -737,7 +737,7 @@
   {
     "id": "travel-146",
     "category": "Travel & places",
-    "prompt": "Name something you'd hate the airline to break in your suitcase.",
+    "prompt": "A friend tosses your bag into the trunk. What's inside that you hope didn't break?",
     "answers": [
       {
         "text": "Laptop",
@@ -786,47 +786,47 @@
   {
     "id": "travel-147",
     "category": "Travel & places",
-    "prompt": "Name a reason someone willingly gives up a window seat.",
+    "prompt": "You got the window seat on a flight. What would make you give it up?",
     "answers": [
       {
-        "text": "Needs the bathroom often",
+        "text": "Need easy bathroom access",
         "aliases": [
-          "frequent toilet trips"
+          "bathroom trips"
         ],
         "points": 32
       },
       {
-        "text": "Wants to sit with family",
+        "text": "Want to sit with a friend",
         "aliases": [
           "sit together"
         ],
         "points": 24
       },
       {
-        "text": "Needs more legroom",
+        "text": "Need more room to stretch",
         "aliases": [
-          "long legs"
+          "legroom"
         ],
         "points": 17
       },
       {
-        "text": "Afraid of heights",
+        "text": "Don't like looking down",
         "aliases": [
-          "doesn't like the view"
+          "afraid of heights"
         ],
         "points": 12
       },
       {
-        "text": "Gets paid to switch",
+        "text": "They offer to pay you",
         "aliases": [
-          "offered money"
+          "paid to switch"
         ],
         "points": 9
       },
       {
-        "text": "Helping a child see out",
+        "text": "A younger kid wants to see out",
         "aliases": [
-          "let a kid look"
+          "let a kid see"
         ],
         "points": 6
       }
@@ -933,7 +933,7 @@
   {
     "id": "travel-150",
     "category": "Travel & places",
-    "prompt": "Name something people use as a pillow when sleeping at the airport.",
+    "prompt": "The ride home is delayed and you're falling asleep sitting up. What do you use as a pillow?",
     "answers": [
       {
         "text": "Coat",
@@ -1032,7 +1032,7 @@
   {
     "id": "travel-152",
     "category": "Travel & places",
-    "prompt": "Name something people bring for an over-the-top airport welcome.",
+    "prompt": "Your friend is coming to visit for the first time. What would make your group way too obvious at pickup?",
     "answers": [
       {
         "text": "Big sign",
@@ -1081,7 +1081,7 @@
   {
     "id": "travel-153",
     "category": "Travel & places",
-    "prompt": "Name someone you'd dread seeing at your gate before a relaxing holiday.",
+    "prompt": "You're in line to board and someone says your name. Who would you least want it to be?",
     "answers": [
       {
         "text": "Boss",
@@ -1179,7 +1179,7 @@
   {
     "id": "travel-155",
     "category": "Travel & places",
-    "prompt": "Name something that could make a long train ride more appealing than a short flight.",
+    "prompt": "A friend says “just fly.” What's one reason you'd still book the longer train ride?",
     "answers": [
       {
         "text": "The station is closer",
@@ -1277,7 +1277,7 @@
   {
     "id": "travel-157",
     "category": "Travel & places",
-    "prompt": "Name something people race to do during a short airport layover.",
+    "prompt": "You have ten minutes before the next leg of your trip. What do you hurry to do?",
     "answers": [
       {
         "text": "Use the bathroom",
@@ -1326,26 +1326,26 @@
   {
     "id": "travel-158",
     "category": "Travel & places",
-    "prompt": "Name something travelers wish was free at the airport.",
+    "prompt": "You're stuck at a station for hours. What do you wish they provided for free?",
     "answers": [
       {
-        "text": "Food",
+        "text": "Something to eat",
         "aliases": [
-          "meals"
+          "food"
         ],
         "points": 28
       },
       {
-        "text": "Drinking water",
+        "text": "A water refill",
         "aliases": [
-          "bottled water"
+          "drinking water"
         ],
         "points": 23
       },
       {
-        "text": "Parking",
+        "text": "Somewhere safe to leave your bag",
         "aliases": [
-          "car park"
+          "lockers"
         ],
         "points": 19
       },
@@ -1357,16 +1357,16 @@
         "points": 14
       },
       {
-        "text": "Luggage cart",
+        "text": "A place to plug in",
         "aliases": [
-          "trolley"
+          "charging outlets"
         ],
         "points": 10
       },
       {
-        "text": "Lounge access",
+        "text": "A warm waiting room",
         "aliases": [
-          "airport lounge"
+          "heated seating"
         ],
         "points": 6
       }
@@ -1424,7 +1424,7 @@
   {
     "id": "travel-160",
     "category": "Travel & places",
-    "prompt": "Name something that makes the middle seat feel even worse.",
+    "prompt": "Your friends claimed the aisle and window before you could ask. What makes the middle seat even worse?",
     "answers": [
       {
         "text": "Both armrests taken",
@@ -1571,7 +1571,7 @@
   {
     "id": "travel-163",
     "category": "Travel & places",
-    "prompt": "Name something people do at an airport that would look weird in a school hallway.",
+    "prompt": "What's something you see someone doing at an airport that would get the whole hallway staring at school?",
     "answers": [
       {
         "text": "Sleep on the floor",
@@ -1669,47 +1669,47 @@
   {
     "id": "travel-165",
     "category": "Travel & places",
-    "prompt": "Name something you'd pay extra for on a very long flight.",
+    "prompt": "You found an overnight bus ticket you can actually afford. What might you still pay a bit extra for?",
     "answers": [
       {
-        "text": "More legroom",
+        "text": "A seat with legroom",
         "aliases": [
-          "extra space"
+          "extra legroom"
         ],
         "points": 30
       },
       {
-        "text": "A flat bed",
+        "text": "A seat that leans back",
         "aliases": [
-          "lie-flat seat"
+          "reclining seat"
         ],
         "points": 24
       },
       {
-        "text": "Wi-Fi",
+        "text": "Wi-Fi that works",
         "aliases": [
           "internet"
         ],
         "points": 18
       },
       {
-        "text": "A quieter seat",
+        "text": "A quiet seat",
         "aliases": [
-          "quiet area"
+          "quiet section"
         ],
         "points": 13
       },
       {
-        "text": "A proper hot meal",
+        "text": "A snack or a meal",
         "aliases": [
-          "good food"
+          "food"
         ],
         "points": 9
       },
       {
-        "text": "Extra baggage",
+        "text": "Room for a second bag",
         "aliases": [
-          "another suitcase"
+          "extra luggage"
         ],
         "points": 6
       }
@@ -1718,7 +1718,7 @@
   {
     "id": "travel-166",
     "category": "Travel & places",
-    "prompt": "Name a sound that makes sleeping on a plane nearly impossible.",
+    "prompt": "You packed headphones because you planned to sleep the whole way. What noise still cuts through?",
     "answers": [
       {
         "text": "Crying baby",
@@ -1871,7 +1871,7 @@
   {
     "id": "travel-169",
     "category": "Travel & places",
-    "prompt": "Name something people tell themselves before buying outrageously priced airport food.",
+    "prompt": "You promised to wait until you landed to eat. How do you justify paying airport prices anyway?",
     "answers": [
       {
         "text": "I'm starving",
@@ -1920,7 +1920,7 @@
   {
     "id": "travel-170",
     "category": "Travel & places",
-    "prompt": "Name something people check repeatedly before leaving for the airport.",
+    "prompt": "You're going on the trip without the person who normally checks everything for you. What do you check three times before leaving?",
     "answers": [
       {
         "text": "Passport",
@@ -1969,47 +1969,47 @@
   {
     "id": "travel-171",
     "category": "Travel & places",
-    "prompt": "Name something a traveler does after hearing their name over the airport speakers.",
+    "prompt": "Your full name comes over the station speakers. What's your first reaction?",
     "answers": [
       {
-        "text": "Panics",
+        "text": "Panic",
         "aliases": [
-          "gets scared"
+          "freak out"
         ],
         "points": 32
       },
       {
-        "text": "Runs to the gate",
+        "text": "Run toward the platform",
         "aliases": [
-          "hurries to the gate"
+          "run for the train"
         ],
         "points": 24
       },
       {
-        "text": "Checks the ticket",
+        "text": "Check your ticket",
         "aliases": [
-          "looks at boarding pass"
+          "look at the pass"
         ],
         "points": 17
       },
       {
-        "text": "Asks a staff member",
+        "text": "Ask a staff member",
         "aliases": [
-          "finds airline staff"
+          "get help"
         ],
         "points": 12
       },
       {
-        "text": "Calls their travel partner",
+        "text": "Call the friend you're meeting",
         "aliases": [
-          "phones their companion"
+          "call a friend"
         ],
         "points": 9
       },
       {
-        "text": "Looks around",
+        "text": "Look around to see who's watching",
         "aliases": [
-          "checks who is calling"
+          "look around"
         ],
         "points": 6
       }
@@ -2067,7 +2067,7 @@
   {
     "id": "travel-173",
     "category": "Travel & places",
-    "prompt": "Name something that makes you realize you dressed badly for a flight.",
+    "prompt": "You realize halfway through the trip that you dressed for the pictures and not the ride. What's the problem?",
     "answers": [
       {
         "text": "Shoes are hard to remove",
@@ -2123,7 +2123,7 @@
   {
     "id": "travel-174",
     "category": "Travel & places",
-    "prompt": "Name something that makes an airport goodbye take forever.",
+    "prompt": "You're being dropped off for your first trip without family. What makes the goodbye take forever?",
     "answers": [
       {
         "text": "Repeated hugs",
@@ -2221,7 +2221,7 @@
   {
     "id": "travel-176",
     "category": "Travel & places",
-    "prompt": "Name something passengers regret putting in the overhead bin.",
+    "prompt": "You put your bag somewhere you can't get to it until the next stop. What do you immediately wish you'd taken out?",
     "answers": [
       {
         "text": "Phone",
@@ -2270,7 +2270,7 @@
   {
     "id": "travel-177",
     "category": "Travel & places",
-    "prompt": "Name something people do when their suitcase is just over the weight limit.",
+    "prompt": "The cheap ticket has a strict bag limit. What's the first thing you try when your suitcase is just over it?",
     "answers": [
       {
         "text": "Wear more clothes",
@@ -2613,7 +2613,7 @@
   {
     "id": "travel-184",
     "category": "Travel & places",
-    "prompt": "Name something that seems smart before a flight but can become a regret.",
+    "prompt": "You got ready for an early flight and barely thought about the ride. What choice do you regret once you're in the air?",
     "answers": [
       {
         "text": "Eat a huge meal",
@@ -2711,7 +2711,7 @@
   {
     "id": "travel-186",
     "category": "Travel & places",
-    "prompt": "Name something you wish your airport pickup would bring.",
+    "prompt": "You text “just landed” after a rough trip. What do you hope the person coming to get you brings?",
     "answers": [
       {
         "text": "A hot meal",
@@ -2809,7 +2809,7 @@
   {
     "id": "travel-188",
     "category": "Travel & places",
-    "prompt": "Name something that turns a bargain plane ticket into an expensive trip.",
+    "prompt": "You bought the lowest-priced ticket for break. What makes the trip cost way more by the time you get there?",
     "answers": [
       {
         "text": "Baggage fees",
@@ -2907,7 +2907,7 @@
   {
     "id": "travel-190",
     "category": "Travel & places",
-    "prompt": "Name something travel buddies might argue about on a plane.",
+    "prompt": "You're flying with friends and sharing one row. What starts an argument before the plane even lands?",
     "answers": [
       {
         "text": "Window shade",
@@ -3005,7 +3005,7 @@
   {
     "id": "travel-192",
     "category": "Travel & places",
-    "prompt": "Name a topic you hope your seatmate will not discuss for the entire flight.",
+    "prompt": "Your seatmate starts talking the second you take your headphones off. What's a topic you hope they don't choose?",
     "answers": [
       {
         "text": "Their job",
@@ -3157,7 +3157,7 @@
   {
     "id": "travel-195",
     "category": "Travel & places",
-    "prompt": "Name something in lost luggage that could ruin a competition or performance if it never showed up.",
+    "prompt": "Your group just got to a tournament or show, but one suitcase didn't. What absolutely had to be in it?",
     "answers": [
       {
         "text": "Uniform or costume",
@@ -3206,47 +3206,47 @@
   {
     "id": "travel-196",
     "category": "Travel & places",
-    "prompt": "Name someone you call first when stranded at an airport.",
+    "prompt": "You're stuck at a station after your ride falls through. Who do you call first?",
     "answers": [
       {
-        "text": "Parent",
+        "text": "A parent or guardian",
         "aliases": [
           "mom or dad"
         ],
         "points": 35
       },
       {
-        "text": "Airline",
+        "text": "The friend you were meeting",
         "aliases": [
-          "customer service"
+          "a friend"
         ],
         "points": 25
       },
       {
-        "text": "Friend",
+        "text": "Whoever was meant to pick you up",
         "aliases": [
-          "best friend"
+          "my ride"
         ],
         "points": 16
+      },
+      {
+        "text": "The bus or train company",
+        "aliases": [
+          "customer service"
+        ],
+        "points": 11
       },
       {
         "text": "The trip organizer",
         "aliases": [
           "group leader"
         ],
-        "points": 11
-      },
-      {
-        "text": "Hotel",
-        "aliases": [
-          "accommodation"
-        ],
         "points": 8
       },
       {
-        "text": "Whoever is supposed to pick you up",
+        "text": "A sibling",
         "aliases": [
-          "my ride"
+          "brother or sister"
         ],
         "points": 5
       }
@@ -3255,7 +3255,7 @@
   {
     "id": "travel-197",
     "category": "Travel & places",
-    "prompt": "Name a small thing that makes a long bus ride way better.",
+    "prompt": "You picked the cheap bus home. What's a little thing that would make those long hours bearable?",
     "answers": [
       {
         "text": "A seat that reclines",
@@ -3402,7 +3402,7 @@
   {
     "id": "travel-200",
     "category": "Travel & places",
-    "prompt": "Name something people do the moment they connect to airplane Wi-Fi.",
+    "prompt": "You finally get online after the whole flight with no signal. What's the first thing you do?",
     "answers": [
       {
         "text": "Text the group chat",
@@ -3653,7 +3653,7 @@
   {
     "id": "travel-205",
     "category": "Travel & places",
-    "prompt": "Name something you do when you see a stranger grab your suitcase.",
+    "prompt": "Everyone's grabbing bags after a long flight. What do you do when a stranger picks up yours?",
     "answers": [
       {
         "text": "Shout",
@@ -3751,7 +3751,7 @@
   {
     "id": "travel-207",
     "category": "Travel & places",
-    "prompt": "Name something friends might disagree about before booking flights together.",
+    "prompt": "Everyone found a flight they can afford. What are your friends still arguing about before you book?",
     "answers": [
       {
         "text": "Ticket price",
@@ -3800,47 +3800,47 @@
   {
     "id": "travel-208",
     "category": "Travel & places",
-    "prompt": "Name something you'd do if you had an entire plane cabin to yourself.",
+    "prompt": "The bus is practically empty for once. What do you do with all that extra space?",
     "answers": [
       {
-        "text": "Lie across the seats",
+        "text": "Stretch across the seats",
         "aliases": [
-          "stretch out"
+          "lie down"
         ],
         "points": 35
       },
       {
-        "text": "Try different seats",
+        "text": "Move to a window seat",
         "aliases": [
-          "move around"
+          "get the window"
         ],
         "points": 25
       },
       {
-        "text": "Sleep",
+        "text": "Put your bag on the next seat",
         "aliases": [
-          "take a nap"
+          "spread out luggage"
         ],
         "points": 16
       },
       {
-        "text": "Sing loudly",
+        "text": "Find a seat far from everyone",
         "aliases": [
-          "singing"
+          "sit alone"
         ],
         "points": 11
       },
       {
-        "text": "Take pictures",
+        "text": "Switch sides to get out of the sun",
         "aliases": [
-          "selfies"
+          "avoid sunlight"
         ],
         "points": 8
       },
       {
-        "text": "Chat with the crew",
+        "text": "Film a quick video to send your friends",
         "aliases": [
-          "talk to flight attendants"
+          "take a video"
         ],
         "points": 5
       }
@@ -3947,47 +3947,47 @@
   {
     "id": "travel-211",
     "category": "Travel & places",
-    "prompt": "Name something you'd do to avoid another night sleeping at the airport.",
+    "prompt": "The show ends late and you miss the last train home. What do you do so you aren't stuck there overnight?",
     "answers": [
       {
-        "text": "Pay for a hotel",
+        "text": "Split a rideshare",
         "aliases": [
-          "book a room"
+          "share a ride"
         ],
         "points": 32
       },
       {
-        "text": "Take a taxi home",
+        "text": "Call someone for a pickup",
         "aliases": [
-          "get a cab"
+          "get picked up"
         ],
         "points": 24
       },
       {
-        "text": "Rent a car",
+        "text": "Crash at a nearby friend's place",
         "aliases": [
-          "drive away"
+          "stay with friends"
         ],
         "points": 17
       },
       {
-        "text": "Take a train",
+        "text": "Look for a night bus",
         "aliases": [
-          "go by rail"
+          "take a bus"
         ],
         "points": 12
       },
       {
-        "text": "Call a nearby friend",
+        "text": "Wait somewhere open for the first train",
         "aliases": [
-          "stay with someone"
+          "wait till morning"
         ],
         "points": 9
       },
       {
-        "text": "Buy another flight",
+        "text": "Book the cheapest room nearby",
         "aliases": [
-          "book another airline"
+          "get a hotel"
         ],
         "points": 6
       }
@@ -3996,7 +3996,7 @@
   {
     "id": "travel-212",
     "category": "Travel & places",
-    "prompt": "Name a reason people give for getting to the airport ridiculously early.",
+    "prompt": "Your family wants to be at the airport before the sun comes up for an afternoon flight. What's their reason?",
     "answers": [
       {
         "text": "Traffic might be bad",
@@ -4045,7 +4045,7 @@
   {
     "id": "travel-213",
     "category": "Travel & places",
-    "prompt": "Name an excuse someone gives for arriving at the airport at the last minute.",
+    "prompt": "Your friend swears there's a good reason they're still on the way to the airport at boarding time. What's their excuse?",
     "answers": [
       {
         "text": "Hates waiting",
@@ -4241,7 +4241,7 @@
   {
     "id": "travel-217",
     "category": "Travel & places",
-    "prompt": "Name an excuse for falling asleep on a stranger's shoulder.",
+    "prompt": "You fall asleep on a stranger's shoulder on a bus. What's your excuse when you wake up?",
     "answers": [
       {
         "text": "Jet lag",
@@ -4251,9 +4251,9 @@
         "points": 30
       },
       {
-        "text": "Early flight",
+        "text": "First bus of the day",
         "aliases": [
-          "up too early"
+          "early departure"
         ],
         "points": 24
       },
@@ -4272,16 +4272,16 @@
         "points": 13
       },
       {
-        "text": "Sleeping medication",
+        "text": "The ride lulled me to sleep",
         "aliases": [
-          "sleeping pill"
+          "motion of the bus"
         ],
         "points": 9
       },
       {
-        "text": "Cabin is too warm",
+        "text": "The bus was too warm",
         "aliases": [
-          "heat made me sleepy"
+          "hot bus"
         ],
         "points": 6
       }
@@ -4339,7 +4339,7 @@
   {
     "id": "travel-219",
     "category": "Travel & places",
-    "prompt": "Name something the friend picking you up at the airport might get wrong.",
+    "prompt": "Someone is coming to get you after you land. What are you most worried they'll get wrong?",
     "answers": [
       {
         "text": "Terminal",

@@ -2,7 +2,7 @@
   {
     "id": "food-041",
     "category": "Food & drink",
-    "prompt": "Name something a restaurant host says that makes you immediately want to leave.",
+    "prompt": "Your friends finally find a place that looks good. What does the host say that makes everyone start looking for somewhere else?",
     "answers": [
       {
         "text": "Hour-long wait",
@@ -100,7 +100,7 @@
   {
     "id": "food-043",
     "category": "Food & drink",
-    "prompt": "Name something a waiter might be tired of hearing from customers.",
+    "prompt": "You just started your first serving job. What are you already tired of hearing from customers?",
     "answers": [
       {
         "text": "What's good here",
@@ -149,7 +149,7 @@
   {
     "id": "food-044",
     "category": "Food & drink",
-    "prompt": "Name a reason your food arrives after everyone else has started eating.",
+    "prompt": "Everyone's halfway through eating and you're still looking at an empty spot. What might have held your order up?",
     "answers": [
       {
         "text": "Complicated order",
@@ -198,7 +198,7 @@
   {
     "id": "food-045",
     "category": "Food & drink",
-    "prompt": "Name something a table might share even after agreeing everyone orders their own food.",
+    "prompt": "The group promised everyone would order their own food. What is everybody reaching for off the same plate anyway?",
     "answers": [
       {
         "text": "Fries",
@@ -345,7 +345,7 @@
   {
     "id": "food-048",
     "category": "Food & drink",
-    "prompt": "Name something that makes you regret sitting outside at a restaurant.",
+    "prompt": "You picked an outside table because it looked good in the photos. What makes the group regret it?",
     "answers": [
       {
         "text": "Flies",
@@ -443,7 +443,7 @@
   {
     "id": "food-050",
     "category": "Food & drink",
-    "prompt": "Name something a diner might do to make a tiny table feel even smaller.",
+    "prompt": "You and your friends squeeze into the last tiny table. What does someone do that makes it feel even smaller?",
     "answers": [
       {
         "text": "Leave bags on it",
@@ -492,7 +492,7 @@
   {
     "id": "food-051",
     "category": "Food & drink",
-    "prompt": "Name a reason someone chooses a restaurant with terrible food.",
+    "prompt": "Your group keeps going to a spot that nobody thinks has good food. What keeps bringing people back?",
     "answers": [
       {
         "text": "Friends like it",
@@ -590,7 +590,7 @@
   {
     "id": "food-053",
     "category": "Food & drink",
-    "prompt": "Name something that makes ordering for a large group chaotic.",
+    "prompt": "The whole group wants one person to place the order. What makes that a disaster?",
     "answers": [
       {
         "text": "Everyone talks at once",
@@ -688,7 +688,7 @@
   {
     "id": "food-055",
     "category": "Food & drink",
-    "prompt": "Name something a nervous first-date diner might accidentally knock over.",
+    "prompt": "You're on a first date trying to play it cool. What do you accidentally knock over?",
     "answers": [
       {
         "text": "Water glass",
@@ -737,7 +737,7 @@
   {
     "id": "food-056",
     "category": "Food & drink",
-    "prompt": "Name something people pretend to understand at a fancy restaurant.",
+    "prompt": "You're at a fancy restaurant for the first time and everyone else is acting like they know the rules. What are you pretending to understand?",
     "answers": [
       {
         "text": "How to pronounce a dish",
@@ -835,7 +835,7 @@
   {
     "id": "food-058",
     "category": "Food & drink",
-    "prompt": "Name something that makes a diner panic when the bill arrives.",
+    "prompt": "The check lands, and one friend opens their banking app with a look of horror. What might they be panicking about?",
     "answers": [
       {
         "text": "Card declined",
@@ -933,7 +933,7 @@
   {
     "id": "food-060",
     "category": "Food & drink",
-    "prompt": "Name something a friend might conveniently forget when it's time to pay.",
+    "prompt": "What does a friend conveniently forget when you start adding up what everybody owes for dinner?",
     "answers": [
       {
         "text": "Their wallet",
@@ -982,7 +982,7 @@
   {
     "id": "food-061",
     "category": "Food & drink",
-    "prompt": "Name a reason someone insists on paying for everyone at dinner.",
+    "prompt": "Your friend says they're covering the whole meal, even though nobody asked. Why are they suddenly being that generous?",
     "answers": [
       {
         "text": "Celebrating",
@@ -1031,7 +1031,7 @@
   {
     "id": "food-062",
     "category": "Food & drink",
-    "prompt": "Name something that makes leaving a tip confusing.",
+    "prompt": "The payment screen flips around while people are waiting behind you. What makes it hard to know how much to tip?",
     "answers": [
       {
         "text": "Service charge already added",
@@ -1129,7 +1129,7 @@
   {
     "id": "food-064",
     "category": "Food & drink",
-    "prompt": "Name a sign a restaurant really wants you to leave.",
+    "prompt": "Your friends are still talking when the place is clearly trying to close. What's the first hint you get?",
     "answers": [
       {
         "text": "Stacks chairs",
@@ -1227,7 +1227,7 @@
   {
     "id": "food-066",
     "category": "Food & drink",
-    "prompt": "Name something a diner might accidentally leave at a restaurant.",
+    "prompt": "You're halfway home after eating out. What do you suddenly realize is still at the restaurant?",
     "answers": [
       {
         "text": "Phone",
@@ -1276,7 +1276,7 @@
   {
     "id": "food-067",
     "category": "Food & drink",
-    "prompt": "Name something a person eats in the car before bringing takeout home.",
+    "prompt": "Your takeout is supposed to make it all the way home. What's the first thing you eat in the car anyway?",
     "answers": [
       {
         "text": "Fries",
@@ -1374,7 +1374,7 @@
   {
     "id": "food-069",
     "category": "Food & drink",
-    "prompt": "Name something that makes you wish you had chosen contactless food delivery.",
+    "prompt": "The driver says to meet them outside. Why do you suddenly wish you'd picked “leave at door”?",
     "answers": [
       {
         "text": "Still in pajamas",
@@ -1525,7 +1525,7 @@
   {
     "id": "food-072",
     "category": "Food & drink",
-    "prompt": "Name something that might be missing from a takeout order besides food.",
+    "prompt": "You open your lunch bag at school or work and the meal itself is there. What could still be missing?",
     "answers": [
       {
         "text": "Condiments",
@@ -1574,7 +1574,7 @@
   {
     "id": "food-073",
     "category": "Food & drink",
-    "prompt": "Name a reason a takeout container leaks in your bag.",
+    "prompt": "You put takeout in the same bag as your books. What makes it leak all over them?",
     "answers": [
       {
         "text": "Lid isn't closed",
@@ -1623,7 +1623,7 @@
   {
     "id": "food-074",
     "category": "Food & drink",
-    "prompt": "Name something a person does when the delivery order is clearly for someone else.",
+    "prompt": "The app says your food arrived, but the bag on your doorstep has somebody else's name. What's your next move?",
     "answers": [
       {
         "text": "Ask for a refund in the app",
@@ -1723,7 +1723,7 @@
   {
     "id": "food-076",
     "category": "Food & drink",
-    "prompt": "Name a reason someone hides evidence that they ordered takeout.",
+    "prompt": "You walk in with takeout and immediately hide the bag before anybody sees. Why don't you want them to know?",
     "answers": [
       {
         "text": "Trying to save money",
@@ -1821,7 +1821,7 @@
   {
     "id": "food-078",
     "category": "Food & drink",
-    "prompt": "Name something people forget when picking up takeout.",
+    "prompt": "You have ten minutes to pick up dinner before your ride leaves. What do you forget?",
     "answers": [
       {
         "text": "Check the bag",
@@ -1870,7 +1870,7 @@
   {
     "id": "food-079",
     "category": "Food & drink",
-    "prompt": "Name a reason drive-through ordering takes longer than eating the meal.",
+    "prompt": "Your friends hit the drive-through thinking it'll be quick. Why are you still in line ten minutes later?",
     "answers": [
       {
         "text": "Can't decide",
@@ -1919,7 +1919,7 @@
   {
     "id": "food-080",
     "category": "Food & drink",
-    "prompt": "Name a reason a passenger regrets letting the driver order their meal.",
+    "prompt": "You asked the friend behind the wheel to order for you. What mistake makes you wish you'd spoken up yourself?",
     "answers": [
       {
         "text": "Wrong main dish",
@@ -2017,7 +2017,7 @@
   {
     "id": "food-082",
     "category": "Food & drink",
-    "prompt": "Name something a fast-food customer might ask for extra of.",
+    "prompt": "You're about to leave the fast-food counter. What do you ask them to throw in a little extra of?",
     "answers": [
       {
         "text": "Sauce",
@@ -2066,7 +2066,7 @@
   {
     "id": "food-083",
     "category": "Food & drink",
-    "prompt": "Name something that could fall between the car seats while eating drive-through food.",
+    "prompt": "You open the drive-through bag in your friend's car. What disappears between the seats?",
     "answers": [
       {
         "text": "Fries",
@@ -2115,7 +2115,7 @@
   {
     "id": "food-084",
     "category": "Food & drink",
-    "prompt": "Name a reason a person eats fast food in the parking lot.",
+    "prompt": "The food made it to the car but it's clearly not making it home. Why does someone start eating in the parking lot?",
     "answers": [
       {
         "text": "Too hungry to wait",
@@ -2213,7 +2213,7 @@
   {
     "id": "food-086",
     "category": "Food & drink",
-    "prompt": "Name something a barista might get wrong besides the drink.",
+    "prompt": "At a busy coffee pickup counter, what can still be wrong even if the coffee itself tastes right?",
     "answers": [
       {
         "text": "Your name",
@@ -2311,7 +2311,7 @@
   {
     "id": "food-088",
     "category": "Food & drink",
-    "prompt": "Name a reason you'd secretly be relieved if someone canceled your dinner reservation.",
+    "prompt": "A friend cancels dinner and you text “oh no” while secretly celebrating. Why are you relieved?",
     "answers": [
       {
         "text": "Too expensive",
@@ -2507,7 +2507,7 @@
   {
     "id": "food-092",
     "category": "Food & drink",
-    "prompt": "Name something you would be embarrassed to have a waiter announce to the whole table.",
+    "prompt": "You're eating out with friends who will never let you live it down. What would you hate to hear a server announce?",
     "answers": [
       {
         "text": "Your card was declined",
@@ -2752,7 +2752,7 @@
   {
     "id": "food-097",
     "category": "Food & drink",
-    "prompt": "Name something from a restaurant table a customer might sneak into their bag.",
+    "prompt": "Your friend treats the restaurant table like a take-home kit. What might they quietly put in their bag?",
     "answers": [
       {
         "text": "Cutlery",
@@ -2948,7 +2948,7 @@
   {
     "id": "food-101",
     "category": "Food & drink",
-    "prompt": "Name something a slow eater wishes everyone else at the table would stop doing.",
+    "prompt": "You're still eating and the whole group has decided you're taking forever. What do you wish they'd stop doing?",
     "answers": [
       {
         "text": "Staring at them",
@@ -2997,7 +2997,7 @@
   {
     "id": "food-102",
     "category": "Food & drink",
-    "prompt": "Name something someone might use to reserve a seat at a food court.",
+    "prompt": "You spot an empty food-court table and most of your friends are still ordering. What could you leave there to claim it?",
     "answers": [
       {
         "text": "Jacket",
@@ -3046,7 +3046,7 @@
   {
     "id": "food-103",
     "category": "Food & drink",
-    "prompt": "Name something that makes carrying a food-court tray feel like a balancing act.",
+    "prompt": "You're carrying a loaded tray across a packed food court. What turns the walk into an obstacle course?",
     "answers": [
       {
         "text": "Full drinks",
@@ -3095,7 +3095,7 @@
   {
     "id": "food-104",
     "category": "Food & drink",
-    "prompt": "Name a reason you might avoid the restaurant where you used to work.",
+    "prompt": "You quit your first restaurant job. Why would you rather eat anywhere else now?",
     "answers": [
       {
         "text": "Know kitchen secrets",
@@ -3144,7 +3144,7 @@
   {
     "id": "food-105",
     "category": "Food & drink",
-    "prompt": "Name something a customer does that would make a server dread their table.",
+    "prompt": "You've got one more table before you can clock out. What does a customer do that makes you dread the rest of the shift?",
     "answers": [
       {
         "text": "Snaps fingers",
@@ -3193,7 +3193,7 @@
   {
     "id": "food-106",
     "category": "Food & drink",
-    "prompt": "Name someone you'd hate to run into during a dinner date.",
+    "prompt": "Someone you know walks in while you're on a date. Who makes you want to hide behind the menu?",
     "answers": [
       {
         "text": "Your ex",
@@ -3242,7 +3242,7 @@
   {
     "id": "food-107",
     "category": "Food & drink",
-    "prompt": "Name a reason a restaurant gets a terrible review that has little to do with the food.",
+    "prompt": "Your friend posts a one-star review and says the restaurant's food was actually fine. What set them off?",
     "answers": [
       {
         "text": "Rude staff",
@@ -3291,7 +3291,7 @@
   {
     "id": "food-108",
     "category": "Food & drink",
-    "prompt": "Name something that makes a restaurant review suspicious.",
+    "prompt": "You check reviews before ordering somewhere new. What makes one five-star review look fake?",
     "answers": [
       {
         "text": "Sounds like an advertisement",
@@ -3389,7 +3389,7 @@
   {
     "id": "food-110",
     "category": "Food & drink",
-    "prompt": "Name something people might complain about after dining at an internet-famous restaurant.",
+    "prompt": "The place was all over your feed, so you finally go with friends. What does someone complain about first?",
     "answers": [
       {
         "text": "Long queue",
@@ -3536,7 +3536,7 @@
   {
     "id": "food-113",
     "category": "Food & drink",
-    "prompt": "Name something someone does after pretending they can handle the hottest sauce.",
+    "prompt": "A friend says the spicy sauce is nothing, takes a bite, then does what?",
     "answers": [
       {
         "text": "Cries",
@@ -3732,7 +3732,7 @@
   {
     "id": "food-117",
     "category": "Food & drink",
-    "prompt": "Name something that makes breakfast with friends last until lunchtime.",
+    "prompt": "You said “quick breakfast” to your friends and now it's almost lunch. What kept you there?",
     "answers": [
       {
         "text": "Endless coffee",
@@ -3879,7 +3879,7 @@
   {
     "id": "food-120",
     "category": "Food & drink",
-    "prompt": "Name an excuse someone uses to leave a restaurant dinner early.",
+    "prompt": "Dinner with the group is dragging and you want out. What excuse do you give?",
     "answers": [
       {
         "text": "They have homework",
@@ -3928,7 +3928,7 @@
   {
     "id": "food-121",
     "category": "Food & drink",
-    "prompt": "Name something that could make everyone at a restaurant stare at your table.",
+    "prompt": "You went out with friends hoping to keep it low-key. What happens that makes the entire restaurant look over?",
     "answers": [
       {
         "text": "Dropped tray",
@@ -4075,7 +4075,7 @@
   {
     "id": "food-124",
     "category": "Food & drink",
-    "prompt": "Name something that makes a restaurant seem welcoming to regulars.",
+    "prompt": "You've gone to the same cheap spot after school so often it's part of your routine. What does the staff do that makes you feel like a regular?",
     "answers": [
       {
         "text": "Staff know your name",
@@ -4124,7 +4124,7 @@
   {
     "id": "food-125",
     "category": "Food & drink",
-    "prompt": "Name a reason someone avoids going on a dinner date altogether.",
+    "prompt": "A date suggests dinner and you'd much rather get coffee or just go for a walk. What's putting you off a whole meal?",
     "answers": [
       {
         "text": "Nervous conversation",
@@ -4222,7 +4222,7 @@
   {
     "id": "food-127",
     "category": "Food & drink",
-    "prompt": "Name a reason people stay loyal to a restaurant even after moving away.",
+    "prompt": "You're back in town after being away. What makes the old food spot your first stop?",
     "answers": [
       {
         "text": "Favorite dish",
@@ -4271,7 +4271,7 @@
   {
     "id": "food-128",
     "category": "Food & drink",
-    "prompt": "Name a restaurant food challenge that would scare your stomach.",
+    "prompt": "Friends send you a video of a restaurant challenge and say you could do it. What challenge would you turn down?",
     "answers": [
       {
         "text": "Giant burger",
@@ -4369,7 +4369,7 @@
   {
     "id": "food-130",
     "category": "Food & drink",
-    "prompt": "Name something a restaurant might charge for that you assumed was free.",
+    "prompt": "You already did the math on your meal. What does the receipt charge for that you thought came with it?",
     "answers": [
       {
         "text": "Extra sauce",

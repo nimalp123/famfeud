@@ -2,7 +2,7 @@
   {
     "id": "games-131",
     "category": "Sports & games",
-    "prompt": "Name something a devoted fan buys even after complaining about the price.",
+    "prompt": "You and your friends finally make it to a live game. What do you pay for even after saying it costs way too much?",
     "answers": [
       {
         "text": "Tickets",
@@ -56,7 +56,7 @@
   {
     "id": "games-132",
     "category": "Sports & games",
-    "prompt": "What might a sports fan do on a date when the big game starts?",
+    "prompt": "The game starts halfway through a date. What might a sports fan do to sneak a little of it in?",
     "answers": [
       {
         "text": "Check their phone",
@@ -105,7 +105,7 @@
   {
     "id": "games-133",
     "category": "Sports & games",
-    "prompt": "Name a plan a fan might abandon when a game goes into overtime.",
+    "prompt": "Your watch party was meant to finish on time and now the game is in overtime. What plan might you drop?",
     "answers": [
       {
         "text": "Dinner",
@@ -155,7 +155,7 @@
   {
     "id": "games-134",
     "category": "Sports & games",
-    "prompt": "Name a reason someone watches the championship even though they don't like the sport.",
+    "prompt": "Your friend has never followed the sport but says yes to the championship watch party. What are they really there for?",
     "answers": [
       {
         "text": "Halftime show",
@@ -204,7 +204,7 @@
   {
     "id": "games-135",
     "category": "Sports & games",
-    "prompt": "Name something you'd hate to run out of during the most exciting part of a game.",
+    "prompt": "The game is down to its last play. What would be the worst thing to run out of right then?",
     "answers": [
       {
         "text": "Internet",
@@ -355,7 +355,7 @@
   {
     "id": "games-138",
     "category": "Sports & games",
-    "prompt": "Name something a fan hopes to get from meeting a famous athlete.",
+    "prompt": "You unexpectedly meet a player you follow. What would you be excited to get out of that minute together?",
     "answers": [
       {
         "text": "Photo",
@@ -407,7 +407,7 @@
   {
     "id": "games-139",
     "category": "Sports & games",
-    "prompt": "What could ruin your photo with a star player?",
+    "prompt": "Your friend has one chance to get your photo with a favorite player. What could ruin the shot?",
     "answers": [
       {
         "text": "Blurry picture",
@@ -505,7 +505,7 @@
   {
     "id": "games-141",
     "category": "Sports & games",
-    "prompt": "What might an excited fan blurt out when their favorite player says hello?",
+    "prompt": "Your favorite player says hi before you have time to think. What do you blurt out?",
     "answers": [
       {
         "text": "I love you",
@@ -606,7 +606,7 @@
   {
     "id": "games-143",
     "category": "Sports & games",
-    "prompt": "Name something a retired athlete might do that fans would still watch.",
+    "prompt": "Your favorite athlete stops playing professionally. What else would you still tune in to watch them do?",
     "answers": [
       {
         "text": "Coach",
@@ -658,7 +658,7 @@
   {
     "id": "games-144",
     "category": "Sports & games",
-    "prompt": "Name a product you'd believe a professional athlete really uses.",
+    "prompt": "A pro athlete promotes a product in your feed. What do you actually believe they use?",
     "answers": [
       {
         "text": "Sports drink",
@@ -708,7 +708,7 @@
   {
     "id": "games-145",
     "category": "Sports & games",
-    "prompt": "What might an athlete do in an interview that becomes a meme?",
+    "prompt": "A postgame interview starts getting clipped everywhere. What did the athlete do to make it funny?",
     "answers": [
       {
         "text": "Make a funny face",
@@ -807,7 +807,7 @@
   {
     "id": "games-147",
     "category": "Sports & games",
-    "prompt": "Name something commentators discuss when the game gets boring.",
+    "prompt": "You’re watching a game where nothing has happened for ten minutes. What do the commentators start talking about?",
     "answers": [
       {
         "text": "Old games",
@@ -905,7 +905,7 @@
   {
     "id": "games-149",
     "category": "Sports & games",
-    "prompt": "What might a crowd member do when the stadium camera points at them?",
+    "prompt": "You’re at a game with friends and suddenly they’re all pointing at the big screen. What might you do when you see yourself up there?",
     "answers": [
       {
         "text": "Wave",
@@ -1007,7 +1007,7 @@
   {
     "id": "games-151",
     "category": "Sports & games",
-    "prompt": "Name something you might regret wearing when you appear on the stadium's big screen.",
+    "prompt": "Your face is on the big screen at a game. What are you instantly wishing you hadn’t worn?",
     "answers": [
       {
         "text": "Rival jersey",
@@ -1203,7 +1203,7 @@
   {
     "id": "games-155",
     "category": "Sports & games",
-    "prompt": "Name something you do at halftime that makes you miss the restart.",
+    "prompt": "You leave your seat at halftime and hear a huge cheer before you get back. What kept you away?",
     "answers": [
       {
         "text": "Use the bathroom",
@@ -1401,7 +1401,7 @@
   {
     "id": "games-159",
     "category": "Sports & games",
-    "prompt": "Name something fans do the second their team scores.",
+    "prompt": "Your team scores in a room full of friends. What does everyone start doing before the replay even comes on?",
     "answers": [
       {
         "text": "Cheer",
@@ -1452,7 +1452,7 @@
   {
     "id": "games-160",
     "category": "Sports & games",
-    "prompt": "Name something that distracts you enough to miss the game's biggest moment.",
+    "prompt": "You watch the whole game and somehow miss the one clip everyone will post later. What were you distracted by?",
     "answers": [
       {
         "text": "Phone",
@@ -1490,9 +1490,10 @@
         "points": 8
       },
       {
-        "text": "Child",
+        "text": "Somebody asking you a question",
         "aliases": [
-          "looking after a kid"
+          "someone asks a question",
+          "getting interrupted"
         ],
         "points": 5
       }
@@ -1550,7 +1551,7 @@
   {
     "id": "games-162",
     "category": "Sports & games",
-    "prompt": "What might a fan do right after catching a ball in the stands?",
+    "prompt": "A ball comes into the stands and you somehow catch it. What’s your first move?",
     "answers": [
       {
         "text": "Hold it up",
@@ -1602,7 +1603,7 @@
   {
     "id": "games-163",
     "category": "Sports & games",
-    "prompt": "Name something a fan might brag about for years after one game.",
+    "prompt": "A friend brings up the same game every time you talk sports. What happened that day that they’ll never let you forget?",
     "answers": [
       {
         "text": "Caught a ball",
@@ -1651,7 +1652,7 @@
   {
     "id": "games-164",
     "category": "Sports & games",
-    "prompt": "Name something fans do when their team is losing badly.",
+    "prompt": "Your team is getting destroyed and there’s still a lot of time left. What does a fan do to get through it?",
     "answers": [
       {
         "text": "Leave",
@@ -1703,7 +1704,7 @@
   {
     "id": "games-165",
     "category": "Sports & games",
-    "prompt": "What might convince you to stay until the end of a terrible game?",
+    "prompt": "Your friends want to leave a blowout early. What’s a reason you’d stay until the end anyway?",
     "answers": [
       {
         "text": "Possible comeback",
@@ -1850,7 +1851,7 @@
   {
     "id": "games-168",
     "category": "Sports & games",
-    "prompt": "Name something that could make you regret going to a game instead of watching with friends.",
+    "prompt": "You used your spending money on a ticket instead of joining your friends on the couch. What makes you regret it?",
     "answers": [
       {
         "text": "Everyone around you keeps standing up",
@@ -1905,7 +1906,7 @@
   {
     "id": "games-169",
     "category": "Sports & games",
-    "prompt": "Name something a child might care about more than the actual game.",
+    "prompt": "You bring a younger sibling to their first live game. What might they be more excited about than who’s winning?",
     "answers": [
       {
         "text": "Mascot",
@@ -1954,7 +1955,7 @@
   {
     "id": "games-170",
     "category": "Sports & games",
-    "prompt": "How might a fan persuade their partner to come to a game?",
+    "prompt": "Your friend doesn’t care about the teams. What can you offer to get them to come to the game with you?",
     "answers": [
       {
         "text": "Buy them food",
@@ -2003,7 +2004,7 @@
   {
     "id": "games-171",
     "category": "Sports & games",
-    "prompt": "Name something about a live game that surprises someone who's only watched on TV.",
+    "prompt": "A friend who’s only ever watched clips comes to a live game for the first time. What surprises them?",
     "answers": [
       {
         "text": "How loud it is",
@@ -2201,7 +2202,7 @@
   {
     "id": "games-175",
     "category": "Sports & games",
-    "prompt": "Name something fans still argue about long after a game ends.",
+    "prompt": "The game ended hours ago but the group chat won’t move on. What are fans still arguing about?",
     "answers": [
       {
         "text": "Bad call",
@@ -2250,7 +2251,7 @@
   {
     "id": "games-176",
     "category": "Sports & games",
-    "prompt": "Name something a fan does to avoid hearing the score of a recorded game.",
+    "prompt": "You have to watch the game late because you have class or work. What do you do to avoid seeing the score first?",
     "answers": [
       {
         "text": "Mute the group chat",
@@ -2354,7 +2355,7 @@
   {
     "id": "games-178",
     "category": "Sports & games",
-    "prompt": "Name something that disappears fastest at a championship watch party.",
+    "prompt": "You show up late to a championship watch party. What food or drink is probably already gone?",
     "answers": [
       {
         "text": "Pizza",
@@ -2405,7 +2406,7 @@
   {
     "id": "games-179",
     "category": "Sports & games",
-    "prompt": "Name something a guest does that gets them uninvited from the next watch party.",
+    "prompt": "Someone gets left off the invite list for the next watch party. What did they do last time?",
     "answers": [
       {
         "text": "Spoils the score",
@@ -2454,7 +2455,7 @@
   {
     "id": "games-180",
     "category": "Sports & games",
-    "prompt": "Name something that starts a fight over the TV on game day.",
+    "prompt": "The big game starts right when everyone in the house wants the main screen. What starts the fight over it?",
     "answers": [
       {
         "text": "Someone wants to use the console",
@@ -2556,7 +2557,7 @@
   {
     "id": "games-182",
     "category": "Sports & games",
-    "prompt": "Name something a watch-party host says that makes you realize there are house rules.",
+    "prompt": "You show up to a friend’s place to watch the game. What do they say that makes you realize there are house rules?",
     "answers": [
       {
         "text": "Shoes off",
@@ -2660,7 +2661,7 @@
   {
     "id": "games-184",
     "category": "Sports & games",
-    "prompt": "Name something a fan wears to watch a game at home that they wouldn’t wear to class.",
+    "prompt": "You dress for the watch party knowing you won’t leave the house. What do you put on that you’d never wear to class?",
     "answers": [
       {
         "text": "Pajama pants",
@@ -2713,7 +2714,7 @@
   {
     "id": "games-185",
     "category": "Sports & games",
-    "prompt": "Name something a fan checks before choosing who gets their spare ticket.",
+    "prompt": "You end up with one extra ticket and more than one friend wants it. What helps you decide who gets it?",
     "answers": [
       {
         "text": "Team loyalty",
@@ -2763,7 +2764,7 @@
   {
     "id": "games-186",
     "category": "Sports & games",
-    "prompt": "What might you do when a close friend supports your team’s biggest rival?",
+    "prompt": "Your closest friend roots for the rival team and it’s game day. What do you do about it?",
     "answers": [
       {
         "text": "Send a meme after the game",
@@ -2818,7 +2819,7 @@
   {
     "id": "games-187",
     "category": "Sports & games",
-    "prompt": "Name something a sports fan might skip work to attend.",
+    "prompt": "You hear your team is doing something during your shift. What might be worth trying to get that shift covered for?",
     "answers": [
       {
         "text": "Championship game",
@@ -2871,7 +2872,7 @@
   {
     "id": "games-188",
     "category": "Sports & games",
-    "prompt": "Name an excuse a fan uses to buy yet another jersey.",
+    "prompt": "Your friend catches you looking at another jersey after you said you were saving money. What’s your excuse?",
     "answers": [
       {
         "text": "New favorite player",
@@ -3263,7 +3264,7 @@
   {
     "id": "games-196",
     "category": "Sports & games",
-    "prompt": "Name something fans want to know about an athlete's life off the field.",
+    "prompt": "A video promises a look at a star player’s life off the field. What do fans actually want to find out?",
     "answers": [
       {
         "text": "Who they're dating",
@@ -3368,7 +3369,7 @@
   {
     "id": "games-198",
     "category": "Sports & games",
-    "prompt": "Name something a devoted fan might name after their favorite player.",
+    "prompt": "Your favorite player is all over your feed and your friends know you’re a fan. What random thing might you name after them?",
     "answers": [
       {
         "text": "A fantasy team",
@@ -3423,7 +3424,7 @@
   {
     "id": "games-199",
     "category": "Sports & games",
-    "prompt": "Name a sports story you'd want proof of before believing your friend.",
+    "prompt": "Your friend drops an unbelievable sports story in the group chat. What would make you ask for a photo?",
     "answers": [
       {
         "text": "Met a famous player",
@@ -3472,7 +3473,7 @@
   {
     "id": "games-200",
     "category": "Sports & games",
-    "prompt": "What could turn a fan's victory celebration into embarrassment?",
+    "prompt": "Your friend’s big win celebration turns awkward in seconds. What went wrong?",
     "answers": [
       {
         "text": "Score gets overturned",
@@ -3521,7 +3522,7 @@
   {
     "id": "games-201",
     "category": "Sports & games",
-    "prompt": "Name something fans would vote to remove from sports broadcasts.",
+    "prompt": "If fans could vote one annoying thing off the game stream, what would they get rid of?",
     "answers": [
       {
         "text": "Too many ads",
@@ -3767,7 +3768,7 @@
   {
     "id": "games-206",
     "category": "Sports & games",
-    "prompt": "What gives away that someone is pretending to like sports to impress a date?",
+    "prompt": "A friend suddenly claims to love the sport their crush follows. What gives away that they’re bluffing?",
     "answers": [
       {
         "text": "Cheers at the wrong time",
@@ -3865,7 +3866,7 @@
   {
     "id": "games-208",
     "category": "Sports & games",
-    "prompt": "Name something a sports fan embarrasses their kids by doing.",
+    "prompt": "You’re at a game with a parent who’s taking it way more seriously than you are. What do they do that makes you cringe?",
     "answers": [
       {
         "text": "Yells at the referee",
@@ -3914,7 +3915,7 @@
   {
     "id": "games-209",
     "category": "Sports & games",
-    "prompt": "Name something rival fans can usually agree to complain about.",
+    "prompt": "You and your friend disagree about everything in the game. What can fans of both teams complain about together?",
     "answers": [
       {
         "text": "High prices",
@@ -4062,7 +4063,7 @@
   {
     "id": "games-212",
     "category": "Sports & games",
-    "prompt": "Name something that could go wrong when you try to start a chant at a stadium.",
+    "prompt": "You try to start a chant while everyone in your row can hear you. What could make you instantly regret it?",
     "answers": [
       {
         "text": "Nobody joins in",
@@ -4211,7 +4212,7 @@
   {
     "id": "games-215",
     "category": "Sports & games",
-    "prompt": "Name something fans do when their biggest rival loses.",
+    "prompt": "The rival team just lost and the group chat knows. What do their biggest haters do first?",
     "answers": [
       {
         "text": "Post a meme",
@@ -4410,7 +4411,7 @@
   {
     "id": "games-219",
     "category": "Sports & games",
-    "prompt": "Name something that makes a win especially sweet for a fan.",
+    "prompt": "Your friend says “you don’t get it, this win was different.” What might have made it mean that much to them?",
     "answers": [
       {
         "text": "Beat a rival",
@@ -4459,7 +4460,7 @@
   {
     "id": "games-220",
     "category": "Sports & games",
-    "prompt": "Name something a fan promises every season and then fails to do.",
+    "prompt": "What promise does your most invested sports friend make every season and break by the second game?",
     "answers": [
       {
         "text": "Stop shouting",

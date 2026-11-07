@@ -51,7 +51,7 @@
   {
     "id": "culture-042",
     "category": "Pop culture",
-    "prompt": "Name something you would hate your favorite actor to discover in your search history.",
+    "prompt": "What would you panic-delete if your favorite actor asked to borrow your phone and saw your searches?",
     "answers": [
       {
         "text": "Fan edits of them",
@@ -202,7 +202,7 @@
   {
     "id": "culture-045",
     "category": "Pop culture",
-    "prompt": "Name something movie teenagers get away with that you never could.",
+    "prompt": "What can a teen in a school movie do that would get you grounded by the next scene?",
     "answers": [
       {
         "text": "Throwing huge parties",
@@ -400,7 +400,7 @@
   {
     "id": "culture-049",
     "category": "Pop culture",
-    "prompt": "Name something every movie road trip seems to include.",
+    "prompt": "What goes wrong in a movie road trip that would immediately end up in your friends' group chat?",
     "answers": [
       {
         "text": "Flat tire",
@@ -499,7 +499,7 @@
   {
     "id": "culture-051",
     "category": "Pop culture",
-    "prompt": "Name a sign a movie character is secretly the bad guy.",
+    "prompt": "What's the first clue a new character is going to be all over the villain edits by next week?",
     "answers": [
       {
         "text": "Too helpful",
@@ -537,9 +537,10 @@
         "points": 8
       },
       {
-        "text": "Has a suspicious scar",
+        "text": "They know something they shouldn't",
         "aliases": [
-          "creepy scar"
+          "knows the secret",
+          "too much information"
         ],
         "points": 6
       }
@@ -597,7 +598,7 @@
   {
     "id": "culture-053",
     "category": "Pop culture",
-    "prompt": "Name something a training montage makes look suspiciously easy.",
+    "prompt": "What does a 30-second movie montage make look like you could learn it before Friday?",
     "answers": [
       {
         "text": "Building muscles",
@@ -696,7 +697,7 @@
   {
     "id": "culture-055",
     "category": "Pop culture",
-    "prompt": "Name something movie kids try to hide before their parents get home.",
+    "prompt": "The movie party ends five minutes before their parents get home. What are the teens trying to hide?",
     "answers": [
       {
         "text": "Broken furniture",
@@ -746,7 +747,7 @@
   {
     "id": "culture-056",
     "category": "Pop culture",
-    "prompt": "Name a place where movie couples meet that rarely works for flirting in real life.",
+    "prompt": "Where do movie couples make meeting someone look cute even though you'd never try it there?",
     "answers": [
       {
         "text": "Grocery store",
@@ -846,7 +847,7 @@
   {
     "id": "culture-058",
     "category": "Pop culture",
-    "prompt": "Name something movies get wrong about life on a tight budget.",
+    "prompt": "What does a show always get wrong about being broke in your first apartment?",
     "answers": [
       {
         "text": "Huge apartment",
@@ -856,8 +857,9 @@
         "points": 34
       },
       {
-        "text": "Nice car",
+        "text": "A car they somehow afford",
         "aliases": [
+          "nice car",
           "expensive car"
         ],
         "points": 24
@@ -946,7 +948,7 @@
   {
     "id": "culture-060",
     "category": "Pop culture",
-    "prompt": "Name a clue an actor is much older than the teenager they are playing.",
+    "prompt": "What's a giveaway the actor playing a high school junior is closer to your teacher's age?",
     "answers": [
       {
         "text": "Wrinkles",
@@ -1044,7 +1046,7 @@
   {
     "id": "culture-062",
     "category": "Pop culture",
-    "prompt": "Name a horror-movie scene where you already know someone is about to die.",
+    "prompt": "What choice makes you tell the group chat a horror character's definitely not surviving the scene?",
     "answers": [
       {
         "text": "Couple making out",
@@ -1241,7 +1243,7 @@
   {
     "id": "culture-066",
     "category": "Pop culture",
-    "prompt": "Name something you secretly hope happens at a boring award show.",
+    "prompt": "What would finally get you to open the clips from an award show you didn't bother watching live?",
     "answers": [
       {
         "text": "Wrong winner announced",
@@ -1258,9 +1260,10 @@
         "points": 24
       },
       {
-        "text": "Awkward speech",
+        "text": "A painfully awkward speech",
         "aliases": [
-          "embarrassing speech"
+          "weird acceptance speech",
+          "awkward speech"
         ],
         "points": 18
       },
@@ -1439,7 +1442,7 @@
   {
     "id": "culture-070",
     "category": "Pop culture",
-    "prompt": "Name a sitcom excuse that would never fool you in real life.",
+    "prompt": "What excuse from a sitcom would get an immediate \"be serious\" if someone texted it to you?",
     "answers": [
       {
         "text": "It is not what it looks like",
@@ -1488,7 +1491,7 @@
   {
     "id": "culture-071",
     "category": "Pop culture",
-    "prompt": "Name something that makes a TV workplace better than your actual job.",
+    "prompt": "What do characters at work on a sitcom get that you wish your shifts came with?",
     "answers": [
       {
         "text": "Funny coworkers",
@@ -1520,10 +1523,10 @@
         "points": 12
       },
       {
-        "text": "Beautiful office",
+        "text": "A genuinely nice break room",
         "aliases": [
-          "great workplace",
-          "amazing office"
+          "nice staff room",
+          "beautiful office"
         ],
         "points": 8
       },
@@ -1637,7 +1640,7 @@
   {
     "id": "culture-074",
     "category": "Pop culture",
-    "prompt": "Name a reason you would be voted off a survival reality show first.",
+    "prompt": "Why would your friends pick you to be the first one sent home on a survival show?",
     "answers": [
       {
         "text": "Complain constantly",
@@ -1785,12 +1788,13 @@
   {
     "id": "culture-077",
     "category": "Pop culture",
-    "prompt": "Name something that would make you regret letting a home-renovation show into your house.",
+    "prompt": "A room makeover creator offers to redo your room for a video. What might make you wish you said no?",
     "answers": [
       {
-        "text": "Huge bill",
+        "text": "A surprise bill",
         "aliases": [
-          "over budget"
+          "huge bill",
+          "hidden costs"
         ],
         "points": 30
       },
@@ -1816,8 +1820,9 @@
         "points": 13
       },
       {
-        "text": "Being filmed in pajamas",
+        "text": "An awkward clip of you",
         "aliases": [
+          "being filmed in pajamas",
           "embarrassing footage"
         ],
         "points": 9
@@ -1883,7 +1888,7 @@
   {
     "id": "culture-079",
     "category": "Pop culture",
-    "prompt": "Name a reality-show behavior people secretly enjoy watching.",
+    "prompt": "What is a reality show cast member doing when you know the clips are going to hit the group chat?",
     "answers": [
       {
         "text": "Arguments",
@@ -1981,7 +1986,7 @@
   {
     "id": "culture-081",
     "category": "Pop culture",
-    "prompt": "Name a documentary subject that could keep you up all night.",
+    "prompt": "What's a documentary topic that can send you down a second rabbit hole after the credits?",
     "answers": [
       {
         "text": "True crime",
@@ -2425,7 +2430,7 @@
   {
     "id": "culture-090",
     "category": "Pop culture",
-    "prompt": "Name something you wish cinema tickets came with.",
+    "prompt": "If a movie ticket costs as much as dinner, what else do you want them to throw in?",
     "answers": [
       {
         "text": "Free popcorn",
@@ -2460,13 +2465,14 @@
       {
         "text": "Free parking",
         "aliases": [
-          "parking"
+          "parking included"
         ],
         "points": 10
       },
       {
-        "text": "A refund guarantee",
+        "text": "A chance to refund a bad movie",
         "aliases": [
+          "refund guarantee",
           "money back"
         ],
         "points": 6
@@ -2525,7 +2531,7 @@
   {
     "id": "culture-092",
     "category": "Pop culture",
-    "prompt": "Name a movie-school experience you wish you had in real life.",
+    "prompt": "What's something from a movie high school you'd actually want at yours?",
     "answers": [
       {
         "text": "Huge prom",
@@ -2575,7 +2581,7 @@
   {
     "id": "culture-093",
     "category": "Pop culture",
-    "prompt": "Name a reason someone claims an animated movie is 'for kids' and watches it anyway.",
+    "prompt": "Someone says an animated movie is \"for little kids.\" Why are they still the first one to hit play?",
     "answers": [
       {
         "text": "Funny jokes",
@@ -2778,7 +2784,7 @@
   {
     "id": "culture-097",
     "category": "Pop culture",
-    "prompt": "Name a TV cliffhanger that makes you immediately play the next episode.",
+    "prompt": "What cliffhanger makes you hit \"next episode\" even though you said you were going to sleep?",
     "answers": [
       {
         "text": "Someone might die",
@@ -2828,7 +2834,7 @@
   {
     "id": "culture-098",
     "category": "Pop culture",
-    "prompt": "Name a sign a movie franchise has run out of ideas.",
+    "prompt": "What's the announcement that makes you think your favorite movie series should've ended already?",
     "answers": [
       {
         "text": "Another remake of the first one",
@@ -2977,7 +2983,7 @@
   {
     "id": "culture-101",
     "category": "Pop culture",
-    "prompt": "Name a reason someone quits a TV series after several seasons.",
+    "prompt": "What makes you stop a show halfway through and decide you don't care how it ends anymore?",
     "answers": [
       {
         "text": "Favorite character dies",
@@ -3026,7 +3032,7 @@
   {
     "id": "culture-102",
     "category": "Pop culture",
-    "prompt": "Name something that ruins watching a movie on your phone.",
+    "prompt": "You're trying to finish a movie on your phone in bed. What keeps ruining it?",
     "answers": [
       {
         "text": "Constant notifications",
@@ -3077,7 +3083,7 @@
   {
     "id": "culture-103",
     "category": "Pop culture",
-    "prompt": "Name something you say after scrolling longer than a movie would have lasted.",
+    "prompt": "You've spent an hour on the streaming menu. What does someone finally say?",
     "answers": [
       {
         "text": "There is nothing to watch",
@@ -3087,16 +3093,18 @@
         "points": 34
       },
       {
-        "text": "You choose",
+        "text": "Someone else pick",
         "aliases": [
-          "pick anything"
+          "you choose",
+          "just choose something"
         ],
         "points": 24
       },
       {
-        "text": "Let us watch the usual",
+        "text": "Let's put on the usual",
         "aliases": [
-          "watch a favorite"
+          "rewatch a favorite",
+          "watch the usual"
         ],
         "points": 16
       },
@@ -3126,7 +3134,7 @@
   {
     "id": "culture-104",
     "category": "Pop culture",
-    "prompt": "Name someone who is impossible to trust with a TV spoiler.",
+    "prompt": "You mute the show's name until you're caught up. Who or what still manages to spoil it?",
     "answers": [
       {
         "text": "Friend who watched ahead",
@@ -3276,7 +3284,7 @@
   {
     "id": "culture-107",
     "category": "Pop culture",
-    "prompt": "Name a reason movie night with friends never actually reaches the movie.",
+    "prompt": "Why is it an hour into movie night with friends and the movie still hasn't started?",
     "answers": [
       {
         "text": "Cannot agree",
@@ -3325,7 +3333,7 @@
   {
     "id": "culture-108",
     "category": "Pop culture",
-    "prompt": "Name something you neglect when you promise yourself just one more episode.",
+    "prompt": "\"One more episode\" turns into three. What are you putting off?",
     "answers": [
       {
         "text": "Sleep",
@@ -3374,7 +3382,7 @@
   {
     "id": "culture-109",
     "category": "Pop culture",
-    "prompt": "Name something people living together argue about while watching TV.",
+    "prompt": "What starts an argument when you and someone you live with try to watch a show together?",
     "answers": [
       {
         "text": "What to watch",
@@ -3474,7 +3482,7 @@
   {
     "id": "culture-111",
     "category": "Pop culture",
-    "prompt": "Name a reason you choose a cinema seat far from everyone else.",
+    "prompt": "You open the theater seat map and it is almost empty. Why do you pick the seats in the back corner?",
     "answers": [
       {
         "text": "Avoid talking",
@@ -4162,40 +4170,45 @@
   {
     "id": "culture-125",
     "category": "Pop culture",
-    "prompt": "Name something you do after getting a little too into a show.",
+    "prompt": "You binged a show and now your friends can tell. What do they catch you doing?",
     "answers": [
       {
-        "text": "Accent",
+        "text": "Talk like a character",
         "aliases": [
-          "way of speaking"
+          "their accent",
+          "copy the accent"
         ],
         "points": 28
       },
       {
-        "text": "Catchphrase",
+        "text": "Repeat a catchphrase",
         "aliases": [
-          "famous line"
+          "quote them",
+          "catchphrase"
         ],
         "points": 23
       },
       {
-        "text": "Hairstyle",
+        "text": "Style your hair like theirs",
         "aliases": [
-          "hair"
+          "copy their hairstyle",
+          "their hair"
         ],
         "points": 19
       },
       {
-        "text": "Fashion",
+        "text": "Dress like a character",
         "aliases": [
-          "clothes"
+          "copy their outfit",
+          "their fashion"
         ],
         "points": 14
       },
       {
-        "text": "A character's walk",
+        "text": "Copy a character's walk",
         "aliases": [
-          "body language"
+          "walk like them",
+          "the way they walk"
         ],
         "points": 10
       },
@@ -4261,7 +4274,7 @@
   {
     "id": "culture-127",
     "category": "Pop culture",
-    "prompt": "Name something TV neighbors do that would make you move.",
+    "prompt": "What does a neighbor do on a sitcom that would get them blocked and avoided in real life?",
     "answers": [
       {
         "text": "Walk in uninvited",
@@ -4408,7 +4421,7 @@
   {
     "id": "culture-130",
     "category": "Pop culture",
-    "prompt": "Name a reason you lie about having seen a famous movie.",
+    "prompt": "Your friends start quoting a movie you skipped. Why do you pretend you've seen it?",
     "answers": [
       {
         "text": "Sound knowledgeable",

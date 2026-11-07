@@ -51,7 +51,7 @@
   {
     "id": "culture-002",
     "category": "Pop culture",
-    "prompt": "Name something people sneak into a movie theater.",
+    "prompt": "What snack is worth sneaking into the theater because the concession stand costs too much?",
     "answers": [
       {
         "text": "Candy",
@@ -405,7 +405,7 @@
   {
     "id": "culture-009",
     "category": "Pop culture",
-    "prompt": "Name a movie sound that makes you grab the person beside you.",
+    "prompt": "What horror movie sound makes you take one earbud out to check if it happened in your room?",
     "answers": [
       {
         "text": "Sudden scream",
@@ -429,9 +429,9 @@
         "points": 16
       },
       {
-        "text": "Door creaking",
+        "text": "A door creak",
         "aliases": [
-          "creaky door"
+          "creaking door"
         ],
         "points": 11
       },
@@ -443,9 +443,10 @@
         "points": 8
       },
       {
-        "text": "Monster growl",
+        "text": "A scratch on glass",
         "aliases": [
-          "growling"
+          "scratching at a window",
+          "fingernails on glass"
         ],
         "points": 5
       }
@@ -503,7 +504,7 @@
   {
     "id": "culture-011",
     "category": "Pop culture",
-    "prompt": "Name something people judge a movie by before watching it.",
+    "prompt": "A friend sends you a movie title with no context. What do you check before you agree to watch?",
     "answers": [
       {
         "text": "Trailer",
@@ -528,14 +529,15 @@
         "points": 18
       },
       {
-        "text": "Actors",
+        "text": "Who's in it",
         "aliases": [
-          "cast"
+          "actors",
+          "the cast"
         ],
         "points": 12
       },
       {
-        "text": "A clip they saw online",
+        "text": "A clip from the movie",
         "aliases": [
           "viral clip",
           "short scene"
@@ -543,9 +545,10 @@
         "points": 8
       },
       {
-        "text": "Title",
+        "text": "How long it is",
         "aliases": [
-          "name"
+          "runtime",
+          "length"
         ],
         "points": 6
       }
@@ -554,7 +557,7 @@
   {
     "id": "culture-012",
     "category": "Pop culture",
-    "prompt": "Name a reason you watch a movie alone.",
+    "prompt": "What makes you hit play alone instead of waiting for the group chat to pick a night?",
     "answers": [
       {
         "text": "Nobody else wants to see it",
@@ -701,7 +704,7 @@
   {
     "id": "culture-015",
     "category": "Pop culture",
-    "prompt": "Name something that makes you reject a movie while scrolling.",
+    "prompt": "You're five minutes into scrolling for a movie. What's an instant skip?",
     "answers": [
       {
         "text": "Uninteresting plot",
@@ -802,7 +805,7 @@
   {
     "id": "culture-017",
     "category": "Pop culture",
-    "prompt": "Name something a movie star could do that would ruin your crush on them.",
+    "prompt": "What could your celebrity crush do that would make you delete all the edits you saved?",
     "answers": [
       {
         "text": "Be rude to a fan",
@@ -833,10 +836,10 @@
         "points": 13
       },
       {
-        "text": "A leaked rude DM",
+        "text": "Send a rude DM that leaks",
         "aliases": [
-          "nasty private message",
-          "screenshots of their texts"
+          "leaked private message",
+          "nasty text screenshots"
         ],
         "points": 9
       },
@@ -901,7 +904,7 @@
   {
     "id": "culture-019",
     "category": "Pop culture",
-    "prompt": "Name a scene people fast-forward through when watching with their parents.",
+    "prompt": "You hear a parent coming down the hall. What kind of movie scene do you skip before they walk in?",
     "answers": [
       {
         "text": "Sex scene",
@@ -1099,7 +1102,7 @@
   {
     "id": "culture-023",
     "category": "Pop culture",
-    "prompt": "Name something that makes a movie villain weirdly attractive.",
+    "prompt": "What's one reason your feed is full of edits of the villain instead of the hero?",
     "answers": [
       {
         "text": "Good looks",
@@ -1124,9 +1127,10 @@
         "points": 16
       },
       {
-        "text": "Sharp clothes",
+        "text": "An iconic outfit",
         "aliases": [
-          "stylish"
+          "sharp clothes",
+          "great outfit"
         ],
         "points": 12
       },
@@ -1546,7 +1550,7 @@
   {
     "id": "culture-032",
     "category": "Pop culture",
-    "prompt": "Name something a movie fan buys that makes their friends say, 'How much did you pay for that?'",
+    "prompt": "What movie merch would make the group chat say, \"Please tell me you didn't pay full price\"?",
     "answers": [
       {
         "text": "A giant display figure",
@@ -1598,7 +1602,7 @@
   {
     "id": "culture-033",
     "category": "Pop culture",
-    "prompt": "Name something you search online immediately after a movie.",
+    "prompt": "The credits roll and you immediately open your phone. What are you looking up?",
     "answers": [
       {
         "text": "Ending explained",
@@ -1649,7 +1653,7 @@
   {
     "id": "culture-034",
     "category": "Pop culture",
-    "prompt": "Name a movie moment people record their own reaction to.",
+    "prompt": "What scene makes you grab your phone because you need to film your friend's reaction?",
     "answers": [
       {
         "text": "Major death",
@@ -1699,7 +1703,7 @@
   {
     "id": "culture-035",
     "category": "Pop culture",
-    "prompt": "Name a reason someone turns on subtitles in their own language.",
+    "prompt": "Why do the subtitles stay on even when everyone in the room speaks the language?",
     "answers": [
       {
         "text": "Quiet dialogue",
@@ -1798,7 +1802,7 @@
   {
     "id": "culture-037",
     "category": "Pop culture",
-    "prompt": "Name something you miss while talking during a movie.",
+    "prompt": "You look away to finish a text and your friend says, \"Wait, did you see that?\" What did you miss?",
     "answers": [
       {
         "text": "Important clue",
@@ -1829,9 +1833,10 @@
         "points": 13
       },
       {
-        "text": "A name",
+        "text": "A name that matters later",
         "aliases": [
-          "who someone is"
+          "someone's name",
+          "who they just named"
         ],
         "points": 9
       },
@@ -1946,7 +1951,7 @@
   {
     "id": "culture-040",
     "category": "Pop culture",
-    "prompt": "Name a reason a song from a movie stays stuck in your head.",
+    "prompt": "Why does the song from that one movie still pop into your head on the way to class?",
     "answers": [
       {
         "text": "Catchy chorus",

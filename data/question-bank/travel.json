@@ -2,7 +2,7 @@
   {
     "id": "travel-001",
     "category": "Travel & places",
-    "prompt": "Name something people pack for a weekend away as if they are leaving for a year.",
+    "prompt": "Your friend shows up for a two-night trip with a checked-size suitcase. What did they pack way too much of?",
     "answers": [
       {
         "text": "Too many clothes",
@@ -51,7 +51,7 @@
   {
     "id": "travel-002",
     "category": "Travel & places",
-    "prompt": "Name something people suddenly remember to do five minutes before leaving for vacation.",
+    "prompt": "Everyone is outside waiting for you to leave. What do you sprint back inside to do?",
     "answers": [
       {
         "text": "Grab their charger",
@@ -101,7 +101,7 @@
   {
     "id": "travel-003",
     "category": "Travel & places",
-    "prompt": "Name someone you would hesitate to invite on a group vacation.",
+    "prompt": "The group chat is picking who's coming on the first trip you planned yourselves. Who makes you hesitate?",
     "answers": [
       {
         "text": "An ex",
@@ -150,7 +150,7 @@
   {
     "id": "travel-004",
     "category": "Travel & places",
-    "prompt": "Name something a friend does that gets them fired as the vacation planner.",
+    "prompt": "What gets your friend demoted from planning the next weekend trip?",
     "answers": [
       {
         "text": "Books the wrong dates",
@@ -199,7 +199,7 @@
   {
     "id": "travel-005",
     "category": "Travel & places",
-    "prompt": "What might friends argue about before anyone has even booked the vacation?",
+    "prompt": "The group chat says “we should go somewhere” for the tenth time. What can nobody agree on?",
     "answers": [
       {
         "text": "Where to go",
@@ -248,7 +248,7 @@
   {
     "id": "travel-006",
     "category": "Travel & places",
-    "prompt": "Name a reason someone claims they deserve the best bedroom in a vacation rental.",
+    "prompt": "You're splitting one rental with friends. What excuse gets someone the only room with a real bed?",
     "answers": [
       {
         "text": "They got there first",
@@ -297,7 +297,7 @@
   {
     "id": "travel-007",
     "category": "Travel & places",
-    "prompt": "Name something in a hotel listing that is often better than the reality.",
+    "prompt": "You and your friends finally book the cheapest decent-looking room. What looked way better in the listing?",
     "answers": [
       {
         "text": "Room size",
@@ -353,7 +353,7 @@
   {
     "id": "travel-008",
     "category": "Travel & places",
-    "prompt": "Name a sound from the next hotel room that would keep you awake.",
+    "prompt": "You're trying to sleep before a tournament or a big event. What noise through the hotel wall keeps you up?",
     "answers": [
       {
         "text": "Loud television",
@@ -402,47 +402,47 @@
   {
     "id": "travel-009",
     "category": "Travel & places",
-    "prompt": "Name something a hotel guest might try to sneak home.",
+    "prompt": "Name a tiny thing a friend takes from a hotel room as a souvenir instead of buying one.",
     "answers": [
       {
-        "text": "Towels",
+        "text": "A room key card",
         "aliases": [
-          "bath towels"
+          "key card"
         ],
         "points": 30
       },
       {
-        "text": "A bathrobe",
+        "text": "Mini shampoo",
         "aliases": [
-          "robe"
+          "toiletries"
         ],
         "points": 24
       },
       {
-        "text": "Toiletries",
+        "text": "A hotel pen",
         "aliases": [
-          "shampoo"
+          "free pen"
         ],
         "points": 18
       },
       {
-        "text": "Slippers",
+        "text": "A breakfast tea bag",
         "aliases": [
-          "hotel slippers"
+          "tea"
         ],
         "points": 13
       },
       {
-        "text": "A pillow",
+        "text": "A paper coaster",
         "aliases": [
-          "pillow"
+          "drink coaster"
         ],
         "points": 9
       },
       {
-        "text": "The hair dryer",
+        "text": "A wrapped soap",
         "aliases": [
-          "blow dryer"
+          "hotel soap"
         ],
         "points": 6
       }
@@ -451,7 +451,7 @@
   {
     "id": "travel-010",
     "category": "Travel & places",
-    "prompt": "Name something people take extra helpings of at a free hotel breakfast.",
+    "prompt": "You're getting free breakfast before a long day out. What are you grabbing seconds of?",
     "answers": [
       {
         "text": "Bacon",
@@ -500,7 +500,7 @@
   {
     "id": "travel-011",
     "category": "Travel & places",
-    "prompt": "Name one way friends can make an overnight trip cheaper.",
+    "prompt": "Everyone in the group chat is down for one night away until they see the price. How do you get the cost down?",
     "answers": [
       {
         "text": "Split the room with friends",
@@ -549,7 +549,7 @@
   {
     "id": "travel-012",
     "category": "Travel & places",
-    "prompt": "Name something that would make you ask to change hotel rooms immediately.",
+    "prompt": "Your group is ready to drop its bags and go. What makes everyone agree you need a different room?",
     "answers": [
       {
         "text": "Bedbugs",
@@ -598,33 +598,33 @@
   {
     "id": "travel-013",
     "category": "Travel & places",
-    "prompt": "Name a hotel extra that makes people say they could get used to this.",
+    "prompt": "What's a small upgrade that makes a plain room on a trip with friends feel way fancier?",
     "answers": [
       {
         "text": "A huge bathtub",
         "aliases": [
-          "soaking tub"
+          "big tub"
         ],
         "points": 30
       },
       {
-        "text": "Room service",
+        "text": "Food brought to the room",
         "aliases": [
-          "food delivered"
+          "room service"
         ],
         "points": 24
       },
       {
-        "text": "A private balcony",
+        "text": "A balcony",
         "aliases": [
-          "balcony"
+          "outdoor space"
         ],
         "points": 18
       },
       {
-        "text": "A soft bathrobe",
+        "text": "A soft robe",
         "aliases": [
-          "robe"
+          "bathrobe"
         ],
         "points": 13
       },
@@ -636,9 +636,9 @@
         "points": 9
       },
       {
-        "text": "Free late checkout",
+        "text": "Extra time to sleep in",
         "aliases": [
-          "sleep in longer"
+          "late checkout"
         ],
         "points": 6
       }
@@ -647,47 +647,47 @@
   {
     "id": "travel-014",
     "category": "Travel & places",
-    "prompt": "Name something you do in a hotel that you rarely do at home.",
+    "prompt": "Name something your friend does on a one-night trip that they'd never get away with in a shared room at home.",
     "answers": [
       {
-        "text": "Sleep in late",
+        "text": "Sleep way past the alarm",
         "aliases": [
-          "lie in"
+          "sleep in"
         ],
         "points": 28
       },
       {
-        "text": "Order food to bed",
+        "text": "Eat takeout in bed",
         "aliases": [
-          "room service"
+          "food in bed"
         ],
         "points": 23
       },
       {
-        "text": "Watch television in bed",
+        "text": "Keep the TV on all night",
         "aliases": [
-          "tv in bed"
+          "watch all night"
         ],
         "points": 19
       },
       {
-        "text": "Take a long bath",
+        "text": "Take a ridiculously long shower",
         "aliases": [
-          "soak in tub"
+          "hog the shower"
         ],
         "points": 14
       },
       {
-        "text": "Wear a bathrobe all day",
+        "text": "Stay in pajamas all day",
         "aliases": [
-          "stay in robe"
+          "wear pajamas"
         ],
         "points": 10
       },
       {
-        "text": "Leave the bed unmade",
+        "text": "Leave every bag open on the floor",
         "aliases": [
-          "do not make bed"
+          "make a mess"
         ],
         "points": 6
       }
@@ -696,7 +696,7 @@
   {
     "id": "travel-015",
     "category": "Travel & places",
-    "prompt": "Name something that disappears the moment you need it in a hotel room.",
+    "prompt": "Everyone is heading down to the lobby. What can you suddenly not find in the room?",
     "answers": [
       {
         "text": "Room key",
@@ -745,7 +745,7 @@
   {
     "id": "travel-016",
     "category": "Travel & places",
-    "prompt": "Name something people do to feel more at home in a hotel room.",
+    "prompt": "What do you do first to get comfortable in a room you're sharing away from home?",
     "answers": [
       {
         "text": "Adjusts the temperature",
@@ -794,7 +794,7 @@
   {
     "id": "travel-017",
     "category": "Travel & places",
-    "prompt": "Name something you hope your hotel receptionist says at check-in.",
+    "prompt": "You've been traveling since early morning. What's the best thing the person at check-in could tell you?",
     "answers": [
       {
         "text": "Free upgrade",
@@ -843,7 +843,7 @@
   {
     "id": "travel-018",
     "category": "Travel & places",
-    "prompt": "Name something people discover they forgot only after opening their suitcase.",
+    "prompt": "You unzip your bag for the first night away with friends and realize you left something at home. What is it?",
     "answers": [
       {
         "text": "Toothbrush",
@@ -892,7 +892,7 @@
   {
     "id": "travel-019",
     "category": "Travel & places",
-    "prompt": "Name something people put in their suitcase just in case but never use.",
+    "prompt": "You have one backpack for the trip. Name something you pack “just in case” that never comes out.",
     "answers": [
       {
         "text": "Fancy clothes",
@@ -941,7 +941,7 @@
   {
     "id": "travel-020",
     "category": "Travel & places",
-    "prompt": "Name something a travel companion does that makes you want a separate room.",
+    "prompt": "One night in the same room is enough. What does your friend do that makes you want a room of your own?",
     "answers": [
       {
         "text": "Snores",
@@ -1039,7 +1039,7 @@
   {
     "id": "travel-022",
     "category": "Travel & places",
-    "prompt": "Name something friends say to someone who packed three giant suitcases.",
+    "prompt": "Your friend brings three suitcases to a one-night trip. What does everyone say to them?",
     "answers": [
       {
         "text": "We are only going for a weekend",
@@ -1137,7 +1137,7 @@
   {
     "id": "travel-024",
     "category": "Travel & places",
-    "prompt": "Name something that can turn a relaxing vacation into a family argument.",
+    "prompt": "You've been stuck with your family all day on a trip. What finally starts the argument?",
     "answers": [
       {
         "text": "Money",
@@ -1284,38 +1284,38 @@
   {
     "id": "travel-027",
     "category": "Travel & places",
-    "prompt": "Name something people hide before housekeeping enters their room.",
+    "prompt": "You're sharing a room with friends on a weekend away. What do you shove out of sight before people drop by?",
     "answers": [
       {
         "text": "Dirty underwear",
         "aliases": [
-          "underpants"
+          "dirty clothes"
         ],
         "points": 35
       },
       {
-        "text": "Valuables",
+        "text": "Your cash",
         "aliases": [
           "money"
         ],
         "points": 25
       },
       {
-        "text": "A messy suitcase",
+        "text": "A bag you haven't unpacked",
         "aliases": [
-          "clothes pile"
+          "messy luggage"
         ],
         "points": 16
       },
       {
-        "text": "Private medication",
+        "text": "Medication",
         "aliases": [
-          "medicine"
+          "pills"
         ],
         "points": 11
       },
       {
-        "text": "A pile of food wrappers",
+        "text": "Food wrappers",
         "aliases": [
           "snack trash"
         ],
@@ -1324,7 +1324,7 @@
       {
         "text": "Leftover food",
         "aliases": [
-          "old food"
+          "old takeout"
         ],
         "points": 5
       }
@@ -1333,7 +1333,7 @@
   {
     "id": "travel-028",
     "category": "Travel & places",
-    "prompt": "Name something siblings refuse to share, even on vacation.",
+    "prompt": "You're sharing a bag or a room with your sibling for the weekend. What are you still refusing to share?",
     "answers": [
       {
         "text": "Phone charger",
@@ -1529,7 +1529,7 @@
   {
     "id": "travel-032",
     "category": "Travel & places",
-    "prompt": "Name something you wish was included in every hotel stay.",
+    "prompt": "You're comparing two cheap places to stay. What would you love to see included for free?",
     "answers": [
       {
         "text": "Late checkout",
@@ -1627,7 +1627,7 @@
   {
     "id": "travel-034",
     "category": "Travel & places",
-    "prompt": "Name a reason someone starts packing weeks before the trip.",
+    "prompt": "What makes someone start packing for a weekend trip before the group has even finalized the plan?",
     "answers": [
       {
         "text": "Excited",
@@ -1823,7 +1823,7 @@
   {
     "id": "travel-038",
     "category": "Travel & places",
-    "prompt": "Name something a friend promises to do on vacation but never actually does.",
+    "prompt": "Before the trip, your friend makes a promise about how they'll act. What do they definitely fail to do?",
     "answers": [
       {
         "text": "Wake up early",
@@ -1921,7 +1921,7 @@
   {
     "id": "travel-040",
     "category": "Travel & places",
-    "prompt": "Name a sign your friend has become the unofficial tour leader.",
+    "prompt": "What does one friend do that makes everyone start treating them like the trip leader?",
     "answers": [
       {
         "text": "Carries the itinerary",

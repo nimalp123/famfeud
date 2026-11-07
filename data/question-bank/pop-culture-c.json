@@ -51,7 +51,7 @@
   {
     "id": "culture-132",
     "category": "Pop culture",
-    "prompt": "What might convince you to leave a concert before the encore?",
+    "prompt": "You love the headliner, but you start walking out before the encore. What finally made you leave?",
     "answers": [
       {
         "text": "Beat the traffic",
@@ -201,7 +201,7 @@
   {
     "id": "culture-135",
     "category": "Pop culture",
-    "prompt": "Name a reason fans might boo their favorite performer.",
+    "prompt": "What could the headliner do that makes you complain about the tickets before you even get home?",
     "answers": [
       {
         "text": "Starts very late",
@@ -250,7 +250,7 @@
   {
     "id": "culture-136",
     "category": "Pop culture",
-    "prompt": "Name something that makes a cheap concert ticket suddenly expensive.",
+    "prompt": "The ticket said $35 when you clicked it. What made the night cost way more?",
     "answers": [
       {
         "text": "Booking fees",
@@ -291,9 +291,10 @@
         "points": 10
       },
       {
-        "text": "Parking",
+        "text": "Getting stuck paying for parking",
         "aliases": [
-          "car park"
+          "parking fees",
+          "parking"
         ],
         "points": 6
       }
@@ -302,7 +303,7 @@
   {
     "id": "culture-137",
     "category": "Pop culture",
-    "prompt": "Name a music-festival luxury you'd happily pay extra for.",
+    "prompt": "You're halfway through a festival day and regretting your life choices. What would you pay extra for?",
     "answers": [
       {
         "text": "Cold water",
@@ -402,7 +403,7 @@
   {
     "id": "culture-139",
     "category": "Pop culture",
-    "prompt": "Name a reason you'd pretend to love a band you barely know.",
+    "prompt": "Your friend's favorite artist comes on and you know exactly one chorus. Why fake knowing the rest?",
     "answers": [
       {
         "text": "Impress a date",
@@ -451,7 +452,7 @@
   {
     "id": "culture-140",
     "category": "Pop culture",
-    "prompt": "Name something that makes a concert crowd cheer before the first song.",
+    "prompt": "The opening song hasn't started yet. What gets the whole crowd to pull out their phones and cheer?",
     "answers": [
       {
         "text": "Lights go dark",
@@ -647,7 +648,7 @@
   {
     "id": "culture-144",
     "category": "Pop culture",
-    "prompt": "Name somewhere you'd be embarrassed to have your phone suddenly blast music.",
+    "prompt": "Your earbuds disconnect and your music plays out loud. Where would you most want to disappear?",
     "answers": [
       {
         "text": "An exam",
@@ -697,7 +698,7 @@
   {
     "id": "culture-145",
     "category": "Pop culture",
-    "prompt": "Name a concert souvenir you'd keep even if it looked like trash.",
+    "prompt": "What's a concert souvenir that looks like garbage to someone who wasn't there?",
     "answers": [
       {
         "text": "Wristband",
@@ -748,7 +749,7 @@
   {
     "id": "culture-146",
     "category": "Pop culture",
-    "prompt": "Name something you might do if your favorite singer pulled you onstage.",
+    "prompt": "Your favorite artist unexpectedly pulls you onstage. What's the first thing you do?",
     "answers": [
       {
         "text": "Dance",
@@ -797,7 +798,7 @@
   {
     "id": "culture-147",
     "category": "Pop culture",
-    "prompt": "Name something a concert can leave you with the next morning.",
+    "prompt": "What might you wake up with the morning after a concert that wasn't part of the ticket price?",
     "answers": [
       {
         "text": "A sore throat",
@@ -998,7 +999,7 @@
   {
     "id": "culture-151",
     "category": "Pop culture",
-    "prompt": "Name a playlist you'd be embarrassed for your crush to find.",
+    "prompt": "Your crush asks to queue a song on your phone. Which playlist are you hoping they don't see?",
     "answers": [
       {
         "text": "Breakup songs",
@@ -1049,7 +1050,7 @@
   {
     "id": "culture-152",
     "category": "Pop culture",
-    "prompt": "Name something people use as a microphone when nobody is watching.",
+    "prompt": "The chorus is playing and you're alone in your room. What object becomes your fake mic?",
     "answers": [
       {
         "text": "Hairbrush",
@@ -1098,7 +1099,7 @@
   {
     "id": "culture-153",
     "category": "Pop culture",
-    "prompt": "Name a reason the designated party DJ loses control of the playlist.",
+    "prompt": "Your friend has the aux at a hangout. What makes everyone take it away?",
     "answers": [
       {
         "text": "Terrible music",
@@ -1137,7 +1138,7 @@
         "points": 8
       },
       {
-        "text": "The phone won't connect",
+        "text": "Their phone won't connect",
         "aliases": [
           "Bluetooth fails",
           "speaker disconnects"
@@ -1296,7 +1297,7 @@
   {
     "id": "culture-157",
     "category": "Pop culture",
-    "prompt": "Name something you don't want strangers to hear leaking from your headphones.",
+    "prompt": "What would you hate to discover the people next to you could hear through your headphones?",
     "answers": [
       {
         "text": "A guilty-pleasure song",
@@ -1345,7 +1346,7 @@
   {
     "id": "culture-158",
     "category": "Pop culture",
-    "prompt": "Name a reason you secretly skip your friend's favorite song.",
+    "prompt": "Your friend added a song they love to your shared playlist. Why do you secretly skip it?",
     "answers": [
       {
         "text": "The singer's voice",
@@ -1394,7 +1395,7 @@
   {
     "id": "culture-159",
     "category": "Pop culture",
-    "prompt": "Name something you'd buy just because your favorite singer put their name on it.",
+    "prompt": "What would you actually spend your own money on if your favorite artist dropped it?",
     "answers": [
       {
         "text": "Tour T-shirts",
@@ -1446,7 +1447,7 @@
   {
     "id": "culture-160",
     "category": "Pop culture",
-    "prompt": "Name a reason you might stop admitting who your favorite singer is.",
+    "prompt": "You used to defend this singer in every group chat. What finally makes you stop bringing them up?",
     "answers": [
       {
         "text": "A scandal",
@@ -1456,9 +1457,10 @@
         "points": 29
       },
       {
-        "text": "They're uncool now",
+        "text": "You grew out of the fandom",
         "aliases": [
-          "out of fashion"
+          "moved on",
+          "grew out of it"
         ],
         "points": 24
       },
@@ -1642,7 +1644,7 @@
   {
     "id": "culture-164",
     "category": "Pop culture",
-    "prompt": "Name something passengers argue about when music is playing in the car.",
+    "prompt": "You're in a friend's car and everyone has opinions about the music. What are they fighting over?",
     "answers": [
       {
         "text": "Who gets the aux",
@@ -1792,7 +1794,7 @@
   {
     "id": "culture-167",
     "category": "Pop culture",
-    "prompt": "Name something in a music video that makes you roll your eyes.",
+    "prompt": "What's something in a music video that feels like it was designed for a clip and still looks awkward?",
     "answers": [
       {
         "text": "Showing off cars",
@@ -1940,7 +1942,7 @@
   {
     "id": "culture-170",
     "category": "Pop culture",
-    "prompt": "Name a reason someone joins a band despite having little musical talent.",
+    "prompt": "Why would your friend agree to be in a band when everybody knows they can barely play?",
     "answers": [
       {
         "text": "Hang out with friends",
@@ -1990,7 +1992,7 @@
   {
     "id": "culture-171",
     "category": "Pop culture",
-    "prompt": "Name something you'd do if your favorite childhood band reunited.",
+    "prompt": "The band you were obsessed with in middle school announces a reunion. What's your first move?",
     "answers": [
       {
         "text": "Buy tickets",
@@ -2041,7 +2043,7 @@
   {
     "id": "culture-172",
     "category": "Pop culture",
-    "prompt": "Name something teenagers might use when inventing a ridiculous band name.",
+    "prompt": "Your friends decide their band needs a name in the next ten minutes. What do they name it after?",
     "answers": [
       {
         "text": "An inside joke",
@@ -2141,7 +2143,7 @@
   {
     "id": "culture-174",
     "category": "Pop culture",
-    "prompt": "Name a reason your friends stop inviting you to karaoke.",
+    "prompt": "What did you do the last time your friends invited you to karaoke that got you quietly uninvited?",
     "answers": [
       {
         "text": "Hogging the microphone",
@@ -2337,7 +2339,7 @@
   {
     "id": "culture-178",
     "category": "Pop culture",
-    "prompt": "Name something you'd worry about before singing in front of your crush.",
+    "prompt": "Someone hands you the karaoke mic right in front of your crush. What are you most worried you'll do?",
     "answers": [
       {
         "text": "Singing off-key",
@@ -2488,7 +2490,7 @@
   {
     "id": "culture-181",
     "category": "Pop culture",
-    "prompt": "Name something people do when music is too loud for a conversation.",
+    "prompt": "You're trying to tell a friend something important at a party. What do you do when the music's too loud?",
     "answers": [
       {
         "text": "Shout",
@@ -2635,7 +2637,7 @@
   {
     "id": "culture-184",
     "category": "Pop culture",
-    "prompt": "Name something embarrassing an audience member might do during a quiet performance.",
+    "prompt": "Everyone goes quiet at a school performance. What's the worst sound to make by accident?",
     "answers": [
       {
         "text": "Cough",
@@ -2652,9 +2654,10 @@
         "points": 24
       },
       {
-        "text": "Let their phone ring",
+        "text": "A loud phone notification",
         "aliases": [
-          "ringtone"
+          "a phone goes off",
+          "phone ringing"
         ],
         "points": 18
       },
@@ -2666,9 +2669,10 @@
         "points": 13
       },
       {
-        "text": "Fall asleep",
+        "text": "Snoring",
         "aliases": [
-          "snore"
+          "loud snore",
+          "fell asleep and snored"
         ],
         "points": 10
       },
@@ -2684,7 +2688,7 @@
   {
     "id": "culture-185",
     "category": "Pop culture",
-    "prompt": "Name a reason a celebrity's apology makes things worse.",
+    "prompt": "What would get a celebrity's apology roasted harder than the thing they're apologizing for?",
     "answers": [
       {
         "text": "Blames other people",
@@ -2785,7 +2789,7 @@
   {
     "id": "culture-187",
     "category": "Pop culture",
-    "prompt": "Name something a celebrity might lie about in an interview.",
+    "prompt": "What might a famous person lie about when a podcaster asks them a question they didn't plan for?",
     "answers": [
       {
         "text": "Age",
@@ -2834,7 +2838,7 @@
   {
     "id": "culture-188",
     "category": "Pop culture",
-    "prompt": "Name something you'd do if your pet became famous.",
+    "prompt": "Your pet is in one viral video and suddenly everyone knows its name. What do you do next?",
     "answers": [
       {
         "text": "Make them their own account",
@@ -2845,16 +2849,18 @@
         "points": 28
       },
       {
-        "text": "Sell merchandise",
+        "text": "Make a shirt with their face on it",
         "aliases": [
-          "make merch"
+          "sell merchandise",
+          "pet merch"
         ],
         "points": 24
       },
       {
-        "text": "Show the pet off",
+        "text": "Get them a tiny outfit",
         "aliases": [
-          "brag about it"
+          "dress the pet up",
+          "pet costume"
         ],
         "points": 19
       },
@@ -2867,9 +2873,10 @@
         "points": 13
       },
       {
-        "text": "Quit your job",
+        "text": "Post a follow-up video",
         "aliases": [
-          "stop working"
+          "make another video",
+          "post again"
         ],
         "points": 10
       },
@@ -2885,7 +2892,7 @@
   {
     "id": "culture-189",
     "category": "Pop culture",
-    "prompt": "Name a sign your friend's five minutes of fame have gone to their head.",
+    "prompt": "Your friend's clip gets a million views. What's the first sign they think they're famous now?",
     "answers": [
       {
         "text": "Stops replying",
@@ -3034,12 +3041,13 @@
   {
     "id": "culture-192",
     "category": "Pop culture",
-    "prompt": "Name something you'd hate about starring in your own reality show.",
+    "prompt": "A camera crew follows you and your friends for a whole week. What part would you hate most?",
     "answers": [
       {
-        "text": "Cameras all day",
+        "text": "Never getting a moment alone",
         "aliases": [
-          "always being filmed"
+          "cameras all day",
+          "no privacy"
         ],
         "points": 32
       },
@@ -3060,10 +3068,10 @@
         "points": 18
       },
       {
-        "text": "People turning my worst moments into clips",
+        "text": "Friends screenshotting your worst faces",
         "aliases": [
-          "getting clipped",
-          "reaction clips"
+          "reaction images",
+          "embarrassing screenshots"
         ],
         "points": 12
       },
@@ -3087,7 +3095,7 @@
   {
     "id": "culture-193",
     "category": "Pop culture",
-    "prompt": "Name something a fan does that could make a celebrity uncomfortable.",
+    "prompt": "What would cross the line if you did it after spotting someone famous in public?",
     "answers": [
       {
         "text": "Follows them home",
@@ -3383,7 +3391,7 @@
   {
     "id": "culture-199",
     "category": "Pop culture",
-    "prompt": "Name something a superfan might spend far too much money to own.",
+    "prompt": "What could your favorite artist put up for sale that would make you ignore your budget?",
     "answers": [
       {
         "text": "A front-row ticket",
@@ -3484,7 +3492,7 @@
   {
     "id": "culture-201",
     "category": "Pop culture",
-    "prompt": "Name a reason a celebrity might avoid visiting their old school.",
+    "prompt": "A famous person gets invited back to their old high school. Why would they rather skip it?",
     "answers": [
       {
         "text": "An ex",
@@ -3535,7 +3543,7 @@
   {
     "id": "culture-202",
     "category": "Pop culture",
-    "prompt": "Name something a publicist begs a celebrity to stop doing.",
+    "prompt": "What's a habit that makes a celebrity's publicist dread a late-night notification?",
     "answers": [
       {
         "text": "Angry posting",
@@ -3545,9 +3553,10 @@
         "points": 29
       },
       {
-        "text": "Dating coworkers",
+        "text": "Pushing a sketchy sponsor",
         "aliases": [
-          "on set romances"
+          "bad brand deal",
+          "promoting a scam"
         ],
         "points": 24
       },
@@ -3584,7 +3593,7 @@
   {
     "id": "culture-203",
     "category": "Pop culture",
-    "prompt": "Name something a celebrity might blame for an embarrassing post.",
+    "prompt": "A celebrity posts something embarrassing and deletes it a minute later. What do they blame?",
     "answers": [
       {
         "text": "A hacker",
@@ -3635,7 +3644,7 @@
   {
     "id": "culture-204",
     "category": "Pop culture",
-    "prompt": "Name a reason an ordinary person could become famous overnight.",
+    "prompt": "You wake up and the whole internet suddenly knows who you are. What happened last night?",
     "answers": [
       {
         "text": "A video goes viral",
@@ -3687,7 +3696,7 @@
   {
     "id": "culture-205",
     "category": "Pop culture",
-    "prompt": "Name something you'd do if paparazzi started following you.",
+    "prompt": "People keep posting your location every time you leave the house. What's your move?",
     "answers": [
       {
         "text": "Hide your location",
@@ -3697,9 +3706,10 @@
         "points": 30
       },
       {
-        "text": "Wear a disguise",
+        "text": "Wear a hat and hoodie",
         "aliases": [
-          "dress in disguise"
+          "wear a disguise",
+          "cover my face"
         ],
         "points": 24
       },
@@ -3736,7 +3746,7 @@
   {
     "id": "culture-206",
     "category": "Pop culture",
-    "prompt": "Name a rumor about a famous couple that makes people gossip.",
+    "prompt": "The group chat thinks a famous couple's hiding something. What's everyone guessing?",
     "answers": [
       {
         "text": "A breakup",
@@ -3785,7 +3795,7 @@
   {
     "id": "culture-207",
     "category": "Pop culture",
-    "prompt": "Name something a former child star might wish fans would forget.",
+    "prompt": "What would a former child star beg fans to stop reposting from when they were younger?",
     "answers": [
       {
         "text": "A bad hairstyle",
@@ -3834,7 +3844,7 @@
   {
     "id": "culture-208",
     "category": "Pop culture",
-    "prompt": "Name something that can turn an award speech into an awkward moment.",
+    "prompt": "What's the part of an acceptance speech people would cut into the awkward clip everyone shares?",
     "answers": [
       {
         "text": "Being played off",
@@ -3883,7 +3893,7 @@
   {
     "id": "culture-209",
     "category": "Pop culture",
-    "prompt": "Name something you would hate to become famous for.",
+    "prompt": "Something about you blows up online. What would you hate to become famous for?",
     "answers": [
       {
         "text": "An unflattering reaction clip",
@@ -4084,7 +4094,7 @@
   {
     "id": "culture-213",
     "category": "Pop culture",
-    "prompt": "Name something a famous person would hate to have leaked.",
+    "prompt": "What's something a famous person would hate to see screenshots of everywhere tomorrow?",
     "answers": [
       {
         "text": "Private DMs",
@@ -4184,7 +4194,7 @@
   {
     "id": "culture-215",
     "category": "Pop culture",
-    "prompt": "Name a reason you regret agreeing to a karaoke duet.",
+    "prompt": "Your friend talked you into doing a karaoke duet. What makes you immediately regret it?",
     "answers": [
       {
         "text": "Your partner can't sing",
@@ -4282,7 +4292,7 @@
   {
     "id": "culture-217",
     "category": "Pop culture",
-    "prompt": "Name a sign someone is taking karaoke far too seriously.",
+    "prompt": "What does someone do at a casual karaoke night that makes you think they practiced for this?",
     "answers": [
       {
         "text": "Brings their own microphone",

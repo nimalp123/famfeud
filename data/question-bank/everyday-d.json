@@ -2,7 +2,7 @@
   {
     "id": "everyday-221",
     "category": "Everyday life",
-    "prompt": "Name a giveaway that your partner is still annoyed after saying they're fine.",
+    "prompt": "Your friend or partner says “I'm fine” and you know that's not true. What's the giveaway?",
     "answers": [
       {
         "text": "One-word answers",
@@ -51,47 +51,51 @@
   {
     "id": "everyday-222",
     "category": "Everyday life",
-    "prompt": "Name something a couple might pretend to agree on in front of friends.",
+    "prompt": "Name something two friends pretend to agree on when the rest of the group is there.",
     "answers": [
       {
         "text": "How to spend money",
         "aliases": [
-          "finances"
+          "budget",
+          "what to spend"
         ],
         "points": 32
       },
       {
-        "text": "Parenting rules",
+        "text": "Whether to post the photo",
         "aliases": [
-          "raising children"
+          "posting a picture",
+          "group photo"
         ],
         "points": 24
       },
       {
-        "text": "Where to vacation",
+        "text": "Where to go on a trip",
         "aliases": [
-          "holiday destination"
+          "trip destination",
+          "where to vacation"
         ],
         "points": 18
       },
       {
         "text": "Politics",
         "aliases": [
-          "political views"
+          "political opinions"
         ],
         "points": 12
       },
       {
         "text": "Who does more chores",
         "aliases": [
+          "who cleans more",
           "housework"
         ],
         "points": 8
       },
       {
-        "text": "Whether they like the guests",
+        "text": "Whether they like someone there",
         "aliases": [
-          "liking their friends"
+          "if they like the guests"
         ],
         "points": 6
       }
@@ -149,7 +153,7 @@
   {
     "id": "everyday-224",
     "category": "Everyday life",
-    "prompt": "Name a question from a relative that makes you wish you'd skipped the family dinner.",
+    "prompt": "You sit down at a family dinner. What question makes you wish you'd stayed in your room?",
     "answers": [
       {
         "text": "What are you doing after graduation?",
@@ -248,7 +252,7 @@
   {
     "id": "everyday-226",
     "category": "Everyday life",
-    "prompt": "Name something a teenager hides before their crush comes over.",
+    "prompt": "Your crush says they'll come over. What's the first thing you hide in your room?",
     "answers": [
       {
         "text": "Dirty laundry",
@@ -444,7 +448,7 @@
   {
     "id": "everyday-230",
     "category": "Everyday life",
-    "prompt": "Name something grandparents let kids do that parents usually forbid.",
+    "prompt": "Growing up, what did you get away with at your grandparents' that would never fly at home?",
     "answers": [
       {
         "text": "Eat extra sweets",
@@ -493,7 +497,7 @@
   {
     "id": "everyday-231",
     "category": "Everyday life",
-    "prompt": "Name something a parent notices immediately when you visit home.",
+    "prompt": "You just walked in after not being home for a while. What's the first thing a parent notices?",
     "answers": [
       {
         "text": "A new haircut",
@@ -689,7 +693,7 @@
   {
     "id": "everyday-235",
     "category": "Everyday life",
-    "prompt": "Name an event parents turn into a bigger photo shoot than you wanted.",
+    "prompt": "Name a day when your parents ask for “one more photo” at least ten times.",
     "answers": [
       {
         "text": "Graduation",
@@ -739,7 +743,7 @@
   {
     "id": "everyday-236",
     "category": "Everyday life",
-    "prompt": "Name something you'd want a brutally honest friend to judge.",
+    "prompt": "You need a second opinion and you know which friend will be honest with you. What are you asking them to judge?",
     "answers": [
       {
         "text": "An outfit",
@@ -837,7 +841,7 @@
   {
     "id": "everyday-238",
     "category": "Everyday life",
-    "prompt": "Name an excuse a friend uses when they just don't feel like going out.",
+    "prompt": "What excuse does the friend who never really wanted to go out send to the group chat?",
     "answers": [
       {
         "text": "I'm tired",
@@ -1183,7 +1187,7 @@
   {
     "id": "everyday-245",
     "category": "Everyday life",
-    "prompt": "Name something you dread discovering after lending someone your phone.",
+    "prompt": "You handed over your unlocked phone for one second. What do you hope they didn't do?",
     "answers": [
       {
         "text": "Messages sent",
@@ -1285,7 +1289,7 @@
   {
     "id": "everyday-247",
     "category": "Everyday life",
-    "prompt": "Name something your friends will never let you live down.",
+    "prompt": "Name something your friends are absolutely bringing up again at every hangout.",
     "answers": [
       {
         "text": "An embarrassing date",
@@ -1335,7 +1339,7 @@
   {
     "id": "everyday-248",
     "category": "Everyday life",
-    "prompt": "Name something friends disagree on before a night out even starts.",
+    "prompt": "The group finally agreed to go out. What do they still have to argue about before leaving?",
     "answers": [
       {
         "text": "Where to go",
@@ -1580,7 +1584,7 @@
   {
     "id": "everyday-253",
     "category": "Everyday life",
-    "prompt": "Name something a couple fights over while assembling furniture.",
+    "prompt": "You and someone you live with are putting furniture together. What starts the fight?",
     "answers": [
       {
         "text": "Reading the instructions",
@@ -1629,7 +1633,7 @@
   {
     "id": "everyday-254",
     "category": "Everyday life",
-    "prompt": "Name a handmade gift someone keeps out of guilt.",
+    "prompt": "Name something handmade that you won't throw away because you know who made it.",
     "answers": [
       {
         "text": "A child's drawing",
@@ -1924,7 +1928,7 @@
   {
     "id": "everyday-260",
     "category": "Everyday life",
-    "prompt": "Name something parents do that embarrasses a teenager in public.",
+    "prompt": "Name something your parents can do in public that suddenly makes you wish you came alone.",
     "answers": [
       {
         "text": "Use a baby nickname",
@@ -2071,7 +2075,7 @@
   {
     "id": "everyday-263",
     "category": "Everyday life",
-    "prompt": "Name something relatives post in the family chat that nobody asked for.",
+    "prompt": "You open the family group chat and instantly regret it. What did a relative post?",
     "answers": [
       {
         "text": "Political rants",
@@ -2120,7 +2124,7 @@
   {
     "id": "everyday-264",
     "category": "Everyday life",
-    "prompt": "Name something you hide when your parents visit your first apartment.",
+    "prompt": "Your parents text that they're stopping by your first apartment. What do you hide?",
     "answers": [
       {
         "text": "A partner staying over",
@@ -2218,47 +2222,51 @@
   {
     "id": "everyday-266",
     "category": "Everyday life",
-    "prompt": "Name a compliment you give a friend's baby when you're stuck for something to say.",
+    "prompt": "You have no idea what to say about your friend's new haircut. What's the compliment you try first?",
     "answers": [
       {
-        "text": "So cute",
+        "text": "It really suits you",
         "aliases": [
-          "adorable"
+          "it fits you",
+          "looks like you"
         ],
         "points": 35
       },
       {
-        "text": "Beautiful eyes",
+        "text": "Looks fresh",
         "aliases": [
-          "lovely eyes"
+          "fresh haircut",
+          "clean cut"
         ],
         "points": 25
       },
       {
-        "text": "Look at that hair",
+        "text": "I love the color",
         "aliases": [
-          "lots of hair"
+          "nice color",
+          "great color"
         ],
         "points": 16
       },
       {
-        "text": "Such a lovely smile",
+        "text": "It frames your face",
         "aliases": [
-          "great smile"
+          "good face framing"
         ],
         "points": 11
       },
       {
-        "text": "What a cute outfit",
+        "text": "Your hair looks healthy",
         "aliases": [
-          "lovely clothes"
+          "healthy hair",
+          "looks shiny"
         ],
         "points": 8
       },
       {
-        "text": "So calm",
+        "text": "It looks better in person",
         "aliases": [
-          "so well behaved"
+          "better than in the photo"
         ],
         "points": 5
       }
@@ -2611,7 +2619,7 @@
   {
     "id": "everyday-274",
     "category": "Everyday life",
-    "prompt": "Name someone you dread accidentally calling at midnight.",
+    "prompt": "You tap the wrong contact at midnight. Whose name would you hate to see on the call screen?",
     "answers": [
       {
         "text": "Your crush",
@@ -2709,7 +2717,7 @@
   {
     "id": "everyday-276",
     "category": "Everyday life",
-    "prompt": "Name something your partner volunteers you for without asking first.",
+    "prompt": "You just found out your friends put your name down for something. What did they volunteer you to do?",
     "answers": [
       {
         "text": "Hosting guests",
@@ -2758,7 +2766,7 @@
   {
     "id": "everyday-277",
     "category": "Everyday life",
-    "prompt": "Name a reason someone owes their partner an apology before breakfast.",
+    "prompt": "You're sharing a room on a trip. What might you owe the other person an apology for the next morning?",
     "answers": [
       {
         "text": "Loud snoring",
@@ -3346,7 +3354,7 @@
   {
     "id": "everyday-289",
     "category": "Everyday life",
-    "prompt": "Name something a parent still asks about after you've become an adult.",
+    "prompt": "Name something a parent still asks you about when you call home after moving out.",
     "answers": [
       {
         "text": "Whether you've eaten",
@@ -3641,7 +3649,7 @@
   {
     "id": "everyday-295",
     "category": "Everyday life",
-    "prompt": "Name a reason you'd call your parents after insisting you had adulthood figured out.",
+    "prompt": "You've been telling your family you've got this. Why are you suddenly calling home for help?",
     "answers": [
       {
         "text": "You need money",
@@ -3935,7 +3943,7 @@
   {
     "id": "everyday-301",
     "category": "Everyday life",
-    "prompt": "Name something your partner's family comments on that you'd rather they didn't.",
+    "prompt": "You're meeting your partner's family and they have a lot of opinions. What do you wish they'd leave alone?",
     "answers": [
       {
         "text": "Your cooking",
@@ -4084,7 +4092,7 @@
   {
     "id": "everyday-304",
     "category": "Everyday life",
-    "prompt": "Name something you need a very patient partner to teach you.",
+    "prompt": "Name something you'd only let a really patient friend or partner teach you.",
     "answers": [
       {
         "text": "Driving",
@@ -4133,7 +4141,7 @@
   {
     "id": "everyday-305",
     "category": "Everyday life",
-    "prompt": "Name a reason a kid wishes they were an only child.",
+    "prompt": "When your siblings get on your nerves, what perk of being an only child do you daydream about?",
     "answers": [
       {
         "text": "Their own bedroom",

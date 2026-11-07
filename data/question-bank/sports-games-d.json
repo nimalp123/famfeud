@@ -2,7 +2,7 @@
   {
     "id": "games-221",
     "category": "Sports & games",
-    "prompt": "Name something people promise themselves when they join a gym in January.",
+    "prompt": "You and a friend sign up for the gym in January. What promise do you make yourselves before the first workout?",
     "answers": [
       {
         "text": "Get stronger",
@@ -54,7 +54,7 @@
   {
     "id": "games-222",
     "category": "Sports & games",
-    "prompt": "Name something someone uses their phone for during a gym session.",
+    "prompt": "Your friend pulls out their phone between sets. What might they be doing that’s actually part of the workout?",
     "answers": [
       {
         "text": "Film a form check",
@@ -109,7 +109,7 @@
   {
     "id": "games-223",
     "category": "Sports & games",
-    "prompt": "Name an excuse someone gives for skipping leg day.",
+    "prompt": "Your gym buddy texts that they’re skipping leg day. What excuse do you expect to see?",
     "answers": [
       {
         "text": "My legs are sore",
@@ -305,7 +305,7 @@
   {
     "id": "games-227",
     "category": "Sports & games",
-    "prompt": "Name something people give up first when trying to get fit.",
+    "prompt": "Your friend announces a new fitness routine in the group chat. What do they swear they’re giving up first?",
     "answers": [
       {
         "text": "Junk food",
@@ -322,9 +322,10 @@
         "points": 24
       },
       {
-        "text": "Alcohol",
+        "text": "Energy drinks",
         "aliases": [
-          "booze"
+          "energy drink",
+          "canned energy drinks"
         ],
         "points": 18
       },
@@ -403,7 +404,7 @@
   {
     "id": "games-229",
     "category": "Sports & games",
-    "prompt": "Name something people buy for exercise and then barely use.",
+    "prompt": "What workout thing would you find at a friend’s place that they bought with big plans and never touch?",
     "answers": [
       {
         "text": "Gym membership",
@@ -452,7 +453,7 @@
   {
     "id": "games-230",
     "category": "Sports & games",
-    "prompt": "Name something a person does differently when their gym crush walks in.",
+    "prompt": "You’re halfway through a normal workout when the person you like walks into the gym. What do you suddenly do differently?",
     "answers": [
       {
         "text": "Fix their hair",
@@ -501,7 +502,7 @@
   {
     "id": "games-231",
     "category": "Sports & games",
-    "prompt": "Name something you would hate to notice in the background of your gym selfie.",
+    "prompt": "You check your gym selfie after taking it and notice something in the background. What makes you delete it?",
     "answers": [
       {
         "text": "Someone looking right at the camera",
@@ -603,7 +604,7 @@
   {
     "id": "games-233",
     "category": "Sports & games",
-    "prompt": "Name something people secretly compete over at the gym.",
+    "prompt": "You say you don’t compete with your workout friend. What are you secretly comparing anyway?",
     "answers": [
       {
         "text": "Weight lifted",
@@ -703,7 +704,7 @@
   {
     "id": "games-235",
     "category": "Sports & games",
-    "prompt": "Name something people do to look busy between sets.",
+    "prompt": "You’ve got a minute left before your next set and you feel awkward doing nothing. What do you do to look busy?",
     "answers": [
       {
         "text": "Check their phone",
@@ -752,7 +753,7 @@
   {
     "id": "games-236",
     "category": "Sports & games",
-    "prompt": "Name something a person blames when their workout goes badly.",
+    "prompt": "You had a terrible session at the gym and your friend asks what happened. What do you blame?",
     "answers": [
       {
         "text": "Lack of sleep",
@@ -899,7 +900,7 @@
   {
     "id": "games-239",
     "category": "Sports & games",
-    "prompt": "Name something people check in the gym mirror besides their muscles.",
+    "prompt": "You catch your friend looking in the gym mirror and they swear they aren’t checking their muscles. What else are they looking at?",
     "answers": [
       {
         "text": "Their hair",
@@ -948,7 +949,7 @@
   {
     "id": "games-240",
     "category": "Sports & games",
-    "prompt": "Name something people do at the gym that makes everyone look over.",
+    "prompt": "You’ve got headphones in at the gym and still notice everybody look up. What just happened?",
     "answers": [
       {
         "text": "Drop a weight",
@@ -1098,7 +1099,7 @@
   {
     "id": "games-243",
     "category": "Sports & games",
-    "prompt": "Name something that ruins the mood during a relaxing yoga class.",
+    "prompt": "You and your friend try a quiet yoga class for the first time. What noise makes it impossible to stay serious?",
     "answers": [
       {
         "text": "A ringing phone",
@@ -1245,7 +1246,7 @@
   {
     "id": "games-246",
     "category": "Sports & games",
-    "prompt": "Name something that can steal the spotlight in a home workout video.",
+    "prompt": "Your friend is filming a home workout in a shared space. What unexpectedly becomes the main thing in the video?",
     "answers": [
       {
         "text": "A pet",
@@ -1397,7 +1398,7 @@
   {
     "id": "games-249",
     "category": "Sports & games",
-    "prompt": "Name something people reward themselves with after one good workout.",
+    "prompt": "You and a friend finish a workout you were both trying to skip. What do you give yourselves as a reward?",
     "answers": [
       {
         "text": "A big meal",
@@ -1449,7 +1450,7 @@
   {
     "id": "games-250",
     "category": "Sports & games",
-    "prompt": "Name something that makes a workout partner hard to put up with.",
+    "prompt": "You finally found someone to go to the gym with. What makes you start wishing you’d just gone alone?",
     "answers": [
       {
         "text": "Always being late",
@@ -1498,7 +1499,7 @@
   {
     "id": "games-251",
     "category": "Sports & games",
-    "prompt": "Name something workout buddies argue about.",
+    "prompt": "You and your friend agree to work out together. What can’t you agree on once it’s time to go?",
     "answers": [
       {
         "text": "What time to go",
@@ -1596,7 +1597,7 @@
   {
     "id": "games-253",
     "category": "Sports & games",
-    "prompt": "Name something you might say when your friend suggests a workout at sunrise.",
+    "prompt": "Your friend sends a “gym at sunrise?” text. What’s your immediate reply?",
     "answers": [
       {
         "text": "No thanks",
@@ -1645,7 +1646,7 @@
   {
     "id": "games-254",
     "category": "Sports & games",
-    "prompt": "Name an everyday activity people turn into a workout.",
+    "prompt": "What ordinary part of your day feels like enough of a workout that you’d almost count it?",
     "answers": [
       {
         "text": "Walking somewhere",
@@ -1696,7 +1697,7 @@
   {
     "id": "games-255",
     "category": "Sports & games",
-    "prompt": "Name something people share to prove they worked out.",
+    "prompt": "A friend sends proof that they actually did the workout they’ve been talking about. What do they share?",
     "answers": [
       {
         "text": "A screenshot of the workout app",
@@ -1796,7 +1797,7 @@
   {
     "id": "games-257",
     "category": "Sports & games",
-    "prompt": "Name something that makes people regret choosing the advanced exercise class.",
+    "prompt": "Your friend talked you into the advanced class and you realize within minutes it was a mistake. What gives it away?",
     "answers": [
       {
         "text": "The warm-up is hard",
@@ -1845,7 +1846,7 @@
   {
     "id": "games-258",
     "category": "Sports & games",
-    "prompt": "Name something people do when they lose their place in a dance workout.",
+    "prompt": "You lose the steps in a dance workout and the instructor’s facing the other way. What do you do to get back on track?",
     "answers": [
       {
         "text": "Watch the instructor",
@@ -2041,7 +2042,7 @@
   {
     "id": "games-262",
     "category": "Sports & games",
-    "prompt": "Name something that distracts runners from how tired they are.",
+    "prompt": "You’re running with a friend and can’t admit how tired you are yet. What keeps your mind off it?",
     "answers": [
       {
         "text": "Music",
@@ -2139,7 +2140,7 @@
   {
     "id": "games-264",
     "category": "Sports & games",
-    "prompt": "Name something someone exaggerates about their morning run.",
+    "prompt": "Your friend describes their morning run later in the group chat. What detail might they be making sound more impressive?",
     "answers": [
       {
         "text": "How far they ran",
@@ -2188,7 +2189,7 @@
   {
     "id": "games-265",
     "category": "Sports & games",
-    "prompt": "Name something a person checks immediately after finishing a run.",
+    "prompt": "Your run just ended and you pull out your phone or check your watch. What’s the first thing you look at?",
     "answers": [
       {
         "text": "Their time",
@@ -2286,7 +2287,7 @@
   {
     "id": "games-267",
     "category": "Sports & games",
-    "prompt": "Name a reason people sign up for a race they have no hope of winning.",
+    "prompt": "Your friend asks why you registered for a race you have zero chance of winning. What’s your real reason for going?",
     "answers": [
       {
         "text": "Go with friends",
@@ -2338,7 +2339,7 @@
   {
     "id": "games-268",
     "category": "Sports & games",
-    "prompt": "Name something a person realizes they forgot halfway through a workout.",
+    "prompt": "You finally start your workout and realize you left something at home. What is it?",
     "answers": [
       {
         "text": "Water",
@@ -2389,7 +2390,7 @@
   {
     "id": "games-269",
     "category": "Sports & games",
-    "prompt": "Name something people use as proof that their exercise tracker is wrong.",
+    "prompt": "Your step count looks impossible compared to your friend’s. What might you point to as proof your tracker is wrong?",
     "answers": [
       {
         "text": "They are sweating",
@@ -2438,7 +2439,7 @@
   {
     "id": "games-270",
     "category": "Sports & games",
-    "prompt": "Name something people do to squeeze in a few extra steps before bedtime.",
+    "prompt": "Your watch says you’re just short of your step goal and it’s almost bedtime. How might you get the rest of the steps?",
     "answers": [
       {
         "text": "Pace around the room",
@@ -2586,7 +2587,7 @@
   {
     "id": "games-273",
     "category": "Sports & games",
-    "prompt": "Name something at a rec center people like more than the workout.",
+    "prompt": "What part of a trip to the rec center do you look forward to more than actually exercising?",
     "answers": [
       {
         "text": "Seeing their friends",
@@ -2685,7 +2686,7 @@
   {
     "id": "games-275",
     "category": "Sports & games",
-    "prompt": "Name something a person asks before trying an unfamiliar exercise class.",
+    "prompt": "Your friend invites you to try a workout class you’ve never heard of. What do you ask before saying yes?",
     "answers": [
       {
         "text": "How hard is it",
@@ -2783,7 +2784,7 @@
   {
     "id": "games-277",
     "category": "Sports & games",
-    "prompt": "Name something people do during a fitness class that they think the instructor cannot see.",
+    "prompt": "You’re trying to make it through a group workout without the instructor noticing you’re struggling. What might you do on the sly?",
     "answers": [
       {
         "text": "Skip repetitions",
@@ -2881,7 +2882,7 @@
   {
     "id": "games-279",
     "category": "Sports & games",
-    "prompt": "Name something people immediately question after agreeing to a hiking trip.",
+    "prompt": "You already told the group chat you’re in for the hike. What important thing do you only think to ask after saying yes?",
     "answers": [
       {
         "text": "How far is it",
@@ -3031,7 +3032,7 @@
   {
     "id": "games-282",
     "category": "Sports & games",
-    "prompt": "Name something a person does right after falling over in public during exercise.",
+    "prompt": "You trip while exercising where other people can see you. What do you do the second you realize everyone looked over?",
     "answers": [
       {
         "text": "Looks around",
@@ -3080,7 +3081,7 @@
   {
     "id": "games-283",
     "category": "Sports & games",
-    "prompt": "Name something a beginner at bowling hopes nobody notices.",
+    "prompt": "Your friends invite you bowling and it’s your first time. What are you really hoping they don’t notice?",
     "answers": [
       {
         "text": "They use the bumpers",
@@ -3129,7 +3130,7 @@
   {
     "id": "games-284",
     "category": "Sports & games",
-    "prompt": "Name something people blame for losing at mini-golf.",
+    "prompt": "Your group keeps score at mini-golf and you come in last. What do you blame on the walk back?",
     "answers": [
       {
         "text": "The course",
@@ -3276,7 +3277,7 @@
   {
     "id": "games-287",
     "category": "Sports & games",
-    "prompt": "Name something a friend says before taking a sport much too seriously.",
+    "prompt": "Your friend shows up for what was meant to be a low-key pickup game. What do they say that hints they’re going to take it personally?",
     "answers": [
       {
         "text": "I used to play",
@@ -3325,7 +3326,7 @@
   {
     "id": "games-288",
     "category": "Sports & games",
-    "prompt": "Name something that makes a friendly sports match suddenly competitive.",
+    "prompt": "You’re playing pickup and nobody cared about the result a minute ago. What makes everybody start trying way harder?",
     "answers": [
       {
         "text": "Keeping score",
@@ -3374,7 +3375,7 @@
   {
     "id": "games-289",
     "category": "Sports & games",
-    "prompt": "Name something people might agree on before playing sports with friends.",
+    "prompt": "What do you and your friends have to settle before a pickup game so nobody argues halfway through?",
     "answers": [
       {
         "text": "The teams",
@@ -3423,7 +3424,7 @@
   {
     "id": "games-290",
     "category": "Sports & games",
-    "prompt": "Name a reason someone volunteers to keep score instead of playing.",
+    "prompt": "You want to hang out at the game without getting put on a team. Why might you offer to keep score instead?",
     "answers": [
       {
         "text": "Avoid exercise",
@@ -3521,7 +3522,7 @@
   {
     "id": "games-292",
     "category": "Sports & games",
-    "prompt": "Name something people do to hide how nervous they are before trying a new sport.",
+    "prompt": "You said yes to a game you’ve never played and the experienced people are already warming up. What do you do to look less nervous?",
     "answers": [
       {
         "text": "Make jokes",
@@ -3619,7 +3620,7 @@
   {
     "id": "games-294",
     "category": "Sports & games",
-    "prompt": "Name something people do to avoid being picked last for a casual team.",
+    "prompt": "You know the pickup captains are about to choose teams. What might you do to avoid being the last person left?",
     "answers": [
       {
         "text": "Stand beside a captain",
@@ -3717,7 +3718,7 @@
   {
     "id": "games-296",
     "category": "Sports & games",
-    "prompt": "Name something an overconfident friend expects when joining your sports team.",
+    "prompt": "A friend who keeps saying they’re really good joins your rec team. What do they assume they’ll get without even asking?",
     "answers": [
       {
         "text": "To be captain",
@@ -3766,7 +3767,7 @@
   {
     "id": "games-297",
     "category": "Sports & games",
-    "prompt": "Name something a friend might do that makes you stop passing them the ball.",
+    "prompt": "You always pass to your friend at first. What do they do that makes you pass to anybody else instead?",
     "answers": [
       {
         "text": "Never passes back",
@@ -3864,7 +3865,7 @@
   {
     "id": "games-299",
     "category": "Sports & games",
-    "prompt": "Name something that turns a fun bike ride into a miserable one.",
+    "prompt": "You and your friends planned an easy bike ride. What turns it into the kind of outing nobody wants to do again?",
     "answers": [
       {
         "text": "A flat tire",
@@ -3913,7 +3914,7 @@
   {
     "id": "games-300",
     "category": "Sports & games",
-    "prompt": "Name something people do when they realize their group ride is too fast for them.",
+    "prompt": "You realize your friends set a pace on a bike ride that you can’t keep up with. What’s your next move?",
     "answers": [
       {
         "text": "Ask them to slow down",
@@ -4011,7 +4012,7 @@
   {
     "id": "games-302",
     "category": "Sports & games",
-    "prompt": "Name something adults do in a pool that makes them feel like children again.",
+    "prompt": "You and your friends go to the pool to cool off. What do you start doing that feels like being a kid again?",
     "answers": [
       {
         "text": "Splash each other",
@@ -4109,7 +4110,7 @@
   {
     "id": "games-304",
     "category": "Sports & games",
-    "prompt": "Name something people do to look brave before jumping into a pool.",
+    "prompt": "Your friends are waiting for you to jump into the cold pool. How do you act like you’re less nervous than you are?",
     "answers": [
       {
         "text": "Take a running start",
@@ -4207,7 +4208,7 @@
   {
     "id": "games-306",
     "category": "Sports & games",
-    "prompt": "Name something a person grabs when they start losing their balance on skates.",
+    "prompt": "Your friends get you to try skating and you realize you can’t stop. What might you grab to stay up?",
     "answers": [
       {
         "text": "A friend",
@@ -4305,7 +4306,7 @@
   {
     "id": "games-308",
     "category": "Sports & games",
-    "prompt": "Name something that makes people regret bragging about their fitness.",
+    "prompt": "You casually tell the group chat you’re in great shape. What real-life task makes you immediately want to take that back?",
     "answers": [
       {
         "text": "A flight of stairs",
@@ -4354,7 +4355,7 @@
   {
     "id": "games-309",
     "category": "Sports & games",
-    "prompt": "Name a reason people keep going back to an exercise class they complain about.",
+    "prompt": "You complain about the exercise class to your friends every week. What’s the reason you keep going back?",
     "answers": [
       {
         "text": "They like the results",

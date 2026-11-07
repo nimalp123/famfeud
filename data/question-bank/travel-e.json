@@ -2,7 +2,7 @@
   {
     "id": "travel-311",
     "category": "Travel & places",
-    "prompt": "Name something that can ruin a perfect afternoon at the beach.",
+    "prompt": "You finally find a free afternoon to go to the beach with friends. What ruins it?",
     "answers": [
       {
         "text": "Sunburn",
@@ -102,7 +102,7 @@
   {
     "id": "travel-313",
     "category": "Travel & places",
-    "prompt": "Name something that makes someone look like a first-time beach tourist.",
+    "prompt": "One friend says they've been to the beach a ton. What gives away that they have no idea what they're doing?",
     "answers": [
       {
         "text": "Bad sunburn",
@@ -200,7 +200,7 @@
   {
     "id": "travel-315",
     "category": "Travel & places",
-    "prompt": "Name something that makes a beach date less romantic than the movies.",
+    "prompt": "You pitch a cute beach date on a budget. What makes it a lot less cute in real life?",
     "answers": [
       {
         "text": "Sand in your mouth",
@@ -249,7 +249,7 @@
   {
     "id": "travel-316",
     "category": "Travel & places",
-    "prompt": "Name something one friend insists on bringing to the beach that annoys everyone else.",
+    "prompt": "Everyone agreed to pack light for a beach day. What does the one friend who didn't listen show up with?",
     "answers": [
       {
         "text": "Loud speaker",
@@ -596,7 +596,7 @@
   {
     "id": "travel-323",
     "category": "Travel & places",
-    "prompt": "Name something a stranger does at the beach that makes you move your towel.",
+    "prompt": "You and your friends finally claim a spot on a crowded beach. What does a stranger do that makes you all move?",
     "answers": [
       {
         "text": "Plays loud music",
@@ -792,7 +792,7 @@
   {
     "id": "travel-327",
     "category": "Travel & places",
-    "prompt": "Name one comfort you might pay extra for on a budget camping trip.",
+    "prompt": "Your friends pitch camping because it's cheap. What comfort do you insist on having anyway?",
     "answers": [
       {
         "text": "Real bed",
@@ -841,7 +841,7 @@
   {
     "id": "travel-328",
     "category": "Travel & places",
-    "prompt": "Name something that gives away a person who has never been camping.",
+    "prompt": "It's your friend's first night camping. What do they do that tells the whole group right away?",
     "answers": [
       {
         "text": "Can't pitch a tent",
@@ -890,7 +890,7 @@
   {
     "id": "travel-329",
     "category": "Travel & places",
-    "prompt": "Name something you especially regret forgetting when it's bedtime at the campsite.",
+    "prompt": "It’s getting dark at the campsite and you realize you left something at home. What do you really need now?",
     "answers": [
       {
         "text": "Sleeping bag",
@@ -1236,7 +1236,7 @@
   {
     "id": "travel-336",
     "category": "Travel & places",
-    "prompt": "Name a complaint a child makes ten minutes into a camping trip.",
+    "prompt": "You aren't even done setting up camp. What's the first complaint the friend who didn't want to come makes?",
     "answers": [
       {
         "text": "I'm bored",
@@ -1285,7 +1285,7 @@
   {
     "id": "travel-337",
     "category": "Travel & places",
-    "prompt": "Name something you don't want someone bringing into your tent.",
+    "prompt": "Your friends decide to hang out in your tent. What do you tell them to leave outside?",
     "answers": [
       {
         "text": "Muddy shoes",
@@ -1531,7 +1531,7 @@
   {
     "id": "travel-342",
     "category": "Travel & places",
-    "prompt": "Name an excuse someone gives to get out of a camping invitation.",
+    "prompt": "A friend tries to get you to go camping for the weekend. What's your best excuse to stay home?",
     "answers": [
       {
         "text": "Can't sleep outside",
@@ -1580,7 +1580,7 @@
   {
     "id": "travel-343",
     "category": "Travel & places",
-    "prompt": "Name something that makes campers pack up earlier than planned.",
+    "prompt": "You were supposed to camp for two nights. What makes everybody agree to go home after one?",
     "answers": [
       {
         "text": "Heavy rain",
@@ -1678,7 +1678,7 @@
   {
     "id": "travel-345",
     "category": "Travel & places",
-    "prompt": "Name something that interrupts a peaceful moment looking at the stars.",
+    "prompt": "You took everyone somewhere dark to see the stars. What interrupts the nice quiet moment?",
     "answers": [
       {
         "text": "Mosquito bite",
@@ -1727,7 +1727,7 @@
   {
     "id": "travel-346",
     "category": "Travel & places",
-    "prompt": "Name something tourists do to get a photo that annoys everybody nearby.",
+    "prompt": "What's something people do to get a photo at a crowded spot that makes everyone else roll their eyes?",
     "answers": [
       {
         "text": "Block the walkway",
@@ -1776,7 +1776,7 @@
   {
     "id": "travel-347",
     "category": "Travel & places",
-    "prompt": "Name something that makes you leave an attraction before going inside.",
+    "prompt": "You finally get to the attraction everyone picked. What makes your group turn around before going in?",
     "answers": [
       {
         "text": "Long line",
@@ -1825,7 +1825,7 @@
   {
     "id": "travel-348",
     "category": "Travel & places",
-    "prompt": "Name a question a tour guide is probably tired of hearing.",
+    "prompt": "You're halfway through a school trip tour. What question has the guide already heard from five different people?",
     "answers": [
       {
         "text": "Where's the bathroom",
@@ -1923,7 +1923,7 @@
   {
     "id": "travel-350",
     "category": "Travel & places",
-    "prompt": "Name a tactic tourists use when bargaining at a market.",
+    "prompt": "You're at a street market with just a little spending money. How do you try to get the price down?",
     "answers": [
       {
         "text": "Pretend to walk away",
@@ -1972,7 +1972,7 @@
   {
     "id": "travel-351",
     "category": "Travel & places",
-    "prompt": "Name a way someone pretends to be interested on a tour they're bored by.",
+    "prompt": "Your friends wanted to take the tour and you didn't. What do you do so they think you're having a good time?",
     "answers": [
       {
         "text": "Nods",
@@ -2070,7 +2070,7 @@
   {
     "id": "travel-353",
     "category": "Travel & places",
-    "prompt": "Name something a tourist might realize is fake only after paying for it.",
+    "prompt": "Someone sells you a “great deal” while you're out of town. What might you find out was fake after paying?",
     "answers": [
       {
         "text": "Designer bag",
@@ -2217,7 +2217,7 @@
   {
     "id": "travel-356",
     "category": "Travel & places",
-    "prompt": "Name something that makes it hard to look cool while sightseeing.",
+    "prompt": "You wore an outfit to look good on a day out, but now you're walking around for hours. What makes looking cool impossible?",
     "answers": [
       {
         "text": "Sweating",
@@ -2413,7 +2413,7 @@
   {
     "id": "travel-360",
     "category": "Travel & places",
-    "prompt": "Name something people pay extra for just to make a theme park day less miserable.",
+    "prompt": "You already stretched your budget to get into the theme park. What would you still pay extra for to make the day better?",
     "answers": [
       {
         "text": "Skip the lines",
@@ -2462,7 +2462,7 @@
   {
     "id": "travel-361",
     "category": "Travel & places",
-    "prompt": "Name something you expect a famous landmark to be until you see it in person.",
+    "prompt": "You finally see a famous spot you've watched a hundred videos of. What was different in your head?",
     "answers": [
       {
         "text": "Bigger",
@@ -2707,7 +2707,7 @@
   {
     "id": "travel-366",
     "category": "Travel & places",
-    "prompt": "Name something that makes tourists forget their budget in a market.",
+    "prompt": "You told your friends you were only looking around the market. What makes you forget your budget and buy something?",
     "answers": [
       {
         "text": "Discount sign",
@@ -2756,7 +2756,7 @@
   {
     "id": "travel-367",
     "category": "Travel & places",
-    "prompt": "Name a vacation gift that might make the recipient secretly groan.",
+    "prompt": "Your friend says they brought you something back. What souvenir makes you have to fake being excited?",
     "answers": [
       {
         "text": "Noisy toy",
@@ -2854,7 +2854,7 @@
   {
     "id": "travel-369",
     "category": "Travel & places",
-    "prompt": "Name a souvenir you might buy for someone you barely know.",
+    "prompt": "You're heading home and realize you forgot to get a gift for someone you barely know. What do you grab?",
     "answers": [
       {
         "text": "Magnet",
@@ -3052,7 +3052,7 @@
   {
     "id": "travel-373",
     "category": "Travel & places",
-    "prompt": "Name something someone does while telling vacation stories that bores their friends.",
+    "prompt": "Your friend gets back from a trip and everybody asks how it went. What makes the story go from interesting to way too long?",
     "answers": [
       {
         "text": "Shows too many photos",
@@ -3297,7 +3297,7 @@
   {
     "id": "travel-378",
     "category": "Travel & places",
-    "prompt": "Name something people try to fix just before a group vacation photo.",
+    "prompt": "The friend holding the camera says “three, two, one.” What do you try to fix before they take the picture?",
     "answers": [
       {
         "text": "Hair",
@@ -3444,7 +3444,7 @@
   {
     "id": "travel-381",
     "category": "Travel & places",
-    "prompt": "If money were no object, name a trip people would book immediately.",
+    "prompt": "If somebody gave your group enough money for one huge trip, what would you ask them to book?",
     "answers": [
       {
         "text": "A trip around the world",
@@ -3591,7 +3591,7 @@
   {
     "id": "travel-384",
     "category": "Travel & places",
-    "prompt": "Name something that makes you forget you're supposed to be on vacation.",
+    "prompt": "You told everyone you were going to switch off for the weekend. What pulls you right back into normal life?",
     "answers": [
       {
         "text": "School or work notifications",
@@ -3739,7 +3739,7 @@
   {
     "id": "travel-387",
     "category": "Travel & places",
-    "prompt": "Name a secret reason someone might be especially keen to visit a particular place.",
+    "prompt": "Your friend is pushing way too hard for one specific place to go. What's the reason they aren't telling the group?",
     "answers": [
       {
         "text": "A crush lives there",
@@ -3837,7 +3837,7 @@
   {
     "id": "travel-389",
     "category": "Travel & places",
-    "prompt": "Name something people can't stop checking even while on vacation.",
+    "prompt": "You promised you'd unplug for a few days. What's the thing you still can't stop checking?",
     "answers": [
       {
         "text": "Social media",
@@ -4082,7 +4082,7 @@
   {
     "id": "travel-394",
     "category": "Travel & places",
-    "prompt": "Name a vacation brag that makes everyone else roll their eyes.",
+    "prompt": "What's something a friend brags about after a trip that makes everybody else roll their eyes?",
     "answers": [
       {
         "text": "How expensive it was",
@@ -4131,7 +4131,7 @@
   {
     "id": "travel-395",
     "category": "Travel & places",
-    "prompt": "Name something that could tempt a beach lover to choose a city vacation instead.",
+    "prompt": "Your friends want a beach weekend. What could make the group choose a city trip instead?",
     "answers": [
       {
         "text": "Great food",
