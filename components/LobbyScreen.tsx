@@ -61,6 +61,23 @@ export default function LobbyScreen({ room, session, onAction, onLeave, busy, er
   else if (!validTeams) startHint = "Give both teams a player and keep the teams balanced.";
   else if (!allReady) startHint = "Waiting for everyone to ready up.";
 
+  const startPanel = (
+    <div className={`lobby-start-panel ${generating ? "is-generating" : ""}`}>
+      <div>
+        {generating ? <Sparkles size={24} className="lobby-generating-icon" /> : <Zap size={24} />}
+        <span>
+          <strong>{generating ? "Getting your game ready…" : isHost ? "All eyes on you, host." : "The host will kick things off."}</strong>
+          <small>{generating ? "Your questions and answer boards are on their way." : startHint}</small>
+        </span>
+      </div>
+      {isHost && (
+        <button className="button button-primary" type="button" disabled={busy || generating || !canStart} onClick={() => void onAction({ type: "start" })}>
+          {generating ? "Getting ready…" : "Start the showdown"}<ArrowRight size={19} />
+        </button>
+      )}
+    </div>
+  );
+
   return <main className="lobby-page">
     <div className="lobby-page-heading"><div><div className="lobby-eyebrow"><span className="home-live-dot" /> PRE-GAME HANGOUT</div><h1>Your people. Your showdown.</h1><p>{generating ? "Picking questions from the bank…" : "Claim a seat, warm up your guesses, and get everyone ready."}</p></div><button className="button button-ghost lobby-leave" type="button" onClick={() => void onLeave()} disabled={busy || generating}><LogOut size={16} /> Leave lobby</button></div>
 
@@ -68,13 +85,15 @@ export default function LobbyScreen({ room, session, onAction, onLeave, busy, er
       <div className="lobby-main-column">
         <section className="lobby-invite panel" aria-labelledby="lobby-invite-heading"><div className="lobby-invite-top"><div><span className="lobby-label">THE SECRET HANDSHAKE</span><h2 id="lobby-invite-heading">Share your lobby code.</h2></div><span className="badge">{room.isPublic ? <><Globe2 size={13} /> PUBLIC LOBBY</> : <><LockKeyhole size={13} /> FRIENDS ONLY</>}</span></div><div className="lobby-code-row"><span className="lobby-code" aria-label={`Lobby code ${room.code}`}>{room.code}</span><button className="button button-secondary" onClick={() => void copy("code")} type="button">{copied === "code" ? <Check size={16} /> : <Copy size={16} />}{copied === "code" ? "Copied!" : "Copy code"}</button><button className="button button-secondary lobby-copy-link" onClick={() => void copy("link")} type="button">{copied === "link" ? <Check size={16} /> : <Link size={16} />}{copied === "link" ? "Link copied!" : "Invite link"}</button></div><p>Friends can enter this code on the home screen to join you.</p>{copyError && <p className="lobby-copy-error" role="status">{copyError}</p>}</section>
 
+        {(error || room.error) && <div className="lobby-error" role="alert">{error || room.error}</div>}
+        {isHost && startPanel}
+
         <section className="lobby-players-section panel" aria-labelledby="lobby-players-heading"><div className="lobby-section-header"><h2 id="lobby-players-heading"><Users size={20} /> The competition</h2><span>{room.players.length}<span className="lobby-count-muted"> / {room.settings.maxPlayers} players</span></span></div>
-          {room.settings.mode === "teams" ? <div className="lobby-team-grid">{teamColumn(0, blue, "Blue team")}{teamColumn(1, coral, "Orange team")}</div> : <div className="lobby-player-list">{room.players.map(playerRow)}{Array.from({ length: Math.max(0, Math.min(room.settings.maxPlayers - room.players.length, 4)) }, (_, index) => <div className="lobby-empty-seat" key={index}><span className="lobby-empty-avatar">+</span><span>Your next rival could be here</span></div>)}</div>}
           <div className="lobby-ready-actions"><div><strong>{me?.ready ? "You’re all set." : "Ready to play?"}</strong><p>{me?.ready ? "Your best guesses are about to get their moment." : "Let everyone know you’re good to go."}</p></div><button className={`button ${me?.ready ? "button-secondary" : "button-primary"}`} type="button" disabled={busy || generating || !me} onClick={() => void onAction({ type: "ready", ready: !me?.ready })}>{me?.ready ? <><Check size={17} /> I’m ready</> : "Ready up"}</button></div>
+          {room.settings.mode === "teams" ? <div className="lobby-team-grid">{teamColumn(0, blue, "Blue team")}{teamColumn(1, coral, "Orange team")}</div> : <div className="lobby-player-list">{room.players.map(playerRow)}{Array.from({ length: Math.max(0, Math.min(room.settings.maxPlayers - room.players.length, 4)) }, (_, index) => <div className="lobby-empty-seat" key={index}><span className="lobby-empty-avatar">+</span><span>Your next rival could be here</span></div>)}</div>}
         </section>
 
-        {(error || room.error) && <div className="lobby-error" role="alert">{error || room.error}</div>}
-        <div className={`lobby-start-panel ${generating ? "is-generating" : ""}`}><div>{generating ? <Sparkles size={24} className="lobby-generating-icon" /> : <Zap size={24} />}<span><strong>{generating ? "Getting your game ready…" : isHost ? "All eyes on you, host." : "The host will kick things off."}</strong><small>{generating ? "Your questions and answer boards are on their way." : startHint}</small></span></div>{isHost && <button className="button button-primary" type="button" disabled={busy || generating || !canStart} onClick={() => void onAction({ type: "start" })}>{generating ? "Getting ready…" : "Start the showdown"}<ArrowRight size={19} /></button>}</div>
+        {!isHost && startPanel}
       </div>
 
       <aside className="lobby-sidebar">
