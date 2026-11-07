@@ -1,4 +1,7 @@
 import type { NextConfig } from "next";
+import { validateRoomBaseUrl } from "./lib/room-url.ts";
+
+validateRoomBaseUrl(process.env.NEXT_PUBLIC_ROOM_BASE_URL);
 
 const nextConfig: NextConfig = {
   webpack(config) {

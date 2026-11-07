@@ -1,0 +1,61 @@
+name: Check and deploy
+
+on:
+  push:
+    branches: [main, staging]
+  pull_request:
+    branches: [main, staging]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      sha: ${{ steps.source.outputs.sha }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build:vercel
+      - run: npm run typecheck
+      - run: npm test
+      - id: source
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    if: github.event_name != 'pull_request' && (github.ref_name == 'main' || github.ref_name == 'staging')
+    needs: checks
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    concurrency:
+      group: feud-insforge-${{ github.ref_name }}
+      cancel-in-progress: false
+    environment:
+      name: ${{ github.ref_name == 'main' && 'production' || 'staging' }}
+      url: ${{ steps.deploy.outputs.url }}
+    env:
+      INSFORGE_URL: ${{ secrets.INSFORGE_URL }}
+      INSFORGE_API_KEY: ${{ secrets.INSFORGE_API_KEY }}
+      INSFORGE_PROJECT_ID: ${{ vars.INSFORGE_PROJECT_ID }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.checks.outputs.sha }}
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - id: deploy
+        run: node scripts/deploy-insforge.mjs --checked-sha "${{ needs.checks.outputs.sha }}"

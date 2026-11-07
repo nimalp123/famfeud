@@ -4,11 +4,13 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { Sparkles, Radio, ArrowUpRight, WifiOff } from "lucide-react";
 import { api, ApiError, clearSession, readSession, requestedRoom, saveSession } from "../lib/client";
 import { QUESTION_BANK_COUNT } from "../lib/constants";
+import { isLegacySeatMigration, migrationParentOrigin, receivedMigrationSession } from "../lib/seat-migration";
 import type { ApiSessionResponse, ClientAction, PublicRoom, RoomSettings, RoomView, Session } from "../lib/types";
 import HomeScreen from "./HomeScreen";
 import LobbyScreen from "./LobbyScreen";
 import MatchScreen from "./MatchScreen";
 import ResultsScreen from "./ResultsScreen";
+import LegacySeatBridge from "./LegacySeatBridge";
 
 function setRoomInAddress(code: string | null) {
   const url = new URL(window.location.href);
@@ -26,18 +28,44 @@ export default function GameApp() {
   const [error, setError] = useState<string | null>(null);
   const [connectionLost, setConnectionLost] = useState(false);
   const [initialized, setInitialized] = useState(false);
+  const [legacyBridge, setLegacyBridge] = useState(false);
   const currentSession = useRef<Session | null>(null);
-  currentSession.current = session;
+
+  useEffect(() => {
+    currentSession.current = session;
+  }, [session]);
 
   const updateRoom = useCallback((next: RoomView) => {
     setRoom((previous) => !previous || previous.code !== next.code || next.revision >= previous.revision ? next : previous);
   }, []);
 
   useEffect(() => {
+    if (isLegacySeatMigration(window.location.origin, window.location.search)) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- Origin and saved seats are available only after browser hydration.
+      setLegacyBridge(true);
+      return;
+    }
     setSession(readSession(requestedRoom(window.location.search)));
     setInitialized(true);
     api.health().then((data) => setQuestionCount(data.questionCount)).catch(() => {});
   }, []);
+
+  useEffect(() => {
+    const parentOrigin = migrationParentOrigin(document.referrer);
+    if (!initialized || window.parent === window || !parentOrigin) return;
+    const receiveSeat = (event: MessageEvent) => {
+      const restored = receivedMigrationSession(event, window.parent, requestedRoom(window.location.search), currentSession.current);
+      if (!restored) return;
+      currentSession.current = restored;
+      setSession(restored);
+      setError(null);
+      setConnectionLost(false);
+      window.parent.postMessage({ type: "feud:seat-received", code: restored.code }, parentOrigin);
+    };
+    window.addEventListener("message", receiveSeat);
+    window.parent.postMessage({ type: "feud:seat-ready" }, parentOrigin);
+    return () => window.removeEventListener("message", receiveSeat);
+  }, [initialized, session]);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -139,6 +167,8 @@ export default function GameApp() {
     setRoomInAddress(null);
     setSession(null); setRoom(null); setConnectionLost(false);
   };
+
+  if (legacyBridge) return <LegacySeatBridge />;
 
   return (
     <div className="app-shell">
