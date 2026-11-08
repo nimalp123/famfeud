@@ -25,6 +25,20 @@ npm run dev
 
 Use separate browser profiles for separate players. A room link contains its six-character code. Reopen it in the same browser profile to recover your saved seat after a refresh, closed tab, or connection drop. A shared room link never includes your player credential.
 
+## Codex Cloud
+
+The intended private Cloud work environment is `famfeud`, containing both `nimalp123/famfeud` and the private `nimalp123/nimz-lifebase` repository as sibling checkouts. Locate the actual private checkout, read its `AGENTS.md` and referenced session protocol in place, and keep its private content out of this public repository. Configure Node.js 24 and run `npm ci` from the game checkout. Development and tests need no production credentials. Run the same checks as CI:
+
+```sh
+npm run build:vercel
+npm run typecheck
+npm test
+```
+
+For a playable local backend, use the local development sequence above: build Vinext, apply the four migrations to local D1, and run `npm run dev`. Keep Cloud work on task branches; pushing `main` or `staging` invokes the deployment workflow.
+
+Start every task with the Lifebase context protocol for exact query `project:famfeud` and `max_chars: 262144`, following [AGENTS.md](AGENTS.md). Use the exposed connector when available; otherwise follow the private checkout's README and `skills/lifebase-context` Git-only fallback. Preserve the actual pinned commit, `portable-as-of` boundary and coverage; newer unpublished work remains unknown. Report an incomplete Lifebase start only when neither supported context path succeeds. Scoped milestone records, final handoffs and readback must state their actual persistence boundary; Cloud-local writes do not imply Mac synchronization. Keep private Lifebase material in its private checkout, outside public game history. Do not add production keys to Cloud development.
+
 ## Stored question bank
 
 The game uses 2,000 authored survey-style rounds stored in InsForge Postgres, with an optional Cloudflare D1 fallback. Each has six ranked answers with spelling and synonym aliases, for 12,000 answers total. The five categories have 400 rounds each. “Anything goes” mixes all 2,000. The shared public counts live in `lib/constants.ts`; the client only imports that metadata.
